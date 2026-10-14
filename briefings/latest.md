@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-14T08:58:08+00:00_
+_Generiert: 2026-10-14T09:12:25+00:00_
 
 ## Kurzlage
 
-45 neue relevante Treffer. Stärkstes Signal: „vercel-labs/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
+47 neue relevante Treffer. Stärkstes Signal: „vercel-labs/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -210,6 +210,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-14 03:11:09 UTC 2026-10-14 03:11:09 UTC at epicenter Location 20.355°S 70.270°W Depth 44.91 km (27.91 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **互動資通｜TeamPlus Messenger - 存在2個漏洞** — Score 11, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11270-88d86-1.html)
+  - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
+  - Zeit: published `2026-10-14T02:09:00+00:00`, fetched `2026-10-14T09:11:55+00:00`
+  - Treffer: Security, TVN, TWCERT
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)
+  - Kurz: 互動資通｜TeamPlus Messenger - 存在2個漏洞
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.0 - 95 km NNW of Coquimbo, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26f)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-14T01:06:37.971+00:00`, fetched `2026-10-14T01:13:49+00:00`
@@ -291,15 +300,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); macro (+2.5); recent (+1.0)
   - Kurz: Introduction by Ms Clara Raposo, Vice-Governor of the Banco de Portugal, to the panel “Financial risks and macroprudential policy”, at the Banco de Portugal’s Conference on the Main Findings of Portugal's Financial Sector Assessment Program (FSAP), Lisbon, 22 September 2026.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Patchday: Attacken auf verschiedene Windows-Versionen beobachtet** — Score 7, observation — [Quelle](https://www.heise.de/news/Patchday-Attacken-auf-verschiedene-Windows-Versionen-beobachtet-11487264.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-10-14T06:59:00.000+00:00`, fetched `2026-10-14T07:27:10+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Microsoft hat mehr als 1400 Sicherheitslücken in Windows, Office & Co. geschlossen. Es laufen bereits Attacken.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 

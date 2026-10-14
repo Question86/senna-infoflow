@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T08:58:08+00:00",
-  "run_id": "2026-10-14T08:58:08+00:00",
+  "generated_at": "2026-10-14T09:12:25+00:00",
+  "run_id": "2026-10-14T09:12:25+00:00",
   "date": "2026-10-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 45
+      "configured_public_sources_only": 47
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 45,
-    "displayed_findings": 45,
+    "new_relevant_findings": 2,
+    "today_file_total": 47,
+    "displayed_findings": 47,
     "high": 0,
     "medium": 15,
-    "observe": 30,
+    "observe": 32,
     "source_errors": 0
   },
   "sections": {
@@ -516,6 +516,28 @@
           "LOW"
         ],
         "id": "0771aaf0bb45a2ded055"
+      },
+      {
+        "title": "互動資通｜TeamPlus Messenger - 存在2個漏洞",
+        "url": "https://www.twcert.org.tw/tw/cp-132-11270-88d86-1.html",
+        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+        "source_type": "rss",
+        "published_at": "2026-10-14T02:09:00+00:00",
+        "fetched_at": "2026-10-14T09:11:55+00:00",
+        "summary": "互動資通｜TeamPlus Messenger - 存在2個漏洞",
+        "matched_keywords": [
+          "Security",
+          "TVN",
+          "TWCERT"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "af0fd6400bd50d7aa2c5"
       },
       {
         "title": "M 5.0 - 95 km NNW of Coquimbo, Chile",
@@ -1058,6 +1080,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "adc1064e5a86eb085494"
+      },
+      {
+        "title": "AnthropicがGit代替のバージョン管理システム「Scion」を開発し社内移行済み、AIでコードが爆増してGitの限界に達したので耐えられるシステムを開発",
+        "url": "https://gigazine.net/news/20261014-anthropic-scion-version-control-system/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-14T04:36:13+00:00",
+        "fetched_at": "2026-10-14T09:11:55+00:00",
+        "summary": "Claudeの開発元として知られるAI企業のAnthropicが、Gitの代わりとなるバージョン管理システム「Scion」を開発したことを発表しました。ScionはAnthropicの社内システムとして運用されており、すでにGitからの移行を達成しているそうです。 Redesigning source control at Anthropic \\ Anthropic https://www.anthropic....",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e96e36fb34ef45d675e8"
       },
       {
         "title": "SBI証券のFXで“誤ロスカット” 再委託先IIJが作業ミス、システムでも検知できず 779口座が対象",
@@ -1632,6 +1675,28 @@
       "id": "0771aaf0bb45a2ded055"
     },
     {
+      "title": "互動資通｜TeamPlus Messenger - 存在2個漏洞",
+      "url": "https://www.twcert.org.tw/tw/cp-132-11270-88d86-1.html",
+      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-14T02:09:00+00:00",
+      "fetched_at": "2026-10-14T09:11:55+00:00",
+      "summary": "互動資通｜TeamPlus Messenger - 存在2個漏洞",
+      "matched_keywords": [
+        "Security",
+        "TVN",
+        "TWCERT"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "af0fd6400bd50d7aa2c5"
+    },
+    {
       "title": "M 5.0 - 95 km NNW of Coquimbo, Chile",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26f",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -2174,6 +2239,27 @@
       "id": "adc1064e5a86eb085494"
     },
     {
+      "title": "AnthropicがGit代替のバージョン管理システム「Scion」を開発し社内移行済み、AIでコードが爆増してGitの限界に達したので耐えられるシステムを開発",
+      "url": "https://gigazine.net/news/20261014-anthropic-scion-version-control-system/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-14T04:36:13+00:00",
+      "fetched_at": "2026-10-14T09:11:55+00:00",
+      "summary": "Claudeの開発元として知られるAI企業のAnthropicが、Gitの代わりとなるバージョン管理システム「Scion」を開発したことを発表しました。ScionはAnthropicの社内システムとして運用されており、すでにGitからの移行を達成しているそうです。 Redesigning source control at Anthropic \\ Anthropic https://www.anthropic....",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e96e36fb34ef45d675e8"
+    },
+    {
       "title": "SBI証券のFXで“誤ロスカット” 再委託先IIJが作業ミス、システムでも検知できず 779口座が対象",
       "url": "https://www.itmedia.co.jp/news/article/2610/14/2000002249/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2257,7 +2343,51 @@
       "id": "ae569dcf77f4c5f9ef85"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "互動資通｜TeamPlus Messenger - 存在2個漏洞",
+      "url": "https://www.twcert.org.tw/tw/cp-132-11270-88d86-1.html",
+      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-14T02:09:00+00:00",
+      "fetched_at": "2026-10-14T09:11:55+00:00",
+      "summary": "互動資通｜TeamPlus Messenger - 存在2個漏洞",
+      "matched_keywords": [
+        "Security",
+        "TVN",
+        "TWCERT"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "af0fd6400bd50d7aa2c5"
+    },
+    {
+      "title": "AnthropicがGit代替のバージョン管理システム「Scion」を開発し社内移行済み、AIでコードが爆増してGitの限界に達したので耐えられるシステムを開発",
+      "url": "https://gigazine.net/news/20261014-anthropic-scion-version-control-system/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-14T04:36:13+00:00",
+      "fetched_at": "2026-10-14T09:11:55+00:00",
+      "summary": "Claudeの開発元として知られるAI企業のAnthropicが、Gitの代わりとなるバージョン管理システム「Scion」を開発したことを発表しました。ScionはAnthropicの社内システムとして運用されており、すでにGitからの移行を達成しているそうです。 Redesigning source control at Anthropic \\ Anthropic https://www.anthropic....",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e96e36fb34ef45d675e8"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
