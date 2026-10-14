@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-14T05:35:23+00:00_
+_Generiert: 2026-10-14T05:45:45+00:00_
 
 ## Kurzlage
 
@@ -41,10 +41,6 @@ _Generiert: 2026-10-14T05:35:23+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.7M, Depth:10km) in Central Mid-Atlantic Ridge 13/10/2026 05:44 UTC, [unknown].
-- **USGS earthquake M6.7 - central Mid-Atlantic Ridge** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1z5)
-  - Quelle: USGS
-  - Zeit: `2026-10-13T05:44:46+00:00`
-  - Kurz: M6.7 - central Mid-Atlantic Ridge. PAGER alert: green. Tsunami flag: 0.
 - **GDACS: Green earthquake (Magnitude 6M, Depth:20.842km) in Papua New Guinea 13/10/2026 18:45 UTC, 4 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571367)
   - Quelle: GDACS
   - Zeit: ``
