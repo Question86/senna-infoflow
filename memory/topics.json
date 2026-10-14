@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-14T22:59:47+00:00",
+  "generated_at": "2026-10-14T23:15:49+00:00",
   "topics": {
     "ai": [
       {
@@ -24,6 +24,13 @@
         "published_at": "2026-10-14T08:08:56+00:00",
         "relevance_score": 22,
         "url": "https://e27.co/singapores-next-ai-industry-may-be-the-people-who-check-the-agents-20261014/"
+      },
+      {
+        "title": "How Block is building AI-powered security with OpenAI technology",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-10-14T07:00:00+00:00",
+        "relevance_score": 20,
+        "url": "https://openai.com/index/block-ai-powered-security"
       },
       {
         "title": "Can AI cut the US$170 billion cost of buying and selling homes?",
@@ -66,13 +73,6 @@
         "published_at": "2026-10-14T12:00:00+00:00",
         "relevance_score": 14,
         "url": "https://openai.com/index/sentinelone"
-      },
-      {
-        "title": "Manus came home, and Singapore couldn’t stop it",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-14T01:30:48+00:00",
-        "relevance_score": 13,
-        "url": "https://e27.co/manus-came-home-and-singapore-couldnt-stop-it-20261013/"
       }
     ],
     "github": [
@@ -200,6 +200,13 @@
     ],
     "security": [
       {
+        "title": "How Block is building AI-powered security with OpenAI technology",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-10-14T07:00:00+00:00",
+        "relevance_score": 20,
+        "url": "https://openai.com/index/block-ai-powered-security"
+      },
+      {
         "title": "Version 1.0: Ivanti Connect Secure - Aktive Ausnutzung mehrerer Zero-Day Schwachstellen",
         "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
         "published_at": "2026-10-14T10:00:00+00:00",
@@ -261,13 +268,6 @@
         "published_at": "2026-10-14T13:30:50+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU90141693/"
-      },
-      {
-        "title": "KomodoサーバーのエージェントPeripheryにおけるOSコマンドインジェクションの脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-14T13:30:30+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU96061614/"
       }
     ],
     "geopolitics": [
