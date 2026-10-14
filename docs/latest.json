@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T10:25:46+00:00",
-  "run_id": "2026-10-14T10:25:46+00:00",
+  "generated_at": "2026-10-14T10:35:56+00:00",
+  "run_id": "2026-10-14T10:35:56+00:00",
   "date": "2026-10-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 56,
     "displayed_findings": 56,
     "high": 0,
@@ -2767,29 +2767,7 @@
       "id": "6601618a19ff4fb18a08"
     }
   ],
-  "new_findings": [
-    {
-      "title": "【第5報】不正アクセスによる障害に関する調査の進捗について | IDCフロンティア",
-      "url": "https://www.idcf.jp/news/topics/20261014001",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-14T08:41:42+00:00",
-      "fetched_at": "2026-10-14T10:25:18+00:00",
-      "summary": "2026年10月14日 このたびは、多大なるご心配とご迷惑をおかけしておりますことを深くお詫び申し上げます。 2026年10月7日午前3時40分頃から発生している、当社クラウドサービス「IDCFクラウド」※1に対する第三者からの不正アクセスによる障害について、現時点までの調査で新たに以下の事実が判明しましたのでお知らせし...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8e9452b0e59b36cbee07"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
