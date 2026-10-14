@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-14T14:08:18+00:00_
+_Generiert: 2026-10-14T14:24:56+00:00_
 
 ## Kurzlage
 
-65 neue relevante Treffer. Stärkstes Signal: „vercel-labs/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
+66 neue relevante Treffer. Stärkstes Signal: „vercel-labs/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -201,6 +201,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region usa: Silicon Valley (+2.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph region china_credible_only: Beijing (+2.0)
   - Kurz: There is a particular kind of Southeast Asian optimism that treats Singapore like a geopolitical airlock. Walk in from Beijing or Shenzhen, shut the door behind you, register a Pte Ltd, and the pressure from home equalises. You are now a Singaporean company with “Chinese roots”, free to raise from Silicon Valley and sell to […] The post Manus came home, and Singapore couldn’t stop it appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **GitHub Actions workflow lockfiles in public preview** — Score 12, observation — [Quelle](https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-10-14T13:49:15+00:00`, fetched `2026-10-14T14:24:25+00:00`
+  - Treffer: Actions, GitHub, GitHub Actions
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub Actions (+6.2); GitHub (+2.5); Actions (+2.5); recent (+1.0)
+  - Kurz: GitHub Actions workflow dependency lockfiles are now in public preview for GitHub Enterprise Cloud and GitHub Enterprise Cloud with data residency. Tags and branches can move after you review a… The post GitHub Actions workflow lockfiles in public preview appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Anthropic’s Singapore MOU bets on safety testing, not consumer reach** — Score 12, observation — [Quelle](https://e27.co/anthropics-singapore-mou-bets-on-safety-testing-not-consumer-reach-20261014/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-14T10:08:29+00:00`, fetched `2026-10-14T10:09:33+00:00`
@@ -318,15 +327,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Frank Elderson: Ensuring resilience in the face of uncertainty
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Introduction to the panel “Financial risks and macroprudential policy”** — Score 8, opportunity — [Quelle](https://www.bis.org/speeches/20261013-introduction-panel-financial-risks-and-macroprudential-policy)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-10-13T00:00:00+00:00`, fetched `2026-10-14T06:20:23+00:00`
-  - Treffer: macro, Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); macro (+2.5); recent (+1.0)
-  - Kurz: Introduction by Ms Clara Raposo, Vice-Governor of the Banco de Portugal, to the panel “Financial risks and macroprudential policy”, at the Banco de Portugal’s Conference on the Main Findings of Portugal's Financial Sector Assessment Program (FSAP), Lisbon, 22 September 2026.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Empfehlungen
 

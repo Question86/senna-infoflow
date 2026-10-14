@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-14T14:08:18+00:00",
+  "generated_at": "2026-10-14T14:24:56+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 65,
-    "displayed_findings": 65,
+    "today_file_total": 66,
+    "displayed_findings": 66,
     "high": 0,
     "medium": 26,
-    "observe": 39
+    "observe": 40
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -65,6 +65,16 @@
       "section": "observe"
     },
     {
+      "title": "GitHub Actions workflow lockfiles in public preview",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-14T13:49:15+00:00",
+      "relevance_score": 12,
+      "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
+      "summary": "GitHub Actions workflow dependency lockfiles are now in public preview for GitHub Enterprise Cloud and GitHub Enterprise Cloud with data residency. Tags and branches can move after you review a… The post GitHub Actions workflow lockfiles in public preview app…",
+      "section": "observe"
+    },
+    {
       "title": "Anthropic’s Singapore MOU bets on safety testing, not consumer reach",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 12,
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260091.en.html",
       "summary": "Announcing 20260091 (OT,liquidity providing), for 7 days deadline 09:45",
-      "section": "observe"
-    },
-    {
-      "title": "Parallel Loop nets US$6.6M to sell enterprises the one thing AI models lack: context",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-14T05:29:22+00:00",
-      "relevance_score": 12,
-      "url": "https://e27.co/parallel-loop-nets-us6-6m-to-sell-enterprises-the-one-thing-ai-models-lack-context-20261014/",
-      "summary": "In early 2018, Yujun Chean and Prateek Jogani were selling car insurance with a cashback twist. Their Singapore startup, Vouch Insurtech, had just raised SGD1 million (then US$755,000) in seed funding as the parent of Thai insurtech FairDee. Eight years on, t…",
       "section": "observe"
     }
   ],
