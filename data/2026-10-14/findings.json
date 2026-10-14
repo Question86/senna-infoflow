@@ -536,6 +536,27 @@
     "id": "3858e935b345b7aeb191"
   },
   {
+    "title": "Anthropic’s Singapore MOU bets on safety testing, not consumer reach",
+    "url": "https://e27.co/anthropics-singapore-mou-bets-on-safety-testing-not-consumer-reach-20261014/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-10-14T10:08:29+00:00",
+    "fetched_at": "2026-10-14T10:09:33+00:00",
+    "summary": "Anthropic has finally given its Singapore customers somewhere to knock. The San Francisco-based AI lab opened an office in the city-state on Wednesday, its fifth in the Asia Pacific, and signed a memorandum of understanding (MOU) with the Ministry of Digital Development and Information (MDDI) that puts AI safety testing at the centre of the […] The post Anthropic’s Singapore MOU bets on safety testing, not consumer…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region usa: San Francisco (+2.0); watchgraph region southeast_asia: Singapore (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "28b4b180e73ad105fa44"
+  },
+  {
     "title": "Announcing 20260091 (OT,liquidity providing), for 7 days deadline 09:45",
     "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260091.en.html",
     "source": "ECB Open Market Operations and Communication",
@@ -1304,5 +1325,23 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "ae569dcf77f4c5f9ef85"
+  },
+  {
+    "title": "BYD expands EV shipping fleet as wars upend freight costs and key trade routes",
+    "url": "https://restofworld.org/2026/byd-expands-cargo-ship-ev-exports/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "source": "Rest of World Global Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-10-14T10:00:00+00:00",
+    "fetched_at": "2026-10-14T10:09:33+00:00",
+    "summary": "The ''BYD Explorer No. 1'' car carrier, loaded with new energy vehicles, is setting sail from Yantai Port in Yantai, China, on January 10, 2024.",
+    "matched_keywords": [],
+    "relevance_score": 3,
+    "relevance_reason": "recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6601618a19ff4fb18a08"
   }
 ]

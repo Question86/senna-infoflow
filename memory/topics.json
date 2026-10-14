@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-14T09:57:58+00:00",
+  "generated_at": "2026-10-14T10:10:02+00:00",
   "topics": {
     "ai": [
       {
@@ -47,6 +47,13 @@
         "url": "https://e27.co/manus-came-home-and-singapore-couldnt-stop-it-20261013/"
       },
       {
+        "title": "Anthropic’s Singapore MOU bets on safety testing, not consumer reach",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-14T10:08:29+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/anthropics-singapore-mou-bets-on-safety-testing-not-consumer-reach-20261014/"
+      },
+      {
         "title": "Parallel Loop nets US$6.6M to sell enterprises the one thing AI models lack: context",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-10-14T05:29:22+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-10-13T23:42:29+00:00",
         "relevance_score": 11,
         "url": "https://www.nikkei.com/article/DGXZQOGN140170U6A011C2000000/"
-      },
-      {
-        "title": "Read the sectors, not the headline: What Singapore’s growth upgrade tells SEA founders",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-14T04:00:21+00:00",
-        "relevance_score": 9,
-        "url": "https://e27.co/read-the-sectors-not-the-headline-what-singapores-growth-upgrade-tells-sea-founders-20261010/"
       }
     ],
     "github": [
