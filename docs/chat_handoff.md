@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-14T09:12:25+00:00_
+_Generated: 2026-10-14T09:57:58+00:00_
 
 ## Status
 - status: `normal`
-- findings: `47`
+- findings: `53`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-10-14T09:12:25+00:00_
 - url: https://e27.co/can-ai-cut-the-us170-billion-cost-of-buying-and-selling-homes-20260916/
 - summary: In 2024, Americans spent about US$170 billion on real estate commissions and other costs involved in transferring ownership of homes. The Bureau of Economic Analysis estimate, cited by the Federal Reserve, is equal to roughly 0.6 per cent of US GDP. This is m…
 
-### 4. Singapore wants Google’s AI to catch scammers before victims hit send
-- source: e27 Asia Startup and Tech Feed
+### 4. Version 1.0: Ivanti Connect Secure - Aktive Ausnutzung mehrerer Zero-Day Schwachstellen
+- source: BSI CERT-Bund Cyber-Sicherheitswarnungen
 - score: `19`
-- published: `2026-10-14T05:00:10+00:00`
-- url: https://e27.co/singapore-wants-googles-ai-to-catch-scammers-before-victims-hit-send-20261014/
-- summary: Singapore’s war on scams has mostly been fought far from the victim: in police operations centres, bank back offices and, more recently, in rulebooks telling platforms what they must block. Now the city-state wants part of that fight to happen inside the phon…
+- published: `2026-10-14T10:00:00+00:00`
+- url: https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297569-1032_bits.html
+- summary: Version 1.0: Ivanti Connect Secure - Aktive Ausnutzung mehrerer Zero-Day Schwachstellen
 
 ### 5. Manus came home, and Singapore couldn’t stop it
 - source: e27 Asia Startup and Tech Feed
