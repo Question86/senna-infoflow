@@ -1,28 +1,52 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-14T02:04:25Z",
+  "generated_at": "2026-10-14T02:32:02Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 12,
+    "dynamics": 13,
     "bands": {
-      "strong": 1,
+      "strong": 2,
       "watch": 4,
       "quiet": 7
     },
     "bands_after_gate_recheck": {
-      "strong": 1,
+      "strong": 2,
       "watch": 4,
       "quiet": 7
     }
   },
   "top_dynamics": [
     {
+      "title": "SiteGuard Server EditionにおけるOSコマンドインジェクションの脆弱性",
+      "url": "https://jvn.jp/jp/JVN88474777/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-10-14T11:00:00+09:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security"
+      ],
+      "summary": "EGセキュアソリューションズ株式会社が提供するSiteGuard Server Editionには、OSコマンドインジェクションの脆弱性が存在します。"
+    },
+    {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 117.0,
+      "age_days": 117.02,
       "topics": [
         "ai"
       ],
@@ -51,7 +75,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26f",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-14T01:06:37.971+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -76,7 +100,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26c",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-14T00:50:38.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -101,7 +125,7 @@
       "url": "https://e27.co/the-new-value-test-for-investors-what-founders-are-actually-buying-when-they-take-your-cheque-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-14T01:00:05+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [],
       "dynamics_score": 17.0,
       "raw_band": "watch",
@@ -125,7 +149,7 @@
       "url": "https://e27.co/can-ai-cut-the-us170-billion-cost-of-buying-and-selling-homes-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-14T01:30:26+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "macro"
@@ -151,7 +175,7 @@
       "url": "https://e27.co/manus-came-home-and-singapore-couldnt-stop-it-20261013/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-14T01:30:48+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -177,7 +201,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/14/2000002236/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-13T22:35:12+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -203,7 +227,7 @@
       "url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-13T23:17:55+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -227,7 +251,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN140170U6A011C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-13T23:42:29+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -252,7 +276,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 115.97,
+      "age_days": 115.99,
       "topics": [
         "general"
       ],
@@ -277,7 +301,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 115.97,
+      "age_days": 115.99,
       "topics": [
         "general"
       ],
@@ -302,7 +326,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 115.97,
+      "age_days": 115.99,
       "topics": [
         "ai"
       ],
@@ -325,5 +349,5 @@
       "summary": ""
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “SiteGuard Server EditionにおけるOSコマンドインジェクションの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
 }
