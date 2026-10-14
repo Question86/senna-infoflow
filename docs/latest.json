@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T05:09:45+00:00",
-  "run_id": "2026-10-14T05:09:45+00:00",
+  "generated_at": "2026-10-14T05:24:22+00:00",
+  "run_id": "2026-10-14T05:24:22+00:00",
   "date": "2026-10-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 30,
     "displayed_findings": 30,
     "high": 0,
@@ -1557,30 +1557,7 @@
       "id": "ae569dcf77f4c5f9ef85"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Singapore wants Google’s AI to catch scammers before victims hit send",
-      "url": "https://e27.co/singapore-wants-googles-ai-to-catch-scammers-before-victims-hit-send-20261014/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-14T05:00:10+00:00",
-      "fetched_at": "2026-10-14T05:09:17+00:00",
-      "summary": "Singapore’s war on scams has mostly been fought far from the victim: in police operations centres, bank back offices and, more recently, in rulebooks telling platforms what they must block. Now the city-state wants part of that fight to happen inside the phone itself. Google on Wednesday announced two initiatives with the Singapore Government, unveiled […] The post Singapore wants Google’s AI to catch scammers befor…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Reputationsrisiko"
-      ],
-      "relevance_score": 19,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); Reputationsrisiko (+8.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "29c944a25746e0f49e6a"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
