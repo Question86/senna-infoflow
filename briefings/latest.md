@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-14T15:26:50+00:00_
+_Generiert: 2026-10-14T15:38:50+00:00_
 
 ## Kurzlage
 
-66 neue relevante Treffer. Stärkstes Signal: „vercel-labs/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
+67 neue relevante Treffer. Stärkstes Signal: „vercel-labs/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -117,6 +117,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); Ivanti (+2.5); watchgraph modules cyber_active_exploitation (+3.0)
   - Kurz: Version 1.0: Ivanti Connect Secure - Aktive Ausnutzung mehrerer Zero-Day Schwachstellen
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **How Third Moment Research runs 10,000 agents for 36+ hours** — Score 19, observation — [Quelle](https://openai.com/index/third-moment-research)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-14T07:00:00+00:00`, fetched `2026-10-14T15:38:18+00:00`
+  - Treffer: AI/KI, OpenAI, Security, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); Security (+6.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Singapore wants Google’s AI to catch scammers before victims hit send** — Score 19, risk — [Quelle](https://e27.co/singapore-wants-googles-ai-to-catch-scammers-before-victims-hit-send-20261014/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-14T05:00:10+00:00`, fetched `2026-10-14T05:09:17+00:00`
