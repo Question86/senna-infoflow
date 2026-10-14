@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-14T16:57:24+00:00_
+_Generated: 2026-10-14T17:05:28+00:00_
 
 ## Status
 - status: `normal`
-- findings: `75`
+- findings: `76`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-10-14T16:57:24+00:00_
 - url: https://github.com/vercel-labs/skills
 - summary: The open agent skills tool - npx skills https://skills.sh skills The CLI for the open agent skills ecosystem. Supports OpenCode , Claude Code , Codex , Cursor , and 75 more . Install a Skill npx skills add vercel-labs/agent-skills Use a Skill Without Installi…
 
-### 2. Singapore’s next AI industry may be the people who check the agents
+### 2. Amp puts AI agents to work beyond code with OpenAI models
+- source: OpenAI News RSS
+- score: `22`
+- published: `2026-10-14T12:00:00+00:00`
+- url: https://openai.com/index/amp-beyond-coding
+- summary: See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.
+
+### 3. Singapore’s next AI industry may be the people who check the agents
 - source: e27 Asia Startup and Tech Feed
 - score: `22`
 - published: `2026-10-14T08:08:56+00:00`
 - url: https://e27.co/singapores-next-ai-industry-may-be-the-people-who-check-the-agents-20261014/
 - summary: An AI chatbot that drafts a bad email is an embarrassment. An AI agent that sends it, to the wrong customer, with the wrong file attached, after approving the wrong refund, is a liability. Singapore’s regulators have clearly been losing sleep over the second…
 
-### 3. Can AI cut the US$170 billion cost of buying and selling homes?
+### 4. Can AI cut the US$170 billion cost of buying and selling homes?
 - source: e27 Asia Startup and Tech Feed
 - score: `20`
 - published: `2026-10-14T01:30:26+00:00`
 - url: https://e27.co/can-ai-cut-the-us170-billion-cost-of-buying-and-selling-homes-20260916/
 - summary: In 2024, Americans spent about US$170 billion on real estate commissions and other costs involved in transferring ownership of homes. The Bureau of Economic Analysis estimate, cited by the Federal Reserve, is equal to roughly 0.6 per cent of US GDP. This is m…
-
-### 4. Version 1.0: Ivanti Connect Secure - Aktive Ausnutzung mehrerer Zero-Day Schwachstellen
-- source: BSI CERT-Bund Cyber-Sicherheitswarnungen
-- score: `19`
-- published: `2026-10-14T10:00:00+00:00`
-- url: https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297569-1032_bits.html
-- summary: Version 1.0: Ivanti Connect Secure - Aktive Ausnutzung mehrerer Zero-Day Schwachstellen
 
 ### 5. Manus came home, and Singapore couldn’t stop it
 - source: e27 Asia Startup and Tech Feed

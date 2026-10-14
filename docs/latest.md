@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-14T16:57:24+00:00_
+_Generiert: 2026-10-14T17:05:28+00:00_
 
 ## Kurzlage
 
-75 neue relevante Treffer. Stärkstes Signal: „vercel-labs/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
+76 neue relevante Treffer. Stärkstes Signal: „vercel-labs/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -21,6 +21,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI Agents (+6.2); APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: The open agent skills tool - npx skills https://skills.sh skills The CLI for the open agent skills ecosystem. Supports OpenCode , Claude Code , Codex , Cursor , and 75 more . Install a Skill npx skills add vercel-labs/agent-skills Use a Skill Without Installing Generate a prompt for one skill, or start a supported coding agent interactively: npx skills use vercel-labs/agent-skills@web-design-guidelines | claude npx…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Amp puts AI agents to work beyond code with OpenAI models** — Score 22, opportunity — [Quelle](https://openai.com/index/amp-beyond-coding)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-14T12:00:00+00:00`, fetched `2026-10-14T17:04:58+00:00`
+  - Treffer: AI Agents, AI/KI, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+7.5); AI/KI (+3.8); AI Agents (+6.2); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Singapore’s next AI industry may be the people who check the agents** — Score 22, observation — [Quelle](https://e27.co/singapores-next-ai-industry-may-be-the-people-who-check-the-agents-20261014/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-14T08:08:56+00:00`, fetched `2026-10-14T08:11:27+00:00`
@@ -271,8 +280,8 @@ Keine neuen Hochprioritäts-Treffer.
 ## Empfehlungen
 
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 
