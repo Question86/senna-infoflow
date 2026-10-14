@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-14T04:42:05+00:00_
+_Generiert: 2026-10-14T04:51:49+00:00_
 
 ## Kurzlage
 
-28 neue relevante Treffer. Stärkstes Signal: „Can AI cut the US$170 billion cost of buying and selling homes?“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
+29 neue relevante Treffer. Stärkstes Signal: „Can AI cut the US$170 billion cost of buying and selling homes?“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
 
 ## Priorität Hoch
 
