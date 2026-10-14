@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-14T10:57:48+00:00_
+_Generiert: 2026-10-14T11:08:42+00:00_
 
 ## Kurzlage
 
-56 neue relevante Treffer. Stärkstes Signal: „vercel-labs/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
+57 neue relevante Treffer. Stärkstes Signal: „vercel-labs/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -41,6 +41,10 @@ _Generiert: 2026-10-14T10:57:48+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.7M, Depth:10km) in Central Mid-Atlantic Ridge 13/10/2026 05:44 UTC, [unknown].
+- **GDACS: Green flood alert in Libya** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104231)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Libya
 - **GDACS: Green flood alert in Türkiye** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104230)
   - Quelle: GDACS
   - Zeit: ``
