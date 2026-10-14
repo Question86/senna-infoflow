@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-14T07:27:41+00:00_
+_Generiert: 2026-10-14T07:41:20+00:00_
 
 ## Kurzlage
 
-37 neue relevante Treffer. Stärkstes Signal: „vercel-labs/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
+38 neue relevante Treffer. Stärkstes Signal: „vercel-labs/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -48,6 +48,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[NEU] [kritisch] Microsoft Windows und Windows Server: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3892)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-10-14T07:34:11+00:00`, fetched `2026-10-14T07:40:42+00:00`
+  - Treffer: BSI, CERT-Bund, Microsoft, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in verschiedenen Versionen von Microsoft Windows Server und Microsoft Windows ausnutzen, um seine Privilegien auf administrative Rechte zu erhöhen, um beliebigen Code auszuführen, um Informationen offenzulegen, um einen Denial of Service herbeizuführen, um den Benutzer zu täuschen und andere, nicht näher spezifizierte Auswirkungen zu verursachen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Siemens製品に対するアップデート（2026年10月）** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU90141693/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-10-14T13:30:50+09:00`, fetched `2026-10-14T04:41:30+00:00`

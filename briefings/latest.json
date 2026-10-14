@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T07:27:41+00:00",
-  "run_id": "2026-10-14T07:27:41+00:00",
+  "generated_at": "2026-10-14T07:41:20+00:00",
+  "run_id": "2026-10-14T07:41:20+00:00",
   "date": "2026-10-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 37
+      "configured_public_sources_only": 38
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 37,
-    "displayed_findings": 37,
+    "new_relevant_findings": 1,
+    "today_file_total": 38,
+    "displayed_findings": 38,
     "high": 0,
-    "medium": 11,
+    "medium": 12,
     "observe": 26,
     "source_errors": 0
   },
@@ -144,6 +144,30 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "379e3c85e427038c11bc"
+      },
+      {
+        "title": "[NEU] [kritisch] Microsoft Windows und Windows Server: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3892",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-14T07:34:11+00:00",
+        "fetched_at": "2026-10-14T07:40:42+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in verschiedenen Versionen von Microsoft Windows Server und Microsoft Windows ausnutzen, um seine Privilegien auf administrative Rechte zu erhöhen, um beliebigen Code auszuführen, um Informationen offenzulegen, um einen Denial of Service herbeizuführen, um den Benutzer zu täuschen und andere, nicht näher spezifizierte Auswirkungen zu verursachen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Microsoft",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0bedf17b20eff876b528"
       },
       {
         "title": "Siemens製品に対するアップデート（2026年10月）",
@@ -1087,6 +1111,30 @@
       "id": "379e3c85e427038c11bc"
     },
     {
+      "title": "[NEU] [kritisch] Microsoft Windows und Windows Server: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3892",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-14T07:34:11+00:00",
+      "fetched_at": "2026-10-14T07:40:42+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in verschiedenen Versionen von Microsoft Windows Server und Microsoft Windows ausnutzen, um seine Privilegien auf administrative Rechte zu erhöhen, um beliebigen Code auszuführen, um Informationen offenzulegen, um einen Denial of Service herbeizuführen, um den Benutzer zu täuschen und andere, nicht näher spezifizierte Auswirkungen zu verursachen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Microsoft",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0bedf17b20eff876b528"
+    },
+    {
       "title": "Siemens製品に対するアップデート（2026年10月）",
       "url": "https://jvn.jp/vu/JVNVU90141693/",
       "source": "JVN Japan Vulnerability Notes",
@@ -1909,46 +1957,28 @@
   ],
   "new_findings": [
     {
-      "title": "Announcing 20260091 (OT,liquidity providing), for 7 days deadline 09:45",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260091.en.html",
-      "source": "ECB Open Market Operations and Communication",
+      "title": "[NEU] [kritisch] Microsoft Windows und Windows Server: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3892",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-10-14T08:15:23+00:00",
-      "fetched_at": "2026-10-14T07:27:10+00:00",
-      "summary": "Announcing 20260091 (OT,liquidity providing), for 7 days deadline 09:45",
+      "published_at": "2026-10-14T07:34:11+00:00",
+      "fetched_at": "2026-10-14T07:40:42+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in verschiedenen Versionen von Microsoft Windows Server und Microsoft Windows ausnutzen, um seine Privilegien auf administrative Rechte zu erhöhen, um beliebigen Code auszuführen, um Informationen offenzulegen, um einen Denial of Service herbeizuführen, um den Benutzer zu täuschen und andere, nicht näher spezifizierte Auswirkungen zu verursachen.",
       "matched_keywords": [
-        "liquidity",
-        "Macro/Policy",
-        "open market operations"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "762e6b20aa0373d1f043"
-    },
-    {
-      "title": "Patchday: Attacken auf verschiedene Windows-Versionen beobachtet",
-      "url": "https://www.heise.de/news/Patchday-Attacken-auf-verschiedene-Windows-Versionen-beobachtet-11487264.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-10-14T06:59:00.000+00:00",
-      "fetched_at": "2026-10-14T07:27:10+00:00",
-      "summary": "Microsoft hat mehr als 1400 Sicherheitslücken in Windows, Office & Co. geschlossen. Es laufen bereits Attacken.",
-      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Microsoft",
+        "Schwachstelle",
         "Security"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "4396126fde088ea8354d"
+      "id": "0bedf17b20eff876b528"
     }
   ],
   "source_errors": [],
