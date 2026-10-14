@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-14T19:28:56+00:00_
+_Generiert: 2026-10-14T19:38:51+00:00_
 
 ## Kurzlage
 
@@ -9,26 +9,26 @@ _Generiert: 2026-10-14T19:28:56+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-105134 Ahsay AhsayCBS** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-10-14`
+  - Kurz: Known exploited vulnerability. Added 2026-10-14. Due 2026-10-17. Ahsay AhsayCBS Command Injection Vulnerability
+- **CISA KEV: CVE-2026-76519 Cisco Secure Email Gateway** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-10-14`
+  - Kurz: Known exploited vulnerability. Added 2026-10-14. Due 2026-10-17. Cisco Secure Email Gateway Relative Path Traversal Vulnerability
+- **CISA KEV: CVE-2026-105133 Ahsay AhsayCBS** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-10-14`
+  - Kurz: Known exploited vulnerability. Added 2026-10-14. Due 2026-10-17. Ahsay AhsayCBS Improper Authentication Vulnerability
+- **CISA KEV: CVE-2026-0322 Palo Alto Networks PAN-OS** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-10-14`
+  - Kurz: Known exploited vulnerability. Added 2026-10-14. Due 2026-10-17. Palo Alto Networks PAN-OS Code Injection Vulnerability
 - **CISA KEV: CVE-2026-104935 Ivanti Connect Secure** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-10-13`
   - Kurz: Known exploited vulnerability. Added 2026-10-13. Due 2026-10-16. Ivanti Connect Secure Authentication Bypass by Spoofing Vulnerability
-- **CISA KEV: CVE-2026-96951 Microsoft Windows** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-10-13`
-  - Kurz: Known exploited vulnerability. Added 2026-10-13. Due 2026-10-16. Microsoft Windows Command Injection Vulnerability
-- **CISA KEV: CVE-2015-5477 ISC BIND** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-10-08`
-  - Kurz: Known exploited vulnerability. Added 2026-10-08. Due 2026-10-11.  ISC BIND Data Processing Errors Vulnerability
-- **CISA KEV: CVE-2016-3081 Apache Struts** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-10-08`
-  - Kurz: Known exploited vulnerability. Added 2026-10-08. Due 2026-10-11. Apache Struts Command Injection Vulnerability
-- **CISA KEV: CVE-2023-22894 Strapi Strapi** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-10-08`
-  - Kurz: Known exploited vulnerability. Added 2026-10-08. Due 2026-10-11. Strapi Cleartext Storage of Sensitive Information Vulnerability
 - **GDACS: Green earthquake (Magnitude 6.8M, Depth:10km) in Central Mid-Atlantic Ridge 13/10/2026 12:23 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1571305)
   - Quelle: GDACS
   - Zeit: ``
