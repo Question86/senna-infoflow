@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-14T14:03:39Z",
+  "generated_at": "2026-10-14T14:37:15Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3883",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-14T09:14:12+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3892",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-14T07:34:11+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -73,7 +73,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3945",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-14T12:10:27+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -98,7 +98,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3884",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-14T09:14:12+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -123,7 +123,7 @@
       "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297569-1032_bits.html",
       "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
       "published_at": "2026-10-14T10:00:00+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -149,7 +149,7 @@
       "url": "https://jvn.jp/jp/JVN43511918/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-14T17:00:00+09:00",
-      "age_days": 0.25,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -173,7 +173,7 @@
       "url": "https://jvn.jp/vu/JVNVU96061614/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-14T13:30:30+09:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -197,7 +197,7 @@
       "url": "https://jvn.jp/vu/JVNVU91265939/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-14T13:30:10+09:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -221,7 +221,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3317",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-14T12:10:30+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -245,7 +245,7 @@
       "url": "https://jvn.jp/jp/JVN47427200/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-14T12:00:00+09:00",
-      "age_days": 0.46,
+      "age_days": 0.48,
       "topics": [
         "security"
       ],
@@ -269,7 +269,7 @@
       "url": "https://jvn.jp/jp/JVN88474777/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-14T11:00:00+09:00",
-      "age_days": 0.5,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -293,7 +293,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3880",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-14T09:14:12+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -317,7 +317,7 @@
       "url": "https://gigazine.net/news/20261014-freeze-controller-defrost-food-vulnerabilities-danfoss/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-14T06:06:27+00:00",
-      "age_days": 0.33,
+      "age_days": 0.35,
       "topics": [
         "general"
       ],
@@ -342,7 +342,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3944",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-14T12:10:27+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "security"
@@ -371,7 +371,7 @@
       "url": "https://jvn.jp/vu/JVNVU92045336/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-14T13:30:40+09:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -397,7 +397,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3893",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-14T07:49:11+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -423,7 +423,7 @@
       "url": "https://jvn.jp/vu/JVNVU90141693/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-14T13:30:50+09:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -449,7 +449,7 @@
       "url": "https://jvn.jp/vu/JVNVU91984971/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-14T13:30:20+09:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -475,7 +475,7 @@
       "url": "https://jvn.jp/vu/JVNVU94083107/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-14T13:30:00+09:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -501,7 +501,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3522",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-14T12:10:31+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -527,7 +527,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3943",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-14T12:10:27+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -553,7 +553,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3878",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-14T09:14:12+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -579,7 +579,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 117.5,
+      "age_days": 117.53,
       "topics": [
         "ai"
       ],
@@ -608,7 +608,7 @@
       "url": "https://github.com/vercel-labs/skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-14T06:20:23+00:00",
-      "age_days": 0.32,
+      "age_days": 0.35,
       "topics": [
         "ai",
         "macro"
@@ -635,7 +635,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11270-88d86-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-10-14T02:09:00+00:00",
-      "age_days": 0.5,
+      "age_days": 0.52,
       "topics": [
         "security"
       ],
@@ -659,7 +659,7 @@
       "url": "https://www.jpcert.or.jp/english/at/2026/at260031.html",
       "source": "JPCERT/CC English Alerts",
       "published_at": "2026-10-14T11:25+09:00",
-      "age_days": 0.49,
+      "age_days": 0.51,
       "topics": [
         "security"
       ],
@@ -683,7 +683,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11254-9c206-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-10-08T05:42:00+00:00",
-      "age_days": 6.35,
+      "age_days": 6.37,
       "topics": [
         "security"
       ],
@@ -707,7 +707,7 @@
       "url": "https://gigazine.net/news/20261014-anthropic-scion-version-control-system/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-14T04:36:13+00:00",
-      "age_days": 0.39,
+      "age_days": 0.42,
       "topics": [
         "ai"
       ],
@@ -732,7 +732,7 @@
       "url": "https://www.bis.org/speeches/20261013-introduction-panel-financial-risks-and-macroprudential-policy",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-13T00:00:00+00:00",
-      "age_days": 1.59,
+      "age_days": 1.61,
       "topics": [
         "ai",
         "macro"
@@ -760,7 +760,7 @@
       "url": "https://restofworld.org/2026/byd-expands-cargo-ship-ev-exports/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-10-14T10:00:00+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -785,7 +785,7 @@
       "url": "https://www.heise.de/news/Patchday-Attacken-auf-verschiedene-Windows-Versionen-beobachtet-11487264.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-14T06:59:00.000+00:00",
-      "age_days": 0.29,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -809,7 +809,7 @@
       "url": "https://e27.co/singapores-next-ai-industry-may-be-the-people-who-check-the-agents-20261014/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-14T08:08:56+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "ai"
       ],
@@ -835,7 +835,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u272",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-14T03:32:01.040+00:00",
-      "age_days": 0.44,
+      "age_days": 0.46,
       "topics": [
         "disaster"
       ],
@@ -860,7 +860,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26f",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-14T01:06:37.971+00:00",
-      "age_days": 0.54,
+      "age_days": 0.56,
       "topics": [
         "disaster"
       ],
@@ -885,7 +885,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26c",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-14T00:50:38.040+00:00",
-      "age_days": 0.55,
+      "age_days": 0.57,
       "topics": [
         "disaster"
       ],
@@ -910,7 +910,7 @@
       "url": "https://www.bis.org/speeches/20261014-closing-remarks-conference-main-findings-portugals-financial-sector-assessment-program",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-14T00:00:00+00:00",
-      "age_days": 0.59,
+      "age_days": 0.61,
       "topics": [
         "ai",
         "macro"
@@ -934,11 +934,35 @@
       "summary": "Closing remarks by Ms Clara Raposo, Vice-Governor of the Banco de Portugal, at the Banco de Portugal’s Conference on the Main Findings of Portugal's Financial Sector Assessment Program (FSAP), Lisbon, 23 September 2026."
     },
     {
+      "title": "GitHub Actions workflow lockfiles in public preview",
+      "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-10-14T13:49:15+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "GitHub Actions workflow dependency lockfiles are now in public preview for GitHub Enterprise Cloud and GitHub Enterprise Cloud with data residency. Tags and branches can move after you review a… The post GitHub Actions workflow lockfiles in public preview appeared first on The GitHub Blog ."
+    },
+    {
       "title": "M 5.9 - Fiji region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u28y",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-14T11:06:01.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -963,7 +987,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u273",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-14T03:30:00.040+00:00",
-      "age_days": 0.44,
+      "age_days": 0.46,
       "topics": [
         "disaster"
       ],
@@ -988,7 +1012,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26u",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-14T02:40:37.040+00:00",
-      "age_days": 0.47,
+      "age_days": 0.5,
       "topics": [
         "disaster"
       ],
@@ -1007,30 +1031,6 @@
         "high terms: 10"
       ],
       "summary": "Time 2026-10-14 02:12:14 UTC 2026-10-14 02:12:14 UTC at epicenter Location 4.449°S 152.944°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "The new value test for investors: What founders are actually buying when they take your cheque",
-      "url": "https://e27.co/the-new-value-test-for-investors-what-founders-are-actually-buying-when-they-take-your-cheque-20260916/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-14T01:00:05+00:00",
-      "age_days": 0.54,
-      "topics": [],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: regional",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit"
-      ],
-      "summary": "A founder I know recently received two term sheets in the same week. The first was from a regional VC firm with a recognisable brand. The cheque was for US$1.5 million. The terms were reasonable. The partner had introduced himself at a conference six months earlier and had been pleasant in every interaction since. The…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Red Hat Enterprise Linux (goose, environment-modules, tornado): Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
