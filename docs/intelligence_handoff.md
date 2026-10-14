@@ -1,18 +1,28 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-14T07:30:05Z_
+_Generated: 2026-10-14T07:46:10Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “KomodoサーバーのエージェントPeripheryにおけるOSコマンドインジェクションの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.
+Stärkste Dynamik nach Gate-Recheck: “[NEU] [kritisch] Microsoft Windows und Windows Server: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.
 
 ## Top Dynamics
+
+### [NEU] [kritisch] Microsoft Windows und Windows Server: Mehrere Schwachstellen
+
+- Band: `krass` (raw `krass`)
+- Dynamics score: `33.0`
+- Published: `2026-10-14T07:34:11+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: kritisch, code, security high-signal: kritisch, code
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3892
 
 ### KomodoサーバーのエージェントPeripheryにおけるOSコマンドインジェクションの脆弱性
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-10-14T13:30:30+09:00` / age_days `0.12`
+- Published: `2026-10-14T13:30:30+09:00` / age_days `0.14`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -22,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “KomodoサーバーのエージェントP
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-10-14T13:30:10+09:00` / age_days `0.12`
+- Published: `2026-10-14T13:30:10+09:00` / age_days `0.14`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -32,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “KomodoサーバーのエージェントP
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-10-14T12:00:00+09:00` / age_days `0.19`
+- Published: `2026-10-14T12:00:00+09:00` / age_days `0.2`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -42,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “KomodoサーバーのエージェントP
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-10-14T11:00:00+09:00` / age_days `0.23`
+- Published: `2026-10-14T11:00:00+09:00` / age_days `0.24`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -52,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “KomodoサーバーのエージェントP
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-14T13:30:40+09:00` / age_days `0.12`
+- Published: `2026-10-14T13:30:40+09:00` / age_days `0.14`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “KomodoサーバーのエージェントP
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-14T13:30:50+09:00` / age_days `0.12`
+- Published: `2026-10-14T13:30:50+09:00` / age_days `0.14`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
@@ -72,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “KomodoサーバーのエージェントP
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-14T13:30:20+09:00` / age_days `0.12`
+- Published: `2026-10-14T13:30:20+09:00` / age_days `0.14`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “KomodoサーバーのエージェントP
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-14T13:30:00+09:00` / age_days `0.13`
+- Published: `2026-10-14T13:30:00+09:00` / age_days `0.14`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
@@ -92,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “KomodoサーバーのエージェントP
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `117.23`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `117.24`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 117.2d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “KomodoサーバーのエージェントP
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-14T06:20:23+00:00` / age_days `0.05`
+- Published: `2026-10-14T06:20:23+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: actively, active, rce, security high-signal: actively, active, rce, code, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “KomodoサーバーのエージェントP
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.0`
-- Published: `2026-10-14T11:25+09:00` / age_days `0.21`
+- Published: `2026-10-14T11:25+09:00` / age_days `0.22`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security, microsoft
 - Quelle: https://www.jpcert.or.jp/english/at/2026/at260031.html
-
-### 網擎資訊｜SecuShare Pro - OS Command Injection
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `22.0`
-- Published: `2026-10-08T05:42:00+00:00` / age_days `6.08`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: security high-signal: security
-- Quelle: https://www.twcert.org.tw/tw/cp-132-11254-9c206-1.html
 
 END OF DOCUMENT
