@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-14T04:07:07+00:00",
+  "generated_at": "2026-10-14T04:28:04+00:00",
   "topics": {
     "ai": [
       {
@@ -52,6 +52,13 @@
         "published_at": "2026-10-14T03:39:17+00:00",
         "relevance_score": 7,
         "url": "https://e27.co/the-us84245-resistance-is-hours-away-from-being-tested-will-buyers-show-up-or-fold-20261014/"
+      },
+      {
+        "title": "オレオレ詐欺がAIで極悪進化。無言電話に返した自分の声が、家族をだますヤバすぎる手口 | ギズモード・ジャパン",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-13T18:56:17+00:00",
+        "relevance_score": 7,
+        "url": "https://www.gizmodo.jp/article/2610-ai-voice-clone-scam/"
       },
       {
         "title": "無償のオフィススイート「ibisOffice」が登場、お絵描きアプリ「ibisPaint」の姉妹ソフト／高速動作と再現性の高さがウリ、「Rust」＋「GPUI」で高速動作、7万ものテストで「MS Office」再現性を検証",

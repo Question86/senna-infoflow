@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-14T04:07:07+00:00_
+_Generiert: 2026-10-14T04:28:04+00:00_
 
 ## Kurzlage
 
-21 neue relevante Treffer. Stärkstes Signal: „Can AI cut the US$170 billion cost of buying and selling homes?“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
+22 neue relevante Treffer. Stärkstes Signal: „Can AI cut the US$170 billion cost of buying and selling homes?“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -123,15 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Bangkok-based financial health platform Salary Hero has raised US$7.6 million in a Series A round of investment led by Cento Ventures, with Malaysia’s Kairous Capital and M Venture Partners participating. The startup has also expanded its credit facility with regional banks and lenders to US$10 million, and is using the money to formally enter Malaysia, […] The post Salary Hero lands US$7.6M Series A to take its fig…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **無償のオフィススイート「ibisOffice」が登場、お絵描きアプリ「ibisPaint」の姉妹ソフト／高速動作と再現性の高さがウリ、「Rust」＋「GPUI」で高速動作、7万ものテストで「MS Office」再現性を検証** — Score 5, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2147849.html)
+- **オレオレ詐欺がAIで極悪進化。無言電話に返した自分の声が、家族をだますヤバすぎる手口 | ギズモード・ジャパン** — Score 7, risk — [Quelle](https://www.gizmodo.jp/article/2610-ai-voice-clone-scam/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-14T00:44:08+00:00`, fetched `2026-10-14T03:25:40+00:00`
-  - Treffer: Hatena, hotentry
+  - Zeit: published `2026-10-13T18:56:17+00:00`, fetched `2026-10-14T04:27:29+00:00`
+  - Treffer: AI/KI, Hatena, hotentry, Reputationsrisiko
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 無償のオフィススイート「ibisOffice」が登場、お絵描きアプリ「ibisPaint」の姉妹ソフト／高速動作と再現性の高さがウリ、「Rust」＋「GPUI」で高速動作、7万ものテストで「MS Office」再現性を検証
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+  - Warum relevant: AI/KI (+3.0); Reputationsrisiko (+7.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph demote clone (x0.45)
+  - Kurz: Image: FTC米国の消費者保護を担う連邦取引委員会（FTC）は2023年3月、AIで家族の声を複製し、お金をだまし取ろうとする手口について注意をよびかけました。 短い音声と声を複製するプログラムがあれば、本人に似た声を作れるのだそう。 ネットに投稿された動画などが、声を拾われるきっかけにもなるようです。 さらに注...
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **GitHub App improvements for least privilege and management** — Score 4, observation — [Quelle](https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-10-13T23:17:55+00:00`, fetched `2026-10-14T00:12:26+00:00`
