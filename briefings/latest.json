@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T08:49:39+00:00",
-  "run_id": "2026-10-14T08:49:39+00:00",
+  "generated_at": "2026-10-14T08:58:08+00:00",
+  "run_id": "2026-10-14T08:58:08+00:00",
   "date": "2026-10-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 45,
     "displayed_findings": 45,
     "high": 0,
@@ -2257,50 +2257,7 @@
       "id": "ae569dcf77f4c5f9ef85"
     }
   ],
-  "new_findings": [
-    {
-      "title": "フランス全土のスーパーマーケットの冷蔵庫を無理矢理50度まで上げたサイバー攻撃の詳細、パスワードは毎日自動更新で「本日の日付」になるという脆弱性",
-      "url": "https://gigazine.net/news/20261014-freeze-controller-defrost-food-vulnerabilities-danfoss/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-14T06:06:27+00:00",
-      "fetched_at": "2026-10-14T08:49:01+00:00",
-      "summary": "フランス全土で「スーパーマーケットに設置された冷蔵庫の設定温度を50度にまで上げる」というサイバー攻撃が実施されました。このサイバー攻撃の詳細について、サイバーセキュリティ企業・Clarotyの脆弱(ぜいじゃく)性研究チームであるTeam82が報告しています。 Freeze the Controller, Defrost the Food: Uncovering V...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry",
-        "Open Source"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Open Source (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5631ee75fc8c6a2d6cba"
-    },
-    {
-      "title": "Closing remarks - Conference on the Main Findings of Portugal's Financial Sector Assessment Program",
-      "url": "https://www.bis.org/speeches/20261014-closing-remarks-conference-main-findings-portugals-financial-sector-assessment-program",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-10-14T00:00:00+00:00",
-      "fetched_at": "2026-10-14T08:49:01+00:00",
-      "summary": "Closing remarks by Ms Clara Raposo, Vice-Governor of the Banco de Portugal, at the Banco de Portugal’s Conference on the Main Findings of Portugal's Financial Sector Assessment Program (FSAP), Lisbon, 23 September 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "adc1064e5a86eb085494"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
