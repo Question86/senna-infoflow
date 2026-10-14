@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-14T03:44:56Z",
+  "generated_at": "2026-10-14T03:53:53Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 22,
+    "dynamics": 23,
     "bands": {
       "strong": 4,
       "watch": 8,
-      "quiet": 10
+      "quiet": 11
     },
     "bands_after_gate_recheck": {
       "strong": 4,
       "watch": 8,
-      "quiet": 10
+      "quiet": 11
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://jvn.jp/jp/JVN47427200/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-14T12:00:00+09:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -46,7 +46,7 @@
       "url": "https://jvn.jp/jp/JVN88474777/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-14T11:00:00+09:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -70,7 +70,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 117.07,
+      "age_days": 117.08,
       "topics": [
         "ai"
       ],
@@ -123,7 +123,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u272",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-14T03:32:01.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -148,7 +148,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26f",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-14T01:06:37.971+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -173,7 +173,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26c",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-14T00:50:38.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -198,7 +198,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u273",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-14T03:30:00.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -223,7 +223,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26u",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-14T02:40:37.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -248,7 +248,7 @@
       "url": "https://e27.co/the-new-value-test-for-investors-what-founders-are-actually-buying-when-they-take-your-cheque-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-14T01:00:05+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [],
       "dynamics_score": 17.0,
       "raw_band": "watch",
@@ -272,7 +272,7 @@
       "url": "https://e27.co/while-the-west-invests-in-longevity-southeast-asia-still-pays-cash-for-the-basics-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-14T03:00:55+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
@@ -296,7 +296,7 @@
       "url": "https://e27.co/can-ai-cut-the-us170-billion-cost-of-buying-and-selling-homes-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-14T01:30:26+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "macro"
@@ -322,7 +322,7 @@
       "url": "https://e27.co/manus-came-home-and-singapore-couldnt-stop-it-20261013/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-14T01:30:48+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -374,7 +374,7 @@
       "url": "https://e27.co/salary-hero-lands-us7-6m-series-a-to-take-its-fight-against-loan-sharks-to-malaysia-20261014/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-14T03:02:42+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -425,7 +425,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2147381.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-13T23:36:02+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -443,6 +443,33 @@
         "no strong comparative reason"
       ],
       "summary": "【やじうまミニレビュー】 宇宙ヤバイ！ベランダでアンドロメダ星雲が撮れるスマート望遠鏡DWARF mini"
+    },
+    {
+      "title": "The US$84,245 resistance is hours away from being tested. Will buyers show up or fold?",
+      "url": "https://e27.co/the-us84245-resistance-is-hours-away-from-being-tested-will-buyers-show-up-or-fold-20261014/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-14T03:39:17+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 4.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Bitcoin rose 0.89 per cent to US$83,264.98 over the past 24 hours, a gain that looks modest when set beside the 1.12 per cent increase in the total crypto market cap. This relationship matters. The largest digital asset did not climb because of a regulatory breakthrough or a huge institutional purchase. It climbed bec…"
     },
     {
       "title": "AI、家電乗っ取り増殖の恐れ アンソロピック「デジタル粘菌」と警告 - 日本経済新聞",
