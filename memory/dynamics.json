@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-14T10:03:30Z",
+  "generated_at": "2026-10-14T10:36:58Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 9,
-      "strong": 15,
+      "strong": 16,
       "watch": 14,
-      "quiet": 2
+      "quiet": 1
     },
     "bands_after_gate_recheck": {
       "krass": 3,
-      "strong": 21,
+      "strong": 22,
       "watch": 14,
-      "quiet": 2
+      "quiet": 1
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3883",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-14T09:14:12+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -49,7 +49,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3892",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-14T07:34:11+00:00",
-      "age_days": 0.1,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -74,7 +74,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3884",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-14T09:14:12+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -99,7 +99,7 @@
       "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297569-1032_bits.html",
       "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
       "published_at": "2026-10-14T10:00:00+00:00",
-      "age_days": 0.0,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -125,7 +125,7 @@
       "url": "https://jvn.jp/jp/JVN43511918/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-14T17:00:00+09:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -149,7 +149,7 @@
       "url": "https://jvn.jp/vu/JVNVU96061614/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-14T13:30:30+09:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -173,7 +173,7 @@
       "url": "https://jvn.jp/vu/JVNVU91265939/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-14T13:30:10+09:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -197,7 +197,7 @@
       "url": "https://jvn.jp/jp/JVN47427200/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-14T12:00:00+09:00",
-      "age_days": 0.29,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -221,7 +221,7 @@
       "url": "https://jvn.jp/jp/JVN88474777/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-14T11:00:00+09:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -245,7 +245,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3880",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-14T09:14:12+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -269,7 +269,7 @@
       "url": "https://gigazine.net/news/20261014-freeze-controller-defrost-food-vulnerabilities-danfoss/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-14T06:06:27+00:00",
-      "age_days": 0.16,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -294,7 +294,7 @@
       "url": "https://jvn.jp/vu/JVNVU92045336/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-14T13:30:40+09:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -320,7 +320,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3893",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-14T07:49:11+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -346,7 +346,7 @@
       "url": "https://jvn.jp/vu/JVNVU90141693/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-14T13:30:50+09:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -372,7 +372,7 @@
       "url": "https://jvn.jp/vu/JVNVU91984971/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-14T13:30:20+09:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -398,7 +398,7 @@
       "url": "https://jvn.jp/vu/JVNVU94083107/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-14T13:30:00+09:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -424,7 +424,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3878",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-14T09:14:12+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -450,7 +450,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 117.34,
+      "age_days": 117.36,
       "topics": [
         "ai"
       ],
@@ -469,7 +469,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 117.3d old signal",
+        "aging penalty -8.0 for 117.4d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -479,7 +479,7 @@
       "url": "https://github.com/vercel-labs/skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-14T06:20:23+00:00",
-      "age_days": 0.15,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "macro"
@@ -506,7 +506,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11270-88d86-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-10-14T02:09:00+00:00",
-      "age_days": 0.33,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -530,7 +530,7 @@
       "url": "https://www.jpcert.or.jp/english/at/2026/at260031.html",
       "source": "JPCERT/CC English Alerts",
       "published_at": "2026-10-14T11:25+09:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -554,7 +554,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11254-9c206-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-10-08T05:42:00+00:00",
-      "age_days": 6.18,
+      "age_days": 6.2,
       "topics": [
         "security"
       ],
@@ -578,7 +578,7 @@
       "url": "https://gigazine.net/news/20261014-anthropic-scion-version-control-system/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-14T04:36:13+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -603,7 +603,7 @@
       "url": "https://www.bis.org/speeches/20261013-introduction-panel-financial-risks-and-macroprudential-policy",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-13T00:00:00+00:00",
-      "age_days": 1.42,
+      "age_days": 1.44,
       "topics": [
         "ai",
         "macro"
@@ -627,11 +627,36 @@
       "summary": "Introduction by Ms Clara Raposo, Vice-Governor of the Banco de Portugal, to the panel “Financial risks and macroprudential policy”, at the Banco de Portugal’s Conference on the Main Findings of Portugal's Financial Sector Assessment Program (FSAP), Lisbon, 22 September 2026."
     },
     {
+      "title": "BYD expands EV shipping fleet as wars upend freight costs and key trade routes",
+      "url": "https://restofworld.org/2026/byd-expands-cargo-ship-ev-exports/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "published_at": "2026-10-14T10:00:00+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 20.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce, 10",
+        "security high-signal: rce, 10"
+      ],
+      "summary": "The ''BYD Explorer No. 1'' car carrier, loaded with new energy vehicles, is setting sail from Yantai Port in Yantai, China, on January 10, 2024."
+    },
+    {
       "title": "Patchday: Attacken auf verschiedene Windows-Versionen beobachtet",
       "url": "https://www.heise.de/news/Patchday-Attacken-auf-verschiedene-Windows-Versionen-beobachtet-11487264.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-14T06:59:00.000+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -655,7 +680,7 @@
       "url": "https://e27.co/singapores-next-ai-industry-may-be-the-people-who-check-the-agents-20261014/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-14T08:08:56+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -681,7 +706,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u272",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-14T03:32:01.040+00:00",
-      "age_days": 0.27,
+      "age_days": 0.3,
       "topics": [
         "disaster"
       ],
@@ -706,7 +731,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26f",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-14T01:06:37.971+00:00",
-      "age_days": 0.37,
+      "age_days": 0.4,
       "topics": [
         "disaster"
       ],
@@ -731,7 +756,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26c",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-14T00:50:38.040+00:00",
-      "age_days": 0.38,
+      "age_days": 0.41,
       "topics": [
         "disaster"
       ],
@@ -756,7 +781,7 @@
       "url": "https://www.bis.org/speeches/20261014-closing-remarks-conference-main-findings-portugals-financial-sector-assessment-program",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-14T00:00:00+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "ai",
         "macro"
@@ -784,7 +809,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u273",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-14T03:30:00.040+00:00",
-      "age_days": 0.27,
+      "age_days": 0.3,
       "topics": [
         "disaster"
       ],
@@ -809,7 +834,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26u",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-14T02:40:37.040+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "disaster"
       ],
@@ -834,7 +859,7 @@
       "url": "https://e27.co/the-new-value-test-for-investors-what-founders-are-actually-buying-when-they-take-your-cheque-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-14T01:00:05+00:00",
-      "age_days": 0.38,
+      "age_days": 0.4,
       "topics": [],
       "dynamics_score": 17.0,
       "raw_band": "watch",
@@ -858,7 +883,7 @@
       "url": "https://e27.co/singapore-wants-googles-ai-to-catch-scammers-before-victims-hit-send-20261014/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-14T05:00:10+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -884,7 +909,7 @@
       "url": "https://e27.co/while-the-west-invests-in-longevity-southeast-asia-still-pays-cash-for-the-basics-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-14T03:00:55+00:00",
-      "age_days": 0.29,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -908,7 +933,7 @@
       "url": "https://e27.co/can-ai-cut-the-us170-billion-cost-of-buying-and-selling-homes-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-14T01:30:26+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "ai",
         "macro"
@@ -934,7 +959,7 @@
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260091.en.html",
       "source": "ECB Open Market Operations and Communication",
       "published_at": "2026-10-14T08:15:23+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "macro"
       ],
@@ -958,7 +983,7 @@
       "url": "https://e27.co/85-per-cent-of-singapore-employers-expect-staff-to-be-always-on-half-offer-no-help-20261014/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-14T04:00:02+00:00",
-      "age_days": 0.25,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -982,7 +1007,7 @@
       "url": "https://www.bis.org/media-releases/20261014-global-standard-setting-bodies-publish-final-report-guidance-fmis-general-business-risks-and",
       "source": "BIS Press Releases",
       "published_at": "2026-10-14T00:00:00+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "macro"
       ],
@@ -1000,32 +1025,6 @@
         "high terms: 10"
       ],
       "summary": "The Bank for International Settlements’ Committee on Payments and Market Infrastructures (CPMI) and the International Organization of Securities Commissions (IOSCO) today published a final report on financial market infrastructures’ (FMIs) management of general business risks and general business losses."
-    },
-    {
-      "title": "Manus came home, and Singapore couldn’t stop it",
-      "url": "https://e27.co/manus-came-home-and-singapore-couldnt-stop-it-20261013/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-14T01:30:48+00:00",
-      "age_days": 0.36,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10, root",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "There is a particular kind of Southeast Asian optimism that treats Singapore like a geopolitical airlock. Walk in from Beijing or Shenzhen, shut the door behind you, register a Pte Ltd, and the pressure from home equalises. You are now a Singaporean company with “Chinese roots”, free to raise from Silicon Valley and s…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Red Hat Enterprise Linux (goose, environment-modules, tornado): Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
