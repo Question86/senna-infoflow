@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-14T03:26:13+00:00_
+_Generated: 2026-10-14T03:39:17+00:00_
 
 ## Status
 - status: `normal`
-- findings: `16`
+- findings: `18`
 
 ## Top Signals
 
@@ -43,18 +43,18 @@ _Generated: 2026-10-14T03:26:13+00:00_
 - url: https://www.itmedia.co.jp/news/article/2610/14/2000002236/
 - summary: 社内の監視カメラの映像には、装置の発見前に同容疑者が複数回にわたって役員会議室の付近に現れる様子が映っていた。同容疑者には、この会議室への立ち入りや会議への参加の権限はなかった。訴状によると、この会議室では独自の研究や製品計画、事業開発の機会に加え、技術的な進捗や戦略上の判断、政府との関わり、商...
 
-### 6. M 5.0 - 95 km NNW of Coquimbo, Chile
+### 6. M 4.9 - 16 km WSW of La Tirana, Chile
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-10-14T03:32:01.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u272
+- summary: Time 2026-10-14 03:11:09 UTC 2026-10-14 03:11:09 UTC at epicenter Location 20.355°S 70.270°W Depth 44.91 km (27.91 mi)
+
+### 7. M 5.0 - 95 km NNW of Coquimbo, Chile
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-10-14T01:06:37.971+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26f
 - summary: DYFI? - III Time 2026-10-14 00:36:45 UTC 2026-10-14 00:36:45 UTC at epicenter Location 29.218°S 71.843°W Depth 10.00 km (6.21 mi)
-
-### 7. M 5.1 - 92 km NW of La Serena, Chile
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-10-14T00:50:38.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26c
-- summary: Time 2026-10-14 00:30:47 UTC 2026-10-14 00:30:47 UTC at epicenter Location 29.214°S 71.789°W Depth 19.22 km (11.94 mi)
 
 END OF DOCUMENT

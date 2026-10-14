@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-14T03:26:13+00:00",
+  "generated_at": "2026-10-14T03:39:17+00:00",
   "topics": {
     "ai": [
       {
@@ -72,6 +72,13 @@
     ],
     "general": [
       {
+        "title": "M 4.9 - 16 km WSW of La Tirana, Chile",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-14T03:32:01.040+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u272"
+      },
+      {
         "title": "M 5.0 - 95 km NNW of Coquimbo, Chile",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-14T01:06:37.971+00:00",
@@ -84,6 +91,13 @@
         "published_at": "2026-10-14T00:50:38.040+00:00",
         "relevance_score": 11,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26c"
+      },
+      {
+        "title": "M 4.8 - North Atlantic Ocean",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-14T03:30:00.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u273"
       },
       {
         "title": "M 4.6 - 75 km E of Kokopo, Papua New Guinea",

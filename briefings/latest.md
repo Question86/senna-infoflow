@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-14T03:26:13+00:00_
+_Generiert: 2026-10-14T03:39:17+00:00_
 
 ## Kurzlage
 
-16 neue relevante Treffer. Stärkstes Signal: „Can AI cut the US$170 billion cost of buying and selling homes?“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
+18 neue relevante Treffer. Stärkstes Signal: „Can AI cut the US$170 billion cost of buying and selling homes?“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -129,6 +129,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 社内の監視カメラの映像には、装置の発見前に同容疑者が複数回にわたって役員会議室の付近に現れる様子が映っていた。同容疑者には、この会議室への立ち入りや会議への参加の権限はなかった。訴状によると、この会議室では独自の研究や製品計画、事業開発の機会に加え、技術的な進捗や戦略上の判断、政府との関わり、商...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.9 - 16 km WSW of La Tirana, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u272)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-14T03:32:01.040+00:00`, fetched `2026-10-14T03:38:42+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-14 03:11:09 UTC 2026-10-14 03:11:09 UTC at epicenter Location 20.355°S 70.270°W Depth 44.91 km (27.91 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.0 - 95 km NNW of Coquimbo, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26f)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-14T01:06:37.971+00:00`, fetched `2026-10-14T01:13:49+00:00`
@@ -174,15 +183,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Bangkok-based financial health platform Salary Hero has raised US$7.6 million in a Series A round of investment led by Cento Ventures, with Malaysia’s Kairous Capital and M Venture Partners participating. The startup has also expanded its credit facility with regional banks and lenders to US$10 million, and is using the money to formally enter Malaysia, […] The post Salary Hero lands US$7.6M Series A to take its fig…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.6 - 75 km E of Kokopo, Papua New Guinea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u26u)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-14T02:40:37.040+00:00`, fetched `2026-10-14T02:49:01+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-14 02:12:14 UTC 2026-10-14 02:12:14 UTC at epicenter Location 4.449°S 152.944°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **While the West invests in longevity, Southeast Asia still pays cash for the basics** — Score 8, observation — [Quelle](https://e27.co/while-the-west-invests-in-longevity-southeast-asia-still-pays-cash-for-the-basics-20261010/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-14T03:00:55+00:00`, fetched `2026-10-14T03:25:40+00:00`
