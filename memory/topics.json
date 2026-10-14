@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-14T19:00:41+00:00",
+  "generated_at": "2026-10-14T19:17:50+00:00",
   "topics": {
     "ai": [
       {
@@ -96,6 +96,13 @@
         "published_at": "2026-10-14T13:49:15+00:00",
         "relevance_score": 12,
         "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview"
+      },
+      {
+        "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-10-14T19:11:33+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/"
       },
       {
         "title": "Global standard-setting bodies publish final report on guidance for FMIs on general business risks and general business losses",
