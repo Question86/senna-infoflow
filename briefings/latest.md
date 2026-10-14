@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-14T21:00:46+00:00_
+_Generiert: 2026-10-14T21:17:45+00:00_
 
 ## Kurzlage
 
-81 neue relevante Treffer. Stärkstes Signal: „vercel-labs/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
+83 neue relevante Treffer. Stärkstes Signal: „vercel-labs/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
