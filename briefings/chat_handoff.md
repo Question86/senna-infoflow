@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-14T07:05:16+00:00_
+_Generated: 2026-10-14T07:27:41+00:00_
 
 ## Status
 - status: `normal`
-- findings: `35`
+- findings: `37`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-10-14T07:05:16+00:00_
 - url: https://e27.co/manus-came-home-and-singapore-couldnt-stop-it-20261013/
 - summary: There is a particular kind of Southeast Asian optimism that treats Singapore like a geopolitical airlock. Walk in from Beijing or Shenzhen, shut the door behind you, register a Pte Ltd, and the pressure from home equalises. You are now a Singaporean company w…
 
-### 6. Parallel Loop nets US$6.6M to sell enterprises the one thing AI models lack: context
+### 6. Announcing 20260091 (OT,liquidity providing), for 7 days deadline 09:45
+- source: ECB Open Market Operations and Communication
+- score: `12`
+- published: `2026-10-14T08:15:23+00:00`
+- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260091.en.html
+- summary: Announcing 20260091 (OT,liquidity providing), for 7 days deadline 09:45
+
+### 7. Parallel Loop nets US$6.6M to sell enterprises the one thing AI models lack: context
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-10-14T05:29:22+00:00`
 - url: https://e27.co/parallel-loop-nets-us6-6m-to-sell-enterprises-the-one-thing-ai-models-lack-context-20261014/
 - summary: In early 2018, Yujun Chean and Prateek Jogani were selling car insurance with a cashback twist. Their Singapore startup, Vouch Insurtech, had just raised SGD1 million (then US$755,000) in seed funding as the parent of Thai insurtech FairDee. Eight years on, t…
 
-### 7. OpenAI従業員、役員会議室に録音装置を仕掛けた疑いでFBIが逮捕
+### 8. OpenAI従業員、役員会議室に録音装置を仕掛けた疑いでFBIが逮捕
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-10-13T22:35:12+00:00`
 - url: https://www.itmedia.co.jp/news/article/2610/14/2000002236/
 - summary: 社内の監視カメラの映像には、装置の発見前に同容疑者が複数回にわたって役員会議室の付近に現れる様子が映っていた。同容疑者には、この会議室への立ち入りや会議への参加の権限はなかった。訴状によると、この会議室では独自の研究や製品計画、事業開発の機会に加え、技術的な進捗や戦略上の判断、政府との関わり、商...
-
-### 8. M 4.9 - 16 km WSW of La Tirana, Chile
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-10-14T03:32:01.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u272
-- summary: Time 2026-10-14 03:11:09 UTC 2026-10-14 03:11:09 UTC at epicenter Location 20.355°S 70.270°W Depth 44.91 km (27.91 mi)
 
 END OF DOCUMENT
