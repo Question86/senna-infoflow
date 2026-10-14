@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-14T05:58:30+00:00_
+_Generiert: 2026-10-14T06:20:53+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „Can AI cut the US$170 billion cost of buying and selling homes?“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
+35 neue relevante Treffer. Stärkstes Signal: „vercel-labs/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -77,6 +77,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **vercel-labs/skills** — Score 23, observation — [Quelle](https://github.com/vercel-labs/skills)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-10-14T06:20:23+00:00`
+  - Treffer: AI Agents, APAC Trend Radar, Content-Chance, GitHub Trending, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+6.0); AI Agents (+6.2); APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: The open agent skills tool - npx skills https://skills.sh skills The CLI for the open agent skills ecosystem. Supports OpenCode , Claude Code , Codex , Cursor , and 75 more . Install a Skill npx skills add vercel-labs/agent-skills Use a Skill Without Installing Generate a prompt for one skill, or start a supported coding agent interactively: npx skills use vercel-labs/agent-skills@web-design-guidelines | claude npx…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Can AI cut the US$170 billion cost of buying and selling homes?** — Score 20, observation — [Quelle](https://e27.co/can-ai-cut-the-us170-billion-cost-of-buying-and-selling-homes-20260916/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-14T01:30:26+00:00`, fetched `2026-10-14T01:32:52+00:00`
@@ -197,6 +206,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); JPCERT (+2.0); recent (+1.0)
   - Kurz: Security Alert: Microsoft Releases October 2026 Security Updates
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **網擎資訊｜SecuShare Pro - OS Command Injection** — Score 10, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11254-9c206-1.html)
+  - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
+  - Zeit: published `2026-10-08T05:42:00+00:00`, fetched `2026-10-14T06:20:23+00:00`
+  - Treffer: Security, TVN, TWCERT
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0)
+  - Kurz: 網擎資訊｜SecuShare Pro - OS Command Injection
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Read the sectors, not the headline: What Singapore’s growth upgrade tells SEA founders** — Score 9, observation — [Quelle](https://e27.co/read-the-sectors-not-the-headline-what-singapores-growth-upgrade-tells-sea-founders-20261010/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-14T04:00:21+00:00`, fetched `2026-10-14T04:06:33+00:00`
@@ -206,6 +224,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: When the Ministry of Trade and Industry raised Singapore’s 2026 growth forecast in August, most of the founders I talk to read it the way the headlines invited them to, as good news for everyone. The revision was large. MTI moved its forecast from 2.0 to 4.0 per cent up to 4.5 to 5.5 per […] The post Read the sectors, not the headline: What Singapore’s growth upgrade tells SEA founders appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Introduction to the panel “Financial risks and macroprudential policy”** — Score 8, opportunity — [Quelle](https://www.bis.org/speeches/20261013-introduction-panel-financial-risks-and-macroprudential-policy)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-13T00:00:00+00:00`, fetched `2026-10-14T06:20:23+00:00`
+  - Treffer: macro, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); macro (+2.5); recent (+1.0)
+  - Kurz: Introduction by Ms Clara Raposo, Vice-Governor of the Banco de Portugal, to the panel “Financial risks and macroprudential policy”, at the Banco de Portugal’s Conference on the Main Findings of Portugal's Financial Sector Assessment Program (FSAP), Lisbon, 22 September 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **オレオレ詐欺がAIで極悪進化。無言電話に返した自分の声が、家族をだますヤバすぎる手口 | ギズモード・ジャパン** — Score 7, risk — [Quelle](https://www.gizmodo.jp/article/2610-ai-voice-clone-scam/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-13T18:56:17+00:00`, fetched `2026-10-14T04:27:29+00:00`
@@ -215,6 +242,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Reputationsrisiko (+7.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph demote clone (x0.45)
   - Kurz: Image: FTC米国の消費者保護を担う連邦取引委員会（FTC）は2023年3月、AIで家族の声を複製し、お金をだまし取ろうとする手口について注意をよびかけました。 短い音声と声を複製するプログラムがあれば、本人に似た声を作れるのだそう。 ネットに投稿された動画などが、声を拾われるきっかけにもなるようです。 さらに注...
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **デジタル庁コンプライアンス委員会（第12回）の議事要旨および資料を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/councils/compliance/91dadb4f-4f6a-486c-9167-528e1564b3e7)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-10-14T06:00:00+00:00`, fetched `2026-10-14T06:20:23+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: デジタル庁コンプライアンス委員会（第12回）の議事要旨および資料を掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **GitHub App improvements for least privilege and management** — Score 4, observation — [Quelle](https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-10-13T23:17:55+00:00`, fetched `2026-10-14T00:12:26+00:00`
