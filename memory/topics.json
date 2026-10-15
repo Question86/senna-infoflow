@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-15T21:46:16+00:00",
+  "generated_at": "2026-10-15T21:51:46+00:00",
   "topics": {
     "ai": [
       {
@@ -240,6 +240,13 @@
         "published_at": "2026-10-15T15:04:51+00:00",
         "relevance_score": 14,
         "url": "https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available"
+      },
+      {
+        "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-10-15T21:47:55+00:00",
+        "relevance_score": 12,
+        "url": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/"
       },
       {
         "title": "Download GitHub Code Quality license usage as a CSV",

@@ -715,6 +715,28 @@
     "id": "0aa5141141586191005a"
   },
   {
+    "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
+    "url": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/",
+    "source": "GitHub Blog Atom",
+    "source_type": "rss",
+    "published_at": "2026-10-15T21:47:55+00:00",
+    "fetched_at": "2026-10-15T21:51:13+00:00",
+    "summary": "Put native GitHub features to work to review outside collaborator access and archive stale repositories. The post Staying Evergreen: How we automated secure access and repo hygiene in a shared org appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "GitHub",
+      "Security"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "59b46a7f31c2ce5b7dfd"
+  },
+  {
     "title": "Download GitHub Code Quality license usage as a CSV",
     "url": "https://github.blog/changelog/2026-10-15-download-github-code-quality-license-usage-as-a-csv",
     "source": "GitHub Changelog Atom",

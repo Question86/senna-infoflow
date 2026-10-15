@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-15T21:46:16+00:00_
+_Generiert: 2026-10-15T21:51:46+00:00_
 
 ## Kurzlage
 
-75 neue relevante Treffer. Stärkstes Signal: „Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+76 neue relevante Treffer. Stärkstes Signal: „Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -206,6 +206,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Staying Evergreen: How we automated secure access and repo hygiene in a shared org** — Score 12, observation — [Quelle](https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/)
+  - Quelle: GitHub Blog Atom / `rss`
+  - Zeit: published `2026-10-15T21:47:55+00:00`, fetched `2026-10-15T21:51:13+00:00`
+  - Treffer: APAC Trend Radar, GitHub, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: Put native GitHub features to work to review outside collaborator access and archive stale repositories. The post Staying Evergreen: How we automated secure access and repo hygiene in a shared org appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Download GitHub Code Quality license usage as a CSV** — Score 12, observation — [Quelle](https://github.blog/changelog/2026-10-15-download-github-code-quality-license-usage-as-a-csv)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-10-15T20:11:26+00:00`, fetched `2026-10-15T20:32:28+00:00`
@@ -331,15 +340,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Angreifer attackieren zurzeit Firewalls von Palo Alto Networks. Eine reparierte PAN-OS-Version schafft Abhilfe.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Angreifer nutzen Root-Lücke in Cisco Secure Email Gateway aus** — Score 7, observation — [Quelle](https://www.heise.de/news/Angreifer-nutzen-Root-Luecke-in-Cisco-Secure-Email-Gateway-aus-11488853.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-10-15T07:07:00.000+00:00`, fetched `2026-10-15T07:20:45+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Eine kritische Lücke in Ciscos Secure Email Gateway wird bereits ausgenutzt. Präparierte Mailanhänge verschaffen Angreifern Root-Rechte.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
