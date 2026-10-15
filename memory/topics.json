@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-15T14:00:19+00:00",
+  "generated_at": "2026-10-15T14:20:34+00:00",
   "topics": {
     "ai": [
       {
@@ -47,6 +47,13 @@
         "url": "https://github.com/HKUDS/CLI-Anything"
       },
       {
+        "title": "Teaching students to think and learn through questions",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-10-15T13:00:00+00:00",
+        "relevance_score": 12,
+        "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions"
+      },
+      {
         "title": "Sea and Google open chapter two of their AI pact before chapter one ships",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-10-15T08:19:49+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-10-15T04:30:45+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/ai-can-increase-productivity-it-cant-increase-human-capacity-20261015/"
-      },
-      {
-        "title": "PlayStation 5で27Bの生成AIが動作。脱獄の進展次第ではPS5もAI需要の餌食になる可能性",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-15T03:54:24+00:00",
-        "relevance_score": 8,
-        "url": "https://gazlog.jp/entry/ps5-can-run-27b-llm/"
       }
     ],
     "security": [
@@ -233,6 +233,13 @@
         "published_at": "2026-10-15T02:55:00+00:00",
         "relevance_score": 17,
         "url": "https://www.federalreserve.gov/newsevents/speech/bowman20261014a.htm"
+      },
+      {
+        "title": "Teaching students to think and learn through questions",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-10-15T13:00:00+00:00",
+        "relevance_score": 12,
+        "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions"
       },
       {
         "title": "Institutional buyers face a massive test at the US$81,000 Bitcoin support level",

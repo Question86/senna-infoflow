@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-15T14:00:19+00:00_
+_Generiert: 2026-10-15T14:20:34+00:00_
 
 ## Kurzlage
 
-58 neue relevante Treffer. Stärkstes Signal: „Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+60 neue relevante Treffer. Stärkstes Signal: „Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -123,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Teaching students to think and learn through questions** — Score 12, observation — [Quelle](https://openai.com/index/teaching-students-to-think-and-learn-through-questions)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-15T13:00:00+00:00`, fetched `2026-10-15T14:19:56+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); recent (+1.0); watchgraph region south_america: Brazil (+2.0)
+  - Kurz: Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Southeast Asia’s funding winter is real. Its building winter isn’t** — Score 12, observation — [Quelle](https://e27.co/southeast-asias-funding-winter-is-real-its-building-winter-isnt-20261010/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-15T02:00:34+00:00`, fetched `2026-10-15T02:23:01+00:00`
@@ -248,15 +257,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: ソースネクスト、最大2251万件の情報流出 パスワード再設定を
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **What the West can learn from AI optimists in the rest of the world** — Score 5, observation — [Quelle](https://restofworld.org/2026/west-ai-anxiety-optimism-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
-  - Quelle: Rest of World Global Tech Feed / `rss`
-  - Zeit: published `2026-10-15T10:00:00+00:00`, fetched `2026-10-15T10:19:23+00:00`
-  - Treffer: AI/KI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); recent (+1.0)
-  - Kurz: The developing world’s enthusiastic adoption of AI and necessity-driven innovations offer lessons for an anxiety-ridden West.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
