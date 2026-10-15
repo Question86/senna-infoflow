@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-15T19:52:29+00:00",
+  "generated_at": "2026-10-15T19:57:37+00:00",
   "topics": {
     "ai": [
       {
@@ -261,6 +261,13 @@
         "published_at": "2026-10-15T19:39:27+00:00",
         "relevance_score": 6,
         "url": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/"
+      },
+      {
+        "title": "Upcoming deprecation of selected GitHub Copilot models in mid-November",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-15T19:35:13+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november"
       },
       {
         "title": "Email notifications for repository push events have been retired",
