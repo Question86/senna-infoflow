@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-15T08:03:34+00:00_
+_Generated: 2026-10-15T08:30:18+00:00_
 
 ## Status
 - status: `normal`
-- findings: `30`
+- findings: `32`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-10-15T08:03:34+00:00_
 - url: https://e27.co/institutional-buyers-face-a-massive-test-at-the-us81000-bitcoin-support-level-20261015/
 - summary: The cryptocurrency sector experienced a severe and sudden decline over the last 24 hours. Bitcoin fell 2.28 per cent to US$81,370.58. The broader digital asset ecosystem mirrored this downward trajectory, dropping 2.22 per cent to a total valuation of US$2.74…
 
-### 8. M 5.3 - 43 km SSE of Otorohanga, New Zealand
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-10-15T05:41:14.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ev
-- summary: Time 2026-10-15 05:25:31 UTC 2026-10-15 05:25:31 UTC at epicenter Location 38.548°S 175.381°E Depth 286.01 km (177.72 mi)
+### 8. Sea and Google open chapter two of their AI pact before chapter one ships
+- source: e27 Asia Startup and Tech Feed
+- score: `10`
+- published: `2026-10-15T08:19:49+00:00`
+- url: https://e27.co/sea-and-google-open-chapter-two-of-their-ai-pact-before-chapter-one-ships-20261015/
+- summary: Google has been busy making friends in Singapore. On 7 October, its AI Futures Fund teamed up with Granite Asia to write cheques of up to US$2 million into Asian AI startups. Eight days later, the same fund has walked into Sea Limited’s office carrying someth…
 
 END OF DOCUMENT

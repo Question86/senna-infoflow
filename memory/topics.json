@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-15T08:03:34+00:00",
+  "generated_at": "2026-10-15T08:30:18+00:00",
   "topics": {
     "ai": [
       {
@@ -31,6 +31,13 @@
         "published_at": null,
         "relevance_score": 16,
         "url": "https://github.com/HKUDS/CLI-Anything"
+      },
+      {
+        "title": "Sea and Google open chapter two of their AI pact before chapter one ships",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-15T08:19:49+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/sea-and-google-open-chapter-two-of-their-ai-pact-before-chapter-one-ships-20261015/"
       },
       {
         "title": "Character.ai was worth US$2.7B to Google. Disney just offered US$20M",
@@ -66,13 +73,6 @@
         "published_at": "2026-10-15T06:00:00+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/policies/genai/employment-equality-01"
-      },
-      {
-        "title": "異例の「iPhone Air」投げ売りはなぜ起きている？ 定価29.5万円の1TBモデルが、いま18.4万円で買える3つの理由",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-14T23:13:47+00:00",
-        "relevance_score": 5,
-        "url": "https://www.itmedia.co.jp/mobile/articles/2610/15/news037.html"
       }
     ],
     "economy": [
@@ -265,6 +265,13 @@
         "published_at": "2026-10-15T06:00:00+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/press/bc0973b1-afd3-4948-8592-a610513e0a95"
+      },
+      {
+        "title": "バーガーキング アプリの会員情報 約1118万件漏えい | NHKニュース",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-15T07:06:47+00:00",
+        "relevance_score": 5,
+        "url": "https://news.web.nhk/newsweb/na/nd-20261015de59803"
       },
       {
         "title": "雑談はセンサーになる──ふりかえりで言えない本音を拾い、チームを動かす - Agile Journey",
