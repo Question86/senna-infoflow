@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-15T12:01:12+00:00_
+_Generiert: 2026-10-15T12:30:08+00:00_
 
 ## Kurzlage
 
@@ -61,10 +61,6 @@ _Generiert: 2026-10-15T12:01:12+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone TRUDY-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **USGS earthquake M5.6 - 43 km NNW of Lake Minchumina, Alaska** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ukynnb)
-  - Quelle: USGS
-  - Zeit: `2026-10-15T11:07:01+00:00`
-  - Kurz: M5.6 - 43 km NNW of Lake Minchumina, Alaska. PAGER alert: none. Tsunami flag: 0.
 
 ## Wirtschaft global
 
