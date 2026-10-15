@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-15T05:32:02+00:00_
+_Generated: 2026-10-15T05:44:07+00:00_
 
 ## Status
-- status: `normal`
-- findings: `20`
+- status: `warning`
+- findings: `21`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-10-15T05:32:02+00:00_
 - url: https://e27.co/institutional-buyers-face-a-massive-test-at-the-us81000-bitcoin-support-level-20261015/
 - summary: The cryptocurrency sector experienced a severe and sudden decline over the last 24 hours. Bitcoin fell 2.28 per cent to US$81,370.58. The broader digital asset ecosystem mirrored this downward trajectory, dropping 2.22 per cent to a total valuation of US$2.74…
 
-### 7. M 4.8 - 30 km E of Safotu, Samoa
+### 7. M 5.3 - 43 km SSE of Otorohanga, New Zealand
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-10-15T05:41:14.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ev
+- summary: Time 2026-10-15 05:25:31 UTC 2026-10-15 05:25:31 UTC at epicenter Location 38.548°S 175.381°E Depth 286.01 km (177.72 mi)
+
+### 8. M 4.8 - 30 km E of Safotu, Samoa
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-10-15T04:02:36.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2eh
 - summary: Time 2026-10-15 03:36:08 UTC 2026-10-15 03:36:08 UTC at epicenter Location 13.433°S 172.117°W Depth 13.47 km (8.37 mi)
-
-### 8. M 5.1 - 36 km E of Safotu, Samoa
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-10-15T03:59:13.050+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ec
-- summary: DYFI? - III Time 2026-10-15 03:36:29 UTC 2026-10-15 03:36:29 UTC at epicenter Location 13.409°S 172.069°W Depth 13.21 km (8.21 mi)
 
 END OF DOCUMENT
