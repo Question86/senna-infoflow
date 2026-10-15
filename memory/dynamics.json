@@ -1,24 +1,51 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-15T09:41:41Z",
+  "generated_at": "2026-10-15T09:50:31Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 37,
+    "dynamics": 38,
     "bands": {
       "extreme": 1,
       "krass": 1,
-      "strong": 10,
+      "strong": 11,
       "watch": 6,
       "quiet": 19
     },
     "bands_after_gate_recheck": {
-      "strong": 12,
+      "strong": 13,
       "watch": 6,
       "quiet": 19
     }
   },
   "top_dynamics": [
+    {
+      "title": "2026-017: Critical Vulnerability in Cisco Secure Email Gateway",
+      "url": "https://cert.europa.eu/publications/security-advisories/2026-017/",
+      "source": "CERT-EU Security Advisories",
+      "published_at": "2026-10-15T11:38:20+00:00",
+      "age_days": 0,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: active, exploitation, critical",
+        "security high-signal: active, exploitation, critical, unauthenticated",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "On 14 October 2026, Cisco published a security advisory addressing a critical vulnerability affecting the Advanced Malware Protection (AMP) feature of Cisco Secure Email Gateway. This vulnerability could allow an unauthenticated, remote attacker to write arbitrary files and execute commands with root privileges on the…"
+    },
     {
       "title": "PAN-OS: Schadcode schlüpft durch Root-Lücke in Palo-Alto-Firewalls",
       "url": "https://www.heise.de/news/PAN-OS-Schadcode-schluepft-durch-Root-Luecke-in-Palo-Alto-Firewalls-11488897.html",
@@ -99,7 +126,7 @@
       "url": "https://jvn.jp/jp/JVN40460777/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T12:00:00+09:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -123,7 +150,7 @@
       "url": "https://jvn.jp/vu/JVNVU95613365/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T10:30:30+09:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -147,7 +174,7 @@
       "url": "https://jvn.jp/vu/JVNVU95474776/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T10:30:15+09:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -171,7 +198,7 @@
       "url": "https://jvn.jp/vu/JVNVU94697946/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T10:30:00+09:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "security",
         "macro"
@@ -196,7 +223,7 @@
       "url": "https://e27.co/tokens-are-the-wrong-yardstick-for-ai-agents-says-jfrogs-sunny-rao-20261014/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-15T01:00:34+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "macro"
@@ -225,7 +252,7 @@
       "url": "https://e27.co/southeast-asias-funding-winter-is-real-its-building-winter-isnt-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-15T02:00:34+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -252,7 +279,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 118.32,
+      "age_days": 118.33,
       "topics": [
         "ai"
       ],
@@ -307,7 +334,7 @@
       "url": "https://github.com/HKUDS/CLI-Anything",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-15T06:06:30+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -408,7 +435,7 @@
       "url": "https://e27.co/institutional-buyers-face-a-massive-test-at-the-us81000-bitcoin-support-level-20261015/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-15T03:53:43+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "macro"
       ],
@@ -459,7 +486,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/bowman20261014a.htm",
       "source": "Federal Reserve Speeches and Testimony",
       "published_at": "2026-10-15T02:55:00+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "ai",
         "macro"
@@ -486,7 +513,7 @@
       "url": "https://www.digital.go.jp/get-involved/procedure/e01662cd-4263-445c-8db8-55013d45ab10",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-15T06:00:00+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -510,7 +537,7 @@
       "url": "https://www.digital.go.jp/press/bc0973b1-afd3-4948-8592-a610513e0a95",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-15T06:00:00+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -558,7 +585,7 @@
       "url": "https://agilejourney.uzabase.com/entry/2026/10/15/103000",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-15T01:33:17+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "general"
       ],
@@ -606,7 +633,7 @@
       "url": "https://e27.co/every-dashboard-is-green-so-why-cant-anyone-say-what-worked-20261012/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-15T03:00:06+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "macro"
       ],
@@ -630,7 +657,7 @@
       "url": "https://note.com/shiba_program/n/nd2d72747f8c5",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-15T04:24:08+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -682,7 +709,7 @@
       "url": "https://www.digital.go.jp/councils/procurement-reform/FY2026/84c9dba6-43cb-4cf1-be91-0753c744f38d",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-15T06:15:54+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -706,7 +733,7 @@
       "url": "https://e27.co/character-ai-was-worth-us2-7b-to-google-disney-just-offered-us20m-20261015/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-15T08:00:23+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -914,7 +941,7 @@
       "url": "https://gazlog.jp/entry/ps5-can-run-27b-llm/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-15T03:54:24+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -939,7 +966,7 @@
       "url": "https://www.digital.go.jp/policies/genai/employment-equality-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-15T06:00:00+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -960,5 +987,5 @@
       "summary": "動画【ガバメントAI 開発記録】雇用環境・均等行政の挑戦【①AIに何を任せるか】を公開しました"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “PAN-OS: Schadcode schlüpft durch Root-Lücke in Palo-Alto-Firewalls” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “2026-017: Critical Vulnerability in Cisco Secure Email Gateway” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
 }
