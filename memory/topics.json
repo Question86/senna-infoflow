@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-15T23:04:03+00:00",
+  "generated_at": "2026-10-15T23:16:29+00:00",
   "topics": {
     "ai": [
       {
@@ -68,11 +68,11 @@
         "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions"
       },
       {
-        "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (09 octobre 2026)",
-        "source": "CERT-FR Avis de sécurité",
-        "published_at": "2026-10-09T00:00:00+00:00",
+        "title": "リーナス・トーバルズがClaude CodeなどのAIをバリバリ活用してLinuxカーネルの改善に取り組み中",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-15T21:32:18+00:00",
         "relevance_score": 11,
-        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1288/"
+        "url": "https://gigazine.net/news/20261016-linus-torvalds-claude-code/"
       }
     ],
     "security": [
