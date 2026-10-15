@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-15T09:37:47+00:00_
+_Generated: 2026-10-15T09:48:16+00:00_
 
 ## Status
 - status: `normal`
-- findings: `33`
+- findings: `34`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-10-15T09:37:47+00:00_
 - url: https://e27.co/tokens-are-the-wrong-yardstick-for-ai-agents-says-jfrogs-sunny-rao-20261014/
 - summary: Anyone who has spent 10 minutes pressing “0” to escape a voice bot knows how the last automation wave ended. Call centres were promised dramatic savings from IVRs and chatbots. Customers got phone trees that went in circles, and companies got a fresh layer of…
 
-### 2. AI and inflation are driving Singapore’s workplace anxiety. Employers are spending on the wrong fix
+### 2. 2026-017: Critical Vulnerability in Cisco Secure Email Gateway
+- source: CERT-EU Security Advisories
+- score: `20`
+- published: `2026-10-15T11:38:20+00:00`
+- url: https://cert.europa.eu/publications/security-advisories/2026-017/
+- summary: On 14 October 2026, Cisco published a security advisory addressing a critical vulnerability affecting the Advanced Malware Protection (AMP) feature of Cisco Secure Email Gateway. This vulnerability could allow an unauthenticated, remote attacker to write arbi…
+
+### 3. AI and inflation are driving Singapore’s workplace anxiety. Employers are spending on the wrong fix
 - source: e27 Asia Startup and Tech Feed
 - score: `17`
 - published: `2026-10-15T04:00:44+00:00`
 - url: https://e27.co/ai-and-inflation-are-driving-singapores-workplace-anxiety-employers-are-spending-on-the-wrong-fix-20261015/
 - summary: Most Singapore office workers know the ritual. A message lands at 10.47pm. It is not urgent. You answer it within 90 seconds anyway, not because the work demands it, but because you want someone to notice that you answered it within 90 seconds. It turns out t…
 
-### 3. Bowman, Supervisory Modernization After Silicon Valley Bank
+### 4. Bowman, Supervisory Modernization After Silicon Valley Bank
 - source: Federal Reserve Speeches and Testimony
 - score: `17`
 - published: `2026-10-15T02:55:00+00:00`
 - url: https://www.federalreserve.gov/newsevents/speech/bowman20261014a.htm
 - summary: Speech At the Bangkok Economic Festival, Reinventing Bretton Woods Committee, Bangkok, Thailand
-
-### 4. HKUDS/CLI-Anything
-- source: GitHub Trending RSS All Languages Daily
-- score: `16`
-- published: `None`
-- url: https://github.com/HKUDS/CLI-Anything
-- summary: "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ https://clianything.cc/ CLI-Anything: Making ALL Software Agent-Native Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Bet…
 
 ### 5. Southeast Asia’s funding winter is real. Its building winter isn’t
 - source: e27 Asia Startup and Tech Feed

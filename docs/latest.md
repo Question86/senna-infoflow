@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-15T09:37:47+00:00_
+_Generiert: 2026-10-15T09:48:16+00:00_
 
 ## Kurzlage
 
-33 neue relevante Treffer. Stärkstes Signal: „Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+34 neue relevante Treffer. Stärkstes Signal: „Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -21,6 +21,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); Automatisierung (+4.0); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: FROG (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: Anyone who has spent 10 minutes pressing “0” to escape a voice bot knows how the last automation wave ended. Call centres were promised dramatic savings from IVRs and chatbots. Customers got phone trees that went in circles, and companies got a fresh layer of complaints to manage. Sunny Rao sold that promise from the […] The post Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao appeared first on…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **2026-017: Critical Vulnerability in Cisco Secure Email Gateway** — Score 20, risk — [Quelle](https://cert.europa.eu/publications/security-advisories/2026-017/)
+  - Quelle: CERT-EU Security Advisories / `rss`
+  - Zeit: published `2026-10-15T11:38:20+00:00`, fetched `2026-10-15T09:47:41+00:00`
+  - Treffer: CERT-EU, CodeQL/Dependabot, Security, Watchgraph:cyber_active_exploitation
+  - Watchgraph: cyber_active_exploitation
+  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: CodeQL/Dependabot (+7.0); Security (+7.5); CERT-EU (+2.0); watchgraph modules cyber_active_exploitation (+3.0)
+  - Kurz: On 14 October 2026, Cisco published a security advisory addressing a critical vulnerability affecting the Advanced Malware Protection (AMP) feature of Cisco Secure Email Gateway. This vulnerability could allow an unauthenticated, remote attacker to write arbitrary files and execute commands with root privileges on the underlying operating system. The Cisco PSIRT is aware of active exploitation of this vulnerability.…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **AI and inflation are driving Singapore’s workplace anxiety. Employers are spending on the wrong fix** — Score 17, observation — [Quelle](https://e27.co/ai-and-inflation-are-driving-singapores-workplace-anxiety-employers-are-spending-on-the-wrong-fix-20261015/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-15T04:00:44+00:00`, fetched `2026-10-15T04:22:26+00:00`
@@ -208,8 +217,8 @@ Keine neuen Hochprioritäts-Treffer.
 ## Empfehlungen
 
 - Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 
