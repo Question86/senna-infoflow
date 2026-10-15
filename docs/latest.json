@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T19:45:45+00:00",
-  "run_id": "2026-10-15T19:45:45+00:00",
+  "generated_at": "2026-10-15T19:52:29+00:00",
+  "run_id": "2026-10-15T19:52:29+00:00",
   "date": "2026-10-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 71,
     "displayed_findings": 71,
     "high": 0,
@@ -3575,29 +3575,7 @@
       "id": "7bc22eef86ea9396c307"
     }
   ],
-  "new_findings": [
-    {
-      "title": "The next developer interface is ambient intelligence",
-      "url": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/",
-      "source": "GitHub Blog Atom",
-      "source_type": "rss",
-      "published_at": "2026-10-15T19:39:27+00:00",
-      "fetched_at": "2026-10-15T19:45:06+00:00",
-      "summary": "AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building. The post The next developer interface is ambient intelligence appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "AI/KI",
-        "GitHub"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "AI/KI (+3.0); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9276c901ee126696db56"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
