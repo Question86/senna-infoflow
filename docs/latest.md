@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-15T09:05:55+00:00_
+_Generiert: 2026-10-15T09:26:20+00:00_
 
 ## Kurzlage
 
-32 neue relevante Treffer. Stärkstes Signal: „Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+33 neue relevante Treffer. Stärkstes Signal: „Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -149,6 +149,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 脱獄したPS5で大規模言語モデル（LLM）を動かす「PS5LM」の派生版として、PS5のGPUを使う「PS5LM Plus」が登場し、27BのLLMが1秒あたり約20トークンで動かしたと報告されています。 PS5LMは脱獄したPS5のCPUでLLMを動作。現状の対応モデルは1.6GBまで PS5LMは、PCで広く使われるLLM実行ソフトllama.cppを脱獄したPS5へ移...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **PAN-OS: Schadcode schlüpft durch Root-Lücke in Palo-Alto-Firewalls** — Score 7, observation — [Quelle](https://www.heise.de/news/PAN-OS-Schadcode-schluepft-durch-Root-Luecke-in-Palo-Alto-Firewalls-11488897.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-10-15T09:15:00.000+00:00`, fetched `2026-10-15T09:25:49+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Angreifer attackieren zurzeit Firewalls von Palo Alto Networks. Eine reparierte PAN-OS-Version schafft Abhilfe.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Angreifer nutzen Root-Lücke in Cisco Secure Email Gateway aus** — Score 7, observation — [Quelle](https://www.heise.de/news/Angreifer-nutzen-Root-Luecke-in-Cisco-Secure-Email-Gateway-aus-11488853.html)
   - Quelle: heise Security Alerts / `rss`

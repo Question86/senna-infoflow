@@ -552,6 +552,26 @@
     "id": "9da0743a7ee8c41beefe"
   },
   {
+    "title": "PAN-OS: Schadcode schlüpft durch Root-Lücke in Palo-Alto-Firewalls",
+    "url": "https://www.heise.de/news/PAN-OS-Schadcode-schluepft-durch-Root-Luecke-in-Palo-Alto-Firewalls-11488897.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-10-15T09:15:00.000+00:00",
+    "fetched_at": "2026-10-15T09:25:49+00:00",
+    "summary": "Angreifer attackieren zurzeit Firewalls von Palo Alto Networks. Eine reparierte PAN-OS-Version schafft Abhilfe.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "901f6b7efcacad17b84c"
+  },
+  {
     "title": "Angreifer nutzen Root-Lücke in Cisco Secure Email Gateway aus",
     "url": "https://www.heise.de/news/Angreifer-nutzen-Root-Luecke-in-Cisco-Secure-Email-Gateway-aus-11488853.html",
     "source": "heise Security Alerts",
