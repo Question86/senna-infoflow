@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-15T15:13:06+00:00",
+  "generated_at": "2026-10-15T15:29:01+00:00",
   "topics": {
     "ai": [
       {
@@ -54,6 +54,13 @@
         "url": "https://github.com/HKUDS/CLI-Anything"
       },
       {
+        "title": "AI Scan for pull requests generally available",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-15T15:04:51+00:00",
+        "relevance_score": 14,
+        "url": "https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available"
+      },
+      {
         "title": "Teaching students to think and learn through questions",
         "source": "OpenAI News RSS",
         "published_at": "2026-10-15T13:00:00+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-10-09T00:00:00+00:00",
         "relevance_score": 11,
         "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1288/"
-      },
-      {
-        "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (09 octobre 2026)",
-        "source": "CERT-FR Avis de sécurité",
-        "published_at": "2026-10-09T00:00:00+00:00",
-        "relevance_score": 11,
-        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1287/"
       }
     ],
     "security": [
@@ -233,6 +233,13 @@
         "published_at": null,
         "relevance_score": 16,
         "url": "https://github.com/HKUDS/CLI-Anything"
+      },
+      {
+        "title": "AI Scan for pull requests generally available",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-15T15:04:51+00:00",
+        "relevance_score": 14,
+        "url": "https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available"
       },
       {
         "title": "Southeast Asia’s funding winter is real. Its building winter isn’t",

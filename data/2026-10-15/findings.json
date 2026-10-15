@@ -354,6 +354,28 @@
     "id": "5df4af2cee0ab889bffa"
   },
   {
+    "title": "AI Scan for pull requests generally available",
+    "url": "https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-10-15T15:04:51+00:00",
+    "fetched_at": "2026-10-15T15:28:28+00:00",
+    "summary": "Code scanning AI Scan for pull requests is now generally available. It complements CodeQL by finding vulnerabilities in pull request changes for languages and frameworks that CodeQL does not currently… The post AI Scan for pull requests generally available appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "AI/KI",
+      "CodeQL/Dependabot",
+      "GitHub"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "CodeQL/Dependabot (+7.0); AI/KI (+3.8); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3d2993a8b7949a315ad0"
+  },
+  {
     "title": "[NEU] [hoch] Juniper Junos OS und Junos OS Evolved: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3976",
     "source": "BSI CERT-Bund Security Advisories",
