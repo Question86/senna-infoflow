@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T12:30:08+00:00",
-  "run_id": "2026-10-15T12:30:08+00:00",
+  "generated_at": "2026-10-15T12:52:18+00:00",
+  "run_id": "2026-10-15T12:52:18+00:00",
   "date": "2026-10-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 48
+      "configured_public_sources_only": 50
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 48,
-    "displayed_findings": 48,
+    "new_relevant_findings": 2,
+    "today_file_total": 50,
+    "displayed_findings": 50,
     "high": 0,
-    "medium": 20,
-    "observe": 28,
+    "medium": 21,
+    "observe": 29,
     "source_errors": 0
   },
   "sections": {
@@ -76,6 +76,43 @@
           "PINS"
         ],
         "id": "a33e258e0c82e721ed46"
+      },
+      {
+        "title": "Version 1.0: Cisco Secure Email Gateway - Zero-Day-Schwachstelle wird aktiv ausgenutzt",
+        "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297701-1032_bits.html",
+        "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+        "source_type": "rss",
+        "published_at": "2026-10-15T12:20:00+00:00",
+        "fetched_at": "2026-10-15T12:51:45+00:00",
+        "summary": "Version 1.0: Cisco Secure Email Gateway - Zero-Day-Schwachstelle wird aktiv ausgenutzt",
+        "matched_keywords": [
+          "ausgenutzt",
+          "BSI",
+          "CERT-Bund",
+          "Cyber-Sicherheitswarnung",
+          "Security",
+          "Watchgraph:cyber_active_exploitation"
+        ],
+        "relevance_score": 20,
+        "relevance_reason": "Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); ausgenutzt (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "cyber_active_exploitation"
+        ],
+        "watchgraph_reasons": [
+          "cyber_active_exploitation: zero-day"
+        ],
+        "market_context": [
+          "CRWD",
+          "PANW",
+          "FTNT",
+          "ZS",
+          "OKTA",
+          "NET",
+          "S"
+        ],
+        "id": "e2d4a9e94a1cac0bfe4e"
       },
       {
         "title": "2026-017: Critical Vulnerability in Cisco Secure Email Gateway",
@@ -1021,6 +1058,27 @@
         "id": "197a0e2d00f784aa3708"
       },
       {
+        "title": "ソースネクスト、最大2251万件の情報流出 パスワード再設定を",
+        "url": "https://www.watch.impress.co.jp/docs/news/2148547.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-15T10:52:15+00:00",
+        "fetched_at": "2026-10-15T12:51:45+00:00",
+        "summary": "ソースネクスト、最大2251万件の情報流出 パスワード再設定を",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6d0aac75c33548e45af4"
+      },
+      {
         "title": "What the West can learn from AI optimists in the rest of the world",
         "url": "https://restofworld.org/2026/west-ai-anxiety-optimism-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
         "source": "Rest of World Global Tech Feed",
@@ -1277,6 +1335,43 @@
         "PINS"
       ],
       "id": "a33e258e0c82e721ed46"
+    },
+    {
+      "title": "Version 1.0: Cisco Secure Email Gateway - Zero-Day-Schwachstelle wird aktiv ausgenutzt",
+      "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297701-1032_bits.html",
+      "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+      "source_type": "rss",
+      "published_at": "2026-10-15T12:20:00+00:00",
+      "fetched_at": "2026-10-15T12:51:45+00:00",
+      "summary": "Version 1.0: Cisco Secure Email Gateway - Zero-Day-Schwachstelle wird aktiv ausgenutzt",
+      "matched_keywords": [
+        "ausgenutzt",
+        "BSI",
+        "CERT-Bund",
+        "Cyber-Sicherheitswarnung",
+        "Security",
+        "Watchgraph:cyber_active_exploitation"
+      ],
+      "relevance_score": 20,
+      "relevance_reason": "Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); ausgenutzt (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "watchgraph_reasons": [
+        "cyber_active_exploitation: zero-day"
+      ],
+      "market_context": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S"
+      ],
+      "id": "e2d4a9e94a1cac0bfe4e"
     },
     {
       "title": "2026-017: Critical Vulnerability in Cisco Secure Email Gateway",
@@ -2220,6 +2315,27 @@
       "id": "197a0e2d00f784aa3708"
     },
     {
+      "title": "ソースネクスト、最大2251万件の情報流出 パスワード再設定を",
+      "url": "https://www.watch.impress.co.jp/docs/news/2148547.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-15T10:52:15+00:00",
+      "fetched_at": "2026-10-15T12:51:45+00:00",
+      "summary": "ソースネクスト、最大2251万件の情報流出 パスワード再設定を",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6d0aac75c33548e45af4"
+    },
+    {
       "title": "What the West can learn from AI optimists in the rest of the world",
       "url": "https://restofworld.org/2026/west-ai-anxiety-optimism-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
@@ -2427,7 +2543,66 @@
       "id": "c73aa7224d2d6dc5eb13"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Version 1.0: Cisco Secure Email Gateway - Zero-Day-Schwachstelle wird aktiv ausgenutzt",
+      "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297701-1032_bits.html",
+      "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+      "source_type": "rss",
+      "published_at": "2026-10-15T12:20:00+00:00",
+      "fetched_at": "2026-10-15T12:51:45+00:00",
+      "summary": "Version 1.0: Cisco Secure Email Gateway - Zero-Day-Schwachstelle wird aktiv ausgenutzt",
+      "matched_keywords": [
+        "ausgenutzt",
+        "BSI",
+        "CERT-Bund",
+        "Cyber-Sicherheitswarnung",
+        "Security",
+        "Watchgraph:cyber_active_exploitation"
+      ],
+      "relevance_score": 20,
+      "relevance_reason": "Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); ausgenutzt (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "watchgraph_reasons": [
+        "cyber_active_exploitation: zero-day"
+      ],
+      "market_context": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S"
+      ],
+      "id": "e2d4a9e94a1cac0bfe4e"
+    },
+    {
+      "title": "ソースネクスト、最大2251万件の情報流出 パスワード再設定を",
+      "url": "https://www.watch.impress.co.jp/docs/news/2148547.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-15T10:52:15+00:00",
+      "fetched_at": "2026-10-15T12:51:45+00:00",
+      "summary": "ソースネクスト、最大2251万件の情報流出 パスワード再設定を",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6d0aac75c33548e45af4"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

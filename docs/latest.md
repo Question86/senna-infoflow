@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-15T12:30:08+00:00_
+_Generiert: 2026-10-15T12:52:18+00:00_
 
 ## Kurzlage
 
-48 neue relevante Treffer. Stärkstes Signal: „Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+50 neue relevante Treffer. Stärkstes Signal: „Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -21,6 +21,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); Automatisierung (+4.0); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: FROG (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: Anyone who has spent 10 minutes pressing “0” to escape a voice bot knows how the last automation wave ended. Call centres were promised dramatic savings from IVRs and chatbots. Customers got phone trees that went in circles, and companies got a fresh layer of complaints to manage. Sunny Rao sold that promise from the […] The post Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao appeared first on…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Version 1.0: Cisco Secure Email Gateway - Zero-Day-Schwachstelle wird aktiv ausgenutzt** — Score 20, risk — [Quelle](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297701-1032_bits.html)
+  - Quelle: BSI CERT-Bund Cyber-Sicherheitswarnungen / `rss`
+  - Zeit: published `2026-10-15T12:20:00+00:00`, fetched `2026-10-15T12:51:45+00:00`
+  - Treffer: ausgenutzt, BSI, CERT-Bund, Cyber-Sicherheitswarnung, Security, Watchgraph:cyber_active_exploitation
+  - Watchgraph: cyber_active_exploitation
+  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); ausgenutzt (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
+  - Kurz: Version 1.0: Cisco Secure Email Gateway - Zero-Day-Schwachstelle wird aktiv ausgenutzt
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **2026-017: Critical Vulnerability in Cisco Secure Email Gateway** — Score 20, risk — [Quelle](https://cert.europa.eu/publications/security-advisories/2026-017/)
   - Quelle: CERT-EU Security Advisories / `rss`
   - Zeit: published `2026-10-15T11:38:20+00:00`, fetched `2026-10-15T09:47:41+00:00`
@@ -231,6 +240,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 動画【ガバメントAI 開発記録】雇用環境・均等行政の挑戦【①AIに何を任せるか】を公開しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ソースネクスト、最大2251万件の情報流出 パスワード再設定を** — Score 5, observation — [Quelle](https://www.watch.impress.co.jp/docs/news/2148547.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-15T10:52:15+00:00`, fetched `2026-10-15T12:51:45+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: ソースネクスト、最大2251万件の情報流出 パスワード再設定を
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **What the West can learn from AI optimists in the rest of the world** — Score 5, observation — [Quelle](https://restofworld.org/2026/west-ai-anxiety-optimism-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
   - Zeit: published `2026-10-15T10:00:00+00:00`, fetched `2026-10-15T10:19:23+00:00`
@@ -239,15 +257,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); recent (+1.0)
   - Kurz: The developing world’s enthusiastic adoption of AI and necessity-driven innovations offer lessons for an anxiety-ridden West.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **当社サイトへの不正アクセスによるお客様情報流出のお詫びとお知らせ｜ソースネクスト** — Score 5, observation — [Quelle](https://www.sourcenext.com/support/i/2026/1015_info/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-15T08:49:13+00:00`, fetched `2026-10-15T11:06:24+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: このたび、当社が管理する会員情報に対し、第三者による不正アクセスが行われ、当社に会員登録いただいているお客様の個人情報が外部に流出したことが判明いたしました。 お客様ならびに関係者の皆様に多大なるご迷惑とご心配をおかけしておりますことを、深くお詫び申し上げます。 現在、外部の専門機関と連携し、原因...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

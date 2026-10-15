@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-15T12:30:08+00:00_
+_Generated: 2026-10-15T12:52:18+00:00_
 
 ## Status
 - status: `normal`
-- findings: `48`
+- findings: `50`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-10-15T12:30:08+00:00_
 - url: https://e27.co/tokens-are-the-wrong-yardstick-for-ai-agents-says-jfrogs-sunny-rao-20261014/
 - summary: Anyone who has spent 10 minutes pressing “0” to escape a voice bot knows how the last automation wave ended. Call centres were promised dramatic savings from IVRs and chatbots. Customers got phone trees that went in circles, and companies got a fresh layer of…
 
-### 2. 2026-017: Critical Vulnerability in Cisco Secure Email Gateway
+### 2. Version 1.0: Cisco Secure Email Gateway - Zero-Day-Schwachstelle wird aktiv ausgenutzt
+- source: BSI CERT-Bund Cyber-Sicherheitswarnungen
+- score: `20`
+- published: `2026-10-15T12:20:00+00:00`
+- url: https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297701-1032_bits.html
+- summary: Version 1.0: Cisco Secure Email Gateway - Zero-Day-Schwachstelle wird aktiv ausgenutzt
+
+### 3. 2026-017: Critical Vulnerability in Cisco Secure Email Gateway
 - source: CERT-EU Security Advisories
 - score: `20`
 - published: `2026-10-15T11:38:20+00:00`
 - url: https://cert.europa.eu/publications/security-advisories/2026-017/
 - summary: On 14 October 2026, Cisco published a security advisory addressing a critical vulnerability affecting the Advanced Malware Protection (AMP) feature of Cisco Secure Email Gateway. This vulnerability could allow an unauthenticated, remote attacker to write arbi…
 
-### 3. AI and inflation are driving Singapore’s workplace anxiety. Employers are spending on the wrong fix
+### 4. AI and inflation are driving Singapore’s workplace anxiety. Employers are spending on the wrong fix
 - source: e27 Asia Startup and Tech Feed
 - score: `17`
 - published: `2026-10-15T04:00:44+00:00`
 - url: https://e27.co/ai-and-inflation-are-driving-singapores-workplace-anxiety-employers-are-spending-on-the-wrong-fix-20261015/
 - summary: Most Singapore office workers know the ritual. A message lands at 10.47pm. It is not urgent. You answer it within 90 seconds anyway, not because the work demands it, but because you want someone to notice that you answered it within 90 seconds. It turns out t…
-
-### 4. Bowman, Supervisory Modernization After Silicon Valley Bank
-- source: Federal Reserve Speeches and Testimony
-- score: `17`
-- published: `2026-10-15T02:55:00+00:00`
-- url: https://www.federalreserve.gov/newsevents/speech/bowman20261014a.htm
-- summary: Speech At the Bangkok Economic Festival, Reinventing Bretton Woods Committee, Bangkok, Thailand
 
 ### 5. Southeast Asia’s funding winter is real. Its building winter isn’t
 - source: e27 Asia Startup and Tech Feed
