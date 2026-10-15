@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T14:33:49+00:00",
-  "run_id": "2026-10-15T14:33:49+00:00",
+  "generated_at": "2026-10-15T14:44:52+00:00",
+  "run_id": "2026-10-15T14:44:52+00:00",
   "date": "2026-10-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 61,
     "displayed_findings": 61,
     "high": 0,
@@ -3091,30 +3091,7 @@
       "id": "7bc22eef86ea9396c307"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Agentic autofix for code scanning alerts general availability",
-      "url": "https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-10-15T13:49:20+00:00",
-      "fetched_at": "2026-10-15T14:33:18+00:00",
-      "summary": "Agentic autofix for code scanning alerts is now generally available. It remediates alerts by working across your codebase the way a developer would: it explores relevant files, proposes a fix,… The post Agentic autofix for code scanning alerts general availability appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "AI Agents",
-        "CodeQL/Dependabot",
-        "GitHub"
-      ],
-      "relevance_score": 18,
-      "relevance_reason": "CodeQL/Dependabot (+8.8); AI Agents (+6.2); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "73c89886aa624280dc6d"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
