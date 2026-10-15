@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T15:29:01+00:00",
-  "run_id": "2026-10-15T15:29:01+00:00",
+  "generated_at": "2026-10-15T15:41:40+00:00",
+  "run_id": "2026-10-15T15:41:40+00:00",
   "date": "2026-10-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 69,
     "displayed_findings": 69,
     "high": 0,
@@ -3461,30 +3461,7 @@
       "id": "7bc22eef86ea9396c307"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AI Scan for pull requests generally available",
-      "url": "https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-10-15T15:04:51+00:00",
-      "fetched_at": "2026-10-15T15:28:28+00:00",
-      "summary": "Code scanning AI Scan for pull requests is now generally available. It complements CodeQL by finding vulnerabilities in pull request changes for languages and frameworks that CodeQL does not currently… The post AI Scan for pull requests generally available appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "AI/KI",
-        "CodeQL/Dependabot",
-        "GitHub"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "CodeQL/Dependabot (+7.0); AI/KI (+3.8); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3d2993a8b7949a315ad0"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
