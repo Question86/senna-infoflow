@@ -48,6 +48,29 @@
     "id": "a33e258e0c82e721ed46"
   },
   {
+    "title": "Bowman, Supervisory Modernization After Silicon Valley Bank",
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20261014a.htm",
+    "source": "Federal Reserve Speeches and Testimony",
+    "source_type": "rss",
+    "published_at": "2026-10-15T02:55:00+00:00",
+    "fetched_at": "2026-10-15T02:58:00+00:00",
+    "summary": "Speech At the Bangkok Economic Festival, Reinventing Bretton Woods Committee, Bangkok, Thailand",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Macro/Policy",
+      "speech",
+      "testimony"
+    ],
+    "relevance_score": 17,
+    "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Silicon Valley, Federal Reserve (+2.0); watchgraph region southeast_asia: Thailand (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c10d02a41a6cece25905"
+  },
+  {
     "title": "Google BoringSSL証明書検証における複数の名前制約回避の脆弱性",
     "url": "https://jvn.jp/vu/JVNVU95613365/",
     "source": "JVN Japan Vulnerability Notes",

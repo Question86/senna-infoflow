@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-15T02:52:10+00:00",
+  "generated_at": "2026-10-15T02:58:28+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 6,
-    "displayed_findings": 6,
+    "new_relevant_findings": 1,
+    "today_file_total": 7,
+    "displayed_findings": 7,
     "high": 0,
-    "medium": 4,
+    "medium": 5,
     "observe": 2
   },
   "source_errors_count": 0,
@@ -22,6 +22,16 @@
       "relevance_score": 23,
       "url": "https://e27.co/tokens-are-the-wrong-yardstick-for-ai-agents-says-jfrogs-sunny-rao-20261014/",
       "summary": "Anyone who has spent 10 minutes pressing “0” to escape a voice bot knows how the last automation wave ended. Call centres were promised dramatic savings from IVRs and chatbots. Customers got phone trees that went in circles, and companies got a fresh layer of…",
+      "section": "medium"
+    },
+    {
+      "title": "Bowman, Supervisory Modernization After Silicon Valley Bank",
+      "source": "Federal Reserve Speeches and Testimony",
+      "source_type": "rss",
+      "published_at": "2026-10-15T02:55:00+00:00",
+      "relevance_score": 17,
+      "url": "https://www.federalreserve.gov/newsevents/speech/bowman20261014a.htm",
+      "summary": "Speech At the Bangkok Economic Festival, Reinventing Bretton Woods Committee, Bangkok, Thailand",
       "section": "medium"
     },
     {
@@ -41,16 +51,6 @@
       "published_at": "2026-10-15T10:30:15+09:00",
       "relevance_score": 14,
       "url": "https://jvn.jp/vu/JVNVU95474776/",
-      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
-      "section": "medium"
-    },
-    {
-      "title": "Bishengにおける複数の認証回避の脆弱性",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-10-15T10:30:00+09:00",
-      "relevance_score": 14,
-      "url": "https://jvn.jp/vu/JVNVU94697946/",
       "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
       "section": "medium"
     },
