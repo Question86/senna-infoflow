@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-15T10:57:40+00:00",
+  "generated_at": "2026-10-15T11:06:51+00:00",
   "topics": {
     "ai": [
       {
@@ -316,6 +316,13 @@
         "url": "https://www.digital.go.jp/press/bc0973b1-afd3-4948-8592-a610513e0a95"
       },
       {
+        "title": "当社サイトへの不正アクセスによるお客様情報流出のお詫びとお知らせ｜ソースネクスト",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-15T08:49:13+00:00",
+        "relevance_score": 5,
+        "url": "https://www.sourcenext.com/support/i/2026/1015_info/"
+      },
+      {
         "title": "バーガーキング アプリの会員情報 約1118万件漏えい | NHKニュース",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-10-15T07:06:47+00:00",
@@ -328,13 +335,6 @@
         "published_at": "2026-10-15T04:01:12+00:00",
         "relevance_score": 5,
         "url": "https://tools.oyasumi-gamedev.com/worldgacha/"
-      },
-      {
-        "title": "雑談はセンサーになる──ふりかえりで言えない本音を拾い、チームを動かす - Agile Journey",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-15T01:33:17+00:00",
-        "relevance_score": 5,
-        "url": "https://agilejourney.uzabase.com/entry/2026/10/15/103000"
       }
     ]
   }
