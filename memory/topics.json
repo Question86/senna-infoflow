@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-15T10:52:02+00:00",
+  "generated_at": "2026-10-15T10:57:40+00:00",
   "topics": {
     "ai": [
       {
@@ -112,6 +112,13 @@
         "url": "https://jvn.jp/jp/JVN40460777/"
       },
       {
+        "title": "[NEU] [hoch] NGINX: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-15T10:55:52+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3948"
+      },
+      {
         "title": "Google BoringSSL証明書検証における複数の名前制約回避の脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-10-15T10:30:30+09:00",
@@ -138,13 +145,6 @@
         "published_at": "2026-10-15T10:15:52+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3947"
-      },
-      {
-        "title": "[NEU] [mittel] Palo Alto Networks Cortex XSOAR: Schwachstelle ermöglicht Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-15T09:55:52+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3946"
       }
     ],
     "geopolitics": [
@@ -161,6 +161,13 @@
         "published_at": null,
         "relevance_score": 16,
         "url": "https://github.com/HKUDS/CLI-Anything"
+      },
+      {
+        "title": "[NEU] [hoch] NGINX: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-15T10:55:52+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3948"
       },
       {
         "title": "[NEU] [hoch] Palo Alto Networks PAN-OS: Mehrere Schwachstellen",
