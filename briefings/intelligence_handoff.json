@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-15T01:54:28Z",
+  "generated_at": "2026-10-15T02:04:45Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Google BoringSSL証明書検証における複数の名前制約回避の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -146,7 +146,7 @@
       "url": "https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-14T16:29:36+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "ai"
       ],
@@ -172,7 +172,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 116.96,
+      "age_days": 116.97,
       "topics": [
         "general"
       ],
@@ -197,7 +197,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 116.96,
+      "age_days": 116.97,
       "topics": [
         "general"
       ],
@@ -222,7 +222,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 116.96,
+      "age_days": 116.97,
       "topics": [
         "ai"
       ],
