@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T23:25:10+00:00",
-  "run_id": "2026-10-15T23:25:10+00:00",
+  "generated_at": "2026-10-15T23:30:56+00:00",
+  "run_id": "2026-10-15T23:30:56+00:00",
   "date": "2026-10-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 81,
     "displayed_findings": 81,
     "high": 0,
@@ -4033,30 +4033,7 @@
       "id": "7bc22eef86ea9396c307"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Claude Code 入門",
-      "url": "https://speakerdeck.com/nogu66/claude-code-nyuumon",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-15T13:28:26+00:00",
-      "fetched_at": "2026-10-15T23:24:40+00:00",
-      "summary": "Navigating the Design Leadership Dip - Product Design Week Design Leaders+ Conference 2024",
-      "matched_keywords": [
-        "AI Agents",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7e8febe091bfd3531337"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
