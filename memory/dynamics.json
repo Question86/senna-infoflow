@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-15T13:52:46Z",
+  "generated_at": "2026-10-15T14:04:14Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -9,14 +9,12 @@
       "extreme": 1,
       "krass": 14,
       "strong": 15,
-      "watch": 9,
-      "quiet": 1
+      "watch": 10
     },
     "bands_after_gate_recheck": {
       "krass": 5,
       "strong": 25,
-      "watch": 9,
-      "quiet": 1
+      "watch": 10
     }
   },
   "top_dynamics": [
@@ -25,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3917",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-15T11:26:51+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -75,7 +73,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3915",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-15T11:26:53+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security",
         "infra"
@@ -101,7 +99,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3947",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-15T10:15:52+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -126,7 +124,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3946",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-15T09:55:52+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -151,7 +149,7 @@
       "url": "https://cert.europa.eu/publications/security-advisories/2026-017/",
       "source": "CERT-EU Security Advisories",
       "published_at": "2026-10-15T11:38:20+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "security"
@@ -178,7 +176,7 @@
       "url": "https://www.heise.de/news/PAN-OS-Schadcode-schluepft-durch-Root-Luecke-in-Palo-Alto-Firewalls-11488897.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-15T09:15:00.000+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "security",
@@ -205,7 +203,7 @@
       "url": "https://jvn.jp/jp/JVN48627289/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T12:00:30+09:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -229,7 +227,7 @@
       "url": "https://jvn.jp/jp/JVN94004488/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T12:00:15+09:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -253,7 +251,7 @@
       "url": "https://jvn.jp/jp/JVN40460777/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T12:00:00+09:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -277,7 +275,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3906",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-15T11:27:14+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -429,7 +427,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3916",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-15T10:30:51+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -455,7 +453,7 @@
       "url": "https://e27.co/southeast-asias-funding-winter-is-real-its-building-winter-isnt-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-15T02:00:34+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "general"
       ],
@@ -508,7 +506,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3904",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-15T11:27:14+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -534,7 +532,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3909",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-15T11:26:54+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -560,7 +558,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3948",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-15T10:55:52+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -665,7 +663,7 @@
       "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297701-1032_bits.html",
       "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
       "published_at": "2026-10-15T12:20:00+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "security"
@@ -692,7 +690,7 @@
       "url": "https://www.heise.de/news/Angreifer-nutzen-Root-Luecke-in-Cisco-Secure-Email-Gateway-aus-11488853.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-15T07:07:00.000+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "ai",
         "security"
@@ -718,7 +716,7 @@
       "url": "https://github.com/HKUDS/CLI-Anything",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-15T06:06:30+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "ai"
       ],
@@ -744,7 +742,7 @@
       "url": "https://restofworld.org/2026/west-ai-anxiety-optimism-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-10-15T10:00:00+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -769,7 +767,7 @@
       "url": "https://www.sourcenext.com/support/i/2026/1015_info/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-15T08:49:13+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -794,7 +792,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ukynnb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-15T11:21:34.898+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -815,11 +813,36 @@
       "summary": "ShakeMap - VII DYFI? - III Time 2026-10-15 11:07:01 UTC 2026-10-15 11:07:01 UTC at epicenter Location 64.220°N 152.746°W Depth 4.50 km (2.80 mi)"
     },
     {
+      "title": "M 5.2 - 107 km NNE of Hihifo, Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2hv",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-15T13:52:47.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-15 13:29:31 UTC 2026-10-15 13:29:31 UTC at epicenter Location 15.043°S 173.444°W Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 5.2 - 157 km W of Sola, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2hp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-15T13:27:08.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -844,7 +867,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2gd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-15T11:53:42.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -869,7 +892,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ev",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-15T05:41:14.040+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "disaster"
       ],
@@ -894,7 +917,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2eh",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-15T04:02:36.040+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "disaster"
       ],
@@ -919,7 +942,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ec",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-15T03:59:13.050+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "disaster"
       ],
@@ -968,7 +991,7 @@
       "url": "https://e27.co/ai-and-inflation-are-driving-singapores-workplace-anxiety-employers-are-spending-on-the-wrong-fix-20261015/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-15T04:00:44+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "ai",
         "macro"
@@ -1016,30 +1039,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Speech At the Bangkok Economic Festival, Reinventing Bretton Woods Committee, Bangkok, Thailand"
-    },
-    {
-      "title": "行政手続における特定の個人を識別するための番号の利用等に関する法律に規定する個人番号、個人番号カード、特定個人情報の提供等に関する命令の一部を改正する命令（案）及び個人番号カード等に関する技術的基準の一部を改正する件（案）に係る意見募集の結果が公表されました",
-      "url": "https://www.digital.go.jp/get-involved/procedure/e01662cd-4263-445c-8db8-55013d45ab10",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-10-15T06:00:00+00:00",
-      "age_days": 0.33,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "行政手続における特定の個人を識別するための番号の利用等に関する法律に規定する個人番号、個人番号カード、特定個人情報の提供等に関する命令の一部を改正する命令（案）及び個人番号カード等に関する技術的基準の一部を改正する件（案）に係る意見募集の結果が公表されました"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Microsoft SQL Server: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
