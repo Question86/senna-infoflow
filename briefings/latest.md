@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-15T21:57:15+00:00_
+_Generiert: 2026-10-15T22:05:34+00:00_
 
 ## Kurzlage
 
-76 neue relevante Treffer. Stärkstes Signal: „Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+78 neue relevante Treffer. Stärkstes Signal: „Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -323,6 +323,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-15 14:59:52 UTC 2026-10-15 14:59:52 UTC at epicenter Location 51.380°N 159.847°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Bringing GPT-Rosalind to academic research labs** — Score 8, observation — [Quelle](https://openai.com/index/introducing-the-rosalind-academic-plan)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-15T19:00:00+00:00`, fetched `2026-10-15T22:05:04+00:00`
+  - Treffer: OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); recent (+1.0)
+  - Kurz: Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **PlayStation 5で27Bの生成AIが動作。脱獄の進展次第ではPS5もAI需要の餌食になる可能性** — Score 8, observation — [Quelle](https://gazlog.jp/entry/ps5-can-run-27b-llm/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-15T03:54:24+00:00`, fetched `2026-10-15T07:37:12+00:00`
@@ -331,15 +340,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 脱獄したPS5で大規模言語モデル（LLM）を動かす「PS5LM」の派生版として、PS5のGPUを使う「PS5LM Plus」が登場し、27BのLLMが1秒あたり約20トークンで動かしたと報告されています。 PS5LMは脱獄したPS5のCPUでLLMを動作。現状の対応モデルは1.6GBまで PS5LMは、PCで広く使われるLLM実行ソフトllama.cppを脱獄したPS5へ移...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **PAN-OS: Schadcode schlüpft durch Root-Lücke in Palo-Alto-Firewalls** — Score 7, observation — [Quelle](https://www.heise.de/news/PAN-OS-Schadcode-schluepft-durch-Root-Luecke-in-Palo-Alto-Firewalls-11488897.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-10-15T09:15:00.000+00:00`, fetched `2026-10-15T09:25:49+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Angreifer attackieren zurzeit Firewalls von Palo Alto Networks. Eine reparierte PAN-OS-Version schafft Abhilfe.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
