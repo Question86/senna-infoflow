@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-15T10:37:06Z",
+  "generated_at": "2026-10-15T10:49:25Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -25,7 +25,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3947",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-15T10:15:52+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -50,7 +50,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3946",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-15T09:55:52+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -102,7 +102,7 @@
       "url": "https://www.heise.de/news/PAN-OS-Schadcode-schluepft-durch-Root-Luecke-in-Palo-Alto-Firewalls-11488897.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-15T09:15:00.000+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "security",
@@ -129,7 +129,7 @@
       "url": "https://jvn.jp/jp/JVN48627289/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T12:00:30+09:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -153,7 +153,7 @@
       "url": "https://jvn.jp/jp/JVN94004488/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T12:00:15+09:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -177,7 +177,7 @@
       "url": "https://jvn.jp/jp/JVN40460777/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T12:00:00+09:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -201,7 +201,7 @@
       "url": "https://jvn.jp/vu/JVNVU95613365/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T10:30:30+09:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -225,7 +225,7 @@
       "url": "https://jvn.jp/vu/JVNVU95474776/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T10:30:15+09:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -249,7 +249,7 @@
       "url": "https://jvn.jp/vu/JVNVU94697946/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T10:30:00+09:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "security",
         "macro"
@@ -274,7 +274,7 @@
       "url": "https://e27.co/tokens-are-the-wrong-yardstick-for-ai-agents-says-jfrogs-sunny-rao-20261014/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-15T01:00:34+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "ai",
         "macro"
@@ -303,7 +303,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3916",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-15T10:30:51+00:00",
-      "age_days": 0.0,
+      "age_days": 0.01,
       "topics": [
         "security"
       ],
@@ -329,7 +329,7 @@
       "url": "https://e27.co/southeast-asias-funding-winter-is-real-its-building-winter-isnt-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-15T02:00:34+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "general"
       ],
@@ -356,7 +356,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 118.36,
+      "age_days": 118.37,
       "topics": [
         "ai"
       ],
@@ -411,7 +411,7 @@
       "url": "https://github.com/HKUDS/CLI-Anything",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-15T06:06:30+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -487,7 +487,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2eh",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-15T04:02:36.040+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "disaster"
       ],
@@ -537,7 +537,7 @@
       "url": "https://e27.co/institutional-buyers-face-a-massive-test-at-the-us81000-bitcoin-support-level-20261015/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-15T03:53:43+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "macro"
       ],
@@ -588,7 +588,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/bowman20261014a.htm",
       "source": "Federal Reserve Speeches and Testimony",
       "published_at": "2026-10-15T02:55:00+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "ai",
         "macro"
@@ -615,7 +615,7 @@
       "url": "https://www.digital.go.jp/get-involved/procedure/e01662cd-4263-445c-8db8-55013d45ab10",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-15T06:00:00+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -639,7 +639,7 @@
       "url": "https://www.digital.go.jp/press/bc0973b1-afd3-4948-8592-a610513e0a95",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-15T06:00:00+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -687,7 +687,7 @@
       "url": "https://tools.oyasumi-gamedev.com/worldgacha/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-15T04:01:12+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -711,7 +711,7 @@
       "url": "https://agilejourney.uzabase.com/entry/2026/10/15/103000",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-15T01:33:17+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "general"
       ],
@@ -759,7 +759,7 @@
       "url": "https://e27.co/every-dashboard-is-green-so-why-cant-anyone-say-what-worked-20261012/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-15T03:00:06+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "macro"
       ],
@@ -783,7 +783,7 @@
       "url": "https://note.com/shiba_program/n/nd2d72747f8c5",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-15T04:24:08+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "ai"
       ],
@@ -835,7 +835,7 @@
       "url": "https://www.digital.go.jp/councils/procurement-reform/FY2026/84c9dba6-43cb-4cf1-be91-0753c744f38d",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-15T06:15:54+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -859,7 +859,7 @@
       "url": "https://e27.co/character-ai-was-worth-us2-7b-to-google-disney-just-offered-us20m-20261015/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-15T08:00:23+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -885,7 +885,7 @@
       "url": "https://e27.co/ai-can-increase-productivity-it-cant-increase-human-capacity-20261015/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-15T04:30:45+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "ai",
         "macro"
@@ -912,7 +912,7 @@
       "url": "https://www.itmedia.co.jp/mobile/articles/2610/15/news037.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-14T23:13:47+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "ai"
       ],
@@ -990,7 +990,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 117.32,
+      "age_days": 117.33,
       "topics": [
         "general"
       ],
@@ -1015,7 +1015,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 117.32,
+      "age_days": 117.33,
       "topics": [
         "general"
       ],
