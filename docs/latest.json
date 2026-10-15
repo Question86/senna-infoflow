@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T20:22:19+00:00",
-  "run_id": "2026-10-15T20:22:19+00:00",
+  "generated_at": "2026-10-15T20:33:01+00:00",
+  "run_id": "2026-10-15T20:33:01+00:00",
   "date": "2026-10-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 72
+      "configured_public_sources_only": 73
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 72,
-    "displayed_findings": 72,
+    "new_relevant_findings": 1,
+    "today_file_total": 73,
+    "displayed_findings": 73,
     "high": 0,
     "medium": 28,
-    "observe": 44,
+    "observe": 45,
     "source_errors": 0
   },
   "sections": {
@@ -746,6 +746,28 @@
       }
     ],
     "observe": [
+      {
+        "title": "Download GitHub Code Quality license usage as a CSV",
+        "url": "https://github.blog/changelog/2026-10-15-download-github-code-quality-license-usage-as-a-csv",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-10-15T20:11:26+00:00",
+        "fetched_at": "2026-10-15T20:32:28+00:00",
+        "summary": "You can now download a CSV report of your GitHub Code Quality license usage to reconcile your license count with your own records. The report includes: Each active committer who… The post Download GitHub Code Quality license usage as a CSV appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub",
+          "Open Source",
+          "Public Health"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "Open Source (+3.8); Public Health (+5.0); GitHub (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "06e99535a48c0e8c9ab6"
+      },
       {
         "title": "Teaching students to think and learn through questions",
         "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
@@ -2541,6 +2563,28 @@
       "id": "0aa5141141586191005a"
     },
     {
+      "title": "Download GitHub Code Quality license usage as a CSV",
+      "url": "https://github.blog/changelog/2026-10-15-download-github-code-quality-license-usage-as-a-csv",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-15T20:11:26+00:00",
+      "fetched_at": "2026-10-15T20:32:28+00:00",
+      "summary": "You can now download a CSV report of your GitHub Code Quality license usage to reconcile your license count with your own records. The report includes: Each active committer who… The post Download GitHub Code Quality license usage as a CSV appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub",
+        "Open Source",
+        "Public Health"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Open Source (+3.8); Public Health (+5.0); GitHub (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "06e99535a48c0e8c9ab6"
+    },
+    {
       "title": "Teaching students to think and learn through questions",
       "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
       "source": "OpenAI News RSS",
@@ -3617,7 +3661,30 @@
       "id": "7bc22eef86ea9396c307"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Download GitHub Code Quality license usage as a CSV",
+      "url": "https://github.blog/changelog/2026-10-15-download-github-code-quality-license-usage-as-a-csv",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-15T20:11:26+00:00",
+      "fetched_at": "2026-10-15T20:32:28+00:00",
+      "summary": "You can now download a CSV report of your GitHub Code Quality license usage to reconcile your license count with your own records. The report includes: Each active committer who… The post Download GitHub Code Quality license usage as a CSV appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub",
+        "Open Source",
+        "Public Health"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Open Source (+3.8); Public Health (+5.0); GitHub (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "06e99535a48c0e8c9ab6"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

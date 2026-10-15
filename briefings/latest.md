@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-15T20:22:19+00:00_
+_Generiert: 2026-10-15T20:33:01+00:00_
 
 ## Kurzlage
 
-72 neue relevante Treffer. Stärkstes Signal: „Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+73 neue relevante Treffer. Stärkstes Signal: „Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -206,6 +206,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Download GitHub Code Quality license usage as a CSV** — Score 12, observation — [Quelle](https://github.blog/changelog/2026-10-15-download-github-code-quality-license-usage-as-a-csv)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-10-15T20:11:26+00:00`, fetched `2026-10-15T20:32:28+00:00`
+  - Treffer: GitHub, Open Source, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Open Source (+3.8); Public Health (+5.0); GitHub (+2.5); recent (+1.0)
+  - Kurz: You can now download a CSV report of your GitHub Code Quality license usage to reconcile your license count with your own records. The report includes: Each active committer who… The post Download GitHub Code Quality license usage as a CSV appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Teaching students to think and learn through questions** — Score 12, observation — [Quelle](https://openai.com/index/teaching-students-to-think-and-learn-through-questions)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-10-15T13:00:00+00:00`, fetched `2026-10-15T14:19:56+00:00`
@@ -331,15 +340,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Eine kritische Lücke in Ciscos Secure Email Gateway wird bereits ausgenutzt. Präparierte Mailanhänge verschaffen Angreifern Root-Rechte.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The next developer interface is ambient intelligence** — Score 6, observation — [Quelle](https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/)
-  - Quelle: GitHub Blog Atom / `rss`
-  - Zeit: published `2026-10-15T19:39:27+00:00`, fetched `2026-10-15T19:45:06+00:00`
-  - Treffer: AI/KI, GitHub
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); GitHub (+2.0); recent (+1.0)
-  - Kurz: AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building. The post The next developer interface is ambient intelligence appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
