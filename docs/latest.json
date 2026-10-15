@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T09:26:20+00:00",
-  "run_id": "2026-10-15T09:26:20+00:00",
+  "generated_at": "2026-10-15T09:37:47+00:00",
+  "run_id": "2026-10-15T09:37:47+00:00",
   "date": "2026-10-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 33,
     "displayed_findings": 33,
     "high": 0,
@@ -1669,28 +1669,7 @@
       "id": "c73aa7224d2d6dc5eb13"
     }
   ],
-  "new_findings": [
-    {
-      "title": "PAN-OS: Schadcode schlüpft durch Root-Lücke in Palo-Alto-Firewalls",
-      "url": "https://www.heise.de/news/PAN-OS-Schadcode-schluepft-durch-Root-Luecke-in-Palo-Alto-Firewalls-11488897.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-10-15T09:15:00.000+00:00",
-      "fetched_at": "2026-10-15T09:25:49+00:00",
-      "summary": "Angreifer attackieren zurzeit Firewalls von Palo Alto Networks. Eine reparierte PAN-OS-Version schafft Abhilfe.",
-      "matched_keywords": [
-        "Security"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "901f6b7efcacad17b84c"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
