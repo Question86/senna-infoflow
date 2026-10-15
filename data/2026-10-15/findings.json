@@ -1442,5 +1442,25 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "c73aa7224d2d6dc5eb13"
+  },
+  {
+    "title": "Email notifications for repository push events have been retired",
+    "url": "https://github.blog/changelog/2026-10-15-email-notifications-for-repository-push-events-have-been-retired",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-10-15T13:42:19+00:00",
+    "fetched_at": "2026-10-15T13:59:40+00:00",
+    "summary": "As of October 15, 2026, email notifications for repository push events have been retired and are no longer sent. We shut down this feature to help prevent spam and abuse.… The post Email notifications for repository push events have been retired appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub"
+    ],
+    "relevance_score": 3,
+    "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7bc22eef86ea9396c307"
   }
 ]

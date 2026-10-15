@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-15T13:54:36+00:00",
+  "generated_at": "2026-10-15T14:00:19+00:00",
   "topics": {
     "ai": [
       {
@@ -284,6 +284,13 @@
         "published_at": "2026-10-15T03:53:43+00:00",
         "relevance_score": 11,
         "url": "https://e27.co/institutional-buyers-face-a-massive-test-at-the-us81000-bitcoin-support-level-20261015/"
+      },
+      {
+        "title": "Email notifications for repository push events have been retired",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-15T13:42:19+00:00",
+        "relevance_score": 3,
+        "url": "https://github.blog/changelog/2026-10-15-email-notifications-for-repository-push-events-have-been-retired"
       }
     ],
     "general": [
