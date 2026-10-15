@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T22:51:16+00:00",
-  "run_id": "2026-10-15T22:51:16+00:00",
+  "generated_at": "2026-10-15T22:56:55+00:00",
+  "run_id": "2026-10-15T22:56:55+00:00",
   "date": "2026-10-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 79,
     "displayed_findings": 79,
     "high": 0,
@@ -3945,30 +3945,7 @@
       "id": "7bc22eef86ea9396c307"
     }
   ],
-  "new_findings": [
-    {
-      "title": "「UNIXという考え方」再考 | ドクセル",
-      "url": "https://www.docswell.com/s/Songmu/5WR64J-unix-philosophy",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-15T10:38:08+00:00",
-      "fetched_at": "2026-10-15T22:50:45+00:00",
-      "summary": "GitHubber, OSS作家。Tech SaaSのPdM、スタートアップ取締役CTOや外資スタートアップのIC等を経験後現職。好きな言語はGoとPerlと中国語で雑なOSSを200以上量産している。3 times ISUCON winner. 著書「みんなのGo言語」共著他。Podcast https://oss4.fun",
-      "matched_keywords": [
-        "GitHub",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f2e9e25ebd95aba5aab1"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
