@@ -1,31 +1,56 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-15T10:03:26Z",
+  "generated_at": "2026-10-15T10:24:45Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 39,
+    "dynamics": 40,
     "bands": {
       "extreme": 1,
-      "krass": 2,
-      "strong": 11,
+      "krass": 3,
+      "strong": 12,
       "watch": 6,
-      "quiet": 19
+      "quiet": 18
     },
     "bands_after_gate_recheck": {
-      "krass": 1,
-      "strong": 13,
+      "krass": 2,
+      "strong": 14,
       "watch": 6,
-      "quiet": 19
+      "quiet": 18
     }
   },
   "top_dynamics": [
+    {
+      "title": "[NEU] [hoch] Palo Alto Networks PAN-OS: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3947",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-15T10:15:52+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code, pan-os, palo",
+        "security high-signal: code, pan-os, palo, alto"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Palo Alto Networks PAN-OS ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen, beliebigen Code mit Root-Rechten auszuführen, Sicherheitsmaßnahmen zu umgehen, sich als andere Benutzer auszugeben oder einen Denial-of-Service-Zustand auszulösen."
+    },
     {
       "title": "[NEU] [mittel] Palo Alto Networks Cortex XSOAR: Schwachstelle ermöglicht Codeausführung",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3946",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-15T09:55:52+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -77,7 +102,7 @@
       "url": "https://www.heise.de/news/PAN-OS-Schadcode-schluepft-durch-Root-Luecke-in-Palo-Alto-Firewalls-11488897.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-15T09:15:00.000+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "security",
@@ -104,7 +129,7 @@
       "url": "https://jvn.jp/jp/JVN48627289/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T12:00:30+09:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -128,7 +153,7 @@
       "url": "https://jvn.jp/jp/JVN94004488/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T12:00:15+09:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -152,7 +177,7 @@
       "url": "https://jvn.jp/jp/JVN40460777/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T12:00:00+09:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -176,7 +201,7 @@
       "url": "https://jvn.jp/vu/JVNVU95613365/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T10:30:30+09:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -200,7 +225,7 @@
       "url": "https://jvn.jp/vu/JVNVU95474776/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T10:30:15+09:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -224,7 +249,7 @@
       "url": "https://jvn.jp/vu/JVNVU94697946/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T10:30:00+09:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security",
         "macro"
@@ -249,7 +274,7 @@
       "url": "https://e27.co/tokens-are-the-wrong-yardstick-for-ai-agents-says-jfrogs-sunny-rao-20261014/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-15T01:00:34+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "ai",
         "macro"
@@ -278,7 +303,7 @@
       "url": "https://e27.co/southeast-asias-funding-winter-is-real-its-building-winter-isnt-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-15T02:00:34+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "general"
       ],
@@ -305,7 +330,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 118.34,
+      "age_days": 118.35,
       "topics": [
         "ai"
       ],
@@ -324,7 +349,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 118.3d old signal",
+        "aging penalty -8.0 for 118.4d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -334,7 +359,7 @@
       "url": "https://www.heise.de/news/Angreifer-nutzen-Root-Luecke-in-Cisco-Secure-Email-Gateway-aus-11488853.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-15T07:07:00.000+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "security"
@@ -360,7 +385,7 @@
       "url": "https://github.com/HKUDS/CLI-Anything",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-15T06:06:30+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -382,11 +407,36 @@
       "summary": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/ https://clianything.cc/ CLI-Anything: Making ALL Software Agent-Native Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖. CLI-Anything: Bridging the Gap Between AI Agents and the World's Software 🌐 CLI-Hub : pip inst…"
     },
     {
+      "title": "What the West can learn from AI optimists in the rest of the world",
+      "url": "https://restofworld.org/2026/west-ai-anxiety-optimism-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "published_at": "2026-10-15T10:00:00+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 22.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce"
+      ],
+      "summary": "The developing world’s enthusiastic adoption of AI and necessity-driven innovations offer lessons for an anxiety-ridden West."
+    },
+    {
       "title": "M 5.3 - 43 km SSE of Otorohanga, New Zealand",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ev",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-15T05:41:14.040+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -411,7 +461,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2eh",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-15T04:02:36.040+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "disaster"
       ],
@@ -436,7 +486,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ec",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-15T03:59:13.050+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "disaster"
       ],
@@ -461,7 +511,7 @@
       "url": "https://e27.co/institutional-buyers-face-a-massive-test-at-the-us81000-bitcoin-support-level-20261015/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-15T03:53:43+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "macro"
       ],
@@ -485,7 +535,7 @@
       "url": "https://e27.co/ai-and-inflation-are-driving-singapores-workplace-anxiety-employers-are-spending-on-the-wrong-fix-20261015/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-15T04:00:44+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "ai",
         "macro"
@@ -512,7 +562,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/bowman20261014a.htm",
       "source": "Federal Reserve Speeches and Testimony",
       "published_at": "2026-10-15T02:55:00+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "ai",
         "macro"
@@ -539,7 +589,7 @@
       "url": "https://www.digital.go.jp/get-involved/procedure/e01662cd-4263-445c-8db8-55013d45ab10",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-15T06:00:00+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -563,7 +613,7 @@
       "url": "https://www.digital.go.jp/press/bc0973b1-afd3-4948-8592-a610513e0a95",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-15T06:00:00+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -587,7 +637,7 @@
       "url": "https://news.web.nhk/newsweb/na/nd-20261015de59803",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-15T07:06:47+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -607,11 +657,35 @@
       "summary": "ハンバーガーチェーン「バーガーキング」の運営会社は、アプリのシステムに対する不正アクセスが確認され、会員の情報、およそ1118万件が外部に漏えいしたと発表しました。漏れたのは会員の氏名、電話番号、メー…"
     },
     {
+      "title": "ワールドガチャ｜架空の町をガチャで作ってマンガの背景に",
+      "url": "https://tools.oyasumi-gamedev.com/worldgacha/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-15T04:01:12+00:00",
+      "age_days": 0.27,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "光方位330°高さ45°落ち影月と時刻月10時刻15:00空気物陰100%かすみ100%空トーン影100%固有色100%模様大きさ40%🎲不透明度100%塗りで表現するベタ範囲40%白抜き"
+    },
+    {
       "title": "雑談はセンサーになる──ふりかえりで言えない本音を拾い、チームを動かす - Agile Journey",
       "url": "https://agilejourney.uzabase.com/entry/2026/10/15/103000",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-15T01:33:17+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "general"
       ],
@@ -635,7 +709,7 @@
       "url": "https://togetter.com/li/2758344",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-15T00:38:43+00:00",
-      "age_days": 0.39,
+      "age_days": 0.41,
       "topics": [
         "general"
       ],
@@ -659,7 +733,7 @@
       "url": "https://e27.co/every-dashboard-is-green-so-why-cant-anyone-say-what-worked-20261012/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-15T03:00:06+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "macro"
       ],
@@ -683,7 +757,7 @@
       "url": "https://note.com/shiba_program/n/nd2d72747f8c5",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-15T04:24:08+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -709,7 +783,7 @@
       "url": "https://e27.co/sea-and-google-open-chapter-two-of-their-ai-pact-before-chapter-one-ships-20261015/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-15T08:19:49+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -735,7 +809,7 @@
       "url": "https://www.digital.go.jp/councils/procurement-reform/FY2026/84c9dba6-43cb-4cf1-be91-0753c744f38d",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-15T06:15:54+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -759,7 +833,7 @@
       "url": "https://e27.co/character-ai-was-worth-us2-7b-to-google-disney-just-offered-us20m-20261015/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-15T08:00:23+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -785,7 +859,7 @@
       "url": "https://e27.co/ai-can-increase-productivity-it-cant-increase-human-capacity-20261015/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-15T04:30:45+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "ai",
         "macro"
@@ -812,7 +886,7 @@
       "url": "https://www.itmedia.co.jp/mobile/articles/2610/15/news037.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-14T23:13:47+00:00",
-      "age_days": 0.45,
+      "age_days": 0.47,
       "topics": [
         "ai"
       ],
@@ -838,7 +912,7 @@
       "url": "https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-14T16:29:36+00:00",
-      "age_days": 0.73,
+      "age_days": 0.75,
       "topics": [
         "ai"
       ],
@@ -864,7 +938,7 @@
       "url": "https://e27.co/human-rights-lost-in-the-s-of-esg-20261012/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-15T04:00:35+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "ai"
       ],
@@ -890,7 +964,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 117.3,
+      "age_days": 117.32,
       "topics": [
         "general"
       ],
@@ -915,7 +989,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 117.3,
+      "age_days": 117.32,
       "topics": [
         "general"
       ],
@@ -940,7 +1014,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 117.3,
+      "age_days": 117.32,
       "topics": [
         "ai"
       ],
@@ -961,57 +1035,7 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
-    },
-    {
-      "title": "PlayStation 5で27Bの生成AIが動作。脱獄の進展次第ではPS5もAI需要の餌食になる可能性",
-      "url": "https://gazlog.jp/entry/ps5-can-run-27b-llm/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-15T03:54:24+00:00",
-      "age_days": 0.26,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "脱獄したPS5で大規模言語モデル（LLM）を動かす「PS5LM」の派生版として、PS5のGPUを使う「PS5LM Plus」が登場し、27BのLLMが1秒あたり約20トークンで動かしたと報告されています。 PS5LMは脱獄したPS5のCPUでLLMを動作。現状の対応モデルは1.6GBまで PS5LMは、PCで広く使われるLLM実行ソフトllama.cppを脱獄したPS5へ移..."
-    },
-    {
-      "title": "動画【ガバメントAI 開発記録】雇用環境・均等行政の挑戦【①AIに何を任せるか】を公開しました",
-      "url": "https://www.digital.go.jp/policies/genai/employment-equality-01",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-10-15T06:00:00+00:00",
-      "age_days": 0.17,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "動画【ガバメントAI 開発記録】雇用環境・均等行政の挑戦【①AIに何を任せるか】を公開しました"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] Palo Alto Networks Cortex XSOAR: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Palo Alto Networks PAN-OS: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
 }

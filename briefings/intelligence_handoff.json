@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-15T10:03:26Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] Palo Alto Networks Cortex XSOAR: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
+  "generated_at": "2026-10-15T10:24:45Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Palo Alto Networks PAN-OS: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,36 @@
   ],
   "top_dynamics": [
     {
+      "title": "[NEU] [hoch] Palo Alto Networks PAN-OS: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3947",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-15T10:15:52+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code, pan-os, palo",
+        "security high-signal: code, pan-os, palo, alto"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Palo Alto Networks PAN-OS ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen, beliebigen Code mit Root-Rechten auszuführen, Sicherheitsmaßnahmen zu umgehen, sich als andere Benutzer auszugeben oder einen Denial-of-Service-Zustand auszulösen."
+    },
+    {
       "title": "[NEU] [mittel] Palo Alto Networks Cortex XSOAR: Schwachstelle ermöglicht Codeausführung",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3946",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-15T09:55:52+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -63,38 +88,11 @@
       "summary": "On 14 October 2026, Cisco published a security advisory addressing a critical vulnerability affecting the Advanced Malware Protection (AMP) feature of Cisco Secure Email Gateway. This vulnerability could allow an unauthenticated, remote attacker to write arbitrary files and execute commands with root privileges on the…"
     },
     {
-      "title": "PAN-OS: Schadcode schlüpft durch Root-Lücke in Palo-Alto-Firewalls",
-      "url": "https://www.heise.de/news/PAN-OS-Schadcode-schluepft-durch-Root-Luecke-in-Palo-Alto-Firewalls-11488897.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-10-15T09:15:00.000+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "ai",
-        "security",
-        "infra"
-      ],
-      "dynamics_score": 24.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": true,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code, firewall, pan-os",
-        "security high-signal: code, firewall, pan-os, palo"
-      ],
-      "summary": "Angreifer attackieren zurzeit Firewalls von Palo Alto Networks. Eine reparierte PAN-OS-Version schafft Abhilfe."
-    },
-    {
       "title": "スマートフォンアプリ「ハンドメイドマーケットアプリ - Creema（クリーマ）」におけるオープンリダイレクトの脆弱性",
       "url": "https://jvn.jp/jp/JVN48627289/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T12:00:30+09:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -118,7 +116,7 @@
       "url": "https://jvn.jp/jp/JVN94004488/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T12:00:15+09:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -142,7 +140,7 @@
       "url": "https://jvn.jp/jp/JVN40460777/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T12:00:00+09:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -166,7 +164,7 @@
       "url": "https://jvn.jp/vu/JVNVU95613365/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T10:30:30+09:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -190,7 +188,7 @@
       "url": "https://jvn.jp/vu/JVNVU95474776/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T10:30:15+09:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -214,7 +212,7 @@
       "url": "https://jvn.jp/vu/JVNVU94697946/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-15T10:30:00+09:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security",
         "macro"
@@ -239,7 +237,7 @@
       "url": "https://e27.co/tokens-are-the-wrong-yardstick-for-ai-agents-says-jfrogs-sunny-rao-20261014/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-15T01:00:34+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "ai",
         "macro"
@@ -268,7 +266,7 @@
       "url": "https://e27.co/southeast-asias-funding-winter-is-real-its-building-winter-isnt-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-15T02:00:34+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "general"
       ],
@@ -295,7 +293,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 118.34,
+      "age_days": 118.35,
       "topics": [
         "ai"
       ],
@@ -314,7 +312,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 118.3d old signal",
+        "aging penalty -8.0 for 118.4d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -329,8 +327,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "krass": 1,
-      "strong": 11
+      "krass": 2,
+      "strong": 10
     }
   }
 }
