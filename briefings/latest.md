@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-15T01:59:48+00:00_
+_Generiert: 2026-10-15T02:23:38+00:00_
 
 ## Kurzlage
 
-5 neue relevante Treffer. Stärkstes Signal: „Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+6 neue relevante Treffer. Stärkstes Signal: „Tokens are the wrong yardstick for AI agents, says JFrog’s Sunny Rao“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -112,6 +112,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Southeast Asia’s funding winter is real. Its building winter isn’t** — Score 12, observation — [Quelle](https://e27.co/southeast-asias-funding-winter-is-real-its-building-winter-isnt-20261010/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-15T02:00:34+00:00`, fetched `2026-10-15T02:23:01+00:00`
+  - Treffer: APAC Trend Radar, funding, Southeast Asia, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); funding (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Every few weeks, another report tells the same story about Southeast Asian tech: capital has fled, deals have dried up, and the region’s startup engine has stalled. The most recent numbers make the case forcefully. Zero dedicated regional private equity funds reached final close in the first half of 2026. Three pan-Asian mega-funds — EQT, […] The post Southeast Asia’s funding winter is real. Its building winter isn’…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ** — Score 5, observation — [Quelle](https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-14T16:29:36+00:00`, fetched `2026-10-15T00:48:09+00:00`
