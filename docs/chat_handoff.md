@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-15T02:58:28+00:00_
+_Generated: 2026-10-15T03:14:36+00:00_
 
 ## Status
 - status: `normal`
-- findings: `7`
+- findings: `12`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-10-15T02:58:28+00:00_
 - url: https://www.federalreserve.gov/newsevents/speech/bowman20261014a.htm
 - summary: Speech At the Bangkok Economic Festival, Reinventing Bretton Woods Committee, Bangkok, Thailand
 
-### 3. Google BoringSSL証明書検証における複数の名前制約回避の脆弱性
+### 3. スマートフォンアプリ「ハンドメイドマーケットアプリ - Creema（クリーマ）」におけるオープンリダイレクトの脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
-- published: `2026-10-15T10:30:30+09:00`
-- url: https://jvn.jp/vu/JVNVU95613365/
-- summary: CERT/CCから本件に関するアドバイザリが公表されました。
+- published: `2026-10-15T12:00:30+09:00`
+- url: https://jvn.jp/jp/JVN48627289/
+- summary: 株式会社クリーマが提供するスマートフォンアプリ「ハンドメイドマーケットアプリ - Creema（クリーマ）」には、オープンリダイレクトの脆弱性が存在します。
 
-### 4. 複数のTLSライブラリにおける名前制約回避の問題
+### 4. 「車検証閲覧アプリ」における送信データへの機微な情報の挿入の脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
-- published: `2026-10-15T10:30:15+09:00`
-- url: https://jvn.jp/vu/JVNVU95474776/
-- summary: CERT/CCから本件に関するアドバイザリが公表されました。
+- published: `2026-10-15T12:00:15+09:00`
+- url: https://jvn.jp/jp/JVN94004488/
+- summary: 国土交通省が提供する「車検証閲覧アプリ」には、送信データへの機微な情報の挿入の脆弱性が存在します。
 
 ### 5. Southeast Asia’s funding winter is real. Its building winter isn’t
 - source: e27 Asia Startup and Tech Feed
@@ -43,11 +43,25 @@ _Generated: 2026-10-15T02:58:28+00:00_
 - url: https://e27.co/southeast-asias-funding-winter-is-real-its-building-winter-isnt-20261010/
 - summary: Every few weeks, another report tells the same story about Southeast Asian tech: capital has fled, deals have dried up, and the region’s startup engine has stalled. The most recent numbers make the case forcefully. Zero dedicated regional private equity funds…
 
-### 6. Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ
+### 6. タイムズカーの件で免許証の再発行に…警察署で「再発行して良いんですか？末尾の数字が変わるだけですよ？紛失歴増えますよ？」と不安を煽られる→メリットがあるか議論に
+- source: Hatena Bookmark Hotentry IT
+- score: `5`
+- published: `2026-10-15T00:38:43+00:00`
+- url: https://togetter.com/li/2758344
+- summary: savo @moruharu430 タイムズカーの煽りを受け 免許証再発行の為に警察署へ 警察署では 「再発行して良いんですか？末尾の数字が変わるだけですよ？紛失歴増えますよ？」 と不安を煽られる 好きで再発行するんじゃないのになぁ もー 2026-10-14 14:33:08 【衝撃】運転免許証の画像が流出…専門家が警告「借金の申し込みが...
+
+### 7. Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-10-14T16:29:36+00:00`
 - url: https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html
 - summary: Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ マイクロソフトはWindows 11上でAIエージェントを安全に動かすための隔離環境「Microsoft Execution Containers」（以下、MXC）の正式リリースを発表し...
+
+### 8. Every dashboard is green. So why can’t anyone say what worked?
+- source: e27 Asia Startup and Tech Feed
+- score: `4`
+- published: `2026-10-15T03:00:06+00:00`
+- url: https://e27.co/every-dashboard-is-green-so-why-cant-anyone-say-what-worked-20261012/
+- summary: Here is an uncomfortable finding for anyone building a 2027 marketing plan this month: audiences are warming to advertising, and marketers are growing less sure that theirs works. That tension sits at the centre of Kantar’s Media Reactions study, published on…
 
 END OF DOCUMENT
