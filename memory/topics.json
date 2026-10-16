@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-16T12:59:28+00:00",
+  "generated_at": "2026-10-16T13:16:12+00:00",
   "topics": {
     "security": [
       {
@@ -279,6 +279,13 @@
     ],
     "general": [
       {
+        "title": "M 4.7 - 10 km SE of Lamitan, Philippines",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-16T13:08:51.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2pp"
+      },
+      {
         "title": "M 4.9 - 31 km ENE of Kinablangan, Philippines",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-16T09:34:45.040+00:00",
@@ -340,13 +347,6 @@
         "published_at": "2026-10-16T01:13:41+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/speech/minister-261016-01"
-      },
-      {
-        "title": "ソースネクスト パスワード暗号化がない状態で流出 再設定を | NHKニュース",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-16T09:05:24+00:00",
-        "relevance_score": 5,
-        "url": "https://news.web.nhk/newsweb/na/nd-20261016de60556"
       }
     ],
     "github": [

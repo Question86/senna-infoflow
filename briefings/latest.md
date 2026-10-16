@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-16T12:59:28+00:00_
+_Generiert: 2026-10-16T13:16:12+00:00_
 
 ## Kurzlage
 
-56 neue relevante Treffer. Stärkstes Signal: „Version 1.0: BeyondTrust Remote Support - Zero-Day Schwachstelle seit mindestens August ausgenutzt“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 20, risk).
+57 neue relevante Treffer. Stärkstes Signal: „Version 1.0: BeyondTrust Remote Support - Zero-Day Schwachstelle seit mindestens August ausgenutzt“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 20, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -138,6 +138,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 4.7 - 10 km SE of Lamitan, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2pp)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-16T13:08:51.040+00:00`, fetched `2026-10-16T13:15:39+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-16 12:18:25 UTC 2026-10-16 12:18:25 UTC at epicenter Location 6.027°N 125.779°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.9 - 31 km ENE of Kinablangan, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2p2)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
