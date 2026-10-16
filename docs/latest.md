@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-16T22:40:27+00:00_
+_Generiert: 2026-10-16T22:45:34+00:00_
 
 ## Kurzlage
 
-75 neue relevante Treffer. Stärkstes Signal: „Version 1.0: BeyondTrust Remote Support - Zero-Day Schwachstelle seit mindestens August ausgenutzt“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 20, risk).
+76 neue relevante Treffer. Stärkstes Signal: „Version 1.0: BeyondTrust Remote Support - Zero-Day Schwachstelle seit mindestens August ausgenutzt“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 20, risk).
 
 ## Priorität Hoch
 
