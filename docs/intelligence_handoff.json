@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-16T03:44:52Z",
+  "generated_at": "2026-10-16T03:53:45Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory（2026年10月15日）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -41,7 +41,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 119.07,
+      "age_days": 119.08,
       "topics": [
         "ai"
       ],
@@ -70,7 +70,7 @@
       "url": "https://e27.co/defa-cuts-the-cost-of-entry-your-architecture-sets-the-cost-of-scale-20261012/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-16T02:00:21+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "macro"
       ],
@@ -122,7 +122,7 @@
       "url": "https://e27.co/employers-are-buying-ai-tools-their-managers-are-being-left-behind-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-16T03:12:44+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "macro"
@@ -145,11 +145,39 @@
       "summary": "Thirty-seven per cent. Eleven per cent. Those two numbers, tucked deep inside Jobstreet by SEEK’s Singapore Workplace Culture Study 2026, may say more about the region’s productivity problem than any headline about AI or inflation. The first is the share of employees who try to manage workplace pressure by quietly dra…"
     },
     {
+      "title": "M 6.9 - 76 km NE of Ozernovskiy, Russia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2mq",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-16T03:50:50.963+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai",
+        "disaster"
+      ],
+      "dynamics_score": 11.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "ShakeMap - VI Time 2026-10-16 03:35:32 UTC 2026-10-16 03:35:32 UTC at epicenter Location 52.007°N 157.250°E Depth 143.18 km (88.97 mi)"
+    },
+    {
       "title": "【LocalLLM】Claude Codeの代わりになる？精度・同時人数・費用を検証",
       "url": "https://zenn.dev/solvio/articles/6d374a9224327a",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-15T12:35:58+00:00",
-      "age_days": 0.63,
+      "age_days": 0.64,
       "topics": [
         "ai"
       ],
@@ -176,7 +204,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261016-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-16T01:13:41+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -196,11 +224,35 @@
       "summary": "古川大臣記者会見（令和8年10月16日）動画を掲載しました"
     },
     {
+      "title": "「スパムのメールヘッダ偽装にニュータイプ出てきた」楽天カードを持っていないのに公式アドレスからの送信だと誤認…Xで報告が相次ぐ「ドメインだけでは判断できない」",
+      "url": "https://togetter.com/li/2758764",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-16T02:02:15+00:00",
+      "age_days": 0.08,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "T_K_Soft💉💉💉💉💉 @TechnoTreasure スパムのメールヘッダ偽装にニュータイプ出てきた😓 公式アドレスからの送信だと受信側が誤認している。 偽装と気付いた理由は私が楽天カードを持ってないからで、他にも個人名が書かれていないとか識別方法はあるものの、相当紛らわしくなっている。 pic.x.com/bywWtADPju 2026-10-..."
+    },
+    {
       "title": "「『楽天カード公式』から詐欺メール」報告相次ぐ ドコモメールに公式マーク付きフィッシング、一部企業の認証設定に脆弱性",
       "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002314/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T01:57:36+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -248,7 +300,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOUC084IG0Y6A001C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-15T21:42:04+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -266,59 +318,6 @@
         "no strong comparative reason"
       ],
       "summary": "パーク24のカーシェアサービス「タイムズカー」における免許証画像流出を受け、信用情報機関に悪用防止の届け出が殺到している。クレジットカードの審査を厳格にして、なりすましを防ぐためだ。一方、本人でも発行までに手間がかかる可能性がある。システムへの不正アクセスによってタイムズカーでは約160万件分の免許証..."
-    },
-    {
-      "title": "Before you use predictive AI, decide what decision it should change",
-      "url": "https://e27.co/before-you-use-predictive-ai-decide-what-decision-it-should-change-20261012/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-16T03:00:27+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "A lot of startup advice about predictive AI starts too early. It starts with the model, the tool, the data stack, or the dashboard. Those things matter, but they are not the first question. The first question is simpler: what decision should this prediction change? If a startup cannot answer that clearly, it is usuall…"
-    },
-    {
-      "title": "Why Indonesian fintech’s ASEAN expansion cost more than anyone priced in",
-      "url": "https://e27.co/why-indonesian-fintechs-asean-expansion-cost-more-than-anyone-priced-in-20261015/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-16T01:00:43+00:00",
-      "age_days": 0.11,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 4.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Indonesian fintech expansion into ASEAN looks different in 2026 than it did when Investree opened its Thailand operations in 2018 and its Philippines unit shortly after. The cohort of Indonesian platforms that pushed beyond the domestic market between 2018 and 2022 (Investree, Modalku, several payment players, a handf…"
     }
   ],
   "read_order": [
