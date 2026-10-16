@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-16T11:48:48+00:00_
+_Generiert: 2026-10-16T11:54:20+00:00_
 
 ## Kurzlage
 
-53 neue relevante Treffer. Stärkstes Signal: „Version 1.0: BeyondTrust Remote Support - Zero-Day Schwachstelle seit mindestens August ausgenutzt“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 20, risk).
+54 neue relevante Treffer. Stärkstes Signal: „Version 1.0: BeyondTrust Remote Support - Zero-Day Schwachstelle seit mindestens August ausgenutzt“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 20, risk).
 
 ## Priorität Hoch
 
@@ -123,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0)
   - Kurz: 台灣智園｜Tronclass - 存在3個漏洞
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 4.8 - 7 km WSW of Soconusco, Mexico** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ph)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-16T11:52:45.040+00:00`, fetched `2026-10-16T11:53:50+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-16 11:39:44 UTC 2026-10-16 11:39:44 UTC at epicenter Location 15.278°N 92.788°W Depth 108.91 km (67.67 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.7 - 95 km SW of Brisas Barra de Suchiate, Mexico** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2n4)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-16T04:56:50.040+00:00`, fetched `2026-10-16T04:56:39+00:00`
@@ -203,15 +212,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 古川大臣記者会見（令和8年10月16日）動画を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ソースネクスト パスワード暗号化がない状態で流出 再設定を | NHKニュース** — Score 5, observation — [Quelle](https://news.web.nhk/newsweb/na/nd-20261016de60556)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-16T09:05:24+00:00`, fetched `2026-10-16T10:34:44+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 年賀状ソフトなどを手がける「ソースネクスト」で、メールアドレスやパスワードなど大量の個人情報が不正アクセスによって流出した問題で、このうちパスワードは暗号がかかっていない状態で流出していたことが会社へ…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

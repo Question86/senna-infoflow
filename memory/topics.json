@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-16T11:48:48+00:00",
+  "generated_at": "2026-10-16T11:54:20+00:00",
   "topics": {
     "security": [
       {
@@ -286,6 +286,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2mq"
       },
       {
+        "title": "M 4.8 - 7 km WSW of Soconusco, Mexico",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-16T11:52:45.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ph"
+      },
+      {
         "title": "M 4.7 - 95 km SW of Brisas Barra de Suchiate, Mexico",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-16T04:56:50.040+00:00",
@@ -333,13 +340,6 @@
         "published_at": "2026-10-16T05:56:04+00:00",
         "relevance_score": 5,
         "url": "https://news.web.nhk/newsweb/na/nd-20261016de60395"
-      },
-      {
-        "title": "まるでSFの世界、テスラが「空飛ぶ車」をお披露目",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-16T05:18:18+00:00",
-        "relevance_score": 5,
-        "url": "https://www.cnn.co.jp/business/35253632.html"
       }
     ],
     "github": [
