@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-16T19:42:54+00:00_
+_Generiert: 2026-10-16T19:48:26+00:00_
 
 ## Kurzlage
 
-72 neue relevante Treffer. Stärkstes Signal: „Version 1.0: BeyondTrust Remote Support - Zero-Day Schwachstelle seit mindestens August ausgenutzt“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 20, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+72 neue relevante Treffer. Stärkstes Signal: „Version 1.0: BeyondTrust Remote Support - Zero-Day Schwachstelle seit mindestens August ausgenutzt“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 20, risk).
 
 ## Priorität Hoch
 
@@ -231,7 +231,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `cert_fr_alerts` (rss): HTTPSConnectionPool(host='cert.cyber.gouv.fr', port=443): Max retries exceeded with url: /alerte/feed/ (Caused by NewConnectionError("HTTPSConnection(host='cert.cyber.gouv.fr', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
