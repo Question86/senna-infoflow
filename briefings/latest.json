@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T08:27:02+00:00",
-  "run_id": "2026-10-16T08:27:02+00:00",
+  "generated_at": "2026-10-16T08:41:51+00:00",
+  "run_id": "2026-10-16T08:41:51+00:00",
   "date": "2026-10-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 27,
     "displayed_findings": 27,
     "high": 0,
@@ -1279,50 +1279,7 @@
       "id": "219dcac654b9ec5033fe"
     }
   ],
-  "new_findings": [
-    {
-      "title": "ヤマト運輸 個人情報530万件余の外部流出を確認 | NHKニュース",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60395",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-16T05:56:04+00:00",
-      "fetched_at": "2026-10-16T08:26:30+00:00",
-      "summary": "宅配大手のヤマト運輸は、代金を後払いするサービスに不正アクセスがあり、530万件余りの個人情報が外部に流出したことを確認したと明らかにしました。 流出が確認されたのは、2018年10月1日から202…",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "13e490529dbaaded34a2"
-    },
-    {
-      "title": "『note組大きくリードしてます。はてな組も頑張ってください』 - orangestar2",
-      "url": "https://orangestar2.hatenadiary.com/entry/2026/10/16/140905",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-16T05:54:14+00:00",
-      "fetched_at": "2026-10-16T08:26:30+00:00",
-      "summary": "p.hatena.ne.jp 2026年10月6日に公開されたnoteの3Q決算説明資料を今更ながら確認した。はっきり言って衝撃だった。 全部の数字がすごかった。特に印象に残った数字を抜き出すと以下だ。 売上高14.53億円、前年同期比35.1%増 営業利益3.10億円、前年同期比約3倍。営業利益率21.3% 従業員数161人→151人。AIを積極的に活用...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "12aaefc0743927d87bad"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
