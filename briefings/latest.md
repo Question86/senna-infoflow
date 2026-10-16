@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-16T23:25:57+00:00_
+_Generiert: 2026-10-16T23:31:07+00:00_
 
 ## Kurzlage
 
-77 neue relevante Treffer. Stärkstes Signal: „Version 1.0: BeyondTrust Remote Support - Zero-Day Schwachstelle seit mindestens August ausgenutzt“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 20, risk).
+78 neue relevante Treffer. Stärkstes Signal: „How Itaú is building generative AI for its entire customer base“ aus OpenAI News RSS (Score 22, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -69,6 +69,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **How Itaú is building generative AI for its entire customer base** — Score 22, observation — [Quelle](https://openai.com/index/itau-generative-ai)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-16T19:00:00+00:00`, fetched `2026-10-16T23:30:38+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Markets/Capital Structure, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); recent (+1.0); watchgraph region south_america: Brazil (+2.0)
+  - Kurz: With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Version 1.0: BeyondTrust Remote Support - Zero-Day Schwachstelle seit mindestens August ausgenutzt** — Score 20, risk — [Quelle](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297832-1032_bits.html)
   - Quelle: BSI CERT-Bund Cyber-Sicherheitswarnungen / `rss`
   - Zeit: published `2026-10-16T11:20:00+00:00`, fetched `2026-10-16T11:21:26+00:00`
@@ -282,8 +291,8 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
-- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 
