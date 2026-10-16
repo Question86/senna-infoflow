@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-16T02:57:39+00:00_
+_Generiert: 2026-10-16T03:10:12+00:00_
 
 ## Kurzlage
 
-9 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月15日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+10 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月15日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 ## Priorität Hoch
 
@@ -42,6 +42,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)
   - Kurz: In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Before you use predictive AI, decide what decision it should change** — Score 8, observation — [Quelle](https://e27.co/before-you-use-predictive-ai-decide-what-decision-it-should-change-20261012/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-16T03:00:27+00:00`, fetched `2026-10-16T03:09:41+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: A lot of startup advice about predictive AI starts too early. It starts with the model, the tool, the data stack, or the dashboard. Those things matter, but they are not the first question. The first question is simpler: what decision should this prediction change? If a startup cannot answer that clearly, it is usually […] The post Before you use predictive AI, decide what decision it should change appeared first on…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Why Indonesian fintech’s ASEAN expansion cost more than anyone priced in** — Score 7, observation — [Quelle](https://e27.co/why-indonesian-fintechs-asean-expansion-cost-more-than-anyone-priced-in-20261015/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-16T01:00:43+00:00`, fetched `2026-10-16T01:09:08+00:00`
