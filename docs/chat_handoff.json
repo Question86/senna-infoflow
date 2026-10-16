@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-16T03:10:12+00:00",
+  "generated_at": "2026-10-16T03:28:02+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 10,
-    "displayed_findings": 10,
+    "new_relevant_findings": 3,
+    "today_file_total": 13,
+    "displayed_findings": 13,
     "high": 0,
-    "medium": 1,
-    "observe": 9
+    "medium": 2,
+    "observe": 11
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "Employers are buying AI tools. Their managers are being left behind",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-16T03:12:44+00:00",
+      "relevance_score": 20,
+      "url": "https://e27.co/employers-are-buying-ai-tools-their-managers-are-being-left-behind-20261016/",
+      "summary": "Thirty-seven per cent. Eleven per cent. Those two numbers, tucked deep inside Jobstreet by SEEK’s Singapore Workplace Culture Study 2026, may say more about the region’s productivity problem than any headline about AI or inflation. The first is the share of e…",
+      "section": "medium"
+    },
     {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月15日）",
       "source": "JVN Japan Vulnerability Notes",
