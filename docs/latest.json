@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T05:34:19+00:00",
-  "run_id": "2026-10-16T05:34:19+00:00",
+  "generated_at": "2026-10-16T05:45:17+00:00",
+  "run_id": "2026-10-16T05:45:17+00:00",
   "date": "2026-10-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 20
+      "configured_public_sources_only": 21
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 20,
-    "displayed_findings": 20,
+    "new_relevant_findings": 1,
+    "today_file_total": 21,
+    "displayed_findings": 21,
     "high": 0,
     "medium": 2,
-    "observe": 18,
+    "observe": 19,
     "source_errors": 0
   },
   "sections": {
@@ -234,6 +234,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "d2d717c4d661c3ae5feb"
+      },
+      {
+        "title": "Ecosystem Roundup: Singapore’s always-on workers are performing to an empty room",
+        "url": "https://e27.co/ecosystem-roundup-singapores-always-on-workers-are-performing-to-an-empty-room-20261016/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-16T05:41:15+00:00",
+        "fetched_at": "2026-10-16T05:44:41+00:00",
+        "summary": "Singapore’s office workers answer a 10.47pm message within 90 seconds to prove their commitment. Their bosses barely notice. The Jobstreet by SEEK Singapore Workplace Culture Study 2026, which surveyed 600 employees and jobseekers and 200 hiring decision makers, finds that 63% of staff signal dedication by replying fast, a behaviour only 39% of employers value. […] The post Ecosystem Roundup: Singapore’s always-on w…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d93739b982db96918067"
       },
       {
         "title": "The US$82,000 Illusion: Why Bitcoin still trades like a traditional tech stock",
@@ -712,6 +732,26 @@
       "id": "d2d717c4d661c3ae5feb"
     },
     {
+      "title": "Ecosystem Roundup: Singapore’s always-on workers are performing to an empty room",
+      "url": "https://e27.co/ecosystem-roundup-singapores-always-on-workers-are-performing-to-an-empty-room-20261016/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-16T05:41:15+00:00",
+      "fetched_at": "2026-10-16T05:44:41+00:00",
+      "summary": "Singapore’s office workers answer a 10.47pm message within 90 seconds to prove their commitment. Their bosses barely notice. The Jobstreet by SEEK Singapore Workplace Culture Study 2026, which surveyed 600 employees and jobseekers and 200 hiring decision makers, finds that 63% of staff signal dedication by replying fast, a behaviour only 39% of employers value. […] The post Ecosystem Roundup: Singapore’s always-on w…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d93739b982db96918067"
+    },
+    {
       "title": "The US$82,000 Illusion: Why Bitcoin still trades like a traditional tech stock",
       "url": "https://e27.co/the-us82000-illusion-why-bitcoin-still-trades-like-a-traditional-tech-stock-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -981,7 +1021,28 @@
       "id": "219dcac654b9ec5033fe"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Ecosystem Roundup: Singapore’s always-on workers are performing to an empty room",
+      "url": "https://e27.co/ecosystem-roundup-singapores-always-on-workers-are-performing-to-an-empty-room-20261016/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-16T05:41:15+00:00",
+      "fetched_at": "2026-10-16T05:44:41+00:00",
+      "summary": "Singapore’s office workers answer a 10.47pm message within 90 seconds to prove their commitment. Their bosses barely notice. The Jobstreet by SEEK Singapore Workplace Culture Study 2026, which surveyed 600 employees and jobseekers and 200 hiring decision makers, finds that 63% of staff signal dedication by replying fast, a behaviour only 39% of employers value. […] The post Ecosystem Roundup: Singapore’s always-on w…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d93739b982db96918067"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

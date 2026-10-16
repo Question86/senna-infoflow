@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-16T05:34:19+00:00",
+  "generated_at": "2026-10-16T05:45:17+00:00",
   "topics": {
     "ai": [
       {
@@ -135,6 +135,13 @@
         "published_at": "2026-10-16T04:56:50.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2n4"
+      },
+      {
+        "title": "Ecosystem Roundup: Singapore’s always-on workers are performing to an empty room",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-16T05:41:15+00:00",
+        "relevance_score": 7,
+        "url": "https://e27.co/ecosystem-roundup-singapores-always-on-workers-are-performing-to-an-empty-room-20261016/"
       },
       {
         "title": "タイムズカー情報流出、信用機関に悪用防止要請殺到 クレカ発行に手間 - 日本経済新聞",
