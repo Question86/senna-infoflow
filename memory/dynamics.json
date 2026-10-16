@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-16T11:23:22Z",
+  "generated_at": "2026-10-16T11:34:45Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 10,
-      "strong": 9,
+      "krass": 12,
+      "strong": 10,
       "watch": 6,
-      "quiet": 15
+      "quiet": 12
     },
     "bands_after_gate_recheck": {
       "krass": 3,
-      "strong": 16,
+      "strong": 19,
       "watch": 6,
-      "quiet": 15
+      "quiet": 12
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3922",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-16T09:54:02+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -49,7 +49,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3940",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-16T09:54:01+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -74,7 +74,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3905",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-16T09:54:03+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -93,6 +93,31 @@
         "security high-signal: angriffe, code"
       ],
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren, einen Denial-of-Service-Zustand auszulösen oder andere, nicht näher spezifizierte Angriffe durchzuführen."
+    },
+    {
+      "title": "[NEU] [mittel] Apache Airflow: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4005",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-16T11:25:51+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Apache Airflow ausnutzen, um Sicherheitsvorkehrungen zu umgehen oder Informationen offenzulegen."
     },
     {
       "title": "[NEU] [mittel] FasterXML Jackson: Schwachstelle ermöglicht Denial of Service",
@@ -123,7 +148,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1604",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-16T10:38:14+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -147,7 +172,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1597",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-16T10:38:14+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -171,7 +196,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3964",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-16T09:00:52+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -195,7 +220,7 @@
       "url": "https://restofworld.org/2026/china-open-weight-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-10-16T10:00:00+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -220,7 +245,7 @@
       "url": "https://jvn.jp/vu/JVNVU96928590/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-16T09:15:00+09:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "security"
       ],
@@ -240,6 +265,58 @@
         "official security but no high-signal phrase: capped at strong"
       ],
       "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
+    },
+    {
+      "title": "[NEU] [hoch] Apache Camel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4006",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-16T11:25:51+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Apache Camel ausnutzen, um beliebigen Programmcode auszuführen, um Informationen offenzulegen, um Dateien zu manipulieren und um Sicherheitsvorkehrungen zu umgehen."
+    },
+    {
+      "title": "[NEU] [hoch] Sonatype Nexus Repository Manager: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4004",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-16T11:20:51+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Sonatype Nexus Repository Manager ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Informationen offenzulegen, beliebigen Programmcode auszuführen oder Administratorrechte zu erlangen, sowie um einen Cross-Site Scripting Angriff durchzuführen."
     },
     {
       "title": "[NEU] [mittel] Grafana: Schwachstelle ermöglicht Manipulation von Daten",
@@ -298,7 +375,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3931",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-16T09:54:01+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -324,7 +401,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2177",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-16T06:45:51+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -350,7 +427,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3926",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-16T05:55:51+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -376,7 +453,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3952",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-16T09:00:51+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -401,7 +478,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 119.39,
+      "age_days": 119.4,
       "topics": [
         "ai"
       ],
@@ -430,7 +507,7 @@
       "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297832-1032_bits.html",
       "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
       "published_at": "2026-10-16T11:20:00+00:00",
-      "age_days": 0.0,
+      "age_days": 0.01,
       "topics": [
         "security"
       ],
@@ -456,7 +533,7 @@
       "url": "https://www.digital.go.jp/resources/govdashboard/childcare",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-16T06:00:00+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -506,7 +583,7 @@
       "url": "https://e27.co/defa-cuts-the-cost-of-entry-your-architecture-sets-the-cost-of-scale-20261012/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-16T02:00:21+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "macro"
       ],
@@ -532,7 +609,7 @@
       "url": "https://openai.com/index/sullivan-cromwell",
       "source": "OpenAI News RSS",
       "published_at": "2026-10-15T00:00:00+00:00",
-      "age_days": 1.47,
+      "age_days": 1.48,
       "topics": [
         "ai"
       ],
@@ -558,7 +635,7 @@
       "url": "https://e27.co/employers-are-buying-ai-tools-their-managers-are-being-left-behind-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-16T03:12:44+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "ai",
         "macro"
@@ -585,7 +662,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2n4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-16T04:56:50.040+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "disaster"
       ],
@@ -638,7 +715,7 @@
       "url": "https://e27.co/ecosystem-roundup-singapores-always-on-workers-are-performing-to-an-empty-room-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-16T05:41:15+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -662,7 +739,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2mq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-16T03:50:50.963+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "ai",
         "disaster"
@@ -690,7 +767,7 @@
       "url": "https://zenn.dev/solvio/articles/6d374a9224327a",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-15T12:35:58+00:00",
-      "age_days": 0.95,
+      "age_days": 0.96,
       "topics": [
         "ai"
       ],
@@ -717,7 +794,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261016-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-16T01:13:41+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "general"
       ],
@@ -765,7 +842,7 @@
       "url": "https://news.web.nhk/newsweb/na/nd-20261016de60395",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T05:56:04+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -789,7 +866,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002323/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T02:55:17+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "general"
       ],
@@ -813,7 +890,7 @@
       "url": "https://togetter.com/li/2758764",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T02:02:15+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "general"
       ],
@@ -837,7 +914,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002314/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T01:57:36+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "general"
       ],
@@ -861,7 +938,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2148594.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-15T23:16:45+00:00",
-      "age_days": 0.5,
+      "age_days": 0.51,
       "topics": [
         "infra"
       ],
@@ -885,7 +962,7 @@
       "url": "https://e27.co/what-does-chatgpt-say-about-your-brand-miracly-raises-us2m-to-find-out-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-16T09:29:17+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "macro"
@@ -912,7 +989,7 @@
       "url": "https://e27.co/why-a-small-gulf-currency-matters-for-partiors-southeast-asian-ambitions-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-16T04:00:57+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "ai"
       ],
@@ -939,7 +1016,7 @@
       "url": "https://e27.co/the-us82000-illusion-why-bitcoin-still-trades-like-a-traditional-tech-stock-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-16T04:49:12+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "ai",
         "macro"
@@ -961,83 +1038,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Bitcoin currently trades at US$82,231.14, reflecting a 0.65 per cent gain over the last 24 hours. This movement mirrors a broader 0.84 per cent rise in the total crypto market capitalisation. Having operated in this industry for over 15 years and advised on blockchain policy, I view this price action as a clear reflec…"
-    },
-    {
-      "title": "タイムズカー情報流出、信用機関に悪用防止要請殺到 クレカ発行に手間 - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUC084IG0Y6A001C2000000/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-15T21:42:04+00:00",
-      "age_days": 0.57,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "パーク24のカーシェアサービス「タイムズカー」における免許証画像流出を受け、信用情報機関に悪用防止の届け出が殺到している。クレジットカードの審査を厳格にして、なりすましを防ぐためだ。一方、本人でも発行までに手間がかかる可能性がある。システムへの不正アクセスによってタイムズカーでは約160万件分の免許証..."
-    },
-    {
-      "title": "Before you use predictive AI, decide what decision it should change",
-      "url": "https://e27.co/before-you-use-predictive-ai-decide-what-decision-it-should-change-20261012/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-16T03:00:27+00:00",
-      "age_days": 0.35,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "A lot of startup advice about predictive AI starts too early. It starts with the model, the tool, the data stack, or the dashboard. Those things matter, but they are not the first question. The first question is simpler: what decision should this prediction change? If a startup cannot answer that clearly, it is usuall…"
-    },
-    {
-      "title": "Basel Committee finalises measures to address window-dressing in the G-SIB framework and consults on G-SIB methodology review",
-      "url": "https://www.bis.org/media-releases/20261016-basel-committee-finalises-measures-address-window-dressing-g-sib-framework-and-consults-g-sib",
-      "source": "BIS Press Releases",
-      "published_at": "2026-10-16T00:00:00+00:00",
-      "age_days": 0.47,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "The Basel Committee on Banking Supervision today published final amendments to address window dressing in the G-SIB framework and a consultation on the G-SIB methodology review."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Microsoft Apps: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
