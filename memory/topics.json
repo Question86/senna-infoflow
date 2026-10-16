@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-16T10:35:16+00:00",
+  "generated_at": "2026-10-16T10:44:43+00:00",
   "topics": {
     "ai": [
       {
@@ -156,6 +156,20 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3952"
       },
       {
+        "title": "[UPDATE] [mittel] Red Hat OpenShift Data Foundation: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-16T10:38:14+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1604"
+      },
+      {
+        "title": "[UPDATE] [mittel] MariaDB: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-16T10:38:14+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1597"
+      },
+      {
         "title": "[UPDATE] [hoch] Google Chrome: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-16T09:54:03+00:00",
@@ -182,13 +196,6 @@
         "published_at": "2026-10-16T06:45:51+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2177"
-      },
-      {
-        "title": "[UPDATE] [hoch] Adobe Experience Manager: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-16T05:55:51+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3926"
       }
     ],
     "general": [
