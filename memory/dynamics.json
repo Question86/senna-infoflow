@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-16T01:54:17Z",
+  "generated_at": "2026-10-16T02:04:40Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 11,
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/vu/JVNVU96928590/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-16T09:15:00+09:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -78,7 +78,7 @@
       "url": "https://openai.com/index/sullivan-cromwell",
       "source": "OpenAI News RSS",
       "published_at": "2026-10-15T00:00:00+00:00",
-      "age_days": 1.08,
+      "age_days": 1.09,
       "topics": [
         "ai"
       ],
@@ -104,7 +104,7 @@
       "url": "https://zenn.dev/solvio/articles/6d374a9224327a",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-15T12:35:58+00:00",
-      "age_days": 0.55,
+      "age_days": 0.56,
       "topics": [
         "ai"
       ],
@@ -131,7 +131,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261016-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-16T01:13:41+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
@@ -155,7 +155,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2148594.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-15T23:16:45+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "infra"
       ],
@@ -206,7 +206,7 @@
       "url": "https://tech.every.tv/entry/2026/10/15/125805",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-15T09:51:51+00:00",
-      "age_days": 0.67,
+      "age_days": 0.68,
       "topics": [
         "ai"
       ],
@@ -232,7 +232,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 117.96,
+      "age_days": 117.97,
       "topics": [
         "general"
       ],
@@ -257,7 +257,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 117.96,
+      "age_days": 117.97,
       "topics": [
         "general"
       ],
@@ -282,7 +282,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 117.96,
+      "age_days": 117.97,
       "topics": [
         "ai"
       ],
