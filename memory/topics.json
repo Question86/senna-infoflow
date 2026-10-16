@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-16T10:44:43+00:00",
+  "generated_at": "2026-10-16T10:51:53+00:00",
   "topics": {
     "ai": [
       {
@@ -156,6 +156,27 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3952"
       },
       {
+        "title": "[NEU] [mittel] Grafana: Schwachstelle ermöglicht Manipulation von Daten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-16T10:45:51+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4002"
+      },
+      {
+        "title": "[NEU] [mittel] FasterXML Jackson: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-16T10:45:51+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4003"
+      },
+      {
+        "title": "[NEU] [kritisch] BeyondTrust Remote Support: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-16T10:45:51+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4001"
+      },
+      {
         "title": "[UPDATE] [mittel] Red Hat OpenShift Data Foundation: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-16T10:38:14+00:00",
@@ -175,27 +196,6 @@
         "published_at": "2026-10-16T09:54:03+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3905"
-      },
-      {
-        "title": "[UPDATE] [hoch] Adobe Photoshop: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-16T09:54:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3931"
-      },
-      {
-        "title": "[UPDATE] [mittel] Erlang/OTP: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-16T09:00:52+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3964"
-      },
-      {
-        "title": "[UPDATE] [hoch] OPNsense: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-16T06:45:51+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2177"
       }
     ],
     "general": [
@@ -271,6 +271,27 @@
       }
     ],
     "geopolitics": [
+      {
+        "title": "[NEU] [mittel] Grafana: Schwachstelle ermöglicht Manipulation von Daten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-16T10:45:51+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4002"
+      },
+      {
+        "title": "[NEU] [mittel] FasterXML Jackson: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-16T10:45:51+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4003"
+      },
+      {
+        "title": "[NEU] [kritisch] BeyondTrust Remote Support: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-16T10:45:51+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4001"
+      },
       {
         "title": "The US$82,000 Illusion: Why Bitcoin still trades like a traditional tech stock",
         "source": "e27 Asia Startup and Tech Feed",

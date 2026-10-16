@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-16T10:44:43+00:00_
+_Generiert: 2026-10-16T10:51:53+00:00_
 
 ## Kurzlage
 
-41 neue relevante Treffer. Stärkstes Signal: „Employers are buying AI tools. Their managers are being left behind“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
+44 neue relevante Treffer. Stärkstes Signal: „Employers are buying AI tools. Their managers are being left behind“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global

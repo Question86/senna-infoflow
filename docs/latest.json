@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T10:44:43+00:00",
-  "run_id": "2026-10-16T10:44:43+00:00",
+  "generated_at": "2026-10-16T10:51:53+00:00",
+  "run_id": "2026-10-16T10:51:53+00:00",
   "date": "2026-10-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 41
+      "configured_public_sources_only": 44
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 41,
-    "displayed_findings": 41,
+    "new_relevant_findings": 3,
+    "today_file_total": 44,
+    "displayed_findings": 44,
     "high": 0,
-    "medium": 13,
+    "medium": 16,
     "observe": 28,
     "source_errors": 0
   },
@@ -195,6 +195,75 @@
           "LOW"
         ],
         "id": "509dfe38c1663bd5fa30"
+      },
+      {
+        "title": "[NEU] [mittel] Grafana: Schwachstelle ermöglicht Manipulation von Daten",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4002",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-16T10:45:51+00:00",
+        "fetched_at": "2026-10-16T10:51:20+00:00",
+        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Grafana ausnutzen, um Daten zu manipulieren.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "794573d71f4622d47595"
+      },
+      {
+        "title": "[NEU] [mittel] FasterXML Jackson: Schwachstelle ermöglicht Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4003",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-16T10:45:51+00:00",
+        "fetched_at": "2026-10-16T10:51:20+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in FasterXML Jackson ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8e1dbeb057a135ac0557"
+      },
+      {
+        "title": "[NEU] [kritisch] BeyondTrust Remote Support: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4001",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-16T10:45:51+00:00",
+        "fetched_at": "2026-10-16T10:51:20+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in BeyondTrust Remote Support ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e975e029e025ef9d34b4"
       },
       {
         "title": "[UPDATE] [mittel] Red Hat OpenShift Data Foundation: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
@@ -1164,6 +1233,75 @@
       "id": "509dfe38c1663bd5fa30"
     },
     {
+      "title": "[NEU] [mittel] Grafana: Schwachstelle ermöglicht Manipulation von Daten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4002",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-16T10:45:51+00:00",
+      "fetched_at": "2026-10-16T10:51:20+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Grafana ausnutzen, um Daten zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "794573d71f4622d47595"
+    },
+    {
+      "title": "[NEU] [mittel] FasterXML Jackson: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4003",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-16T10:45:51+00:00",
+      "fetched_at": "2026-10-16T10:51:20+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in FasterXML Jackson ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8e1dbeb057a135ac0557"
+    },
+    {
+      "title": "[NEU] [kritisch] BeyondTrust Remote Support: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4001",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-16T10:45:51+00:00",
+      "fetched_at": "2026-10-16T10:51:20+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in BeyondTrust Remote Support ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e975e029e025ef9d34b4"
+    },
+    {
       "title": "[UPDATE] [mittel] Red Hat OpenShift Data Foundation: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1604",
       "source": "BSI CERT-Bund Security Advisories",
@@ -1961,13 +2099,13 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [mittel] Red Hat OpenShift Data Foundation: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1604",
+      "title": "[NEU] [mittel] FasterXML Jackson: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4003",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-10-16T10:38:14+00:00",
-      "fetched_at": "2026-10-16T10:44:16+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat OpenShift Data Foundation ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+      "published_at": "2026-10-16T10:45:51+00:00",
+      "fetched_at": "2026-10-16T10:51:20+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in FasterXML Jackson ausnutzen, um einen Denial of Service Angriff durchzuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -1981,16 +2119,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "78ba50dd4eb507298a94"
+      "id": "8e1dbeb057a135ac0557"
     },
     {
-      "title": "[UPDATE] [mittel] MariaDB: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1597",
+      "title": "[NEU] [mittel] Grafana: Schwachstelle ermöglicht Manipulation von Daten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4002",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-10-16T10:38:14+00:00",
-      "fetched_at": "2026-10-16T10:44:16+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in MariaDB ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.",
+      "published_at": "2026-10-16T10:45:51+00:00",
+      "fetched_at": "2026-10-16T10:51:20+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Grafana ausnutzen, um Daten zu manipulieren.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2004,7 +2142,30 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "88825269b0cc3daf3c61"
+      "id": "794573d71f4622d47595"
+    },
+    {
+      "title": "[NEU] [kritisch] BeyondTrust Remote Support: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4001",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-16T10:45:51+00:00",
+      "fetched_at": "2026-10-16T10:51:20+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in BeyondTrust Remote Support ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e975e029e025ef9d34b4"
     }
   ],
   "source_errors": [],
