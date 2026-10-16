@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T10:57:18+00:00",
-  "run_id": "2026-10-16T10:57:18+00:00",
+  "generated_at": "2026-10-16T11:07:35+00:00",
+  "run_id": "2026-10-16T11:07:35+00:00",
   "date": "2026-10-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 45,
     "displayed_findings": 45,
     "high": 0,
@@ -2139,29 +2139,7 @@
       "id": "219dcac654b9ec5033fe"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Windows 11、8GBメモリのPCも軽快に 基本メモリ使用量を削減",
-      "url": "https://www.watch.impress.co.jp/docs/news/2148683.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-16T04:58:22+00:00",
-      "fetched_at": "2026-10-16T10:56:49+00:00",
-      "summary": "Windows 11、8GBメモリのPCも軽快に 基本メモリ使用量を削減",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a4be277483eabdc7a6d9"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
