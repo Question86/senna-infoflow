@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T06:12:47+00:00",
-  "run_id": "2026-10-16T06:12:47+00:00",
+  "generated_at": "2026-10-16T06:39:50+00:00",
+  "run_id": "2026-10-16T06:39:50+00:00",
   "date": "2026-10-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 24,
     "displayed_findings": 24,
     "high": 0,
@@ -1149,49 +1149,7 @@
       "id": "219dcac654b9ec5033fe"
     }
   ],
-  "new_findings": [
-    {
-      "title": "保育提供体制に関するダッシュボードを更新しました",
-      "url": "https://www.digital.go.jp/resources/govdashboard/childcare",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-10-16T06:00:00+00:00",
-      "fetched_at": "2026-10-16T06:12:18+00:00",
-      "summary": "保育提供体制に関するダッシュボードを更新しました",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9f06f755f5f81ecb84ff"
-    },
-    {
-      "title": "Tesla、新型「Roadster」発表 SpaceX技術で“飛べる”モデルも 日本でも予約受付中",
-      "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002323/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-16T02:55:17+00:00",
-      "fetched_at": "2026-10-16T06:12:18+00:00",
-      "summary": "米Teslaは10月15日（現地時間）、次世代EVスポーツカー「Roadster」を発表した。米テキサス州マクレガーにある米SpaceXの試験施設からイベントをライブ配信した。イーロン・マスクCEOは2028年の生産開始を目指すと説明した。価格は明らかにしていないが、日本でも公式サイトで予約を受け付けており、予約金合計は682万円...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "51c08c403dff5992f605"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
