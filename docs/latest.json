@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T22:45:34+00:00",
-  "run_id": "2026-10-16T22:45:34+00:00",
+  "generated_at": "2026-10-16T22:51:15+00:00",
+  "run_id": "2026-10-16T22:51:15+00:00",
   "date": "2026-10-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 76,
     "displayed_findings": 76,
     "high": 0,
@@ -3791,29 +3791,7 @@
       "id": "219dcac654b9ec5033fe"
     }
   ],
-  "new_findings": [
-    {
-      "title": "個人情報漏えい のべ1億6500万人分余に 利用者の対策は? | NHKニュース",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261016de60239",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-16T10:02:49+00:00",
-      "fetched_at": "2026-10-16T22:45:02+00:00",
-      "summary": "2026年、不正アクセスで漏えいした可能性がある個人情報が、のべ1億6500万人分余りにのぼっていることがセキュリティー会社のまとめで分かりました。 セキュリティー会社の「マクニカ」は、企業などが…",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c2fb2ef2ddbab38b21fd"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
