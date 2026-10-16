@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-16T22:56:48+00:00",
+  "generated_at": "2026-10-16T23:17:43+00:00",
   "topics": {
     "security": [
       {
@@ -307,6 +307,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2mq"
       },
       {
+        "title": "M 4.6 - 12 km SSE of Tebario, Panama",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-16T23:01:52.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2wn"
+      },
+      {
         "title": "M 5.2 - off the coast of Ecuador",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-16T19:55:24.040+00:00",
@@ -347,13 +354,6 @@
         "published_at": "2026-10-16T11:52:45.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ph"
-      },
-      {
-        "title": "M 4.7 - 95 km SW of Brisas Barra de Suchiate, Mexico",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-16T04:56:50.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2n4"
       }
     ],
     "github": [
