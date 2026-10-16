@@ -1,6 +1,25 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-16T00:01:45+00:00",
-  "topics": {}
+  "generated_at": "2026-10-16T00:49:28+00:00",
+  "topics": {
+    "security": [
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月15日）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-16T09:15:00+09:00",
+        "relevance_score": 16,
+        "url": "https://jvn.jp/vu/JVNVU96928590/"
+      }
+    ],
+    "ai": [
+      {
+        "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-10-15T00:00:00+00:00",
+        "relevance_score": 10,
+        "url": "https://openai.com/index/sullivan-cromwell"
+      }
+    ]
+  }
 }
