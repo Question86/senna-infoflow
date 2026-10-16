@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-16T11:07:35+00:00_
+_Generiert: 2026-10-16T11:21:55+00:00_
 
 ## Kurzlage
 
-45 neue relevante Treffer. Stärkstes Signal: „Employers are buying AI tools. Their managers are being left behind“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
+46 neue relevante Treffer. Stärkstes Signal: „Version 1.0: BeyondTrust Remote Support - Zero-Day Schwachstelle seit mindestens August ausgenutzt“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 20, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -85,6 +85,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Version 1.0: BeyondTrust Remote Support - Zero-Day Schwachstelle seit mindestens August ausgenutzt** — Score 20, risk — [Quelle](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297832-1032_bits.html)
+  - Quelle: BSI CERT-Bund Cyber-Sicherheitswarnungen / `rss`
+  - Zeit: published `2026-10-16T11:20:00+00:00`, fetched `2026-10-16T11:21:26+00:00`
+  - Treffer: ausgenutzt, BSI, CERT-Bund, Cyber-Sicherheitswarnung, Security, Watchgraph:cyber_active_exploitation
+  - Watchgraph: cyber_active_exploitation
+  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); ausgenutzt (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
+  - Kurz: Version 1.0: BeyondTrust Remote Support - Zero-Day Schwachstelle seit mindestens August ausgenutzt
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Employers are buying AI tools. Their managers are being left behind** — Score 20, observation — [Quelle](https://e27.co/employers-are-buying-ai-tools-their-managers-are-being-left-behind-20261016/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-16T03:12:44+00:00`, fetched `2026-10-16T03:27:33+00:00`
@@ -271,8 +280,8 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 
