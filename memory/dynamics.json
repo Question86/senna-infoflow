@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-16T11:47:31Z",
+  "generated_at": "2026-10-16T12:05:02Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 14,
-      "strong": 11,
-      "watch": 6,
-      "quiet": 9
+      "strong": 12,
+      "watch": 7,
+      "quiet": 7
     },
     "bands_after_gate_recheck": {
       "krass": 3,
-      "strong": 22,
-      "watch": 6,
-      "quiet": 9
+      "strong": 23,
+      "watch": 7,
+      "quiet": 7
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3922",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-16T09:54:02+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -49,7 +49,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3940",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-16T09:54:01+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -74,7 +74,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3905",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-16T09:54:03+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -95,11 +95,35 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren, einen Denial-of-Service-Zustand auszulösen oder andere, nicht näher spezifizierte Angriffe durchzuführen."
     },
     {
+      "title": "[NEU] [mittel] Mattermost: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4009",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-16T11:45:51+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Mattermost ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren."
+    },
+    {
       "title": "[NEU] [mittel] Apache Airflow: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4005",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-16T11:25:51+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "security"
@@ -124,7 +148,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4003",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-16T10:45:51+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -148,7 +172,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1604",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-16T10:38:14+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -172,7 +196,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1597",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-16T10:38:14+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -196,7 +220,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3964",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-16T09:00:52+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -220,7 +244,7 @@
       "url": "https://restofworld.org/2026/china-open-weight-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-10-16T10:00:00+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -245,7 +269,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4008",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-16T11:35:51+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -271,7 +295,7 @@
       "url": "https://jvn.jp/vu/JVNVU96928590/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-16T09:15:00+09:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "security"
       ],
@@ -297,7 +321,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4006",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-16T11:25:51+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -323,7 +347,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4004",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-16T11:20:51+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -349,7 +373,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4002",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-16T10:45:51+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -375,7 +399,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4001",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-16T10:45:51+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -401,7 +425,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3931",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-16T09:54:01+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -427,7 +451,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2177",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-16T06:45:51+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -453,7 +477,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3926",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-16T05:55:51+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -479,7 +503,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4007",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-16T11:30:51+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -504,7 +528,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3952",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-16T09:00:51+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -529,7 +553,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 119.41,
+      "age_days": 119.42,
       "topics": [
         "ai"
       ],
@@ -558,7 +582,7 @@
       "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297832-1032_bits.html",
       "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
       "published_at": "2026-10-16T11:20:00+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -584,7 +608,7 @@
       "url": "https://www.digital.go.jp/resources/govdashboard/childcare",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-16T06:00:00+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -609,7 +633,7 @@
       "url": "https://e27.co/hong-kong-builds-a-test-track-for-robots-that-keep-failing-outside-the-lab-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-16T04:30:31+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "ai"
       ],
@@ -634,7 +658,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11272-91666-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-10-14T06:15:00+00:00",
-      "age_days": 2.23,
+      "age_days": 2.24,
       "topics": [
         "security"
       ],
@@ -658,7 +682,7 @@
       "url": "https://e27.co/defa-cuts-the-cost-of-entry-your-architecture-sets-the-cost-of-scale-20261012/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-16T02:00:21+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "macro"
       ],
@@ -684,7 +708,7 @@
       "url": "https://openai.com/index/sullivan-cromwell",
       "source": "OpenAI News RSS",
       "published_at": "2026-10-15T00:00:00+00:00",
-      "age_days": 1.49,
+      "age_days": 1.5,
       "topics": [
         "ai"
       ],
@@ -710,7 +734,7 @@
       "url": "https://e27.co/employers-are-buying-ai-tools-their-managers-are-being-left-behind-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-16T03:12:44+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "macro"
@@ -733,11 +757,36 @@
       "summary": "Thirty-seven per cent. Eleven per cent. Those two numbers, tucked deep inside Jobstreet by SEEK’s Singapore Workplace Culture Study 2026, may say more about the region’s productivity problem than any headline about AI or inflation. The first is the share of employees who try to manage workplace pressure by quietly dra…"
     },
     {
+      "title": "M 4.8 - 7 km WSW of Soconusco, Mexico",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ph",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-16T11:52:45.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-16 11:39:44 UTC 2026-10-16 11:39:44 UTC at epicenter Location 15.278°N 92.788°W Depth 108.91 km (67.67 mi)"
+    },
+    {
       "title": "M 4.7 - 95 km SW of Brisas Barra de Suchiate, Mexico",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2n4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-16T04:56:50.040+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "disaster"
       ],
@@ -762,7 +811,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2p2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-16T09:34:45.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "disaster"
@@ -790,7 +839,7 @@
       "url": "https://e27.co/ecosystem-roundup-singapores-always-on-workers-are-performing-to-an-empty-room-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-16T05:41:15+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -814,7 +863,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2mq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-16T03:50:50.963+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "ai",
         "disaster"
@@ -842,7 +891,7 @@
       "url": "https://zenn.dev/solvio/articles/6d374a9224327a",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-15T12:35:58+00:00",
-      "age_days": 0.97,
+      "age_days": 0.98,
       "topics": [
         "ai"
       ],
@@ -869,7 +918,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261016-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-16T01:13:41+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "general"
       ],
@@ -893,7 +942,7 @@
       "url": "https://news.web.nhk/newsweb/na/nd-20261016de60556",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T09:05:24+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -917,7 +966,7 @@
       "url": "https://news.web.nhk/newsweb/na/nd-20261016de60395",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T05:56:04+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -941,7 +990,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002323/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T02:55:17+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "general"
       ],
@@ -965,7 +1014,7 @@
       "url": "https://togetter.com/li/2758764",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T02:02:15+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "general"
       ],
@@ -983,54 +1032,6 @@
         "high terms: 10"
       ],
       "summary": "T_K_Soft💉💉💉💉💉 @TechnoTreasure スパムのメールヘッダ偽装にニュータイプ出てきた😓 公式アドレスからの送信だと受信側が誤認している。 偽装と気付いた理由は私が楽天カードを持ってないからで、他にも個人名が書かれていないとか識別方法はあるものの、相当紛らわしくなっている。 pic.x.com/bywWtADPju 2026-10-..."
-    },
-    {
-      "title": "「『楽天カード公式』から詐欺メール」報告相次ぐ ドコモメールに公式マーク付きフィッシング、一部企業の認証設定に脆弱性",
-      "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002314/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-16T01:57:36+00:00",
-      "age_days": 0.41,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "「楽天カードの認証マーク付き詐欺メールが、ドコモメールに届いた」といった報告が、10月15日ごろからXで相次いでいる。送信ドメイン認証をすり抜けたとみられるフィッシングメールが出回っているようだ。 NTTドコモは15日、「ドコモメール」あてに届いたフィッシングメールに、「ドコモメール公式アカウント」の認証マ..."
-    },
-    {
-      "title": "2026年10月「Windows Update」でWi-Fi/VPNに接続できない問題、脱「NTLMv1」が影響／あらかじめ計画されていた変更、パッチの不具合ではない",
-      "url": "https://forest.watch.impress.co.jp/docs/news/2148594.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-15T23:16:45+00:00",
-      "age_days": 0.52,
-      "topics": [
-        "infra"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10, vpn"
-      ],
-      "summary": "2026年10月「Windows Update」でWi-Fi/VPNに接続できない問題、脱「NTLMv1」が影響／あらかじめ計画されていた変更、パッチの不具合ではない"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Microsoft Apps: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
