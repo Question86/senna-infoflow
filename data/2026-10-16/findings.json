@@ -727,6 +727,27 @@
     "id": "0d928b614740b6ed093d"
   },
   {
+    "title": "ソースネクスト パスワード暗号化がない状態で流出 再設定を | NHKニュース",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60556",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-16T09:05:24+00:00",
+    "fetched_at": "2026-10-16T10:34:44+00:00",
+    "summary": "年賀状ソフトなどを手がける「ソースネクスト」で、メールアドレスやパスワードなど大量の個人情報が不正アクセスによって流出した問題で、このうちパスワードは暗号がかかっていない状態で流出していたことが会社へ…",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "daadbc6c55cc7004e3c6"
+  },
+  {
     "title": "ヤマト運輸 個人情報530万件余の外部流出を確認 | NHKニュース",
     "url": "https://news.web.nhk/newsweb/na/nd-20261016de60395",
     "source": "Hatena Bookmark Hotentry IT",

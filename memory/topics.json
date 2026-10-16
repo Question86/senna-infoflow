@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-16T10:10:25+00:00",
+  "generated_at": "2026-10-16T10:35:16+00:00",
   "topics": {
     "ai": [
       {
@@ -242,6 +242,13 @@
         "url": "https://www.digital.go.jp/speech/minister-261016-01"
       },
       {
+        "title": "ソースネクスト パスワード暗号化がない状態で流出 再設定を | NHKニュース",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-16T09:05:24+00:00",
+        "relevance_score": 5,
+        "url": "https://news.web.nhk/newsweb/na/nd-20261016de60556"
+      },
+      {
         "title": "ヤマト運輸 個人情報530万件余の外部流出を確認 | NHKニュース",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-10-16T05:56:04+00:00",
@@ -254,13 +261,6 @@
         "published_at": "2026-10-16T05:18:18+00:00",
         "relevance_score": 5,
         "url": "https://www.cnn.co.jp/business/35253632.html"
-      },
-      {
-        "title": "Tesla、新型「Roadster」発表 SpaceX技術で“飛べる”モデルも 日本でも予約受付中",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-16T02:55:17+00:00",
-        "relevance_score": 5,
-        "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002323/"
       }
     ],
     "geopolitics": [
