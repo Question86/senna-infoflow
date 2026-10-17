@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-17T01:10:42+00:00",
+  "generated_at": "2026-10-17T01:28:48+00:00",
   "topics": {
     "ai": [
       {
@@ -23,6 +23,13 @@
     ],
     "general": [
       {
+        "title": "M 4.9 - 115 km SW of Puerto Madero, Mexico",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-17T01:18:02.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2x7"
+      },
+      {
         "title": "M 4.6 - 6 km NNE of Sámi, Greece",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-17T00:32:21.040+00:00",
@@ -42,6 +49,13 @@
         "published_at": "2026-10-16T19:27:09+00:00",
         "relevance_score": 5,
         "url": "https://www.4gamer.net/games/050/G105051/20261015021/"
+      },
+      {
+        "title": "ポートフォリオをVoidで作り直したので、Voidの来歴と中身を整理する",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-16T16:35:53+00:00",
+        "relevance_score": 5,
+        "url": "https://zenn.dev/nkzn/articles/my-first-void"
       }
     ]
   }
