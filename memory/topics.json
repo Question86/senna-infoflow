@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-17T07:57:08+00:00",
+  "generated_at": "2026-10-17T08:06:49+00:00",
   "topics": {
     "ai": [
       {
@@ -97,6 +97,13 @@
         "url": "https://gihyo.jp/article/2026/10/furifont"
       },
       {
+        "title": "M 4.5 - 80 km NW of Sola, Vanuatu",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-17T07:58:10.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2yz"
+      },
+      {
         "title": "M 4.8 - 196 km SSE of Alo, Wallis and Futuna",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-17T04:33:19.040+00:00",
@@ -137,13 +144,6 @@
         "published_at": "2026-10-16T21:13:31+00:00",
         "relevance_score": 5,
         "url": "https://blog.naoshihoshi.com/entry/2023/02/17/120000"
-      },
-      {
-        "title": "Windows PC向けNVIDIA製SoC「RTX Spark」の正体が明らかに。Microsoftと共同でゲームへの対応も進める",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-16T19:27:09+00:00",
-        "relevance_score": 5,
-        "url": "https://www.4gamer.net/games/050/G105051/20261015021/"
       }
     ],
     "security": [
