@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-17T13:56:35+00:00",
+  "generated_at": "2026-10-17T14:17:57+00:00",
   "topics": {
     "ai": [
       {
@@ -45,6 +45,13 @@
         "published_at": "2026-10-17T00:21:27+00:00",
         "relevance_score": 10,
         "url": "https://japan.cnet.com/article/35253656/"
+      },
+      {
+        "title": "AI駆動PMの組織でのはじめかた｜すぅ | AI駆動PM",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-17T04:12:34+00:00",
+        "relevance_score": 5,
+        "url": "https://note.com/suh_sunaneko/n/n23ed6981ff6a"
       }
     ],
     "github": [
