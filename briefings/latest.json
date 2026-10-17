@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T03:59:18+00:00",
-  "run_id": "2026-10-17T03:59:18+00:00",
+  "generated_at": "2026-10-17T04:15:56+00:00",
+  "run_id": "2026-10-17T04:15:56+00:00",
   "date": "2026-10-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 11,
     "displayed_findings": 11,
     "high": 0,
@@ -567,29 +567,7 @@
       "id": "6a0313cc375c3772773a"
     }
   ],
-  "new_findings": [
-    {
-      "title": "整骨院で施術室の一番奥のベッドに移動させられ、肩の治療なのに両足に器具をはめられてGoogleレビューを強要、その後#9110に相談→警察署→刑事さんから警告してもらった",
-      "url": "https://togetter.com/li/2759213",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-17T02:58:45+00:00",
-      "fetched_at": "2026-10-17T03:58:46+00:00",
-      "summary": "🫧稲穂🫧 @honami_warm しょ〜もないんだけど、通ってた整骨院でGoogleレビューを動けない＆逃げられない状態まで作って強要されたので、9110相談→警察署→刑事さんから警告してもらってきた。 50代男性整体師に、施術室の1番奥のベッドに移動するように指示されて、肩の治療なのに両足に器具はめられて寝かされて、 2026-1...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "787a605e15a8869fe076"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
