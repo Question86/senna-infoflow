@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-17T05:30:02+00:00_
+_Generiert: 2026-10-17T05:40:21+00:00_
 
 ## Kurzlage
 
@@ -52,7 +52,7 @@ _Generiert: 2026-10-17T05:30:02+00:00_
 - **USGS earthquake M5.7 - 48 km WNW of Khuzdar, Pakistan** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2y1)
   - Quelle: USGS
   - Zeit: `2026-10-17T05:06:57+00:00`
-  - Kurz: M5.7 - 48 km WNW of Khuzdar, Pakistan. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M5.7 - 48 km WNW of Khuzdar, Pakistan. PAGER alert: yellow. Tsunami flag: 0.
 
 ## Wirtschaft global
 
