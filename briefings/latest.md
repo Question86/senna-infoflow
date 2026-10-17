@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-17T23:01:13+00:00_
+_Generiert: 2026-10-17T23:15:11+00:00_
 
 ## Kurzlage
 
@@ -45,10 +45,6 @@ _Generiert: 2026-10-17T23:01:13+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.6M, Depth:1km) in United States 15/10/2026 11:07 UTC, 9 thousand in MMI&gt;=III.
-- **GDACS: Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.175 million .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001338)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.175 million .
 - **USGS earthquake M5.7 - 48 km WNW of Khuzdar, Pakistan** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2y1)
   - Quelle: USGS
   - Zeit: `2026-10-17T05:06:57+00:00`
