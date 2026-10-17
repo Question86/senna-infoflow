@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-17T04:37:25Z",
+  "generated_at": "2026-10-17T04:49:10Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “How the Claude Code team does code review / claude.dev Blog” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -41,7 +41,7 @@
       "url": "https://qiita.com/k2_naka/items/fa87685231377f15e7e3",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T17:16:58+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "security"
       ],
@@ -67,7 +67,7 @@
       "url": "https://vps.sakura.ad.jp/contents/info/202610-pendingapply/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T13:16:01+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "security"
       ],
@@ -93,7 +93,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 120.11,
+      "age_days": 120.12,
       "topics": [
         "ai"
       ],
@@ -118,11 +118,36 @@
       "summary": ""
     },
     {
+      "title": "M 4.8 - 196 km SSE of Alo, Wallis and Futuna",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2xs",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-17T04:33:19.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-17 04:19:05 UTC 2026-10-17 04:19:05 UTC at epicenter Location 16.044°S 177.728°W Depth 439.39 km (273.03 mi)"
+    },
+    {
       "title": "M 4.9 - 115 km SW of Puerto Madero, Mexico",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2x7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-17T01:18:02.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -147,7 +172,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ww",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-17T00:32:21.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -172,7 +197,7 @@
       "url": "https://gihyo.jp/article/2026/10/furifont",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T11:10:40+00:00",
-      "age_days": 0.73,
+      "age_days": 0.74,
       "topics": [
         "general"
       ],
@@ -196,7 +221,7 @@
       "url": "https://togetter.com/li/2759213",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T02:58:45+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -220,7 +245,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/17/2000002349/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T00:57:57+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -244,7 +269,7 @@
       "url": "https://zenn.dev/nkzn/articles/my-first-void",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T16:35:53+00:00",
-      "age_days": 0.5,
+      "age_days": 0.51,
       "topics": [
         "general"
       ],
@@ -268,7 +293,7 @@
       "url": "https://blog.naoshihoshi.com/entry/2023/02/17/120000",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T21:13:31+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -286,32 +311,6 @@
         "no strong comparative reason"
       ],
       "summary": "概要 SnapmartアプリではInstagramグラフAPIを使用しているのですが、8月下旬にMeta社より「プラットフォーム違反しているからAPI利用停止するね」とお達しがありました。*1 Instagram連携不具合解消のお知らせ | Snapmart（スナップマート）公式ブログ この記事では、InstagramグラフAPIのプラットフォーム利用規約違反..."
-    },
-    {
-      "title": "Windows PC向けNVIDIA製SoC「RTX Spark」の正体が明らかに。Microsoftと共同でゲームへの対応も進める",
-      "url": "https://www.4gamer.net/games/050/G105051/20261015021/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-16T19:27:09+00:00",
-      "age_days": 0.38,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 2.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Windows PC向けNVIDIA製SoC「RTX Spark」の正体が明らかに。Microsoftと共同でゲームへの対応も進める ライター：西川善司 去る北米時間2026年10月7日，NVIDIA製のSoC（System on a Chip）「NVIDIA RTX Spark」搭載PCが，MicrosoftやASUSTeK Computer，MSIなどから発表となった。 その翌日である10月8日，NVIDIAは，米国..."
     }
   ],
   "read_order": [
@@ -324,8 +323,8 @@
   "counts": {
     "bands_after_gate_recheck": {
       "strong": 4,
-      "watch": 3,
-      "quiet": 5
+      "watch": 4,
+      "quiet": 4
     }
   }
 }

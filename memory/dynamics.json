@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-17T04:37:25Z",
+  "generated_at": "2026-10-17T04:49:10Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 15,
+    "dynamics": 17,
     "bands": {
       "krass": 3,
       "strong": 1,
-      "watch": 3,
-      "quiet": 8
+      "watch": 4,
+      "quiet": 9
     },
     "bands_after_gate_recheck": {
       "strong": 4,
-      "watch": 3,
-      "quiet": 8
+      "watch": 4,
+      "quiet": 9
     }
   },
   "top_dynamics": [
@@ -49,7 +49,7 @@
       "url": "https://qiita.com/k2_naka/items/fa87685231377f15e7e3",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T17:16:58+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "security"
       ],
@@ -75,7 +75,7 @@
       "url": "https://vps.sakura.ad.jp/contents/info/202610-pendingapply/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T13:16:01+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "security"
       ],
@@ -101,7 +101,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 120.11,
+      "age_days": 120.12,
       "topics": [
         "ai"
       ],
@@ -126,11 +126,36 @@
       "summary": ""
     },
     {
+      "title": "M 4.8 - 196 km SSE of Alo, Wallis and Futuna",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2xs",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-17T04:33:19.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-17 04:19:05 UTC 2026-10-17 04:19:05 UTC at epicenter Location 16.044°S 177.728°W Depth 439.39 km (273.03 mi)"
+    },
+    {
       "title": "M 4.9 - 115 km SW of Puerto Madero, Mexico",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2x7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-17T01:18:02.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -155,7 +180,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ww",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-17T00:32:21.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -180,7 +205,7 @@
       "url": "https://gihyo.jp/article/2026/10/furifont",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T11:10:40+00:00",
-      "age_days": 0.73,
+      "age_days": 0.74,
       "topics": [
         "general"
       ],
@@ -204,7 +229,7 @@
       "url": "https://togetter.com/li/2759213",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T02:58:45+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -228,7 +253,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/17/2000002349/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T00:57:57+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -252,7 +277,7 @@
       "url": "https://zenn.dev/nkzn/articles/my-first-void",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T16:35:53+00:00",
-      "age_days": 0.5,
+      "age_days": 0.51,
       "topics": [
         "general"
       ],
@@ -276,7 +301,7 @@
       "url": "https://blog.naoshihoshi.com/entry/2023/02/17/120000",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T21:13:31+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -296,11 +321,36 @@
       "summary": "概要 SnapmartアプリではInstagramグラフAPIを使用しているのですが、8月下旬にMeta社より「プラットフォーム違反しているからAPI利用停止するね」とお達しがありました。*1 Instagram連携不具合解消のお知らせ | Snapmart（スナップマート）公式ブログ この記事では、InstagramグラフAPIのプラットフォーム利用規約違反..."
     },
     {
+      "title": "AI「ミューズ」が侵食する旅行サイト ブッキングなど株価軒並み下落 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOFD0801K0Y6A001C2000000/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-16T21:50:27+00:00",
+      "age_days": 0.29,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 3.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "【ニューヨーク=石坪真衣】旅行予約を代行する米メタの「Muse（ミューズ）」の登場以降、米オンライン旅行会社の株価が軟調に推移している。ブッキング・ホールディングスは1割以上下落した。手数料や広告減を招く懸念が指摘されている。QUICK・ファクトセットによると、16日時点の株価はミューズ発表前の9月4日終値比で..."
+    },
+    {
       "title": "Windows PC向けNVIDIA製SoC「RTX Spark」の正体が明らかに。Microsoftと共同でゲームへの対応も進める",
       "url": "https://www.4gamer.net/games/050/G105051/20261015021/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T19:27:09+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "ai"
       ],
@@ -326,7 +376,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 119.07,
+      "age_days": 119.08,
       "topics": [
         "general"
       ],
@@ -351,7 +401,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 119.07,
+      "age_days": 119.08,
       "topics": [
         "general"
       ],
@@ -376,7 +426,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 119.07,
+      "age_days": 119.08,
       "topics": [
         "ai"
       ],

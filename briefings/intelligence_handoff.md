@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-17T04:37:25Z_
+_Generated: 2026-10-17T04:49:10Z_
 
 ## Lageurteil
 
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “How the Claude Code team does code revie
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-16T17:16:58+00:00` / age_days `0.47`
+- Published: `2026-10-16T17:16:58+00:00` / age_days `0.48`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “How the Claude Code team does code revie
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-16T13:16:01+00:00` / age_days `0.64`
+- Published: `2026-10-16T13:16:01+00:00` / age_days `0.65`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -42,17 +42,27 @@ Stärkste Dynamik nach Gate-Recheck: “How the Claude Code team does code revie
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `120.11`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `120.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 120.1d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/
 
+### M 4.8 - 196 km SSE of Alo, Wallis and Futuna
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `17.0`
+- Published: `2026-10-17T04:33:19.040+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2xs
+
 ### M 4.9 - 115 km SW of Puerto Madero, Mexico
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-17T01:18:02.040+00:00` / age_days `0.14`
+- Published: `2026-10-17T01:18:02.040+00:00` / age_days `0.15`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “How the Claude Code team does code revie
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-17T00:32:21.040+00:00` / age_days `0.17`
+- Published: `2026-10-17T00:32:21.040+00:00` / age_days `0.18`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -72,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “How the Claude Code team does code revie
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `15.0`
-- Published: `2026-10-16T11:10:40+00:00` / age_days `0.73`
+- Published: `2026-10-16T11:10:40+00:00` / age_days `0.74`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “How the Claude Code team does code revie
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-10-17T02:58:45+00:00` / age_days `0.07`
+- Published: `2026-10-17T02:58:45+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -92,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “How the Claude Code team does code revie
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-10-17T00:57:57+00:00` / age_days `0.15`
+- Published: `2026-10-17T00:57:57+00:00` / age_days `0.16`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “How the Claude Code team does code revie
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-10-16T16:35:53+00:00` / age_days `0.5`
+- Published: `2026-10-16T16:35:53+00:00` / age_days `0.51`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “How the Claude Code team does code revie
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-10-16T21:13:31+00:00` / age_days `0.31`
+- Published: `2026-10-16T21:13:31+00:00` / age_days `0.32`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
 - Quelle: https://blog.naoshihoshi.com/entry/2023/02/17/120000
-
-### Windows PC向けNVIDIA製SoC「RTX Spark」の正体が明らかに。Microsoftと共同でゲームへの対応も進める
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `2.0`
-- Published: `2026-10-16T19:27:09+00:00` / age_days `0.38`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://www.4gamer.net/games/050/G105051/20261015021/
 
 END OF DOCUMENT
