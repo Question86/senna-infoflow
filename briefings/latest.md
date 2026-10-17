@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-17T03:53:27+00:00_
+_Generiert: 2026-10-17T03:59:18+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „How the Claude Code team does code review / claude.dev Blog“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
+11 neue relevante Treffer. Stärkstes Signal: „How the Claude Code team does code review / claude.dev Blog“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
