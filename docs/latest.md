@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-17T05:18:38+00:00_
+_Generiert: 2026-10-17T05:30:02+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „How the Claude Code team does code review / claude.dev Blog“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
+16 neue relevante Treffer. Stärkstes Signal: „How the Claude Code team does code review / claude.dev Blog“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
 
 ## Priorität Hoch
 
@@ -42,6 +42,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 平素よりさくらのVPSをご利用いただき、誠にありがとうございます。 Linuxカーネルのネットワーク処理に関する脆弱性（CVE-2026-99999、通称「PwnEscape」）について、さくらのVPSにおける現在の対応状況をご案内いたします。 現在、さくらのVPSでは石狩、東京、大阪の全リージョンで新規申し込みの受付を一時的に停止し...
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Benefit Street Partners answers questions faster with Codex** — Score 12, observation — [Quelle](https://openai.com/index/benefit-street-partners)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-16T00:00:00+00:00`, fetched `2026-10-17T05:29:29+00:00`
+  - Treffer: OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.7 - 48 km WNW of Khuzdar, Pakistan** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2y1)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-17T05:29:34.056+00:00`, fetched `2026-10-17T05:29:29+00:00`
+  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: ShakeMap - VII Time 2026-10-17 05:06:57 UTC 2026-10-17 05:06:57 UTC at epicenter Location 28.018°N 66.171°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **AI「ミューズ」が侵食する旅行サイト ブッキングなど株価軒並み下落 - 日本経済新聞** — Score 11, observation — [Quelle](https://www.nikkei.com/article/DGXZQOFD0801K0Y6A001C2000000/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-16T21:50:27+00:00`, fetched `2026-10-17T04:43:09+00:00`
@@ -77,15 +95,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-17 01:03:00 UTC 2026-10-17 01:03:00 UTC at epicenter Location 14.058°N 93.248°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.6 - 6 km NNE of Sámi, Greece** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ww)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-17T00:32:21.040+00:00`, fetched `2026-10-17T00:49:06+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-16 23:57:50 UTC 2026-10-16 23:57:50 UTC at epicenter Location 38.305°N 20.686°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen
