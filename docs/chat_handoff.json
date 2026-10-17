@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-17T05:51:54+00:00",
+  "generated_at": "2026-10-17T05:57:37+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 16,
-    "displayed_findings": 16,
+    "new_relevant_findings": 1,
+    "today_file_total": 17,
+    "displayed_findings": 17,
     "high": 0,
-    "medium": 1,
+    "medium": 2,
     "observe": 15
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "ruvnet/ruflo",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "relevance_score": 23,
+      "url": "https://github.com/ruvnet/ruflo",
+      "summary": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Code…",
+      "section": "medium"
+    },
     {
       "title": "How the Claude Code team does code review / claude.dev Blog",
       "source": "Hatena Bookmark Hotentry IT",
