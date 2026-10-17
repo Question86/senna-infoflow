@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-17T00:49:39+00:00_
+_Generiert: 2026-10-17T01:10:42+00:00_
 
 ## Kurzlage
 
-3 neue relevante Treffer. Stärkstes Signal: „さくらのVPSにおけるLinuxカーネルの脆弱性（CVE-2026-99999）への対応状況について“ aus Hatena Bookmark Hotentry IT (Score 12, risk).
+5 neue relevante Treffer. Stärkstes Signal: „How the Claude Code team does code review / claude.dev Blog“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -69,7 +69,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
-Keine neuen mittleren Treffer.
+- **How the Claude Code team does code review / claude.dev Blog** — Score 16, observation — [Quelle](https://claude.dev/blog/solving-code-review-at-anthropic/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-16T12:24:30+00:00`, fetched `2026-10-17T01:10:15+00:00`
+  - Treffer: AI Agents, Hatena, hotentry, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+6.2); Public Health (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: We've said before that Claude writes about 90 percent of Claude Code's own code. So how do we review code at the volume we produce it? Does anyone read code anymore? And if something breaks, who catches it? This post covers the code review flow on the Claude Code team and how it has evolved. From...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -91,6 +99,15 @@ Keine neuen mittleren Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-16 23:57:50 UTC 2026-10-16 23:57:50 UTC at epicenter Location 38.305°N 20.686°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **InstagramグラフAPIのプラットフォーム利用規約違反対応をしました - production.log** — Score 5, observation — [Quelle](https://blog.naoshihoshi.com/entry/2023/02/17/120000)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-16T21:13:31+00:00`, fetched `2026-10-17T01:10:15+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 概要 SnapmartアプリではInstagramグラフAPIを使用しているのですが、8月下旬にMeta社より「プラットフォーム違反しているからAPI利用停止するね」とお達しがありました。*1 Instagram連携不具合解消のお知らせ | Snapmart（スナップマート）公式ブログ この記事では、InstagramグラフAPIのプラットフォーム利用規約違反...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Windows PC向けNVIDIA製SoC「RTX Spark」の正体が明らかに。Microsoftと共同でゲームへの対応も進める** — Score 5, observation — [Quelle](https://www.4gamer.net/games/050/G105051/20261015021/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-16T19:27:09+00:00`, fetched `2026-10-17T00:00:39+00:00`
@@ -103,7 +120,7 @@ Keine neuen mittleren Treffer.
 
 ## Empfehlungen
 
-- Keine direkte Handlung. Konfigurierte Quellen weiter prüfen.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 

@@ -1,8 +1,17 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-17T00:49:39+00:00",
+  "generated_at": "2026-10-17T01:10:42+00:00",
   "topics": {
+    "ai": [
+      {
+        "title": "How the Claude Code team does code review / claude.dev Blog",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-16T12:24:30+00:00",
+        "relevance_score": 16,
+        "url": "https://claude.dev/blog/solving-code-review-at-anthropic/"
+      }
+    ],
     "security": [
       {
         "title": "さくらのVPSにおけるLinuxカーネルの脆弱性（CVE-2026-99999）への対応状況について",
@@ -19,6 +28,13 @@
         "published_at": "2026-10-17T00:32:21.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ww"
+      },
+      {
+        "title": "InstagramグラフAPIのプラットフォーム利用規約違反対応をしました - production.log",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-16T21:13:31+00:00",
+        "relevance_score": 5,
+        "url": "https://blog.naoshihoshi.com/entry/2023/02/17/120000"
       },
       {
         "title": "Windows PC向けNVIDIA製SoC「RTX Spark」の正体が明らかに。Microsoftと共同でゲームへの対応も進める",
