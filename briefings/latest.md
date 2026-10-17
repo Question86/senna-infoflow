@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-17T01:56:08+00:00_
+_Generiert: 2026-10-17T02:01:34+00:00_
 
 ## Kurzlage
 
-8 neue relevante Treffer. Stärkstes Signal: „How the Claude Code team does code review / claude.dev Blog“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
+8 neue relevante Treffer. Stärkstes Signal: „How the Claude Code team does code review / claude.dev Blog“ aus Hatena Bookmark Hotentry IT (Score 16, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -58,7 +58,7 @@ _Generiert: 2026-10-17T01:56:08+00:00_
 
 - Kein aktives Signal aus den konfigurierten globalen Sensoren.
 
-- Sensor-Hinweis: Yahoo finance failed: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v7/finance/quote?symbols=BTC-USD,ETH-USD,GC%3DF,SI%3DF,GLD,SLV,SPY,QQQ,%5EGSPC,%5EIXIC,%5EDJI,%5EVIX,DX-Y.NYB,CL%3DF,COIN,MSTR,IBIT
+- Sensor-Hinweis: Yahoo finance failed: 401 Client Error: Unauthorized for url: https://query1.finance.yahoo.com/v7/finance/quote?symbols=BTC-USD,ETH-USD,GC%3DF,SI%3DF,GLD,SLV,SPY,QQQ,%5EGSPC,%5EIXIC,%5EDJI,%5EVIX,DX-Y.NYB,CL%3DF,COIN,MSTR,IBIT
 
 <!-- SENNA_GLOBAL_WATCHDOGS:END -->
 
@@ -134,3 +134,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `ecb_statistical_press` (rss): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
