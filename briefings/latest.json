@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T02:50:36+00:00",
-  "run_id": "2026-10-17T02:50:36+00:00",
+  "generated_at": "2026-10-17T02:57:32+00:00",
+  "run_id": "2026-10-17T02:57:32+00:00",
   "date": "2026-10-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 9,
     "displayed_findings": 9,
     "high": 0,
@@ -481,30 +481,7 @@
       "id": "6a0313cc375c3772773a"
     }
   ],
-  "new_findings": [
-    {
-      "title": "CVE-2026-99999（PwnEscape）を読み解く──「KVMの脆弱性」ではなく、Linuxネットワークスタックの脆弱性 - Qiita",
-      "url": "https://qiita.com/k2_naka/items/fa87685231377f15e7e3",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-16T17:16:58+00:00",
-      "fetched_at": "2026-10-17T02:50:07+00:00",
-      "summary": "本稿は筆者個人の分析であり、所属組織や各事業者の公式見解ではありません。基準日は2026年10月16日（資料確認 21:24 JST）です。CVE・修正版・各事業者の対応状況は変動するため、適用判断時には原典と自環境を再確認してください。本文の参照番号 [n] は末尾「参照」の根拠URLに対応します。 本稿での「確認」の範囲 ...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry",
-        "Security"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5a0686f1a3a8feff06c8"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
