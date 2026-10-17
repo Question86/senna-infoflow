@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-17T23:52:14+00:00_
+_Generiert: 2026-10-17T23:58:20+00:00_
 
 ## Kurzlage
 
-35 neue relevante Treffer. Stärkstes Signal: „すべてのAIコーディングエージェントのコストを閲覧・検索・追跡しローカルで動作する「AgentsView」、Claude Code・Codex・Cursor・Copilot・Geminiなど60種類以上のエージェントを自動検出し全文検索も可能“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+35 neue relevante Treffer. Stärkstes Signal: „すべてのAIコーディングエージェントのコストを閲覧・検索・追跡しローカルで動作する「AgentsView」、Claude Code・Codex・Cursor・Copilot・Geminiなど60種類以上のエージェントを自動検出し全文検索も可能“ aus Hatena Bookmark Hotentry IT (Score 23, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -141,3 +141,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `ecb_open_market_operations` (rss): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
