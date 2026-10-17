@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-17T16:33:56+00:00",
+  "generated_at": "2026-10-17T16:42:17+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 29,
-    "displayed_findings": 29,
+    "new_relevant_findings": 1,
+    "today_file_total": 30,
+    "displayed_findings": 30,
     "high": 0,
-    "medium": 4,
+    "medium": 5,
     "observe": 25
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "すべてのAIコーディングエージェントのコストを閲覧・検索・追跡しローカルで動作する「AgentsView」、Claude Code・Codex・Cursor・Copilot・Geminiなど60種類以上のエージェントを自動検出し全文検索も可能",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-17T09:27:07+00:00",
+      "relevance_score": 23,
+      "url": "https://gigazine.net/news/20261017-agentsview/",
+      "summary": "Claude CodeやCodexなどを並行して利用すると、どのAIコーディングエージェントやモデルへどれだけトークンを使ったのか全体像を把握しにくくなります。そこで使えるのが複数のエージェントのローカル履歴を自動収集し、モデル別・日別・セッション別の利用量やAPI料金換算のコストをまとめて確認できる「AgentsView」で...",
+      "section": "medium"
+    },
     {
       "title": "ruvnet/ruflo",
       "source": "GitHub Trending RSS All Languages Daily",
@@ -42,16 +52,6 @@
       "relevance_score": 15,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2yw",
       "summary": "Time 2026-10-17 07:20:48 UTC 2026-10-17 07:20:48 UTC at epicenter Location 8.109°S 120.282°E Depth 10.00 km (6.21 mi)",
-      "section": "medium"
-    },
-    {
-      "title": "GitHub - google-research/harness2",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-16T08:41:45+00:00",
-      "relevance_score": 14,
-      "url": "https://github.com/google-research/harness2",
-      "summary": "A harness is the system around a model that enables it to act as an agent: prompts, tools, memory, skills, orchestration, and more. Harnessing is the process of optimizing that system. Harness² is a plug-and-play framework for recursive agent harnessing in an…",
       "section": "medium"
     },
     {
