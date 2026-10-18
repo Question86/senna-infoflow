@@ -1,17 +1,17 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-18T06:04:24Z",
+  "generated_at": "2026-10-18T06:34:44Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 11,
+    "dynamics": 12,
     "bands": {
       "strong": 1,
-      "quiet": 10
+      "quiet": 11
     },
     "bands_after_gate_recheck": {
       "strong": 1,
-      "quiet": 10
+      "quiet": 11
     }
   },
   "top_dynamics": [
@@ -20,7 +20,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 121.17,
+      "age_days": 121.19,
       "topics": [
         "ai"
       ],
@@ -45,11 +45,35 @@
       "summary": ""
     },
     {
+      "title": "スマホの「充電80％止めで長持ち」「挿しっぱなし充電NG」は本当？ 実験で見えた意外な結果",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2610/18/news002.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-18T04:35:48+00:00",
+      "age_days": 0.08,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "急速充電は使わない。満充電のまま朝まで挿しっぱなしにしない。充電は80％で止める。バッテリーを長持ちさせるために、どれか1つは守っている人が多いはずだ。現行のスマートフォンでは、80％で充電を止める設定を用意している機種が多い。この設定は、スマートフォンのバッテリーを長く使う上で有効だとされている。 ..."
+    },
+    {
       "title": "米衛星通信網「スターリンク」の利用制限、マスク氏が提案か トランプ氏同意と英報道",
       "url": "https://www.sankei.com/article/20261018-JY4LXLBKRVNVHAU4L5H3Y66C6E/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T01:11:39+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -73,7 +97,7 @@
       "url": "https://togetter.com/li/2759573",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T00:53:32+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -97,7 +121,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 120.14,
+      "age_days": 120.16,
       "topics": [
         "general"
       ],
@@ -113,7 +137,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 120.1d old signal"
+        "aging penalty -16.0 for 120.2d old signal"
       ],
       "summary": ""
     },
@@ -122,7 +146,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 120.14,
+      "age_days": 120.16,
       "topics": [
         "general"
       ],
@@ -138,7 +162,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 120.1d old signal"
+        "aging penalty -16.0 for 120.2d old signal"
       ],
       "summary": ""
     },
@@ -147,7 +171,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 120.14,
+      "age_days": 120.16,
       "topics": [
         "ai"
       ],
@@ -164,7 +188,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 120.1d old signal",
+        "aging penalty -16.0 for 120.2d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -174,7 +198,7 @@
       "url": "https://courrier.jp/news/archives/462520/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T23:50:03+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -199,7 +223,7 @@
       "url": "https://ashunar0.dev/posts/try-void/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T21:28:03+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "ai"
       ],
@@ -224,7 +248,7 @@
       "url": "https://togetter.com/li/2759529",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T19:59:13+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "ai"
       ],
@@ -249,7 +273,7 @@
       "url": "https://zenn.dev/aiforall/articles/8e1803396534de",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T13:37:34+00:00",
-      "age_days": 0.69,
+      "age_days": 0.71,
       "topics": [
         "ai"
       ],
@@ -274,7 +298,7 @@
       "url": "https://k-tai.watch.impress.co.jp/docs/news/2149025.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T06:57:30+00:00",
-      "age_days": 0.96,
+      "age_days": 0.98,
       "topics": [
         "ai"
       ],
