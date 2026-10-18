@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-18T21:20:37Z",
+  "generated_at": "2026-10-18T21:32:03Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -94,7 +94,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u35l",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-18T12:59:51.040+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "disaster"
       ],
@@ -119,7 +119,7 @@
       "url": "https://www.itmedia.co.jp/mobile/articles/2610/18/news002.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T04:35:48+00:00",
-      "age_days": 0.7,
+      "age_days": 0.71,
       "topics": [
         "general"
       ],
@@ -143,7 +143,7 @@
       "url": "https://www.sankei.com/article/20261018-JY4LXLBKRVNVHAU4L5H3Y66C6E/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T01:11:39+00:00",
-      "age_days": 0.84,
+      "age_days": 0.85,
       "topics": [
         "general"
       ],
@@ -195,7 +195,7 @@
       "url": "https://smooth-pudding.hatenablog.com/entry/2026/10/17/145830",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T17:43:11+00:00",
-      "age_days": 1.15,
+      "age_days": 1.16,
       "topics": [
         "ai"
       ],
@@ -221,7 +221,7 @@
       "url": "https://news.yahoo.co.jp/articles/df7e374ecdb58831f4b5f497fdcf5407c9af4e36",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T14:34:10+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -245,7 +245,7 @@
       "url": "https://togetter.com/li/2759573",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T00:53:32+00:00",
-      "age_days": 0.85,
+      "age_days": 0.86,
       "topics": [
         "general"
       ],
@@ -269,7 +269,7 @@
       "url": "https://www.lifehacker.jp/article/2610-ios27-battery-drain-connection-assist/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T09:18:39+00:00",
-      "age_days": 0.5,
+      "age_days": 0.51,
       "topics": [
         "ai"
       ],
@@ -295,7 +295,7 @@
       "url": "https://blog.jxck.io/entries/2026-10-17/example.com.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T09:51:10+00:00",
-      "age_days": 1.48,
+      "age_days": 1.49,
       "topics": [
         "ai"
       ],
