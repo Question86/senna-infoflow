@@ -1,6 +1,23 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-18T00:28:31+00:00",
-  "topics": {}
+  "generated_at": "2026-10-18T01:10:25+00:00",
+  "topics": {
+    "ai": [
+      {
+        "title": "「AIに頼らずいろんな絵柄やタッチを再現して描いた絵を見てくれ」『しかるねこ』作者が9年前に描いた16枚のそれぞれ違った作風のサーバルちゃんの模写アレンジ絵がスゴい",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-17T19:59:13+00:00",
+        "relevance_score": 5,
+        "url": "https://togetter.com/li/2759529"
+      },
+      {
+        "title": "ドコモの「緊急地震速報」不配、原因を発表 「従来と異なるデータ」で誤認識",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-17T06:57:30+00:00",
+        "relevance_score": 5,
+        "url": "https://k-tai.watch.impress.co.jp/docs/news/2149025.html"
+      }
+    ]
+  }
 }

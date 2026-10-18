@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-18T00:28:31+00:00_
+_Generiert: 2026-10-18T01:10:25+00:00_
 
 ## Kurzlage
 
-Keine neuen relevanten Treffer aus den konfigurierten öffentlichen Quellen.
+2 neue relevante Treffer. Stärkstes Signal: „「AIに頼らずいろんな絵柄やタッチを再現して描いた絵を見てくれ」『しかるねこ』作者が9年前に描いた16枚のそれぞれ違った作風のサーバルちゃんの模写アレンジ絵がスゴい“ aus Hatena Bookmark Hotentry IT (Score 5, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -69,7 +69,24 @@ Keine neuen mittleren Treffer.
 
 ## Nur beobachten
 
-Keine neuen Beobachtungssignale.
+- **「AIに頼らずいろんな絵柄やタッチを再現して描いた絵を見てくれ」『しかるねこ』作者が9年前に描いた16枚のそれぞれ違った作風のサーバルちゃんの模写アレンジ絵がスゴい** — Score 5, observation — [Quelle](https://togetter.com/li/2759529)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-17T19:59:13+00:00`, fetched `2026-10-18T01:09:55+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: もじゃクッキー @mojacookie 【11/14(土)15(日)デザインフェスタVol.64/G-74】 イラストレーター/Web漫画家 「しかるねこ」(@shikaruneko)「ヒヨハリ！」(@hiyohari)「ちょっぴりおしゃべりで、ちょっぴり個性的などうぶつさんたち」 アニポケ公式Xでイラスト連載中 連絡先▷ctc@mojacookie.com mojacookie.com
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ドコモの「緊急地震速報」不配、原因を発表 「従来と異なるデータ」で誤認識** — Score 5, observation — [Quelle](https://k-tai.watch.impress.co.jp/docs/news/2149025.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-17T06:57:30+00:00`, fetched `2026-10-18T01:09:55+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: ドコモの「緊急地震速報」不配、原因を発表 「従来と異なるデータ」で誤認識
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
