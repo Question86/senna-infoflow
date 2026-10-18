@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-18T23:31:42Z_
+_Generated: 2026-10-18T23:46:45Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `121.9`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `121.91`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 121.9d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-10-18T08:14:46.040+00:00` / age_days `0.64`
+- Published: `2026-10-18T08:14:46.040+00:00` / age_days `0.65`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-18T23:19:33.040+00:00` / age_days `0.01`
+- Published: `2026-10-18T23:19:33.040+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-18T22:48:48.040+00:00` / age_days `0.03`
+- Published: `2026-10-18T22:48:48.040+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-18T22:22:50.040+00:00` / age_days `0.05`
+- Published: `2026-10-18T22:22:50.040+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-18T20:13:00.040+00:00` / age_days `0.14`
+- Published: `2026-10-18T20:13:00.040+00:00` / age_days `0.15`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-18T12:59:51.040+00:00` / age_days `0.44`
+- Published: `2026-10-18T12:59:51.040+00:00` / age_days `0.45`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -82,17 +82,27 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-10-18T12:30:38+00:00` / age_days `0.46`
+- Published: `2026-10-18T12:30:38+00:00` / age_days `0.47`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
 - Quelle: https://news.yahoo.co.jp/articles/68bd47fa31266bea1674102a579dbd199c4d892e
 
+### アップル iPhone Duo、「並外れた予約需要」。すでに出荷予定は2027年1月下旬以降、高額転売も | テクノエッジ TechnoEdge
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `10.0`
+- Published: `2026-10-18T11:33:45+00:00` / age_days `0.51`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: high terms: 10
+- Quelle: https://www.techno-edge.net/article/2026/10/18/5603.html
+
 ### スマホの「充電80％止めで長持ち」「挿しっぱなし充電NG」は本当？ 実験で見えた意外な結果
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-10-18T04:35:48+00:00` / age_days `0.79`
+- Published: `2026-10-18T04:35:48+00:00` / age_days `0.8`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-10-18T01:11:39+00:00` / age_days `0.93`
+- Published: `2026-10-18T01:11:39+00:00` / age_days `0.94`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `9.0`
-- Published: `2026-10-18T15:54:37.040+00:00` / age_days `0.32`
+- Published: `2026-10-18T15:54:37.040+00:00` / age_days `0.33`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: early terms: earthquake, high terms: 10, 9.9, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u36d
-
-### 知らない分野を学ぶ技術 powered by AI - ぷりんの雑記帳
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `6.0`
-- Published: `2026-10-17T17:43:11+00:00` / age_days `1.24`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://smooth-pudding.hatenablog.com/entry/2026/10/17/145830
 
 END OF DOCUMENT

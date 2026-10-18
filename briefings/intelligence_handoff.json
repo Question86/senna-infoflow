@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-18T23:31:42Z",
+  "generated_at": "2026-10-18T23:46:45Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 121.9,
+      "age_days": 121.91,
       "topics": [
         "ai"
       ],
@@ -44,7 +44,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u34e",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-18T08:14:46.040+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "disaster"
       ],
@@ -69,7 +69,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u38i",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-18T23:19:33.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -94,7 +94,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u38g",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-18T22:48:48.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -119,7 +119,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u38b",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-18T22:22:50.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -144,7 +144,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u37h",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-18T20:13:00.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -169,7 +169,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u35l",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-18T12:59:51.040+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "disaster"
       ],
@@ -194,7 +194,7 @@
       "url": "https://news.yahoo.co.jp/articles/68bd47fa31266bea1674102a579dbd199c4d892e",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T12:30:38+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "general"
       ],
@@ -214,11 +214,35 @@
       "summary": "同サイトでは現在、サービス停止の案内が表示されている（日刊自動車新聞） 中古車検索サイト「カーセンサー」を運営するリクルート（牛田圭一社長、東京都千代田区）は、10月17日に外部から不審なアクセスを検知したため、同サイトと関連する中古車事業者向けサービスの利用を一時停止したと発表した。18日夕方時点で..."
     },
     {
+      "title": "アップル iPhone Duo、「並外れた予約需要」。すでに出荷予定は2027年1月下旬以降、高額転売も | テクノエッジ TechnoEdge",
+      "url": "https://www.techno-edge.net/article/2026/10/18/5603.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-18T11:33:45+00:00",
+      "age_days": 0.51,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "アップルは初の折りたたみスマートフォン「iPhone Duo」の予約受付を2026年10月16日午前5時（米国時間、日本では16日午後9時）に開始しました。ところが予約申し込みが殺到した結果、すでに公式ウェブサイトで予約した場合の出荷予定日は、2027年1月以降にずれ込む状況になっています。 アップルはメディアに対する声明..."
+    },
+    {
       "title": "スマホの「充電80％止めで長持ち」「挿しっぱなし充電NG」は本当？ 実験で見えた意外な結果",
       "url": "https://www.itmedia.co.jp/mobile/articles/2610/18/news002.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T04:35:48+00:00",
-      "age_days": 0.79,
+      "age_days": 0.8,
       "topics": [
         "general"
       ],
@@ -242,7 +266,7 @@
       "url": "https://www.sankei.com/article/20261018-JY4LXLBKRVNVHAU4L5H3Y66C6E/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T01:11:39+00:00",
-      "age_days": 0.93,
+      "age_days": 0.94,
       "topics": [
         "general"
       ],
@@ -266,7 +290,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u36d",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-18T15:54:37.040+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "ai",
         "disaster"
@@ -288,32 +312,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Time 2026-10-18 15:35:47 UTC 2026-10-18 15:35:47 UTC at epicenter Location 17.253°N 63.007°W Depth 149.95 km (93.18 mi)"
-    },
-    {
-      "title": "知らない分野を学ぶ技術 powered by AI - ぷりんの雑記帳",
-      "url": "https://smooth-pudding.hatenablog.com/entry/2026/10/17/145830",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-17T17:43:11+00:00",
-      "age_days": 1.24,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Open AI が証明したと主張している、Navier-Stokes 方程式の爆発解の構成の書籍を発売しました。 smooth-pudding.hatenablog.com それに関連して、この書籍の活用方法や、AI を使って学びを広げることについて以下の記事で話しました。 smooth-pudding.hatenablog.com 今回はより具体的に、自分がまだ知らない分野につい..."
     }
   ],
   "read_order": [
