@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-18T22:46:38Z_
+_Generated: 2026-10-18T23:02:34Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `121.87`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `121.88`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 121.9d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -22,17 +22,27 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-10-18T08:14:46.040+00:00` / age_days `0.61`
+- Published: `2026-10-18T08:14:46.040+00:00` / age_days `0.62`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u34e
 
+### M 5.1 - 129 km SSE of Kokopo, Papua New Guinea
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `17.0`
+- Published: `2026-10-18T22:48:48.040+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u38g
+
 ### M 4.7 - 150 km SSW of Kokopo, Papua New Guinea
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-18T22:22:50.040+00:00` / age_days `0.02`
+- Published: `2026-10-18T22:22:50.040+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -42,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-18T20:13:00.040+00:00` / age_days `0.11`
+- Published: `2026-10-18T20:13:00.040+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -52,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-18T12:59:51.040+00:00` / age_days `0.41`
+- Published: `2026-10-18T12:59:51.040+00:00` / age_days `0.42`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-10-18T12:30:38+00:00` / age_days `0.43`
+- Published: `2026-10-18T12:30:38+00:00` / age_days `0.44`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -72,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-10-18T04:35:48+00:00` / age_days `0.76`
+- Published: `2026-10-18T04:35:48+00:00` / age_days `0.77`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-10-18T01:11:39+00:00` / age_days `0.9`
+- Published: `2026-10-18T01:11:39+00:00` / age_days `0.91`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -92,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `9.0`
-- Published: `2026-10-18T15:54:37.040+00:00` / age_days `0.29`
+- Published: `2026-10-18T15:54:37.040+00:00` / age_days `0.3`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: early terms: earthquake, high terms: 10, 9.9, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `6.0`
-- Published: `2026-10-17T17:43:11+00:00` / age_days `1.21`
+- Published: `2026-10-17T17:43:11+00:00` / age_days `1.22`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-10-18T14:34:10+00:00` / age_days `0.34`
+- Published: `2026-10-18T14:34:10+00:00` / age_days `0.35`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
 - Quelle: https://news.yahoo.co.jp/articles/df7e374ecdb58831f4b5f497fdcf5407c9af4e36
-
-### 会社の若い子が「ﾙｰﾓｽ…」って呟いたら、スマホのライトがピカァ！ってなったんで俺が🫨⁉️ってなってたら、「魔法…使えるんですよ…」って言われた
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `5.0`
-- Published: `2026-10-18T00:53:32+00:00` / age_days `0.91`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: no strong comparative reason
-- Quelle: https://togetter.com/li/2759573
 
 END OF DOCUMENT
