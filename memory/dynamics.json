@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-18T15:21:38Z",
+  "generated_at": "2026-10-18T16:03:00Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 20,
+    "dynamics": 21,
     "bands": {
       "strong": 2,
       "watch": 1,
-      "quiet": 17
+      "quiet": 18
     },
     "bands_after_gate_recheck": {
       "strong": 2,
       "watch": 1,
-      "quiet": 17
+      "quiet": 18
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 121.56,
+      "age_days": 121.59,
       "topics": [
         "ai"
       ],
@@ -51,7 +51,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u34e",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-18T08:14:46.040+00:00",
-      "age_days": 0.3,
+      "age_days": 0.33,
       "topics": [
         "disaster"
       ],
@@ -76,7 +76,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u35l",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-18T12:59:51.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -101,7 +101,7 @@
       "url": "https://www.itmedia.co.jp/mobile/articles/2610/18/news002.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T04:35:48+00:00",
-      "age_days": 0.45,
+      "age_days": 0.48,
       "topics": [
         "general"
       ],
@@ -125,7 +125,7 @@
       "url": "https://www.sankei.com/article/20261018-JY4LXLBKRVNVHAU4L5H3Y66C6E/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T01:11:39+00:00",
-      "age_days": 0.59,
+      "age_days": 0.62,
       "topics": [
         "general"
       ],
@@ -145,11 +145,39 @@
       "summary": "英紙テレグラフは17日までに、ウクライナ軍が使用する米衛星通信網「スターリンク」の軍事用サービスの利用制限について、運用する企業スペースXを率いる実業家イーロン・マスク氏がトランプ大統領に提案したと報じた。トランプ氏も同意したとしている。 マスク氏は自身の関与を否定し、利用制限を決める最終権限はトラ..."
     },
     {
+      "title": "M 4.7 - 20 km SW of Sandy Point Town, Saint Kitts and Nevis",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u36d",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-18T15:54:37.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "disaster"
+      ],
+      "dynamics_score": 9.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10, 9.9",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Time 2026-10-18 15:35:47 UTC 2026-10-18 15:35:47 UTC at epicenter Location 17.253°N 63.007°W Depth 149.95 km (93.18 mi)"
+    },
+    {
       "title": "知らない分野を学ぶ技術 powered by AI - ぷりんの雑記帳",
       "url": "https://smooth-pudding.hatenablog.com/entry/2026/10/17/145830",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T17:43:11+00:00",
-      "age_days": 0.9,
+      "age_days": 0.93,
       "topics": [
         "ai"
       ],
@@ -175,7 +203,7 @@
       "url": "https://togetter.com/li/2759573",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T00:53:32+00:00",
-      "age_days": 0.6,
+      "age_days": 0.63,
       "topics": [
         "general"
       ],
@@ -199,7 +227,7 @@
       "url": "https://www.lifehacker.jp/article/2610-ios27-battery-drain-connection-assist/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T09:18:39+00:00",
-      "age_days": 0.25,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -225,7 +253,7 @@
       "url": "https://blog.jxck.io/entries/2026-10-17/example.com.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T09:51:10+00:00",
-      "age_days": 1.23,
+      "age_days": 1.26,
       "topics": [
         "ai"
       ],
@@ -251,7 +279,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 120.52,
+      "age_days": 120.55,
       "topics": [
         "general"
       ],
@@ -267,7 +295,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 120.5d old signal"
+        "aging penalty -16.0 for 120.6d old signal"
       ],
       "summary": ""
     },
@@ -276,7 +304,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 120.52,
+      "age_days": 120.55,
       "topics": [
         "general"
       ],
@@ -292,7 +320,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 120.5d old signal"
+        "aging penalty -16.0 for 120.6d old signal"
       ],
       "summary": ""
     },
@@ -301,7 +329,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 120.52,
+      "age_days": 120.55,
       "topics": [
         "ai"
       ],
@@ -318,7 +346,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 120.5d old signal",
+        "aging penalty -16.0 for 120.6d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -328,7 +356,7 @@
       "url": "https://cid.ninjal.ac.jp/kana/list/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2023-09-13T17:11:42+00:00",
-      "age_days": 1130.92,
+      "age_days": 1130.95,
       "topics": [
         "general"
       ],
@@ -343,7 +371,7 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "aging penalty -16.0 for 1130.9d old signal"
+        "aging penalty -16.0 for 1131.0d old signal"
       ],
       "summary": "©2022 National Institute for Japanese Language and Linguistics"
     },
@@ -352,7 +380,7 @@
       "url": "https://fd-x.co.jp/insights/41-what-is-ontology",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T02:55:30+00:00",
-      "age_days": 0.52,
+      "age_days": 0.55,
       "topics": [
         "ai"
       ],
@@ -377,7 +405,7 @@
       "url": "https://zenn.dev/sonicmoov/articles/oreilly-subscription-acm",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T01:26:27+00:00",
-      "age_days": 0.58,
+      "age_days": 0.61,
       "topics": [
         "ai"
       ],
@@ -402,7 +430,7 @@
       "url": "https://courrier.jp/news/archives/462520/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T23:50:03+00:00",
-      "age_days": 0.65,
+      "age_days": 0.68,
       "topics": [
         "ai"
       ],
@@ -427,7 +455,7 @@
       "url": "https://ashunar0.dev/posts/try-void/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T21:28:03+00:00",
-      "age_days": 0.75,
+      "age_days": 0.77,
       "topics": [
         "ai"
       ],
@@ -452,7 +480,7 @@
       "url": "https://togetter.com/li/2759529",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T19:59:13+00:00",
-      "age_days": 0.81,
+      "age_days": 0.84,
       "topics": [
         "ai"
       ],
@@ -477,7 +505,7 @@
       "url": "https://zenn.dev/aiforall/articles/8e1803396534de",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T13:37:34+00:00",
-      "age_days": 1.07,
+      "age_days": 1.1,
       "topics": [
         "ai"
       ],
@@ -502,7 +530,7 @@
       "url": "https://k-tai.watch.impress.co.jp/docs/news/2149025.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T06:57:30+00:00",
-      "age_days": 1.35,
+      "age_days": 1.38,
       "topics": [
         "ai"
       ],
