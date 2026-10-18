@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-18T04:49:52Z",
+  "generated_at": "2026-10-18T05:02:44Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 10,
@@ -20,7 +20,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 121.12,
+      "age_days": 121.13,
       "topics": [
         "ai"
       ],
@@ -49,7 +49,7 @@
       "url": "https://www.sankei.com/article/20261018-JY4LXLBKRVNVHAU4L5H3Y66C6E/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T01:11:39+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -73,7 +73,7 @@
       "url": "https://togetter.com/li/2759573",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T00:53:32+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -97,7 +97,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 120.08,
+      "age_days": 120.09,
       "topics": [
         "general"
       ],
@@ -122,7 +122,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 120.08,
+      "age_days": 120.09,
       "topics": [
         "general"
       ],
@@ -147,7 +147,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 120.08,
+      "age_days": 120.09,
       "topics": [
         "ai"
       ],
@@ -174,7 +174,7 @@
       "url": "https://ashunar0.dev/posts/try-void/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T21:28:03+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "ai"
       ],
@@ -199,7 +199,7 @@
       "url": "https://togetter.com/li/2759529",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T19:59:13+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "ai"
       ],
@@ -224,7 +224,7 @@
       "url": "https://zenn.dev/aiforall/articles/8e1803396534de",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T13:37:34+00:00",
-      "age_days": 0.63,
+      "age_days": 0.64,
       "topics": [
         "ai"
       ],
@@ -249,7 +249,7 @@
       "url": "https://k-tai.watch.impress.co.jp/docs/news/2149025.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-17T06:57:30+00:00",
-      "age_days": 0.91,
+      "age_days": 0.92,
       "topics": [
         "ai"
       ],
