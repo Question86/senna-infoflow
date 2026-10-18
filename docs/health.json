@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-18T20:46:13+00:00",
+  "generated_at": "2026-10-18T20:51:30+00:00",
   "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
   "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 20,
     "displayed_findings": 20,
     "high": 0,
@@ -15,10 +15,10 @@
   },
   "source_errors": [
     {
-      "source_id": "ecb_press_policy",
-      "source_name": "ECB Press Releases Speeches Interviews",
+      "source_id": "bis_press_releases",
+      "source_name": "BIS Press Releases",
       "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.ecb.europa.eu', port=443): Read timed out. (read timeout=8)"
+      "error": "HTTPSConnectionPool(host='www.bis.org', port=443): Read timed out. (read timeout=8)"
     }
   ],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"

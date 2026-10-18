@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-18T20:46:13+00:00_
+_Generiert: 2026-10-18T20:51:30+00:00_
 
 ## Kurzlage
 
@@ -89,4 +89,4 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Quellenfehler
 
-- `ecb_press_policy` (rss): HTTPSConnectionPool(host='www.ecb.europa.eu', port=443): Read timed out. (read timeout=8)
+- `bis_press_releases` (rss): HTTPSConnectionPool(host='www.bis.org', port=443): Read timed out. (read timeout=8)
