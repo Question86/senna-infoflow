@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-19T13:26:59+00:00_
+_Generated: 2026-10-19T13:41:42+00:00_
 
 ## Status
 - status: `normal`
-- findings: `62`
+- findings: `66`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-10-19T13:26:59+00:00_
 - url: https://www.bis.org/speeches/20261019-monetary-policy-testing-times-power-politics-and-ai
 - summary: Introductory remarks by Mr Olli Rehn, Governor of the Bank of Finland, at the Citi Macro Forum, Bangkok, 14 October 2026.
 
-### 8. CodeQL changes for macOS 27, Xcode 27, and Swift 6.4
-- source: GitHub Changelog Atom
+### 8. Announcing 20260092 (MRO,liquidity providing), for 7 days deadline 09:30
+- source: ECB Open Market Operations and Communication
 - score: `12`
-- published: `2026-10-19T10:29:09+00:00`
-- url: https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4
-- summary: Starting with macOS 27 and Xcode 27, Apple no longer includes Intel (x86_64) code in some of the system binaries and libraries that CodeQL relies on to trace builds. As… The post CodeQL changes for macOS 27, Xcode 27, and Swift 6.4 appeared first on The GitHu…
+- published: `2026-10-19T14:40:22+00:00`
+- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260092.en.html
+- summary: Announcing 20260092 (MRO,liquidity providing), for 7 days deadline 09:30
 
 END OF DOCUMENT
