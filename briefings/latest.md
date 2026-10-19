@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-19T19:47:03+00:00_
+_Generiert: 2026-10-19T19:53:40+00:00_
 
 ## Kurzlage
 
@@ -53,10 +53,6 @@ _Generiert: 2026-10-19T19:47:03+00:00_
   - Quelle: USGS
   - Zeit: `2026-10-19T18:55:37+00:00`
   - Kurz: M5.7 - 203 km WNW of Port-Olry, Vanuatu. PAGER alert: green. Tsunami flag: 0.
-- **USGS earthquake M5.7 - 198 km NW of Port-Olry, Vanuatu** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ga)
-  - Quelle: USGS
-  - Zeit: `2026-10-19T18:52:36+00:00`
-  - Kurz: M5.7 - 198 km NW of Port-Olry, Vanuatu. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
