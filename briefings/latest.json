@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T14:20:57+00:00",
-  "run_id": "2026-10-19T14:20:57+00:00",
+  "generated_at": "2026-10-19T14:34:03+00:00",
+  "run_id": "2026-10-19T14:34:03+00:00",
   "date": "2026-10-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 66
+      "configured_public_sources_only": 67
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 66,
-    "displayed_findings": 66,
+    "new_relevant_findings": 1,
+    "today_file_total": 67,
+    "displayed_findings": 67,
     "high": 0,
     "medium": 22,
-    "observe": 44,
+    "observe": 45,
     "source_errors": 0
   },
   "sections": {
@@ -908,6 +908,28 @@
           "LOW"
         ],
         "id": "118683497d3578ce93ac"
+      },
+      {
+        "title": "Claude Codeに全部任せて開発してたエンジニアの末路、1〜2ヶ月後ガチで地獄ですよ｜ゆうき｜月収100万円超エンジニアを多数輩出",
+        "url": "https://note.com/yukiedu/n/n4d25f5e1d590",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-19T08:46:35+00:00",
+        "fetched_at": "2026-10-19T14:33:33+00:00",
+        "summary": "Claude Codeに、全部任せて開発してる現場。 めっちゃ多いんですけど。 1〜2ヶ月後、ガチで地獄になるの、知ってます? 今、現場でリアルに起きてる現象なんですよ。 「検索機能、作って」 Claude Codeに、ポンって投げる。 バーって、コード出てくる。 動く。 「お、いけたな」って、マージ。 これ、現代エンジニアの開...",
+        "matched_keywords": [
+          "AI Agents",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d119af734d863c2e2697"
       },
       {
         "title": "相次ぐ不正アクセスの攻撃元の多くがAIであることを確認 | セキュリティブログ | 脆弱性診断（セキュリティ診断）のGMOサイバーセキュリティ byイエラエ",
@@ -2607,6 +2629,28 @@
       "id": "118683497d3578ce93ac"
     },
     {
+      "title": "Claude Codeに全部任せて開発してたエンジニアの末路、1〜2ヶ月後ガチで地獄ですよ｜ゆうき｜月収100万円超エンジニアを多数輩出",
+      "url": "https://note.com/yukiedu/n/n4d25f5e1d590",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-19T08:46:35+00:00",
+      "fetched_at": "2026-10-19T14:33:33+00:00",
+      "summary": "Claude Codeに、全部任せて開発してる現場。 めっちゃ多いんですけど。 1〜2ヶ月後、ガチで地獄になるの、知ってます? 今、現場でリアルに起きてる現象なんですよ。 「検索機能、作って」 Claude Codeに、ポンって投げる。 バーって、コード出てくる。 動く。 「お、いけたな」って、マージ。 これ、現代エンジニアの開...",
+      "matched_keywords": [
+        "AI Agents",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d119af734d863c2e2697"
+    },
+    {
       "title": "相次ぐ不正アクセスの攻撃元の多くがAIであることを確認 | セキュリティブログ | 脆弱性診断（セキュリティ診断）のGMOサイバーセキュリティ byイエラエ",
       "url": "https://gmo-cybersecurity.com/blog/20261019/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3423,7 +3467,30 @@
       "id": "142272aaffc0585475d8"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Claude Codeに全部任せて開発してたエンジニアの末路、1〜2ヶ月後ガチで地獄ですよ｜ゆうき｜月収100万円超エンジニアを多数輩出",
+      "url": "https://note.com/yukiedu/n/n4d25f5e1d590",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-19T08:46:35+00:00",
+      "fetched_at": "2026-10-19T14:33:33+00:00",
+      "summary": "Claude Codeに、全部任せて開発してる現場。 めっちゃ多いんですけど。 1〜2ヶ月後、ガチで地獄になるの、知ってます? 今、現場でリアルに起きてる現象なんですよ。 「検索機能、作って」 Claude Codeに、ポンって投げる。 バーって、コード出てくる。 動く。 「お、いけたな」って、マージ。 これ、現代エンジニアの開...",
+      "matched_keywords": [
+        "AI Agents",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d119af734d863c2e2697"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
