@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-19T05:51:14Z",
+  "generated_at": "2026-10-19T06:06:44Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 19,
@@ -22,7 +22,7 @@
       "url": "https://jvn.jp/vu/JVNVU93520490/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-19T10:00:00+09:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -46,7 +46,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 122.16,
+      "age_days": 122.17,
       "topics": [
         "ai"
       ],
@@ -75,7 +75,7 @@
       "url": "https://e27.co/faster-smarter-but-more-fragile-rethinking-communications-resilience-in-southeast-asia-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T03:00:46+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -100,7 +100,7 @@
       "url": "https://e27.co/will-the-upcoming-federal-reserve-meeting-crush-the-bullish-push-toward-the-us84000-target-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T04:59:33+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "macro"
       ],
@@ -124,7 +124,7 @@
       "url": "https://e27.co/telcos-are-racing-to-put-ai-in-the-app-their-subscribers-have-already-said-which-kind-they-will-trust-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T01:00:24+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "ai",
         "macro"
@@ -151,7 +151,7 @@
       "url": "https://www.du-soleil.com/entry/iot-cyber-attack-physical-terror",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-19T02:34:05+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "security"
@@ -176,7 +176,7 @@
       "url": "https://e27.co/gen-z-is-bringing-its-own-ai-to-work-singapores-smes-need-rules-not-bans-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T04:15:09+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -202,7 +202,7 @@
       "url": "https://e27.co/dealing-with-shadow-ai-what-companies-should-do-instead-of-banning-ai-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T02:00:15+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -228,7 +228,7 @@
       "url": "https://e27.co/beyond-play-to-earn-14-southeast-asian-gaming-and-sports-tech-startups-still-in-the-game-20261018/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T04:20:54+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -255,7 +255,7 @@
       "url": "https://e27.co/when-ai-takes-your-side-in-a-workplace-conflict-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T03:30:07+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "macro"
@@ -282,7 +282,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002353/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T23:45:01+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "ai"
       ],
@@ -308,7 +308,7 @@
       "url": "https://e27.co/singapore-employers-say-they-offer-burnout-support-half-their-staff-say-theyve-never-seen-it-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T05:15:28+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -334,7 +334,7 @@
       "url": "https://aws.amazon.com/jp/blogs/news/incident-response-guide-for-aws-cloudtrail-investigations-part-1/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T12:44:57+00:00",
-      "age_days": 0.71,
+      "age_days": 0.72,
       "topics": [
         "ai"
       ],
@@ -359,7 +359,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/17/news009.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T00:54:51+00:00",
-      "age_days": 1.21,
+      "age_days": 1.22,
       "topics": [
         "ai"
       ],
@@ -385,7 +385,7 @@
       "url": "https://tech.findy.co.jp/entry/2026/10/16/120000",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T03:30:41+00:00",
-      "age_days": 3.1,
+      "age_days": 3.11,
       "topics": [
         "ai"
       ],
@@ -411,7 +411,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 121.13,
+      "age_days": 121.14,
       "topics": [
         "general"
       ],
@@ -436,7 +436,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 121.13,
+      "age_days": 121.14,
       "topics": [
         "general"
       ],
@@ -461,7 +461,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 121.13,
+      "age_days": 121.14,
       "topics": [
         "ai"
       ],
@@ -488,7 +488,7 @@
       "url": "https://qiita.com/ebichan_88/items/f7c44c74e437875b1399",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T10:34:03+00:00",
-      "age_days": 0.8,
+      "age_days": 0.81,
       "topics": [
         "ai"
       ],
