@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T15:44:57+00:00",
-  "run_id": "2026-10-19T15:44:57+00:00",
+  "generated_at": "2026-10-19T15:51:57+00:00",
+  "run_id": "2026-10-19T15:51:57+00:00",
   "date": "2026-10-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 76,
     "displayed_findings": 76,
     "high": 0,
@@ -3931,29 +3931,7 @@
       "id": "142272aaffc0585475d8"
     }
   ],
-  "new_findings": [
-    {
-      "title": "お客さま向け会員サイト「My SoftBank」の一時的な停止について | 企業・IR | ソフトバンク",
-      "url": "https://www.softbank.jp/corp/news/press/sbkk/2026/20261019_01/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-19T11:38:08+00:00",
-      "fetched_at": "2026-10-19T15:44:29+00:00",
-      "summary": "このたび、お客さま向け会員サイト「My SoftBank」の一部のシステムに対して、第三者による不正アクセスの試みがあったことが判明しました。そのため、お客さま情報の安全措置の一環として10月17日午前8時から「My SoftBank」「My Y!mobile」「My Menu」のウェブサイトを一時的に停止しています。「My SoftBank」「My Y!...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "61b823617d8c546c2153"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
