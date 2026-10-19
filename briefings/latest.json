@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T18:58:24+00:00",
-  "run_id": "2026-10-19T18:58:24+00:00",
+  "generated_at": "2026-10-19T19:08:57+00:00",
+  "run_id": "2026-10-19T19:08:57+00:00",
   "date": "2026-10-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 82
+      "configured_public_sources_only": 83
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 82,
-    "displayed_findings": 82,
+    "new_relevant_findings": 1,
+    "today_file_total": 83,
+    "displayed_findings": 83,
     "high": 0,
     "medium": 24,
-    "observe": 58,
+    "observe": 59,
     "source_errors": 0
   },
   "sections": {
@@ -2014,6 +2014,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "39f91d3c4f1806732d4d"
+      },
+      {
+        "title": "ひとり会社が、AIと二人でISMSを取った話｜村山毅 Tim",
+        "url": "https://note.com/timtarou/n/n5443f159e7bc",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-19T14:05:36+00:00",
+        "fetched_at": "2026-10-19T19:08:29+00:00",
+        "summary": "2026年7月9日付で、ISMS（ISO/IEC 27001:2022）の認証を取得しました。登録番号は 50301853 ISMS22 です。 コンサルには頼んでいません。ISMS専用のSaaSも使っていません。設立1年目のひとり会社が、AI社員と二人三脚で、マネジメントシステムそのものを自社で作りました。 構築にかかった実質工数は約3日、審査対応は別...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "90bf4041c3a6975164a9"
       },
       {
         "title": "お客さま向け会員サイト「My SoftBank」の一時的な停止について | 企業・IR | ソフトバンク",
@@ -4171,6 +4192,27 @@
       "id": "39f91d3c4f1806732d4d"
     },
     {
+      "title": "ひとり会社が、AIと二人でISMSを取った話｜村山毅 Tim",
+      "url": "https://note.com/timtarou/n/n5443f159e7bc",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-19T14:05:36+00:00",
+      "fetched_at": "2026-10-19T19:08:29+00:00",
+      "summary": "2026年7月9日付で、ISMS（ISO/IEC 27001:2022）の認証を取得しました。登録番号は 50301853 ISMS22 です。 コンサルには頼んでいません。ISMS専用のSaaSも使っていません。設立1年目のひとり会社が、AI社員と二人三脚で、マネジメントシステムそのものを自社で作りました。 構築にかかった実質工数は約3日、審査対応は別...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "90bf4041c3a6975164a9"
+    },
+    {
       "title": "お客さま向け会員サイト「My SoftBank」の一時的な停止について | 企業・IR | ソフトバンク",
       "url": "https://www.softbank.jp/corp/news/press/sbkk/2026/20261019_01/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4339,7 +4381,29 @@
       "id": "142272aaffc0585475d8"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "ひとり会社が、AIと二人でISMSを取った話｜村山毅 Tim",
+      "url": "https://note.com/timtarou/n/n5443f159e7bc",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-19T14:05:36+00:00",
+      "fetched_at": "2026-10-19T19:08:29+00:00",
+      "summary": "2026年7月9日付で、ISMS（ISO/IEC 27001:2022）の認証を取得しました。登録番号は 50301853 ISMS22 です。 コンサルには頼んでいません。ISMS専用のSaaSも使っていません。設立1年目のひとり会社が、AI社員と二人三脚で、マネジメントシステムそのものを自社で作りました。 構築にかかった実質工数は約3日、審査対応は別...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "90bf4041c3a6975164a9"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
