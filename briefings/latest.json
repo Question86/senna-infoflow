@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T13:05:04+00:00",
-  "run_id": "2026-10-19T13:05:04+00:00",
+  "generated_at": "2026-10-19T13:26:59+00:00",
+  "run_id": "2026-10-19T13:26:59+00:00",
   "date": "2026-10-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 58
+      "configured_public_sources_only": 62
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 58,
-    "displayed_findings": 58,
+    "new_relevant_findings": 4,
+    "today_file_total": 62,
+    "displayed_findings": 62,
     "high": 0,
-    "medium": 19,
-    "observe": 39,
+    "medium": 22,
+    "observe": 40,
     "source_errors": 0
   },
   "sections": {
@@ -131,6 +131,54 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "e9b96980ebce2014580f"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2053",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-19T13:12:36+00:00",
+        "fetched_at": "2026-10-19T13:26:31+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder nicht näher beschriebene Auswirkungen zu erzielen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "812e6de153e56491a117"
+      },
+      {
+        "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (libsoup): Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0935",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-19T13:12:32+00:00",
+        "fetched_at": "2026-10-19T13:26:31+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Sicherheitsvorkehrungen zu umgehen, einen Denial-of-Service auszulösen, Dateien zu manipulieren oder Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "94083423059a5b0035d3"
       },
       {
         "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
@@ -466,6 +514,29 @@
         "id": "9ba0715616c8559feb9e"
       },
       {
+        "title": "[UPDATE] [hoch] WebKitGTK: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1703",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-10-19T13:12:35+00:00",
+        "fetched_at": "2026-10-19T13:26:31+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in WebKitGTK ausnutzen, um Informationen offenzulegen, um einen Denial of Service Angriff durchzuführen, um einen Cross-Site Scripting Angriff durchzuführen, und um Sicherheitsvorkehrungen zu umgehen oder andere nicht spezifizierte Angriffe durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7a0d3ef6c714933bab21"
+      },
+      {
         "title": "ヤマハ製VOCALOID6 Editorにおける外部エンティティ参照の不適切な制限の脆弱性",
         "url": "https://jvn.jp/vu/JVNVU93520490/",
         "source": "JVN Japan Vulnerability Notes",
@@ -656,6 +727,28 @@
           "LOW"
         ],
         "id": "7338f46b36f47d28a1b0"
+      },
+      {
+        "title": "Monetary policy in testing times - power politics and AI",
+        "url": "https://www.bis.org/speeches/20261019-monetary-policy-testing-times-power-politics-and-ai",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-19T00:00:00+00:00",
+        "fetched_at": "2026-10-19T13:26:31+00:00",
+        "summary": "Introductory remarks by Mr Olli Rehn, Governor of the Bank of Finland, at the Citi Macro Forum, Bangkok, 14 October 2026.",
+        "matched_keywords": [
+          "AI/KI",
+          "macro",
+          "Macro/Policy"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "AI/KI (+3.8); Macro/Policy (+6.2); macro (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c4018a445258ad47962e"
       },
       {
         "title": "CodeQL changes for macOS 27, Xcode 27, and Swift 6.4",
@@ -1656,6 +1749,54 @@
       "id": "e9b96980ebce2014580f"
     },
     {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2053",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-19T13:12:36+00:00",
+      "fetched_at": "2026-10-19T13:26:31+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder nicht näher beschriebene Auswirkungen zu erzielen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "812e6de153e56491a117"
+    },
+    {
+      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (libsoup): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0935",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-19T13:12:32+00:00",
+      "fetched_at": "2026-10-19T13:26:31+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Sicherheitsvorkehrungen zu umgehen, einen Denial-of-Service auszulösen, Dateien zu manipulieren oder Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "94083423059a5b0035d3"
+    },
+    {
       "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3588",
       "source": "BSI CERT-Bund Security Advisories",
@@ -1989,6 +2130,29 @@
       "id": "9ba0715616c8559feb9e"
     },
     {
+      "title": "[UPDATE] [hoch] WebKitGTK: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1703",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-19T13:12:35+00:00",
+      "fetched_at": "2026-10-19T13:26:31+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in WebKitGTK ausnutzen, um Informationen offenzulegen, um einen Denial of Service Angriff durchzuführen, um einen Cross-Site Scripting Angriff durchzuführen, und um Sicherheitsvorkehrungen zu umgehen oder andere nicht spezifizierte Angriffe durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7a0d3ef6c714933bab21"
+    },
+    {
       "title": "ヤマハ製VOCALOID6 Editorにおける外部エンティティ参照の不適切な制限の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU93520490/",
       "source": "JVN Japan Vulnerability Notes",
@@ -2177,6 +2341,28 @@
         "LOW"
       ],
       "id": "7338f46b36f47d28a1b0"
+    },
+    {
+      "title": "Monetary policy in testing times - power politics and AI",
+      "url": "https://www.bis.org/speeches/20261019-monetary-policy-testing-times-power-politics-and-ai",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "fetched_at": "2026-10-19T13:26:31+00:00",
+      "summary": "Introductory remarks by Mr Olli Rehn, Governor of the Bank of Finland, at the Citi Macro Forum, Bangkok, 14 October 2026.",
+      "matched_keywords": [
+        "AI/KI",
+        "macro",
+        "Macro/Policy"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "AI/KI (+3.8); Macro/Policy (+6.2); macro (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c4018a445258ad47962e"
     },
     {
       "title": "CodeQL changes for macOS 27, Xcode 27, and Swift 6.4",
@@ -3071,7 +3257,101 @@
       "id": "142272aaffc0585475d8"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2053",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-19T13:12:36+00:00",
+      "fetched_at": "2026-10-19T13:26:31+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder nicht näher beschriebene Auswirkungen zu erzielen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "812e6de153e56491a117"
+    },
+    {
+      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (libsoup): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0935",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-19T13:12:32+00:00",
+      "fetched_at": "2026-10-19T13:26:31+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Sicherheitsvorkehrungen zu umgehen, einen Denial-of-Service auszulösen, Dateien zu manipulieren oder Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "94083423059a5b0035d3"
+    },
+    {
+      "title": "[UPDATE] [hoch] WebKitGTK: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1703",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-10-19T13:12:35+00:00",
+      "fetched_at": "2026-10-19T13:26:31+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in WebKitGTK ausnutzen, um Informationen offenzulegen, um einen Denial of Service Angriff durchzuführen, um einen Cross-Site Scripting Angriff durchzuführen, und um Sicherheitsvorkehrungen zu umgehen oder andere nicht spezifizierte Angriffe durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7a0d3ef6c714933bab21"
+    },
+    {
+      "title": "Monetary policy in testing times - power politics and AI",
+      "url": "https://www.bis.org/speeches/20261019-monetary-policy-testing-times-power-politics-and-ai",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "fetched_at": "2026-10-19T13:26:31+00:00",
+      "summary": "Introductory remarks by Mr Olli Rehn, Governor of the Bank of Finland, at the Citi Macro Forum, Bangkok, 14 October 2026.",
+      "matched_keywords": [
+        "AI/KI",
+        "macro",
+        "Macro/Policy"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "AI/KI (+3.8); Macro/Policy (+6.2); macro (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c4018a445258ad47962e"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
