@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-19T01:01:57+00:00_
+_Generiert: 2026-10-19T01:35:19+00:00_
 
 ## Kurzlage
 
-2 neue relevante Treffer. Stärkstes Signal: „ヤマハ製VOCALOID6 Editorにおける外部エンティティ参照の不適切な制限の脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+3 neue relevante Treffer. Stärkstes Signal: „Telcos are racing to put AI in the app. Their subscribers have already said which kind they will trust“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -57,6 +57,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Telcos are racing to put AI in the app. Their subscribers have already said which kind they will trust** — Score 20, risk — [Quelle](https://e27.co/telcos-are-racing-to-put-ai-in-the-app-their-subscribers-have-already-said-which-kind-they-will-trust-20261010/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-19T01:00:24+00:00`, fetched `2026-10-19T01:34:46+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Reputationsrisiko, Watchgraph:narrative_social_reputation
+  - Watchgraph: narrative_social_reputation
+  - Markt-/Kontextkorb: META, GOOGL, MSFT, RDDT, SNAP, PINS
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Reputationsrisiko (+7.0); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0); watchgraph modules narrative_social_reputation (+3.0)
+  - Kurz: At M360 ASEAN in Kuala Lumpur last week, the GSMA released its ASEAN Consumer Scam Report 2026. Nearly half of reported scam cases across six markets remain unresolved. Nearly nine in ten consumers said they had recognised AI being used in scams, from deepfakes to voice cloning. Julian Gorman, the GSMA’s head of Asia Pacific, […] The post Telcos are racing to put AI in the app. Their subscribers have already said wh…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **ヤマハ製VOCALOID6 Editorにおける外部エンティティ参照の不適切な制限の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU93520490/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-10-19T10:00:00+09:00`, fetched `2026-10-19T01:01:21+00:00`
@@ -86,7 +95,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `e27_asia_startups_feed` (rss): HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)
