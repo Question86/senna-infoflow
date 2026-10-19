@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-19T12:08:36+00:00",
+  "generated_at": "2026-10-19T12:36:11+00:00",
   "topics": {
     "ai": [
       {
@@ -244,6 +244,13 @@
     ],
     "general": [
       {
+        "title": "M 4.8 - 56 km N of Ruteng, Indonesia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-19T12:22:21.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ch"
+      },
+      {
         "title": "M 4.7 - 53 km NNE of Labuan Bajo, Indonesia",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-19T11:00:26.040+00:00",
@@ -293,25 +300,18 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3c6"
       },
       {
+        "title": "M 4.8 - 212 km WNW of Port-Olry, Vanuatu",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-19T12:10:09.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ce"
+      },
+      {
         "title": "M 4.5 - 2 km W of Lunca Jariștei, Romania",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-19T09:27:18.841+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bs"
-      },
-      {
-        "title": "M 5.2 - 211 km WNW of Port-Olry, Vanuatu",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-19T08:41:07.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bk"
-      },
-      {
-        "title": "M 5.3 - 188 km NW of Port-Olry, Vanuatu",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-19T08:12:11.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3be"
       }
     ],
     "geopolitics": [
