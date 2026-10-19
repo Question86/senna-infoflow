@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-19T09:56:45Z",
+  "generated_at": "2026-10-19T10:08:29Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 39,
@@ -24,7 +24,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1096",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T07:45:52+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -49,7 +49,7 @@
       "url": "https://www.heise.de/news/Cyberangriffe-auf-Sicherheitsluecken-in-Fortinet-Produkten-und-BeyondTrust-11492254.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-19T09:25:00.000+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "security"
@@ -75,7 +75,7 @@
       "url": "https://jvn.jp/vu/JVNVU93520490/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-19T10:00:00+09:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "security"
       ],
@@ -99,7 +99,7 @@
       "url": "https://e27.co/the-ai-exit-window-is-wide-open-southeast-asia-isnt-standing-anywhere-near-it-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T09:37:47+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai",
         "security"
@@ -126,7 +126,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3993",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T09:15:52+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -152,7 +152,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3973",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T09:15:52+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -178,7 +178,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3982",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T09:15:52+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -204,7 +204,7 @@
       "url": "https://e27.co/points-beat-percentages-why-three-in-four-singaporeans-think-their-spare-cash-is-underperforming-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T06:00:13+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -230,7 +230,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3979",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T09:15:52+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -255,7 +255,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 122.33,
+      "age_days": 122.34,
       "topics": [
         "ai"
       ],
@@ -284,7 +284,7 @@
       "url": "https://e27.co/faster-smarter-but-more-fragile-rethinking-communications-resilience-in-southeast-asia-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T03:00:46+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -334,7 +334,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-19T08:15:05.817+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -383,7 +383,7 @@
       "url": "https://e27.co/telcos-are-racing-to-put-ai-in-the-app-their-subscribers-have-already-said-which-kind-they-will-trust-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T01:00:24+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "ai",
         "macro"
@@ -410,7 +410,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-19T09:27:18.841+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -435,7 +435,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-19T08:41:07.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -460,7 +460,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3be",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-19T08:12:11.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -485,7 +485,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ar",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-19T06:46:54.040+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -510,7 +510,7 @@
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-10-19T06:00:00+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "macro"
       ],
@@ -558,7 +558,7 @@
       "url": "https://www.du-soleil.com/entry/iot-cyber-attack-physical-terror",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-19T02:34:05+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "ai",
         "security"
@@ -583,7 +583,7 @@
       "url": "https://e27.co/gen-z-is-bringing-its-own-ai-to-work-singapores-smes-need-rules-not-bans-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T04:15:09+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -609,7 +609,7 @@
       "url": "https://e27.co/dealing-with-shadow-ai-what-companies-should-do-instead-of-banning-ai-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T02:00:15+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -635,7 +635,7 @@
       "url": "https://e27.co/beyond-play-to-earn-14-southeast-asian-gaming-and-sports-tech-startups-still-in-the-game-20261018/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T04:20:54+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -662,7 +662,7 @@
       "url": "https://www.digital.go.jp/policies/mynumber/explanation",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-19T06:00:00+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -686,7 +686,7 @@
       "url": "https://e27.co/when-ai-takes-your-side-in-a-workplace-conflict-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T03:30:07+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "ai",
         "macro"
@@ -713,7 +713,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002353/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T23:45:01+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "ai"
       ],
@@ -739,7 +739,7 @@
       "url": "https://yamdas.hatenablog.com/entry/20261019/smoking-in-silicon-valley",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T23:33:39+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "ai"
       ],
@@ -765,7 +765,7 @@
       "url": "https://av.watch.impress.co.jp/docs/news/2149179.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-19T02:48:44+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -815,7 +815,7 @@
       "url": "https://aws.amazon.com/jp/blogs/news/incident-response-guide-for-aws-cloudtrail-investigations-part-1/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T12:44:57+00:00",
-      "age_days": 0.88,
+      "age_days": 0.89,
       "topics": [
         "ai"
       ],
@@ -840,7 +840,7 @@
       "url": "https://www.gamespark.jp/article/2026/10/19/173774.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-19T02:58:33+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -892,7 +892,7 @@
       "url": "https://tech.findy.co.jp/entry/2026/10/16/120000",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T03:30:41+00:00",
-      "age_days": 3.27,
+      "age_days": 3.28,
       "topics": [
         "ai"
       ],
@@ -995,7 +995,7 @@
       "url": "https://qiita.com/ebichan_88/items/f7c44c74e437875b1399",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T10:34:03+00:00",
-      "age_days": 0.97,
+      "age_days": 0.98,
       "topics": [
         "ai"
       ],
