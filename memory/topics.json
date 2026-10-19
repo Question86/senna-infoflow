@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-19T19:08:57+00:00",
+  "generated_at": "2026-10-19T19:19:39+00:00",
   "topics": {
     "ai": [
       {
@@ -279,6 +279,13 @@
         "url": "https://tech-blog.rakus.co.jp/entry/20261019/weekly-reflection"
       },
       {
+        "title": "M 5.7 - 198 km NW of Port-Olry, Vanuatu",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-19T19:18:22.266+00:00",
+        "relevance_score": 13,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ga"
+      },
+      {
         "title": "M 5.4 - 184 km WNW of Port-Olry, Vanuatu",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-19T08:37:31.402+00:00",
@@ -312,13 +319,6 @@
         "published_at": "2026-10-19T08:46:35+00:00",
         "relevance_score": 11,
         "url": "https://note.com/yukiedu/n/n4d25f5e1d590"
-      },
-      {
-        "title": "M 4.8 - 88 km WNW of Hihifo, Tonga",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-19T18:43:55.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3g6"
       }
     ],
     "geopolitics": [

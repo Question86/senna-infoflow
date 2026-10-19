@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-19T19:08:57+00:00_
+_Generated: 2026-10-19T19:19:39+00:00_
 
 ## Status
 - status: `normal`
-- findings: `83`
+- findings: `85`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-10-19T19:08:57+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2053
 - summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder nicht näher beschriebene Auswirkungen zu erzielen.
 
-### 5. M 5.4 - 184 km WNW of Port-Olry, Vanuatu
+### 5. M 5.7 - 198 km NW of Port-Olry, Vanuatu
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-10-19T19:18:22.266+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ga
+- summary: PAGER - GREEN ShakeMap - I Time 2026-10-19 18:52:36 UTC 2026-10-19 18:52:36 UTC at epicenter Location 14.037°S 165.551°E Depth 10.00 km (6.21 mi)
+
+### 6. M 5.4 - 184 km WNW of Port-Olry, Vanuatu
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-10-19T08:37:31.402+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bi
 - summary: PAGER - GREEN ShakeMap - III Time 2026-10-19 08:12:38 UTC 2026-10-19 08:12:38 UTC at epicenter Location 14.139°S 165.638°E Depth 10.00 km (6.21 mi)
 
-### 6. M 5.9 - 185 km NW of Port-Olry, Vanuatu
+### 7. M 5.9 - 185 km NW of Port-Olry, Vanuatu
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-10-19T08:15:05.817+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bc
 - summary: PAGER - GREEN ShakeMap - IV Time 2026-10-19 07:49:04 UTC 2026-10-19 07:49:04 UTC at epicenter Location 14.026°S 165.705°E Depth 10.00 km (6.21 mi)
 
-### 7. Monetary policy in testing times - power politics and AI
+### 8. Monetary policy in testing times - power politics and AI
 - source: BIS Central Bankers Speeches
 - score: `13`
 - published: `2026-10-19T00:00:00+00:00`
 - url: https://www.bis.org/speeches/20261019-monetary-policy-testing-times-power-politics-and-ai
 - summary: Introductory remarks by Mr Olli Rehn, Governor of the Bank of Finland, at the Citi Macro Forum, Bangkok, 14 October 2026.
-
-### 8. Announcing 20260092 (MRO,liquidity providing), for 7 days deadline 09:30
-- source: ECB Open Market Operations and Communication
-- score: `12`
-- published: `2026-10-19T14:40:22+00:00`
-- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260092.en.html
-- summary: Announcing 20260092 (MRO,liquidity providing), for 7 days deadline 09:30
 
 END OF DOCUMENT
