@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-19T10:40:43+00:00_
+_Generated: 2026-10-19T10:49:18+00:00_
 
 ## Status
 - status: `normal`
-- findings: `38`
+- findings: `39`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-10-19T10:40:43+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bc
 - summary: PAGER - GREEN ShakeMap - IV Time 2026-10-19 07:49:04 UTC 2026-10-19 07:49:04 UTC at epicenter Location 14.026°S 165.705°E Depth 10.00 km (6.21 mi)
 
-### 7. Points beat percentages: Why three in four Singaporeans think their spare cash is underperforming
+### 7. CodeQL changes for macOS 27, Xcode 27, and Swift 6.4
+- source: GitHub Changelog Atom
+- score: `12`
+- published: `2026-10-19T10:29:09+00:00`
+- url: https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4
+- summary: Starting with macOS 27 and Xcode 27, Apple no longer includes Intel (x86_64) code in some of the system binaries and libraries that CodeQL relies on to trace builds. As… The post CodeQL changes for macOS 27, Xcode 27, and Swift 6.4 appeared first on The GitHu…
+
+### 8. Points beat percentages: Why three in four Singaporeans think their spare cash is underperforming
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-10-19T06:00:13+00:00`
 - url: https://e27.co/points-beat-percentages-why-three-in-four-singaporeans-think-their-spare-cash-is-underperforming-20261019/
 - summary: A Singaporean who will argue over a 50-cent difference in cashback at a hawker centre may have no idea what their savings account pays. New research suggests that person is the norm. Some 89 per cent of Singapore residents hold spare cash, according to a surv…
-
-### 8. Sicherheitslücken in Fortinet-Produkten und BeyondTrust werden attackiert
-- source: heise Security Alerts
-- score: `10`
-- published: `2026-10-19T09:25:00.000+00:00`
-- url: https://www.heise.de/news/Cyberangriffe-auf-Sicherheitsluecken-in-Fortinet-Produkten-und-BeyondTrust-11492254.html
-- summary: Die US-Sicherheitsbehörde CISA warnt vor laufenden Angriffen auf Lücken in Fortinet-Produkten und BeyondTrust Remote Support.
 
 END OF DOCUMENT
