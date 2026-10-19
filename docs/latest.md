@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-19T11:43:25+00:00_
+_Generiert: 2026-10-19T11:51:15+00:00_
 
 ## Kurzlage
 
-49 neue relevante Treffer. Stärkstes Signal: „Will developing nations be able to handle millions of AI agents?“ aus Rest of World Global Tech Feed (Score 22, opportunity).
+51 neue relevante Treffer. Stärkstes Signal: „Will developing nations be able to handle millions of AI agents?“ aus Rest of World Global Tech Feed (Score 22, opportunity).
 
 ## Priorität Hoch
 
@@ -30,6 +30,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Reputationsrisiko (+7.0); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0); watchgraph modules narrative_social_reputation (+3.0)
   - Kurz: At M360 ASEAN in Kuala Lumpur last week, the GSMA released its ASEAN Consumer Scam Report 2026. Nearly half of reported scam cases across six markets remain unresolved. Nearly nine in ten consumers said they had recognised AI being used in scams, from deepfakes to voice cloning. Julian Gorman, the GSMA’s head of Asia Pacific, […] The post Telcos are racing to put AI in the app. Their subscribers have already said wh…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Building trusted foundations for digital finance** — Score 19, opportunity — [Quelle](https://www.bis.org/speeches/20261019-building-trusted-foundations-digital-finance)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-19T00:00:00+00:00`, fetched `2026-10-19T11:50:46+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Keynote address by Mr Chia Der Jiun, Managing Director of the Monetary Authority of Singapore, at the INSEAD Digital Finance and Agentic AI Summit, Singapore, 9 October 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3822)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-10-19T11:05:08+00:00`, fetched `2026-10-19T11:19:40+00:00`

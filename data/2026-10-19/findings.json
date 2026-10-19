@@ -80,6 +80,29 @@
     "id": "7653bb2f896edce803bb"
   },
   {
+    "title": "Building trusted foundations for digital finance",
+    "url": "https://www.bis.org/speeches/20261019-building-trusted-foundations-digital-finance",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-10-19T00:00:00+00:00",
+    "fetched_at": "2026-10-19T11:50:46+00:00",
+    "summary": "Keynote address by Mr Chia Der Jiun, Managing Director of the Monetary Authority of Singapore, at the INSEAD Digital Finance and Agentic AI Summit, Singapore, 9 October 2026.",
+    "matched_keywords": [
+      "AI Agents",
+      "AI/KI",
+      "APAC Trend Radar",
+      "Macro/Policy"
+    ],
+    "relevance_score": 19,
+    "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e9b96980ebce2014580f"
+  },
+  {
     "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3822",
     "source": "BSI CERT-Bund Security Advisories",
@@ -1125,6 +1148,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "79233e778abe042917e9"
+  },
+  {
+    "title": "Financial resilience in an age of repeated shocks",
+    "url": "https://www.bis.org/speeches/20261019-financial-resilience-age-repeated-shocks",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-10-19T00:00:00+00:00",
+    "fetched_at": "2026-10-19T11:50:46+00:00",
+    "summary": "Speech by Mr Andrew Bailey, Governor of the Bank of England, at the Istanbul Economic Forum, organised by the Central Bank of the Republic of Türkiye, Istanbul, 8 October 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4bea702d6e369a4bff70"
   },
   {
     "title": "Financial literacy towards an inclusive economy",

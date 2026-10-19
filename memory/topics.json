@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-19T11:43:25+00:00",
+  "generated_at": "2026-10-19T11:51:15+00:00",
   "topics": {
     "ai": [
       {
@@ -17,6 +17,13 @@
         "published_at": "2026-10-19T01:00:24+00:00",
         "relevance_score": 20,
         "url": "https://e27.co/telcos-are-racing-to-put-ai-in-the-app-their-subscribers-have-already-said-which-kind-they-will-trust-20261010/"
+      },
+      {
+        "title": "Building trusted foundations for digital finance",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-19T00:00:00+00:00",
+        "relevance_score": 19,
+        "url": "https://www.bis.org/speeches/20261019-building-trusted-foundations-digital-finance"
       },
       {
         "title": "The AI exit window is wide open. Southeast Asia isn’t standing anywhere near it",
@@ -66,13 +73,6 @@
         "published_at": "2026-10-19T00:00:00+00:00",
         "relevance_score": 8,
         "url": "https://www.bis.org/speeches/20261016-ensuring-resilience-face-uncertainty"
-      },
-      {
-        "title": "Anthropic、社内でAIエージェントの稼働時間が人間の6倍に 技術系初級職の採用比率は27％→9％に激減",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-18T23:45:01+00:00",
-        "relevance_score": 8,
-        "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002353/"
       }
     ],
     "github": [
@@ -107,6 +107,13 @@
         "url": "https://e27.co/telcos-are-racing-to-put-ai-in-the-app-their-subscribers-have-already-said-which-kind-they-will-trust-20261010/"
       },
       {
+        "title": "Building trusted foundations for digital finance",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-19T00:00:00+00:00",
+        "relevance_score": 19,
+        "url": "https://www.bis.org/speeches/20261019-building-trusted-foundations-digital-finance"
+      },
+      {
         "title": "When AI takes your side in a workplace conflict",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-10-19T03:30:07+00:00",
@@ -126,6 +133,13 @@
         "published_at": "2026-10-19T00:00:00+00:00",
         "relevance_score": 6,
         "url": "https://www.bis.org/speeches/20261016-partnerships-prosperity-unlocking-regional-potential"
+      },
+      {
+        "title": "Financial resilience in an age of repeated shocks",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-19T00:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.bis.org/speeches/20261019-financial-resilience-age-repeated-shocks"
       },
       {
         "title": "Financial literacy towards an inclusive economy",
