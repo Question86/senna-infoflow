@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-19T08:08:45Z",
+  "generated_at": "2026-10-19T08:39:16Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] Fortinet FortiOS, FortiProxy und FortiSwitch: Schwachstelle ermöglicht Manipulation von Dateien” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1096",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T07:45:52+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://jvn.jp/vu/JVNVU93520490/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-19T10:00:00+09:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -64,7 +64,7 @@
       "url": "https://e27.co/points-beat-percentages-why-three-in-four-singaporeans-think-their-spare-cash-is-underperforming-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T06:00:13+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -90,7 +90,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 122.26,
+      "age_days": 122.28,
       "topics": [
         "ai"
       ],
@@ -119,7 +119,7 @@
       "url": "https://e27.co/faster-smarter-but-more-fragile-rethinking-communications-resilience-in-southeast-asia-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T03:00:46+00:00",
-      "age_days": 0.21,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -140,11 +140,36 @@
       "summary": "Southeast Asia has spent the past decade moving rapidly towards a more connected future. Fibre networks have replaced much of the region’s older copper infrastructure, smartphones have become the primary gateway to services, and communications, payments, government functions and commerce have increasingly shifted onli…"
     },
     {
+      "title": "M 5.9 - 185 km NW of Port-Olry, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bc",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-19T08:15:05.817+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 21.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "PAGER - GREEN ShakeMap - IV Time 2026-10-19 07:49:04 UTC 2026-10-19 07:49:04 UTC at epicenter Location 14.026°S 165.705°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "Will the upcoming Federal Reserve meeting crush the bullish push toward the US$84,000 target?",
       "url": "https://e27.co/will-the-upcoming-federal-reserve-meeting-crush-the-bullish-push-toward-the-us84000-target-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T04:59:33+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "macro"
       ],
@@ -168,7 +193,7 @@
       "url": "https://e27.co/telcos-are-racing-to-put-ai-in-the-app-their-subscribers-have-already-said-which-kind-they-will-trust-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T01:00:24+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "ai",
         "macro"
@@ -191,11 +216,36 @@
       "summary": "At M360 ASEAN in Kuala Lumpur last week, the GSMA released its ASEAN Consumer Scam Report 2026. Nearly half of reported scam cases across six markets remain unresolved. Nearly nine in ten consumers said they had recognised AI being used in scams, from deepfakes to voice cloning. Julian Gorman, the GSMA’s head of Asia…"
     },
     {
+      "title": "M 5.3 - 188 km NW of Port-Olry, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3be",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-19T08:12:11.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-19 07:55:36 UTC 2026-10-19 07:55:36 UTC at epicenter Location 13.982°S 165.700°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 4.5 - Banda Sea",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ar",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-19T06:46:54.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -220,7 +270,7 @@
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-10-19T06:00:00+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "macro"
       ],
@@ -244,7 +294,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002372/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-19T04:15:53+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -262,57 +312,6 @@
         "high terms: 10"
       ],
       "summary": "ソースネクストの会員情報取得APIが不正アクセスを受け、最大約2252万件の氏名や住所、パスワードなどが漏えいした問題をめぐり、一部で「パスワードは平文で保存されていたのではないか」との見方が出ている。 同社の広報担当者はITmedia NEWSの取材に対して、「パスワードは暗号化して保存していた」と述べる一方、「..."
-    },
-    {
-      "title": "AIの反乱よりもトクリュウによるスマートロックやスマート家電へのサイバー攻撃による同時多発的なフィジカルテロルのが怖い - 太陽がまぶしかったから",
-      "url": "https://www.du-soleil.com/entry/iot-cyber-attack-physical-terror",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-19T02:34:05+00:00",
-      "age_days": 0.23,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 8.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "フィジカルAIの脅威は「AIの反乱」ではない YouTubeで配信されていたTBSの対談番組「AI QUEST」で、参議院議員の安野貴博とAI研究者の今井翔太による議論を見ていた。 「Claude Mythos」級の高い脆弱性探索能力やサイバー攻撃能力を持つオープンウェイトモデルが急速に拡散し、従来のサイバー防衛が通用しなくなるという..."
-    },
-    {
-      "title": "Gen Z is bringing its own AI to work. Singapore’s SMEs need rules, not bans",
-      "url": "https://e27.co/gen-z-is-bringing-its-own-ai-to-work-singapores-smes-need-rules-not-bans-20261019/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-19T04:15:09+00:00",
-      "age_days": 0.16,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Young workers in Singapore are not waiting for their employers to roll out AI. They are already using it, often on personal devices and often without anyone watching. According to “What Gen Z Workers Want 2026”, a study commissioned by Deel and conducted with YouGov and ThinkerTank, 49 per cent of Singapore workers ag…"
     }
   ],
   "read_order": [
@@ -325,9 +324,9 @@
   "counts": {
     "bands_after_gate_recheck": {
       "krass": 1,
-      "strong": 5,
-      "watch": 3,
-      "quiet": 3
+      "strong": 6,
+      "watch": 4,
+      "quiet": 1
     }
   }
 }

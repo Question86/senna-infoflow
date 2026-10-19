@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-19T08:08:45Z_
+_Generated: 2026-10-19T08:39:16Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] Fortinet FortiOS, Fort
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `33.0`
-- Published: `2026-10-19T07:45:52+00:00` / age_days `0.02`
+- Published: `2026-10-19T07:45:52+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: active, exploitation, 10, security high-signal: active, exploitation, 10, fortinet
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] Fortinet FortiOS, Fort
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-10-19T10:00:00+09:00` / age_days `0.3`
+- Published: `2026-10-19T10:00:00+09:00` / age_days `0.32`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] Fortinet FortiOS, Fort
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-19T06:00:13+00:00` / age_days `0.09`
+- Published: `2026-10-19T06:00:13+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, 10, security high-signal: rce, 10, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] Fortinet FortiOS, Fort
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `122.26`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `122.28`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 122.3d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -52,17 +52,27 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] Fortinet FortiOS, Fort
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-10-19T03:00:46+00:00` / age_days `0.21`
+- Published: `2026-10-19T03:00:46+00:00` / age_days `0.24`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, 10, security high-signal: rce, 10
 - Quelle: https://e27.co/faster-smarter-but-more-fragile-rethinking-communications-resilience-in-southeast-asia-20261016/
 
+### M 5.9 - 185 km NW of Port-Olry, Vanuatu
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `21.0`
+- Published: `2026-10-19T08:15:05.817+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bc
+
 ### Will the upcoming Federal Reserve meeting crush the bullish push toward the US$84,000 target?
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.0`
-- Published: `2026-10-19T04:59:33+00:00` / age_days `0.13`
+- Published: `2026-10-19T04:59:33+00:00` / age_days `0.15`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -72,17 +82,27 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] Fortinet FortiOS, Fort
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-19T01:00:24+00:00` / age_days `0.3`
+- Published: `2026-10-19T01:00:24+00:00` / age_days `0.32`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://e27.co/telcos-are-racing-to-put-ai-in-the-app-their-subscribers-have-already-said-which-kind-they-will-trust-20261010/
 
+### M 5.3 - 188 km NW of Port-Olry, Vanuatu
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `17.0`
+- Published: `2026-10-19T08:12:11.040+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3be
+
 ### M 4.5 - Banda Sea
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-19T06:46:54.040+00:00` / age_days `0.06`
+- Published: `2026-10-19T06:46:54.040+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10, 9.9
@@ -92,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] Fortinet FortiOS, Fort
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `13.0`
-- Published: `2026-10-19T06:00:00+00:00` / age_days `0.09`
+- Published: `2026-10-19T06:00:00+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -102,30 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] Fortinet FortiOS, Fort
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-10-19T04:15:53+00:00` / age_days `0.16`
+- Published: `2026-10-19T04:15:53+00:00` / age_days `0.18`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
 - Quelle: https://www.itmedia.co.jp/news/article/2610/19/2000002372/
-
-### AIの反乱よりもトクリュウによるスマートロックやスマート家電へのサイバー攻撃による同時多発的なフィジカルテロルのが怖い - 太陽がまぶしかったから
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `8.0`
-- Published: `2026-10-19T02:34:05+00:00` / age_days `0.23`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: no strong comparative reason
-- Quelle: https://www.du-soleil.com/entry/iot-cyber-attack-physical-terror
-
-### Gen Z is bringing its own AI to work. Singapore’s SMEs need rules, not bans
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `7.0`
-- Published: `2026-10-19T04:15:09+00:00` / age_days `0.16`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://e27.co/gen-z-is-bringing-its-own-ai-to-work-singapores-smes-need-rules-not-bans-20261019/
 
 END OF DOCUMENT
