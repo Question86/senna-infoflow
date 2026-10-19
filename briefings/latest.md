@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-19T19:19:39+00:00_
+_Generiert: 2026-10-19T19:29:13+00:00_
 
 ## Kurzlage
 
@@ -33,10 +33,14 @@ _Generiert: 2026-10-19T19:19:39+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Spain
-- **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Vanuatu Islands 19/10/2026 18:52 UTC, No people affected in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1572618)
+- **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Vanuatu Islands 19/10/2026 18:55 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1572622)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.7M, Depth:10km) in Vanuatu Islands 19/10/2026 18:52 UTC, No people affected in 100km.
+  - Kurz: Green earthquake (Magnitude 5.7M, Depth:10km) in Vanuatu Islands 19/10/2026 18:55 UTC, [unknown].
+- **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Vanuatu Islands 19/10/2026 18:52 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1572618)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.7M, Depth:10km) in Vanuatu Islands 19/10/2026 18:52 UTC, [unknown].
 - **GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu 19/10/2026 07:49 UTC, 2 thousand in MMI&gt;=III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1572503)
   - Quelle: GDACS
   - Zeit: ``
@@ -48,7 +52,7 @@ _Generiert: 2026-10-19T19:19:39+00:00_
 - **USGS earthquake M5.7 - 203 km WNW of Port-Olry, Vanuatu** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ge)
   - Quelle: USGS
   - Zeit: `2026-10-19T18:55:37+00:00`
-  - Kurz: M5.7 - 203 km WNW of Port-Olry, Vanuatu. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M5.7 - 203 km WNW of Port-Olry, Vanuatu. PAGER alert: green. Tsunami flag: 0.
 - **USGS earthquake M5.7 - 198 km NW of Port-Olry, Vanuatu** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ga)
   - Quelle: USGS
   - Zeit: `2026-10-19T18:52:36+00:00`
