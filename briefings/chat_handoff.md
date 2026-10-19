@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-19T09:03:24+00:00_
+_Generated: 2026-10-19T09:31:56+00:00_
 
 ## Status
 - status: `normal`
-- findings: `27`
+- findings: `33`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-10-19T09:03:24+00:00_
 - url: https://e27.co/telcos-are-racing-to-put-ai-in-the-app-their-subscribers-have-already-said-which-kind-they-will-trust-20261010/
 - summary: At M360 ASEAN in Kuala Lumpur last week, the GSMA released its ASEAN Consumer Scam Report 2026. Nearly half of reported scam cases across six markets remain unresolved. Nearly nine in ten consumers said they had recognised AI being used in scams, from deepfak…
 
-### 2. [UPDATE] [mittel] Fortinet FortiOS, FortiProxy und FortiSwitch: Schwachstelle ermöglicht Manipulation von Dateien
+### 2. [UPDATE] [mittel] Red Hat Enterprise Linux (rpcbind): Schwachstelle ermöglicht Denial of Service
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-10-19T09:15:52+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3979
+- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (rpcbind) ausnutzen, um einen Denial of Service Angriff durchzuführen.
+
+### 3. [UPDATE] [mittel] Fortinet FortiOS, FortiProxy und FortiSwitch: Schwachstelle ermöglicht Manipulation von Dateien
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-10-19T07:45:52+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1096
 - summary: Ein lokaler Angreifer kann eine Schwachstelle in Fortinet FortiOS, Fortinet FortiProxy und Fortinet FortiSwitch ausnutzen, um Dateien zu manipulieren.
 
-### 3. Will the upcoming Federal Reserve meeting crush the bullish push toward the US$84,000 target?
+### 4. Will the upcoming Federal Reserve meeting crush the bullish push toward the US$84,000 target?
 - source: e27 Asia Startup and Tech Feed
 - score: `15`
 - published: `2026-10-19T04:59:33+00:00`
 - url: https://e27.co/will-the-upcoming-federal-reserve-meeting-crush-the-bullish-push-toward-the-us84000-target-20261019/
 - summary: Global financial ecosystems present a fascinating landscape today, as virtual currencies are in a modest recovery phase. Bitcoin leads this upward trajectory, up 0.94 per cent over the past 24 hours. The premier cryptocurrency trades at exactly US$82,204.31.…
-
-### 4. ヤマハ製VOCALOID6 Editorにおける外部エンティティ参照の不適切な制限の脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-10-19T10:00:00+09:00`
-- url: https://jvn.jp/vu/JVNVU93520490/
-- summary: ヤマハ株式会社が提供するVOCALOID6 Editorには、外部エンティティ参照の不適切な制限の脆弱性が存在します。
 
 ### 5. M 5.4 - 184 km WNW of Port-Olry, Vanuatu
 - source: USGS M4.5+ Earthquakes Past Hour
