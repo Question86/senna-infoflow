@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-10-19T04:48:36Z",
+  "generated_at": "2026-10-19T05:03:38Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -34,6 +34,11 @@
     },
     {
       "title": "Faster, smarter, but more fragile? Rethinking communications resilience in Southeast Asia",
+      "band": "strong",
+      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
+    },
+    {
+      "title": "Will the upcoming Federal Reserve meeting crush the bullish push toward the US$84,000 target?",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     }
