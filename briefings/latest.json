@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T11:51:15+00:00",
-  "run_id": "2026-10-19T11:51:15+00:00",
+  "generated_at": "2026-10-19T11:57:01+00:00",
+  "run_id": "2026-10-19T11:57:01+00:00",
   "date": "2026-10-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 51
+      "configured_public_sources_only": 52
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 51,
-    "displayed_findings": 51,
+    "new_relevant_findings": 1,
+    "today_file_total": 52,
+    "displayed_findings": 52,
     "high": 0,
     "medium": 17,
-    "observe": 34,
+    "observe": 35,
     "source_errors": 0
   },
   "sections": {
@@ -785,6 +785,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "b6c2bc72e5316082e747"
+      },
+      {
+        "title": "The AI opportunity for Europe",
+        "url": "https://www.bis.org/speeches/20261019-ai-opportunity-europe",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-19T00:00:00+00:00",
+        "fetched_at": "2026-10-19T11:56:30+00:00",
+        "summary": "Dinner remarks by Philip R Lane, Member of the Executive Board of the European Central Bank, at the International AI Summit, Dublin, 13 October 2026.",
+        "matched_keywords": [
+          "AI/KI",
+          "Macro/Policy"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI/KI (+3.8); Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ff8638d456f82108db75"
       },
       {
         "title": "AWS CloudTrail を使ったインシデント調査・対応ガイド – パート 1 | Amazon Web Services",
@@ -2126,6 +2147,27 @@
       "id": "b6c2bc72e5316082e747"
     },
     {
+      "title": "The AI opportunity for Europe",
+      "url": "https://www.bis.org/speeches/20261019-ai-opportunity-europe",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "fetched_at": "2026-10-19T11:56:30+00:00",
+      "summary": "Dinner remarks by Philip R Lane, Member of the Executive Board of the European Central Bank, at the International AI Summit, Dublin, 13 October 2026.",
+      "matched_keywords": [
+        "AI/KI",
+        "Macro/Policy"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ff8638d456f82108db75"
+    },
+    {
       "title": "AWS CloudTrail を使ったインシデント調査・対応ガイド – パート 1 | Amazon Web Services",
       "url": "https://aws.amazon.com/jp/blogs/news/incident-response-guide-for-aws-cloudtrail-investigations-part-1/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2709,47 +2751,25 @@
   ],
   "new_findings": [
     {
-      "title": "Building trusted foundations for digital finance",
-      "url": "https://www.bis.org/speeches/20261019-building-trusted-foundations-digital-finance",
+      "title": "The AI opportunity for Europe",
+      "url": "https://www.bis.org/speeches/20261019-ai-opportunity-europe",
       "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
       "published_at": "2026-10-19T00:00:00+00:00",
-      "fetched_at": "2026-10-19T11:50:46+00:00",
-      "summary": "Keynote address by Mr Chia Der Jiun, Managing Director of the Monetary Authority of Singapore, at the INSEAD Digital Finance and Agentic AI Summit, Singapore, 9 October 2026.",
+      "fetched_at": "2026-10-19T11:56:30+00:00",
+      "summary": "Dinner remarks by Philip R Lane, Member of the Executive Board of the European Central Bank, at the International AI Summit, Dublin, 13 October 2026.",
       "matched_keywords": [
-        "AI Agents",
         "AI/KI",
-        "APAC Trend Radar",
         "Macro/Policy"
       ],
-      "relevance_score": 19,
-      "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); Macro/Policy (+5.0); recent (+1.0)",
       "risk_or_opportunity": "opportunity",
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "e9b96980ebce2014580f"
-    },
-    {
-      "title": "Financial resilience in an age of repeated shocks",
-      "url": "https://www.bis.org/speeches/20261019-financial-resilience-age-repeated-shocks",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-10-19T00:00:00+00:00",
-      "fetched_at": "2026-10-19T11:50:46+00:00",
-      "summary": "Speech by Mr Andrew Bailey, Governor of the Bank of England, at the Istanbul Economic Forum, organised by the Central Bank of the Republic of Türkiye, Istanbul, 8 October 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4bea702d6e369a4bff70"
+      "id": "ff8638d456f82108db75"
     }
   ],
   "source_errors": [],

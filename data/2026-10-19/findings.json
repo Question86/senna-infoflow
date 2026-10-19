@@ -755,6 +755,27 @@
     "id": "b6c2bc72e5316082e747"
   },
   {
+    "title": "The AI opportunity for Europe",
+    "url": "https://www.bis.org/speeches/20261019-ai-opportunity-europe",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-10-19T00:00:00+00:00",
+    "fetched_at": "2026-10-19T11:56:30+00:00",
+    "summary": "Dinner remarks by Philip R Lane, Member of the Executive Board of the European Central Bank, at the International AI Summit, Dublin, 13 October 2026.",
+    "matched_keywords": [
+      "AI/KI",
+      "Macro/Policy"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "AI/KI (+3.8); Macro/Policy (+5.0); recent (+1.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ff8638d456f82108db75"
+  },
+  {
     "title": "AWS CloudTrail を使ったインシデント調査・対応ガイド – パート 1 | Amazon Web Services",
     "url": "https://aws.amazon.com/jp/blogs/news/incident-response-guide-for-aws-cloudtrail-investigations-part-1/",
     "source": "Hatena Bookmark Hotentry IT",
