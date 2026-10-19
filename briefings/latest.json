@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T09:49:50+00:00",
-  "run_id": "2026-10-19T09:49:50+00:00",
+  "generated_at": "2026-10-19T09:58:54+00:00",
+  "run_id": "2026-10-19T09:58:54+00:00",
   "date": "2026-10-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 35,
     "displayed_findings": 35,
     "high": 0,
@@ -1843,64 +1843,7 @@
       "id": "142272aaffc0585475d8"
     }
   ],
-  "new_findings": [
-    {
-      "title": "The AI exit window is wide open. Southeast Asia isn’t standing anywhere near it",
-      "url": "https://e27.co/the-ai-exit-window-is-wide-open-southeast-asia-isnt-standing-anywhere-near-it-20261019/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-19T09:37:47+00:00",
-      "fetched_at": "2026-10-19T09:49:13+00:00",
-      "summary": "Last week, Amazon was reported to be in talks to pay around US$7 billion for Decart, a three-year-old startup valued at just under US$4 billion in May. Cohere signed a letter of intent to buy AI security startup AISLE. Prime Intellect snapped up Moondream. Bumble agreed to a US$1.3 billion take-private. And that was a […] The post The AI exit window is wide open. Southeast Asia isn’t standing anywhere near it appear…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Security",
-        "Southeast Asia"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "AI/KI (+3.8); Security (+6.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9e248e28d677f266853c"
-    },
-    {
-      "title": "Sicherheitslücken in Fortinet-Produkten und BeyondTrust werden attackiert",
-      "url": "https://www.heise.de/news/Cyberangriffe-auf-Sicherheitsluecken-in-Fortinet-Produkten-und-BeyondTrust-11492254.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-10-19T09:25:00.000+00:00",
-      "fetched_at": "2026-10-19T09:49:13+00:00",
-      "summary": "Die US-Sicherheitsbehörde CISA warnt vor laufenden Angriffen auf Lücken in Fortinet-Produkten und BeyondTrust Remote Support.",
-      "matched_keywords": [
-        "Security",
-        "Watchgraph:cyber_active_exploitation"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "Security (+6.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "cyber_active_exploitation"
-      ],
-      "watchgraph_reasons": [
-        "cyber_active_exploitation: Fortinet"
-      ],
-      "market_context": [
-        "CRWD",
-        "PANW",
-        "FTNT",
-        "ZS",
-        "OKTA",
-        "NET",
-        "S"
-      ],
-      "id": "45e53957cdce1497fa00"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
