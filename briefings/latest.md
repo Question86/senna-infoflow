@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-19T11:32:21+00:00_
+_Generiert: 2026-10-19T11:43:25+00:00_
 
 ## Kurzlage
 
-45 neue relevante Treffer. Stärkstes Signal: „Will developing nations be able to handle millions of AI agents?“ aus Rest of World Global Tech Feed (Score 22, opportunity).
+49 neue relevante Treffer. Stärkstes Signal: „Will developing nations be able to handle millions of AI agents?“ aus Rest of World Global Tech Feed (Score 22, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -262,6 +262,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: フィジカルAIの脅威は「AIの反乱」ではない YouTubeで配信されていたTBSの対談番組「AI QUEST」で、参議院議員の安野貴博とAI研究者の今井翔太による議論を見ていた。 「Claude Mythos」級の高い脆弱性探索能力やサイバー攻撃能力を持つオープンウェイトモデルが急速に拡散し、従来のサイバー防衛が通用しなくなるという...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Ensuring resilience in the face of uncertainty** — Score 8, opportunity — [Quelle](https://www.bis.org/speeches/20261016-ensuring-resilience-face-uncertainty)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-19T00:00:00+00:00`, fetched `2026-10-19T11:42:57+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Keynote speech by Mr Frank Elderson, Member of the Executive Board of the European Central Bank and Vice-Chair of the Supervisory Board of the European Central Bank, at the ECB-Bank of England Conference on supervising climate risk in a non-linear world, Frankfurt am Main, 14 October 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Anthropic、社内でAIエージェントの稼働時間が人間の6倍に 技術系初級職の採用比率は27％→9％に激減** — Score 8, observation — [Quelle](https://www.itmedia.co.jp/news/article/2610/19/2000002353/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-18T23:45:01+00:00`, fetched `2026-10-19T05:46:30+00:00`
@@ -280,6 +289,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: マイナンバー制度における制度解説の情報連携に係る資料を更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Partnerships for prosperity - unlocking regional potential** — Score 6, opportunity — [Quelle](https://www.bis.org/speeches/20261016-partnerships-prosperity-unlocking-regional-potential)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-19T00:00:00+00:00`, fetched `2026-10-19T11:42:57+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0)
+  - Kurz: Speech by Dr P Nandalal Weerasinghe, Governor of the Central Bank of Sri Lanka, at the 49th Annual General Meeting of the Association of Development Financing Institutions in Asia and the Pacific (ADFIAP), Colombo, 23 September 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Empfehlungen
 

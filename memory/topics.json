@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-19T11:32:21+00:00",
+  "generated_at": "2026-10-19T11:43:25+00:00",
   "topics": {
     "ai": [
       {
@@ -61,18 +61,18 @@
         "url": "https://www.du-soleil.com/entry/iot-cyber-attack-physical-terror"
       },
       {
+        "title": "Ensuring resilience in the face of uncertainty",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-19T00:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.bis.org/speeches/20261016-ensuring-resilience-face-uncertainty"
+      },
+      {
         "title": "Anthropic、社内でAIエージェントの稼働時間が人間の6倍に 技術系初級職の採用比率は27％→9％に激減",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-10-18T23:45:01+00:00",
         "relevance_score": 8,
         "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002353/"
-      },
-      {
-        "title": "パランティアのCTO曰く「多くのAI研究者が、AIへの信仰の証として喫煙を始めている」 - YAMDAS現更新履歴",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-18T23:33:39+00:00",
-        "relevance_score": 8,
-        "url": "https://yamdas.hatenablog.com/entry/20261019/smoking-in-silicon-valley"
       }
     ],
     "github": [
@@ -112,6 +112,34 @@
         "published_at": "2026-10-19T03:30:07+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/when-ai-takes-your-side-in-a-workplace-conflict-20261016/"
+      },
+      {
+        "title": "Ensuring resilience in the face of uncertainty",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-19T00:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.bis.org/speeches/20261016-ensuring-resilience-face-uncertainty"
+      },
+      {
+        "title": "Partnerships for prosperity - unlocking regional potential",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-19T00:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.bis.org/speeches/20261016-partnerships-prosperity-unlocking-regional-potential"
+      },
+      {
+        "title": "Financial literacy towards an inclusive economy",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-19T00:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.bis.org/speeches/20261016-financial-literacy-towards-inclusive-economy"
+      },
+      {
+        "title": "Effective supervision through timely remediation",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-19T00:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.bis.org/speeches/20261016-effective-supervision-through-timely-remediation"
       }
     ],
     "security": [
@@ -295,11 +323,32 @@
         "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html"
       },
       {
+        "title": "Ensuring resilience in the face of uncertainty",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-19T00:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.bis.org/speeches/20261016-ensuring-resilience-face-uncertainty"
+      },
+      {
         "title": "Faster, smarter, but more fragile? Rethinking communications resilience in Southeast Asia",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-10-19T03:00:46+00:00",
         "relevance_score": 6,
         "url": "https://e27.co/faster-smarter-but-more-fragile-rethinking-communications-resilience-in-southeast-asia-20261016/"
+      },
+      {
+        "title": "Financial literacy towards an inclusive economy",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-19T00:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.bis.org/speeches/20261016-financial-literacy-towards-inclusive-economy"
+      },
+      {
+        "title": "Effective supervision through timely remediation",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-19T00:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.bis.org/speeches/20261016-effective-supervision-through-timely-remediation"
       }
     ]
   }

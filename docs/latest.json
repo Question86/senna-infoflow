@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T11:32:21+00:00",
-  "run_id": "2026-10-19T11:32:21+00:00",
+  "generated_at": "2026-10-19T11:43:25+00:00",
+  "run_id": "2026-10-19T11:43:25+00:00",
   "date": "2026-10-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 45
+      "configured_public_sources_only": 49
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 45,
-    "displayed_findings": 45,
+    "new_relevant_findings": 4,
+    "today_file_total": 49,
+    "displayed_findings": 49,
     "high": 0,
     "medium": 16,
-    "observe": 29,
+    "observe": 33,
     "source_errors": 0
   },
   "sections": {
@@ -993,6 +993,26 @@
         "id": "1d8c413c2c447fbce3a3"
       },
       {
+        "title": "Ensuring resilience in the face of uncertainty",
+        "url": "https://www.bis.org/speeches/20261016-ensuring-resilience-face-uncertainty",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-19T00:00:00+00:00",
+        "fetched_at": "2026-10-19T11:42:57+00:00",
+        "summary": "Keynote speech by Mr Frank Elderson, Member of the Executive Board of the European Central Bank and Vice-Chair of the Supervisory Board of the European Central Bank, at the ECB-Bank of England Conference on supervising climate risk in a non-linear world, Frankfurt am Main, 14 October 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2d4a1bf2786cf4727d97"
+      },
+      {
         "title": "Anthropic、社内でAIエージェントの稼働時間が人間の6倍に 技術系初級職の採用比率は27％→9％に激減",
         "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002353/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1117,6 +1137,66 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "48c275ea0b1f31f7bf92"
+      },
+      {
+        "title": "Partnerships for prosperity - unlocking regional potential",
+        "url": "https://www.bis.org/speeches/20261016-partnerships-prosperity-unlocking-regional-potential",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-19T00:00:00+00:00",
+        "fetched_at": "2026-10-19T11:42:57+00:00",
+        "summary": "Speech by Dr P Nandalal Weerasinghe, Governor of the Central Bank of Sri Lanka, at the 49th Annual General Meeting of the Association of Development Financing Institutions in Asia and the Pacific (ADFIAP), Colombo, 23 September 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "79233e778abe042917e9"
+      },
+      {
+        "title": "Financial literacy towards an inclusive economy",
+        "url": "https://www.bis.org/speeches/20261016-financial-literacy-towards-inclusive-economy",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-19T00:00:00+00:00",
+        "fetched_at": "2026-10-19T11:42:57+00:00",
+        "summary": "Keynote speech by Dr P Nandalal Weerasinghe, Governor of the Central Bank of Sri Lanka, at the Fin Lit Expo, Colombo, 8 October 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9899cc9c31f4e96ef908"
+      },
+      {
+        "title": "Effective supervision through timely remediation",
+        "url": "https://www.bis.org/speeches/20261016-effective-supervision-through-timely-remediation",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-10-19T00:00:00+00:00",
+        "fetched_at": "2026-10-19T11:42:57+00:00",
+        "summary": "Contribution by Mr Frank Elderson, Member of the Executive Board of the European Central Bank and Vice-Chair of the Supervisory Board of the European Central Bank, to the panel discussion “Effective supervision and enforcement” at the 17th FMA Supervisory Conference “Europe’s financial future: sovereignty and resilience”, hosted by the Austrian Financial Market Authority, Vienna, 6 October 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "39f91d3c4f1806732d4d"
       },
       {
         "title": "ソースネクスト、パスワードなぜ平文で流出 「暗号化していたが、鍵にアクセスできるシステムに侵入された」",
@@ -2209,6 +2289,26 @@
       "id": "1d8c413c2c447fbce3a3"
     },
     {
+      "title": "Ensuring resilience in the face of uncertainty",
+      "url": "https://www.bis.org/speeches/20261016-ensuring-resilience-face-uncertainty",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "fetched_at": "2026-10-19T11:42:57+00:00",
+      "summary": "Keynote speech by Mr Frank Elderson, Member of the Executive Board of the European Central Bank and Vice-Chair of the Supervisory Board of the European Central Bank, at the ECB-Bank of England Conference on supervising climate risk in a non-linear world, Frankfurt am Main, 14 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2d4a1bf2786cf4727d97"
+    },
+    {
       "title": "Anthropic、社内でAIエージェントの稼働時間が人間の6倍に 技術系初級職の採用比率は27％→9％に激減",
       "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002353/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2333,6 +2433,66 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "48c275ea0b1f31f7bf92"
+    },
+    {
+      "title": "Partnerships for prosperity - unlocking regional potential",
+      "url": "https://www.bis.org/speeches/20261016-partnerships-prosperity-unlocking-regional-potential",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "fetched_at": "2026-10-19T11:42:57+00:00",
+      "summary": "Speech by Dr P Nandalal Weerasinghe, Governor of the Central Bank of Sri Lanka, at the 49th Annual General Meeting of the Association of Development Financing Institutions in Asia and the Pacific (ADFIAP), Colombo, 23 September 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "79233e778abe042917e9"
+    },
+    {
+      "title": "Financial literacy towards an inclusive economy",
+      "url": "https://www.bis.org/speeches/20261016-financial-literacy-towards-inclusive-economy",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "fetched_at": "2026-10-19T11:42:57+00:00",
+      "summary": "Keynote speech by Dr P Nandalal Weerasinghe, Governor of the Central Bank of Sri Lanka, at the Fin Lit Expo, Colombo, 8 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9899cc9c31f4e96ef908"
+    },
+    {
+      "title": "Effective supervision through timely remediation",
+      "url": "https://www.bis.org/speeches/20261016-effective-supervision-through-timely-remediation",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "fetched_at": "2026-10-19T11:42:57+00:00",
+      "summary": "Contribution by Mr Frank Elderson, Member of the Executive Board of the European Central Bank and Vice-Chair of the Supervisory Board of the European Central Bank, to the panel discussion “Effective supervision and enforcement” at the 17th FMA Supervisory Conference “Europe’s financial future: sovereignty and resilience”, hosted by the Austrian Financial Market Authority, Vienna, 6 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "39f91d3c4f1806732d4d"
     },
     {
       "title": "ソースネクスト、パスワードなぜ平文で流出 「暗号化していたが、鍵にアクセスできるシステムに侵入された」",
@@ -2461,7 +2621,88 @@
       "id": "142272aaffc0585475d8"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Ensuring resilience in the face of uncertainty",
+      "url": "https://www.bis.org/speeches/20261016-ensuring-resilience-face-uncertainty",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "fetched_at": "2026-10-19T11:42:57+00:00",
+      "summary": "Keynote speech by Mr Frank Elderson, Member of the Executive Board of the European Central Bank and Vice-Chair of the Supervisory Board of the European Central Bank, at the ECB-Bank of England Conference on supervising climate risk in a non-linear world, Frankfurt am Main, 14 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2d4a1bf2786cf4727d97"
+    },
+    {
+      "title": "Effective supervision through timely remediation",
+      "url": "https://www.bis.org/speeches/20261016-effective-supervision-through-timely-remediation",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "fetched_at": "2026-10-19T11:42:57+00:00",
+      "summary": "Contribution by Mr Frank Elderson, Member of the Executive Board of the European Central Bank and Vice-Chair of the Supervisory Board of the European Central Bank, to the panel discussion “Effective supervision and enforcement” at the 17th FMA Supervisory Conference “Europe’s financial future: sovereignty and resilience”, hosted by the Austrian Financial Market Authority, Vienna, 6 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "39f91d3c4f1806732d4d"
+    },
+    {
+      "title": "Financial literacy towards an inclusive economy",
+      "url": "https://www.bis.org/speeches/20261016-financial-literacy-towards-inclusive-economy",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "fetched_at": "2026-10-19T11:42:57+00:00",
+      "summary": "Keynote speech by Dr P Nandalal Weerasinghe, Governor of the Central Bank of Sri Lanka, at the Fin Lit Expo, Colombo, 8 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9899cc9c31f4e96ef908"
+    },
+    {
+      "title": "Partnerships for prosperity - unlocking regional potential",
+      "url": "https://www.bis.org/speeches/20261016-partnerships-prosperity-unlocking-regional-potential",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "fetched_at": "2026-10-19T11:42:57+00:00",
+      "summary": "Speech by Dr P Nandalal Weerasinghe, Governor of the Central Bank of Sri Lanka, at the 49th Annual General Meeting of the Association of Development Financing Institutions in Asia and the Pacific (ADFIAP), Colombo, 23 September 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "79233e778abe042917e9"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
