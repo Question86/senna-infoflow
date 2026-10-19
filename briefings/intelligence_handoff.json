@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-19T09:44:14Z",
+  "generated_at": "2026-10-19T09:56:45Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] Fortinet FortiOS, FortiProxy und FortiSwitch: Schwachstelle ermöglicht Manipulation von Dateien” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1096",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T07:45:52+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -36,11 +36,37 @@
       "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Fortinet FortiOS, Fortinet FortiProxy und Fortinet FortiSwitch ausnutzen, um Dateien zu manipulieren."
     },
     {
+      "title": "Sicherheitslücken in Fortinet-Produkten und BeyondTrust werden attackiert",
+      "url": "https://www.heise.de/news/Cyberangriffe-auf-Sicherheitsluecken-in-Fortinet-Produkten-und-BeyondTrust-11492254.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-10-19T09:25:00.000+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 27.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: active, exploitation, angriffe",
+        "security high-signal: active, exploitation, angriffe, remote"
+      ],
+      "summary": "Die US-Sicherheitsbehörde CISA warnt vor laufenden Angriffen auf Lücken in Fortinet-Produkten und BeyondTrust Remote Support."
+    },
+    {
       "title": "ヤマハ製VOCALOID6 Editorにおける外部エンティティ参照の不適切な制限の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU93520490/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-19T10:00:00+09:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -60,11 +86,38 @@
       "summary": "ヤマハ株式会社が提供するVOCALOID6 Editorには、外部エンティティ参照の不適切な制限の脆弱性が存在します。"
     },
     {
+      "title": "The AI exit window is wide open. Southeast Asia isn’t standing anywhere near it",
+      "url": "https://e27.co/the-ai-exit-window-is-wide-open-southeast-asia-isnt-standing-anywhere-near-it-20261019/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-19T09:37:47+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "security high-signal: 10",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Last week, Amazon was reported to be in talks to pay around US$7 billion for Decart, a three-year-old startup valued at just under US$4 billion in May. Cohere signed a letter of intent to buy AI security startup AISLE. Prime Intellect snapped up Moondream. Bumble agreed to a US$1.3 billion take-private. And that was a…"
+    },
+    {
       "title": "[UPDATE] [mittel] Devolutions Server: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3993",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T09:15:52+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -90,7 +143,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3973",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T09:15:52+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -116,7 +169,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3982",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T09:15:52+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -168,7 +221,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3979",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T09:15:52+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -193,7 +246,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 122.32,
+      "age_days": 122.33,
       "topics": [
         "ai"
       ],
@@ -222,7 +275,7 @@
       "url": "https://e27.co/faster-smarter-but-more-fragile-rethinking-communications-resilience-in-southeast-asia-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T03:00:46+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -247,31 +300,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-19T08:37:31.402+00:00",
-      "age_days": 0.05,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 21.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "PAGER - GREEN ShakeMap - III Time 2026-10-19 08:12:38 UTC 2026-10-19 08:12:38 UTC at epicenter Location 14.139°S 165.638°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 5.9 - 185 km NW of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bc",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-19T08:15:05.817+00:00",
       "age_days": 0.06,
       "topics": [
         "disaster"
@@ -290,31 +318,7 @@
         "early terms: earthquake",
         "high terms: 10"
       ],
-      "summary": "PAGER - GREEN ShakeMap - IV Time 2026-10-19 07:49:04 UTC 2026-10-19 07:49:04 UTC at epicenter Location 14.026°S 165.705°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "Will the upcoming Federal Reserve meeting crush the bullish push toward the US$84,000 target?",
-      "url": "https://e27.co/will-the-upcoming-federal-reserve-meeting-crush-the-bullish-push-toward-the-us84000-target-20261019/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-19T04:59:33+00:00",
-      "age_days": 0.2,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 20.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "Global financial ecosystems present a fascinating landscape today, as virtual currencies are in a modest recovery phase. Bitcoin leads this upward trajectory, up 0.94 per cent over the past 24 hours. The premier cryptocurrency trades at exactly US$82,204.31. This price action slightly outperforms a broadly flat digita…"
+      "summary": "PAGER - GREEN ShakeMap - III Time 2026-10-19 08:12:38 UTC 2026-10-19 08:12:38 UTC at epicenter Location 14.139°S 165.638°E Depth 10.00 km (6.21 mi)"
     }
   ],
   "read_order": [
@@ -326,8 +330,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "krass": 1,
-      "strong": 11
+      "krass": 2,
+      "strong": 10
     }
   }
 }

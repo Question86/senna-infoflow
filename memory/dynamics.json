@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-19T09:44:14Z",
+  "generated_at": "2026-10-19T09:56:45Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 37,
+    "dynamics": 39,
     "bands": {
-      "krass": 6,
+      "krass": 8,
       "strong": 6,
       "watch": 6,
       "quiet": 19
     },
     "bands_after_gate_recheck": {
-      "krass": 1,
-      "strong": 11,
+      "krass": 2,
+      "strong": 12,
       "watch": 6,
       "quiet": 19
     }
@@ -24,7 +24,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1096",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T07:45:52+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -45,11 +45,37 @@
       "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Fortinet FortiOS, Fortinet FortiProxy und Fortinet FortiSwitch ausnutzen, um Dateien zu manipulieren."
     },
     {
+      "title": "Sicherheitslücken in Fortinet-Produkten und BeyondTrust werden attackiert",
+      "url": "https://www.heise.de/news/Cyberangriffe-auf-Sicherheitsluecken-in-Fortinet-Produkten-und-BeyondTrust-11492254.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-10-19T09:25:00.000+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 27.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: active, exploitation, angriffe",
+        "security high-signal: active, exploitation, angriffe, remote"
+      ],
+      "summary": "Die US-Sicherheitsbehörde CISA warnt vor laufenden Angriffen auf Lücken in Fortinet-Produkten und BeyondTrust Remote Support."
+    },
+    {
       "title": "ヤマハ製VOCALOID6 Editorにおける外部エンティティ参照の不適切な制限の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU93520490/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-19T10:00:00+09:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -69,11 +95,38 @@
       "summary": "ヤマハ株式会社が提供するVOCALOID6 Editorには、外部エンティティ参照の不適切な制限の脆弱性が存在します。"
     },
     {
+      "title": "The AI exit window is wide open. Southeast Asia isn’t standing anywhere near it",
+      "url": "https://e27.co/the-ai-exit-window-is-wide-open-southeast-asia-isnt-standing-anywhere-near-it-20261019/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-19T09:37:47+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "security high-signal: 10",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Last week, Amazon was reported to be in talks to pay around US$7 billion for Decart, a three-year-old startup valued at just under US$4 billion in May. Cohere signed a letter of intent to buy AI security startup AISLE. Prime Intellect snapped up Moondream. Bumble agreed to a US$1.3 billion take-private. And that was a…"
+    },
+    {
       "title": "[UPDATE] [mittel] Devolutions Server: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3993",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T09:15:52+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -99,7 +152,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3973",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T09:15:52+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -125,7 +178,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3982",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T09:15:52+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -177,7 +230,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3979",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T09:15:52+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -202,7 +255,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 122.32,
+      "age_days": 122.33,
       "topics": [
         "ai"
       ],
@@ -231,7 +284,7 @@
       "url": "https://e27.co/faster-smarter-but-more-fragile-rethinking-communications-resilience-in-southeast-asia-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T03:00:46+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -256,7 +309,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-19T08:37:31.402+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -281,7 +334,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-19T08:15:05.817+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -306,7 +359,7 @@
       "url": "https://e27.co/will-the-upcoming-federal-reserve-meeting-crush-the-bullish-push-toward-the-us84000-target-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T04:59:33+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "macro"
       ],
@@ -330,7 +383,7 @@
       "url": "https://e27.co/telcos-are-racing-to-put-ai-in-the-app-their-subscribers-have-already-said-which-kind-they-will-trust-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T01:00:24+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "macro"
@@ -357,7 +410,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-19T09:27:18.841+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -382,7 +435,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-19T08:41:07.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -407,7 +460,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3be",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-19T08:12:11.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -432,7 +485,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ar",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-19T06:46:54.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -481,7 +534,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002372/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-19T04:15:53+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -505,7 +558,7 @@
       "url": "https://www.du-soleil.com/entry/iot-cyber-attack-physical-terror",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-19T02:34:05+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "ai",
         "security"
@@ -530,7 +583,7 @@
       "url": "https://e27.co/gen-z-is-bringing-its-own-ai-to-work-singapores-smes-need-rules-not-bans-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T04:15:09+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -556,7 +609,7 @@
       "url": "https://e27.co/dealing-with-shadow-ai-what-companies-should-do-instead-of-banning-ai-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T02:00:15+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "ai"
       ],
@@ -582,7 +635,7 @@
       "url": "https://e27.co/beyond-play-to-earn-14-southeast-asian-gaming-and-sports-tech-startups-still-in-the-game-20261018/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T04:20:54+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -633,7 +686,7 @@
       "url": "https://e27.co/when-ai-takes-your-side-in-a-workplace-conflict-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T03:30:07+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "ai",
         "macro"
@@ -686,7 +739,7 @@
       "url": "https://yamdas.hatenablog.com/entry/20261019/smoking-in-silicon-valley",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T23:33:39+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "ai"
       ],
@@ -712,7 +765,7 @@
       "url": "https://av.watch.impress.co.jp/docs/news/2149179.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-19T02:48:44+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -736,7 +789,7 @@
       "url": "https://e27.co/singapore-employers-say-they-offer-burnout-support-half-their-staff-say-theyve-never-seen-it-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T05:15:28+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -762,7 +815,7 @@
       "url": "https://aws.amazon.com/jp/blogs/news/incident-response-guide-for-aws-cloudtrail-investigations-part-1/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T12:44:57+00:00",
-      "age_days": 0.87,
+      "age_days": 0.88,
       "topics": [
         "ai"
       ],
@@ -787,7 +840,7 @@
       "url": "https://www.gamespark.jp/article/2026/10/19/173774.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-19T02:58:33+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -813,7 +866,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/17/news009.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T00:54:51+00:00",
-      "age_days": 1.37,
+      "age_days": 1.38,
       "topics": [
         "ai"
       ],
@@ -839,7 +892,7 @@
       "url": "https://tech.findy.co.jp/entry/2026/10/16/120000",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T03:30:41+00:00",
-      "age_days": 3.26,
+      "age_days": 3.27,
       "topics": [
         "ai"
       ],
@@ -865,7 +918,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 121.29,
+      "age_days": 121.3,
       "topics": [
         "general"
       ],
@@ -890,7 +943,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 121.29,
+      "age_days": 121.3,
       "topics": [
         "general"
       ],
@@ -915,7 +968,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 121.29,
+      "age_days": 121.3,
       "topics": [
         "ai"
       ],
