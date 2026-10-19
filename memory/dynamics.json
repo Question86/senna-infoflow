@@ -1,19 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-19T06:06:44Z",
+  "generated_at": "2026-10-19T06:50:26Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 19,
+    "dynamics": 23,
     "bands": {
+      "krass": 1,
       "strong": 4,
-      "watch": 1,
-      "quiet": 14
+      "watch": 2,
+      "quiet": 16
     },
     "bands_after_gate_recheck": {
-      "strong": 4,
-      "watch": 1,
-      "quiet": 14
+      "strong": 5,
+      "watch": 2,
+      "quiet": 16
     }
   },
   "top_dynamics": [
@@ -22,7 +23,7 @@
       "url": "https://jvn.jp/vu/JVNVU93520490/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-19T10:00:00+09:00",
-      "age_days": 0.21,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -42,11 +43,37 @@
       "summary": "ヤマハ株式会社が提供するVOCALOID6 Editorには、外部エンティティ参照の不適切な制限の脆弱性が存在します。"
     },
     {
+      "title": "Points beat percentages: Why three in four Singaporeans think their spare cash is underperforming",
+      "url": "https://e27.co/points-beat-percentages-why-three-in-four-singaporeans-think-their-spare-cash-is-underperforming-20261019/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-19T06:00:13+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce, 10",
+        "security high-signal: rce, 10",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "A Singaporean who will argue over a 50-cent difference in cashback at a hawker centre may have no idea what their savings account pays. New research suggests that person is the norm. Some 89 per cent of Singapore residents hold spare cash, according to a survey of 1,000 people conducted by research firm Milieu. Among…"
+    },
+    {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 122.17,
+      "age_days": 122.2,
       "topics": [
         "ai"
       ],
@@ -75,7 +102,7 @@
       "url": "https://e27.co/faster-smarter-but-more-fragile-rethinking-communications-resilience-in-southeast-asia-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T03:00:46+00:00",
-      "age_days": 0.13,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -100,7 +127,7 @@
       "url": "https://e27.co/will-the-upcoming-federal-reserve-meeting-crush-the-bullish-push-toward-the-us84000-target-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T04:59:33+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "macro"
       ],
@@ -124,7 +151,7 @@
       "url": "https://e27.co/telcos-are-racing-to-put-ai-in-the-app-their-subscribers-have-already-said-which-kind-they-will-trust-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T01:00:24+00:00",
-      "age_days": 0.21,
+      "age_days": 0.24,
       "topics": [
         "ai",
         "macro"
@@ -147,11 +174,59 @@
       "summary": "At M360 ASEAN in Kuala Lumpur last week, the GSMA released its ASEAN Consumer Scam Report 2026. Nearly half of reported scam cases across six markets remain unresolved. Nearly nine in ten consumers said they had recognised AI being used in scams, from deepfakes to voice cloning. Julian Gorman, the GSMA’s head of Asia…"
     },
     {
+      "title": "Frank Elderson: From climate and nature risks to economic resilience and competitiveness",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "published_at": "2026-10-19T06:00:00+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "Frank Elderson: From climate and nature risks to economic resilience and competitiveness"
+    },
+    {
+      "title": "ソースネクスト、パスワードなぜ平文で流出 「暗号化していたが、鍵にアクセスできるシステムに侵入された」",
+      "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002372/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-19T04:15:53+00:00",
+      "age_days": 0.11,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "ソースネクストの会員情報取得APIが不正アクセスを受け、最大約2252万件の氏名や住所、パスワードなどが漏えいした問題をめぐり、一部で「パスワードは平文で保存されていたのではないか」との見方が出ている。 同社の広報担当者はITmedia NEWSの取材に対して、「パスワードは暗号化して保存していた」と述べる一方、「..."
+    },
+    {
       "title": "AIの反乱よりもトクリュウによるスマートロックやスマート家電へのサイバー攻撃による同時多発的なフィジカルテロルのが怖い - 太陽がまぶしかったから",
       "url": "https://www.du-soleil.com/entry/iot-cyber-attack-physical-terror",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-19T02:34:05+00:00",
-      "age_days": 0.15,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "security"
@@ -176,7 +251,7 @@
       "url": "https://e27.co/gen-z-is-bringing-its-own-ai-to-work-singapores-smes-need-rules-not-bans-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T04:15:09+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -202,7 +277,7 @@
       "url": "https://e27.co/dealing-with-shadow-ai-what-companies-should-do-instead-of-banning-ai-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T02:00:15+00:00",
-      "age_days": 0.17,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -228,7 +303,7 @@
       "url": "https://e27.co/beyond-play-to-earn-14-southeast-asian-gaming-and-sports-tech-startups-still-in-the-game-20261018/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T04:20:54+00:00",
-      "age_days": 0.07,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -251,11 +326,35 @@
       "summary": "Southeast Asia has spent the last decade trying to turn its obsession with play into businesses. Some bets worked spectacularly, some blew up just as spectacularly, and a surprising number of the best ones never raised much venture money at all. The Web3 gaming boom of 2021 is the cautionary tale everyone remembers: b…"
     },
     {
+      "title": "マイナンバー制度における制度解説の情報連携に係る資料を更新しました",
+      "url": "https://www.digital.go.jp/policies/mynumber/explanation",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-10-19T06:00:00+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "マイナンバー制度における制度解説の情報連携に係る資料を更新しました"
+    },
+    {
       "title": "When AI takes your side in a workplace conflict",
       "url": "https://e27.co/when-ai-takes-your-side-in-a-workplace-conflict-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T03:30:07+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "macro"
@@ -282,7 +381,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002353/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T23:45:01+00:00",
-      "age_days": 0.27,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -308,7 +407,7 @@
       "url": "https://e27.co/singapore-employers-say-they-offer-burnout-support-half-their-staff-say-theyve-never-seen-it-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T05:15:28+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -334,7 +433,7 @@
       "url": "https://aws.amazon.com/jp/blogs/news/incident-response-guide-for-aws-cloudtrail-investigations-part-1/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T12:44:57+00:00",
-      "age_days": 0.72,
+      "age_days": 0.75,
       "topics": [
         "ai"
       ],
@@ -359,7 +458,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/17/news009.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T00:54:51+00:00",
-      "age_days": 1.22,
+      "age_days": 1.25,
       "topics": [
         "ai"
       ],
@@ -385,7 +484,7 @@
       "url": "https://tech.findy.co.jp/entry/2026/10/16/120000",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-16T03:30:41+00:00",
-      "age_days": 3.11,
+      "age_days": 3.14,
       "topics": [
         "ai"
       ],
@@ -411,7 +510,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 121.14,
+      "age_days": 121.17,
       "topics": [
         "general"
       ],
@@ -427,7 +526,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 121.1d old signal"
+        "aging penalty -16.0 for 121.2d old signal"
       ],
       "summary": ""
     },
@@ -436,7 +535,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 121.14,
+      "age_days": 121.17,
       "topics": [
         "general"
       ],
@@ -452,7 +551,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 121.1d old signal"
+        "aging penalty -16.0 for 121.2d old signal"
       ],
       "summary": ""
     },
@@ -461,7 +560,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 121.14,
+      "age_days": 121.17,
       "topics": [
         "ai"
       ],
@@ -478,7 +577,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 121.1d old signal",
+        "aging penalty -16.0 for 121.2d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -488,7 +587,7 @@
       "url": "https://qiita.com/ebichan_88/items/f7c44c74e437875b1399",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-18T10:34:03+00:00",
-      "age_days": 0.81,
+      "age_days": 0.84,
       "topics": [
         "ai"
       ],
