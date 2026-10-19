@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-19T10:56:18+00:00_
+_Generiert: 2026-10-19T11:02:07+00:00_
 
 ## Kurzlage
 
-39 neue relevante Treffer. Stärkstes Signal: „Will developing nations be able to handle millions of AI agents?“ aus Rest of World Global Tech Feed (Score 22, opportunity).
+41 neue relevante Treffer. Stärkstes Signal: „Will developing nations be able to handle millions of AI agents?“ aus Rest of World Global Tech Feed (Score 22, opportunity).
 
 ## Priorität Hoch
 
@@ -57,6 +57,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
   - Kurz: Ein lokaler Angreifer kann eine Schwachstelle in Fortinet FortiOS, Fortinet FortiProxy und Fortinet FortiSwitch ausnutzen, um Dateien zu manipulieren.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.7 - 53 km NNE of Labuan Bajo, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3c5)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-19T11:00:26.040+00:00`, fetched `2026-10-19T11:01:35+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-19 10:10:56 UTC 2026-10-19 10:10:56 UTC at epicenter Location 8.087°S 120.145°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.9 - 54 km NE of Labuan Bajo, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3c1)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-19T10:13:09.040+00:00`, fetched `2026-10-19T10:27:57+00:00`
@@ -141,6 +150,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: A Singaporean who will argue over a 50-cent difference in cashback at a hawker centre may have no idea what their savings account pays. New research suggests that person is the norm. Some 89 per cent of Singapore residents hold spare cash, according to a survey of 1,000 people conducted by research firm Milieu. Among […] The post Points beat percentages: Why three in four Singaporeans think their spare cash is under…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.4 - 196 km NW of Port-Olry, Vanuatu** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3c6)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-19T11:00:18.902+00:00`, fetched `2026-10-19T11:01:35+00:00`
+  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: ShakeMap - I Time 2026-10-19 10:40:21 UTC 2026-10-19 10:40:21 UTC at epicenter Location 14.038°S 165.569°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Sicherheitslücken in Fortinet-Produkten und BeyondTrust werden attackiert** — Score 10, observation — [Quelle](https://www.heise.de/news/Cyberangriffe-auf-Sicherheitsluecken-in-Fortinet-Produkten-und-BeyondTrust-11492254.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-10-19T09:25:00.000+00:00`, fetched `2026-10-19T09:49:13+00:00`
@@ -177,15 +195,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Amazon Web Services ブログ AWS CloudTrail を使ったインシデント調査・対応ガイド – パート 1 本ブログは 2026 年 9 月 3 日に公開された AWS Blog “Incident response guide for AWS CloudTrail investigations – Part 1” を翻訳したものです。 AWS CloudTrail ログには、AWS 環境で疑わしいアクティビティを調査する...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.5 - 2 km W of Lunca Jariștei, Romania** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bs)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-19T09:27:18.841+00:00`, fetched `2026-10-19T09:31:23+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: DYFI? - III Time 2026-10-19 08:51:57 UTC 2026-10-19 08:51:57 UTC at epicenter Location 45.481°N 26.217°E Depth 124.75 km (77.52 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Frank Elderson: From climate and nature risks to economic resilience and competitiveness** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-10-19T06:00:00+00:00`, fetched `2026-10-19T06:44:21+00:00`
