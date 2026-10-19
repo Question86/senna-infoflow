@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T03:24:14+00:00",
-  "run_id": "2026-10-19T03:24:14+00:00",
+  "generated_at": "2026-10-19T03:41:49+00:00",
+  "run_id": "2026-10-19T03:41:49+00:00",
   "date": "2026-10-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 8
+      "configured_public_sources_only": 9
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 8,
-    "displayed_findings": 8,
+    "today_file_total": 9,
+    "displayed_findings": 9,
     "high": 0,
     "medium": 2,
-    "observe": 6,
+    "observe": 7,
     "source_errors": 0
   },
   "sections": {
@@ -107,6 +107,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "b6c2bc72e5316082e747"
+      },
+      {
+        "title": "When AI takes your side in a workplace conflict",
+        "url": "https://e27.co/when-ai-takes-your-side-in-a-workplace-conflict-20261016/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-19T03:30:07+00:00",
+        "fetched_at": "2026-10-19T03:41:16+00:00",
+        "summary": "Workplace conflict rarely arrives as a clean set of facts. By the time we decide that a manager is undermining us, a colleague is being deliberately difficult, or someone on the team cannot be trusted, we have usually spent some time interpreting what happened. We have noticed particular behaviours, connected them with earlier experiences, filled […] The post When AI takes your side in a workplace conflict appeared…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "02d54c82527030226e70"
       },
       {
         "title": "AIの反乱よりもトクリュウによるスマートロックやスマート家電へのサイバー攻撃による同時多発的なフィジカルテロルのが怖い - 太陽がまぶしかったから",
@@ -295,6 +316,27 @@
       "id": "b6c2bc72e5316082e747"
     },
     {
+      "title": "When AI takes your side in a workplace conflict",
+      "url": "https://e27.co/when-ai-takes-your-side-in-a-workplace-conflict-20261016/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-19T03:30:07+00:00",
+      "fetched_at": "2026-10-19T03:41:16+00:00",
+      "summary": "Workplace conflict rarely arrives as a clean set of facts. By the time we decide that a manager is undermining us, a colleague is being deliberately difficult, or someone on the team cannot be trusted, we have usually spent some time interpreting what happened. We have noticed particular behaviours, connected them with earlier experiences, filled […] The post When AI takes your side in a workplace conflict appeared…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "02d54c82527030226e70"
+    },
+    {
       "title": "AIの反乱よりもトクリュウによるスマートロックやスマート家電へのサイバー攻撃による同時多発的なフィジカルテロルのが怖い - 太陽がまぶしかったから",
       "url": "https://www.du-soleil.com/entry/iot-cyber-attack-physical-terror",
       "source": "Hatena Bookmark Hotentry IT",
@@ -403,25 +445,25 @@
   ],
   "new_findings": [
     {
-      "title": "Faster, smarter, but more fragile? Rethinking communications resilience in Southeast Asia",
-      "url": "https://e27.co/faster-smarter-but-more-fragile-rethinking-communications-resilience-in-southeast-asia-20261016/",
+      "title": "When AI takes your side in a workplace conflict",
+      "url": "https://e27.co/when-ai-takes-your-side-in-a-workplace-conflict-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-10-19T03:00:46+00:00",
-      "fetched_at": "2026-10-19T03:23:37+00:00",
-      "summary": "Southeast Asia has spent the past decade moving rapidly towards a more connected future. Fibre networks have replaced much of the region’s older copper infrastructure, smartphones have become the primary gateway to services, and communications, payments, government functions and commerce have increasingly shifted online. That transition has brought enormous benefits, but it has also created […] The post Faster, smar…",
+      "published_at": "2026-10-19T03:30:07+00:00",
+      "fetched_at": "2026-10-19T03:41:16+00:00",
+      "summary": "Workplace conflict rarely arrives as a clean set of facts. By the time we decide that a manager is undermining us, a colleague is being deliberately difficult, or someone on the team cannot be trusted, we have usually spent some time interpreting what happened. We have noticed particular behaviours, connected them with earlier experiences, filled […] The post When AI takes your side in a workplace conflict appeared…",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Southeast Asia"
+        "AI/KI",
+        "APAC Trend Radar"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)",
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "48c275ea0b1f31f7bf92"
+      "id": "02d54c82527030226e70"
     }
   ],
   "source_errors": [],
