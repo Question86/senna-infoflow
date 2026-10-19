@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-19T22:03:12Z",
+  "generated_at": "2026-10-19T22:22:51Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 1,
       "krass": 20,
-      "strong": 15,
-      "watch": 4
+      "strong": 16,
+      "watch": 3
     },
     "bands_after_gate_recheck": {
       "krass": 2,
-      "strong": 34,
-      "watch": 4
+      "strong": 35,
+      "watch": 3
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1096",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T07:45:52+00:00",
-      "age_days": 0.6,
+      "age_days": 0.61,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://www.heise.de/news/Cyberangriffe-auf-Sicherheitsluecken-in-Fortinet-Produkten-und-BeyondTrust-11492254.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-19T09:25:00.000+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "ai",
         "security"
@@ -74,7 +74,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4027",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T15:15:55+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -98,7 +98,7 @@
       "url": "https://jvn.jp/vu/JVNVU93520490/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-19T10:00:00+09:00",
-      "age_days": 0.88,
+      "age_days": 0.89,
       "topics": [
         "security"
       ],
@@ -122,7 +122,7 @@
       "url": "https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-10-19T10:00:00+00:00",
-      "age_days": 0.5,
+      "age_days": 0.52,
       "topics": [
         "ai",
         "macro"
@@ -151,7 +151,7 @@
       "url": "https://elkentaro.github.io/jp_incidents/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-19T12:32:44+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "ai",
         "security"
@@ -177,7 +177,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3588",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T12:06:04+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -203,7 +203,7 @@
       "url": "https://e27.co/the-ai-exit-window-is-wide-open-southeast-asia-isnt-standing-anywhere-near-it-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T09:37:47+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "ai",
         "security"
@@ -230,7 +230,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1703",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T13:12:35+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "ai",
         "security"
@@ -257,7 +257,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3993",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T09:15:52+00:00",
-      "age_days": 0.53,
+      "age_days": 0.55,
       "topics": [
         "security"
       ],
@@ -283,7 +283,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3973",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T09:15:52+00:00",
-      "age_days": 0.53,
+      "age_days": 0.55,
       "topics": [
         "security"
       ],
@@ -309,7 +309,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3982",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T09:15:52+00:00",
-      "age_days": 0.53,
+      "age_days": 0.55,
       "topics": [
         "security"
       ],
@@ -335,7 +335,7 @@
       "url": "https://www.bis.org/speeches/20261016-effective-supervision-through-timely-remediation",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-19T00:00:00+00:00",
-      "age_days": 0.92,
+      "age_days": 0.93,
       "topics": [
         "ai",
         "macro"
@@ -364,7 +364,7 @@
       "url": "https://e27.co/points-beat-percentages-why-three-in-four-singaporeans-think-their-spare-cash-is-underperforming-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T06:00:13+00:00",
-      "age_days": 0.67,
+      "age_days": 0.68,
       "topics": [
         "general"
       ],
@@ -390,7 +390,7 @@
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1306/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-14T00:00:00+00:00",
-      "age_days": 5.92,
+      "age_days": 5.93,
       "topics": [
         "ai",
         "security"
@@ -417,7 +417,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2053",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T13:12:36+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "security"
       ],
@@ -442,7 +442,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0935",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T13:12:32+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "security"
       ],
@@ -467,7 +467,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3822",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T11:05:08+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "security"
       ],
@@ -492,7 +492,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3804",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T11:05:08+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "security"
       ],
@@ -517,7 +517,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3951",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T11:05:08+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "security"
       ],
@@ -542,7 +542,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3979",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-19T09:15:52+00:00",
-      "age_days": 0.53,
+      "age_days": 0.55,
       "topics": [
         "security"
       ],
@@ -567,7 +567,7 @@
       "url": "https://gmo-cybersecurity.com/blog/20261019/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-19T07:45:02+00:00",
-      "age_days": 0.6,
+      "age_days": 0.61,
       "topics": [
         "ai",
         "security"
@@ -594,7 +594,7 @@
       "url": "https://www.bis.org/speeches/20261019-building-trusted-foundations-digital-finance",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-19T00:00:00+00:00",
-      "age_days": 0.92,
+      "age_days": 0.93,
       "topics": [
         "ai",
         "macro"
@@ -622,7 +622,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 122.84,
+      "age_days": 122.85,
       "topics": [
         "ai"
       ],
@@ -641,17 +641,42 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 122.8d old signal",
+        "aging penalty -8.0 for 122.9d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
+    },
+    {
+      "title": "Copilot model policy API for enterprise, orgs, and teams",
+      "url": "https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-10-19T21:32:18+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "security high-signal: 10"
+      ],
+      "summary": "You can now use the REST API to retrieve and update Copilot model policies for enterprises, enterprise teams, enterprise apps, and organizations. What’s new GET and PATCH endpoints are now… The post Copilot model policy API for enterprise, orgs, and teams appeared first on The GitHub Blog ."
     },
     {
       "title": "Faster, smarter, but more fragile? Rethinking communications resilience in Southeast Asia",
       "url": "https://e27.co/faster-smarter-but-more-fragile-rethinking-communications-resilience-in-southeast-asia-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T03:00:46+00:00",
-      "age_days": 0.79,
+      "age_days": 0.81,
       "topics": [
         "ai"
       ],
@@ -676,7 +701,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ch",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-19T12:22:21.040+00:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "disaster"
       ],
@@ -701,7 +726,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3c5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-19T11:00:26.040+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "disaster"
       ],
@@ -726,7 +751,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3c1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-19T10:13:09.040+00:00",
-      "age_days": 0.49,
+      "age_days": 0.51,
       "topics": [
         "disaster"
       ],
@@ -751,7 +776,7 @@
       "url": "https://www.bis.org/speeches/20261019-ai-opportunity-europe",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-19T00:00:00+00:00",
-      "age_days": 0.92,
+      "age_days": 0.93,
       "topics": [
         "ai",
         "macro"
@@ -779,7 +804,7 @@
       "url": "https://www.bis.org/speeches/20261016-partnerships-prosperity-unlocking-regional-potential",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-19T00:00:00+00:00",
-      "age_days": 0.92,
+      "age_days": 0.93,
       "topics": [
         "ai",
         "macro"
@@ -808,7 +833,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ga",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-19T19:18:22.266+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -833,7 +858,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-19T08:37:31.402+00:00",
-      "age_days": 0.56,
+      "age_days": 0.57,
       "topics": [
         "disaster"
       ],
@@ -858,7 +883,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3bc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-19T08:15:05.817+00:00",
-      "age_days": 0.58,
+      "age_days": 0.59,
       "topics": [
         "disaster"
       ],
@@ -883,7 +908,7 @@
       "url": "https://www.bis.org/speeches/20261019-opening-remarks-beyond-cycle-growth-innovation-and-resilience-chinese-economy-conference",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-19T00:00:00+00:00",
-      "age_days": 0.92,
+      "age_days": 0.93,
       "topics": [
         "macro"
       ],
@@ -909,7 +934,7 @@
       "url": "https://www.bis.org/speeches/20261016-ensuring-resilience-face-uncertainty",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-19T00:00:00+00:00",
-      "age_days": 0.92,
+      "age_days": 0.93,
       "topics": [
         "ai",
         "macro"
@@ -937,7 +962,7 @@
       "url": "https://e27.co/will-the-upcoming-federal-reserve-meeting-crush-the-bullish-push-toward-the-us84000-target-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-19T04:59:33+00:00",
-      "age_days": 0.71,
+      "age_days": 0.72,
       "topics": [
         "macro"
       ],
@@ -961,7 +986,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026usthoq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-19T16:48:15.853+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -986,7 +1011,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3c7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-19T11:18:55.040+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "disaster"
       ],
@@ -1011,7 +1036,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3c6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-19T11:00:18.902+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "disaster"
       ],
@@ -1030,33 +1055,6 @@
         "high terms: 10"
       ],
       "summary": "ShakeMap - I Time 2026-10-19 10:40:21 UTC 2026-10-19 10:40:21 UTC at epicenter Location 14.038°S 165.569°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "Telcos are racing to put AI in the app. Their subscribers have already said which kind they will trust",
-      "url": "https://e27.co/telcos-are-racing-to-put-ai-in-the-app-their-subscribers-have-already-said-which-kind-they-will-trust-20261010/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-19T01:00:24+00:00",
-      "age_days": 0.88,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "At M360 ASEAN in Kuala Lumpur last week, the GSMA released its ASEAN Consumer Scam Report 2026. Nearly half of reported scam cases across six markets remain unresolved. Nearly nine in ten consumers said they had recognised AI being used in scams, from deepfakes to voice cloning. Julian Gorman, the GSMA’s head of Asia…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] Fortinet FortiOS, FortiProxy und FortiSwitch: Schwachstelle ermöglicht Manipulation von Dateien” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
