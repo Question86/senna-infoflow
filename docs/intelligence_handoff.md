@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-19T05:03:38Z_
+_Generated: 2026-10-19T05:26:06Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “ヤマハ製VOCALOID6 Editorにおける
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-10-19T10:00:00+09:00` / age_days `0.17`
+- Published: `2026-10-19T10:00:00+09:00` / age_days `0.18`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “ヤマハ製VOCALOID6 Editorにおける
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `122.13`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `122.14`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 122.1d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “ヤマハ製VOCALOID6 Editorにおける
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-10-19T03:00:46+00:00` / age_days `0.09`
+- Published: `2026-10-19T03:00:46+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, 10, security high-signal: rce, 10
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “ヤマハ製VOCALOID6 Editorにおける
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.0`
-- Published: `2026-10-19T04:59:33+00:00` / age_days `0.0`
+- Published: `2026-10-19T04:59:33+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “ヤマハ製VOCALOID6 Editorにおける
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-19T01:00:24+00:00` / age_days `0.17`
+- Published: `2026-10-19T01:00:24+00:00` / age_days `0.18`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “ヤマハ製VOCALOID6 Editorにおける
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `8.0`
-- Published: `2026-10-19T02:34:05+00:00` / age_days `0.1`
+- Published: `2026-10-19T02:34:05+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “ヤマハ製VOCALOID6 Editorにおける
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `7.0`
-- Published: `2026-10-19T04:15:09+00:00` / age_days `0.03`
+- Published: `2026-10-19T04:15:09+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “ヤマハ製VOCALOID6 Editorにおける
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `7.0`
-- Published: `2026-10-19T02:00:15+00:00` / age_days `0.13`
+- Published: `2026-10-19T02:00:15+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “ヤマハ製VOCALOID6 Editorにおける
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `7.0`
-- Published: `2026-10-19T04:20:54+00:00` / age_days `0.03`
+- Published: `2026-10-19T04:20:54+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: early terms: chain, high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -102,30 +102,30 @@ Stärkste Dynamik nach Gate-Recheck: “ヤマハ製VOCALOID6 Editorにおける
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-10-19T03:30:07+00:00` / age_days `0.06`
+- Published: `2026-10-19T03:30:07+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://e27.co/when-ai-takes-your-side-in-a-workplace-conflict-20261016/
 
+### Singapore employers say they offer burnout support. Half their staff say they’ve never seen it
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `4.0`
+- Published: `2026-10-19T05:15:28+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://e27.co/singapore-employers-say-they-offer-burnout-support-half-their-staff-say-theyve-never-seen-it-20261019/
+
 ### AWS CloudTrail を使ったインシデント調査・対応ガイド – パート 1 | Amazon Web Services
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `2.0`
-- Published: `2026-10-18T12:44:57+00:00` / age_days `0.68`
+- Published: `2026-10-18T12:44:57+00:00` / age_days `0.7`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://aws.amazon.com/jp/blogs/news/incident-response-guide-for-aws-cloudtrail-investigations-part-1/
-
-### SES企業は「技術力」を自慢、でも“根拠”は曖昧だった――400社超の調査で判明
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `2.0`
-- Published: `2026-10-18T00:54:51+00:00` / age_days `1.17`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://atmarkit.itmedia.co.jp/ait/articles/2610/17/news009.html
 
 END OF DOCUMENT
