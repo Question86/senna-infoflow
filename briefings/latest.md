@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-19T23:04:24+00:00_
+_Generiert: 2026-10-19T23:20:15+00:00_
 
 ## Kurzlage
 
-93 neue relevante Treffer. Stärkstes Signal: „Will developing nations be able to handle millions of AI agents?“ aus Rest of World Global Tech Feed (Score 22, opportunity).
+94 neue relevante Treffer. Stärkstes Signal: „Will developing nations be able to handle millions of AI agents?“ aus Rest of World Global Tech Feed (Score 22, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,10 +29,6 @@ _Generiert: 2026-10-19T23:04:24+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-14`
   - Kurz: Known exploited vulnerability. Added 2026-10-14. Due 2026-10-17. Cisco Secure Email Gateway Relative Path Traversal Vulnerability
-- **GDACS: Green flood alert in Spain** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104235)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Spain
 - **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Vanuatu Islands 19/10/2026 18:55 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1572622)
   - Quelle: GDACS
   - Zeit: ``
@@ -45,10 +41,6 @@ _Generiert: 2026-10-19T23:04:24+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu 19/10/2026 07:49 UTC, 2 thousand in MMI&gt;=III.
-- **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Pakistan 17/10/2026 05:06 UTC, 2 thousand (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1572122)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.7M, Depth:10km) in Pakistan 17/10/2026 05:06 UTC, 2 thousand (in MMI&gt;=VII).
 
 ## Wirtschaft global
 
