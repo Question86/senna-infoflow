@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-19T14:55:12+00:00",
+  "generated_at": "2026-10-19T15:01:07+00:00",
   "topics": {
     "ai": [
       {
@@ -307,11 +307,11 @@
         "url": "https://note.com/yukiedu/n/n4d25f5e1d590"
       },
       {
-        "title": "M 4.8 - 212 km WNW of Port-Olry, Vanuatu",
+        "title": "M 5.3 - 116 km WNW of Höfn, Iceland",
         "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-19T12:10:09.040+00:00",
+        "published_at": "2026-10-19T14:59:53.040+00:00",
         "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ce"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ct"
       }
     ],
     "geopolitics": [
