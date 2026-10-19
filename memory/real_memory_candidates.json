@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-10-19T10:08:29Z",
+  "generated_at": "2026-10-19T10:25:54Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -22,6 +22,11 @@
     }
   ],
   "current_dynamic_memory_candidates": [
+    {
+      "title": "Will developing nations be able to handle millions of AI agents?",
+      "band": "extreme",
+      "reason": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil."
+    },
     {
       "title": "The AI exit window is wide open. Southeast Asia isn’t standing anywhere near it",
       "band": "krass",
@@ -54,11 +59,6 @@
     },
     {
       "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (rpcbind): Schwachstelle ermöglicht Denial of Service",
-      "band": "krass",
-      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
-    },
-    {
-      "title": "Sicherheitslücken in Fortinet-Produkten und BeyondTrust werden attackiert",
       "band": "krass",
       "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
     }
