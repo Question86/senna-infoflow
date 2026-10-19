@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-19T11:57:01+00:00_
+_Generated: 2026-10-19T12:08:36+00:00_
 
 ## Status
 - status: `normal`
-- findings: `52`
+- findings: `55`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-10-19T11:57:01+00:00_
 - url: https://www.bis.org/speeches/20261019-building-trusted-foundations-digital-finance
 - summary: Keynote address by Mr Chia Der Jiun, Managing Director of the Monetary Authority of Singapore, at the INSEAD Digital Finance and Agentic AI Summit, Singapore, 9 October 2026.
 
-### 4. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff
+### 4. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-10-19T11:05:08+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3822
-- summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.
+- published: `2026-10-19T12:06:04+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3588
+- summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um Informationen offenzulegen, Ressourcen- oder Speicherverwaltungsfehler zu verursachen, Denial-of-Service-Zustände auszulösen oder andere, nicht näher spezifizierte Angriffe durchzuführen.
 
 ### 5. M 5.4 - 184 km WNW of Port-Olry, Vanuatu
 - source: USGS M4.5+ Earthquakes Past Hour

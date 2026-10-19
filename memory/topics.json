@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-19T11:57:01+00:00",
+  "generated_at": "2026-10-19T12:08:36+00:00",
   "topics": {
     "ai": [
       {
@@ -31,6 +31,13 @@
         "published_at": "2026-10-19T09:37:47+00:00",
         "relevance_score": 16,
         "url": "https://e27.co/the-ai-exit-window-is-wide-open-southeast-asia-isnt-standing-anywhere-near-it-20261019/"
+      },
+      {
+        "title": "GPT-4o級モデルが自宅のPCで動いた！ ローカルAIの常識を変える「Strata」 (1/5)",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-18T23:36:35+00:00",
+        "relevance_score": 12,
+        "url": "https://ascii.jp/elem/000/004/443/4443584/"
       },
       {
         "title": "Gen Z is bringing its own AI to work. Singapore’s SMEs need rules, not bans",
@@ -66,13 +73,6 @@
         "published_at": "2026-10-19T03:30:07+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/when-ai-takes-your-side-in-a-workplace-conflict-20261016/"
-      },
-      {
-        "title": "AIの反乱よりもトクリュウによるスマートロックやスマート家電へのサイバー攻撃による同時多発的なフィジカルテロルのが怖い - 太陽がまぶしかったから",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-19T02:34:05+00:00",
-        "relevance_score": 8,
-        "url": "https://www.du-soleil.com/entry/iot-cyber-attack-physical-terror"
       }
     ],
     "github": [
@@ -128,6 +128,13 @@
         "url": "https://e27.co/when-ai-takes-your-side-in-a-workplace-conflict-20261016/"
       },
       {
+        "title": "Supervisory modernisation after Silicon Valley Bank",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-19T00:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.bis.org/speeches/20261019-supervisory-modernisation-after-silicon-valley-bank"
+      },
+      {
         "title": "Ensuring resilience in the face of uncertainty",
         "source": "BIS Central Bankers Speeches",
         "published_at": "2026-10-19T00:00:00+00:00",
@@ -164,6 +171,13 @@
       }
     ],
     "security": [
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-19T12:06:04+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3588"
+      },
       {
         "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
         "source": "BSI CERT-Bund Security Advisories",
@@ -226,13 +240,6 @@
         "published_at": "2026-10-19T09:15:52+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3973"
-      },
-      {
-        "title": "[UPDATE] [hoch] Google Chrome: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-19T09:15:52+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3982"
       }
     ],
     "general": [
