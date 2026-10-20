@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-20T05:03:23Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “UnRTFにおける境界外書き込みの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
+  "generated_at": "2026-10-20T05:50:06Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “アツミ電氣製DVRに利用可能な非公開機能を悪用される問題” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,35 @@
   ],
   "top_dynamics": [
     {
+      "title": "アツミ電氣製DVRに利用可能な非公開機能を悪用される問題",
+      "url": "https://jvn.jp/jp/JVN88864366/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-10-20T14:00:00+09:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security"
+      ],
+      "summary": "アツミ電氣株式会社が提供する複数のDVR（Digital Video Recorder）には、非公開機能を悪用される問題が存在しています。"
+    },
+    {
       "title": "UnRTFにおける境界外書き込みの脆弱性",
       "url": "https://jvn.jp/jp/JVN29783594/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-20T12:00:00+09:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -39,7 +63,7 @@
       "url": "https://e27.co/every-company-grows-through-thorns-know-when-one-has-gone-too-deep-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T02:00:28+00:00",
-      "age_days": 0.13,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -64,7 +88,7 @@
       "url": "https://red.anthropic.com/oss-scanner/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-09T09:25:09+00:00",
-      "age_days": 10.82,
+      "age_days": 10.85,
       "topics": [
         "ai",
         "security"
@@ -91,7 +115,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 123.13,
+      "age_days": 123.16,
       "topics": [
         "ai"
       ],
@@ -110,7 +134,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 123.1d old signal",
+        "aging penalty -8.0 for 123.2d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -120,7 +144,7 @@
       "url": "https://jvn.jp/jp/JVN33436631/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-20T12:00:15+09:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -146,7 +170,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-20T04:36:56.091+00:00",
-      "age_days": 0.02,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -171,7 +195,7 @@
       "url": "https://e27.co/how-i-use-ai-to-keep-the-details-straight-in-international-partnerships-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T03:00:42+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -198,7 +222,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-20T01:29:11.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -223,7 +247,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-20T03:09:16.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -248,7 +272,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-20T00:58:14.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -269,52 +293,31 @@
       "summary": "Time 2026-10-20 00:38:28 UTC 2026-10-20 00:38:28 UTC at epicenter Location 14.013°S 165.518°E Depth 10.00 km (6.21 mi)"
     },
     {
-      "title": "古川大臣記者会見（令和8年10月20日）動画を掲載しました",
-      "url": "https://www.digital.go.jp/speech/minister-261020-01",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-10-20T02:20:02+00:00",
-      "age_days": 0.11,
+      "title": "HSBC says AI will create jobs. Southeast Asia should read the fine print first",
+      "url": "https://e27.co/hsbc-says-ai-will-create-jobs-southeast-asia-should-read-the-fine-print-first-20261020/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-20T05:00:19+00:00",
+      "age_days": 0.03,
       "topics": [
-        "general"
+        "ai",
+        "macro"
       ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": false,
+      "single_source_ai_capped": true,
       "why": [
-        "high terms: 10"
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
       ],
-      "summary": "古川大臣記者会見（令和8年10月20日）動画を掲載しました"
-    },
-    {
-      "title": "「Androidのマイナンバーカード」の提供を開始しました（デジタル庁 ウェブサービス・アプリケーション）",
-      "url": "https://services.digital.go.jp/mynumbercard-android/news/13d5101e1dce63e2b6bdc/",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-10-20T00:31:53+00:00",
-      "age_days": 0.19,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "「Androidのマイナンバーカード」の提供を開始しました（デジタル庁 ウェブサービス・アプリケーション）"
+      "summary": "The most revealing thing about HSBC’s latest survey of the world’s entrepreneurs isn’t the headline number. It’s who is spending it. On the surface, the Global Entrepreneurial Wealth Report 2026 reads like a hype cycle in spreadsheet form. Business owners across 17 markets plan to spend a combined US$367 billion on AI…"
     }
   ],
   "read_order": [
@@ -326,9 +329,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 7,
-      "watch": 3,
-      "quiet": 2
+      "strong": 8,
+      "watch": 4
     }
   }
 }
