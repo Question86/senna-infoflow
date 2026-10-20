@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-20T04:50:36+00:00_
+_Generiert: 2026-10-20T04:58:06+00:00_
 
 ## Kurzlage
 
-24 neue relevante Treffer. Stärkstes Signal: „複数のLenovo製タブレットのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題“ aus JVN Japan Vulnerability Notes (Score 17, mixed).
+25 neue relevante Treffer. Stärkstes Signal: „複数のLenovo製タブレットのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題“ aus JVN Japan Vulnerability Notes (Score 17, mixed).
 
 ## Priorität Hoch
 
@@ -30,6 +30,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: GNU Projectが提供するUnRTFには境界外書き込みの脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **OSS Scanner** — Score 14, observation — [Quelle](https://red.anthropic.com/oss-scanner/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-09T09:25:09+00:00`, fetched `2026-10-20T04:57:35+00:00`
+  - Treffer: Hatena, hotentry, Open Source, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Open Source (+3.8); Hatena (+2.0); hotentry (+2.0)
+  - Kurz: OSS Scanner is a service by Anthropic to scan open-source repositories for security vulnerabilities. It’s an opt-in service informed by our experience using Claude to find vulnerabilities during Project Glasswing. Projects that join will receive thorough, periodic security scans by our strongest ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -146,6 +155,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 
