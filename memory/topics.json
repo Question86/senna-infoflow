@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-20T03:36:49+00:00",
+  "generated_at": "2026-10-20T03:50:47+00:00",
   "topics": {
     "security": [
       {
@@ -44,6 +44,13 @@
         "url": "https://e27.co/ibrahim-arief-is-building-a-legal-ai-startup-from-city-detention-20261019/"
       },
       {
+        "title": "1か月ぐらいClaude Codeと伴走してたけどもう疲れてしまった。育てたら快適になると信じて育ててたけど、もはや健康被害が出そうなレベルで強いストレスを感じている。AI使うのやめたいです。→「ClaudCodeとAIを新入社員に読み替えてみたら分かりやすいのですが。 そのつもりで使うとまた違うんですけどね」",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-19T10:37:03+00:00",
+        "relevance_score": 11,
+        "url": "https://posfie.com/@petaritape/p/aa5HeGM"
+      },
+      {
         "title": "AI・デジタル改革推進会議の開催について掲載いたしました",
         "source": "Japan Digital Agency News RSS",
         "published_at": "2026-10-20T02:24:18+00:00",
@@ -72,6 +79,13 @@
         "url": "https://www.digital.go.jp/policies/genai/agent-safety-standard"
       },
       {
+        "title": "Betagro takes majority stake in Freshket as Thai corporates tighten grip on startups",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-20T03:48:05+00:00",
+        "relevance_score": 5,
+        "url": "https://e27.co/betagro-takes-majority-stake-in-freshket-as-thai-corporates-tighten-grip-on-startups-20261020/"
+      },
+      {
         "title": "Apple、10月28日にイベント開催へ タッチスクリーン「MacBook Pro」など発表か",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-10-19T21:43:25+00:00",
@@ -93,6 +107,13 @@
         "published_at": "2026-10-20T01:00:42+00:00",
         "relevance_score": 12,
         "url": "https://e27.co/as-venture-funding-retreats-thailands-corporate-investors-gain-more-power-20261016/"
+      },
+      {
+        "title": "Betagro takes majority stake in Freshket as Thai corporates tighten grip on startups",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-20T03:48:05+00:00",
+        "relevance_score": 5,
+        "url": "https://e27.co/betagro-takes-majority-stake-in-freshket-as-thai-corporates-tighten-grip-on-startups-20261020/"
       }
     ],
     "general": [
