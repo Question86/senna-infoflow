@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T08:43:40+00:00",
-  "run_id": "2026-10-20T08:43:40+00:00",
+  "generated_at": "2026-10-20T08:56:28+00:00",
+  "run_id": "2026-10-20T08:56:28+00:00",
   "date": "2026-10-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
+    "new_relevant_findings": 0,
     "today_file_total": 44,
     "displayed_findings": 44,
     "high": 0,
@@ -2253,94 +2253,7 @@
       "id": "f444059804b3754795bf"
     }
   ],
-  "new_findings": [
-    {
-      "title": "亞璿資訊｜BA-Workflow 工作流程表單平台 - 存在3個漏洞",
-      "url": "https://www.twcert.org.tw/tw/cp-132-11298-d9dd5-1.html",
-      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-      "source_type": "rss",
-      "published_at": "2026-10-20T06:37:00+00:00",
-      "fetched_at": "2026-10-20T08:43:10+00:00",
-      "summary": "亞璿資訊｜BA-Workflow 工作流程表單平台 - 存在3個漏洞",
-      "matched_keywords": [
-        "Security",
-        "TVN",
-        "TWCERT"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4aff0b815b3c7bc1dfba"
-    },
-    {
-      "title": "凱發科技｜WebITR - Insecure Deserialization",
-      "url": "https://www.twcert.org.tw/tw/cp-132-11296-d3d95-1.html",
-      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-      "source_type": "rss",
-      "published_at": "2026-10-20T06:15:00+00:00",
-      "fetched_at": "2026-10-20T08:43:10+00:00",
-      "summary": "凱發科技｜WebITR - Insecure Deserialization",
-      "matched_keywords": [
-        "Security",
-        "TVN",
-        "TWCERT"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "27d7dfc32785f6453f36"
-    },
-    {
-      "title": "鎧睿全球科技｜ArmorX Spam - 存在2個漏洞",
-      "url": "https://www.twcert.org.tw/tw/cp-132-11294-4e5d8-1.html",
-      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-      "source_type": "rss",
-      "published_at": "2026-10-20T06:08:00+00:00",
-      "fetched_at": "2026-10-20T08:43:10+00:00",
-      "summary": "鎧睿全球科技｜ArmorX Spam - 存在2個漏洞",
-      "matched_keywords": [
-        "Security",
-        "TVN",
-        "TWCERT"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8fe2404878490122fe5c"
-    },
-    {
-      "title": "Ecosystem Roundup: Betagro buys control of Freshket as Thai corporates close in",
-      "url": "https://e27.co/ecosystem-roundup-betagro-buys-control-of-freshket-as-thai-corporates-close-in-20261020/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-20T08:29:26+00:00",
-      "fetched_at": "2026-10-20T08:43:10+00:00",
-      "summary": "Betagro has taken majority control of Freshket, the Bangkok platform that supplies ingredients to hotels, restaurants and caterers, through its venture arm Betagro Ventures. Neither side disclosed the price, the stake size or what happens to Freshket’s venture backers. This is less a courtship than a marriage after a long engagement: Betagro Holding, the listed group’s […] The post Ecosystem Roundup: Betagro buys co…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e6ce97b4c63f8627404e"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
