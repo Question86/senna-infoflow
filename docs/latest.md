@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-20T12:00:54+00:00_
+_Generiert: 2026-10-20T12:30:38+00:00_
 
 ## Kurzlage
 
-75 neue relevante Treffer. Stärkstes Signal: „Banks want AI agents to move money, as long as someone is accountable“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
+82 neue relevante Treffer. Stärkstes Signal: „Banks want AI agents to move money, as long as someone is accountable“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -240,14 +240,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)
   - Kurz: Nobody builds a company without picking up thorns. An investor who pushes too hard. A customer who demands everything and pays late. A high performer who leaves damage behind every meeting. Most of that friction is useful. It forces decisions a comfortable company would keep putting off. The hard investor sharpens the plan. The demanding […] The post Every company grows through thorns. Know when one has gone too dee…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Frank Elderson: Interview with Die Presse** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261020~97e2e4bc38.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-10-20T07:00:00+00:00`, fetched `2026-10-20T07:08:51+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Frank Elderson: Interview with Die Presse
+- **Celebrating 30 years of capital markets development in Uganda** — Score 9, observation — [Quelle](https://www.bis.org/speeches/20261020-celebrating-30-years-capital-markets-development-uganda)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-10-20T00:00:00+00:00`, fetched `2026-10-20T12:29:57+00:00`
+  - Treffer: Macro/Policy, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Speech by Prof Augustus Nuwagaba, Deputy Governor of the Bank of Uganda, at the Capital Markets Authority 30th Anniversary Award Dinner “Celebrating 30 years of capital markets development in Uganda”, Kampala, 25 September 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
@@ -260,3 +260,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7fd076495590>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
