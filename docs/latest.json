@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T17:54:45+00:00",
-  "run_id": "2026-10-20T17:54:45+00:00",
+  "generated_at": "2026-10-20T18:00:36+00:00",
+  "run_id": "2026-10-20T18:00:36+00:00",
   "date": "2026-10-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 92,
     "displayed_findings": 92,
     "high": 0,
@@ -4655,29 +4655,7 @@
       "id": "f444059804b3754795bf"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Dependabot alerts REST API now includes dependency versions",
-      "url": "https://github.blog/changelog/2026-10-20-dependabot-alerts-rest-api-now-includes-dependency-versions",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-10-20T17:13:40+00:00",
-      "fetched_at": "2026-10-20T17:54:19+00:00",
-      "summary": "You can now get the version of a vulnerable dependency directly from Dependabot alert responses in the REST API. Each alert’s dependency object includes a new version_requirement field with the… The post Dependabot alerts REST API now includes dependency versions appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "CodeQL/Dependabot",
-        "GitHub"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "354363b090bad9d4e52d"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
