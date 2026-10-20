@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-20T11:55:19+00:00",
+  "generated_at": "2026-10-20T12:00:54+00:00",
   "topics": {
     "ai": [
       {
@@ -128,6 +128,13 @@
         "url": "https://e27.co/hsbc-says-ai-will-create-jobs-southeast-asia-should-read-the-fine-print-first-20261020/"
       },
       {
+        "title": "Economic activity, prices, and monetary policy in Japan",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-20T00:00:00+00:00",
+        "relevance_score": 13,
+        "url": "https://www.bis.org/speeches/20261020-economic-activity-prices-and-monetary-policy-japan"
+      },
+      {
         "title": "As venture funding retreats, Thailand’s corporate investors gain more power",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-10-20T01:00:42+00:00",
@@ -175,13 +182,6 @@
         "published_at": "2026-10-20T00:00:00+00:00",
         "relevance_score": 6,
         "url": "https://www.bis.org/speeches/20261020-imfc-statement"
-      },
-      {
-        "title": "Betagro takes majority stake in Freshket as Thai corporates tighten grip on startups",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-20T03:48:05+00:00",
-        "relevance_score": 5,
-        "url": "https://e27.co/betagro-takes-majority-stake-in-freshket-as-thai-corporates-tighten-grip-on-startups-20261020/"
       }
     ],
     "geopolitics": [
