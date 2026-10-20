@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-20T21:24:03Z",
+  "generated_at": "2026-10-20T21:34:41Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Snipe-IT: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4047",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T11:15:53+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3930",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T10:52:20+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -65,7 +65,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4010",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T10:15:51+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "security"
       ],
@@ -116,7 +116,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4052",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T11:20:51+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "ai",
         "security"
@@ -143,7 +143,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4051",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T11:15:53+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "ai",
         "security"
@@ -170,7 +170,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3910",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T10:52:40+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -196,7 +196,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3942",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T10:52:19+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -222,7 +222,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4018",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T10:15:51+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "security"
       ],
@@ -248,7 +248,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3968",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T09:55:51+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "security"
       ],
@@ -274,7 +274,7 @@
       "url": "https://red.anthropic.com/oss-scanner/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-09T09:25:09+00:00",
-      "age_days": 11.5,
+      "age_days": 11.51,
       "topics": [
         "ai",
         "security"
@@ -301,7 +301,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4024",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T10:52:41+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
