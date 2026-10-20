@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-20T05:46:51+00:00",
+  "generated_at": "2026-10-20T05:54:39+00:00",
   "topics": {
     "security": [
       {
@@ -42,6 +42,13 @@
         "url": "https://jvn.jp/jp/JVN33436631/"
       },
       {
+        "title": "Comfy-Org/ComfyUI",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 16,
+        "url": "https://github.com/Comfy-Org/ComfyUI"
+      },
+      {
         "title": "HSBC says AI will create jobs. Southeast Asia should read the fine print first",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-10-20T05:00:19+00:00",
@@ -57,6 +64,13 @@
       }
     ],
     "ai": [
+      {
+        "title": "Comfy-Org/ComfyUI",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 16,
+        "url": "https://github.com/Comfy-Org/ComfyUI"
+      },
       {
         "title": "HSBC says AI will create jobs. Southeast Asia should read the fine print first",
         "source": "e27 Asia Startup and Tech Feed",
@@ -119,13 +133,6 @@
         "published_at": "2026-10-20T01:45:35+00:00",
         "relevance_score": 7,
         "url": "https://e27.co/from-cash-loans-to-motorbikes-salmon-bets-us140m-on-secured-lending-in-the-philippines-20261019/"
-      },
-      {
-        "title": "ガバメントAI 源内におけるAI エージェント利用環境の提供開始のお知らせと「源内基準」を掲載しました",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-10-20T00:37:09+00:00",
-        "relevance_score": 6,
-        "url": "https://www.digital.go.jp/policies/genai/agent-safety-standard"
       }
     ],
     "economy": [
