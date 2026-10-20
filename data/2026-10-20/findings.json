@@ -699,6 +699,27 @@
     "id": "9c4d024f3a6dd2b61a92"
   },
   {
+    "title": "Message for the 58th Annual Financial Executives Institute of the Philippines (FINEX) Conference",
+    "url": "https://www.bis.org/speeches/20261020-message-58th-annual-financial-executives-institute-philippines-finex-conference",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-10-20T00:00:00+00:00",
+    "fetched_at": "2026-10-20T11:54:51+00:00",
+    "summary": "Message by Mr Eli M Remolona, Jr, Governor of Bangko Sentral ng Pilipinas (BSP, the central bank of the Philippines), for the 58th Annual Financial Executives Institute of the Philippines (FINEX) Conference, Manila, 9 October 2026.",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Macro/Policy"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a78f692060ea5ca1fa3e"
+  },
+  {
     "title": "M 5.1 - 263 km WSW of Yanglong, China",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ka",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1273,6 +1294,26 @@
     "id": "aff2371db19b3d6788a7"
   },
   {
+    "title": "Reimagining assurance - harnessing intelligence, resilience and integrity",
+    "url": "https://www.bis.org/speeches/20261020-reimagining-assurance-harnessing-intelligence-resilience-and-integrity",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-10-20T00:00:00+00:00",
+    "fetched_at": "2026-10-20T11:54:51+00:00",
+    "summary": "Opening remarks by Mr Adnan Zaylani Mohamad Zahid, Deputy Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the 11th ASEAN Central Bank Heads of Internal Audit Network Meeting “Reimagining assurance - harnessing intelligence, resilience and integrity”, Kuala Lumpur, 8 October 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia, ASEAN (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3bea295097a552985208"
+  },
+  {
     "title": "Werbeblocker Pi-hole: Update stopft Befehlsschmuggel-Lücke und mehr",
     "url": "https://www.heise.de/news/Werbeblocker-Pi-hole-Update-stopft-Befehlsschmuggel-Luecke-und-mehr-11493503.html",
     "source": "heise Security Alerts",
@@ -1454,6 +1495,46 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "d6a4029c53d84d9cbe05"
+  },
+  {
+    "title": "The evolution of bank governance in the EU",
+    "url": "https://www.bis.org/speeches/20261016-evolution-bank-governance-eu",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-10-20T00:00:00+00:00",
+    "fetched_at": "2026-10-20T11:54:51+00:00",
+    "summary": "Remarks by Mr Gabriel Makhlouf, Governor of the Central Bank of Ireland, at the launch of \"The Evolution of Bank Governance in the EU\", Dublin, 9 October 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5a2f071e6d916c863cac"
+  },
+  {
+    "title": "Statement - meeting of the Development Committee",
+    "url": "https://www.bis.org/speeches/20261020-statement-meeting-development-committee",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-10-20T00:00:00+00:00",
+    "fetched_at": "2026-10-20T11:54:51+00:00",
+    "summary": "Statement by Mr Fabio Panetta, Governor of the Bank of Italy and Governor of the Constituency of Albania, Greece, Italy, Malta, Portugal, San Marino and Timor-Leste, at the 114th Meeting of the Development Committee (Joint Ministerial Committee of the Boards of Governors of the Bank and the Fund on the Transfer of Real Resources to Developing Countries), Bangkok, 15 October 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "42336e7f4410870bf2e9"
   },
   {
     "title": "IMFC Statement",
