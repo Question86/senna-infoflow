@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-20T16:50:03Z",
+  "generated_at": "2026-10-20T17:07:28Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 12,
+      "krass": 13,
       "strong": 21,
-      "watch": 7
+      "watch": 6
     },
     "bands_after_gate_recheck": {
       "krass": 3,
-      "strong": 30,
-      "watch": 7
+      "strong": 31,
+      "watch": 6
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4047",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T11:15:53+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3930",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T10:52:20+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -72,7 +72,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4010",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T10:15:51+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -97,7 +97,7 @@
       "url": "https://jvn.jp/jp/JVN88864366/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-20T14:00:00+09:00",
-      "age_days": 0.49,
+      "age_days": 0.51,
       "topics": [
         "security"
       ],
@@ -121,7 +121,7 @@
       "url": "https://jvn.jp/jp/JVN29783594/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-20T12:00:00+09:00",
-      "age_days": 0.58,
+      "age_days": 0.59,
       "topics": [
         "security"
       ],
@@ -145,7 +145,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4053",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T11:40:51+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -169,7 +169,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4048",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T11:15:53+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -193,7 +193,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4049",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T11:15:53+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -217,7 +217,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4050",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T11:15:53+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -241,7 +241,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4046",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T11:15:52+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -265,7 +265,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3885",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T10:52:18+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -289,7 +289,7 @@
       "url": "https://e27.co/every-company-grows-through-thorns-know-when-one-has-gone-too-deep-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T02:00:28+00:00",
-      "age_days": 0.62,
+      "age_days": 0.63,
       "topics": [
         "ai"
       ],
@@ -314,7 +314,7 @@
       "url": "https://www.bis.org/speeches/20261020-message-58th-annual-financial-executives-institute-philippines-finex-conference",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-20T00:00:00+00:00",
-      "age_days": 0.7,
+      "age_days": 0.71,
       "topics": [
         "macro"
       ],
@@ -340,7 +340,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4052",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T11:20:51+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai",
         "security"
@@ -367,7 +367,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4051",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T11:15:53+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai",
         "security"
@@ -394,7 +394,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3910",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T10:52:40+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -420,7 +420,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3942",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T10:52:19+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -446,7 +446,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4018",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T10:15:51+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -472,7 +472,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3968",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T09:55:51+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -498,7 +498,7 @@
       "url": "https://red.anthropic.com/oss-scanner/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-09T09:25:09+00:00",
-      "age_days": 11.31,
+      "age_days": 11.32,
       "topics": [
         "ai",
         "security"
@@ -525,7 +525,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4024",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T10:52:41+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -546,11 +546,38 @@
       "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Quay und Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen oder Sicherheitsmaßnahmen zu umgehen."
     },
     {
+      "title": "GitHub package firewall in public preview",
+      "url": "https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-10-20T16:11:53+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "security",
+        "infra"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code, 10, firewall",
+        "security high-signal: code, 10, firewall",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "An increasing number of malware attacks exploit systems at package installation time, harvesting credentials on CI/CD hosts or developer workstations without even running the package’s code. To stem this tide… The post GitHub package firewall in public preview appeared first on The GitHub Blog ."
+    },
+    {
       "title": "Banks want AI agents to move money, as long as someone is accountable",
       "url": "https://e27.co/banks-want-ai-agents-to-move-money-as-long-as-someone-is-accountable-20261020/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T07:39:30+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "ai",
         "macro"
@@ -578,7 +605,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 123.62,
+      "age_days": 123.63,
       "topics": [
         "ai"
       ],
@@ -607,7 +634,7 @@
       "url": "https://jvn.jp/jp/JVN33436631/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-20T12:00:15+09:00",
-      "age_days": 0.58,
+      "age_days": 0.59,
       "topics": [
         "security"
       ],
@@ -633,7 +660,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11298-d9dd5-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-10-20T06:37:00+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "security"
       ],
@@ -657,7 +684,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11296-d3d95-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-10-20T06:15:00+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -681,7 +708,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11294-4e5d8-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-10-20T06:08:00+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -705,7 +732,7 @@
       "url": "https://www.bis.org/speeches/20261020-statement-meeting-development-committee",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-20T00:00:00+00:00",
-      "age_days": 0.7,
+      "age_days": 0.71,
       "topics": [
         "macro"
       ],
@@ -730,7 +757,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3nc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-20T16:44:55.040+00:00",
-      "age_days": 0.0,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -755,7 +782,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-20T04:36:56.091+00:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [
         "disaster"
       ],
@@ -780,7 +807,7 @@
       "url": "https://www.bis.org/speeches/20261020-economic-activity-prices-and-monetary-policy-japan",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-20T00:00:00+00:00",
-      "age_days": 0.7,
+      "age_days": 0.71,
       "topics": [
         "macro"
       ],
@@ -805,7 +832,7 @@
       "url": "https://e27.co/how-i-use-ai-to-keep-the-details-straight-in-international-partnerships-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T03:00:42+00:00",
-      "age_days": 0.58,
+      "age_days": 0.59,
       "topics": [
         "ai"
       ],
@@ -832,7 +859,7 @@
       "url": "https://www.bis.org/speeches/20261020-central-bank-trust-daft-punk",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-20T00:00:00+00:00",
-      "age_days": 0.7,
+      "age_days": 0.71,
       "topics": [
         "macro"
       ],
@@ -858,7 +885,7 @@
       "url": "https://www.heise.de/news/Werbeblocker-Pi-hole-Update-stopft-Befehlsschmuggel-Luecke-und-mehr-11493503.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-20T10:46:00.000+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -882,7 +909,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ka",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-20T06:55:59.040+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "disaster"
       ],
@@ -907,7 +934,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-20T01:29:11.040+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "disaster"
       ],
@@ -932,7 +959,7 @@
       "url": "https://e27.co/deloitte-demo-day-2026-20261020/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T07:46:54+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [],
       "dynamics_score": 19.0,
       "raw_band": "watch",
@@ -956,7 +983,7 @@
       "url": "https://www.bis.org/speeches/20261020-transitioning-through-trust-securing-future-payments",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-20T00:00:00+00:00",
-      "age_days": 0.7,
+      "age_days": 0.71,
       "topics": [
         "macro"
       ],
@@ -982,7 +1009,7 @@
       "url": "https://www.bis.org/speeches/20261020-climate-and-nature-risks-economic-resilience-and-competitiveness",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-20T00:00:00+00:00",
-      "age_days": 0.7,
+      "age_days": 0.71,
       "topics": [
         "ai",
         "macro"
@@ -1004,30 +1031,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Keynote speech by Mr Frank Elderson, Member of the Executive Board of the European Central Bank and Vice-Chair of the Supervisory Board of the European Central Bank, at the Green Swan 2026 Conference, Manila, 19 October 2026."
-    },
-    {
-      "title": "Euro area monthly balance of payments: August 2026",
-      "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp261020~679813bbc5.en.html",
-      "source": "ECB Statistical Press Releases",
-      "published_at": "2026-10-20T08:00:00+00:00",
-      "age_days": 0.37,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 18.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "Euro area monthly balance of payments: August 2026"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Snipe-IT: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
