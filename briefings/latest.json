@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T23:52:48+00:00",
-  "run_id": "2026-10-20T23:52:48+00:00",
+  "generated_at": "2026-10-20T23:58:07+00:00",
+  "run_id": "2026-10-20T23:58:07+00:00",
   "date": "2026-10-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 106
+      "configured_public_sources_only": 107
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 106,
-    "displayed_findings": 106,
+    "new_relevant_findings": 1,
+    "today_file_total": 107,
+    "displayed_findings": 107,
     "high": 0,
     "medium": 26,
-    "observe": 80,
+    "observe": 81,
     "source_errors": 0
   },
   "sections": {
@@ -2316,6 +2316,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "e6d83e8db8ddc99c7b6f"
+      },
+      {
+        "title": "Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services | Amazon Web Services",
+        "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-20T21:10:06+00:00",
+        "fetched_at": "2026-10-20T23:57:37+00:00",
+        "summary": "The session catalog is live. Explore what's waiting for you",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6085fbcbcf009b605a6d"
       },
       {
         "title": "国の省エネ住宅事業で2万3000件超の情報漏えいのおそれ | NHKニュース",
@@ -5002,6 +5023,27 @@
       "id": "e6d83e8db8ddc99c7b6f"
     },
     {
+      "title": "Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services | Amazon Web Services",
+      "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-20T21:10:06+00:00",
+      "fetched_at": "2026-10-20T23:57:37+00:00",
+      "summary": "The session catalog is live. Explore what's waiting for you",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6085fbcbcf009b605a6d"
+    },
+    {
       "title": "国の省エネ住宅事業で2万3000件超の情報漏えいのおそれ | NHKニュース",
       "url": "https://news.web.nhk/newsweb/na/nd-20261020de62509",
       "source": "Hatena Bookmark Hotentry IT",
@@ -5397,7 +5439,29 @@
       "id": "03fcb7f0882d5d20bf1c"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services | Amazon Web Services",
+      "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-20T21:10:06+00:00",
+      "fetched_at": "2026-10-20T23:57:37+00:00",
+      "summary": "The session catalog is live. Explore what's waiting for you",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6085fbcbcf009b605a6d"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
