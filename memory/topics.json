@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-20T04:10:04+00:00",
+  "generated_at": "2026-10-20T04:27:23+00:00",
   "topics": {
     "security": [
       {
@@ -165,6 +165,13 @@
         "published_at": "2026-10-20T00:31:53+00:00",
         "relevance_score": 6,
         "url": "https://services.digital.go.jp/mynumbercard-android/news/13d5101e1dce63e2b6bdc/"
+      },
+      {
+        "title": "新コード決済「teppay」きょう開始 提供の狙いは？ “キャッシュレス疲れ”解消なるか",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-19T21:21:55+00:00",
+        "relevance_score": 5,
+        "url": "https://www.itmedia.co.jp/mobile/articles/2610/20/news042.html"
       },
       {
         "title": "AWS LambdaでNext.jsやHonoなどNode.jsフレームワークとアプリをそのままデプロイ、実行できる「AWS Lambda Web Functions」発表",
