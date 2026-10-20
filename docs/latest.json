@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T08:00:49+00:00",
-  "run_id": "2026-10-20T08:00:49+00:00",
+  "generated_at": "2026-10-20T08:27:22+00:00",
+  "run_id": "2026-10-20T08:27:22+00:00",
   "date": "2026-10-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 40,
     "displayed_findings": 40,
     "high": 0,
@@ -2081,30 +2081,7 @@
       "id": "f444059804b3754795bf"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Euro area monthly balance of payments: August 2026",
-      "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp261020~679813bbc5.en.html",
-      "source": "ECB Statistical Press Releases",
-      "source_type": "rss",
-      "published_at": "2026-10-20T08:00:00+00:00",
-      "fetched_at": "2026-10-20T08:00:13+00:00",
-      "summary": "Euro area monthly balance of payments: August 2026",
-      "matched_keywords": [
-        "balance of payments",
-        "euro area",
-        "Macro/Policy"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "Macro/Policy (+5.0); balance of payments (+2.5); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3abf023d9a62af4cbedc"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
