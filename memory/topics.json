@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-20T01:01:51+00:00",
+  "generated_at": "2026-10-20T01:29:11+00:00",
   "topics": {
     "ai": [
       {
@@ -24,6 +24,13 @@
         "published_at": "2026-10-20T00:37:09+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/policies/genai/agent-safety-standard"
+      },
+      {
+        "title": "Apple、10月28日にイベント開催へ タッチスクリーン「MacBook Pro」など発表か",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-19T21:43:25+00:00",
+        "relevance_score": 5,
+        "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002404/"
       },
       {
         "title": "不正アクセス 「中国系AIの使用確認」 情報セキュリティー会社 | NHKニュース",

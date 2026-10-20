@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-20T01:01:51+00:00_
+_Generiert: 2026-10-20T01:29:11+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „As venture funding retreats, Thailand’s corporate investors gain more power“ aus e27 Asia Startup and Tech Feed (Score 12, observation).
+8 neue relevante Treffer. Stärkstes Signal: „As venture funding retreats, Thailand’s corporate investors gain more power“ aus e27 Asia Startup and Tech Feed (Score 12, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -114,6 +114,15 @@ Keine neuen mittleren Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 「Androidのマイナンバーカード」の提供を開始しました（デジタル庁 ウェブサービス・アプリケーション）
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Apple、10月28日にイベント開催へ タッチスクリーン「MacBook Pro」など発表か** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2610/20/2000002404/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-19T21:43:25+00:00`, fetched `2026-10-20T01:28:40+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 米Appleのワールドワイドマーケティング担当上級副社長、グレッグ・ジョズウィアック氏は10月19日（現地時間）、Xに「Can’t wait to pro and tell next week.」と投稿した。Appleのロゴを指で描くような動画が添えられている。
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **不正アクセス 「中国系AIの使用確認」 情報セキュリティー会社 | NHKニュース** — Score 5, observation — [Quelle](https://news.web.nhk/newsweb/na/nd-20261020de61888)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
