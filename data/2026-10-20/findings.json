@@ -691,6 +691,48 @@
     "id": "3f35d530b600b326aad2"
   },
   {
+    "title": "What 9 Tokyo Deep Tech Startups Learned About Southeast Asia’s Appetite for Japanese Innovation",
+    "url": "https://e27.co/deloitte-demo-day-2026-20261020/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-10-20T07:46:54+00:00",
+    "fetched_at": "2026-10-20T07:54:28+00:00",
+    "summary": "On 14 October 2026, e27 hosted Borderless Innovation: X-HUB Tokyo-Singapore Demo Day 2026 with X-HUB TOKYO, the Tokyo Metropolitan Government’s global startup accelerator, run by Deloitte Tohmatsu. This is the third year e27 has partnered with Deloitte Tohmatsu to bring Tokyo’s startups to Southeast Asia, and this year’s cohort arrived with a clear focus: technology […] The post What 9 Tokyo Deep Tech Startups Learn…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Southeast Asia",
+      "Watchgraph:sports_sf_tech_events"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0); watchgraph region japan: Japan, Tokyo (+2.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules sports_sf_tech_events (+3.0); watchgraph demote demo (x0.45)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [
+      "sports_sf_tech_events"
+    ],
+    "watchgraph_reasons": [
+      "sports_sf_tech_events: demo day"
+    ],
+    "market_context": [
+      "DIS",
+      "CMCSA",
+      "ABNB",
+      "BKNG",
+      "DAL",
+      "UAL",
+      "TKO",
+      "FWONK",
+      "AAL",
+      "META",
+      "GOOGL",
+      "MSFT",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "919334b5cca6e8664d07"
+  },
+  {
     "title": "古川大臣記者会見（令和8年10月20日）動画を掲載しました",
     "url": "https://www.digital.go.jp/speech/minister-261020-01",
     "source": "Japan Digital Agency News RSS",
@@ -749,6 +791,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "d6a4029c53d84d9cbe05"
+  },
+  {
+    "title": "「侵入経路塞いだが、バックドアから……」不正アクセス105時間の攻防、分単位で報告 防災メールのアルカディア",
+    "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002426/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-20T06:16:53+00:00",
+    "fetched_at": "2026-10-20T07:54:28+00:00",
+    "summary": "105時間にわたる攻防 侵入経路を塞いだ後もバックドアから…… 公表資料によると、攻撃者は不正アクセスを始めてから約10時間後、サービス間ログイン用のシークレットキーを含む設定ファイルを取得。総当たり攻撃を仕掛けて内部情報を取得した。 同社が不正アクセスを検知したのはその約7時間後。侵入経路を遮断したがバ...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "53033cd9cd952523e969"
   },
   {
     "title": "ソフトウェアの産業革命 - ちなみに",
