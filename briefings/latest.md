@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-20T02:00:16+00:00_
+_Generiert: 2026-10-20T02:26:09+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „As venture funding retreats, Thailand’s corporate investors gain more power“ aus e27 Asia Startup and Tech Feed (Score 12, observation).
+13 neue relevante Treffer. Stärkstes Signal: „As venture funding retreats, Thailand’s corporate investors gain more power“ aus e27 Asia Startup and Tech Feed (Score 12, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -46,7 +46,7 @@ _Generiert: 2026-10-20T02:00:16+00:00_
 
 - Kein aktives Signal aus den konfigurierten globalen Sensoren.
 
-- Sensor-Hinweis: Yahoo finance failed: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v7/finance/quote?symbols=BTC-USD,ETH-USD,GC%3DF,SI%3DF,GLD,SLV,SPY,QQQ,%5EGSPC,%5EIXIC,%5EDJI,%5EVIX,DX-Y.NYB,CL%3DF,COIN,MSTR,IBIT
+- Sensor-Hinweis: Yahoo finance failed: 401 Client Error: Unauthorized for url: https://query1.finance.yahoo.com/v7/finance/quote?symbols=BTC-USD,ETH-USD,GC%3DF,SI%3DF,GLD,SLV,SPY,QQQ,%5EGSPC,%5EIXIC,%5EDJI,%5EVIX,DX-Y.NYB,CL%3DF,COIN,MSTR,IBIT
 
 <!-- SENNA_GLOBAL_WATCHDOGS:END -->
 
@@ -88,6 +88,24 @@ Keine neuen mittleren Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-20 00:56:32 UTC 2026-10-20 00:56:32 UTC at epicenter Location 40.638°N 84.130°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **AI・デジタル改革推進会議の開催について掲載いたしました** — Score 10, observation — [Quelle](https://www.digital.go.jp/councils/ai_digital)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-10-20T02:24:18+00:00`, fetched `2026-10-20T02:25:39+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: AI・デジタル改革推進会議の開催について掲載いたしました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Every company grows through thorns. Know when one has gone too deep** — Score 9, observation — [Quelle](https://e27.co/every-company-grows-through-thorns-know-when-one-has-gone-too-deep-20261016/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-20T02:00:28+00:00`, fetched `2026-10-20T02:25:39+00:00`
+  - Treffer: APAC Trend Radar, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)
+  - Kurz: Nobody builds a company without picking up thorns. An investor who pushes too hard. A customer who demands everything and pays late. A high performer who leaves damage behind every meeting. Most of that friction is useful. It forces decisions a comfortable company would keep putting off. The hard investor sharpens the plan. The demanding […] The post Every company grows through thorns. Know when one has gone too dee…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.0 - 202 km NW of Port-Olry, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j1)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-20T00:58:14.040+00:00`, fetched `2026-10-20T01:01:21+00:00`
@@ -106,32 +124,14 @@ Keine neuen mittleren Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); policy (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 今後のデジタル人材育成政策に関する検討会（第2回）の議事次第および資料を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **From cash loans to motorbikes: Salmon bets US$140M on secured lending in the Philippines** — Score 7, observation — [Quelle](https://e27.co/from-cash-loans-to-motorbikes-salmon-bets-us140m-on-secured-lending-in-the-philippines-20261019/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-20T01:45:35+00:00`, fetched `2026-10-20T01:48:33+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)
-  - Kurz: Salmon Group has raised a fresh US$140 million, its second financing in six months and the largest in its four-year life, as the Manila-based lender bets that motorcycles and small businesses can carry its next leg of growth. The announcement on Monday is notable for what it leaves out. Salmon describes the money only as […] The post From cash loans to motorbikes: Salmon bets US$140M on secured lending in the Philip…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ガバメントAI 源内におけるAI エージェント利用環境の提供開始のお知らせと「源内基準」を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/genai/agent-safety-standard)
+- **古川大臣記者会見（令和8年10月20日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-261020-01)
   - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-10-20T00:37:09+00:00`, fetched `2026-10-20T01:01:21+00:00`
+  - Zeit: published `2026-10-20T02:20:02+00:00`, fetched `2026-10-20T02:25:39+00:00`
   - Treffer: APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: ガバメントAI 源内におけるAI エージェント利用環境の提供開始のお知らせと「源内基準」を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「Androidのマイナンバーカード」の提供を開始しました（デジタル庁 ウェブサービス・アプリケーション）** — Score 6, observation — [Quelle](https://services.digital.go.jp/mynumbercard-android/news/13d5101e1dce63e2b6bdc/)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-10-20T00:31:53+00:00`, fetched `2026-10-20T01:01:21+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 「Androidのマイナンバーカード」の提供を開始しました（デジタル庁 ウェブサービス・アプリケーション）
+  - Kurz: 古川大臣記者会見（令和8年10月20日）動画を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Apple、10月28日にイベント開催へ タッチスクリーン「MacBook Pro」など発表か** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2610/20/2000002404/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
