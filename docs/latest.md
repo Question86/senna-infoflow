@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-20T16:48:19+00:00_
+_Generiert: 2026-10-20T16:56:12+00:00_
 
 ## Kurzlage
 
-87 neue relevante Treffer. Stärkstes Signal: „Banks want AI agents to move money, as long as someone is accountable“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
+88 neue relevante Treffer. Stärkstes Signal: „Banks want AI agents to move money, as long as someone is accountable“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
 
 ## Priorität Hoch
 
@@ -240,6 +240,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: なみき @sasaki445 1か月ぐらいClaude Codeと伴走してたけどもう疲れてしまった。育てたら快適になると信じて育ててたけど、もはや健康被害が出そうなレベルで強いストレスを感じている。AI使うのやめたいです。 2026-10-19 11:37:32
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **GitHub package firewall in public preview** — Score 10, risk — [Quelle](https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-10-20T16:11:53+00:00`, fetched `2026-10-20T16:55:39+00:00`
+  - Treffer: GitHub, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); GitHub (+2.5); recent (+1.0)
+  - Kurz: An increasing number of malware attacks exploit systems at package installation time, harvesting credentials on CI/CD hosts or developer workstations without even running the package’s code. To stem this tide… The post GitHub package firewall in public preview appeared first on The GitHub Blog .
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **AI・デジタル改革推進会議の開催について掲載いたしました** — Score 10, observation — [Quelle](https://www.digital.go.jp/councils/ai_digital)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-10-20T02:24:18+00:00`, fetched `2026-10-20T02:25:39+00:00`
@@ -257,15 +266,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
   - Kurz: Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Every company grows through thorns. Know when one has gone too deep** — Score 9, observation — [Quelle](https://e27.co/every-company-grows-through-thorns-know-when-one-has-gone-too-deep-20261016/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-20T02:00:28+00:00`, fetched `2026-10-20T02:25:39+00:00`
-  - Treffer: APAC Trend Radar, Public Health
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)
-  - Kurz: Nobody builds a company without picking up thorns. An investor who pushes too hard. A customer who demands everything and pays late. A high performer who leaves damage behind every meeting. Most of that friction is useful. It forces decisions a comfortable company would keep putting off. The hard investor sharpens the plan. The demanding […] The post Every company grows through thorns. Know when one has gone too dee…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
