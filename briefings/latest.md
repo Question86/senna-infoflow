@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-20T15:57:34+00:00_
+_Generiert: 2026-10-20T16:09:54+00:00_
 
 ## Kurzlage
 
-85 neue relevante Treffer. Stärkstes Signal: „Banks want AI agents to move money, as long as someone is accountable“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
+86 neue relevante Treffer. Stärkstes Signal: „Banks want AI agents to move money, as long as someone is accountable“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -293,6 +293,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: AI・デジタル改革推進会議の開催について掲載いたしました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **How 3 Java Champions are using GitHub Copilot for increased productivity** — Score 9, observation — [Quelle](https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/)
+  - Quelle: GitHub Blog Atom / `rss`
+  - Zeit: published `2026-10-20T16:05:03+00:00`, fetched `2026-10-20T16:09:27+00:00`
+  - Treffer: AI/KI, Copilot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
+  - Kurz: Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Every company grows through thorns. Know when one has gone too deep** — Score 9, observation — [Quelle](https://e27.co/every-company-grows-through-thorns-know-when-one-has-gone-too-deep-20261016/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-20T02:00:28+00:00`, fetched `2026-10-20T02:25:39+00:00`
@@ -301,15 +310,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)
   - Kurz: Nobody builds a company without picking up thorns. An investor who pushes too hard. A customer who demands everything and pays late. A high performer who leaves damage behind every meeting. Most of that friction is useful. It forces decisions a comfortable company would keep putting off. The hard investor sharpens the plan. The demanding […] The post Every company grows through thorns. Know when one has gone too dee…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Celebrating 30 years of capital markets development in Uganda** — Score 9, observation — [Quelle](https://www.bis.org/speeches/20261020-celebrating-30-years-capital-markets-development-uganda)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-10-20T00:00:00+00:00`, fetched `2026-10-20T12:29:57+00:00`
-  - Treffer: Macro/Policy, Watchgraph:capitals_power_centers
-  - Watchgraph: capitals_power_centers
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
-  - Kurz: Speech by Prof Augustus Nuwagaba, Deputy Governor of the Bank of Uganda, at the Capital Markets Authority 30th Anniversary Award Dinner “Celebrating 30 years of capital markets development in Uganda”, Kampala, 25 September 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
