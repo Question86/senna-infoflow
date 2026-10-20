@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-20T04:58:06+00:00",
+  "generated_at": "2026-10-20T05:09:44+00:00",
   "topics": {
     "security": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-10-20T12:00:15+09:00",
         "relevance_score": 17,
         "url": "https://jvn.jp/jp/JVN33436631/"
+      },
+      {
+        "title": "アツミ電氣製DVRに利用可能な非公開機能を悪用される問題",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-20T14:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN88864366/"
       },
       {
         "title": "UnRTFにおける境界外書き込みの脆弱性",
@@ -35,6 +42,13 @@
         "url": "https://jvn.jp/jp/JVN33436631/"
       },
       {
+        "title": "HSBC says AI will create jobs. Southeast Asia should read the fine print first",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-20T05:00:19+00:00",
+        "relevance_score": 15,
+        "url": "https://e27.co/hsbc-says-ai-will-create-jobs-southeast-asia-should-read-the-fine-print-first-20261020/"
+      },
+      {
         "title": "OSS Scanner",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-10-09T09:25:09+00:00",
@@ -43,6 +57,13 @@
       }
     ],
     "ai": [
+      {
+        "title": "HSBC says AI will create jobs. Southeast Asia should read the fine print first",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-20T05:00:19+00:00",
+        "relevance_score": 15,
+        "url": "https://e27.co/hsbc-says-ai-will-create-jobs-southeast-asia-should-read-the-fine-print-first-20261020/"
+      },
       {
         "title": "OSS Scanner",
         "source": "Hatena Bookmark Hotentry IT",
@@ -105,6 +126,29 @@
         "published_at": "2026-10-20T00:37:09+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/policies/genai/agent-safety-standard"
+      }
+    ],
+    "economy": [
+      {
+        "title": "HSBC says AI will create jobs. Southeast Asia should read the fine print first",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-20T05:00:19+00:00",
+        "relevance_score": 15,
+        "url": "https://e27.co/hsbc-says-ai-will-create-jobs-southeast-asia-should-read-the-fine-print-first-20261020/"
+      },
+      {
+        "title": "As venture funding retreats, Thailand’s corporate investors gain more power",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-20T01:00:42+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/as-venture-funding-retreats-thailands-corporate-investors-gain-more-power-20261016/"
+      },
+      {
+        "title": "The consumer is still human. The gatekeeper isn’t",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-20T04:00:06+00:00",
+        "relevance_score": 7,
+        "url": "https://e27.co/the-consumer-is-still-human-the-gatekeeper-isnt-20261016/"
       },
       {
         "title": "Betagro takes majority stake in Freshket as Thai corporates tighten grip on startups",
@@ -112,6 +156,36 @@
         "published_at": "2026-10-20T03:48:05+00:00",
         "relevance_score": 5,
         "url": "https://e27.co/betagro-takes-majority-stake-in-freshket-as-thai-corporates-tighten-grip-on-startups-20261020/"
+      },
+      {
+        "title": "Can Bitcoin hold the US$80,615 support line, or is a brutal liquidation cascade inevitable?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-20T05:01:24+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/can-bitcoin-hold-the-us80615-support-line-or-is-a-brutal-liquidation-cascade-inevitable-20261020/"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "HSBC says AI will create jobs. Southeast Asia should read the fine print first",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-20T05:00:19+00:00",
+        "relevance_score": 15,
+        "url": "https://e27.co/hsbc-says-ai-will-create-jobs-southeast-asia-should-read-the-fine-print-first-20261020/"
+      },
+      {
+        "title": "How I use AI to keep the details straight in international partnerships",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-20T03:00:42+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/how-i-use-ai-to-keep-the-details-straight-in-international-partnerships-20261016/"
+      },
+      {
+        "title": "今後のデジタル人材育成政策に関する検討会（第2回）の議事次第および資料を掲載しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-10-20T00:25:29+00:00",
+        "relevance_score": 8,
+        "url": "https://www.digital.go.jp/councils/digital-talent-development-policy/773e7837-8bf8-4599-bbba-c31e813c4ad7"
       }
     ],
     "general": [
@@ -184,45 +258,6 @@
         "published_at": "2026-10-19T10:38:08+00:00",
         "relevance_score": 5,
         "url": "https://star.hatenastaff.com/entry/2026/10/19/140533"
-      }
-    ],
-    "economy": [
-      {
-        "title": "As venture funding retreats, Thailand’s corporate investors gain more power",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-20T01:00:42+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/as-venture-funding-retreats-thailands-corporate-investors-gain-more-power-20261016/"
-      },
-      {
-        "title": "The consumer is still human. The gatekeeper isn’t",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-20T04:00:06+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/the-consumer-is-still-human-the-gatekeeper-isnt-20261016/"
-      },
-      {
-        "title": "Betagro takes majority stake in Freshket as Thai corporates tighten grip on startups",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-20T03:48:05+00:00",
-        "relevance_score": 5,
-        "url": "https://e27.co/betagro-takes-majority-stake-in-freshket-as-thai-corporates-tighten-grip-on-startups-20261020/"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "How I use AI to keep the details straight in international partnerships",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-20T03:00:42+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/how-i-use-ai-to-keep-the-details-straight-in-international-partnerships-20261016/"
-      },
-      {
-        "title": "今後のデジタル人材育成政策に関する検討会（第2回）の議事次第および資料を掲載しました",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-10-20T00:25:29+00:00",
-        "relevance_score": 8,
-        "url": "https://www.digital.go.jp/councils/digital-talent-development-policy/773e7837-8bf8-4599-bbba-c31e813c4ad7"
       }
     ]
   }
