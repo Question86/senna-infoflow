@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-20T02:34:08Z",
+  "generated_at": "2026-10-20T03:03:32Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Every company grows through thorns. Know when one has gone too deep” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://e27.co/every-company-grows-through-thorns-know-when-one-has-gone-too-deep-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T02:00:28+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -40,7 +40,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 123.02,
+      "age_days": 123.05,
       "topics": [
         "ai"
       ],
@@ -69,7 +69,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-20T01:29:11.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -94,7 +94,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-20T00:58:14.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -119,7 +119,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261020-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-20T02:20:02+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
@@ -143,7 +143,7 @@
       "url": "https://services.digital.go.jp/mynumbercard-android/news/13d5101e1dce63e2b6bdc/",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-20T00:31:53+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -167,7 +167,7 @@
       "url": "https://e27.co/as-venture-funding-retreats-thailands-corporate-investors-gain-more-power-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T01:00:42+00:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "macro"
@@ -194,7 +194,7 @@
       "url": "https://e27.co/ibrahim-arief-is-building-a-legal-ai-startup-from-city-detention-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T01:00:25+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -220,7 +220,7 @@
       "url": "https://www.digital.go.jp/councils/digital-talent-development-policy/773e7837-8bf8-4599-bbba-c31e813c4ad7",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-20T00:25:29+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -240,11 +240,35 @@
       "summary": "今後のデジタル人材育成政策に関する検討会（第2回）の議事次第および資料を掲載しました"
     },
     {
+      "title": "AWS LambdaでNext.jsやHonoなどNode.jsフレームワークとアプリをそのままデプロイ、実行できる「AWS Lambda Web Functions」発表",
+      "url": "https://www.publickey1.jp/blog/26/aws_lambdanextjshononodejsaws_lambda_web_functions.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-19T15:11:20+00:00",
+      "age_days": 0.49,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "AWS LambdaでNext.jsやHonoなどNode.jsフレームワークとアプリをそのままデプロイ、実行できる「AWS Lambda Web Functions」発表 Amazon Web Services（AWS）は、サーバレス基盤のAWS Lambda上でNext.jsやExpress、Hono、FastifyなどのNode.js用フレームワークとそのアプリケーションをそのままデプロイして実行できる新..."
+    },
+    {
       "title": "From cash loans to motorbikes: Salmon bets US$140M on secured lending in the Philippines",
       "url": "https://e27.co/from-cash-loans-to-motorbikes-salmon-bets-us140m-on-secured-lending-in-the-philippines-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T01:45:35+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -270,7 +294,7 @@
       "url": "https://www.digital.go.jp/councils/ai_digital",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-20T02:24:18+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
@@ -289,32 +313,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "AI・デジタル改革推進会議の開催について掲載いたしました"
-    },
-    {
-      "title": "Apple、10月28日にイベント開催へ タッチスクリーン「MacBook Pro」など発表か",
-      "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002404/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-19T21:43:25+00:00",
-      "age_days": 0.2,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 2.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "米Appleのワールドワイドマーケティング担当上級副社長、グレッグ・ジョズウィアック氏は10月19日（現地時間）、Xに「Can’t wait to pro and tell next week.」と投稿した。Appleのロゴを指で描くような動画が添えられている。"
     }
   ],
   "read_order": [
