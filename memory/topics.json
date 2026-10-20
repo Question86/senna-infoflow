@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-20T13:34:29+00:00",
+  "generated_at": "2026-10-20T13:46:24+00:00",
   "topics": {
     "ai": [
       {
@@ -170,18 +170,18 @@
         "url": "https://e27.co/the-consumer-is-still-human-the-gatekeeper-isnt-20261016/"
       },
       {
+        "title": "The Central Bank. Trust. Daft Punk.",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-20T00:00:00+00:00",
+        "relevance_score": 7,
+        "url": "https://www.bis.org/speeches/20261020-central-bank-trust-daft-punk"
+      },
+      {
         "title": "Transitioning through trust - securing the future of payments",
         "source": "BIS Central Bankers Speeches",
         "published_at": "2026-10-20T00:00:00+00:00",
         "relevance_score": 6,
         "url": "https://www.bis.org/speeches/20261020-transitioning-through-trust-securing-future-payments"
-      },
-      {
-        "title": "The evolution of bank governance in the EU",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-10-20T00:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.bis.org/speeches/20261016-evolution-bank-governance-eu"
       }
     ],
     "geopolitics": [
