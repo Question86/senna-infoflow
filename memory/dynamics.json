@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-20T20:38:04Z",
+  "generated_at": "2026-10-20T20:49:10Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 13,
+      "krass": 14,
       "strong": 21,
-      "watch": 6
+      "watch": 5
     },
     "bands_after_gate_recheck": {
-      "krass": 3,
+      "krass": 4,
       "strong": 31,
-      "watch": 6
+      "watch": 5
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4047",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T11:15:53+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -72,7 +72,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4010",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T10:15:51+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "security"
       ],
@@ -93,11 +93,37 @@
       "summary": "Ein Angreifer aus einem angrenzenden Netzwerk kann eine Schwachstelle in Apache Camel ausnutzen, um beliebigen Programmcode auszuführen."
     },
     {
+      "title": "2026-018: Critical Vulnerabilities in PHP",
+      "url": "https://cert.europa.eu/publications/security-advisories/2026-018/",
+      "source": "CERT-EU Security Advisories",
+      "published_at": "2026-10-20T22:33:27+00:00",
+      "age_days": 0,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 27.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: critical, remote, code",
+        "security high-signal: critical, remote, code, execution"
+      ],
+      "summary": "On 20 October 2026, the PHP foundation announced an upcoming security release addressing two critical vulnerabilities in PHP that could lead to remote code execution, according to other leaks. At this time, no technical details have been made public. CERT-EU advises organisations to prepare for immediate patching of a…"
+    },
+    {
       "title": "アツミ電氣製DVRに利用可能な非公開機能を悪用される問題",
       "url": "https://jvn.jp/jp/JVN88864366/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-20T14:00:00+09:00",
-      "age_days": 0.65,
+      "age_days": 0.66,
       "topics": [
         "security"
       ],
@@ -121,7 +147,7 @@
       "url": "https://jvn.jp/jp/JVN29783594/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-20T12:00:00+09:00",
-      "age_days": 0.73,
+      "age_days": 0.74,
       "topics": [
         "security"
       ],
@@ -145,7 +171,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4053",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T11:40:51+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "security"
       ],
@@ -169,7 +195,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4048",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T11:15:53+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -193,7 +219,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4049",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T11:15:53+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -217,7 +243,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4050",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T11:15:53+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -241,7 +267,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4046",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T11:15:52+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -314,7 +340,7 @@
       "url": "https://www.bis.org/speeches/20261020-message-58th-annual-financial-executives-institute-philippines-finex-conference",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-20T00:00:00+00:00",
-      "age_days": 0.86,
+      "age_days": 0.87,
       "topics": [
         "macro"
       ],
@@ -367,7 +393,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4051",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T11:15:53+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "ai",
         "security"
@@ -446,7 +472,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4018",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T10:15:51+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "security"
       ],
@@ -498,7 +524,7 @@
       "url": "https://red.anthropic.com/oss-scanner/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-09T09:25:09+00:00",
-      "age_days": 11.47,
+      "age_days": 11.48,
       "topics": [
         "ai",
         "security"
@@ -550,7 +576,7 @@
       "url": "https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-20T16:11:53+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security",
         "infra"
@@ -577,7 +603,7 @@
       "url": "https://e27.co/banks-want-ai-agents-to-move-money-as-long-as-someone-is-accountable-20261020/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T07:39:30+00:00",
-      "age_days": 0.54,
+      "age_days": 0.55,
       "topics": [
         "ai",
         "macro"
@@ -605,7 +631,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 123.78,
+      "age_days": 123.79,
       "topics": [
         "ai"
       ],
@@ -634,7 +660,7 @@
       "url": "https://jvn.jp/jp/JVN33436631/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-20T12:00:15+09:00",
-      "age_days": 0.73,
+      "age_days": 0.74,
       "topics": [
         "security"
       ],
@@ -660,7 +686,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11298-d9dd5-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-10-20T06:37:00+00:00",
-      "age_days": 0.58,
+      "age_days": 0.59,
       "topics": [
         "security"
       ],
@@ -684,7 +710,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11296-d3d95-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-10-20T06:15:00+00:00",
-      "age_days": 0.6,
+      "age_days": 0.61,
       "topics": [
         "security"
       ],
@@ -708,7 +734,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11294-4e5d8-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-10-20T06:08:00+00:00",
-      "age_days": 0.6,
+      "age_days": 0.61,
       "topics": [
         "security"
       ],
@@ -732,7 +758,7 @@
       "url": "https://www.bis.org/speeches/20261020-statement-meeting-development-committee",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-20T00:00:00+00:00",
-      "age_days": 0.86,
+      "age_days": 0.87,
       "topics": [
         "macro"
       ],
@@ -757,7 +783,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3nc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-20T16:44:55.040+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -782,7 +808,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-20T04:36:56.091+00:00",
-      "age_days": 0.67,
+      "age_days": 0.68,
       "topics": [
         "disaster"
       ],
@@ -807,7 +833,7 @@
       "url": "https://www.bis.org/speeches/20261020-economic-activity-prices-and-monetary-policy-japan",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-20T00:00:00+00:00",
-      "age_days": 0.86,
+      "age_days": 0.87,
       "topics": [
         "macro"
       ],
@@ -832,7 +858,7 @@
       "url": "https://e27.co/how-i-use-ai-to-keep-the-details-straight-in-international-partnerships-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T03:00:42+00:00",
-      "age_days": 0.73,
+      "age_days": 0.74,
       "topics": [
         "ai"
       ],
@@ -859,7 +885,7 @@
       "url": "https://www.bis.org/speeches/20261020-central-bank-trust-daft-punk",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-20T00:00:00+00:00",
-      "age_days": 0.86,
+      "age_days": 0.87,
       "topics": [
         "macro"
       ],
@@ -885,7 +911,7 @@
       "url": "https://www.heise.de/news/Werbeblocker-Pi-hole-Update-stopft-Befehlsschmuggel-Luecke-und-mehr-11493503.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-20T10:46:00.000+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -909,7 +935,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ka",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-20T06:55:59.040+00:00",
-      "age_days": 0.57,
+      "age_days": 0.58,
       "topics": [
         "disaster"
       ],
@@ -934,7 +960,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-20T01:29:11.040+00:00",
-      "age_days": 0.8,
+      "age_days": 0.81,
       "topics": [
         "disaster"
       ],
@@ -983,7 +1009,7 @@
       "url": "https://www.bis.org/speeches/20261020-transitioning-through-trust-securing-future-payments",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-20T00:00:00+00:00",
-      "age_days": 0.86,
+      "age_days": 0.87,
       "topics": [
         "macro"
       ],
@@ -1003,34 +1029,6 @@
         "identity recheck: no AXI0M/User-Yps phrase hit"
       ],
       "summary": "Speech by Ms Mary-Elizabeth McMunn, Deputy Governor of the Central Bank of Ireland, at the Electronic Money Association Conference, Dublin, 14 October 2026."
-    },
-    {
-      "title": "From climate and nature risks to economic resilience and competitiveness",
-      "url": "https://www.bis.org/speeches/20261020-climate-and-nature-risks-economic-resilience-and-competitiveness",
-      "source": "BIS Central Bankers Speeches",
-      "published_at": "2026-10-20T00:00:00+00:00",
-      "age_days": 0.86,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Keynote speech by Mr Frank Elderson, Member of the Executive Board of the European Central Bank and Vice-Chair of the Supervisory Board of the European Central Bank, at the Green Swan 2026 Conference, Manila, 19 October 2026."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Snipe-IT: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
