@@ -1,28 +1,52 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-20T03:03:32Z",
+  "generated_at": "2026-10-20T03:28:39Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 18,
+    "dynamics": 22,
     "bands": {
-      "strong": 2,
-      "watch": 2,
+      "strong": 5,
+      "watch": 3,
       "quiet": 14
     },
     "bands_after_gate_recheck": {
-      "strong": 2,
-      "watch": 2,
+      "strong": 5,
+      "watch": 3,
       "quiet": 14
     }
   },
   "top_dynamics": [
     {
+      "title": "UnRTFにおける境界外書き込みの脆弱性",
+      "url": "https://jvn.jp/jp/JVN29783594/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-10-20T12:00:00+09:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security"
+      ],
+      "summary": "GNU Projectが提供するUnRTFには境界外書き込みの脆弱性が存在します。"
+    },
+    {
       "title": "Every company grows through thorns. Know when one has gone too deep",
       "url": "https://e27.co/every-company-grows-through-thorns-know-when-one-has-gone-too-deep-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T02:00:28+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -47,7 +71,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 123.05,
+      "age_days": 123.06,
       "topics": [
         "ai"
       ],
@@ -66,17 +90,70 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 123.0d old signal",
+        "aging penalty -8.0 for 123.1d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
+    },
+    {
+      "title": "複数のLenovo製タブレットのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題",
+      "url": "https://jvn.jp/jp/JVN33436631/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-10-20T12:00:15+09:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "Lenovoが提供する複数のタブレットのAVB（Android Verified Boot）機能では、AOSP（Android Open Source Project）で公開されているテスト用の鍵をそのまま使用しています。"
+    },
+    {
+      "title": "How I use AI to keep the details straight in international partnerships",
+      "url": "https://e27.co/how-i-use-ai-to-keep-the-details-straight-in-international-partnerships-20261016/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-20T03:00:42+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 21.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Even after a good meeting with an overseas partner, writing the follow-up email takes thought. What interested them? What did we actually agree to? What still needs to be clarified before we can move forward? Things that seemed clear in conversation can become ambiguous on the page. When several people and organisatio…"
     },
     {
       "title": "M 4.5 - 156 km SE of Kuqa, China",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-20T01:29:11.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -97,11 +174,36 @@
       "summary": "Time 2026-10-20 00:56:32 UTC 2026-10-20 00:56:32 UTC at epicenter Location 40.638°N 84.130°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 5.0 - Pagan region, Northern Mariana Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jd",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-20T03:09:16.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-20 02:54:15 UTC 2026-10-20 02:54:15 UTC at epicenter Location 18.253°N 146.035°E Depth 129.36 km (80.38 mi)"
+    },
+    {
       "title": "M 5.0 - 202 km NW of Port-Olry, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-20T00:58:14.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -126,7 +228,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261020-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-20T02:20:02+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
@@ -150,7 +252,7 @@
       "url": "https://services.digital.go.jp/mynumbercard-android/news/13d5101e1dce63e2b6bdc/",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-20T00:31:53+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -174,7 +276,7 @@
       "url": "https://e27.co/as-venture-funding-retreats-thailands-corporate-investors-gain-more-power-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T01:00:42+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "macro"
@@ -201,7 +303,7 @@
       "url": "https://e27.co/ibrahim-arief-is-building-a-legal-ai-startup-from-city-detention-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T01:00:25+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -227,7 +329,7 @@
       "url": "https://www.digital.go.jp/councils/digital-talent-development-policy/773e7837-8bf8-4599-bbba-c31e813c4ad7",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-20T00:25:29+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -251,7 +353,7 @@
       "url": "https://www.publickey1.jp/blog/26/aws_lambdanextjshononodejsaws_lambda_web_functions.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-19T15:11:20+00:00",
-      "age_days": 0.49,
+      "age_days": 0.51,
       "topics": [
         "general"
       ],
@@ -275,7 +377,7 @@
       "url": "https://e27.co/from-cash-loans-to-motorbikes-salmon-bets-us140m-on-secured-lending-in-the-philippines-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T01:45:35+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -301,7 +403,7 @@
       "url": "https://www.digital.go.jp/councils/ai_digital",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-20T02:24:18+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -326,7 +428,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002404/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-19T21:43:25+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -352,7 +454,7 @@
       "url": "https://news.web.nhk/newsweb/na/nd-20261020de61888",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-19T20:38:05+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -378,7 +480,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 122.01,
+      "age_days": 122.03,
       "topics": [
         "general"
       ],
@@ -403,7 +505,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 122.01,
+      "age_days": 122.03,
       "topics": [
         "general"
       ],
@@ -428,7 +530,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 122.01,
+      "age_days": 122.03,
       "topics": [
         "ai"
       ],
@@ -455,7 +557,7 @@
       "url": "https://www.digital.go.jp/policies/genai/agent-safety-standard",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-20T00:37:09+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -476,5 +578,5 @@
       "summary": "ガバメントAI 源内におけるAI エージェント利用環境の提供開始のお知らせと「源内基準」を掲載しました"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Every company grows through thorns. Know when one has gone too deep” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “UnRTFにおける境界外書き込みの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
 }
