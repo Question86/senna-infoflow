@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-20T16:56:12+00:00",
+  "generated_at": "2026-10-20T17:01:37+00:00",
   "topics": {
     "ai": [
       {
@@ -372,6 +372,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j5"
       },
       {
+        "title": "M 4.8 - south of the Fiji Islands",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-20T17:00:30.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3nd"
+      },
+      {
         "title": "M 4.9 - 184 km NW of Port-Olry, Vanuatu",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-20T12:29:06.040+00:00",
@@ -412,13 +419,6 @@
         "published_at": "2026-10-20T07:33:12.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3kg"
-      },
-      {
-        "title": "M 5.3 - 209 km NW of Port-Olry, Vanuatu",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-20T06:41:22.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3k5"
       }
     ]
   }
