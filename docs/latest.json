@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T13:46:24+00:00",
-  "run_id": "2026-10-20T13:46:24+00:00",
+  "generated_at": "2026-10-20T13:54:27+00:00",
+  "run_id": "2026-10-20T13:54:27+00:00",
   "date": "2026-10-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 83,
     "displayed_findings": 83,
     "high": 0,
@@ -4141,28 +4141,7 @@
       "id": "f444059804b3754795bf"
     }
   ],
-  "new_findings": [
-    {
-      "title": "The Central Bank. Trust. Daft Punk.",
-      "url": "https://www.bis.org/speeches/20261020-central-bank-trust-daft-punk",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-10-20T00:00:00+00:00",
-      "fetched_at": "2026-10-20T13:45:55+00:00",
-      "summary": "Speech by Mr Aleš Michl, Governor of the Czech National Bank, at the Forbes Better Czechia conference, Karlovy Vary, 15 October 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5cd6ff0e7872d4e2ef30"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
