@@ -735,6 +735,27 @@
     "id": "d1b5bfa7944aae0f6ee1"
   },
   {
+    "title": "Dependabot alerts REST API now includes dependency versions",
+    "url": "https://github.blog/changelog/2026-10-20-dependabot-alerts-rest-api-now-includes-dependency-versions",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-10-20T17:13:40+00:00",
+    "fetched_at": "2026-10-20T17:54:19+00:00",
+    "summary": "You can now get the version of a vulnerable dependency directly from Dependabot alert responses in the REST API. Each alert’s dependency object includes a new version_requirement field with the… The post Dependabot alerts REST API now includes dependency versions appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "CodeQL/Dependabot",
+      "GitHub"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "354363b090bad9d4e52d"
+  },
+  {
     "title": "As venture funding retreats, Thailand’s corporate investors gain more power",
     "url": "https://e27.co/as-venture-funding-retreats-thailands-corporate-investors-gain-more-power-20261016/",
     "source": "e27 Asia Startup and Tech Feed",
