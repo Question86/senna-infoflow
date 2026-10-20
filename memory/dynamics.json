@@ -1,29 +1,55 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-20T10:03:01Z",
+  "generated_at": "2026-10-20T10:23:41Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 3,
+      "krass": 5,
       "strong": 10,
       "watch": 14,
-      "quiet": 13
+      "quiet": 11
     },
     "bands_after_gate_recheck": {
-      "strong": 13,
+      "krass": 1,
+      "strong": 14,
       "watch": 14,
-      "quiet": 13
+      "quiet": 11
     }
   },
   "top_dynamics": [
+    {
+      "title": "[UPDATE] [hoch] Apache Camel: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4010",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-20T10:15:51+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code, 10",
+        "security high-signal: code, 10"
+      ],
+      "summary": "Ein Angreifer aus einem angrenzenden Netzwerk kann eine Schwachstelle in Apache Camel ausnutzen, um beliebigen Programmcode auszuführen."
+    },
     {
       "title": "アツミ電氣製DVRに利用可能な非公開機能を悪用される問題",
       "url": "https://jvn.jp/jp/JVN88864366/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-20T14:00:00+09:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -47,7 +73,7 @@
       "url": "https://jvn.jp/jp/JVN29783594/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-20T12:00:00+09:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -71,7 +97,7 @@
       "url": "https://e27.co/every-company-grows-through-thorns-know-when-one-has-gone-too-deep-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T02:00:28+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "ai"
       ],
@@ -92,11 +118,37 @@
       "summary": "Nobody builds a company without picking up thorns. An investor who pushes too hard. A customer who demands everything and pays late. A high performer who leaves damage behind every meeting. Most of that friction is useful. It forces decisions a comfortable company would keep putting off. The hard investor sharpens the…"
     },
     {
+      "title": "[UPDATE] [hoch] MariaDB: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4018",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-20T10:15:51+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code, auth",
+        "security high-signal: code, auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in MariaDB ausnutzen, um beliebigen Programmcode auszuführen, SQL-Injection durchzuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen oder einen Denial-of-Service-Zustand auszulösen."
+    },
+    {
       "title": "[UPDATE] [hoch] Drupal Core, Gin Admin Theme und Entity List: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3968",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-20T09:55:51+00:00",
-      "age_days": 0.0,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -122,7 +174,7 @@
       "url": "https://red.anthropic.com/oss-scanner/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-09T09:25:09+00:00",
-      "age_days": 11.03,
+      "age_days": 11.04,
       "topics": [
         "ai",
         "security"
@@ -149,7 +201,7 @@
       "url": "https://e27.co/banks-want-ai-agents-to-move-money-as-long-as-someone-is-accountable-20261020/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T07:39:30+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "macro"
@@ -177,7 +229,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 123.34,
+      "age_days": 123.35,
       "topics": [
         "ai"
       ],
@@ -196,7 +248,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 123.3d old signal",
+        "aging penalty -8.0 for 123.4d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -206,7 +258,7 @@
       "url": "https://jvn.jp/jp/JVN33436631/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-20T12:00:15+09:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -232,7 +284,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11298-d9dd5-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-10-20T06:37:00+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -256,7 +308,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11296-d3d95-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-10-20T06:15:00+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -280,7 +332,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11294-4e5d8-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-10-20T06:08:00+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -304,7 +356,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-20T04:36:56.091+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -329,7 +381,7 @@
       "url": "https://e27.co/how-i-use-ai-to-keep-the-details-straight-in-international-partnerships-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T03:00:42+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -356,7 +408,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ka",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-20T06:55:59.040+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -381,7 +433,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-20T01:29:11.040+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "disaster"
       ],
@@ -406,7 +458,7 @@
       "url": "https://e27.co/deloitte-demo-day-2026-20261020/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T07:46:54+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [],
       "dynamics_score": 19.0,
       "raw_band": "watch",
@@ -430,7 +482,7 @@
       "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp261020~679813bbc5.en.html",
       "source": "ECB Statistical Press Releases",
       "published_at": "2026-10-20T08:00:00+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "macro"
       ],
@@ -454,7 +506,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3l3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-20T09:22:19.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -479,7 +531,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3l0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-20T09:10:34.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -504,7 +556,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3kg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-20T07:33:12.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -529,7 +581,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3k5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-20T06:41:22.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -554,7 +606,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-20T03:09:16.040+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "disaster"
       ],
@@ -579,7 +631,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-20T00:58:14.040+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "disaster"
       ],
@@ -604,7 +656,7 @@
       "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261020~97e2e4bc38.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-10-20T07:00:00+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "macro"
       ],
@@ -628,7 +680,7 @@
       "url": "https://coliss.com/articles/build-websites/operation/work/crafting-apps-20261020.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-20T01:17:25+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "general"
       ],
@@ -652,7 +704,7 @@
       "url": "https://e27.co/gotos-27b-model-speaks-batak-but-the-real-test-is-who-can-afford-to-run-it-20261020/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T09:17:49+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -678,7 +730,7 @@
       "url": "https://e27.co/hsbc-says-ai-will-create-jobs-southeast-asia-should-read-the-fine-print-first-20261020/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T05:00:19+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "ai",
         "macro"
@@ -705,7 +757,7 @@
       "url": "https://github.com/Comfy-Org/ComfyUI",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-20T05:54:10+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -731,7 +783,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261020-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-20T02:20:02+00:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "general"
       ],
@@ -755,7 +807,7 @@
       "url": "https://services.digital.go.jp/mynumbercard-android/news/13d5101e1dce63e2b6bdc/",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-20T00:31:53+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "general"
       ],
@@ -779,7 +831,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002426/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-20T06:16:53+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -803,7 +855,7 @@
       "url": "https://blog.nishimu.land/entry/2026/10/20/123916",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-20T04:10:49+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -827,7 +879,7 @@
       "url": "https://www.itmedia.co.jp/mobile/articles/2610/20/news042.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-19T21:21:55+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "general"
       ],
@@ -851,7 +903,7 @@
       "url": "https://star.hatenastaff.com/entry/2026/10/19/140533",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-19T10:38:08+00:00",
-      "age_days": 0.98,
+      "age_days": 0.99,
       "topics": [
         "general"
       ],
@@ -875,7 +927,7 @@
       "url": "https://e27.co/as-venture-funding-retreats-thailands-corporate-investors-gain-more-power-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T01:00:42+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "ai",
         "macro"
@@ -902,7 +954,7 @@
       "url": "https://e27.co/ibrahim-arief-is-building-a-legal-ai-startup-from-city-detention-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T01:00:25+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "ai"
       ],
@@ -928,7 +980,7 @@
       "url": "https://posfie.com/@petaritape/p/aa5HeGM",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-19T10:37:03+00:00",
-      "age_days": 0.98,
+      "age_days": 0.99,
       "topics": [
         "ai"
       ],
@@ -954,7 +1006,7 @@
       "url": "https://www.digital.go.jp/councils/digital-talent-development-policy/773e7837-8bf8-4599-bbba-c31e813c4ad7",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-20T00:25:29+00:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "general"
       ],
@@ -972,58 +1024,7 @@
         "no strong comparative reason"
       ],
       "summary": "今後のデジタル人材育成政策に関する検討会（第2回）の議事次第および資料を掲載しました"
-    },
-    {
-      "title": "AWS LambdaでNext.jsやHonoなどNode.jsフレームワークとアプリをそのままデプロイ、実行できる「AWS Lambda Web Functions」発表",
-      "url": "https://www.publickey1.jp/blog/26/aws_lambdanextjshononodejsaws_lambda_web_functions.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-19T15:11:20+00:00",
-      "age_days": 0.79,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "AWS LambdaでNext.jsやHonoなどNode.jsフレームワークとアプリをそのままデプロイ、実行できる「AWS Lambda Web Functions」発表 Amazon Web Services（AWS）は、サーバレス基盤のAWS Lambda上でNext.jsやExpress、Hono、FastifyなどのNode.js用フレームワークとそのアプリケーションをそのままデプロイして実行できる新..."
-    },
-    {
-      "title": "The consumer is still human. The gatekeeper isn’t",
-      "url": "https://e27.co/the-consumer-is-still-human-the-gatekeeper-isnt-20261016/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-20T04:00:06+00:00",
-      "age_days": 0.25,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 4.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "For most of my career in marketing, the basic equation was simple: Brands compete for consumers’ attention. We built campaigns to reach people, influence them, persuade them and ultimately get them to buy. Search changed that equation. Social media changed it again. Algorithms changed it further. Now AI is changing so…"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “アツミ電氣製DVRに利用可能な非公開機能を悪用される問題” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Apache Camel: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
 }
