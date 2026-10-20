@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-20T13:59:56+00:00",
+  "generated_at": "2026-10-20T14:18:05+00:00",
   "topics": {
     "ai": [
       {
@@ -17,6 +17,13 @@
         "published_at": null,
         "relevance_score": 16,
         "url": "https://github.com/Comfy-Org/ComfyUI"
+      },
+      {
+        "title": "Dependabot now supports npm 12, pnpm 11 and 12, and Bun 1.4",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-20T13:52:38+00:00",
+        "relevance_score": 15,
+        "url": "https://github.blog/changelog/2026-10-20-dependabot-now-supports-npm-12-pnpm-11-and-12-and-bun-1-4"
       },
       {
         "title": "GoTo’s 27B model speaks Batak, but the real test is who can afford to run it",
@@ -66,13 +73,6 @@
         "published_at": "2026-10-20T01:00:25+00:00",
         "relevance_score": 12,
         "url": "https://e27.co/ibrahim-arief-is-building-a-legal-ai-startup-from-city-detention-20261019/"
-      },
-      {
-        "title": "1か月ぐらいClaude Codeと伴走してたけどもう疲れてしまった。育てたら快適になると信じて育ててたけど、もはや健康被害が出そうなレベルで強いストレスを感じている。AI使うのやめたいです。→「ClaudCodeとAIを新入社員に読み替えてみたら分かりやすいのですが。 そのつもりで使うとまた違うんですけどね」",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-19T10:37:03+00:00",
-        "relevance_score": 11,
-        "url": "https://posfie.com/@petaritape/p/aa5HeGM"
       }
     ],
     "github": [
@@ -96,6 +96,13 @@
         "published_at": null,
         "relevance_score": 16,
         "url": "https://github.com/Comfy-Org/ComfyUI"
+      },
+      {
+        "title": "Dependabot now supports npm 12, pnpm 11 and 12, and Bun 1.4",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-20T13:52:38+00:00",
+        "relevance_score": 15,
+        "url": "https://github.blog/changelog/2026-10-20-dependabot-now-supports-npm-12-pnpm-11-and-12-and-bun-1-4"
       },
       {
         "title": "HSBC says AI will create jobs. Southeast Asia should read the fine print first",
