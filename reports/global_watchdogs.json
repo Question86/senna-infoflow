@@ -1,7 +1,22 @@
 {
-  "generated_at": "2026-10-20T10:42:51+00:00",
+  "generated_at": "2026-10-20T10:50:18+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "USGS earthquake M5.0 - 80 km SSE of Sand Point, Alaska",
+        "summary": "M5.0 - 80 km SSE of Sand Point, Alaska. PAGER alert: none. Tsunami flag: 1.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/attn7cbt",
+        "published_at": "2026-10-20T10:40:41+00:00",
+        "metrics": {
+          "mag": 5.0,
+          "alert": "",
+          "sig": 385.0,
+          "tsunami": 1
+        }
+      },
       {
         "domain": "security",
         "severity": "high",

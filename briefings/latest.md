@@ -1,14 +1,18 @@
 # Senna Briefing
 
-_Generiert: 2026-10-20T10:42:48+00:00_
+_Generiert: 2026-10-20T10:50:15+00:00_
 
 ## Kurzlage
 
-52 neue relevante Treffer. Stärkstes Signal: „Banks want AI agents to move money, as long as someone is accountable“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
+53 neue relevante Treffer. Stärkstes Signal: „Banks want AI agents to move money, as long as someone is accountable“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **USGS earthquake M5.0 - 80 km SSE of Sand Point, Alaska** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/attn7cbt)
+  - Quelle: USGS
+  - Zeit: `2026-10-20T10:40:41+00:00`
+  - Kurz: M5.0 - 80 km SSE of Sand Point, Alaska. PAGER alert: none. Tsunami flag: 1.
 - **USGS earthquake M6.3 - 197 km NW of Port-Olry, Vanuatu** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jl)
   - Quelle: USGS
   - Zeit: `2026-10-20T04:20:38+00:00`
