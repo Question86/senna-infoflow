@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T23:19:45+00:00",
-  "run_id": "2026-10-20T23:19:45+00:00",
+  "generated_at": "2026-10-20T23:28:36+00:00",
+  "run_id": "2026-10-20T23:28:36+00:00",
   "date": "2026-10-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 103,
     "displayed_findings": 103,
     "high": 0,
@@ -5209,29 +5209,7 @@
       "id": "03fcb7f0882d5d20bf1c"
     }
   ],
-  "new_findings": [
-    {
-      "title": "国の省エネ住宅事業で2万3000件超の情報漏えいのおそれ | NHKニュース",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261020de62509",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-20T20:35:51+00:00",
-      "fetched_at": "2026-10-20T23:19:15+00:00",
-      "summary": "国土交通省などは、国の省エネ住宅に関する補助金を受け付けていた大手広告会社が不正アクセスを受けて、申請などを行った事業者、2万3000人あまりの個人情報が漏えいしたおそれがあると発表しました。 国…",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9f436604f9496c5901c7"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
