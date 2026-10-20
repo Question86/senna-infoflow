@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-20T04:03:37Z",
+  "generated_at": "2026-10-20T04:41:43Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 25,
+    "dynamics": 28,
     "bands": {
-      "strong": 5,
+      "strong": 6,
       "watch": 3,
-      "quiet": 17
+      "quiet": 19
     },
     "bands_after_gate_recheck": {
-      "strong": 5,
+      "strong": 6,
       "watch": 3,
-      "quiet": 17
+      "quiet": 19
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://jvn.jp/jp/JVN29783594/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-20T12:00:00+09:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -46,7 +46,7 @@
       "url": "https://e27.co/every-company-grows-through-thorns-know-when-one-has-gone-too-deep-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T02:00:28+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -71,7 +71,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 123.09,
+      "age_days": 123.11,
       "topics": [
         "ai"
       ],
@@ -100,7 +100,7 @@
       "url": "https://jvn.jp/jp/JVN33436631/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-20T12:00:15+09:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -122,11 +122,36 @@
       "summary": "Lenovoが提供する複数のタブレットのAVB（Android Verified Boot）機能では、AOSP（Android Open Source Project）で公開されているテスト用の鍵をそのまま使用しています。"
     },
     {
+      "title": "M 6.3 - 204 km WNW of Port-Olry, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jl",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-20T04:36:56.091+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 21.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "PAGER - GREEN ShakeMap - I Time 2026-10-20 04:20:38 UTC 2026-10-20 04:20:38 UTC at epicenter Location 14.028°S 165.484°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "How I use AI to keep the details straight in international partnerships",
       "url": "https://e27.co/how-i-use-ai-to-keep-the-details-straight-in-international-partnerships-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T03:00:42+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -153,7 +178,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-20T01:29:11.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -178,7 +203,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-20T03:09:16.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -203,7 +228,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-20T00:58:14.040+00:00",
-      "age_days": 0.13,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -228,7 +253,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261020-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-20T02:20:02+00:00",
-      "age_days": 0.07,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -252,7 +277,7 @@
       "url": "https://services.digital.go.jp/mynumbercard-android/news/13d5101e1dce63e2b6bdc/",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-20T00:31:53+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -272,11 +297,35 @@
       "summary": "「Androidのマイナンバーカード」の提供を開始しました（デジタル庁 ウェブサービス・アプリケーション）"
     },
     {
+      "title": "新コード決済「teppay」きょう開始 提供の狙いは？ “キャッシュレス疲れ”解消なるか",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2610/20/news042.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-19T21:21:55+00:00",
+      "age_days": 0.31,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "10月20日、JR東日本の「モバイルSuica」アプリにて新たなコード決済サービス“teppay（テッペイ）”が順次スタートする。2027年春にはパスモとの提携により、「モバイルPASMO」アプリでの提供も予定されている。サービス開始に際し、teppayの概要や提供の狙い、そして今後の展開を整理する。 teppayの主な特徴と機能 既存..."
+    },
+    {
       "title": "「つけたスター・ついたスター」一覧の表示期間を直近3か月に変更します - はてなスター日記",
       "url": "https://star.hatenastaff.com/entry/2026/10/19/140533",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-19T10:38:08+00:00",
-      "age_days": 0.73,
+      "age_days": 0.75,
       "topics": [
         "general"
       ],
@@ -300,7 +349,7 @@
       "url": "https://e27.co/as-venture-funding-retreats-thailands-corporate-investors-gain-more-power-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T01:00:42+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "macro"
@@ -327,7 +376,7 @@
       "url": "https://e27.co/ibrahim-arief-is-building-a-legal-ai-startup-from-city-detention-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T01:00:25+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -353,7 +402,7 @@
       "url": "https://posfie.com/@petaritape/p/aa5HeGM",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-19T10:37:03+00:00",
-      "age_days": 0.73,
+      "age_days": 0.75,
       "topics": [
         "ai"
       ],
@@ -379,7 +428,7 @@
       "url": "https://www.digital.go.jp/councils/digital-talent-development-policy/773e7837-8bf8-4599-bbba-c31e813c4ad7",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-20T00:25:29+00:00",
-      "age_days": 0.15,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -403,7 +452,7 @@
       "url": "https://www.publickey1.jp/blog/26/aws_lambdanextjshononodejsaws_lambda_web_functions.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-19T15:11:20+00:00",
-      "age_days": 0.54,
+      "age_days": 0.56,
       "topics": [
         "general"
       ],
@@ -423,11 +472,38 @@
       "summary": "AWS LambdaでNext.jsやHonoなどNode.jsフレームワークとアプリをそのままデプロイ、実行できる「AWS Lambda Web Functions」発表 Amazon Web Services（AWS）は、サーバレス基盤のAWS Lambda上でNext.jsやExpress、Hono、FastifyなどのNode.js用フレームワークとそのアプリケーションをそのままデプロイして実行できる新..."
     },
     {
+      "title": "The consumer is still human. The gatekeeper isn’t",
+      "url": "https://e27.co/the-consumer-is-still-human-the-gatekeeper-isnt-20261016/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-20T04:00:06+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 4.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "For most of my career in marketing, the basic equation was simple: Brands compete for consumers’ attention. We built campaigns to reach people, influence them, persuade them and ultimately get them to buy. Search changed that equation. Social media changed it again. Algorithms changed it further. Now AI is changing so…"
+    },
+    {
       "title": "From cash loans to motorbikes: Salmon bets US$140M on secured lending in the Philippines",
       "url": "https://e27.co/from-cash-loans-to-motorbikes-salmon-bets-us140m-on-secured-lending-in-the-philippines-20261019/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T01:45:35+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -453,7 +529,7 @@
       "url": "https://www.digital.go.jp/councils/ai_digital",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-20T02:24:18+00:00",
-      "age_days": 0.07,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -478,7 +554,7 @@
       "url": "https://e27.co/betagro-takes-majority-stake-in-freshket-as-thai-corporates-tighten-grip-on-startups-20261020/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-20T03:48:05+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "macro"
@@ -505,7 +581,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002404/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-19T21:43:25+00:00",
-      "age_days": 0.26,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -531,7 +607,7 @@
       "url": "https://news.web.nhk/newsweb/na/nd-20261020de61888",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-19T20:38:05+00:00",
-      "age_days": 0.31,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -557,7 +633,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 122.05,
+      "age_days": 122.08,
       "topics": [
         "general"
       ],
@@ -582,7 +658,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 122.05,
+      "age_days": 122.08,
       "topics": [
         "general"
       ],
@@ -607,7 +683,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 122.05,
+      "age_days": 122.08,
       "topics": [
         "ai"
       ],
@@ -634,7 +710,7 @@
       "url": "https://www.digital.go.jp/policies/genai/agent-safety-standard",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-20T00:37:09+00:00",
-      "age_days": 0.14,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
