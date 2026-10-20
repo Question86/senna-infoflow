@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-20T02:26:09+00:00_
+_Generiert: 2026-10-20T02:41:09+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „As venture funding retreats, Thailand’s corporate investors gain more power“ aus e27 Asia Startup and Tech Feed (Score 12, observation).
+14 neue relevante Treffer. Stärkstes Signal: „As venture funding retreats, Thailand’s corporate investors gain more power“ aus e27 Asia Startup and Tech Feed (Score 12, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -150,6 +150,15 @@ Keine neuen mittleren Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 国内で相次いでいる不正アクセスの一部について、IT企業「GMOインターネットグループ」の情報セキュリティー専門の子会社は「調査したところ、中国系のAIが使われていたことを確認した」とする担当者の見解を…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **AWS LambdaでNext.jsやHonoなどNode.jsフレームワークとアプリをそのままデプロイ、実行できる「AWS Lambda Web Functions」発表** — Score 5, observation — [Quelle](https://www.publickey1.jp/blog/26/aws_lambdanextjshononodejsaws_lambda_web_functions.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-19T15:11:20+00:00`, fetched `2026-10-20T02:40:39+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: AWS LambdaでNext.jsやHonoなどNode.jsフレームワークとアプリをそのままデプロイ、実行できる「AWS Lambda Web Functions」発表 Amazon Web Services（AWS）は、サーバレス基盤のAWS Lambda上でNext.jsやExpress、Hono、FastifyなどのNode.js用フレームワークとそのアプリケーションをそのままデプロイして実行できる新...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
