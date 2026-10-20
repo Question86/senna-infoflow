@@ -443,5 +443,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "1df68b146b6f3185dbd7"
+  },
+  {
+    "title": "「つけたスター・ついたスター」一覧の表示期間を直近3か月に変更します - はてなスター日記",
+    "url": "https://star.hatenastaff.com/entry/2026/10/19/140533",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-19T10:38:08+00:00",
+    "fetched_at": "2026-10-20T03:36:20+00:00",
+    "summary": "いつもはてなスターをご利用いただき、ありがとうございます。 2026年10月26日より、はてなスターページ内「つけたスター・ついたスター」一覧に表示する履歴を直近3か月分に変更します。変更後は、それより前の履歴をこの一覧で確認できなくなります。 「つけたスター・ついたスター」の履歴は、本来3か月分を保持する...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "831acd0a412efccbe939"
   }
 ]
