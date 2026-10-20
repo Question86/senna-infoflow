@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-20T18:00:36+00:00",
+  "generated_at": "2026-10-20T18:24:54+00:00",
   "topics": {
     "ai": [
       {
@@ -119,6 +119,13 @@
         "url": "https://red.anthropic.com/oss-scanner/"
       },
       {
+        "title": "Updates to GitHub secret scanning",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-20T18:03:55+00:00",
+        "relevance_score": 12,
+        "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning"
+      },
+      {
         "title": "Dependabot alerts REST API now includes dependency versions",
         "source": "GitHub Changelog Atom",
         "published_at": "2026-10-20T17:13:40+00:00",
@@ -170,6 +177,13 @@
         "url": "https://e27.co/as-venture-funding-retreats-thailands-corporate-investors-gain-more-power-20261016/"
       },
       {
+        "title": "OpenAI acquires Orchestra Bio",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-10-20T00:00:00+00:00",
+        "relevance_score": 12,
+        "url": "https://openai.com/index/openai-to-acquire-orchestra-bio"
+      },
+      {
         "title": "Message for the 58th Annual Financial Executives Institute of the Philippines (FINEX) Conference",
         "source": "BIS Central Bankers Speeches",
         "published_at": "2026-10-20T00:00:00+00:00",
@@ -203,13 +217,6 @@
         "published_at": "2026-10-20T04:00:06+00:00",
         "relevance_score": 7,
         "url": "https://e27.co/the-consumer-is-still-human-the-gatekeeper-isnt-20261016/"
-      },
-      {
-        "title": "The Central Bank. Trust. Daft Punk.",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-10-20T00:00:00+00:00",
-        "relevance_score": 7,
-        "url": "https://www.bis.org/speeches/20261020-central-bank-trust-daft-punk"
       }
     ],
     "geopolitics": [

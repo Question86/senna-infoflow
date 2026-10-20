@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-20T18:00:36+00:00_
+_Generated: 2026-10-20T18:24:54+00:00_
 
 ## Status
 - status: `normal`
-- findings: `92`
+- findings: `95`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-10-20T18:00:36+00:00_
 - url: https://www.bis.org/speeches/20261020-economic-activity-prices-and-monetary-policy-japan
 - summary: Speech by Ms Junko Koeda, Member of the Policy Board of the Bank of Japan, at a meeting with local leaders, Kumamoto, 15 October 2026.
 
-### 8. Dependabot alerts REST API now includes dependency versions
+### 8. Updates to GitHub secret scanning
 - source: GitHub Changelog Atom
 - score: `12`
-- published: `2026-10-20T17:13:40+00:00`
-- url: https://github.blog/changelog/2026-10-20-dependabot-alerts-rest-api-now-includes-dependency-versions
-- summary: You can now get the version of a vulnerable dependency directly from Dependabot alert responses in the REST API. Each alert’s dependency object includes a new version_requirement field with the… The post Dependabot alerts REST API now includes dependency vers…
+- published: `2026-10-20T18:03:55+00:00`
+- url: https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning
+- summary: This update covers improvements and bug fixes for GitHub secret scanning. Update to audit log events On November 12, 2026, the business field in affected secret_scanning_alert.* and secret_scanning_push_protection.bypass audit log… The post Updates to GitHub…
 
 END OF DOCUMENT
