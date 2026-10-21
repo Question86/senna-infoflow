@@ -1155,6 +1155,26 @@
     "id": "81e6cf11e4af07b87572"
   },
   {
+    "title": "Angriffe via ConnectWise Cloud Backup",
+    "url": "https://www.heise.de/news/Angriffe-via-ConnectWise-Cloud-Backup-11495835.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-10-21T14:27:00.000+00:00",
+    "fetched_at": "2026-10-21T14:41:41+00:00",
+    "summary": "Nutzer des Cloud Backups von ConnectWise müssen dringend ihre Systeme prüfen, da Angreifer diese möglicherweise bereits kompromittiert haben.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "dec6fb8cdac679b5cfae"
+  },
+  {
     "title": "php2shell: Kritische Sicherheitslücken erlauben Codeeinschleusung in PHP",
     "url": "https://www.heise.de/news/php2shell-Kritische-Sicherheitsluecken-erlauben-Codeeinschleusung-in-PHP-11492938.html",
     "source": "heise Security Alerts",
