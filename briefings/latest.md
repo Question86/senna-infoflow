@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-21T01:53:21+00:00_
+_Generiert: 2026-10-21T02:03:31+00:00_
 
 ## Kurzlage
 
-11 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月20日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+13 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月20日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -104,6 +104,24 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **I still work 40 hours a week. AI turns it into 120** — Score 13, observation — [Quelle](https://e27.co/i-still-work-40-hours-a-week-ai-turns-it-into-120-20261016/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-21T02:00:31+00:00`, fetched `2026-10-21T02:03:00+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Content-Chance
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Content-Chance (+5.0); recent (+1.0)
+  - Kurz: I teach people how to use AI for a living. So you would expect me to tell you it does everything. It doesn’t. What it does is take a huge amount of the grind out of my week, as long as I stay in the loop. Most of what I have learned came from AI […] The post I still work 40 hours a week. AI turns it into 120 appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Recent AI-Assisted Cyber Attacks in Japan: Investigating Attack Infrastructure and Techniques** — Score 12, observation — [Quelle](https://blogs.jpcert.or.jp/en/2026/10/web_api_attacks.html)
+  - Quelle: JPCERT/CC English Blog Atom / `rss`
+  - Zeit: published `2026-10-21T02:00:00+00:00`, fetched `2026-10-21T02:03:00+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, JPCERT
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); JPCERT (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: On October 8, 2026, JPCERT/CC issued an ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Anthropic「OSS Scanner」の概要 - Claude MythosでOSSの脆弱性を無料検出｜npaka** — Score 12, observation — [Quelle](https://note.com/npaka/n/nba1723dba4e1)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-20T09:51:38+00:00`, fetched `2026-10-21T00:23:10+00:00`
