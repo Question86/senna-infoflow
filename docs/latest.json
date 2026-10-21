@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T02:57:30+00:00",
-  "run_id": "2026-10-21T02:57:30+00:00",
+  "generated_at": "2026-10-21T03:08:50+00:00",
+  "run_id": "2026-10-21T03:08:50+00:00",
   "date": "2026-10-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 15
+      "configured_public_sources_only": 17
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 15,
-    "displayed_findings": 15,
+    "new_relevant_findings": 2,
+    "today_file_total": 17,
+    "displayed_findings": 17,
     "high": 0,
     "medium": 4,
-    "observe": 11,
+    "observe": 13,
     "source_errors": 0
   },
   "sections": {
@@ -303,6 +303,27 @@
         "id": "2755b4892a31393b341c"
       },
       {
+        "title": "How I use AI to support public relations",
+        "url": "https://e27.co/how-i-use-ai-to-support-public-relations-20261016/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-21T03:00:07+00:00",
+        "fetched_at": "2026-10-21T03:08:21+00:00",
+        "summary": "After narrowly losing yet another pitch earlier this year, I added up the time I had spent preparing proposals: 300 hours in four months. I wanted to know whether we were pursuing the right business. Using Gemini and a script in Google Docs, I compared five years of proposals with our client invoicing records. One […] The post How I use AI to support public relations appeared first on e27 .",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4a26461a3c0cde1d10c0"
+      },
+      {
         "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
         "url": "https://openai.com/index/terminal-x",
         "source": "OpenAI News RSS",
@@ -363,6 +384,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3bb3fa3ce9cc9c8a2816"
+      },
+      {
+        "title": "「PC持ってない人達って、まさかPCを毎回シャットダウンしてると思ってんの？」Windowsのシャットダウンとスリープの違いが話題に…スリープ運用の便利さと問題点も",
+        "url": "https://togetter.com/li/2760860",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-20T23:30:57+00:00",
+        "fetched_at": "2026-10-21T03:08:21+00:00",
+        "summary": "ユリー👓️だよ！ @Yullyx7 あのさ、「PS5は直ぐゲームが起動できる」見たいなの見たんやけどさもしかしてPC持ってない人達ってまさかPCを毎回シャットダウンしてると思ってんの？ 多分殆んどのPCゲーマーはPCシャットダウンしねぇぞ 2026-10-20 05:32:46 愚風 @fool_wind Microsoftが「スリープ運用してください」って散...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9808bcc9d12c58126a3f"
       },
       {
         "title": "バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった",
@@ -680,6 +722,27 @@
       "id": "2755b4892a31393b341c"
     },
     {
+      "title": "How I use AI to support public relations",
+      "url": "https://e27.co/how-i-use-ai-to-support-public-relations-20261016/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-21T03:00:07+00:00",
+      "fetched_at": "2026-10-21T03:08:21+00:00",
+      "summary": "After narrowly losing yet another pitch earlier this year, I added up the time I had spent preparing proposals: 300 hours in four months. I wanted to know whether we were pursuing the right business. Using Gemini and a script in Google Docs, I compared five years of proposals with our client invoicing records. One […] The post How I use AI to support public relations appeared first on e27 .",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4a26461a3c0cde1d10c0"
+    },
+    {
       "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
       "url": "https://openai.com/index/terminal-x",
       "source": "OpenAI News RSS",
@@ -742,6 +805,27 @@
       "id": "3bb3fa3ce9cc9c8a2816"
     },
     {
+      "title": "「PC持ってない人達って、まさかPCを毎回シャットダウンしてると思ってんの？」Windowsのシャットダウンとスリープの違いが話題に…スリープ運用の便利さと問題点も",
+      "url": "https://togetter.com/li/2760860",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-20T23:30:57+00:00",
+      "fetched_at": "2026-10-21T03:08:21+00:00",
+      "summary": "ユリー👓️だよ！ @Yullyx7 あのさ、「PS5は直ぐゲームが起動できる」見たいなの見たんやけどさもしかしてPC持ってない人達ってまさかPCを毎回シャットダウンしてると思ってんの？ 多分殆んどのPCゲーマーはPCシャットダウンしねぇぞ 2026-10-20 05:32:46 愚風 @fool_wind Microsoftが「スリープ運用してください」って散...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9808bcc9d12c58126a3f"
+    },
+    {
       "title": "バイブコーディングを6週間続けたら、Mac の起動が20分かかるようになった",
       "url": "https://zenn.dev/singularity/articles/vibe-coding-mac-boot-20min",
       "source": "Hatena Bookmark Hotentry IT",
@@ -783,7 +867,50 @@
       "id": "5b938646a92fa74113b8"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "How I use AI to support public relations",
+      "url": "https://e27.co/how-i-use-ai-to-support-public-relations-20261016/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-21T03:00:07+00:00",
+      "fetched_at": "2026-10-21T03:08:21+00:00",
+      "summary": "After narrowly losing yet another pitch earlier this year, I added up the time I had spent preparing proposals: 300 hours in four months. I wanted to know whether we were pursuing the right business. Using Gemini and a script in Google Docs, I compared five years of proposals with our client invoicing records. One […] The post How I use AI to support public relations appeared first on e27 .",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4a26461a3c0cde1d10c0"
+    },
+    {
+      "title": "「PC持ってない人達って、まさかPCを毎回シャットダウンしてると思ってんの？」Windowsのシャットダウンとスリープの違いが話題に…スリープ運用の便利さと問題点も",
+      "url": "https://togetter.com/li/2760860",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-20T23:30:57+00:00",
+      "fetched_at": "2026-10-21T03:08:21+00:00",
+      "summary": "ユリー👓️だよ！ @Yullyx7 あのさ、「PS5は直ぐゲームが起動できる」見たいなの見たんやけどさもしかしてPC持ってない人達ってまさかPCを毎回シャットダウンしてると思ってんの？ 多分殆んどのPCゲーマーはPCシャットダウンしねぇぞ 2026-10-20 05:32:46 愚風 @fool_wind Microsoftが「スリープ運用してください」って散...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9808bcc9d12c58126a3f"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

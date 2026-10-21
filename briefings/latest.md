@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-21T02:57:30+00:00_
+_Generiert: 2026-10-21T03:08:50+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月20日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+17 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月20日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -158,6 +158,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-21 01:20:02 UTC 2026-10-21 01:20:02 UTC at epicenter Location 4.599°N 82.703°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **How I use AI to support public relations** — Score 8, observation — [Quelle](https://e27.co/how-i-use-ai-to-support-public-relations-20261016/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-21T03:00:07+00:00`, fetched `2026-10-21T03:08:21+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: After narrowly losing yet another pitch earlier this year, I added up the time I had spent preparing proposals: 300 hours in four months. I wanted to know whether we were pursuing the right business. Using Gemini and a script in Google Docs, I compared five years of proposals with our client invoicing records. One […] The post How I use AI to support public relations appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Terminal X matches senior investor judgment 88.6% with GPT-6.1** — Score 8, observation — [Quelle](https://openai.com/index/terminal-x)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-10-20T07:00:00+00:00`, fetched `2026-10-21T01:03:11+00:00`
@@ -175,15 +184,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: PHPの開発プロジェクトでセキュリティを担当するチームは10月20日（協定世界時）、2件の重大な脆弱性を修正するセキュリティアップデートを同日午後2時（日本時間の21日午後11時）に公開すると予告した。脆弱性の詳細や影響を受けるバージョン、修正版のバージョンは公開と同時に明らかにする。全てのPHPユーザーに対し...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Google may already be showing us its route to AGI** — Score 4, observation — [Quelle](https://e27.co/google-may-already-be-showing-us-its-route-to-agi-20260916/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-21T01:00:04+00:00`, fetched `2026-10-21T01:03:11+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: In 2015, Demis Hassabis looked back at a decision he had made more than a decade earlier. By 2004 he was already thinking about what would eventually become DeepMind, but concluded that the technology was not ready. As he later put it, “we still didn’t have enough of the components.” Deep learning had not yet […] The post Google may already be showing us its route to AGI appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
