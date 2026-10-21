@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T07:59:07+00:00",
-  "run_id": "2026-10-21T07:59:07+00:00",
+  "generated_at": "2026-10-21T08:19:14+00:00",
+  "run_id": "2026-10-21T08:19:14+00:00",
   "date": "2026-10-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 30
+      "configured_public_sources_only": 32
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 30,
-    "displayed_findings": 30,
+    "new_relevant_findings": 2,
+    "today_file_total": 32,
+    "displayed_findings": 32,
     "high": 0,
     "medium": 5,
-    "observe": 25,
+    "observe": 27,
     "source_errors": 0
   },
   "sections": {
@@ -399,6 +399,42 @@
         "id": "dfeb4121cfb224dba6c2"
       },
       {
+        "title": "M 5.1 - 164 km NE of Lospalos, Timor Leste",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3t4",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-10-21T08:12:43.918+00:00",
+        "fetched_at": "2026-10-21T08:18:44+00:00",
+        "summary": "DYFI? - II Time 2026-10-21 07:44:16 UTC 2026-10-21 07:44:16 UTC at epicenter Location 7.562°S 128.136°E Depth 122.69 km (76.23 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "1d96333e3521745051eb"
+      },
+      {
         "title": "M 4.7 - 173 km NW of Port-Olry, Vanuatu",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3sj",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -469,6 +505,26 @@
           "LOW"
         ],
         "id": "2755b4892a31393b341c"
+      },
+      {
+        "title": "Piero Cipollone: Pontes and Appia: unlocking opportunities for banks",
+        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021_1~d190f2c349.en.pdf",
+        "source": "ECB Press Releases Speeches Interviews",
+        "source_type": "rss",
+        "published_at": "2026-10-21T08:00:00+00:00",
+        "fetched_at": "2026-10-21T08:18:44+00:00",
+        "summary": "Piero Cipollone: Pontes and Appia: unlocking opportunities for banks",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a828fb0a28a92266e79c"
       },
       {
         "title": "Philip R. Lane: Euro liquidity lines and the international monetary system",
@@ -1107,6 +1163,42 @@
       "id": "dfeb4121cfb224dba6c2"
     },
     {
+      "title": "M 5.1 - 164 km NE of Lospalos, Timor Leste",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3t4",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-21T08:12:43.918+00:00",
+      "fetched_at": "2026-10-21T08:18:44+00:00",
+      "summary": "DYFI? - II Time 2026-10-21 07:44:16 UTC 2026-10-21 07:44:16 UTC at epicenter Location 7.562°S 128.136°E Depth 122.69 km (76.23 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "1d96333e3521745051eb"
+    },
+    {
       "title": "M 4.7 - 173 km NW of Port-Olry, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3sj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1177,6 +1269,26 @@
         "LOW"
       ],
       "id": "2755b4892a31393b341c"
+    },
+    {
+      "title": "Piero Cipollone: Pontes and Appia: unlocking opportunities for banks",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021_1~d190f2c349.en.pdf",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-10-21T08:00:00+00:00",
+      "fetched_at": "2026-10-21T08:18:44+00:00",
+      "summary": "Piero Cipollone: Pontes and Appia: unlocking opportunities for banks",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a828fb0a28a92266e79c"
     },
     {
       "title": "Philip R. Lane: Euro liquidity lines and the international monetary system",
@@ -1447,24 +1559,60 @@
   ],
   "new_findings": [
     {
-      "title": "Homage turns its in-house care software into a business as Singapore turns super-aged",
-      "url": "https://e27.co/homage-turns-its-in-house-care-software-into-a-business-as-singapore-turns-super-aged-20261021/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "M 5.1 - 164 km NE of Lospalos, Timor Leste",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3t4",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-10-21T07:52:26+00:00",
-      "fetched_at": "2026-10-21T07:58:38+00:00",
-      "summary": "Ask a care manager in Singapore when the workday ends and the honest answer is: some time after the last visit, once the roster is patched, the visit notes are filed and the calls to anxious families about a missed shift are done. Homage, the Singapore-founded home care company, thinks that unglamorous back office is […] The post Homage turns its in-house care software into a business as Singapore turns super-aged a…",
+      "published_at": "2026-10-21T08:12:43.918+00:00",
+      "fetched_at": "2026-10-21T08:18:44+00:00",
+      "summary": "DYFI? - II Time 2026-10-21 07:44:16 UTC 2026-10-21 07:44:16 UTC at epicenter Location 7.562°S 128.136°E Depth 122.69 km (76.23 mi)",
       "matched_keywords": [
-        "APAC Trend Radar"
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "1d96333e3521745051eb"
+    },
+    {
+      "title": "Piero Cipollone: Pontes and Appia: unlocking opportunities for banks",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021_1~d190f2c349.en.pdf",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-10-21T08:00:00+00:00",
+      "fetched_at": "2026-10-21T08:18:44+00:00",
+      "summary": "Piero Cipollone: Pontes and Appia: unlocking opportunities for banks",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "add016a975272ca30809"
+      "id": "a828fb0a28a92266e79c"
     }
   ],
   "source_errors": [],

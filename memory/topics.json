@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-21T07:59:07+00:00",
+  "generated_at": "2026-10-21T08:19:14+00:00",
   "topics": {
     "ai": [
       {
@@ -128,6 +128,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3rn"
       },
       {
+        "title": "M 5.1 - 164 km NE of Lospalos, Timor Leste",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-21T08:12:43.918+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3t4"
+      },
+      {
         "title": "M 4.7 - 173 km NW of Port-Olry, Vanuatu",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-21T04:40:27.040+00:00",
@@ -221,6 +228,13 @@
         "url": "https://e27.co/malaysias-us110m-startup-bet-has-a-matching-problem-investors-warn-20261020/"
       },
       {
+        "title": "Piero Cipollone: Pontes and Appia: unlocking opportunities for banks",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-10-21T08:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021_1~d190f2c349.en.pdf"
+      },
+      {
         "title": "Philip R. Lane: Euro liquidity lines and the international monetary system",
         "source": "ECB Press Releases Speeches Interviews",
         "published_at": "2026-10-21T04:15:00+00:00",
@@ -277,6 +291,13 @@
         "published_at": "2026-10-21T05:00:18+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/southeast-asias-us1t-digital-dream-slips-five-years-and-ai-is-the-new-reason-to-keep-believing-20261021/"
+      },
+      {
+        "title": "Piero Cipollone: Pontes and Appia: unlocking opportunities for banks",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-10-21T08:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021_1~d190f2c349.en.pdf"
       }
     ],
     "github": [

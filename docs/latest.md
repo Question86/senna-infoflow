@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-21T07:59:07+00:00_
+_Generiert: 2026-10-21T08:19:14+00:00_
 
 ## Kurzlage
 
-30 neue relevante Treffer. Stärkstes Signal: „Agentic AI is Singapore’s hottest job skill, and that should worry the people it replaces“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
+32 neue relevante Treffer. Stärkstes Signal: „Agentic AI is Singapore’s hottest job skill, and that should worry the people it replaces“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
 
 ## Priorität Hoch
 
@@ -132,6 +132,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: hitode909 株式会社はてなのエンジニアリングマネージャー。学生時代から趣味でWebサービス開発に熱中。「YAPC::Asia」や「YAPC::Japan」など勉強会にて登壇多数。2011年から毎日更新している「hitode909の日記」では、ITと、5歳の子どもとの暮らしについて書いている。現在はマンガサービスの開発チームで、コードとチ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.1 - 164 km NE of Lospalos, Timor Leste** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3t4)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-21T08:12:43.918+00:00`, fetched `2026-10-21T08:18:44+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: DYFI? - II Time 2026-10-21 07:44:16 UTC 2026-10-21 07:44:16 UTC at epicenter Location 7.562°S 128.136°E Depth 122.69 km (76.23 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.7 - 173 km NW of Port-Olry, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3sj)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-21T04:40:27.040+00:00`, fetched `2026-10-21T04:49:46+00:00`
@@ -150,6 +159,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-21 01:20:02 UTC 2026-10-21 01:20:02 UTC at epicenter Location 4.599°N 82.703°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Piero Cipollone: Pontes and Appia: unlocking opportunities for banks** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021_1~d190f2c349.en.pdf)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-10-21T08:00:00+00:00`, fetched `2026-10-21T08:18:44+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Piero Cipollone: Pontes and Appia: unlocking opportunities for banks
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Philip R. Lane: Euro liquidity lines and the international monetary system** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-10-21T04:15:00+00:00`, fetched `2026-10-21T04:21:50+00:00`
@@ -176,15 +194,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Angreifer nehmen Schwachstellen in Plex Media Server, SiteGuard Server und Siemens Software Center ins Visier, warnt die CISA.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **機械可読性ルール適合チェックツール「Harunobu」について掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/resources/machine-readability-rule/harunobu)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-10-21T06:00:00+00:00`, fetched `2026-10-21T06:29:55+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 機械可読性ルール適合チェックツール「Harunobu」について掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
