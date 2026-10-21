@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-21T14:57:37+00:00_
+_Generiert: 2026-10-21T15:07:32+00:00_
 
 ## Kurzlage
 
-76 neue relevante Treffer. Stärkstes Signal: „Using thousands of AI agents to uncover new leads in biological data“ aus OpenAI News RSS (Score 20, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+77 neue relevante Treffer. Stärkstes Signal: „Using thousands of AI agents to uncover new leads in biological data“ aus OpenAI News RSS (Score 20, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -75,6 +75,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Patch the Planet: global response coordination as agents uncover critical vulnerabilities** — Score 16, opportunity — [Quelle](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-21T07:00:00+00:00`, fetched `2026-10-21T15:07:00+00:00`
+  - Treffer: Open Source, OpenAI, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); Security (+6.0); Open Source (+3.0); recent (+1.0)
+  - Kurz: Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **M 5.2 - 68 km NE of Cabatuan, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3t6)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-21T08:54:47.040+00:00`, fetched `2026-10-21T09:00:35+00:00`
