@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-21T04:57:38+00:00",
+  "generated_at": "2026-10-21T05:07:34+00:00",
   "topics": {
     "ai": [
       {
@@ -40,6 +40,13 @@
         "url": "https://note.com/npaka/n/nba1723dba4e1"
       },
       {
+        "title": "Southeast Asia’s US$1T digital dream slips five years, and AI is the new reason to keep believing",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-21T05:00:18+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/southeast-asias-us1t-digital-dream-slips-five-years-and-ai-is-the-new-reason-to-keep-believing-20261021/"
+      },
+      {
         "title": "余暇のほとんどをITに使っていたエンジニアは、子どもが生まれてITとの付き合い方をどう変えたのか - レバテックLAB",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-10-21T02:06:33+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-10-20T07:00:00+00:00",
         "relevance_score": 8,
         "url": "https://openai.com/index/terminal-x"
-      },
-      {
-        "title": "【Excel】AIが作った数式に「--」が入っていたけど、いらなくない？ 削除禁止の理由【いまさら聞けないExcelの使い方講座】",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-20T22:15:35+00:00",
-        "relevance_score": 5,
-        "url": "https://forest.watch.impress.co.jp/docs/serial/exceltips/2149792.html"
       }
     ],
     "security": [
@@ -200,6 +200,13 @@
         "published_at": "2026-10-21T03:30:15+00:00",
         "relevance_score": 12,
         "url": "https://e27.co/ai-wont-tidy-your-business-it-just-moves-the-mess-faster-20261018/"
+      },
+      {
+        "title": "Southeast Asia’s US$1T digital dream slips five years, and AI is the new reason to keep believing",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-21T05:00:18+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/southeast-asias-us1t-digital-dream-slips-five-years-and-ai-is-the-new-reason-to-keep-believing-20261021/"
       }
     ]
   }
