@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-21T10:58:51+00:00_
+_Generiert: 2026-10-21T11:13:00+00:00_
 
 ## Kurzlage
 
-50 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Atlassian Produkte (Bamboo, Bitbucket, Confluence, Crucible, Fisheye und Jira): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 17, observation).
+50 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Atlassian Produkte (Bamboo, Bitbucket, Confluence, Crucible, Fisheye und Jira): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 17, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,14 +33,6 @@ _Generiert: 2026-10-21T10:58:51+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.3M, Depth:16km) in Vanuatu Islands 20/10/2026 04:20 UTC, [unknown].
-- **GDACS: Green flood alert in Ukraine** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104242)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Ukraine
-- **GDACS: Green flood alert in France** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104243)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in France
 - **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Vanuatu Islands 19/10/2026 18:55 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1572622)
   - Quelle: GDACS
   - Zeit: ``
@@ -49,10 +41,6 @@ _Generiert: 2026-10-21T10:58:51+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.7M, Depth:10km) in Vanuatu Islands 19/10/2026 18:52 UTC, [unknown].
-- **GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu 19/10/2026 07:49 UTC, 2 thousand in MMI&gt;=III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1572503)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu 19/10/2026 07:49 UTC, 2 thousand in MMI&gt;=III.
 
 ## Wirtschaft global
 
@@ -297,3 +285,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `cert_eu_security_advisories` (rss): HTTPSConnectionPool(host='cert.europa.eu', port=443): Read timed out. (read timeout=8)

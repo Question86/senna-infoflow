@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-21T10:58:51+00:00_
+_Generiert: 2026-10-21T11:13:00+00:00_
 
 ## Kurzlage
 
-50 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Atlassian Produkte (Bamboo, Bitbucket, Confluence, Crucible, Fisheye und Jira): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 17, observation).
+50 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Atlassian Produkte (Bamboo, Bitbucket, Confluence, Crucible, Fisheye und Jira): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 17, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -240,3 +240,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `cert_eu_security_advisories` (rss): HTTPSConnectionPool(host='cert.europa.eu', port=443): Read timed out. (read timeout=8)
