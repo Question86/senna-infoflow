@@ -1,0 +1,25 @@
+[
+  {
+    "title": "Anthropic「OSS Scanner」の概要 - Claude MythosでOSSの脆弱性を無料検出｜npaka",
+    "url": "https://note.com/npaka/n/nba1723dba4e1",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-20T09:51:38+00:00",
+    "fetched_at": "2026-10-21T00:23:10+00:00",
+    "summary": "1. OSS Scanner2026年10月8日、Anthropicは、オープンソースソフトウェア（OSS）の脆弱性をAIで検出する無料サービス「OSS Scanner」を発表しました。 OSS Scannerは、Claude Mythosなどの高性能AIモデルを使って、OSSのソースコードを定期的に分析し、脆弱性を発見するサービスです。 主な特徴は次のとおりです。 ・AI...",
+    "matched_keywords": [
+      "AI/KI",
+      "Hatena",
+      "hotentry",
+      "Open Source"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "AI/KI (+3.0); Open Source (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a9b8c1b6942b76b7ce13"
+  }
+]
