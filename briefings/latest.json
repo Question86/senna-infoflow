@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T04:22:23+00:00",
-  "run_id": "2026-10-21T04:22:23+00:00",
+  "generated_at": "2026-10-21T04:38:01+00:00",
+  "run_id": "2026-10-21T04:38:01+00:00",
   "date": "2026-10-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 22,
     "displayed_findings": 22,
     "high": 0,
@@ -1081,50 +1081,7 @@
       "id": "5b938646a92fa74113b8"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Agentic AI is Singapore’s hottest job skill, and that should worry the people it replaces",
-      "url": "https://e27.co/agentic-ai-is-singapores-hottest-job-skill-and-that-should-worry-the-people-it-replaces-20261021/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-21T04:19:38+00:00",
-      "fetched_at": "2026-10-21T04:21:50+00:00",
-      "summary": "Somewhere in Singapore this week, a recruiter is probably rewriting a job ad that once asked for “advanced Excel skills” so that it now asks for “hands-on experience with agentic AI workflows”. Multiply that by a few thousand listings and you arrive at the headline figure in Jobstreet by SEEK’s new AI Gauge. According to […] The post Agentic AI is Singapore’s hottest job skill, and that should worry the people it re…",
-      "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 17,
-      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "229b7aff7f4bed5ffa78"
-    },
-    {
-      "title": "Philip R. Lane: Euro liquidity lines and the international monetary system",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
-      "source_type": "rss",
-      "published_at": "2026-10-21T04:15:00+00:00",
-      "fetched_at": "2026-10-21T04:21:50+00:00",
-      "summary": "Philip R. Lane: Euro liquidity lines and the international monetary system",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6bdff714dd3bc0e79de2"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
