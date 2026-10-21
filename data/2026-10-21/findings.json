@@ -556,6 +556,26 @@
     "id": "81e6cf11e4af07b87572"
   },
   {
+    "title": "Wichtige PHP-Updates am 21. Oktober beheben Codeeinschleusung-Schwachstellen",
+    "url": "https://www.heise.de/news/Wichtige-PHP-Updates-am-21-Oktober-beheben-Codeeinschleusung-Schwachstellen-11495072.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-10-21T08:22:00.000+00:00",
+    "fetched_at": "2026-10-21T08:39:16+00:00",
+    "summary": "Technische Details werden um 16 Uhr folgen, doch die Lage ist ernst: Es droht Codeausführung aus der Ferne. Admins sollten das Risiko abwägen.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "92be512fa67b91d5ccc6"
+  },
+  {
     "title": "Homage turns its in-house care software into a business as Singapore turns super-aged",
     "url": "https://e27.co/homage-turns-its-in-house-care-software-into-a-business-as-singapore-turns-super-aged-20261021/",
     "source": "e27 Asia Startup and Tech Feed",

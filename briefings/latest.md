@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-21T08:19:14+00:00_
+_Generiert: 2026-10-21T08:39:48+00:00_
 
 ## Kurzlage
 
-32 neue relevante Treffer. Stärkstes Signal: „Agentic AI is Singapore’s hottest job skill, and that should worry the people it replaces“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
+33 neue relevante Treffer. Stärkstes Signal: „Agentic AI is Singapore’s hottest job skill, and that should worry the people it replaces“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -235,14 +235,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); recent (+1.0)
   - Kurz: Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Angriffswarnungen für Plex Media Server, SiteGuard und Siemens Software Center** — Score 7, observation — [Quelle](https://www.heise.de/news/Angriffswarnungen-fuer-Plex-Media-Server-SiteGuard-und-Siemens-Software-Center-11494994.html)
+- **Wichtige PHP-Updates am 21. Oktober beheben Codeeinschleusung-Schwachstellen** — Score 7, observation — [Quelle](https://www.heise.de/news/Wichtige-PHP-Updates-am-21-Oktober-beheben-Codeeinschleusung-Schwachstellen-11495072.html)
   - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-10-21T07:22:00.000+00:00`, fetched `2026-10-21T07:36:46+00:00`
+  - Zeit: published `2026-10-21T08:22:00.000+00:00`, fetched `2026-10-21T08:39:16+00:00`
   - Treffer: Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Angreifer nehmen Schwachstellen in Plex Media Server, SiteGuard Server und Siemens Software Center ins Visier, warnt die CISA.
+  - Kurz: Technische Details werden um 16 Uhr folgen, doch die Lage ist ernst: Es droht Codeausführung aus der Ferne. Admins sollten das Risiko abwägen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
