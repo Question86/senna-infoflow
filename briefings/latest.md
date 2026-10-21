@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-21T13:58:42+00:00_
+_Generiert: 2026-10-21T14:14:22+00:00_
 
 ## Kurzlage
 
-66 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Atlassian Produkte (Bamboo, Bitbucket, Confluence, Crucible, Fisheye und Jira): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 17, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+69 neue relevante Treffer. Stärkstes Signal: „Using thousands of AI agents to uncover new leads in biological data“ aus OpenAI News RSS (Score 20, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,15 +29,15 @@ _Generiert: 2026-10-21T13:58:42+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-20`
   - Kurz: Known exploited vulnerability. Added 2026-10-20. Due 2026-11-03. Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability
-- **GDACS: Green earthquake (Magnitude 6.3M, Depth:16km) in Vanuatu Islands 20/10/2026 04:20 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1572693)
+- **GDACS: Green earthquake (Magnitude 6.3M, Depth:16km) in Vanuatu Islands 20/10/2026 04:20 UTC, [unknown].** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1572693)
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.3M, Depth:16km) in Vanuatu Islands 20/10/2026 04:20 UTC, [unknown].
-- **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Vanuatu Islands 19/10/2026 18:55 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1572622)
+- **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Vanuatu Islands 19/10/2026 18:55 UTC, [unknown].** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1572622)
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.7M, Depth:10km) in Vanuatu Islands 19/10/2026 18:55 UTC, [unknown].
-- **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Vanuatu Islands 19/10/2026 18:52 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1572618)
+- **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Vanuatu Islands 19/10/2026 18:52 UTC, [unknown].** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1572618)
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.7M, Depth:10km) in Vanuatu Islands 19/10/2026 18:52 UTC, [unknown].
@@ -57,6 +57,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Using thousands of AI agents to uncover new leads in biological data** — Score 20, opportunity — [Quelle](https://openai.com/index/scaling-ai-research-for-complex-biological-data)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-21T04:50:00+00:00`, fetched `2026-10-21T14:13:54+00:00`
+  - Treffer: AI Agents, AI/KI, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); AI Agents (+6.2); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **[NEU] [hoch] Atlassian Produkte (Bamboo, Bitbucket, Confluence, Crucible, Fisheye und Jira): Mehrere Schwachstellen** — Score 17, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4056)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-10-21T09:25:51+00:00`, fetched `2026-10-21T09:35:49+00:00`
@@ -159,6 +168,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Content-Chance (+5.0); recent (+1.0)
   - Kurz: I teach people how to use AI for a living. So you would expect me to tell you it does everything. It doesn’t. What it does is take a huge amount of the grind out of my week, as long as I stay in the loop. Most of what I have learned came from AI […] The post I still work 40 hours a week. AI turns it into 120 appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform** — Score 12, observation — [Quelle](https://openai.com/index/chatgpt-ads-expands-26-new-countries)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-21T13:00:00+00:00`, fetched `2026-10-21T14:13:54+00:00`
+  - Treffer: APAC Trend Radar, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); APAC Trend Radar (+3.8); recent (+1.0)
+  - Kurz: From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Version 1.0: PHP - Kritische Schwachstellen bedrohen Webanwendungen weltweit** — Score 12, observation — [Quelle](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297981-1032_bits.html)
   - Quelle: BSI CERT-Bund Cyber-Sicherheitswarnungen / `rss`
   - Zeit: published `2026-10-21T09:50:00+00:00`, fetched `2026-10-21T09:55:25+00:00`
@@ -176,6 +194,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)
   - Kurz: Announcing 20260093 (OT,liquidity providing), for 7 days deadline 09:45
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **How we built ChatGPT’s novel ad stack for user trust and relevance** — Score 12, observation — [Quelle](https://openai.com/index/building-chatgpt-ad-stack)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-21T07:00:00+00:00`, fetched `2026-10-21T14:13:54+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); recent (+1.0)
+  - Kurz: Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The world’s rich are turning inward. Southeast Asia’s entrepreneurs are packing their bags** — Score 12, observation — [Quelle](https://e27.co/the-worlds-rich-are-turning-inward-southeast-asias-entrepreneurs-are-packing-their-bags-20261021/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -267,27 +294,10 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-21 01:20:02 UTC 2026-10-21 01:20:02 UTC at epicenter Location 4.599°N 82.703°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Piero Cipollone: Pontes and Appia: unlocking opportunities for banks** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021_1~d190f2c349.en.pdf)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-10-21T08:00:00+00:00`, fetched `2026-10-21T08:18:44+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Piero Cipollone: Pontes and Appia: unlocking opportunities for banks
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Philip R. Lane: Euro liquidity lines and the international monetary system** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-10-21T04:15:00+00:00`, fetched `2026-10-21T04:21:50+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Philip R. Lane: Euro liquidity lines and the international monetary system
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
+- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
