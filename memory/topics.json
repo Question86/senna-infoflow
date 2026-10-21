@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-21T12:43:44+00:00",
+  "generated_at": "2026-10-21T12:59:52+00:00",
   "topics": {
     "security": [
       {
@@ -377,6 +377,13 @@
         "published_at": "2026-10-21T08:56:32+00:00",
         "relevance_score": 11,
         "url": "https://e27.co/ex-propertyguru-ceos-genie-health-raises-us3m-to-make-sense-of-your-scattered-health-data-20261021/"
+      },
+      {
+        "title": "わずか2週間でGitHubスター30万超 AIでリバースエンジニアリングする「REA」が話題",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-21T04:48:18+00:00",
+        "relevance_score": 8,
+        "url": "https://ascii.jp/elem/000/004/444/4444350/"
       }
     ]
   }
