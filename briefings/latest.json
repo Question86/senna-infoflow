@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T03:28:52+00:00",
-  "run_id": "2026-10-21T03:28:52+00:00",
+  "generated_at": "2026-10-21T03:44:09+00:00",
+  "run_id": "2026-10-21T03:44:09+00:00",
   "date": "2026-10-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 18
+      "configured_public_sources_only": 19
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 18,
-    "displayed_findings": 18,
+    "today_file_total": 19,
+    "displayed_findings": 19,
     "high": 0,
     "medium": 4,
-    "observe": 14,
+    "observe": 15,
     "source_errors": 0
   },
   "sections": {
@@ -156,6 +156,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "be832e00b8a865d8c944"
+      },
+      {
+        "title": "AI won’t tidy your business. It just moves the mess faster",
+        "url": "https://e27.co/ai-wont-tidy-your-business-it-just-moves-the-mess-faster-20261018/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-21T03:30:15+00:00",
+        "fetched_at": "2026-10-21T03:43:39+00:00",
+        "summary": "I build AI tools for marketers, and run an AI marketing software firm in Singapore, so I spend a lot of time hearing about AI adoption. A recent talk by Robert Lai, founder of performance agency Kaliber, stuck with me because it opened with an uncomfortable claim: most of the AI work in the room […] The post AI won’t tidy your business. It just moves the mess faster appeared first on e27 .",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "founder"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6bd1d364792fb441c614"
       },
       {
         "title": "PHPの重大な脆弱性「php2shell」（CVE-2026-109618、CVE-2026-109619）の概要と対応指針 - GMO Flatt Security Blog",
@@ -599,6 +621,28 @@
       "id": "be832e00b8a865d8c944"
     },
     {
+      "title": "AI won’t tidy your business. It just moves the mess faster",
+      "url": "https://e27.co/ai-wont-tidy-your-business-it-just-moves-the-mess-faster-20261018/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-21T03:30:15+00:00",
+      "fetched_at": "2026-10-21T03:43:39+00:00",
+      "summary": "I build AI tools for marketers, and run an AI marketing software firm in Singapore, so I spend a lot of time hearing about AI adoption. A recent talk by Robert Lai, founder of performance agency Kaliber, stuck with me because it opened with an uncomfortable claim: most of the AI work in the room […] The post AI won’t tidy your business. It just moves the mess faster appeared first on e27 .",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "founder"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6bd1d364792fb441c614"
+    },
+    {
       "title": "PHPの重大な脆弱性「php2shell」（CVE-2026-109618、CVE-2026-109619）の概要と対応指針 - GMO Flatt Security Blog",
       "url": "https://blog.flatt.tech/entry/php2shell",
       "source": "Hatena Bookmark Hotentry IT",
@@ -913,26 +957,26 @@
   ],
   "new_findings": [
     {
-      "title": "余暇のほとんどをITに使っていたエンジニアは、子どもが生まれてITとの付き合い方をどう変えたのか - レバテックLAB",
-      "url": "https://levtech.jp/media/detail_944/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "AI won’t tidy your business. It just moves the mess faster",
+      "url": "https://e27.co/ai-wont-tidy-your-business-it-just-moves-the-mess-faster-20261018/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-10-21T02:06:33+00:00",
-      "fetched_at": "2026-10-21T03:28:21+00:00",
-      "summary": "hitode909 株式会社はてなのエンジニアリングマネージャー。学生時代から趣味でWebサービス開発に熱中。「YAPC::Asia」や「YAPC::Japan」など勉強会にて登壇多数。2011年から毎日更新している「hitode909の日記」では、ITと、5歳の子どもとの暮らしについて書いている。現在はマンガサービスの開発チームで、コードとチ...",
+      "published_at": "2026-10-21T03:30:15+00:00",
+      "fetched_at": "2026-10-21T03:43:39+00:00",
+      "summary": "I build AI tools for marketers, and run an AI marketing software firm in Singapore, so I spend a lot of time hearing about AI adoption. A recent talk by Robert Lai, founder of performance agency Kaliber, stuck with me because it opened with an uncomfortable claim: most of the AI work in the room […] The post AI won’t tidy your business. It just moves the mess faster appeared first on e27 .",
       "matched_keywords": [
+        "AI/KI",
         "APAC Trend Radar",
-        "Hatena",
-        "hotentry"
+        "founder"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 12,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "8f0c0442e839578246b2"
+      "id": "6bd1d364792fb441c614"
     }
   ],
   "source_errors": [],
