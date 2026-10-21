@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T06:58:01+00:00",
-  "run_id": "2026-10-21T06:58:01+00:00",
+  "generated_at": "2026-10-21T07:16:23+00:00",
+  "run_id": "2026-10-21T07:16:23+00:00",
   "date": "2026-10-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 27
+      "configured_public_sources_only": 28
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 27,
-    "displayed_findings": 27,
+    "new_relevant_findings": 1,
+    "today_file_total": 28,
+    "displayed_findings": 28,
     "high": 0,
     "medium": 5,
-    "observe": 22,
+    "observe": 23,
     "source_errors": 0
   },
   "sections": {
@@ -178,6 +178,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "be832e00b8a865d8c944"
+      },
+      {
+        "title": "Announcing 20260093 (OT,liquidity providing), for 7 days deadline 09:45",
+        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260093.en.html",
+        "source": "ECB Open Market Operations and Communication",
+        "source_type": "rss",
+        "published_at": "2026-10-21T08:15:19+00:00",
+        "fetched_at": "2026-10-21T07:15:46+00:00",
+        "summary": "Announcing 20260093 (OT,liquidity providing), for 7 days deadline 09:45",
+        "matched_keywords": [
+          "liquidity",
+          "Macro/Policy",
+          "open market operations"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3390df65aa963e7af342"
       },
       {
         "title": "The world’s rich are turning inward. Southeast Asia’s entrepreneurs are packing their bags",
@@ -826,6 +848,28 @@
       "id": "be832e00b8a865d8c944"
     },
     {
+      "title": "Announcing 20260093 (OT,liquidity providing), for 7 days deadline 09:45",
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260093.en.html",
+      "source": "ECB Open Market Operations and Communication",
+      "source_type": "rss",
+      "published_at": "2026-10-21T08:15:19+00:00",
+      "fetched_at": "2026-10-21T07:15:46+00:00",
+      "summary": "Announcing 20260093 (OT,liquidity providing), for 7 days deadline 09:45",
+      "matched_keywords": [
+        "liquidity",
+        "Macro/Policy",
+        "open market operations"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3390df65aa963e7af342"
+    },
+    {
       "title": "The world’s rich are turning inward. Southeast Asia’s entrepreneurs are packing their bags",
       "url": "https://e27.co/the-worlds-rich-are-turning-inward-southeast-asias-entrepreneurs-are-packing-their-bags-20261021/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1321,7 +1365,30 @@
       "id": "5b938646a92fa74113b8"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Announcing 20260093 (OT,liquidity providing), for 7 days deadline 09:45",
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260093.en.html",
+      "source": "ECB Open Market Operations and Communication",
+      "source_type": "rss",
+      "published_at": "2026-10-21T08:15:19+00:00",
+      "fetched_at": "2026-10-21T07:15:46+00:00",
+      "summary": "Announcing 20260093 (OT,liquidity providing), for 7 days deadline 09:45",
+      "matched_keywords": [
+        "liquidity",
+        "Macro/Policy",
+        "open market operations"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3390df65aa963e7af342"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

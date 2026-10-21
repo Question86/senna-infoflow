@@ -148,6 +148,28 @@
     "id": "be832e00b8a865d8c944"
   },
   {
+    "title": "Announcing 20260093 (OT,liquidity providing), for 7 days deadline 09:45",
+    "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260093.en.html",
+    "source": "ECB Open Market Operations and Communication",
+    "source_type": "rss",
+    "published_at": "2026-10-21T08:15:19+00:00",
+    "fetched_at": "2026-10-21T07:15:46+00:00",
+    "summary": "Announcing 20260093 (OT,liquidity providing), for 7 days deadline 09:45",
+    "matched_keywords": [
+      "liquidity",
+      "Macro/Policy",
+      "open market operations"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3390df65aa963e7af342"
+  },
+  {
     "title": "The world’s rich are turning inward. Southeast Asia’s entrepreneurs are packing their bags",
     "url": "https://e27.co/the-worlds-rich-are-turning-inward-southeast-asias-entrepreneurs-are-packing-their-bags-20261021/",
     "source": "e27 Asia Startup and Tech Feed",

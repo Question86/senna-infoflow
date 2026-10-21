@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-21T06:58:01+00:00_
+_Generiert: 2026-10-21T07:16:23+00:00_
 
 ## Kurzlage
 
-27 neue relevante Treffer. Stärkstes Signal: „Agentic AI is Singapore’s hottest job skill, and that should worry the people it replaces“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
+28 neue relevante Treffer. Stärkstes Signal: „Agentic AI is Singapore’s hottest job skill, and that should worry the people it replaces“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -117,6 +117,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Content-Chance (+5.0); recent (+1.0)
   - Kurz: I teach people how to use AI for a living. So you would expect me to tell you it does everything. It doesn’t. What it does is take a huge amount of the grind out of my week, as long as I stay in the loop. Most of what I have learned came from AI […] The post I still work 40 hours a week. AI turns it into 120 appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Announcing 20260093 (OT,liquidity providing), for 7 days deadline 09:45** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260093.en.html)
+  - Quelle: ECB Open Market Operations and Communication / `rss`
+  - Zeit: published `2026-10-21T08:15:19+00:00`, fetched `2026-10-21T07:15:46+00:00`
+  - Treffer: liquidity, Macro/Policy, open market operations
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)
+  - Kurz: Announcing 20260093 (OT,liquidity providing), for 7 days deadline 09:45
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The world’s rich are turning inward. Southeast Asia’s entrepreneurs are packing their bags** — Score 12, observation — [Quelle](https://e27.co/the-worlds-rich-are-turning-inward-southeast-asias-entrepreneurs-are-packing-their-bags-20261021/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
