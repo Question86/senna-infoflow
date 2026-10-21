@@ -636,6 +636,27 @@
     "id": "748dd0f02e2bb30adb1a"
   },
   {
+    "title": "honto - 外部委託先への不正アクセスによるお客様情報漏えいの可能性について - hontoからのお知らせ一覧",
+    "url": "https://honto.jp/info/detail_041000135344.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-21T05:48:13+00:00",
+    "fetched_at": "2026-10-21T08:53:09+00:00",
+    "summary": "お知らせ23",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "63d93abcafbcc131b093"
+  },
+  {
     "title": "PHPに「緊急」レベルの脆弱性2件 修正版を日本時間21日深夜に公開へ、事前準備を呼び掛け",
     "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002446/",
     "source": "Hatena Bookmark Hotentry IT",

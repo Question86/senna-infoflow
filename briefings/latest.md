@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-21T08:39:48+00:00_
+_Generiert: 2026-10-21T08:53:36+00:00_
 
 ## Kurzlage
 
-33 neue relevante Treffer. Stärkstes Signal: „Agentic AI is Singapore’s hottest job skill, and that should worry the people it replaces“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
+34 neue relevante Treffer. Stärkstes Signal: „Agentic AI is Singapore’s hottest job skill, and that should worry the people it replaces“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
