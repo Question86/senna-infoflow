@@ -500,6 +500,26 @@
     "id": "81e6cf11e4af07b87572"
   },
   {
+    "title": "Angriffswarnungen für Plex Media Server, SiteGuard und Siemens Software Center",
+    "url": "https://www.heise.de/news/Angriffswarnungen-fuer-Plex-Media-Server-SiteGuard-und-Siemens-Software-Center-11494994.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-10-21T07:22:00.000+00:00",
+    "fetched_at": "2026-10-21T07:36:46+00:00",
+    "summary": "Angreifer nehmen Schwachstellen in Plex Media Server, SiteGuard Server und Siemens Software Center ins Visier, warnt die CISA.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d8d0fefc5b6c724145d6"
+  },
+  {
     "title": "機械可読性ルール適合チェックツール「Harunobu」について掲載しました",
     "url": "https://www.digital.go.jp/resources/machine-readability-rule/harunobu",
     "source": "Japan Digital Agency News RSS",
