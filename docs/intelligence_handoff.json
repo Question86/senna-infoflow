@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-21T10:25:35Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Xerj Console APIにおける認証回避の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
+  "generated_at": "2026-10-21T10:37:36Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Red Hat Enterprise Linux (python-tornado, resteasy-core, bubblewrap, pgvector): Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,36 @@
   ],
   "top_dynamics": [
     {
+      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (python-tornado, resteasy-core, bubblewrap, pgvector): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4029",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-21T10:27:16+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 33.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Sicherheitsvorkehrungen zu umgehen, beliebigen Code auszuführen, Daten zu manipulieren und offenzulegen oder einen Denial-of-Service-Angriff auszulösen."
+    },
+    {
       "title": "Xerj Console APIにおける認証回避の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU92078426/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-21T09:30:00+09:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -39,7 +64,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4055",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-21T09:15:51+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -63,7 +88,7 @@
       "url": "https://jvn.jp/vu/JVNVU90998702/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-21T09:30:15+09:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -89,7 +114,7 @@
       "url": "https://jvn.jp/vu/JVNVU93110597/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-21T09:30:30+09:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -115,7 +140,7 @@
       "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297981-1032_bits.html",
       "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
       "published_at": "2026-10-21T09:50:00+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -141,7 +166,7 @@
       "url": "https://e27.co/the-worlds-rich-are-turning-inward-southeast-asias-entrepreneurs-are-packing-their-bags-20261021/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-21T06:00:47+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "macro"
@@ -168,7 +193,7 @@
       "url": "https://blog.flatt.tech/entry/php2shell",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-21T02:15:43+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -194,7 +219,7 @@
       "url": "https://blogs.jpcert.or.jp/en/2026/10/web_api_attacks.html",
       "source": "JPCERT/CC English Blog Atom",
       "published_at": "2026-10-21T02:00:00+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "ai",
         "security"
@@ -221,7 +246,7 @@
       "url": "https://note.com/npaka/n/nba1723dba4e1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-20T09:51:38+00:00",
-      "age_days": 1.02,
+      "age_days": 1.03,
       "topics": [
         "ai"
       ],
@@ -247,7 +272,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4054",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-21T09:00:52+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -272,7 +297,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 124.35,
+      "age_days": 124.36,
       "topics": [
         "ai"
       ],
@@ -295,32 +320,6 @@
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
-    },
-    {
-      "title": "[NEU] [hoch] Atlassian Produkte (Bamboo, Bitbucket, Confluence, Crucible, Fisheye und Jira): Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4056",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-10-21T09:25:51+00:00",
-      "age_days": 0.04,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: code",
-        "security high-signal: code",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Atlassian Bamboo, Bitbucket, Confluence, Crucible, Fisheye und Jira ausnutzen, um Daten zu manipulieren, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um einen Cross-Site Scripting Angriff durchzuführen, um…"
     }
   ],
   "read_order": [
@@ -332,7 +331,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 12
+      "krass": 1,
+      "strong": 11
     }
   }
 }

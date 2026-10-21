@@ -1,29 +1,55 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-21T10:25:35Z",
+  "generated_at": "2026-10-21T10:37:36Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 8,
+      "krass": 9,
       "strong": 10,
       "watch": 9,
-      "quiet": 13
+      "quiet": 12
     },
     "bands_after_gate_recheck": {
+      "krass": 1,
       "strong": 18,
       "watch": 9,
-      "quiet": 13
+      "quiet": 12
     }
   },
   "top_dynamics": [
+    {
+      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (python-tornado, resteasy-core, bubblewrap, pgvector): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4029",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-21T10:27:16+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 33.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Sicherheitsvorkehrungen zu umgehen, beliebigen Code auszuführen, Daten zu manipulieren und offenzulegen oder einen Denial-of-Service-Angriff auszulösen."
+    },
     {
       "title": "Xerj Console APIにおける認証回避の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU92078426/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-21T09:30:00+09:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -47,7 +73,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4055",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-21T09:15:51+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -71,7 +97,7 @@
       "url": "https://jvn.jp/vu/JVNVU90998702/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-21T09:30:15+09:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -97,7 +123,7 @@
       "url": "https://jvn.jp/vu/JVNVU93110597/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-21T09:30:30+09:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -123,7 +149,7 @@
       "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297981-1032_bits.html",
       "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
       "published_at": "2026-10-21T09:50:00+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -149,7 +175,7 @@
       "url": "https://e27.co/the-worlds-rich-are-turning-inward-southeast-asias-entrepreneurs-are-packing-their-bags-20261021/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-21T06:00:47+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "macro"
@@ -176,7 +202,7 @@
       "url": "https://blog.flatt.tech/entry/php2shell",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-21T02:15:43+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -202,7 +228,7 @@
       "url": "https://blogs.jpcert.or.jp/en/2026/10/web_api_attacks.html",
       "source": "JPCERT/CC English Blog Atom",
       "published_at": "2026-10-21T02:00:00+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "ai",
         "security"
@@ -229,7 +255,7 @@
       "url": "https://note.com/npaka/n/nba1723dba4e1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-20T09:51:38+00:00",
-      "age_days": 1.02,
+      "age_days": 1.03,
       "topics": [
         "ai"
       ],
@@ -255,7 +281,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4054",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-21T09:00:52+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -280,7 +306,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 124.35,
+      "age_days": 124.36,
       "topics": [
         "ai"
       ],
@@ -309,7 +335,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4056",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-21T09:25:51+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -386,7 +412,7 @@
       "url": "https://www.digital.go.jp/resources/machine-readability-rule/harunobu",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-21T06:00:00+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -411,7 +437,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3t6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-21T08:54:47.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -436,7 +462,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3rn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-21T01:48:33.424+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "disaster"
       ],
@@ -461,7 +487,7 @@
       "url": "https://www.bis.org/speeches/20261021-thoughts-several-issues-interest-market",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-21T00:00:00+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "macro"
       ],
@@ -511,7 +537,7 @@
       "url": "https://www.heise.de/news/Angriffswarnungen-fuer-Plex-Media-Server-SiteGuard-und-Siemens-Software-Center-11494994.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-21T07:22:00.000+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -535,7 +561,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3t4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-21T08:12:43.918+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -560,7 +586,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3sj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-21T04:40:27.040+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -585,7 +611,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3rr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-21T01:36:14.040+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "disaster"
       ],
@@ -610,7 +636,7 @@
       "url": "https://e27.co/agentic-ai-is-singapores-hottest-job-skill-and-that-should-worry-the-people-it-replaces-20261021/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-21T04:19:38+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -636,7 +662,7 @@
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-10-21T04:15:00+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "macro"
       ],
@@ -660,7 +686,7 @@
       "url": "https://www.bis.org/speeches/20261021-islamic-finance-impact-next-measure-success",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-21T00:00:00+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "macro"
       ],
@@ -684,7 +710,7 @@
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260093.en.html",
       "source": "ECB Open Market Operations and Communication",
       "published_at": "2026-10-21T08:15:19+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "macro"
       ],
@@ -708,7 +734,7 @@
       "url": "https://e27.co/i-still-work-40-hours-a-week-ai-turns-it-into-120-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-21T02:00:31+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -734,7 +760,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002472/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-21T08:52:10+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -758,7 +784,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002446/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-21T01:08:01+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "general"
       ],
@@ -782,7 +808,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002442/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-20T23:41:28+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "general"
       ],
@@ -806,7 +832,7 @@
       "url": "https://togetter.com/li/2760860",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-20T23:30:57+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "general"
       ],
@@ -830,7 +856,7 @@
       "url": "https://zenn.dev/singularity/articles/vibe-coding-mac-boot-20min",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-20T23:13:30+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "general"
       ],
@@ -854,7 +880,7 @@
       "url": "https://e27.co/ai-wont-tidy-your-business-it-just-moves-the-mess-faster-20261018/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-21T03:30:15+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "ai",
         "macro"
@@ -881,7 +907,7 @@
       "url": "https://e27.co/bitcoin-at-us82829-why-a-95-correlation-with-the-sp-500-should-worry-long-term-believers-20261021/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-21T05:08:19+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -905,7 +931,7 @@
       "url": "https://e27.co/ex-propertyguru-ceos-genie-health-raises-us3m-to-make-sense-of-your-scattered-health-data-20261021/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-21T08:56:32+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "macro"
@@ -958,7 +984,7 @@
       "url": "https://e27.co/malaysias-us110m-startup-bet-has-a-matching-problem-investors-warn-20261020/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-21T01:30:33+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "ai"
       ],
@@ -984,7 +1010,7 @@
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021_1~d190f2c349.en.pdf",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-10-21T08:00:00+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "macro"
@@ -1005,33 +1031,7 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Piero Cipollone: Pontes and Appia: unlocking opportunities for banks"
-    },
-    {
-      "title": "How I use AI to support public relations",
-      "url": "https://e27.co/how-i-use-ai-to-support-public-relations-20261016/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-21T03:00:07+00:00",
-      "age_days": 0.31,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "After narrowly losing yet another pitch earlier this year, I added up the time I had spent preparing proposals: 300 hours in four months. I wanted to know whether we were pursuing the right business. Using Gemini and a script in Google Docs, I compared five years of proposals with our client invoicing records. One […]…"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Xerj Console APIにおける認証回避の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Red Hat Enterprise Linux (python-tornado, resteasy-core, bubblewrap, pgvector): Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
 }
