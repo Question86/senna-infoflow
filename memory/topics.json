@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-21T01:31:19+00:00",
+  "generated_at": "2026-10-21T01:53:21+00:00",
   "topics": {
     "security": [
       {
@@ -26,32 +26,21 @@
         "url": "https://jvn.jp/vu/JVNVU92078426/"
       }
     ],
-    "geopolitics": [
+    "general": [
       {
-        "title": "Apache Tomcatにおける複数の脆弱性（2026年10月20日）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-21T09:30:30+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU93110597/"
-      }
-    ],
-    "ai": [
-      {
-        "title": "Anthropic「OSS Scanner」の概要 - Claude MythosでOSSの脆弱性を無料検出｜npaka",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-20T09:51:38+00:00",
-        "relevance_score": 12,
-        "url": "https://note.com/npaka/n/nba1723dba4e1"
+        "title": "M 4.5 - 2 km N of Honchō, Japan",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-21T01:48:33.424+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3rn"
       },
       {
-        "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-        "source": "OpenAI News RSS",
-        "published_at": "2026-10-20T07:00:00+00:00",
-        "relevance_score": 8,
-        "url": "https://openai.com/index/terminal-x"
-      }
-    ],
-    "general": [
+        "title": "M 5.0 - south of Panama",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-21T01:36:14.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3rr"
+      },
       {
         "title": "「お名前.com デスクトップクラウド」不正プログラム設置で全プラン停止 FX用VPS、2万6739サーバに影響か",
         "source": "Hatena Bookmark Hotentry IT",
@@ -72,6 +61,45 @@
         "published_at": "2026-10-21T01:00:04+00:00",
         "relevance_score": 4,
         "url": "https://e27.co/google-may-already-be-showing-us-its-route-to-agi-20260916/"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "Apache Tomcatにおける複数の脆弱性（2026年10月20日）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-21T09:30:30+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU93110597/"
+      },
+      {
+        "title": "Malaysia’s US$110M startup bet has a matching problem, investors warn",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-21T01:30:33+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/malaysias-us110m-startup-bet-has-a-matching-problem-investors-warn-20261020/"
+      }
+    ],
+    "ai": [
+      {
+        "title": "Anthropic「OSS Scanner」の概要 - Claude MythosでOSSの脆弱性を無料検出｜npaka",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-20T09:51:38+00:00",
+        "relevance_score": 12,
+        "url": "https://note.com/npaka/n/nba1723dba4e1"
+      },
+      {
+        "title": "Malaysia’s US$110M startup bet has a matching problem, investors warn",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-21T01:30:33+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/malaysias-us110m-startup-bet-has-a-matching-problem-investors-warn-20261020/"
+      },
+      {
+        "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-10-20T07:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://openai.com/index/terminal-x"
       }
     ]
   }
