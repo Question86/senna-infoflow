@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-21T11:13:00+00:00",
+  "generated_at": "2026-10-21T11:26:09+00:00",
   "topics": {
     "security": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-10-21T09:25:51+00:00",
         "relevance_score": 17,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4056"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (p11-kit): Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-21T11:22:19+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2626"
       },
       {
         "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (python-tornado, resteasy-core, bubblewrap, pgvector): Mehrere Schwachstellen",
@@ -31,6 +38,13 @@
         "published_at": "2026-10-21T09:00:52+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4054"
+      },
+      {
+        "title": "[UPDATE] [mittel] OpenVPN: Schwachstelle ermöglicht DoS und die Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-21T11:22:18+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2605"
       },
       {
         "title": "Apache Tomcatにおける複数の脆弱性（2026年10月20日）",
@@ -59,20 +73,6 @@
         "published_at": "2026-10-21T02:15:43+00:00",
         "relevance_score": 12,
         "url": "https://blog.flatt.tech/entry/php2shell"
-      },
-      {
-        "title": "Vulnérabilité dans OpenSSH (01 juillet 2024)",
-        "source": "CERT-FR Alertes",
-        "published_at": "2024-07-01T00:00:00+00:00",
-        "relevance_score": 12,
-        "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-009/"
-      },
-      {
-        "title": "Patchday bei Oracle: 1295 Sicherheitspatches quer durch die Bank",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-21T09:49:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Patchday-bei-Oracle-1295-Sicherheitspatches-quer-durch-die-Bank-11495244.html"
       }
     ],
     "geopolitics": [
