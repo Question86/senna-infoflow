@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-21T22:59:32+00:00_
+_Generiert: 2026-10-21T23:13:56+00:00_
 
 ## Kurzlage
 
-95 neue relevante Treffer. Stärkstes Signal: „Using thousands of AI agents to uncover new leads in biological data“ aus OpenAI News RSS (Score 20, opportunity). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+95 neue relevante Treffer. Stärkstes Signal: „Using thousands of AI agents to uncover new leads in biological data“ aus OpenAI News RSS (Score 20, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -331,8 +331,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `e27_asia_startups_feed` (rss): HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)
-- `bis_statistics` (rss): 403 Client Error: Forbidden for url: https://www.bis.org/doclist/all_statistics.rss
