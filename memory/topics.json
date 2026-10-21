@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-21T03:54:39+00:00",
+  "generated_at": "2026-10-21T03:59:57+00:00",
   "topics": {
     "security": [
       {
@@ -163,6 +163,13 @@
         "published_at": "2026-10-20T07:00:00+00:00",
         "relevance_score": 8,
         "url": "https://openai.com/index/terminal-x"
+      },
+      {
+        "title": "【Excel】AIが作った数式に「--」が入っていたけど、いらなくない？ 削除禁止の理由【いまさら聞けないExcelの使い方講座】",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-20T22:15:35+00:00",
+        "relevance_score": 5,
+        "url": "https://forest.watch.impress.co.jp/docs/serial/exceltips/2149792.html"
       }
     ],
     "economy": [
