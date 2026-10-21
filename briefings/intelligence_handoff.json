@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-21T15:51:31Z",
+  "generated_at": "2026-10-21T16:03:29Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Red Hat Enterprise Linux (python-tornado, resteasy-core, bubblewrap, pgvector): Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2605",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-21T11:22:18+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "security",
         "infra"
@@ -66,7 +66,7 @@
       "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
       "source": "OpenAI News RSS",
       "published_at": "2026-10-21T07:00:00+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "ai",
         "security"
@@ -95,7 +95,7 @@
       "url": "https://jvn.jp/vu/JVNVU90998702/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-21T09:30:15+09:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "security"
       ],
@@ -121,7 +121,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4093",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-21T11:31:13+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -147,7 +147,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4092",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-21T11:30:53+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -173,7 +173,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4091",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-21T11:30:53+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -199,7 +199,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4089",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-21T11:30:53+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -225,7 +225,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4090",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-21T11:30:53+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -251,7 +251,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4088",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-21T11:30:52+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -277,7 +277,7 @@
       "url": "https://jvn.jp/vu/JVNVU93110597/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-21T09:30:30+09:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "security"
       ],
@@ -299,12 +299,13 @@
       "summary": "The Apache Software Foundationから、Apache Tomcatの8件の脆弱性に対してアドバイザリが公開されました。"
     },
     {
-      "title": "Version 1.0: PHP - Kritische Schwachstellen bedrohen Webanwendungen weltweit",
-      "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297981-1032_bits.html",
-      "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
-      "published_at": "2026-10-21T09:50:00+00:00",
-      "age_days": 0.25,
+      "title": "【PHP脆弱性php2shell】パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619）：秋山大志のそれとりあえず作ってみようか。：オルタナティブ・ブログ",
+      "url": "https://blogs.itmedia.co.jp/agile/2026/10/php2shell_cve_2026_109618_panic.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-21T14:07:21+00:00",
+      "age_days": 0.08,
       "topics": [
+        "ai",
         "security"
       ],
       "dynamics_score": 24.9,
@@ -318,11 +319,11 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "high terms: kritisch, 10",
-        "security high-signal: kritisch, 10",
-        "official security but no high-signal phrase: capped at strong"
+        "high terms: 10",
+        "security high-signal: 10",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
       ],
-      "summary": "Version 1.0: PHP - Kritische Schwachstellen bedrohen Webanwendungen weltweit"
+      "summary": "【PHP脆弱性php2shell】パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619） PHPの重大な脆弱性で、タイムラインが大騒ぎです。 震源のひとつが、「23時にパッチが公開されたら、それをAIで解析して攻撃コードを作り、23時15分以降に..."
     }
   ],
   "read_order": [
