@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-21T04:03:42Z",
+  "generated_at": "2026-10-21T04:28:39Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Xerj Console APIにおける認証回避の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU92078426/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-21T09:30:00+09:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/vu/JVNVU90998702/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-21T09:30:15+09:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -65,7 +65,7 @@
       "url": "https://jvn.jp/vu/JVNVU93110597/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-21T09:30:30+09:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -91,7 +91,7 @@
       "url": "https://blog.flatt.tech/entry/php2shell",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-21T02:15:43+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -117,7 +117,7 @@
       "url": "https://blogs.jpcert.or.jp/en/2026/10/web_api_attacks.html",
       "source": "JPCERT/CC English Blog Atom",
       "published_at": "2026-10-21T02:00:00+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "security"
@@ -144,7 +144,7 @@
       "url": "https://note.com/npaka/n/nba1723dba4e1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-20T09:51:38+00:00",
-      "age_days": 0.76,
+      "age_days": 0.78,
       "topics": [
         "ai"
       ],
@@ -170,7 +170,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 124.09,
+      "age_days": 124.1,
       "topics": [
         "ai"
       ],
@@ -199,7 +199,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3rn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-21T01:48:33.424+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -224,7 +224,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3rr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-21T01:36:14.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -245,11 +245,61 @@
       "summary": "Time 2026-10-21 01:20:02 UTC 2026-10-21 01:20:02 UTC at epicenter Location 4.599°N 82.703°W Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "Agentic AI is Singapore’s hottest job skill, and that should worry the people it replaces",
+      "url": "https://e27.co/agentic-ai-is-singapores-hottest-job-skill-and-that-should-worry-the-people-it-replaces-20261021/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-21T04:19:38+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Somewhere in Singapore this week, a recruiter is probably rewriting a job ad that once asked for “advanced Excel skills” so that it now asks for “hands-on experience with agentic AI workflows”. Multiply that by a few thousand listings and you arrive at the headline figure in Jobstreet by SEEK’s new AI Gauge. According…"
+    },
+    {
+      "title": "Philip R. Lane: Euro liquidity lines and the international monetary system",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "published_at": "2026-10-21T04:15:00+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "Philip R. Lane: Euro liquidity lines and the international monetary system"
+    },
+    {
       "title": "I still work 40 hours a week. AI turns it into 120",
       "url": "https://e27.co/i-still-work-40-hours-a-week-ai-turns-it-into-120-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-21T02:00:31+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -269,54 +319,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "I teach people how to use AI for a living. So you would expect me to tell you it does everything. It doesn’t. What it does is take a huge amount of the grind out of my week, as long as I stay in the loop. Most of what I have learned came from AI […] The post I still work 40 hours a week. AI turns it into 120 appeared…"
-    },
-    {
-      "title": "PHPに「緊急」レベルの脆弱性2件 修正版を日本時間21日深夜に公開へ、事前準備を呼び掛け",
-      "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002446/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-21T01:08:01+00:00",
-      "age_days": 0.12,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "PHPの開発プロジェクトでセキュリティを担当するチームは10月20日（協定世界時）、2件の重大な脆弱性を修正するセキュリティアップデートを同日午後2時（日本時間の21日午後11時）に公開すると予告した。脆弱性の詳細や影響を受けるバージョン、修正版のバージョンは公開と同時に明らかにする。全てのPHPユーザーに対し..."
-    },
-    {
-      "title": "「お名前.com デスクトップクラウド」不正プログラム設置で全プラン停止 FX用VPS、2万6739サーバに影響か",
-      "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002442/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-20T23:41:28+00:00",
-      "age_days": 0.18,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "お名前.com デスクトップクラウドは、FXの自動売買ソフト（「MetaTrader 4」「MetaTrader 5」など）を、自宅のPCを使わずにクラウド上のサーバで24時間動かし続けるためのサービス。月額2640円から利用でき、契約実績は累計20万以上という。 同社は10月20日、不正なプログラムが設置されたことを確認。サーバ内に保管さ..."
     }
   ],
   "read_order": [
@@ -329,8 +331,8 @@
   "counts": {
     "bands_after_gate_recheck": {
       "strong": 8,
-      "watch": 1,
-      "quiet": 3
+      "watch": 3,
+      "quiet": 1
     }
   }
 }
