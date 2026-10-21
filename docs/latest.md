@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-21T16:35:00+00:00_
+_Generiert: 2026-10-21T16:47:04+00:00_
 
 ## Kurzlage
 
-84 neue relevante Treffer. Stärkstes Signal: „Using thousands of AI agents to uncover new leads in biological data“ aus OpenAI News RSS (Score 20, opportunity).
+84 neue relevante Treffer. Stärkstes Signal: „Using thousands of AI agents to uncover new leads in biological data“ aus OpenAI News RSS (Score 20, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -277,3 +277,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f520163fa50>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
