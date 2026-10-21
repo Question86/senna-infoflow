@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-21T14:42:09+00:00",
+  "generated_at": "2026-10-21T14:57:37+00:00",
   "topics": {
     "ai": [
       {
@@ -17,6 +17,13 @@
         "published_at": "2026-10-21T04:19:38+00:00",
         "relevance_score": 17,
         "url": "https://e27.co/agentic-ai-is-singapores-hottest-job-skill-and-that-should-worry-the-people-it-replaces-20261021/"
+      },
+      {
+        "title": "Multiples vulnérabilités dans Microsoft Windows (14 octobre 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-10-14T00:00:00+00:00",
+        "relevance_score": 17,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1314/"
       },
       {
         "title": "OpenAI models are coming to Google Cloud",
@@ -66,13 +73,6 @@
         "published_at": "2026-10-20T09:51:38+00:00",
         "relevance_score": 12,
         "url": "https://note.com/npaka/n/nba1723dba4e1"
-      },
-      {
-        "title": "Vulnérabilité dans OpenSSH (01 juillet 2024)",
-        "source": "CERT-FR Alertes",
-        "published_at": "2024-07-01T00:00:00+00:00",
-        "relevance_score": 12,
-        "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-009/"
       }
     ],
     "security": [
@@ -82,6 +82,13 @@
         "published_at": "2026-10-21T09:25:51+00:00",
         "relevance_score": 17,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4056"
+      },
+      {
+        "title": "Multiples vulnérabilités dans Microsoft Windows (14 octobre 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-10-14T00:00:00+00:00",
+        "relevance_score": 17,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1314/"
       },
       {
         "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (p11-kit): Schwachstelle ermöglicht Denial of Service",
@@ -138,13 +145,6 @@
         "published_at": "2026-10-21T11:30:53+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4089"
-      },
-      {
-        "title": "[NEU] [hoch] Oracle Communications: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-21T11:30:53+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4090"
       }
     ],
     "geopolitics": [

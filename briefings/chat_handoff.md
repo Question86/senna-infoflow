@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-21T14:42:09+00:00_
+_Generated: 2026-10-21T14:57:37+00:00_
 
 ## Status
 - status: `warning`
-- findings: `70`
+- findings: `76`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-10-21T14:42:09+00:00_
 - url: https://e27.co/agentic-ai-is-singapores-hottest-job-skill-and-that-should-worry-the-people-it-replaces-20261021/
 - summary: Somewhere in Singapore this week, a recruiter is probably rewriting a job ad that once asked for “advanced Excel skills” so that it now asks for “hands-on experience with agentic AI workflows”. Multiply that by a few thousand listings and you arrive at the he…
 
-### 4. [UPDATE] [mittel] Red Hat Enterprise Linux (p11-kit): Schwachstelle ermöglicht Denial of Service
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-10-21T11:22:19+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2626
-- summary: Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen.
+### 4. Multiples vulnérabilités dans Microsoft Windows (14 octobre 2026)
+- source: CERT-FR Avis de sécurité
+- score: `17`
+- published: `2026-10-14T00:00:00+00:00`
+- url: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1314/
+- summary: De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Microsoft indique…
 
 ### 5. I still work 40 hours a week. AI turns it into 120
 - source: e27 Asia Startup and Tech Feed

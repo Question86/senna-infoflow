@@ -92,6 +92,31 @@
     "id": "229b7aff7f4bed5ffa78"
   },
   {
+    "title": "Multiples vulnérabilités dans Microsoft Windows (14 octobre 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1314/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-10-14T00:00:00+00:00",
+    "fetched_at": "2026-10-21T14:57:09+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Microsoft indique que la vulnérabilité CVE-2026-96951...",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "Microsoft",
+      "Security",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 17,
+    "relevance_reason": "Security (+6.0); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e94bcdcb26f124c39d09"
+  },
+  {
     "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (p11-kit): Schwachstelle ermöglicht Denial of Service",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2626",
     "source": "BSI CERT-Bund Security Advisories",
@@ -798,6 +823,102 @@
     "id": "859c2127e7aeec92ee41"
   },
   {
+    "title": "Multiples vulnérabilités dans les produits Microsoft (14 octobre 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1316/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-10-14T00:00:00+00:00",
+    "fetched_at": "2026-10-21T14:57:09+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "Microsoft",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ce7556c5af20288cf01b"
+  },
+  {
+    "title": "Multiples vulnérabilités dans Microsoft Office (14 octobre 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1312/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-10-14T00:00:00+00:00",
+    "fetched_at": "2026-10-21T14:57:09+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Office. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données. Microsoft indique que la vulnérabilité...",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "Microsoft",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3296d91c0b9a74a89365"
+  },
+  {
+    "title": "Multiples vulnérabilités dans Microsoft Azure (14 octobre 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1315/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-10-14T00:00:00+00:00",
+    "fetched_at": "2026-10-21T14:57:09+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "Microsoft",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ecd8fefb8a4a87dd9b81"
+  },
+  {
+    "title": "Multiples vulnérabilités dans Microsoft .Net (14 octobre 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1313/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-10-14T00:00:00+00:00",
+    "fetched_at": "2026-10-21T14:57:09+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft .Net. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "Microsoft",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "59d232945a14c94fc55a"
+  },
+  {
     "title": "Southeast Asia’s US$1T digital dream slips five years, and AI is the new reason to keep believing",
     "url": "https://e27.co/southeast-asias-us1t-digital-dream-slips-five-years-and-ai-is-the-new-reason-to-keep-believing-20261021/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -1153,6 +1274,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "81e6cf11e4af07b87572"
+  },
+  {
+    "title": "Multiples vulnérabilités dans les produits F5 (15 octobre 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1317/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-10-15T00:00:00+00:00",
+    "fetched_at": "2026-10-21T14:57:09+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d22bb1cccb5210c546f8"
   },
   {
     "title": "Angriffe via ConnectWise Cloud Backup",
