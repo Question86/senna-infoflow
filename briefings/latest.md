@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-22T15:34:01+00:00_
+_Generiert: 2026-10-22T15:44:53+00:00_
 
 ## Kurzlage
 
-66 neue relevante Treffer. Stärkstes Signal: „Who referees the AI agents? Enterprises aren’t sure, new report shows“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+67 neue relevante Treffer. Stärkstes Signal: „Who referees the AI agents? Enterprises aren’t sure, new report shows“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -37,10 +37,10 @@ _Generiert: 2026-10-22T15:34:01+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.3M, Depth:16km) in Vanuatu Islands 20/10/2026 04:20 UTC, [unknown].
-- **GDACS: Orange earthquake (Magnitude 7M, Depth:10km) in China 22/10/2026 14:33 UTC, 130 thousand in 100km.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573141)
+- **GDACS: Red earthquake (Magnitude 7M, Depth:18km) in China 22/10/2026 14:33 UTC, 100 thousand in 100km.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573141)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Orange earthquake (Magnitude 7M, Depth:10km) in China 22/10/2026 14:33 UTC, 130 thousand in 100km.
+  - Kurz: Red earthquake (Magnitude 7M, Depth:18km) in China 22/10/2026 14:33 UTC, 100 thousand in 100km.
 - **GDACS: Green notification for tropical cyclone JOSEPHINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (7.514 million in Tropical Storm).** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001342)
   - Quelle: GDACS
   - Zeit: ``
@@ -185,6 +185,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 5.2 - 201 km ENE of Nagqu, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u44n)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-22T15:40:56.040+00:00`, fetched `2026-10-22T15:44:24+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-22 15:12:04 UTC 2026-10-22 15:12:04 UTC at epicenter Location 32.440°N 93.867°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 7.0 - 183 km ENE of Nagqu, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u43g)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-22T14:52:51.040+00:00`, fetched `2026-10-22T14:53:40+00:00`
@@ -301,15 +310,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-22 12:22:57 UTC 2026-10-22 12:22:57 UTC at epicenter Location 13.909°S 165.624°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.6 - 11 km W of Ashkāsham, Afghanistan** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u42e)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-22T10:24:35.040+00:00`, fetched `2026-10-22T10:32:09+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-22 10:07:41 UTC 2026-10-22 10:07:41 UTC at epicenter Location 36.677°N 71.400°E Depth 174.51 km (108.44 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **PHP發布安全性更新修補2項可導致遠端程式碼執行之嚴重漏洞，國際資安機構籲儘速更新** — Score 9, risk — [Quelle](https://www.twcert.org.tw/tw/cp-104-11308-ed8b8-1.html)
   - Quelle: TWCERT/CC Security News RSS / `rss`
