@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-22T06:29:07+00:00_
+_Generated: 2026-10-22T06:56:03+00:00_
 
 ## Status
 - status: `normal`
-- findings: `30`
+- findings: `32`
 
 ## Top Signals
 
-### 1. Southeast Asia’s sellers spent a decade learning to sell to people. Now they have to sell to AI
+### 1. Who referees the AI agents? Enterprises aren’t sure, new report shows
+- source: e27 Asia Startup and Tech Feed
+- score: `23`
+- published: `2026-10-22T06:30:33+00:00`
+- url: https://e27.co/who-referees-the-ai-agents-enterprises-arent-sure-new-report-shows-20261022/
+- summary: Ask a room of enterprise executives whether they can keep their AI agents in line and most will nod. Ask them what happens when two of those agents disagree, and the room goes quiet. That, in essence, is the finding of a new report from OutSystems, the Lisbon…
+
+### 2. Southeast Asia’s sellers spent a decade learning to sell to people. Now they have to sell to AI
 - source: e27 Asia Startup and Tech Feed
 - score: `23`
 - published: `2026-10-22T01:00:46+00:00`
 - url: https://e27.co/southeast-asias-sellers-spent-a-decade-learning-to-sell-to-people-now-they-have-to-sell-to-ai-20261010/
 - summary: In February 2026, Sea Limited struck a partnership with Google on “agentic shopping prototypes.” By June, Shopee had become the first Southeast Asian e-commerce platform built directly into ChatGPT, live across Indonesia, Malaysia, the Philippines, Singapore,…
 
-### 2. AI agents broke into 100 firms for pocket change. SEA’s online shops fit the target profile
+### 3. AI agents broke into 100 firms for pocket change. SEA’s online shops fit the target profile
 - source: e27 Asia Startup and Tech Feed
 - score: `23`
 - published: `2026-10-22T01:00:30+00:00`
 - url: https://e27.co/ai-agents-broke-into-100-firms-for-pocket-change-seas-online-shops-fit-the-target-profile-20261021/
 - summary: For years, the small business owner in Penang or Cebu has relied on a quiet, unspoken form of security: obscurity. Who would bother hacking a family-run online furniture store when there are banks to rob? The logic was not wrong. Breaking in took skill, time…
 
-### 3. headroomlabs-ai/headroom
+### 4. headroomlabs-ai/headroom
 - source: GitHub Trending RSS All Languages Daily
 - score: `19`
 - published: `None`
 - url: https://github.com/headroomlabs-ai/headroom
 - summary: Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. https://docs.headroomlabs.ai/docs Quickstart · Headroom for Teams · Insta…
-
-### 4. PHPにおける複数の任意のコードが実行可能な脆弱性（CVE-2026-109618、CVE-2026-109619）
-- source: JVN Japan Vulnerability Notes
-- score: `16`
-- published: `2026-10-22T10:30:00+09:00`
-- url: https://jvn.jp/vu/JVNVU99905564/
-- summary: The PHP Groupから、PHPの2件の脆弱性（CVE-2026-109618、CVE-2026-109619）に対してアドバイザリが公開されました。
 
 ### 5. 新人類資訊科技｜NT OneAPP企業雲端管理系統 - 存在5個漏洞
 - source: TWCERT/CC TVN Vulnerability Notes RSS
