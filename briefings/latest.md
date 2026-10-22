@@ -1,18 +1,18 @@
 # Senna Briefing
 
-_Generiert: 2026-10-22T15:00:11+00:00_
+_Generiert: 2026-10-22T15:19:31+00:00_
 
 ## Kurzlage
 
-65 neue relevante Treffer. Stärkstes Signal: „Who referees the AI agents? Enterprises aren’t sure, new report shows“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+66 neue relevante Treffer. Stärkstes Signal: „Who referees the AI agents? Enterprises aren’t sure, new report shows“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **USGS earthquake M7.0 - 183 km ENE of Nagqu, China** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u43g)
+- **USGS earthquake M7.0 - 183 km ENE of Nagqu, China** — critical — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u43g)
   - Quelle: USGS
   - Zeit: `2026-10-22T14:33:39+00:00`
-  - Kurz: M7.0 - 183 km ENE of Nagqu, China. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M7.0 - 183 km ENE of Nagqu, China. PAGER alert: orange. Tsunami flag: 0.
 - **CISA KEV: CVE-2026-106931 EG Secure Solutions SiteGuard Server Edition** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-10-20`
@@ -37,6 +37,10 @@ _Generiert: 2026-10-22T15:00:11+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.3M, Depth:16km) in Vanuatu Islands 20/10/2026 04:20 UTC, [unknown].
+- **GDACS: Orange earthquake (Magnitude 7M, Depth:10km) in China 22/10/2026 14:33 UTC, 130 thousand in 100km.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573141)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Orange earthquake (Magnitude 7M, Depth:10km) in China 22/10/2026 14:33 UTC, 130 thousand in 100km.
 - **GDACS: Green notification for tropical cyclone JOSEPHINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (7.514 million in Tropical Storm).** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001342)
   - Quelle: GDACS
   - Zeit: ``
@@ -326,7 +330,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `bsi_cert_bund_csw` (rss): HTTPSConnectionPool(host='www.bsi.bund.de', port=443): Read timed out. (read timeout=8)
