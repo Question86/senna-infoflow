@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-22T08:58:58+00:00_
+_Generiert: 2026-10-22T09:15:53+00:00_
 
 ## Kurzlage
 
-37 neue relevante Treffer. Stärkstes Signal: „Who referees the AI agents? Enterprises aren’t sure, new report shows“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+40 neue relevante Treffer. Stärkstes Signal: „Who referees the AI agents? Enterprises aren’t sure, new report shows“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -84,6 +84,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); Security (+6.0); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: For years, the small business owner in Penang or Cebu has relied on a quiet, unspoken form of security: obscurity. Who would bother hacking a family-run online furniture store when there are banks to rob? The logic was not wrong. Breaking in took skill, time and patience, and skilled criminals price their time like consultants. […] The post AI agents broke into 100 firms for pocket change. SEA’s online shops fit the…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **2026-019: Critical Vulnerability in GitLab Community and Enterprise Editions** — Score 20, risk — [Quelle](https://cert.europa.eu/publications/security-advisories/2026-019/)
+  - Quelle: CERT-EU Security Advisories / `rss`
+  - Zeit: published `2026-10-22T11:14:22+00:00`, fetched `2026-10-22T09:15:20+00:00`
+  - Treffer: CERT-EU, CodeQL/Dependabot, Security, Watchgraph:cyber_active_exploitation
+  - Watchgraph: cyber_active_exploitation
+  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: CodeQL/Dependabot (+7.0); Security (+7.5); CERT-EU (+2.0); watchgraph modules cyber_active_exploitation (+3.0)
+  - Kurz: On 21 October 2026, GitLab published a security advisory addressing several vulnerabilities among which a critical flaw that could allow an unauthenticated user to execute arbitrary code on a GitLab server. CERT-EU recommends organisations to update affected assets as soon as possible, prioritising internet facing assets, and to run an assessment to identify compromised assets.
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **headroomlabs-ai/headroom** — Score 19, opportunity — [Quelle](https://github.com/headroomlabs-ai/headroom)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-10-22T05:59:13+00:00`
@@ -110,6 +119,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: LINEヤフー株式会社が提供するLIFF SDKには、クロスサイトスクリプティングの脆弱性が存在します。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Node.js發布安全性更新修補10項漏洞，其中CVE-2026-111497可導致遠端程式碼執行，籲儘速更新** — Score 14, risk — [Quelle](https://www.twcert.org.tw/tw/cp-104-11309-2266c-1.html)
+  - Quelle: TWCERT/CC Security News RSS / `rss`
+  - Zeit: published `2026-10-22T09:12:00+00:00`, fetched `2026-10-22T09:15:20+00:00`
+  - Treffer: AI Agents, Security, TWCERT
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+5.0); Security (+6.0); TWCERT (+2.0); recent (+1.0)
+  - Kurz: Node.js官方於2026年10月21日發布安全性更新，針對22.x、24.x及26.x版本線共修補10項漏洞，其中4項為高風險，包含可導致遠端程式碼執行之Brotli解碼器越界寫入漏洞（CVE-2026-111497）。數位發展部資通安全署亦於10月22日發布 新聞稿 ，呼籲各機關與企業儘速完成更新。Node.js常見於後端服務、容器映像檔、網頁前端工具鏈及部分AI agent命令列工具中，建議企業盤點環境中之Node.js版本並儘速更新。 Node.js 官方公告 Node.js官方於2026年10月21日發布22.23.4、24.22.1及26.12.1版本，共修補10項漏洞，包含高風險4項、中風險3項及低風險3項。其中高風險漏洞如下： CVE 編號 漏洞說明 影響版本線 CVE-2026-111497 Brotli解碼器存在越界寫入（Out-of-Bounds Write）缺陷，可導致遠端程式碼執行 22.x、24.…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **ISC BINDにおける複数の脆弱性（2026年10月）** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU91196958/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
@@ -204,6 +222,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: AI・デジタル改革推進会議（第1回）の議事次第および資料を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.5 - 136 km NE of Petropavlovsk-Kamchatsky, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u423)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-22T09:03:20.040+00:00`, fetched `2026-10-22T09:15:20+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-22 08:34:18 UTC 2026-10-22 08:34:18 UTC at epicenter Location 53.796°N 160.267°E Depth 61.06 km (37.94 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.6 - 49 km NE of Yigo Village, Guam** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u41z)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-22T08:28:59.222+00:00`, fetched `2026-10-22T08:31:09+00:00`
@@ -230,15 +257,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-22 05:23:59 UTC 2026-10-22 05:23:59 UTC at epicenter Location 5.130°S 152.247°E Depth 57.32 km (35.62 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.8 - Reykjanes Ridge** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u411)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-22T05:16:10.040+00:00`, fetched `2026-10-22T05:22:20+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-22 04:44:17 UTC 2026-10-22 04:44:17 UTC at epicenter Location 56.966°N 34.094°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Scouter enters Singapore’s crowded cyber market with a “listen first” promise** — Score 8, observation — [Quelle](https://e27.co/scouter-enters-singapores-crowded-cyber-market-with-a-listen-first-promise-20261022/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
