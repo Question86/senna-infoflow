@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-22T04:00:44+00:00",
+  "generated_at": "2026-10-22T04:22:53+00:00",
   "topics": {
     "ai": [
       {
@@ -17,6 +17,13 @@
         "published_at": "2026-10-22T01:00:30+00:00",
         "relevance_score": 23,
         "url": "https://e27.co/ai-agents-broke-into-100-firms-for-pocket-change-seas-online-shops-fit-the-target-profile-20261021/"
+      },
+      {
+        "title": "AI took perfect notes. Then it ruined the deck",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-22T04:00:58+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/ai-took-perfect-notes-then-it-ruined-the-deck-20261018/"
       },
       {
         "title": "How I decide what to fix in my AI video workflow",
@@ -75,6 +82,13 @@
         "published_at": "2026-10-22T09:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU91196958/"
+      },
+      {
+        "title": "新人類資訊科技｜NT OneAPP企業雲端管理系統 - 存在5個漏洞",
+        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+        "published_at": "2026-10-22T03:59:00+00:00",
+        "relevance_score": 11,
+        "url": "https://www.twcert.org.tw/tw/cp-132-11307-ae4b3-1.html"
       }
     ],
     "economy": [
@@ -84,6 +98,13 @@
         "published_at": "2026-10-22T01:00:30+00:00",
         "relevance_score": 23,
         "url": "https://e27.co/ai-agents-broke-into-100-firms-for-pocket-change-seas-online-shops-fit-the-target-profile-20261021/"
+      },
+      {
+        "title": "AI took perfect notes. Then it ruined the deck",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-22T04:00:58+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/ai-took-perfect-notes-then-it-ruined-the-deck-20261018/"
       },
       {
         "title": "How I decide what to fix in my AI video workflow",
