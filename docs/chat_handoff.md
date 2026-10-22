@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-22T05:59:43+00:00_
+_Generated: 2026-10-22T06:29:07+00:00_
 
 ## Status
 - status: `normal`
-- findings: `23`
+- findings: `30`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-10-22T05:59:43+00:00_
 - url: https://github.com/vllm-project/vllm
 - summary: A high-throughput and memory-efficient inference and serving engine for LLMs https://vllm.ai Easy, fast, and cheap LLM serving for everyone | Documentation | Blog | Paper | Twitter/X | User Forum | Developer Slack | 🔥 We have built a vLLM website to help you…
 
-### 8. M 4.8 - 86 km S of Kokopo, Papua New Guinea
-- source: USGS M4.5+ Earthquakes Past Hour
+### 8. PHP發布安全性更新修補2項可導致遠端程式碼執行之嚴重漏洞，國際資安機構籲儘速更新
+- source: TWCERT/CC Security News RSS
 - score: `9`
-- published: `2026-10-22T05:40:49.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u417
-- summary: Time 2026-10-22 05:23:59 UTC 2026-10-22 05:23:59 UTC at epicenter Location 5.130°S 152.247°E Depth 57.32 km (35.62 mi)
+- published: `2026-10-22T06:19:00+00:00`
+- url: https://www.twcert.org.tw/tw/cp-104-11308-ed8b8-1.html
+- summary: PHP官方於2026年10月21日發布安全性更新，修補CVE-2026-109618及CVE-2026-109619兩項嚴重漏洞，CVSS v4.0基礎分數皆為9.2，未經身分驗證之攻擊者可能利用漏洞執行遠端程式碼。TWCERT/CC已發布 漏洞警訊公告 ，美國網路安全暨基礎設施安全局（CISA）、歐盟電腦緊急應變小組（CERT-EU）及英國國家網路安全中心（NCSC）等機構相繼發布警告，呼籲使用PHP之單位立即完成更新；若無法立即更新，應考慮隔離對外系統或暫停服務。 PHP 官方公告 PHP官方於2026年10…
 
 END OF DOCUMENT

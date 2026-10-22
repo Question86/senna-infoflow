@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-22T05:59:43+00:00",
+  "generated_at": "2026-10-22T06:29:07+00:00",
   "topics": {
     "ai": [
       {
@@ -105,11 +105,46 @@
         "url": "https://jvn.jp/vu/JVNVU91196958/"
       },
       {
+        "title": "[UPDATE] [mittel] Wireshark: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-22T06:10:51+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2730"
+      },
+      {
+        "title": "[UPDATE] [mittel] Unbound: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-22T06:05:54+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4073"
+      },
+      {
+        "title": "[UPDATE] [mittel] Checkmk: Schwachstelle ermöglicht Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-22T06:05:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4072"
+      },
+      {
+        "title": "[UPDATE] [mittel] NoMachine: Mehrere Schwachstellen ermöglichen Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-22T06:05:52+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4014"
+      },
+      {
         "title": "新人類資訊科技｜NT OneAPP企業雲端管理系統 - 存在5個漏洞",
         "source": "TWCERT/CC TVN Vulnerability Notes RSS",
         "published_at": "2026-10-22T03:59:00+00:00",
         "relevance_score": 11,
         "url": "https://www.twcert.org.tw/tw/cp-132-11307-ae4b3-1.html"
+      },
+      {
+        "title": "PHP發布安全性更新修補2項可導致遠端程式碼執行之嚴重漏洞，國際資安機構籲儘速更新",
+        "source": "TWCERT/CC Security News RSS",
+        "published_at": "2026-10-22T06:19:00+00:00",
+        "relevance_score": 9,
+        "url": "https://www.twcert.org.tw/tw/cp-104-11308-ed8b8-1.html"
       }
     ],
     "economy": [
@@ -133,6 +168,13 @@
         "published_at": "2026-10-22T04:00:58+00:00",
         "relevance_score": 14,
         "url": "https://e27.co/ai-took-perfect-notes-then-it-ruined-the-deck-20261018/"
+      },
+      {
+        "title": "Scouter enters Singapore’s crowded cyber market with a “listen first” promise",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-22T06:08:05+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/scouter-enters-singapores-crowded-cyber-market-with-a-listen-first-promise-20261022/"
       },
       {
         "title": "How I decide what to fix in my AI video workflow",
@@ -181,6 +223,13 @@
         "url": "https://e27.co/hong-kong-and-taiwan-founders-are-cheering-the-ai-boom-southeast-asia-isnt-in-the-room-20261022/"
       },
       {
+        "title": "PHP發布安全性更新修補2項可導致遠端程式碼執行之嚴重漏洞，國際資安機構籲儘速更新",
+        "source": "TWCERT/CC Security News RSS",
+        "published_at": "2026-10-22T06:19:00+00:00",
+        "relevance_score": 9,
+        "url": "https://www.twcert.org.tw/tw/cp-104-11308-ed8b8-1.html"
+      },
+      {
         "title": "92% of Bitcoin liquidations were shorts: What happens when the squeeze ends?",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-10-22T04:48:10+00:00",
@@ -223,6 +272,13 @@
         "published_at": "2026-10-22T03:54:26.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u40r"
+      },
+      {
+        "title": "カオASEAN事務総長が古川デジタル大臣を表敬訪問しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-10-22T06:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.digital.go.jp/press/542b23b5-1fca-44c0-9e31-ea0079535b1a"
       },
       {
         "title": "大阪大、学生など7.8万人の情報漏えい NECが無断で協力会社とデータ共有",

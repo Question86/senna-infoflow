@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-22T05:59:43+00:00_
+_Generiert: 2026-10-22T06:29:07+00:00_
 
 ## Kurzlage
 
-23 neue relevante Treffer. Stärkstes Signal: „Southeast Asia’s sellers spent a decade learning to sell to people. Now they have to sell to AI“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+30 neue relevante Treffer. Stärkstes Signal: „Southeast Asia’s sellers spent a decade learning to sell to people. Now they have to sell to AI“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -120,6 +120,33 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: ISC（Internet Systems Consortium）から、ISC BINDの複数の脆弱性が公開されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [mittel] Wireshark: Mehrere Schwachstellen ermöglichen Denial of Service** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2730)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-10-22T06:10:51+00:00`, fetched `2026-10-22T06:28:30+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein lokaler Angreifer kann mehrere Schwachstellen in Wireshark ausnutzen, um einen Denial of Service Angriff durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [mittel] Unbound: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4073)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-10-22T06:05:54+00:00`, fetched `2026-10-22T06:28:30+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Unbound ausnutzen, um einen Denial of Service Angriff durchzuführen, um Daten zu manipulieren und um Sicherheitsvorkehrungen zu umgehen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [mittel] Checkmk: Schwachstelle ermöglicht Privilegieneskalation** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4072)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-10-22T06:05:53+00:00`, fetched `2026-10-22T06:28:30+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein lokaler Angreifer kann eine Schwachstelle in Checkmk ausnutzen, um seine Privilegien zu erhöhen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -150,6 +177,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: A high-throughput and memory-efficient inference and serving engine for LLMs https://vllm.ai Easy, fast, and cheap LLM serving for everyone | Documentation | Blog | Paper | Twitter/X | User Forum | Developer Slack | 🔥 We have built a vLLM website to help you get started with vLLM. Please visit vllm.ai to learn more. For events, please visit vllm.ai/events to join us. About vLLM is a fast and easy-to-use library for…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **PHP發布安全性更新修補2項可導致遠端程式碼執行之嚴重漏洞，國際資安機構籲儘速更新** — Score 9, risk — [Quelle](https://www.twcert.org.tw/tw/cp-104-11308-ed8b8-1.html)
+  - Quelle: TWCERT/CC Security News RSS / `rss`
+  - Zeit: published `2026-10-22T06:19:00+00:00`, fetched `2026-10-22T06:28:30+00:00`
+  - Treffer: Security, TWCERT
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); TWCERT (+2.0); recent (+1.0)
+  - Kurz: PHP官方於2026年10月21日發布安全性更新，修補CVE-2026-109618及CVE-2026-109619兩項嚴重漏洞，CVSS v4.0基礎分數皆為9.2，未經身分驗證之攻擊者可能利用漏洞執行遠端程式碼。TWCERT/CC已發布 漏洞警訊公告 ，美國網路安全暨基礎設施安全局（CISA）、歐盟電腦緊急應變小組（CERT-EU）及英國國家網路安全中心（NCSC）等機構相繼發布警告，呼籲使用PHP之單位立即完成更新；若無法立即更新，應考慮隔離對外系統或暫停服務。 PHP 官方公告 PHP官方於2026年10月20日預告，將於10月21日14:00 UTC（台灣時間22:00）發布安全性更新，修補2項嚴重漏洞，並表示若漏洞細節提前公開或出現實際利用跡象，將提前發布。 PHP官方於10月21日發布更新，修補之漏洞如下： CVE 編號 漏洞類型 CVSS v4.0 基礎分數 CVE-2026-109618 遠端程式碼執行 9.…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.8 - 86 km S of Kokopo, Papua New Guinea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u417)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-22T05:40:49.040+00:00`, fetched `2026-10-22T05:45:51+00:00`
@@ -177,6 +213,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-22 03:35:17 UTC 2026-10-22 03:35:17 UTC at epicenter Location 14.861°N 93.839°W Depth 49.13 km (30.53 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Scouter enters Singapore’s crowded cyber market with a “listen first” promise** — Score 8, observation — [Quelle](https://e27.co/scouter-enters-singapores-crowded-cyber-market-with-a-listen-first-promise-20261022/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-22T06:08:05+00:00`, fetched `2026-10-22T06:28:30+00:00`
+  - Treffer: APAC Trend Radar, Public Health, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.8); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph demote demo (x0.45)
+  - Kurz: Anyone who has run security at a large Singapore organisation knows the routine. A vendor turns up with a slide deck, a slick demo and a quarterly target, and the talk is about the product long before anyone has asked what is actually keeping the security team up at night. Raz Kotler has sat on […] The post Scouter enters Singapore’s crowded cyber market with a “listen first” promise appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **カオASEAN事務総長が古川デジタル大臣を表敬訪問しました** — Score 8, observation — [Quelle](https://www.digital.go.jp/press/542b23b5-1fca-44c0-9e31-ea0079535b1a)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-10-22T06:00:00+00:00`, fetched `2026-10-22T06:28:30+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region southeast_asia: ASEAN (+2.0)
+  - Kurz: カオASEAN事務総長が古川デジタル大臣を表敬訪問しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **How I decide what to fix in my AI video workflow** — Score 8, observation — [Quelle](https://e27.co/how-i-decide-what-to-fix-in-my-ai-video-workflow-20261018/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-22T03:00:07+00:00`, fetched `2026-10-22T03:09:12+00:00`
@@ -194,15 +248,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Bitcoin rose 1.51 per cent to US$84,055.22 in 24 hours, and Ethereum rose 0.97 per cent to US$2,471.00. The total crypto market cap rose 1.36 per cent. A rebound in technology and AI stock sentiment lifted risk appetite across both assets. Bitcoin showed a 79 per cent correlation with the S&P 500, and its 24-hour […] The post 92% of Bitcoin liquidations were shorts: What happens when the squeeze ends? appeared first…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Taiwan kills Grab’s US$600M foodpanda deal, and Uber’s shadow is the reason** — Score 7, observation — [Quelle](https://e27.co/taiwan-kills-grabs-us600m-foodpanda-deal-and-ubers-shadow-is-the-reason-20261022/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-22T03:52:44+00:00`, fetched `2026-10-22T03:54:34+00:00`
-  - Treffer: APAC Trend Radar, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0)
-  - Kurz: Grab wanted Taiwan to be its first market outside Southeast Asia. Taiwan’s competition regulator has told it, in effect, that it is not really an outsider. Taiwan’s Fair Trade Commission (TFTC) on Wednesday blocked Germany-based Delivery Hero’s planned sale of foodpanda’s Taiwan business to Grab, scuttling a US$600 million all-cash deal agreed on March 23. […] The post Taiwan kills Grab’s US$600M foodpanda deal, and…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **大阪大、学生など7.8万人の情報漏えい NECが無断で協力会社とデータ共有** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2610/22/2000002491/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
