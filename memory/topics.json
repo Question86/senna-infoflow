@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-22T15:57:44+00:00",
+  "generated_at": "2026-10-22T16:10:29+00:00",
   "topics": {
     "ai": [
       {
@@ -323,6 +323,13 @@
         "url": "https://zenn.dev/explaza/articles/c749042ecbe232"
       },
       {
+        "title": "M 4.9 - western Xizang",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-22T16:09:42.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u44w"
+      },
+      {
         "title": "M 4.9 - 200 km NW of Port-Olry, Vanuatu",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-22T13:07:34.040+00:00",
@@ -356,13 +363,6 @@
         "published_at": "2026-10-22T05:40:49.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u417"
-      },
-      {
-        "title": "M 4.8 - Reykjanes Ridge",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-22T05:16:10.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u411"
       }
     ]
   }
