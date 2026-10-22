@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-10-22T05:50:39Z",
+  "generated_at": "2026-10-22T06:05:09Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -48,17 +48,17 @@
       "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
     },
     {
+      "title": "headroomlabs-ai/headroom",
+      "band": "krass",
+      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
+    },
+    {
       "title": "How I decide what to fix in my AI video workflow",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     },
     {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
-      "band": "strong",
-      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
-    },
-    {
-      "title": "新人類資訊科技｜NT OneAPP企業雲端管理系統 - 存在5個漏洞",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     }
