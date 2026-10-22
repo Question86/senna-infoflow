@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T10:52:27+00:00",
-  "run_id": "2026-10-22T10:52:27+00:00",
+  "generated_at": "2026-10-22T10:58:26+00:00",
+  "run_id": "2026-10-22T10:58:26+00:00",
   "date": "2026-10-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 46,
     "displayed_findings": 46,
     "high": 0,
@@ -2379,29 +2379,7 @@
       "id": "f9bbf36d130a0aa0f935"
     }
   ],
-  "new_findings": [
-    {
-      "title": "高市総理、サイバーセキュリティの本を出していた しかも“PHP”から",
-      "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002522/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-22T08:18:13+00:00",
-      "fetched_at": "2026-10-22T10:51:57+00:00",
-      "summary": "「今夜に対応して頂きたい大至急のお願い」――プログラミング言語「PHP」の緊急の脆弱性を巡り、高市早苗総理が10月21日夜、自身のXで修正パッチの適用準備を呼び掛けた。首相が個別のソフトウェアの脆弱性に言及するのは異例で、SNSでも話題になった。そんな高市総理、実はサイバーセキュリティの本を出版している。しか...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7301bc253c209508c472"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
