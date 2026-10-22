@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T02:29:41+00:00",
-  "run_id": "2026-10-22T02:29:41+00:00",
+  "generated_at": "2026-10-22T02:47:40+00:00",
+  "run_id": "2026-10-22T02:47:40+00:00",
   "date": "2026-10-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 11,
     "displayed_findings": 11,
     "high": 0,
@@ -565,30 +565,7 @@
       "id": "f9bbf36d130a0aa0f935"
     }
   ],
-  "new_findings": [
-    {
-      "title": "仕組みを理解する動画を、Claude Codeに作らせると便利すぎる",
-      "url": "https://zenn.dev/explaza/articles/c749042ecbe232",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-21T19:34:57+00:00",
-      "fetched_at": "2026-10-22T02:29:11+00:00",
-      "summary": "最近は動画で説明資料を作っている アプリの仕組みをお客さんに説明するとき、構成図とかHTML・Markdownで、説明するのが一般的かと思いますが 最近はjavascriptを用いて、Claudeで動画を生成しやすくなったので、アプリの操作と、その裏で起きている処理を交互に見せる解説動画を作って説明に使っています。 めちゃくち...",
-      "matched_keywords": [
-        "AI Agents",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c8bf3be1ecd493478f0d"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
