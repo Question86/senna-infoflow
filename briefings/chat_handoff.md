@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-22T17:08:37+00:00_
+_Generated: 2026-10-22T17:21:23+00:00_
 
 ## Status
 - status: `normal`
-- findings: `69`
+- findings: `70`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-10-22T17:08:37+00:00_
 - url: https://cert.europa.eu/publications/security-advisories/2026-019/
 - summary: On 21 October 2026, GitLab published a security advisory addressing several vulnerabilities among which a critical flaw that could allow an unauthenticated user to execute arbitrary code on a GitLab server. CERT-EU recommends organisations to update affected…
 
-### 5. M 5.2 - 201 km ENE of Nagqu, China
+### 5. Industry comparisons in the Copilot impact dashboard
+- source: GitHub Changelog Atom
+- score: `12`
+- published: `2026-10-22T16:28:24+00:00`
+- url: https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard
+- summary: The Copilot impact dashboard now includes an “Industry comparison” section. Enterprises, and organizations that aren’t owned by an enterprise, can compare their Copilot agentic adoption and leverage with aggregated benchmarks… The post Industry comparisons in…
+
+### 6. M 5.2 - 201 km ENE of Nagqu, China
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-10-22T15:40:56.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u44n
 - summary: Time 2026-10-22 15:12:04 UTC 2026-10-22 15:12:04 UTC at epicenter Location 32.440°N 93.867°E Depth 10.00 km (6.21 mi)
 
-### 6. M 7.0 - 183 km ENE of Nagqu, China
+### 7. M 7.0 - 183 km ENE of Nagqu, China
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-10-22T14:52:51.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u43g
 - summary: Time 2026-10-22 14:33:39 UTC 2026-10-22 14:33:39 UTC at epicenter Location 32.336°N 93.714°E Depth 10.00 km (6.21 mi)
 
-### 7. 厳選・セキュリティが心配ならClaude Codeにこの問いかけをコピペするべし20
+### 8. 厳選・セキュリティが心配ならClaude Codeにこの問いかけをコピペするべし20
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-10-22T11:28:38+00:00`
 - url: https://zenn.dev/yuiseki/articles/54b01670841898
 - summary: TL;DR この記事のURLをコーディングAIエージェントに伝えてください。 認証 このリポジトリのサインアップ、ログイン、メール確認、パスワードリセットの実装を調べてください。UI の CAPTCHA や入力チェックを通さず API を直接呼べないか、メール確認前に使える機能がないか確認してください。問題があれば実装箇所と...
-
-### 8. Big Tech’s thirst for water is sparking a global resistance
-- source: Rest of World Global Tech Feed
-- score: `11`
-- published: `2026-10-22T10:00:00+00:00`
-- url: https://restofworld.org/2026/ai-datacenters-water-resistance-global/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
-- summary: This photograph taken on September 6, 2026 shows a placard opposing data centers displayed on a water dispenser during the People's Convention on AI Data Centers event at Visakhapatnam in India's Andhra Pradesh state. Construction of a massive Google data cen…
 
 END OF DOCUMENT
