@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-22T01:56:39Z_
+_Generated: 2026-10-22T02:12:01Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “Southeast Asia’s sellers spent a decad
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-22T01:00:46+00:00` / age_days `0.04`
+- Published: `2026-10-22T01:00:46+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, 10, security high-signal: rce, 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “Southeast Asia’s sellers spent a decad
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-22T01:00:30+00:00` / age_days `0.04`
+- Published: `2026-10-22T01:00:30+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, 10, security high-signal: rce, 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “Southeast Asia’s sellers spent a decad
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-22T10:30:00+09:00` / age_days `0.02`
+- Published: `2026-10-22T10:30:00+09:00` / age_days `0.03`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “Southeast Asia’s sellers spent a decad
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-22T10:00:00+09:00` / age_days `0.04`
+- Published: `2026-10-22T10:00:00+09:00` / age_days `0.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “Southeast Asia’s sellers spent a decad
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-22T09:00:00+09:00` / age_days `0.08`
+- Published: `2026-10-22T09:00:00+09:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “Southeast Asia’s sellers spent a decad
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `125.0`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `125.01`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 125.0d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -72,17 +72,37 @@ Stärkste Dynamik nach Gate-Recheck: “Southeast Asia’s sellers spent a decad
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-10-21T23:31:06+00:00` / age_days `0.1`
+- Published: `2026-10-21T23:31:06+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: critical, 10
 - Quelle: https://forest.watch.impress.co.jp/docs/news/2150161.html
 
+### Cloudflare、TypeScriptをRustに移植した「tsrs」を発表。TypeScript 7より最大で70％少ないメモリで8倍速。今後、LSPなどTypeScriptの全機能をサポート予定
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `5.0`
+- Published: `2026-10-21T14:50:46+00:00` / age_days `0.47`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: no strong comparative reason
+- Quelle: https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html
+
+### We audited our own backlinks. Four domains linked to us, and two of them counted
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `4.0`
+- Published: `2026-10-22T02:00:29+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: high terms: 10, domain, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://e27.co/we-audited-our-own-backlinks-four-domains-linked-to-us-and-two-of-them-counted-20261018/
+
 ### メンテナンス中に503を返すだけでは足りない Google公式ドキュメントで読む必須・推奨・禁止事項 - SEMリサーチ
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `2.0`
-- Published: `2026-10-21T18:03:07+00:00` / age_days `0.33`
+- Published: `2026-10-21T18:03:07+00:00` / age_days `0.34`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -92,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “Southeast Asia’s sellers spent a decad
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `2.0`
-- Published: `2026-10-21T12:22:50+00:00` / age_days `0.57`
+- Published: `2026-10-21T12:22:50+00:00` / age_days `0.58`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -102,30 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “Southeast Asia’s sellers spent a decad
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `123.96`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `123.97`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1, aging penalty -16.0 for 124.0d old signal
 - Quelle: https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html
-
-### curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `123.96`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1, aging penalty -16.0 for 124.0d old signal
-- Quelle: https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html
-
-### 電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `123.96`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +1, single-source AI hype brake -8.0, aging penalty -16.0 for 124.0d old signal, single-source AI cap enforced after phrase recheck
-- Quelle: https://toyokeizai.net/articles/-/948348?display=b
 
 END OF DOCUMENT
