@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-22T18:18:05+00:00_
+_Generated: 2026-10-22T18:36:12+00:00_
 
 ## Status
 - status: `normal`
-- findings: `74`
+- findings: `76`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-10-22T18:18:05+00:00_
 - url: https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard
 - summary: The Copilot impact dashboard now includes an “Industry comparison” section. Enterprises, and organizations that aren’t owned by an enterprise, can compare their Copilot agentic adoption and leverage with aggregated benchmarks… The post Industry comparisons in…
 
-### 6. M 5.2 - 201 km ENE of Nagqu, China
+### 6. M 5.0 - 207 km ENE of Nagqu, China
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-10-22T18:28:47.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u45j
+- summary: Time 2026-10-22 18:06:44 UTC 2026-10-22 18:06:44 UTC at epicenter Location 32.371°N 93.989°E Depth 10.00 km (6.21 mi)
+
+### 7. M 5.2 - 201 km ENE of Nagqu, China
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-10-22T15:40:56.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u44n
 - summary: Time 2026-10-22 15:12:04 UTC 2026-10-22 15:12:04 UTC at epicenter Location 32.440°N 93.867°E Depth 10.00 km (6.21 mi)
 
-### 7. M 7.0 - 183 km ENE of Nagqu, China
+### 8. M 7.0 - 183 km ENE of Nagqu, China
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-10-22T14:52:51.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u43g
 - summary: Time 2026-10-22 14:33:39 UTC 2026-10-22 14:33:39 UTC at epicenter Location 32.336°N 93.714°E Depth 10.00 km (6.21 mi)
-
-### 8. 厳選・セキュリティが心配ならClaude Codeにこの問いかけをコピペするべし20
-- source: Hatena Bookmark Hotentry IT
-- score: `11`
-- published: `2026-10-22T11:28:38+00:00`
-- url: https://zenn.dev/yuiseki/articles/54b01670841898
-- summary: TL;DR この記事のURLをコーディングAIエージェントに伝えてください。 認証 このリポジトリのサインアップ、ログイン、メール確認、パスワードリセットの実装を調べてください。UI の CAPTCHA や入力チェックを通さず API を直接呼べないか、メール確認前に使える機能がないか確認してください。問題があれば実装箇所と...
 
 END OF DOCUMENT

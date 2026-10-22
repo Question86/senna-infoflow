@@ -576,6 +576,42 @@
     "id": "d617d63759cf89afc544"
   },
   {
+    "title": "M 5.0 - 207 km ENE of Nagqu, China",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u45j",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-22T18:28:47.040+00:00",
+    "fetched_at": "2026-10-22T18:35:42+00:00",
+    "summary": "Time 2026-10-22 18:06:44 UTC 2026-10-22 18:06:44 UTC at epicenter Location 32.371°N 93.989°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "95dcc265aa58e5c3900f"
+  },
+  {
     "title": "M 5.2 - 201 km ENE of Nagqu, China",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u44n",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -848,6 +884,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "3453d33a7513aa55f7f5"
+  },
+  {
+    "title": "Public monitoring now available with data residency",
+    "url": "https://github.blog/changelog/2026-10-22-public-monitoring-now-available-with-data-residency",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-10-22T18:12:58+00:00",
+    "fetched_at": "2026-10-22T18:35:42+00:00",
+    "summary": "Public monitoring is now available in public preview for GitHub Enterprise Cloud with data residency (GHEC DR). Public monitoring with data residency Public monitoring extends secret scanning beyond internal repositories… The post Public monitoring now available with data residency appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "CodeQL/Dependabot",
+      "GitHub"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "CodeQL/Dependabot (+7.0); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "62d4bc2c77d5d8d3ca6c"
   },
   {
     "title": "Außerplanmäßige Fortinet-Updates: Details Fehlanzeige, aber dringend",
