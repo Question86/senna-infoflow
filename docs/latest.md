@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-22T01:06:34+00:00_
+_Generiert: 2026-10-22T01:30:53+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „Southeast Asia’s sellers spent a decade learning to sell to people. Now they have to sell to AI“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+8 neue relevante Treffer. Stärkstes Signal: „Southeast Asia’s sellers spent a decade learning to sell to people. Now they have to sell to AI“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -30,6 +30,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); Security (+6.0); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: For years, the small business owner in Penang or Cebu has relied on a quiet, unspoken form of security: obscurity. Who would bother hacking a family-run online furniture store when there are banks to rob? The logic was not wrong. Breaking in took skill, time and patience, and skilled criminals price their time like consultants. […] The post AI agents broke into 100 firms for pocket change. SEA’s online shops fit the…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **PHPにおける複数の任意のコードが実行可能な脆弱性（CVE-2026-109618、CVE-2026-109619）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU99905564/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-10-22T10:30:00+09:00`, fetched `2026-10-22T01:30:18+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: The PHP Groupから、PHPの2件の脆弱性（CVE-2026-109618、CVE-2026-109619）に対してアドバイザリが公開されました。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **LIFF SDKにおけるクロスサイトスクリプティングの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU91023667/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-10-22T10:00:00+09:00`, fetched `2026-10-22T01:06:04+00:00`

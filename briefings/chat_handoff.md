@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-22T01:06:34+00:00_
+_Generated: 2026-10-22T01:30:53+00:00_
 
 ## Status
 - status: `normal`
-- findings: `7`
+- findings: `8`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-10-22T01:06:34+00:00_
 - url: https://e27.co/ai-agents-broke-into-100-firms-for-pocket-change-seas-online-shops-fit-the-target-profile-20261021/
 - summary: For years, the small business owner in Penang or Cebu has relied on a quiet, unspoken form of security: obscurity. Who would bother hacking a family-run online furniture store when there are banks to rob? The logic was not wrong. Breaking in took skill, time…
 
-### 3. LIFF SDKにおけるクロスサイトスクリプティングの脆弱性
+### 3. PHPにおける複数の任意のコードが実行可能な脆弱性（CVE-2026-109618、CVE-2026-109619）
+- source: JVN Japan Vulnerability Notes
+- score: `16`
+- published: `2026-10-22T10:30:00+09:00`
+- url: https://jvn.jp/vu/JVNVU99905564/
+- summary: The PHP Groupから、PHPの2件の脆弱性（CVE-2026-109618、CVE-2026-109619）に対してアドバイザリが公開されました。
+
+### 4. LIFF SDKにおけるクロスサイトスクリプティングの脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-10-22T10:00:00+09:00`
 - url: https://jvn.jp/vu/JVNVU91023667/
 - summary: LINEヤフー株式会社が提供するLIFF SDKには、クロスサイトスクリプティングの脆弱性が存在します。
-
-### 4. ISC BINDにおける複数の脆弱性（2026年10月）
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-10-22T09:00:00+09:00`
-- url: https://jvn.jp/vu/JVNVU91196958/
-- summary: ISC（Internet Systems Consortium）から、ISC BINDの複数の脆弱性が公開されました。
 
 ### 5. 「Apache Tomcat」に最大深刻度“CRITICAL”の脆弱性 ～v9 / v10 / v11系統に修正版／
 - source: Hatena Bookmark Hotentry IT

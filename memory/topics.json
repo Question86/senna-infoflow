@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-22T01:06:34+00:00",
+  "generated_at": "2026-10-22T01:30:53+00:00",
   "topics": {
     "ai": [
       {
@@ -33,6 +33,13 @@
         "published_at": "2026-10-22T01:00:30+00:00",
         "relevance_score": 23,
         "url": "https://e27.co/ai-agents-broke-into-100-firms-for-pocket-change-seas-online-shops-fit-the-target-profile-20261021/"
+      },
+      {
+        "title": "PHPにおける複数の任意のコードが実行可能な脆弱性（CVE-2026-109618、CVE-2026-109619）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-22T10:30:00+09:00",
+        "relevance_score": 16,
+        "url": "https://jvn.jp/vu/JVNVU99905564/"
       },
       {
         "title": "LIFF SDKにおけるクロスサイトスクリプティングの脆弱性",
