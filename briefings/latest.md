@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-22T15:19:31+00:00_
+_Generiert: 2026-10-22T15:34:01+00:00_
 
 ## Kurzlage
 
@@ -9,10 +9,10 @@ _Generiert: 2026-10-22T15:19:31+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **USGS earthquake M7.0 - 183 km ENE of Nagqu, China** — critical — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u43g)
+- **USGS earthquake M7.0 - 191 km ENE of Nagqu, China** — critical — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u43g)
   - Quelle: USGS
-  - Zeit: `2026-10-22T14:33:39+00:00`
-  - Kurz: M7.0 - 183 km ENE of Nagqu, China. PAGER alert: orange. Tsunami flag: 0.
+  - Zeit: `2026-10-22T14:33:40+00:00`
+  - Kurz: M7.0 - 191 km ENE of Nagqu, China. PAGER alert: orange. Tsunami flag: 0.
 - **CISA KEV: CVE-2026-106931 EG Secure Solutions SiteGuard Server Edition** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-10-20`
