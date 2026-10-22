@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-22T17:32:42+00:00_
+_Generiert: 2026-10-22T17:42:13+00:00_
 
 ## Kurzlage
 
-72 neue relevante Treffer. Stärkstes Signal: „Who referees the AI agents? Enterprises aren’t sure, new report shows“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+73 neue relevante Treffer. Stärkstes Signal: „Who referees the AI agents? Enterprises aren’t sure, new report shows“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -267,14 +267,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
   - Kurz: De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.8 - 144 km SSW of ‘Ohonua, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u459)
+- **M 4.8 - 39 km NE of Shikotan, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u45f)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-22T17:23:14.040+00:00`, fetched `2026-10-22T17:32:12+00:00`
+  - Zeit: published `2026-10-22T17:38:20.040+00:00`, fetched `2026-10-22T17:41:42+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-22 16:51:21 UTC 2026-10-22 16:51:21 UTC at epicenter Location 22.564°S 175.444°W Depth 35.00 km (21.75 mi)
+  - Kurz: Time 2026-10-22 17:21:26 UTC 2026-10-22 17:21:26 UTC at epicenter Location 44.035°N 147.083°E Depth 76.31 km (47.42 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen
