@@ -1,30 +1,54 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-22T11:23:54Z",
+  "generated_at": "2026-10-22T11:36:07Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 4,
       "krass": 8,
-      "strong": 12,
-      "watch": 8,
-      "quiet": 8
+      "strong": 14,
+      "watch": 9,
+      "quiet": 5
     },
     "bands_after_gate_recheck": {
-      "strong": 24,
-      "watch": 8,
-      "quiet": 8
+      "strong": 26,
+      "watch": 9,
+      "quiet": 5
     }
   },
   "top_dynamics": [
+    {
+      "title": "[UPDATE] [hoch] Mozilla Produkte (Thunderbird, Firefox ESR und Firefox): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4064",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-22T11:15:52+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Mozilla Thunderbird, Mozilla Firefox ESR und Mozilla Firefox ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen und um Daten zu manipulieren."
+    },
     {
       "title": "[UPDATE] [mittel] Xerox FreeFlow Print Server: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0489",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-22T06:35:51+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -48,7 +72,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2730",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-22T06:10:51+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -72,7 +96,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4073",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-22T06:05:54+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -96,7 +120,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4072",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-22T06:05:53+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -120,7 +144,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4014",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-22T06:05:52+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -144,7 +168,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11308-ed8b8-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-10-22T06:19:00+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -169,7 +193,7 @@
       "url": "https://e27.co/scouter-enters-singapores-crowded-cyber-market-with-a-listen-first-promise-20261022/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-22T06:08:05+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "security",
         "macro"
@@ -195,7 +219,7 @@
       "url": "https://e27.co/how-i-decide-what-to-fix-in-my-ai-video-workflow-20261018/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-22T03:00:07+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "ai",
         "macro"
@@ -221,7 +245,7 @@
       "url": "https://e27.co/southeast-asias-sellers-spent-a-decade-learning-to-sell-to-people-now-they-have-to-sell-to-ai-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-22T01:00:46+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "ai"
       ],
@@ -249,7 +273,7 @@
       "url": "https://e27.co/ai-agents-broke-into-100-firms-for-pocket-change-seas-online-shops-fit-the-target-profile-20261021/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-22T01:00:30+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "ai",
         "security",
@@ -279,7 +303,7 @@
       "url": "https://cert.europa.eu/publications/security-advisories/2026-019/",
       "source": "CERT-EU Security Advisories",
       "published_at": "2026-10-22T11:14:22+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -307,7 +331,7 @@
       "url": "https://jvn.jp/vu/JVNVU99905564/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-22T10:30:00+09:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -333,7 +357,7 @@
       "url": "https://jvn.jp/vu/JVNVU91023667/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-22T10:00:00+09:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "security"
       ],
@@ -359,7 +383,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11309-2266c-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-10-22T09:12:00+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "security"
@@ -386,7 +410,7 @@
       "url": "https://jvn.jp/vu/JVNVU91196958/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-22T09:00:00+09:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "security"
       ],
@@ -412,7 +436,7 @@
       "url": "https://restofworld.org/2026/ai-datacenters-water-resistance-global/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-10-22T10:00:00+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -438,7 +462,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002501/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-22T03:55:13+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -464,7 +488,7 @@
       "url": "https://qiita.com/kenimo49/items/30f290bf0f4fff021fb3",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-22T01:12:57+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -490,7 +514,7 @@
       "url": "https://e27.co/who-referees-the-ai-agents-enterprises-arent-sure-new-report-shows-20261022/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-22T06:30:33+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "ai",
         "macro"
@@ -545,7 +569,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 125.39,
+      "age_days": 125.4,
       "topics": [
         "ai"
       ],
@@ -574,7 +598,7 @@
       "url": "https://www.heise.de/news/php2shell-Updates-trudeln-ein-viele-Webseiten-offline-Angriffe-laufen-11496366.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-22T07:23:00.000+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "security",
         "macro"
@@ -600,7 +624,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11307-ae4b3-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-10-22T03:59:00+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -620,11 +644,36 @@
       "summary": "新人類資訊科技｜NT OneAPP企業雲端管理系統 - 存在5個漏洞"
     },
     {
+      "title": "M 4.9 - 85 km NNW of Curup, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u42q",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-22T11:31:57.040+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-22 10:57:52 UTC 2026-10-22 10:57:52 UTC at epicenter Location 2.804°S 102.127°E Depth 135.26 km (84.05 mi)"
+    },
+    {
       "title": "Taiwan Pavilion at SWITCH 2026: Meet the 33 Taiwanese startups heading to Singapore",
       "url": "https://e27.co/taiwan-pavilion-at-switch-2026-meet-the-33-taiwanese-startups-heading-to-singapore-20261022/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-22T09:17:13+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -677,7 +726,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u42e",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-22T10:24:35.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -702,7 +751,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u423",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-22T09:03:20.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -727,7 +776,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u41z",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-22T08:28:59.222+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -752,7 +801,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u417",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-22T05:40:49.040+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -802,7 +851,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u40r",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-22T03:54:26.040+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "disaster"
       ],
@@ -827,7 +876,7 @@
       "url": "https://e27.co/hong-kong-and-taiwan-founders-are-cheering-the-ai-boom-southeast-asia-isnt-in-the-room-20261022/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-22T05:38:00+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "ai",
         "macro"
@@ -850,11 +899,35 @@
       "summary": "A year ago, some of the most nervous entrepreneurs in the world were in Hong Kong, Taipei and Shanghai. Trade tensions, a property slump in mainland China and a stalled listings market had put founders there among the most cautious respondents in HSBC’s annual survey of business owners. Twelve months on, they are the…"
     },
     {
+      "title": "PHP 8.5.12の緊急リリースにpixivはどう対応したか - pixiv inside",
+      "url": "https://inside.pixiv.blog/2026/10/22/193321",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-22T10:38:41+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "こんにちは、Platform Division Infrastructure Unitのpicopicoです。 2026年10月21日、PHPに深刻な脆弱性（通称PHP2Shell）が見つかり、緊急のセキュリティリリースが予告されました。今回の脆弱性への対応にあたられた皆さま、そして現在も対応を続けている皆さまに、心より敬意を表します。 ピクシブでは影響を受ける..."
+    },
+    {
       "title": "AI took perfect notes. Then it ruined the deck",
       "url": "https://e27.co/ai-took-perfect-notes-then-it-ruined-the-deck-20261018/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-22T04:00:58+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "ai",
         "macro"
@@ -877,11 +950,35 @@
       "summary": "I knew within the first two minutes of glancing through the deck. A strategy workshop for our senior stakeholders had just wrapped. The session itself was good: the partner facilitating it followed our brief, the debate was sharp, and an AI tool captured the notes. When the deck arrived, I opened it and felt that […]…"
     },
     {
+      "title": "PHP脆弱性“PoCフライング公開”の経緯、支援財団が公表 混乱広げた企業を名指しで批判",
+      "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002525/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-22T09:30:52+00:00",
+      "age_days": 0.09,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "世界中の企業・組織が対応に追われているプログラミング言語「PHP」の脆弱性。高市早苗首相がSNSで対応を呼びかけたことから、テレビなどでも盛んに報じられ、これまでになく社会を騒がせている。開発プロジェクトは10月21日夜（日本時間、以下同）にセキュリティアップデートを配信したが、一部の企業・組織は22日時点..."
+    },
+    {
       "title": "高市総理、サイバーセキュリティの本を出していた しかも“PHP”から",
       "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002522/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-22T08:18:13+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -905,7 +1002,7 @@
       "url": "https://togetter.com/li/2761441",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-22T07:44:50+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -929,7 +1026,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002491/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-22T01:44:37+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "general"
       ],
@@ -947,106 +1044,7 @@
         "high terms: 10"
       ],
       "summary": "大阪大学（阪大）は10月21日、全学教育用電子計算機システムの運用を委託しているNECから、卒業生や在学生、教職員の計7万7851人分の個人情報が漏えいしたと発表した。 NECは、大学に報告していない協力会社と情報を共有するため、個人情報を含むファイルをクラウドストレージ上で共有していたという。加えてNECは、作業..."
-    },
-    {
-      "title": "「Apache Tomcat」に最大深刻度“CRITICAL”の脆弱性 ～v9 / v10 / v11系統に修正版／",
-      "url": "https://forest.watch.impress.co.jp/docs/news/2150161.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-21T23:31:06+00:00",
-      "age_days": 0.5,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: critical, 10"
-      ],
-      "summary": "「Apache Tomcat」に最大深刻度“CRITICAL”の脆弱性 ～v9 / v10 / v11系統に修正版／"
-    },
-    {
-      "title": "仕組みを理解する動画を、Claude Codeに作らせると便利すぎる",
-      "url": "https://zenn.dev/explaza/articles/c749042ecbe232",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-21T19:34:57+00:00",
-      "age_days": 0.66,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 8.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: code",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "最近は動画で説明資料を作っている アプリの仕組みをお客さんに説明するとき、構成図とかHTML・Markdownで、説明するのが一般的かと思いますが 最近はjavascriptを用いて、Claudeで動画を生成しやすくなったので、アプリの操作と、その裏で起きている処理を交互に見せる解説動画を作って説明に使っています。 めちゃくち..."
-    },
-    {
-      "title": "カオASEAN事務総長が古川デジタル大臣を表敬訪問しました",
-      "url": "https://www.digital.go.jp/press/542b23b5-1fca-44c0-9e31-ea0079535b1a",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-10-22T06:00:00+00:00",
-      "age_days": 0.22,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 8.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "カオASEAN事務総長が古川デジタル大臣を表敬訪問しました"
-    },
-    {
-      "title": "Cloudflare、TypeScriptをRustに移植した「tsrs」を発表。TypeScript 7より最大で70％少ないメモリで8倍速。今後、LSPなどTypeScriptの全機能をサポート予定",
-      "url": "https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-21T14:50:46+00:00",
-      "age_days": 0.86,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "Cloudflare、TypeScriptをRustに移植した「tsrs」を発表。TypeScript 7より最大で70％少ないメモリで8倍速。今後、LSPなどTypeScriptの全機能をサポート予定 Cloudflareは、TypeScriptをRustに移植した「tsrs」を発表しました。 下記は、Cloudflareに買収されたVoidZeroによるtsrsに関するポストです。VoidZeroもこのtsr..."
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] Xerox FreeFlow Print Server: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Mozilla Produkte (Thunderbird, Firefox ESR und Firefox): Mehrere Schwachstellen” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
 }
