@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-22T05:25:21Z",
+  "generated_at": "2026-10-22T05:37:47Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “How I decide what to fix in my AI video workflow” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://e27.co/how-i-decide-what-to-fix-in-my-ai-video-workflow-20261018/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-22T03:00:07+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "macro"
@@ -41,7 +41,7 @@
       "url": "https://e27.co/southeast-asias-sellers-spent-a-decade-learning-to-sell-to-people-now-they-have-to-sell-to-ai-20261010/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-22T01:00:46+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -69,7 +69,7 @@
       "url": "https://e27.co/ai-agents-broke-into-100-firms-for-pocket-change-seas-online-shops-fit-the-target-profile-20261021/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-22T01:00:30+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "security",
@@ -99,7 +99,7 @@
       "url": "https://jvn.jp/vu/JVNVU99905564/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-22T10:30:00+09:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -125,7 +125,7 @@
       "url": "https://jvn.jp/vu/JVNVU91023667/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-22T10:00:00+09:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -177,7 +177,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 125.14,
+      "age_days": 125.15,
       "topics": [
         "ai"
       ],
@@ -196,7 +196,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 125.1d old signal",
+        "aging penalty -8.0 for 125.2d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -206,7 +206,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11307-ae4b3-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-10-22T03:59:00+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -230,7 +230,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u411",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-22T05:16:10.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -255,7 +255,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u40r",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-22T03:54:26.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -280,7 +280,7 @@
       "url": "https://e27.co/ai-took-perfect-notes-then-it-ruined-the-deck-20261018/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-22T04:00:58+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "macro"
@@ -307,7 +307,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002491/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-22T01:44:37+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
