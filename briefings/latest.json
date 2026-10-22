@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T09:32:55+00:00",
-  "run_id": "2026-10-22T09:32:55+00:00",
+  "generated_at": "2026-10-22T09:46:52+00:00",
+  "run_id": "2026-10-22T09:46:52+00:00",
   "date": "2026-10-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 42,
     "displayed_findings": 42,
     "high": 0,
@@ -2181,48 +2181,7 @@
       "id": "f9bbf36d130a0aa0f935"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Taiwan Pavilion at SWITCH 2026: Meet the 33 Taiwanese startups heading to Singapore",
-      "url": "https://e27.co/taiwan-pavilion-at-switch-2026-meet-the-33-taiwanese-startups-heading-to-singapore-20261022/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-22T09:17:13+00:00",
-      "fetched_at": "2026-10-22T09:32:25+00:00",
-      "summary": "From October 27 to 29, 33 Taiwanese startups will exhibit at the Taiwan Pavilion at SWITCH 2026 in Singapore (Booth Q01, Sands Expo & Convention Centre), as part of Taiwan Tech Week in Singapore. The delegation is led by Startup Island TAIWAN, Taiwan’s national startup brand backed by the National Development Council (NDC), in partnership […] The post Taiwan Pavilion at SWITCH 2026: Meet the 33 Taiwanese startups he…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c7108bf1796a20b8a7a9"
-    },
-    {
-      "title": "A 200,000-car plant for a 33,000-EV market: Inside VinFast’s Philippine gamble",
-      "url": "https://e27.co/a-200000-car-plant-for-a-33000-ev-market-inside-vinfasts-philippine-gamble/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-22T09:30:38+00:00",
-      "fetched_at": "2026-10-22T09:32:25+00:00",
-      "summary": "Vingroup is opening a third Asian manufacturing front for its electric vehicle (EV) ambitions. The Vietnamese conglomerate, best known for EV maker VinFast, plans to invest US$500 million in a flagship EV plant in the Philippines, the country’s Department of Trade and Industry (DTI) said on Wednesday. The factory is designed to produce 200,000 vehicles […] The post A 200,000-car plant for a 33,000-EV market: Inside…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Vietnam, Philippines (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3e4e411443f843516a39"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
