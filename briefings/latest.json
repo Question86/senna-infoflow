@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T18:58:41+00:00",
-  "run_id": "2026-10-22T18:58:41+00:00",
+  "generated_at": "2026-10-22T19:10:09+00:00",
+  "run_id": "2026-10-22T19:10:09+00:00",
   "date": "2026-10-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 77,
     "displayed_findings": 77,
     "high": 0,
@@ -3987,30 +3987,7 @@
       "id": "0e7e9bc83709851e9543"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Meta API endpoints updated for Actions blob storage",
-      "url": "https://github.blog/changelog/2026-10-22-meta-api-endpoints-updated-for-actions-blob-storage",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-10-22T18:14:16+00:00",
-      "fetched_at": "2026-10-22T18:58:11+00:00",
-      "summary": "We’re adding blob storage endpoints for GitHub Actions on github.com as part of our ongoing work to improve capacity and reliability. The meta API now includes these new endpoints. If… The post Meta API endpoints updated for Actions blob storage appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Actions",
-        "GitHub",
-        "GitHub Actions"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "GitHub Actions (+5.0); GitHub (+2.0); Actions (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0b6a89c5023e7a258187"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
