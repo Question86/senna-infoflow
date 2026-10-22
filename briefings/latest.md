@@ -1,14 +1,18 @@
 # Senna Briefing
 
-_Generiert: 2026-10-22T14:46:45+00:00_
+_Generiert: 2026-10-22T14:54:19+00:00_
 
 ## Kurzlage
 
-63 neue relevante Treffer. Stärkstes Signal: „Who referees the AI agents? Enterprises aren’t sure, new report shows“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+64 neue relevante Treffer. Stärkstes Signal: „Who referees the AI agents? Enterprises aren’t sure, new report shows“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **USGS earthquake M7.0 - 183 km ENE of Nagqu, China** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u43g)
+  - Quelle: USGS
+  - Zeit: `2026-10-22T14:33:39+00:00`
+  - Kurz: M7.0 - 183 km ENE of Nagqu, China. PAGER alert: none. Tsunami flag: 0.
 - **CISA KEV: CVE-2026-106931 EG Secure Solutions SiteGuard Server Edition** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-10-20`
@@ -177,6 +181,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 7.0 - 183 km ENE of Nagqu, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u43g)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-22T14:52:51.040+00:00`, fetched `2026-10-22T14:53:40+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-22 14:33:39 UTC 2026-10-22 14:33:39 UTC at epicenter Location 32.336°N 93.714°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Big Tech’s thirst for water is sparking a global resistance** — Score 11, observation — [Quelle](https://restofworld.org/2026/ai-datacenters-water-resistance-global/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
   - Zeit: published `2026-10-22T10:00:00+00:00`, fetched `2026-10-22T10:19:16+00:00`
@@ -293,15 +306,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-22 10:07:41 UTC 2026-10-22 10:07:41 UTC at epicenter Location 36.677°N 71.400°E Depth 174.51 km (108.44 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.5 - 136 km NE of Petropavlovsk-Kamchatsky, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u423)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-22T09:03:20.040+00:00`, fetched `2026-10-22T09:15:20+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-22 08:34:18 UTC 2026-10-22 08:34:18 UTC at epicenter Location 53.796°N 160.267°E Depth 61.06 km (37.94 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **PHP發布安全性更新修補2項可導致遠端程式碼執行之嚴重漏洞，國際資安機構籲儘速更新** — Score 9, risk — [Quelle](https://www.twcert.org.tw/tw/cp-104-11308-ed8b8-1.html)
   - Quelle: TWCERT/CC Security News RSS / `rss`

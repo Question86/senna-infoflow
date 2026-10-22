@@ -532,6 +532,42 @@
     "id": "1aa99b57695914a4f994"
   },
   {
+    "title": "M 7.0 - 183 km ENE of Nagqu, China",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u43g",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-22T14:52:51.040+00:00",
+    "fetched_at": "2026-10-22T14:53:40+00:00",
+    "summary": "Time 2026-10-22 14:33:39 UTC 2026-10-22 14:33:39 UTC at epicenter Location 32.336°N 93.714°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "15ac4a85872b1e4ffa0e"
+  },
+  {
     "title": "Big Tech’s thirst for water is sparking a global resistance",
     "url": "https://restofworld.org/2026/ai-datacenters-water-resistance-global/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
     "source": "Rest of World Global Tech Feed",
