@@ -568,6 +568,28 @@
     "id": "15ac4a85872b1e4ffa0e"
   },
   {
+    "title": "厳選・セキュリティが心配ならClaude Codeにこの問いかけをコピペするべし20",
+    "url": "https://zenn.dev/yuiseki/articles/54b01670841898",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-22T11:28:38+00:00",
+    "fetched_at": "2026-10-22T14:59:32+00:00",
+    "summary": "TL;DR この記事のURLをコーディングAIエージェントに伝えてください。 認証 このリポジトリのサインアップ、ログイン、メール確認、パスワードリセットの実装を調べてください。UI の CAPTCHA や入力チェックを通さず API を直接呼べないか、メール確認前に使える機能がないか確認してください。問題があれば実装箇所と...",
+    "matched_keywords": [
+      "AI Agents",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b57266995847edecaa91"
+  },
+  {
     "title": "Big Tech’s thirst for water is sparking a global resistance",
     "url": "https://restofworld.org/2026/ai-datacenters-water-resistance-global/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
     "source": "Rest of World Global Tech Feed",
