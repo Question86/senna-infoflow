@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-22T05:35:23+00:00_
+_Generated: 2026-10-22T05:46:19+00:00_
 
 ## Status
 - status: `normal`
-- findings: `19`
+- findings: `21`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-10-22T05:35:23+00:00_
 - url: https://jvn.jp/vu/JVNVU99905564/
 - summary: The PHP Groupから、PHPの2件の脆弱性（CVE-2026-109618、CVE-2026-109619）に対してアドバイザリが公開されました。
 
-### 4. LIFF SDKにおけるクロスサイトスクリプティングの脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-10-22T10:00:00+09:00`
-- url: https://jvn.jp/vu/JVNVU91023667/
-- summary: LINEヤフー株式会社が提供するLIFF SDKには、クロスサイトスクリプティングの脆弱性が存在します。
+### 4. Hong Kong and Taiwan founders are cheering the AI boom. Southeast Asia isn’t in the room
+- source: e27 Asia Startup and Tech Feed
+- score: `16`
+- published: `2026-10-22T05:38:00+00:00`
+- url: https://e27.co/hong-kong-and-taiwan-founders-are-cheering-the-ai-boom-southeast-asia-isnt-in-the-room-20261022/
+- summary: A year ago, some of the most nervous entrepreneurs in the world were in Hong Kong, Taipei and Shanghai. Trade tensions, a property slump in mainland China and a stalled listings market had put founders there among the most cautious respondents in HSBC’s annua…
 
 ### 5. 新人類資訊科技｜NT OneAPP企業雲端管理系統 - 存在5個漏洞
 - source: TWCERT/CC TVN Vulnerability Notes RSS
@@ -50,18 +50,18 @@ _Generated: 2026-10-22T05:35:23+00:00_
 - url: https://zenn.dev/explaza/articles/c749042ecbe232
 - summary: 最近は動画で説明資料を作っている アプリの仕組みをお客さんに説明するとき、構成図とかHTML・Markdownで、説明するのが一般的かと思いますが 最近はjavascriptを用いて、Claudeで動画を生成しやすくなったので、アプリの操作と、その裏で起きている処理を交互に見せる解説動画を作って説明に使っています。 めちゃくち...
 
-### 7. M 4.8 - Reykjanes Ridge
+### 7. M 4.8 - 86 km S of Kokopo, Papua New Guinea
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-10-22T05:40:49.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u417
+- summary: Time 2026-10-22 05:23:59 UTC 2026-10-22 05:23:59 UTC at epicenter Location 5.130°S 152.247°E Depth 57.32 km (35.62 mi)
+
+### 8. M 4.8 - Reykjanes Ridge
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-10-22T05:16:10.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u411
 - summary: Time 2026-10-22 04:44:17 UTC 2026-10-22 04:44:17 UTC at epicenter Location 56.966°N 34.094°W Depth 10.00 km (6.21 mi)
-
-### 8. M 4.6 - 97 km SW of El Palmarcito, Mexico
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-10-22T03:54:26.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u40r
-- summary: Time 2026-10-22 03:35:17 UTC 2026-10-22 03:35:17 UTC at epicenter Location 14.861°N 93.839°W Depth 49.13 km (30.53 mi)
 
 END OF DOCUMENT
