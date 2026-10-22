@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-22T23:06:13+00:00_
+_Generiert: 2026-10-22T23:21:02+00:00_
 
 ## Kurzlage
 
-84 neue relevante Treffer. Stärkstes Signal: „Who referees the AI agents? Enterprises aren’t sure, new report shows“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+85 neue relevante Treffer. Stärkstes Signal: „Who referees the AI agents? Enterprises aren’t sure, new report shows“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
