@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-23T05:53:09+00:00_
+_Generiert: 2026-10-23T05:58:40+00:00_
 
 ## Kurzlage
 
-19 neue relevante Treffer. Stärkstes Signal: „I used AI to rebuild my websites without knowing how to code“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
+22 neue relevante Treffer. Stärkstes Signal: „I used AI to rebuild my websites without knowing how to code“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -20,6 +20,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); Webentwicklung (+3.8); APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0); watchgraph region japan: METI (+2.0)
   - Kurz: I’ve been running The Wellness Insider since 2016, and over the years, there have been countless occasions when I’ve looked at my website and thought, “I wish I could change that easily.” Sometimes, it was something relatively minor, such as the spacing between menu items or the way an image appeared on a page. Other […] The post I used AI to rebuild my websites without knowing how to code appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Graphify-Labs/graphify** — Score 19, observation — [Quelle](https://github.com/Graphify-Labs/graphify)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-10-23T05:58:09+00:00`
+  - Treffer: AI Agents, APAC Trend Radar, GitHub Trending, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+6.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. https://www.graphify.com Read this in other languages English | 简体中文 | 日本語 | 한국어 | Deutsch | Français | Español | हिन्दी | Português | Русский | العربية | فارسی | Italiano | Polski…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年10月22日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU98747108/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
@@ -78,6 +87,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-23 02:17:01 UTC 2026-10-23 02:17:01 UTC at epicenter Location 27.999°N 100.619°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **supabase/supabase** — Score 11, opportunity — [Quelle](https://github.com/supabase/supabase)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-10-23T05:58:09+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, GitHub Trending, Open Source
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
+  - Kurz: The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. https://supabase.com Supabase Supabase is the Postgres development platform. We're building the features of Firebase using enterprise-grade open source tools. Hosted Postgres Database. Docs Authentication and Authorization. Docs Auto-generated APIs. REST. Docs GraphQL. Docs Realtime sub…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **php/php-src** — Score 11, observation — [Quelle](https://github.com/php/php-src)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-10-23T05:58:09+00:00`
+  - Treffer: APAC Trend Radar, GitHub Trending, Open Source, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Webentwicklung (+3.0); Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
+  - Kurz: The PHP Interpreter https://www.php.net The PHP Interpreter PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world. PHP is distributed under the Modified BSD License (SPDX-License-Identifier: BSD-3-Clause ). Documentation The PHP manual is available at php.net/docs .…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The working capital trap: Lessons from Indonesia’s first D2C generation** — Score 10, observation — [Quelle](https://e27.co/the-working-capital-trap-lessons-from-indonesias-first-d2c-generation-20261015/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-23T01:00:39+00:00`, fetched `2026-10-23T01:15:10+00:00`
