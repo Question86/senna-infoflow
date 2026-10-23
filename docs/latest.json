@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T23:19:19+00:00",
-  "run_id": "2026-10-23T23:19:19+00:00",
+  "generated_at": "2026-10-23T23:29:06+00:00",
+  "run_id": "2026-10-23T23:29:06+00:00",
   "date": "2026-10-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 86
+      "configured_public_sources_only": 87
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 86,
-    "displayed_findings": 86,
+    "new_relevant_findings": 1,
+    "today_file_total": 87,
+    "displayed_findings": 87,
     "high": 0,
     "medium": 35,
-    "observe": 51,
+    "observe": 52,
     "source_errors": 0
   },
   "sections": {
@@ -1732,6 +1732,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "6e1ce38bce533962cadc"
+      },
+      {
+        "title": "PHP脆弱性、利用サイトの半分が修正困難 バージョン古くサポート終了 - 日本経済新聞",
+        "url": "https://www.nikkei.com/article/DGXZQOUC236ST0T21C26A0000000/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-23T20:43:19+00:00",
+        "fetched_at": "2026-10-23T23:28:36+00:00",
+        "summary": "プログラム言語「PHP」に深刻な脆弱性が発覚した問題で、利用サイトの半数では運営団体の公表した修正作業が難しいことが分かった。長期間更新されていない「休眠サイト」も多数含まれるとみられ、閉鎖が急務となっている。デロイトトーマツサイバーがウェブ技術の調査サービス「W3Techs.com」の統計をもとに推計した。...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6625735783bbc26a2d7c"
       },
       {
         "title": "パナソニックHD、利用禁止の生成AIに従業員らの情報送出 33万人分 - 日本経済新聞",
@@ -3936,6 +3957,27 @@
       "id": "6e1ce38bce533962cadc"
     },
     {
+      "title": "PHP脆弱性、利用サイトの半分が修正困難 バージョン古くサポート終了 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC236ST0T21C26A0000000/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-23T20:43:19+00:00",
+      "fetched_at": "2026-10-23T23:28:36+00:00",
+      "summary": "プログラム言語「PHP」に深刻な脆弱性が発覚した問題で、利用サイトの半数では運営団体の公表した修正作業が難しいことが分かった。長期間更新されていない「休眠サイト」も多数含まれるとみられ、閉鎖が急務となっている。デロイトトーマツサイバーがウェブ技術の調査サービス「W3Techs.com」の統計をもとに推計した。...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6625735783bbc26a2d7c"
+    },
+    {
       "title": "パナソニックHD、利用禁止の生成AIに従業員らの情報送出 33万人分 - 日本経済新聞",
       "url": "https://www.nikkei.com/article/DGXZQOUF237Z60T21C26A0000000/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4433,7 +4475,29 @@
       "id": "bd33cfcc60a76fe0bdbd"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "PHP脆弱性、利用サイトの半分が修正困難 バージョン古くサポート終了 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC236ST0T21C26A0000000/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-23T20:43:19+00:00",
+      "fetched_at": "2026-10-23T23:28:36+00:00",
+      "summary": "プログラム言語「PHP」に深刻な脆弱性が発覚した問題で、利用サイトの半数では運営団体の公表した修正作業が難しいことが分かった。長期間更新されていない「休眠サイト」も多数含まれるとみられ、閉鎖が急務となっている。デロイトトーマツサイバーがウェブ技術の調査サービス「W3Techs.com」の統計をもとに推計した。...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6625735783bbc26a2d7c"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
