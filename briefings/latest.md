@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-23T11:20:04+00:00_
+_Generiert: 2026-10-23T11:32:36+00:00_
 
 ## Kurzlage
 
-55 neue relevante Treffer. Stärkstes Signal: „Japan’s privacy law isn’t GDPR, and that’s where foreign SaaS founders keep tripping“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
+56 neue relevante Treffer. Stärkstes Signal: „Japan’s privacy law isn’t GDPR, and that’s where foreign SaaS founders keep tripping“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -49,10 +49,6 @@ _Generiert: 2026-10-23T11:20:04+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone VANCE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **USGS earthquake M5.7 - 61 km WNW of Leni, Italy** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4bk)
-  - Quelle: USGS
-  - Zeit: `2026-10-23T10:19:16+00:00`
-  - Kurz: M5.7 - 61 km WNW of Leni, Italy. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -123,6 +119,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
   - Kurz: Ein lokaler Angreifer kann eine Schwachstelle in KNIME Analytics Platform ausnutzen, um Informationen offenzulegen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [mittel] Red Hat Enterprise Linux cockpit-machines: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4118)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-10-23T11:25:52+00:00`, fetched `2026-10-23T11:32:06+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein lokaler, authentisierter Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux cockpit-machines ausnutzen, um Informationen offenzulegen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年10月22日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU98747108/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-10-23T11:00:00+09:00`, fetched `2026-10-23T02:08:32+00:00`
@@ -132,15 +137,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[NEU] [UNGEPATCHT] [mittel] expat: Schwachstelle ermöglicht Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4123)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-10-23T10:30:51+00:00`, fetched `2026-10-23T10:42:04+00:00`
-  - Treffer: BSI, CERT-Bund, Patch, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in expat ausnutzen, um einen Denial of Service Angriff durchzuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.5 - 18 km WNW of Bantogon, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4b3)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-23T09:28:24.040+00:00`, fetched `2026-10-23T09:35:42+00:00`
