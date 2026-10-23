@@ -1,8 +1,31 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-23T00:52:50+00:00",
+  "generated_at": "2026-10-23T01:15:38+00:00",
   "topics": {
+    "general": [
+      {
+        "title": "The working capital trap: Lessons from Indonesia’s first D2C generation",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-23T01:00:39+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/the-working-capital-trap-lessons-from-indonesias-first-d2c-generation-20261015/"
+      },
+      {
+        "title": "eMudhraの中間CA証明書の秘密鍵の危殆化についてまとめてみた - piyolog",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-22T20:51:20+00:00",
+        "relevance_score": 5,
+        "url": "https://piyolog.hatenadiary.jp/entry/2026/10/23/021328"
+      },
+      {
+        "title": "Studio 株式会社における不正アクセスによる個人情報の漏えいの可能性について｜デジタル庁",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-22T14:21:11+00:00",
+        "relevance_score": 5,
+        "url": "https://www.digital.go.jp/press/a0a8f66c-b32d-4695-9372-bcd5d4280f22"
+      }
+    ],
     "ai": [
       {
         "title": "GitHub Copilot in Visual Studio — September update",
@@ -19,22 +42,6 @@
         "published_at": "2026-10-23T00:17:51+00:00",
         "relevance_score": 9,
         "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2"
-      }
-    ],
-    "general": [
-      {
-        "title": "eMudhraの中間CA証明書の秘密鍵の危殆化についてまとめてみた - piyolog",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-22T20:51:20+00:00",
-        "relevance_score": 5,
-        "url": "https://piyolog.hatenadiary.jp/entry/2026/10/23/021328"
-      },
-      {
-        "title": "Studio 株式会社における不正アクセスによる個人情報の漏えいの可能性について｜デジタル庁",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-22T14:21:11+00:00",
-        "relevance_score": 5,
-        "url": "https://www.digital.go.jp/press/a0a8f66c-b32d-4695-9372-bcd5d4280f22"
       }
     ]
   }

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-23T00:52:50+00:00_
+_Generiert: 2026-10-23T01:15:38+00:00_
 
 ## Kurzlage
 
-3 neue relevante Treffer. Stärkstes Signal: „GitHub Copilot in Visual Studio — September update“ aus GitHub Changelog Atom (Score 9, observation).
+4 neue relevante Treffer. Stärkstes Signal: „The working capital trap: Lessons from Indonesia’s first D2C generation“ aus e27 Asia Startup and Tech Feed (Score 10, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -65,6 +65,15 @@ Keine neuen mittleren Treffer.
 
 ## Nur beobachten
 
+- **The working capital trap: Lessons from Indonesia’s first D2C generation** — Score 10, observation — [Quelle](https://e27.co/the-working-capital-trap-lessons-from-indonesias-first-d2c-generation-20261015/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-23T01:00:39+00:00`, fetched `2026-10-23T01:15:10+00:00`
+  - Treffer: APAC Trend Radar, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Indonesia’s D2C and inventory-heavy startup sector looks different in 2026 than it did before 2022. The cohort of platforms that scaled between 2018 and 2021 (Fabelio in furniture, several in F&B, fashion, and household goods) encountered a category of operational risk that the original venture playbook tended to underestimate. Some platforms have stabilised. Several have […] The post The working capital trap: Lesso…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **GitHub Copilot in Visual Studio — September update** — Score 9, observation — [Quelle](https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-10-23T00:17:51+00:00`, fetched `2026-10-23T00:52:19+00:00`
