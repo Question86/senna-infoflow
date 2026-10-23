@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-23T05:50:28Z",
+  "generated_at": "2026-10-23T06:05:09Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “三菱電機製の複数製品における複数の脆弱性（2026-006）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU93251594/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-23T11:00:15+09:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -35,11 +35,40 @@
       "summary": "三菱電機株式会社が提供するGENESIS、GENESIS64、ICONICS Suite、Hyper Historian、AnalytiX、MobileHMI、IoTWorX、MC Works64、GENESIS32およびBizVizには、複数の脆弱性が存在します。"
     },
     {
+      "title": "supabase/supabase",
+      "url": "https://github.com/supabase/supabase",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-10-23T05:58:09+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce, auth",
+        "security high-signal: rce, auth",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "extreme gate recheck: insufficient independent/current evidence"
+      ],
+      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. https://supabase.com Supabase Supabase is the Postgres development platform. We're building the features of Firebase using enterprise-grade open source tools. Hosted Postgres Database. Do…"
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月22日）",
       "url": "https://jvn.jp/vu/JVNVU98747108/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-23T11:00:00+09:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -61,11 +90,37 @@
       "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
     },
     {
+      "title": "php/php-src",
+      "url": "https://github.com/php/php-src",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-10-23T05:58:09+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "The PHP Interpreter https://www.php.net The PHP Interpreter PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world. PHP is distributed under the Modified BSD License (…"
+    },
+    {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 126.16,
+      "age_days": 126.17,
       "topics": [
         "ai"
       ],
@@ -94,7 +149,7 @@
       "url": "https://e27.co/bitcoin-rejected-us84000-and-forced-us79060000-in-long-positions-out-20261023/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-23T04:06:10+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -115,11 +170,38 @@
       "summary": "The digital asset sector faces heavy selling pressure this week as Bitcoin drops 3.20 per cent to US$81,385.04. This downward movement closely tracks a 3.15 per cent decline in the total cryptocurrency capitalisation, which now sits at US$2.72 trillion. I view this current price action as a complex interplay of intern…"
     },
     {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-10-23T05:58:09+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: local",
+        "high terms: code",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. https://www.graphify.com Read this in other languages English | 简体中文 | 日本語 | 한국어…"
+    },
+    {
       "title": "M 4.5 - 18 km NNW of Yongning, China",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u49a",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-23T02:31:45.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -144,7 +226,7 @@
       "url": "https://e27.co/i-used-ai-to-rebuild-my-websites-without-knowing-how-to-code-20261018/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-23T04:00:34+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -170,7 +252,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u49c",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-23T02:59:08.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -195,7 +277,7 @@
       "url": "https://e27.co/carro-turns-singapore-car-loans-into-a-us350m-funding-pipeline-in-a-regional-first-20261022/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-23T02:00:11+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "infra",
         "macro"
@@ -221,7 +303,7 @@
       "url": "https://e27.co/male-founders-are-losing-confidence-women-are-doubling-down-on-ai-20261022/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-23T01:30:20+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "macro"
@@ -242,85 +324,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "HSBC’s latest survey of wealthy entrepreneurs contains an awkward finding for the men who still write most of the cheques. Their own confidence is slipping, while the confidence of the women they rarely fund is rising. The Global Entrepreneurial Wealth Report 2026 polled more than 3,000 business owners across 17 marke…"
-    },
-    {
-      "title": "Red Hat opens Singapore AI centre to pull enterprises out of pilot purgatory",
-      "url": "https://e27.co/red-hat-opens-singapore-ai-centre-to-pull-enterprises-out-of-pilot-purgatory-20261023/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-23T05:19:38+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: regional, shortage",
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Southeast Asia does not have a shortage of AI pilots. It has a shortage of AI pilots that ever leave the lab. A recent regional survey found that 57 per cent of SEA firms can’t scale their AI pilots, a stretch of corporate limbo now known in industry jargon as the “frozen middle”. Red Hat, […] The post Red Hat opens S…"
-    },
-    {
-      "title": "How AI became my sparring partner",
-      "url": "https://e27.co/how-ai-became-my-sparring-partner-20261018/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-23T03:00:15+00:00",
-      "age_days": 0.12,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: critical, 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "A few months ago, I was trying to understand why one high-protein formulation puffed well during low-moisture extrusion while another did not. I gave ChatGPT the formulation details, expansion results, rheological measurements and observations from the extrusion trials. Then I started asking what might explain the dif…"
-    },
-    {
-      "title": "古川大臣記者会見（令和8年10月23日）動画を掲載しました",
-      "url": "https://www.digital.go.jp/speech/minister-261023-01",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-10-23T02:48:48+00:00",
-      "age_days": 0.13,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "古川大臣記者会見（令和8年10月23日）動画を掲載しました"
     }
   ],
   "read_order": [
@@ -332,9 +335,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 4,
-      "watch": 6,
-      "quiet": 2
+      "strong": 6,
+      "watch": 6
     }
   }
 }

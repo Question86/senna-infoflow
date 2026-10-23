@@ -1,19 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-23T05:50:28Z",
+  "generated_at": "2026-10-23T06:05:09Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 23,
+    "dynamics": 26,
     "bands": {
-      "krass": 1,
+      "extreme": 1,
+      "krass": 2,
       "strong": 3,
-      "watch": 6,
+      "watch": 7,
       "quiet": 13
     },
     "bands_after_gate_recheck": {
-      "strong": 4,
-      "watch": 6,
+      "strong": 6,
+      "watch": 7,
       "quiet": 13
     }
   },
@@ -23,7 +24,7 @@
       "url": "https://jvn.jp/vu/JVNVU93251594/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-23T11:00:15+09:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -43,11 +44,40 @@
       "summary": "三菱電機株式会社が提供するGENESIS、GENESIS64、ICONICS Suite、Hyper Historian、AnalytiX、MobileHMI、IoTWorX、MC Works64、GENESIS32およびBizVizには、複数の脆弱性が存在します。"
     },
     {
+      "title": "supabase/supabase",
+      "url": "https://github.com/supabase/supabase",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-10-23T05:58:09+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce, auth",
+        "security high-signal: rce, auth",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "extreme gate recheck: insufficient independent/current evidence"
+      ],
+      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. https://supabase.com Supabase Supabase is the Postgres development platform. We're building the features of Firebase using enterprise-grade open source tools. Hosted Postgres Database. Do…"
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月22日）",
       "url": "https://jvn.jp/vu/JVNVU98747108/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-23T11:00:00+09:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -69,11 +99,37 @@
       "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
     },
     {
+      "title": "php/php-src",
+      "url": "https://github.com/php/php-src",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-10-23T05:58:09+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "The PHP Interpreter https://www.php.net The PHP Interpreter PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world. PHP is distributed under the Modified BSD License (…"
+    },
+    {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 126.16,
+      "age_days": 126.17,
       "topics": [
         "ai"
       ],
@@ -102,7 +158,7 @@
       "url": "https://e27.co/bitcoin-rejected-us84000-and-forced-us79060000-in-long-positions-out-20261023/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-23T04:06:10+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -123,11 +179,38 @@
       "summary": "The digital asset sector faces heavy selling pressure this week as Bitcoin drops 3.20 per cent to US$81,385.04. This downward movement closely tracks a 3.15 per cent decline in the total cryptocurrency capitalisation, which now sits at US$2.72 trillion. I view this current price action as a complex interplay of intern…"
     },
     {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-10-23T05:58:09+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: local",
+        "high terms: code",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. https://www.graphify.com Read this in other languages English | 简体中文 | 日本語 | 한국어…"
+    },
+    {
       "title": "M 4.5 - 18 km NNW of Yongning, China",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u49a",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-23T02:31:45.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -152,7 +235,7 @@
       "url": "https://e27.co/i-used-ai-to-rebuild-my-websites-without-knowing-how-to-code-20261018/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-23T04:00:34+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -178,7 +261,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u49c",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-23T02:59:08.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -203,7 +286,7 @@
       "url": "https://e27.co/carro-turns-singapore-car-loans-into-a-us350m-funding-pipeline-in-a-regional-first-20261022/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-23T02:00:11+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "infra",
         "macro"
@@ -229,7 +312,7 @@
       "url": "https://e27.co/male-founders-are-losing-confidence-women-are-doubling-down-on-ai-20261022/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-23T01:30:20+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "macro"
@@ -256,7 +339,7 @@
       "url": "https://e27.co/red-hat-opens-singapore-ai-centre-to-pull-enterprises-out-of-pilot-purgatory-20261023/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-23T05:19:38+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "macro"
@@ -284,7 +367,7 @@
       "url": "https://e27.co/how-ai-became-my-sparring-partner-20261018/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-23T03:00:15+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai",
         "macro"
@@ -311,7 +394,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261023-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-23T02:48:48+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -335,7 +418,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002532/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-23T00:31:25+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -359,7 +442,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002533/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-23T00:14:21+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -383,7 +466,7 @@
       "url": "https://piyolog.hatenadiary.jp/entry/2026/10/23/021328",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-22T20:51:20+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "general"
       ],
@@ -407,7 +490,7 @@
       "url": "https://www.digital.go.jp/press/a0a8f66c-b32d-4695-9372-bcd5d4280f22",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-22T14:21:11+00:00",
-      "age_days": 0.65,
+      "age_days": 0.66,
       "topics": [
         "general"
       ],
@@ -431,7 +514,7 @@
       "url": "https://e27.co/the-working-capital-trap-lessons-from-indonesias-first-d2c-generation-20261015/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-23T01:00:39+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "ai"
       ],
@@ -457,7 +540,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN22C6A0S6A021C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-22T22:15:14+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -481,7 +564,7 @@
       "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-23T00:17:51+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -507,7 +590,7 @@
       "url": "https://e27.co/what-changed-when-i-stopped-sending-newsletters-manually-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-23T02:00:40+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -533,7 +616,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 125.13,
+      "age_days": 125.14,
       "topics": [
         "general"
       ],
@@ -558,7 +641,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 125.13,
+      "age_days": 125.14,
       "topics": [
         "general"
       ],
@@ -583,7 +666,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 125.13,
+      "age_days": 125.14,
       "topics": [
         "ai"
       ],
