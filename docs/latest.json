@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T01:15:38+00:00",
-  "run_id": "2026-10-23T01:15:38+00:00",
+  "generated_at": "2026-10-23T01:39:15+00:00",
+  "run_id": "2026-10-23T01:39:15+00:00",
   "date": "2026-10-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 4
+      "configured_public_sources_only": 6
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,41 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 4,
-    "displayed_findings": 4,
+    "new_relevant_findings": 2,
+    "today_file_total": 6,
+    "displayed_findings": 6,
     "high": 0,
-    "medium": 0,
-    "observe": 4,
+    "medium": 1,
+    "observe": 5,
     "source_errors": 0
   },
   "sections": {
     "high": [],
-    "medium": [],
+    "medium": [
+      {
+        "title": "Male founders are losing confidence. Women are doubling down on AI",
+        "url": "https://e27.co/male-founders-are-losing-confidence-women-are-doubling-down-on-ai-20261022/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-10-23T01:30:20+00:00",
+        "fetched_at": "2026-10-23T01:38:45+00:00",
+        "summary": "HSBC’s latest survey of wealthy entrepreneurs contains an awkward finding for the men who still write most of the cheques. Their own confidence is slipping, while the confidence of the women they rarely fund is rising. The Global Entrepreneurial Wealth Report 2026 polled more than 3,000 business owners across 17 markets. Over the past year, […] The post Male founders are losing confidence. Women are doubling down on…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "founder",
+          "Public Health"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); founder (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "82e9659d6ccfc9e218b0"
+      }
+    ],
     "observe": [
       {
         "title": "The working capital trap: Lessons from Indonesia’s first D2C generation",
@@ -95,6 +119,27 @@
         "id": "fdc805cf461c3702504b"
       },
       {
+        "title": "PHP欠陥でサイト止めた日本、止めなかった米国 脆弱性は8月に発見 - 日本経済新聞",
+        "url": "https://www.nikkei.com/article/DGXZQOGN22C6A0S6A021C2000000/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-22T22:15:14+00:00",
+        "fetched_at": "2026-10-23T01:38:45+00:00",
+        "summary": "【シリコンバレー=伴正春、ニューヨーク=西邨紘子】プログラム言語「PHP」で見つかった欠陥を受け、多くの日本企業がウェブサイトを一時停止した。一方、震源地の米国ではサイトを継続する企業が大半だった。先端技術を持つテック企業が政府と綿密に連携して対応した防衛体制の違いも大きい。クラウド最大手アマゾン、顧...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "226d459d7fd01c294879"
+      },
+      {
         "title": "eMudhraの中間CA証明書の秘密鍵の危殆化についてまとめてみた - piyolog",
         "url": "https://piyolog.hatenadiary.jp/entry/2026/10/23/021328",
         "source": "Hatena Bookmark Hotentry IT",
@@ -139,6 +184,29 @@
     ]
   },
   "findings": [
+    {
+      "title": "Male founders are losing confidence. Women are doubling down on AI",
+      "url": "https://e27.co/male-founders-are-losing-confidence-women-are-doubling-down-on-ai-20261022/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-10-23T01:30:20+00:00",
+      "fetched_at": "2026-10-23T01:38:45+00:00",
+      "summary": "HSBC’s latest survey of wealthy entrepreneurs contains an awkward finding for the men who still write most of the cheques. Their own confidence is slipping, while the confidence of the women they rarely fund is rising. The Global Entrepreneurial Wealth Report 2026 polled more than 3,000 business owners across 17 markets. Over the past year, […] The post Male founders are losing confidence. Women are doubling down on…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "founder",
+        "Public Health"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); founder (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "82e9659d6ccfc9e218b0"
+    },
     {
       "title": "The working capital trap: Lessons from Indonesia’s first D2C generation",
       "url": "https://e27.co/the-working-capital-trap-lessons-from-indonesias-first-d2c-generation-20261015/",
@@ -204,6 +272,27 @@
       "id": "fdc805cf461c3702504b"
     },
     {
+      "title": "PHP欠陥でサイト止めた日本、止めなかった米国 脆弱性は8月に発見 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOGN22C6A0S6A021C2000000/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-22T22:15:14+00:00",
+      "fetched_at": "2026-10-23T01:38:45+00:00",
+      "summary": "【シリコンバレー=伴正春、ニューヨーク=西邨紘子】プログラム言語「PHP」で見つかった欠陥を受け、多くの日本企業がウェブサイトを一時停止した。一方、震源地の米国ではサイトを継続する企業が大半だった。先端技術を持つテック企業が政府と綿密に連携して対応した防衛体制の違いも大きい。クラウド最大手アマゾン、顧...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "226d459d7fd01c294879"
+    },
+    {
       "title": "eMudhraの中間CA証明書の秘密鍵の危殆化についてまとめてみた - piyolog",
       "url": "https://piyolog.hatenadiary.jp/entry/2026/10/23/021328",
       "source": "Hatena Bookmark Hotentry IT",
@@ -248,46 +337,48 @@
   ],
   "new_findings": [
     {
-      "title": "The working capital trap: Lessons from Indonesia’s first D2C generation",
-      "url": "https://e27.co/the-working-capital-trap-lessons-from-indonesias-first-d2c-generation-20261015/",
+      "title": "Male founders are losing confidence. Women are doubling down on AI",
+      "url": "https://e27.co/male-founders-are-losing-confidence-women-are-doubling-down-on-ai-20261022/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-10-23T01:00:39+00:00",
-      "fetched_at": "2026-10-23T01:15:10+00:00",
-      "summary": "Indonesia’s D2C and inventory-heavy startup sector looks different in 2026 than it did before 2022. The cohort of platforms that scaled between 2018 and 2021 (Fabelio in furniture, several in F&B, fashion, and household goods) encountered a category of operational risk that the original venture playbook tended to underestimate. Some platforms have stabilised. Several have […] The post The working capital trap: Lesso…",
+      "published_at": "2026-10-23T01:30:20+00:00",
+      "fetched_at": "2026-10-23T01:38:45+00:00",
+      "summary": "HSBC’s latest survey of wealthy entrepreneurs contains an awkward finding for the men who still write most of the cheques. Their own confidence is slipping, while the confidence of the women they rarely fund is rising. The Global Entrepreneurial Wealth Report 2026 polled more than 3,000 business owners across 17 markets. Over the past year, […] The post Male founders are losing confidence. Women are doubling down on…",
       "matched_keywords": [
+        "AI/KI",
         "APAC Trend Radar",
-        "Watchgraph:capitals_power_centers"
+        "founder",
+        "Public Health"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+      "relevance_score": 15,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); founder (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "capitals_power_centers"
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "82e9659d6ccfc9e218b0"
+    },
+    {
+      "title": "PHP欠陥でサイト止めた日本、止めなかった米国 脆弱性は8月に発見 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOGN22C6A0S6A021C2000000/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-22T22:15:14+00:00",
+      "fetched_at": "2026-10-23T01:38:45+00:00",
+      "summary": "【シリコンバレー=伴正春、ニューヨーク=西邨紘子】プログラム言語「PHP」で見つかった欠陥を受け、多くの日本企業がウェブサイトを一時停止した。一方、震源地の米国ではサイトを継続する企業が大半だった。先端技術を持つテック企業が政府と綿密に連携して対応した防衛体制の違いも大きい。クラウド最大手アマゾン、顧...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
       ],
-      "watchgraph_reasons": [
-        "capitals_power_centers: capital"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
-      ],
-      "id": "7c334310fae277d1c35b"
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "226d459d7fd01c294879"
     }
   ],
   "source_errors": [],
