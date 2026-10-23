@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-23T05:58:40+00:00_
+_Generated: 2026-10-23T06:21:30+00:00_
 
 ## Status
 - status: `normal`
-- findings: `22`
+- findings: `26`
 
 ## Top Signals
 
-### 1. I used AI to rebuild my websites without knowing how to code
+### 1. OpenAI and Poland’s NASK partner to advance AI safety and security
+- source: OpenAI News RSS
+- score: `22`
+- published: `2026-10-23T00:00:00+00:00`
+- url: https://openai.com/index/openai-nask-ai-safety-security-partnership
+- summary: OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.
+
+### 2. I used AI to rebuild my websites without knowing how to code
 - source: e27 Asia Startup and Tech Feed
 - score: `20`
 - published: `2026-10-23T04:00:34+00:00`
 - url: https://e27.co/i-used-ai-to-rebuild-my-websites-without-knowing-how-to-code-20261018/
 - summary: I’ve been running The Wellness Insider since 2016, and over the years, there have been countless occasions when I’ve looked at my website and thought, “I wish I could change that easily.” Sometimes, it was something relatively minor, such as the spacing betwe…
 
-### 2. Graphify-Labs/graphify
+### 3. Graphify-Labs/graphify
 - source: GitHub Trending RSS All Languages Daily
 - score: `19`
 - published: `None`
 - url: https://github.com/Graphify-Labs/graphify
 - summary: Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. https://www.graphify.…
 
-### 3. CISA ICS Advisory / ICS Medical Advisory（2026年10月22日）
+### 4. CISA ICS Advisory / ICS Medical Advisory（2026年10月22日）
 - source: JVN Japan Vulnerability Notes
 - score: `16`
 - published: `2026-10-23T11:00:00+09:00`
 - url: https://jvn.jp/vu/JVNVU98747108/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
-
-### 4. Male founders are losing confidence. Women are doubling down on AI
-- source: e27 Asia Startup and Tech Feed
-- score: `15`
-- published: `2026-10-23T01:30:20+00:00`
-- url: https://e27.co/male-founders-are-losing-confidence-women-are-doubling-down-on-ai-20261022/
-- summary: HSBC’s latest survey of wealthy entrepreneurs contains an awkward finding for the men who still write most of the cheques. Their own confidence is slipping, while the confidence of the women they rarely fund is rising. The Global Entrepreneurial Wealth Report…
 
 ### 5. Red Hat opens Singapore AI centre to pull enterprises out of pilot purgatory
 - source: e27 Asia Startup and Tech Feed
