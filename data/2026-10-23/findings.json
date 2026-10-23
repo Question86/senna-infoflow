@@ -1967,5 +1967,25 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "d6a9a047d7b4b7c8d873"
+  },
+  {
+    "title": "EMU deletions fix",
+    "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-10-23T18:56:18+00:00",
+    "fetched_at": "2026-10-23T21:56:05+00:00",
+    "summary": "Between June 1 and June 13, 2026, some Enterprise Managed User accounts that were deprovisioned through SCIM were incorrectly deleted instead of being suspended and obfuscated as expected. As a… The post EMU deletions fix appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub"
+    ],
+    "relevance_score": 3,
+    "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "bd33cfcc60a76fe0bdbd"
   }
 ]

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-23T21:51:26+00:00",
+  "generated_at": "2026-10-23T21:56:34+00:00",
   "topics": {
     "geopolitics": [
       {
@@ -268,6 +268,13 @@
         "published_at": "2026-10-23T15:03:30+00:00",
         "relevance_score": 8,
         "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available"
+      },
+      {
+        "title": "EMU deletions fix",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-23T18:56:18+00:00",
+        "relevance_score": 3,
+        "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix"
       }
     ],
     "general": [
