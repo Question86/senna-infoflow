@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-23T02:55:16Z",
+  "generated_at": "2026-10-23T03:04:13Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 16,
+    "dynamics": 17,
     "bands": {
       "krass": 1,
       "strong": 2,
-      "watch": 3,
+      "watch": 4,
       "quiet": 10
     },
     "bands_after_gate_recheck": {
       "strong": 3,
-      "watch": 3,
+      "watch": 4,
       "quiet": 10
     }
   },
@@ -73,7 +73,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 126.04,
+      "age_days": 126.05,
       "topics": [
         "ai"
       ],
@@ -123,6 +123,31 @@
       "summary": "Time 2026-10-23 02:17:01 UTC 2026-10-23 02:17:01 UTC at epicenter Location 27.999°N 100.619°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 4.5 - 58 km SW of Atocha, Bolivia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u49c",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-23T02:59:08.040+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-23 02:45:41 UTC 2026-10-23 02:45:41 UTC at epicenter Location 21.347°S 66.580°W Depth 235.83 km (146.54 mi)"
+    },
+    {
       "title": "Carro turns Singapore car loans into a US$350M funding pipeline in a regional first",
       "url": "https://e27.co/carro-turns-singapore-car-loans-into-a-us350m-funding-pipeline-in-a-regional-first-20261022/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -153,7 +178,7 @@
       "url": "https://e27.co/male-founders-are-losing-confidence-women-are-doubling-down-on-ai-20261022/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-23T01:30:20+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "macro"
@@ -180,7 +205,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261023-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-23T02:48:48+00:00",
-      "age_days": 0.0,
+      "age_days": 0.01,
       "topics": [
         "general"
       ],
@@ -204,7 +229,7 @@
       "url": "https://piyolog.hatenadiary.jp/entry/2026/10/23/021328",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-22T20:51:20+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -228,7 +253,7 @@
       "url": "https://www.digital.go.jp/press/a0a8f66c-b32d-4695-9372-bcd5d4280f22",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-22T14:21:11+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "general"
       ],
@@ -252,7 +277,7 @@
       "url": "https://e27.co/the-working-capital-trap-lessons-from-indonesias-first-d2c-generation-20261015/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-23T01:00:39+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -278,7 +303,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN22C6A0S6A021C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-22T22:15:14+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -302,7 +327,7 @@
       "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-23T00:17:51+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -354,7 +379,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 125.0,
+      "age_days": 125.01,
       "topics": [
         "general"
       ],
@@ -379,7 +404,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 125.0,
+      "age_days": 125.01,
       "topics": [
         "general"
       ],
@@ -404,7 +429,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 125.0,
+      "age_days": 125.01,
       "topics": [
         "ai"
       ],
