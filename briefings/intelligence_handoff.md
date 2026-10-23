@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-23T10:48:13Z_
+_Generated: 2026-10-23T11:03:15Z_
 
 ## Lageurteil
 
@@ -12,27 +12,27 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Google Chrome / Microsof
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `33.0`
-- Published: `2026-10-23T08:30:51+00:00` / age_days `0.1`
+- Published: `2026-10-23T08:30:51+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: angriffe, code, security high-signal: angriffe, code
 - Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4067
 
-### [NEU] [hoch] Aruba ArubaOS: Mehrere Schwachstellen
+### [NEU] [mittel] OpenVPN 3 Core Library: Schwachstelle ermöglicht Offenlegung von Informationen
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `31.0`
-- Published: `2026-10-23T10:35:51+00:00` / age_days `0.01`
+- Published: `2026-10-23T10:40:52+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: angriffe, code, security high-signal: angriffe, code
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4125
+- Warum: high terms: vpn, security high-signal: vpn
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4127
 
 ### [UPDATE] [hoch] Red Hat Ansible Automation Platform: Mehrere Schwachstellen
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-23T09:15:51+00:00` / age_days `0.06`
+- Published: `2026-10-23T09:15:51+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, auth, security high-signal: code, auth, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Google Chrome / Microsof
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-23T00:00:00+00:00` / age_days `0.45`
+- Published: `2026-10-23T00:00:00+00:00` / age_days `0.46`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Google Chrome / Microsof
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-23T05:58:09+00:00` / age_days `0.2`
+- Published: `2026-10-23T05:58:09+00:00` / age_days `0.21`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, auth, security high-signal: rce, auth, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -62,70 +62,70 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Google Chrome / Microsof
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-23T11:00:00+09:00` / age_days `0.37`
+- Published: `2026-10-23T11:00:00+09:00` / age_days `0.38`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
 - Quelle: https://jvn.jp/vu/JVNVU98747108/
 
+### [NEU] [mittel] Livewire: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-10-23T10:50:52+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4140
+
+### [NEU] [mittel] Drupal Module (View Unpublished, Simple OAuth und Domain Login Restrict): Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-10-23T10:50:52+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: domain, auth, security high-signal: domain, auth, official security but no high-signal phrase: capped at strong
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4138
+
+### [NEU] [hoch] TianoCore EDK2 PXE Treiber: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode und DoS
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-10-23T10:45:54+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4136
+
+### [NEU] [niedrig] Devolutions Server: Mehrere Schwachstellen
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-10-23T10:40:52+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4128
+
+### [NEU] [mittel] MongoDB C# Treiber: Mehrere Schwachstellen
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-10-23T10:40:51+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4126
+
 ### [NEU] [kritisch] Arista VeloCloud Orchestrator: Schwachstelle ermöglicht SQL-Injection und potenziell Privilegieneskalation
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-23T10:35:51+00:00` / age_days `0.01`
+- Published: `2026-10-23T10:35:51+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: kritisch, auth, security high-signal: kritisch, auth, official security but no high-signal phrase: capped at strong
 - Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4124
-
-### [UPDATE] [hoch] Apache Traffic Server: Mehrere Schwachstellen
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-10-23T10:25:53+00:00` / age_days `0.02`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4112
-
-### [UPDATE] [hoch] Roundcube Webmail: Mehrere Schwachstellen
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-10-23T09:31:48+00:00` / age_days `0.05`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: angriffe, security high-signal: angriffe, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4043
-
-### [UPDATE] [mittel] Node.js: Mehrere Schwachstellen
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-10-23T09:00:51+00:00` / age_days `0.07`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4117
-
-### [NEU] [UNGEPATCHT] [mittel] expat: Schwachstelle ermöglicht Denial of Service
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-10-23T10:30:51+00:00` / age_days `0.01`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: security high-signal: cert-bund, bsi, security, advisory, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4123
-
-### php/php-src
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-10-23T05:58:09+00:00` / age_days `0.2`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: rce, security high-signal: rce, official security but no high-signal phrase: capped at strong
-- Quelle: https://github.com/php/php-src
 
 END OF DOCUMENT
