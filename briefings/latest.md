@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-23T16:23:35+00:00_
+_Generiert: 2026-10-23T16:37:53+00:00_
 
 ## Kurzlage
 
-70 neue relevante Treffer. Stärkstes Signal: „Japan’s privacy law isn’t GDPR, and that’s where foreign SaaS founders keep tripping“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
+72 neue relevante Treffer. Stärkstes Signal: „Japan’s privacy law isn’t GDPR, and that’s where foreign SaaS founders keep tripping“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -141,6 +141,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 5.1 - 72 km ENE of Noda, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4e2)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-23T16:35:09.026+00:00`, fetched `2026-10-23T16:37:23+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: DYFI? - II Time 2026-10-23 16:07:51 UTC 2026-10-23 16:07:51 UTC at epicenter Location 40.416°N 142.572°E Depth 38.14 km (23.70 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.5 - 18 km WNW of Bantogon, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4b3)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -298,6 +307,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5)
   - Kurz: Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Enterprise installations for GitHub Apps generally available** — Score 8, opportunity — [Quelle](https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-10-23T15:03:30+00:00`, fetched `2026-10-23T16:37:23+00:00`
+  - Treffer: Automatisierung, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Automatisierung (+4.0); GitHub (+2.5); recent (+1.0)
+  - Kurz: Installing GitHub Apps on your enterprise is now generally available. You can replace classic PATs with GitHub Apps in more of your enterprise and organization automation with the expanded API… The post Enterprise installations for GitHub Apps generally available appeared first on The GitHub Blog .
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Multiples vulnérabilités dans Laravel (20 octobre 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1343/)
   - Quelle: CERT-FR Avis de sécurité / `rss`
   - Zeit: published `2026-10-20T00:00:00+00:00`, fetched `2026-10-23T14:36:22+00:00`
@@ -306,15 +324,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
   - Kurz: De multiples vulnérabilités ont été découvertes dans Laravel. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **パナソニックHD、利用禁止の生成AIに従業員らの情報送出 33万人分 - 日本経済新聞** — Score 7, observation — [Quelle](https://www.nikkei.com/article/DGXZQOUF237Z60T21C26A0000000/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-23T10:56:07+00:00`, fetched `2026-10-23T12:03:08+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
-  - Kurz: パナソニックホールディングス（HD）は23日、社内で利用が禁止されている外部の生成AI（人工知能）サービスに同社グループの従業員やその家族らの個人情報約33万人分が送出されたと発表した。不正アクセスではなく、特定の従業員が社内ルールに反し情報を生成AIにアップロードしたことによるものだという。子会社と人事...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
