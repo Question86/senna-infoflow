@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T10:42:36+00:00",
+  "generated_at": "2026-10-23T10:50:16+00:00",
   "sections": {
     "global_security": [
       {
@@ -76,6 +76,16 @@
         "metrics": {
           "cve": "CVE-2026-96652"
         }
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Italy 23/10/2026 10:19 UTC, 890 thousand in MMI&gt;=IV.",
+        "summary": "Green earthquake (Magnitude 5.7M, Depth:10km) in Italy 23/10/2026 10:19 UTC, 890 thousand in MMI&gt;=IV.",
+        "source": "GDACS",
+        "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573344",
+        "published_at": "",
+        "metrics": {}
       },
       {
         "domain": "security",

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-23T10:42:33+00:00",
+  "generated_at": "2026-10-23T10:50:13+00:00",
   "topics": {
     "geopolitics": [
       {
@@ -33,6 +33,34 @@
         "url": "https://e27.co/male-founders-are-losing-confidence-women-are-doubling-down-on-ai-20261022/"
       },
       {
+        "title": "[NEU] [niedrig] Devolutions Server: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-23T10:40:52+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4128"
+      },
+      {
+        "title": "[NEU] [mittel] OpenVPN 3 Core Library: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-23T10:40:52+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4127"
+      },
+      {
+        "title": "[NEU] [mittel] Mattermost Server: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-23T10:40:52+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4129"
+      },
+      {
+        "title": "[NEU] [mittel] MongoDB C# Treiber: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-23T10:40:51+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4126"
+      },
+      {
         "title": "[NEU] [kritisch] Arista VeloCloud Orchestrator: Schwachstelle ermöglicht SQL-Injection und potenziell Privilegieneskalation",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-23T10:35:51+00:00",
@@ -45,27 +73,6 @@
         "published_at": "2026-10-23T10:35:51+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4125"
-      },
-      {
-        "title": "[NEU] [mittel] Qt Core QXmlStream parser: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-23T10:25:53+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4122"
-      },
-      {
-        "title": "ECB Consumer Expectations Survey results – September 2026",
-        "source": "ECB Press Releases Speeches Interviews",
-        "published_at": "2026-10-23T08:00:00+00:00",
-        "relevance_score": 9,
-        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html"
-      },
-      {
-        "title": "Bitcoin rejected US$84,000 and forced US$79,060,000 in long positions out",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-23T04:06:10+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/bitcoin-rejected-us84000-and-forced-us79060000-in-long-positions-out-20261023/"
       }
     ],
     "security": [
@@ -119,25 +126,25 @@
         "url": "https://jvn.jp/vu/JVNVU93251594/"
       },
       {
-        "title": "[NEU] [kritisch] Arista VeloCloud Orchestrator: Schwachstelle ermöglicht SQL-Injection und potenziell Privilegieneskalation",
+        "title": "[NEU] [niedrig] Devolutions Server: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-23T10:35:51+00:00",
+        "published_at": "2026-10-23T10:40:52+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4124"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4128"
       },
       {
-        "title": "[NEU] [hoch] Aruba ArubaOS: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] OpenVPN 3 Core Library: Schwachstelle ermöglicht Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-23T10:35:51+00:00",
+        "published_at": "2026-10-23T10:40:52+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4125"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4127"
       },
       {
-        "title": "[UPDATE] [hoch] Apache Traffic Server: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] Mattermost Server: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-23T10:25:53+00:00",
+        "published_at": "2026-10-23T10:40:52+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4112"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4129"
       }
     ],
     "ai": [
