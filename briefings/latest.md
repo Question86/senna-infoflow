@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-23T23:04:48+00:00_
+_Generiert: 2026-10-23T23:19:19+00:00_
 
 ## Kurzlage
 
@@ -37,10 +37,6 @@ _Generiert: 2026-10-23T23:04:48+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Red earthquake (Magnitude 7M, Depth:18km) in China 22/10/2026 14:33 UTC, 10 thousand (in MMI&gt;=VII).
-- **GDACS: Green notification for tropical cyclone JOSEPHINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (7.514 million in Tropical Storm).** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001342)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green notification for tropical cyclone JOSEPHINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (7.514 million in Tropical Storm).
 
 ## Wirtschaft global
 
