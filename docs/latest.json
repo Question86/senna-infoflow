@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T22:45:28+00:00",
-  "run_id": "2026-10-23T22:45:28+00:00",
+  "generated_at": "2026-10-23T22:51:32+00:00",
+  "run_id": "2026-10-23T22:51:32+00:00",
   "date": "2026-10-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 83
+      "configured_public_sources_only": 84
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 83,
-    "displayed_findings": 83,
+    "new_relevant_findings": 1,
+    "today_file_total": 84,
+    "displayed_findings": 84,
     "high": 0,
     "medium": 35,
-    "observe": 48,
+    "observe": 49,
     "source_errors": 0
   },
   "sections": {
@@ -1887,6 +1887,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "558915678153d214de8d"
+      },
+      {
+        "title": "PHPの緊急脆弱性「php2shell」で攻撃されていないか？サーバーに残る3つの痕跡と確認方法 - インフラ学習サイト「InfraAcademy」",
+        "url": "https://engineer-ninaritai.com/php2shell-attack-detection/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-23T12:23:05+00:00",
+        "fetched_at": "2026-10-23T22:51:04+00:00",
+        "summary": "こんにちは、インフラエンジニアのryuです。 前回の記事「PHPの緊急脆弱性「php2shell」とは？」では、2026年10月21日に公開されたPHPの脆弱性の仕組みと、アップデートの進め方を解説しました。 今回はその続きです。 アップデートを終えたあとに、多くの人が気になるのが「すでに攻撃されていないか？」という点だと思...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6d8f4eaf2806cf40becc"
       },
       {
         "title": "モスバーガー 流通済みプリペイドカード情報 約57万件が流出 | NHKニュース",
@@ -3998,6 +4019,27 @@
       "id": "558915678153d214de8d"
     },
     {
+      "title": "PHPの緊急脆弱性「php2shell」で攻撃されていないか？サーバーに残る3つの痕跡と確認方法 - インフラ学習サイト「InfraAcademy」",
+      "url": "https://engineer-ninaritai.com/php2shell-attack-detection/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-23T12:23:05+00:00",
+      "fetched_at": "2026-10-23T22:51:04+00:00",
+      "summary": "こんにちは、インフラエンジニアのryuです。 前回の記事「PHPの緊急脆弱性「php2shell」とは？」では、2026年10月21日に公開されたPHPの脆弱性の仕組みと、アップデートの進め方を解説しました。 今回はその続きです。 アップデートを終えたあとに、多くの人が気になるのが「すでに攻撃されていないか？」という点だと思...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6d8f4eaf2806cf40becc"
+    },
+    {
       "title": "モスバーガー 流通済みプリペイドカード情報 約57万件が流出 | NHKニュース",
       "url": "https://news.web.nhk/newsweb/na/nd-20261023de64388",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4247,7 +4289,29 @@
       "id": "bd33cfcc60a76fe0bdbd"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "PHPの緊急脆弱性「php2shell」で攻撃されていないか？サーバーに残る3つの痕跡と確認方法 - インフラ学習サイト「InfraAcademy」",
+      "url": "https://engineer-ninaritai.com/php2shell-attack-detection/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-23T12:23:05+00:00",
+      "fetched_at": "2026-10-23T22:51:04+00:00",
+      "summary": "こんにちは、インフラエンジニアのryuです。 前回の記事「PHPの緊急脆弱性「php2shell」とは？」では、2026年10月21日に公開されたPHPの脆弱性の仕組みと、アップデートの進め方を解説しました。 今回はその続きです。 アップデートを終えたあとに、多くの人が気になるのが「すでに攻撃されていないか？」という点だと思...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6d8f4eaf2806cf40becc"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

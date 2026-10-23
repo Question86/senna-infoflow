@@ -1857,6 +1857,27 @@
     "id": "558915678153d214de8d"
   },
   {
+    "title": "PHPの緊急脆弱性「php2shell」で攻撃されていないか？サーバーに残る3つの痕跡と確認方法 - インフラ学習サイト「InfraAcademy」",
+    "url": "https://engineer-ninaritai.com/php2shell-attack-detection/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-23T12:23:05+00:00",
+    "fetched_at": "2026-10-23T22:51:04+00:00",
+    "summary": "こんにちは、インフラエンジニアのryuです。 前回の記事「PHPの緊急脆弱性「php2shell」とは？」では、2026年10月21日に公開されたPHPの脆弱性の仕組みと、アップデートの進め方を解説しました。 今回はその続きです。 アップデートを終えたあとに、多くの人が気になるのが「すでに攻撃されていないか？」という点だと思...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6d8f4eaf2806cf40becc"
+  },
+  {
     "title": "モスバーガー 流通済みプリペイドカード情報 約57万件が流出 | NHKニュース",
     "url": "https://news.web.nhk/newsweb/na/nd-20261023de64388",
     "source": "Hatena Bookmark Hotentry IT",
