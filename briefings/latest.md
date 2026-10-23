@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-23T16:56:36+00:00_
+_Generiert: 2026-10-23T17:19:10+00:00_
 
 ## Kurzlage
 
@@ -9,6 +9,10 @@ _Generiert: 2026-10-23T16:56:36+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-114625 Arista VeloCloud Orchestrator** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-10-23`
+  - Kurz: Known exploited vulnerability. Added 2026-10-23. Due 2026-10-26. Arista VeloCloud Orchestrator SQL Injection Vulnerability
 - **CISA KEV: CVE-2026-106931 EG Secure Solutions SiteGuard Server Edition** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-10-20`
@@ -25,10 +29,6 @@ _Generiert: 2026-10-23T16:56:36+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-20`
   - Kurz: Known exploited vulnerability. Added 2026-10-20. Due 2026-10-23. Plex Media Server Improper Neutralization of Encoded URI Schemes in a Web Page Vulnerability
-- **CISA KEV: CVE-2026-96652 Plex Media Server** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-10-20`
-  - Kurz: Known exploited vulnerability. Added 2026-10-20. Due 2026-11-03. Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability
 - **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Italy 23/10/2026 10:19 UTC, 40 thousand in MMI IV.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573344)
   - Quelle: GDACS
   - Zeit: ``
