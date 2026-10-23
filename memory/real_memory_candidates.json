@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-10-23T08:04:22Z",
+  "generated_at": "2026-10-23T08:32:16Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -58,7 +58,7 @@
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     },
     {
-      "title": "Bitcoin rejected US$84,000 and forced US$79,060,000 in long positions out",
+      "title": "Cisco stopft diverse, teils kritische Sicherheitslücken",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     }
