@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-23T21:45:14+00:00",
+  "generated_at": "2026-10-23T21:51:26+00:00",
   "topics": {
     "geopolitics": [
       {
@@ -233,6 +233,13 @@
         "published_at": "2026-10-23T01:30:20+00:00",
         "relevance_score": 15,
         "url": "https://e27.co/male-founders-are-losing-confidence-women-are-doubling-down-on-ai-20261022/"
+      },
+      {
+        "title": "ドイツ・ミュンヘン市が再びオープンソースに移行--「Linux」デスクトップを含まず",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-23T10:30:55+00:00",
+        "relevance_score": 13,
+        "url": "https://japan.zdnet.com/article/35253683/"
       },
       {
         "title": "supabase/supabase",
