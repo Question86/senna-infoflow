@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-23T08:55:11+00:00",
+  "generated_at": "2026-10-23T09:00:51+00:00",
   "topics": {
     "ai": [
       {
@@ -239,6 +239,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u49c"
       },
       {
+        "title": "タイムズカー免許証画像流出、「お見舞い」1人3000円 146万人が対象 - 日本経済新聞",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-23T08:20:32+00:00",
+        "relevance_score": 7,
+        "url": "https://www.nikkei.com/article/DGXZQOUC231CP0T21C26A0000000/"
+      },
+      {
         "title": "PHP欠陥でサイト止めた日本、止めなかった米国 脆弱性は8月に発見 - 日本経済新聞",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-10-22T22:15:14+00:00",
@@ -279,13 +286,6 @@
         "published_at": "2026-10-23T00:14:21+00:00",
         "relevance_score": 5,
         "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002533/"
-      },
-      {
-        "title": "eMudhraの中間CA証明書の秘密鍵の危殆化についてまとめてみた - piyolog",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-22T20:51:20+00:00",
-        "relevance_score": 5,
-        "url": "https://piyolog.hatenadiary.jp/entry/2026/10/23/021328"
       }
     ]
   }

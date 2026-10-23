@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-23T08:55:11+00:00_
+_Generiert: 2026-10-23T09:00:51+00:00_
 
 ## Kurzlage
 
-30 neue relevante Treffer. Stärkstes Signal: „OpenAI and Poland’s NASK partner to advance AI safety and security“ aus OpenAI News RSS (Score 22, opportunity).
+31 neue relevante Treffer. Stärkstes Signal: „OpenAI and Poland’s NASK partner to advance AI safety and security“ aus OpenAI News RSS (Score 22, opportunity).
 
 ## Priorität Hoch
 
@@ -177,6 +177,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
   - Kurz: September 2026 brought deeper visibility into your work: explore pull requests without leaving chat, bring the AI model your team trusts, and fix vulnerable packages the moment Visual Studio flags… The post GitHub Copilot in Visual Studio — September update appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **タイムズカー免許証画像流出、「お見舞い」1人3000円 146万人が対象 - 日本経済新聞** — Score 7, observation — [Quelle](https://www.nikkei.com/article/DGXZQOUC231CP0T21C26A0000000/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-23T08:20:32+00:00`, fetched `2026-10-23T09:00:19+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
+  - Kurz: パーク24は23日、カーシェアサービス「タイムズカー」の不正アクセスによる個人情報流出を受け、免許証などの本人確認書類の画像データが外部送信されたとみられる被害者に1人3000円を「お見舞い」として支払うと発表した。146万人あまりが対象となり、総額は単純計算で約44億円となる見込み。タイムズカーでは9月に不正...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Cisco stopft diverse, teils kritische Sicherheitslücken** — Score 7, observation — [Quelle](https://www.heise.de/news/Cisco-stopft-diverse-teils-kritische-Sicherheitsluecken-11497857.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-10-23T08:10:00.000+00:00`, fetched `2026-10-23T08:26:32+00:00`
@@ -221,15 +230,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 宅配大手の佐川急便は、今月、不正アクセスを受けて外部に流出したおそれがあると発表していた個人情報について、氏名、住所、それに電話番号など、最大で5323万件に上る可能性があると明らかにしました。 対…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「お名前.com」 のFX自動売買VPS、不正アクセスで金銭被害か 「600万円の損失」「55万円なくなった」……報告相次ぐ** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2610/23/2000002532/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-23T00:31:25+00:00`, fetched `2026-10-23T04:45:30+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: サービスを提供するGMOインターネットは10月22日、サーバ内に保存されていた取引口座のログイン情報などが第三者に取得され、不正に利用された可能性があると発表した。ユーザーに対し、口座のパスワードを至急変更し、ログオフ（セッションの切断）するよう求めている。サービスは全プランで停止中だ。 お名前.com デス...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
