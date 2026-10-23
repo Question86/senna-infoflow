@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-23T04:44:48Z",
+  "generated_at": "2026-10-23T04:54:24Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 21,
+    "dynamics": 22,
     "bands": {
       "krass": 1,
       "strong": 3,
       "watch": 5,
-      "quiet": 12
+      "quiet": 13
     },
     "bands_after_gate_recheck": {
       "strong": 4,
       "watch": 5,
-      "quiet": 12
+      "quiet": 13
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/vu/JVNVU93251594/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-23T11:00:15+09:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://jvn.jp/vu/JVNVU98747108/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-23T11:00:00+09:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -127,7 +127,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u49a",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-23T02:31:45.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -152,7 +152,7 @@
       "url": "https://e27.co/i-used-ai-to-rebuild-my-websites-without-knowing-how-to-code-20261018/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-23T04:00:34+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -178,7 +178,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u49c",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-23T02:59:08.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -203,7 +203,7 @@
       "url": "https://e27.co/carro-turns-singapore-car-loans-into-a-us350m-funding-pipeline-in-a-regional-first-20261022/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-23T02:00:11+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "infra",
         "macro"
@@ -256,7 +256,7 @@
       "url": "https://e27.co/how-ai-became-my-sparring-partner-20261018/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-23T03:00:15+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "macro"
@@ -283,7 +283,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261023-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-23T02:48:48+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -301,6 +301,30 @@
         "high terms: 10"
       ],
       "summary": "古川大臣記者会見（令和8年10月23日）動画を掲載しました"
+    },
+    {
+      "title": "「お名前.com」 のFX自動売買VPS、不正アクセスで金銭被害か 「600万円の損失」「55万円なくなった」……報告相次ぐ",
+      "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002532/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-23T00:31:25+00:00",
+      "age_days": 0.18,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "サービスを提供するGMOインターネットは10月22日、サーバ内に保存されていた取引口座のログイン情報などが第三者に取得され、不正に利用された可能性があると発表した。ユーザーに対し、口座のパスワードを至急変更し、ログオフ（セッションの切断）するよう求めている。サービスは全プランで停止中だ。 お名前.com デス..."
     },
     {
       "title": "トランプ大統領、Googleに「大西洋」の改名を打診 ピチャイCEOが「大洋は勘弁を」と難色",
@@ -331,7 +355,7 @@
       "url": "https://piyolog.hatenadiary.jp/entry/2026/10/23/021328",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-22T20:51:20+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "general"
       ],
@@ -355,7 +379,7 @@
       "url": "https://www.digital.go.jp/press/a0a8f66c-b32d-4695-9372-bcd5d4280f22",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-22T14:21:11+00:00",
-      "age_days": 0.6,
+      "age_days": 0.61,
       "topics": [
         "general"
       ],
@@ -405,7 +429,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN22C6A0S6A021C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-22T22:15:14+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -455,7 +479,7 @@
       "url": "https://e27.co/what-changed-when-i-stopped-sending-newsletters-manually-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-23T02:00:40+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -481,7 +505,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 125.08,
+      "age_days": 125.09,
       "topics": [
         "general"
       ],
@@ -506,7 +530,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 125.08,
+      "age_days": 125.09,
       "topics": [
         "general"
       ],
@@ -531,7 +555,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 125.08,
+      "age_days": 125.09,
       "topics": [
         "ai"
       ],
