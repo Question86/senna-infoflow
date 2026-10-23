@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-23T08:27:06+00:00_
+_Generiert: 2026-10-23T08:43:03+00:00_
 
 ## Kurzlage
 
-29 neue relevante Treffer. Stärkstes Signal: „OpenAI and Poland’s NASK partner to advance AI safety and security“ aus OpenAI News RSS (Score 22, opportunity).
+30 neue relevante Treffer. Stärkstes Signal: „OpenAI and Poland’s NASK partner to advance AI safety and security“ aus OpenAI News RSS (Score 22, opportunity).
 
 ## Priorität Hoch
 
@@ -48,6 +48,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4067)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-10-23T08:30:51+00:00`, fetched `2026-10-23T08:42:35+00:00`
+  - Treffer: BSI, CERT-Bund, Microsoft, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Google Chrome / Microsoft Edge ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren, einen Denial-of-Service-Zustand auszulösen oder andere, nicht näher spezifizierte Angriffe durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Male founders are losing confidence. Women are doubling down on AI** — Score 15, observation — [Quelle](https://e27.co/male-founders-are-losing-confidence-women-are-doubling-down-on-ai-20261022/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-23T01:30:20+00:00`, fetched `2026-10-23T01:38:45+00:00`

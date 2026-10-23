@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-23T08:27:06+00:00",
+  "generated_at": "2026-10-23T08:43:03+00:00",
   "topics": {
     "ai": [
       {
@@ -89,6 +89,13 @@
         "published_at": "2026-10-23T11:00:00+09:00",
         "relevance_score": 16,
         "url": "https://jvn.jp/vu/JVNVU98747108/"
+      },
+      {
+        "title": "[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-23T08:30:51+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4067"
       },
       {
         "title": "プリザンターのLDAP認証における認証不備の脆弱性",
