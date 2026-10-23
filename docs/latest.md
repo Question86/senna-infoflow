@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-23T02:51:46+00:00_
+_Generiert: 2026-10-23T02:59:23+00:00_
 
 ## Kurzlage
 
-12 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月22日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+13 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月22日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 ## Priorität Hoch
 
@@ -60,6 +60,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Indonesia’s D2C and inventory-heavy startup sector looks different in 2026 than it did before 2022. The cohort of platforms that scaled between 2018 and 2021 (Fabelio in furniture, several in F&B, fashion, and household goods) encountered a category of operational risk that the original venture playbook tended to underestimate. Some platforms have stabilised. Several have […] The post The working capital trap: Lesso…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.5 - 58 km SW of Atocha, Bolivia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u49c)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-23T02:59:08.040+00:00`, fetched `2026-10-23T02:58:52+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-23 02:45:41 UTC 2026-10-23 02:45:41 UTC at epicenter Location 21.347°S 66.580°W Depth 235.83 km (146.54 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Carro turns Singapore car loans into a US$350M funding pipeline in a regional first** — Score 9, observation — [Quelle](https://e27.co/carro-turns-singapore-car-loans-into-a-us350m-funding-pipeline-in-a-regional-first-20261022/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-23T02:00:11+00:00`, fetched `2026-10-23T02:08:32+00:00`
