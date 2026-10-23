@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-23T14:57:41+00:00_
+_Generiert: 2026-10-23T15:07:36+00:00_
 
 ## Kurzlage
 
-68 neue relevante Treffer. Stärkstes Signal: „Japan’s privacy law isn’t GDPR, and that’s where foreign SaaS founders keep tripping“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
+69 neue relevante Treffer. Stärkstes Signal: „Japan’s privacy law isn’t GDPR, and that’s where foreign SaaS founders keep tripping“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
 
 ## Priorität Hoch
 
