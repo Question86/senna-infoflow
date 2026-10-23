@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-23T01:57:09+00:00_
+_Generiert: 2026-10-23T02:09:02+00:00_
 
 ## Kurzlage
 
-6 neue relevante Treffer. Stärkstes Signal: „Male founders are losing confidence. Women are doubling down on AI“ aus e27 Asia Startup and Tech Feed (Score 15, observation).
+10 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月22日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **CISA ICS Advisory / ICS Medical Advisory（2026年10月22日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU98747108/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-10-23T11:00:00+09:00`, fetched `2026-10-23T02:08:32+00:00`
+  - Treffer: advisory, APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Male founders are losing confidence. Women are doubling down on AI** — Score 15, observation — [Quelle](https://e27.co/male-founders-are-losing-confidence-women-are-doubling-down-on-ai-20261022/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-23T01:30:20+00:00`, fetched `2026-10-23T01:38:45+00:00`
@@ -21,6 +30,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); founder (+2.5); recent (+1.0)
   - Kurz: HSBC’s latest survey of wealthy entrepreneurs contains an awkward finding for the men who still write most of the cheques. Their own confidence is slipping, while the confidence of the women they rarely fund is rising. The Global Entrepreneurial Wealth Report 2026 polled more than 3,000 business owners across 17 markets. Over the past year, […] The post Male founders are losing confidence. Women are doubling down on…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **三菱電機製の複数製品における複数の脆弱性（2026-006）** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU93251594/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-10-23T11:00:15+09:00`, fetched `2026-10-23T02:08:32+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 三菱電機株式会社が提供するGENESIS、GENESIS64、ICONICS Suite、Hyper Historian、AnalytiX、MobileHMI、IoTWorX、MC Works64、GENESIS32およびBizVizには、複数の脆弱性が存在します。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
@@ -32,6 +50,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Indonesia’s D2C and inventory-heavy startup sector looks different in 2026 than it did before 2022. The cohort of platforms that scaled between 2018 and 2021 (Fabelio in furniture, several in F&B, fashion, and household goods) encountered a category of operational risk that the original venture playbook tended to underestimate. Some platforms have stabilised. Several have […] The post The working capital trap: Lesso…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Carro turns Singapore car loans into a US$350M funding pipeline in a regional first** — Score 9, observation — [Quelle](https://e27.co/carro-turns-singapore-car-loans-into-a-us350m-funding-pipeline-in-a-regional-first-20261022/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-23T02:00:11+00:00`, fetched `2026-10-23T02:08:32+00:00`
+  - Treffer: APAC Trend Radar, funding
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); funding (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: In Singapore, a car is less a vehicle than a ten-year licence wrapped in steel. Carro now wants institutional money to treat that licence as collateral. The Singapore-headquartered automotive marketplace has set up a S$450 million (about US$350 million) asset-backed securitisation facility backed by Singapore car loan receivables. In a statement on Thursday, Carro called […] The post Carro turns Singapore car loans…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **GitHub Copilot in Visual Studio — September update** — Score 9, observation — [Quelle](https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2)
   - Quelle: GitHub Changelog Atom / `rss`
@@ -69,9 +96,19 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: ホームプレスルームStudio 株式会社における不正アクセスによる個人情報の漏えいの可能性について Studio 株式会社における不正アクセスによる個人情報の漏えいの可能性について 公開日：2026年10月22日 今般、デジタル庁（デジタル改革関連法案準備室を含む。）がホームページ運営の一部にそのサービスを利用していたSt...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **What changed when I stopped sending newsletters manually** — Score 4, observation — [Quelle](https://e27.co/what-changed-when-i-stopped-sending-newsletters-manually-20261016/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-23T02:00:40+00:00`, fetched `2026-10-23T02:08:32+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: Before I used Mailchimp, my monthly newsletter was one of those tasks I kept postponing. Not because it was complicated. Because it was annoying. I was running a small business, which meant the newsletter was always competing with more urgent things. Customer messages, fulfilment, invoices, product updates, random admin. By the time I got to […] The post What changed when I stopped sending newsletters manually appea…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
