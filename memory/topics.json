@@ -1,8 +1,66 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-23T09:00:51+00:00",
+  "generated_at": "2026-10-23T09:22:39+00:00",
   "topics": {
+    "security": [
+      {
+        "title": "[UPDATE] [hoch] Red Hat Ansible Automation Platform: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-23T09:15:51+00:00",
+        "relevance_score": 22,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4111"
+      },
+      {
+        "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-10-23T00:00:00+00:00",
+        "relevance_score": 22,
+        "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
+      },
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月22日）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-23T11:00:00+09:00",
+        "relevance_score": 16,
+        "url": "https://jvn.jp/vu/JVNVU98747108/"
+      },
+      {
+        "title": "[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-23T08:30:51+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4067"
+      },
+      {
+        "title": "プリザンターのLDAP認証における認証不備の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-23T15:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN82312317/"
+      },
+      {
+        "title": "三菱電機製の複数製品における複数の脆弱性（2026-006）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-23T11:00:15+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU93251594/"
+      },
+      {
+        "title": "[UPDATE] [mittel] Node.js: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-23T09:00:51+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4117"
+      },
+      {
+        "title": "Cisco stopft diverse, teils kritische Sicherheitslücken",
+        "source": "heise Security Alerts",
+        "published_at": "2026-10-23T08:10:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Cisco-stopft-diverse-teils-kritische-Sicherheitsluecken-11497857.html"
+      }
+    ],
     "ai": [
       {
         "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
@@ -73,50 +131,6 @@
         "published_at": "2026-10-23T06:00:07+00:00",
         "relevance_score": 5,
         "url": "https://e27.co/ecosystem-roundup-taiwan-blocks-grabs-us600m-foodpanda-deal-over-ubers-stake-20261023/"
-      }
-    ],
-    "security": [
-      {
-        "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-        "source": "OpenAI News RSS",
-        "published_at": "2026-10-23T00:00:00+00:00",
-        "relevance_score": 22,
-        "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
-      },
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月22日）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-23T11:00:00+09:00",
-        "relevance_score": 16,
-        "url": "https://jvn.jp/vu/JVNVU98747108/"
-      },
-      {
-        "title": "[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-23T08:30:51+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4067"
-      },
-      {
-        "title": "プリザンターのLDAP認証における認証不備の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-23T15:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN82312317/"
-      },
-      {
-        "title": "三菱電機製の複数製品における複数の脆弱性（2026-006）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-23T11:00:15+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU93251594/"
-      },
-      {
-        "title": "Cisco stopft diverse, teils kritische Sicherheitslücken",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-23T08:10:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Cisco-stopft-diverse-teils-kritische-Sicherheitsluecken-11497857.html"
       }
     ],
     "github": [
