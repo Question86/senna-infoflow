@@ -285,6 +285,43 @@
     "id": "3c6ff396af9eb3a40a36"
   },
   {
+    "title": "M 4.6 - 73 km ENE of Kinablangan, Philippines",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4h0",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-23T22:29:38.040+00:00",
+    "fetched_at": "2026-10-23T22:38:56+00:00",
+    "summary": "Time 2026-10-23 21:41:04 UTC 2026-10-23 21:41:04 UTC at epicenter Location 7.916°N 127.181°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "7666207e43c01b1568da"
+  },
+  {
     "title": "M 5.1 - 72 km ENE of Noda, Japan",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4e2",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -380,6 +417,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "82e9659d6ccfc9e218b0"
+  },
+  {
+    "title": "Using Claude to reduce the attack surface of code",
+    "url": "https://www.anthropic.com/research/attack-surface-reduction",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-23T15:05:50+00:00",
+    "fetched_at": "2026-10-23T22:38:56+00:00",
+    "summary": "Chris Rohlf Over the past year, we’ve published lots of data that shows that frontier AI models are more than capable of discovering and exploiting security vulnerabilities. Showing how previously unknown vulnerabilities might be exploited is, however, only the start of what frontier AI models ca...",
+    "matched_keywords": [
+      "AI/KI",
+      "Hatena",
+      "hotentry",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "AI/KI (+3.0); Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a7f6428af5fbdd4d2a56"
   },
   {
     "title": "プリザンターのLDAP認証における認証不備の脆弱性",

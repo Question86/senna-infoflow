@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-23T22:30:06+00:00_
+_Generiert: 2026-10-23T22:39:24+00:00_
 
 ## Kurzlage
 
-81 neue relevante Treffer. Stärkstes Signal: „Japan’s privacy law isn’t GDPR, and that’s where foreign SaaS founders keep tripping“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
+83 neue relevante Treffer. Stärkstes Signal: „Japan’s privacy law isn’t GDPR, and that’s where foreign SaaS founders keep tripping“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -93,6 +93,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 4.6 - 73 km ENE of Kinablangan, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4h0)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-23T22:29:38.040+00:00`, fetched `2026-10-23T22:38:56+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-23 21:41:04 UTC 2026-10-23 21:41:04 UTC at epicenter Location 7.916°N 127.181°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.1 - 72 km ENE of Noda, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4e2)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-23T16:35:09.026+00:00`, fetched `2026-10-23T16:37:23+00:00`
@@ -120,6 +129,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); founder (+2.5); recent (+1.0)
   - Kurz: HSBC’s latest survey of wealthy entrepreneurs contains an awkward finding for the men who still write most of the cheques. Their own confidence is slipping, while the confidence of the women they rarely fund is rising. The Global Entrepreneurial Wealth Report 2026 polled more than 3,000 business owners across 17 markets. Over the past year, […] The post Male founders are losing confidence. Women are doubling down on…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Using Claude to reduce the attack surface of code** — Score 14, risk — [Quelle](https://www.anthropic.com/research/attack-surface-reduction)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-23T15:05:50+00:00`, fetched `2026-10-23T22:38:56+00:00`
+  - Treffer: AI/KI, Hatena, hotentry, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: Chris Rohlf Over the past year, we’ve published lots of data that shows that frontier AI models are more than capable of discovering and exploiting security vulnerabilities. Showing how previously unknown vulnerabilities might be exploited is, however, only the start of what frontier AI models ca...
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **プリザンターのLDAP認証における認証不備の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN82312317/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-10-23T15:00:00+09:00`, fetched `2026-10-23T06:20:54+00:00`
@@ -128,15 +146,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 株式会社インプリムが提供するプリザンターのLDAP認証には、認証不備の脆弱性が存在します。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **三菱電機製の複数製品における複数の脆弱性（2026-006）** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU93251594/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-10-23T11:00:15+09:00`, fetched `2026-10-23T02:08:32+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 三菱電機株式会社が提供するGENESIS、GENESIS64、ICONICS Suite、Hyper Historian、AnalytiX、MobileHMI、IoTWorX、MC Works64、GENESIS32およびBizVizには、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten

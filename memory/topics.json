@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-23T22:30:06+00:00",
+  "generated_at": "2026-10-23T22:39:24+00:00",
   "topics": {
     "geopolitics": [
       {
@@ -133,18 +133,18 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4067"
       },
       {
+        "title": "Using Claude to reduce the attack surface of code",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-23T15:05:50+00:00",
+        "relevance_score": 14,
+        "url": "https://www.anthropic.com/research/attack-surface-reduction"
+      },
+      {
         "title": "プリザンターのLDAP認証における認証不備の脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-10-23T15:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN82312317/"
-      },
-      {
-        "title": "三菱電機製の複数製品における複数の脆弱性（2026-006）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-23T11:00:15+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU93251594/"
       }
     ],
     "ai": [
@@ -184,6 +184,13 @@
         "url": "https://e27.co/male-founders-are-losing-confidence-women-are-doubling-down-on-ai-20261022/"
       },
       {
+        "title": "Using Claude to reduce the attack surface of code",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-23T15:05:50+00:00",
+        "relevance_score": 14,
+        "url": "https://www.anthropic.com/research/attack-surface-reduction"
+      },
+      {
         "title": "[NEU] [mittel] Drupal Module (View Unpublished, Simple OAuth und Domain Login Restrict): Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-23T10:50:52+00:00",
@@ -210,13 +217,6 @@
         "published_at": "2026-10-23T21:30:27.040+00:00",
         "relevance_score": 13,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4gm"
-      },
-      {
-        "title": "Multiples vulnérabilités dans Microsoft Edge (19 octobre 2026)",
-        "source": "CERT-FR Avis de sécurité",
-        "published_at": "2026-10-19T00:00:00+00:00",
-        "relevance_score": 13,
-        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1342/"
       }
     ],
     "github": [
@@ -286,6 +286,13 @@
     ],
     "general": [
       {
+        "title": "M 4.6 - 73 km ENE of Kinablangan, Philippines",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-23T22:29:38.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4h0"
+      },
+      {
         "title": "M 5.1 - 72 km ENE of Noda, Japan",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-23T16:35:09.026+00:00",
@@ -347,13 +354,6 @@
         "published_at": "2026-10-23T14:15:39.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4dc"
-      },
-      {
-        "title": "M 4.5 - 207 km NE of Lospalos, Timor Leste",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-23T12:49:19.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4bw"
       }
     ],
     "economy": [
