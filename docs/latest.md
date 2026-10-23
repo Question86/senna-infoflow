@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-23T02:59:23+00:00_
+_Generiert: 2026-10-23T03:20:10+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月22日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+14 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月22日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 ## Priorität Hoch
 
@@ -39,6 +39,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 三菱電機株式会社が提供するGENESIS、GENESIS64、ICONICS Suite、Hyper Historian、AnalytiX、MobileHMI、IoTWorX、MC Works64、GENESIS32およびBizVizには、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **How AI became my sparring partner** — Score 14, observation — [Quelle](https://e27.co/how-ai-became-my-sparring-partner-20261018/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-23T03:00:15+00:00`, fetched `2026-10-23T03:19:42+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: A few months ago, I was trying to understand why one high-protein formulation puffed well during low-moisture extrusion while another did not. I gave ChatGPT the formulation details, expansion results, rheological measurements and observations from the extrusion trials. Then I started asking what might explain the difference. One line of reasoning concerned critical strain — […] The post How AI became my sparring pa…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
