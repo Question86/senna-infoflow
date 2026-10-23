@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T22:51:32+00:00",
-  "run_id": "2026-10-23T22:51:32+00:00",
+  "generated_at": "2026-10-23T22:57:02+00:00",
+  "run_id": "2026-10-23T22:57:02+00:00",
   "date": "2026-10-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 84
+      "configured_public_sources_only": 85
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 84,
-    "displayed_findings": 84,
+    "today_file_total": 85,
+    "displayed_findings": 85,
     "high": 0,
     "medium": 35,
-    "observe": 49,
+    "observe": 50,
     "source_errors": 0
   },
   "sections": {
@@ -1271,6 +1271,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "08a0c8c765293b7af503"
+      },
+      {
+        "title": "M 4.8 - 6 km ENE of Starobachaty, Russia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4hi",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-10-23T22:53:00.040+00:00",
+        "fetched_at": "2026-10-23T22:56:32+00:00",
+        "summary": "Time 2026-10-23 22:24:16 UTC 2026-10-23 22:24:16 UTC at epicenter Location 54.267°N 86.295°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "d0db60dd236ecf88a6a2"
       },
       {
         "title": "M 5.1 - 203 km NW of Port-Olry, Vanuatu",
@@ -3403,6 +3439,42 @@
       "id": "08a0c8c765293b7af503"
     },
     {
+      "title": "M 4.8 - 6 km ENE of Starobachaty, Russia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4hi",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-23T22:53:00.040+00:00",
+      "fetched_at": "2026-10-23T22:56:32+00:00",
+      "summary": "Time 2026-10-23 22:24:16 UTC 2026-10-23 22:24:16 UTC at epicenter Location 54.267°N 86.295°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "d0db60dd236ecf88a6a2"
+    },
+    {
       "title": "M 5.1 - 203 km NW of Port-Olry, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4h7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -4291,25 +4363,40 @@
   ],
   "new_findings": [
     {
-      "title": "PHPの緊急脆弱性「php2shell」で攻撃されていないか？サーバーに残る3つの痕跡と確認方法 - インフラ学習サイト「InfraAcademy」",
-      "url": "https://engineer-ninaritai.com/php2shell-attack-detection/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "M 4.8 - 6 km ENE of Starobachaty, Russia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4hi",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-10-23T12:23:05+00:00",
-      "fetched_at": "2026-10-23T22:51:04+00:00",
-      "summary": "こんにちは、インフラエンジニアのryuです。 前回の記事「PHPの緊急脆弱性「php2shell」とは？」では、2026年10月21日に公開されたPHPの脆弱性の仕組みと、アップデートの進め方を解説しました。 今回はその続きです。 アップデートを終えたあとに、多くの人が気になるのが「すでに攻撃されていないか？」という点だと思...",
+      "published_at": "2026-10-23T22:53:00.040+00:00",
+      "fetched_at": "2026-10-23T22:56:32+00:00",
+      "summary": "Time 2026-10-23 22:24:16 UTC 2026-10-23 22:24:16 UTC at epicenter Location 54.267°N 86.295°E Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6d8f4eaf2806cf40becc"
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "d0db60dd236ecf88a6a2"
     }
   ],
   "source_errors": [],
