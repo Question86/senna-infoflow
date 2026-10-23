@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-23T10:32:17+00:00",
+  "generated_at": "2026-10-23T10:42:33+00:00",
   "topics": {
     "geopolitics": [
       {
@@ -19,11 +19,32 @@
         "url": "https://github.com/Graphify-Labs/graphify"
       },
       {
+        "title": "[NEU] [UNGEPATCHT] [mittel] expat: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-23T10:30:51+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4123"
+      },
+      {
         "title": "Male founders are losing confidence. Women are doubling down on AI",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-10-23T01:30:20+00:00",
         "relevance_score": 15,
         "url": "https://e27.co/male-founders-are-losing-confidence-women-are-doubling-down-on-ai-20261022/"
+      },
+      {
+        "title": "[NEU] [kritisch] Arista VeloCloud Orchestrator: Schwachstelle ermöglicht SQL-Injection und potenziell Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-23T10:35:51+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4124"
+      },
+      {
+        "title": "[NEU] [hoch] Aruba ArubaOS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-23T10:35:51+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4125"
       },
       {
         "title": "[NEU] [mittel] Qt Core QXmlStream parser: Schwachstelle ermöglicht Denial of Service",
@@ -70,6 +91,13 @@
         "url": "https://jvn.jp/vu/JVNVU98747108/"
       },
       {
+        "title": "[NEU] [UNGEPATCHT] [mittel] expat: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-23T10:30:51+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4123"
+      },
+      {
         "title": "[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-23T08:30:51+00:00",
@@ -91,32 +119,25 @@
         "url": "https://jvn.jp/vu/JVNVU93251594/"
       },
       {
+        "title": "[NEU] [kritisch] Arista VeloCloud Orchestrator: Schwachstelle ermöglicht SQL-Injection und potenziell Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-23T10:35:51+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4124"
+      },
+      {
+        "title": "[NEU] [hoch] Aruba ArubaOS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-23T10:35:51+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4125"
+      },
+      {
         "title": "[UPDATE] [hoch] Apache Traffic Server: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-23T10:25:53+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4112"
-      },
-      {
-        "title": "[NEU] [mittel] Qt Core QXmlStream parser: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-23T10:25:53+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4122"
-      },
-      {
-        "title": "[UPDATE] [hoch] ClamAV: Mehrere Schwachstellen ermöglichen Denial of Service und Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-23T10:25:52+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2708"
-      },
-      {
-        "title": "[UPDATE] [hoch] Roundcube Webmail: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-23T09:31:48+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4043"
       }
     ],
     "ai": [
@@ -237,6 +258,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4b3"
       },
       {
+        "title": "M 5.7 - 61 km WNW of Leni, Italy",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-23T10:39:57.589+00:00",
+        "relevance_score": 13,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4bk"
+      },
+      {
         "title": "M 4.5 - 18 km NNW of Yongning, China",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-23T02:31:45.040+00:00",
@@ -291,13 +319,6 @@
         "published_at": "2026-10-23T02:48:48+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/speech/minister-261023-01"
-      },
-      {
-        "title": "PHP2Shellへの対応を振り返って - コドモン Product Team Blog",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-23T09:00:03+00:00",
-        "relevance_score": 5,
-        "url": "https://tech.codmon.com/entry/2026/10/23/173909"
       }
     ],
     "economy": [
