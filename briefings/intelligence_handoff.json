@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-23T09:52:05Z",
+  "generated_at": "2026-10-23T10:03:16Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -68,7 +68,7 @@
       "url": "https://jvn.jp/jp/JVN82312317/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-23T15:00:00+09:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -92,7 +92,7 @@
       "url": "https://jvn.jp/vu/JVNVU93251594/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-23T11:00:15+09:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -116,7 +116,7 @@
       "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
       "source": "OpenAI News RSS",
       "published_at": "2026-10-23T00:00:00+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "ai",
         "security"
@@ -144,7 +144,7 @@
       "url": "https://github.com/supabase/supabase",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-23T05:58:09+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai",
         "macro"
@@ -173,7 +173,7 @@
       "url": "https://jvn.jp/vu/JVNVU98747108/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-23T11:00:00+09:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -199,7 +199,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4043",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-23T09:31:48+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai",
         "security"
@@ -252,7 +252,7 @@
       "url": "https://github.com/php/php-src",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-23T05:58:09+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -278,7 +278,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 126.33,
+      "age_days": 126.34,
       "topics": [
         "ai"
       ],
@@ -303,16 +303,16 @@
       "summary": ""
     },
     {
-      "title": "Cisco stopft diverse, teils kritische Sicherheitslücken",
-      "url": "https://www.heise.de/news/Cisco-stopft-diverse-teils-kritische-Sicherheitsluecken-11497857.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-10-23T08:10:00.000+00:00",
-      "age_days": 0.07,
+      "title": "Japan’s privacy law isn’t GDPR, and that’s where foreign SaaS founders keep tripping",
+      "url": "https://e27.co/japans-privacy-law-isnt-gdpr-and-thats-where-foreign-saas-founders-keep-tripping-20261023/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-23T09:54:10+00:00",
+      "age_days": 0.01,
       "topics": [
-        "security"
+        "macro"
       ],
-      "dynamics_score": 24.0,
-      "raw_band": "strong",
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
@@ -320,12 +320,13 @@
       "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": false,
+      "single_source_ai_capped": true,
       "why": [
-        "high terms: kritisch",
-        "security high-signal: kritisch"
+        "high terms: rce, 10",
+        "security high-signal: rce, 10",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
-      "summary": "In mehreren Produkten von Cisco klaffen teils kritische Lücken. Der Hersteller stellt Sicherheitsupdates bereit."
+      "summary": "For a Singapore or Jakarta SaaS founder who has already sweated through GDPR paperwork to land a European client, Japan can look like a box already ticked. Strong privacy law, a mature regulator, a long history with data protection. Surely the European playbook will do? It won’t. Japan’s Act on the Protection of Perso…"
     }
   ],
   "read_order": [
