@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-24T08:22:36+00:00",
+  "generated_at": "2026-10-24T08:37:00+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": null,
         "relevance_score": 16,
         "url": "https://github.com/SnailSploit/Claude-Red"
+      },
+      {
+        "title": "AIサイバー対策緊急提言 | チームみらい",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-23T12:51:28+00:00",
+        "relevance_score": 14,
+        "url": "https://team-mir.ai/lp/ai-cybersecurity/proposal.html"
       },
       {
         "title": "CVE Tracker — CVEs per month since 1999",
@@ -47,6 +54,13 @@
         "published_at": null,
         "relevance_score": 16,
         "url": "https://github.com/SnailSploit/Claude-Red"
+      },
+      {
+        "title": "AIサイバー対策緊急提言 | チームみらい",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-23T12:51:28+00:00",
+        "relevance_score": 14,
+        "url": "https://team-mir.ai/lp/ai-cybersecurity/proposal.html"
       },
       {
         "title": "CVE Tracker — CVEs per month since 1999",
