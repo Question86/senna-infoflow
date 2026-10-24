@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-24T23:02:25Z",
+  "generated_at": "2026-10-24T23:20:05Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “SnailSploit/Claude-Red” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/SnailSploit/Claude-Red",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-24T05:54:29+00:00",
-      "age_days": 0.71,
+      "age_days": 0.73,
       "topics": [
         "ai",
         "security",
@@ -43,7 +43,7 @@
       "url": "https://team-mir.ai/lp/ai-cybersecurity/proposal.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-23T12:51:28+00:00",
-      "age_days": 1.42,
+      "age_days": 1.44,
       "topics": [
         "ai",
         "security"
@@ -70,7 +70,7 @@
       "url": "https://rocket-boys.co.jp/security-measures-lab/brotli_cve-2026-111497_http2shell_20261024/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-24T12:12:42+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -96,7 +96,7 @@
       "url": "https://cve.0xosprey.com/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-23T17:30:30+00:00",
-      "age_days": 1.23,
+      "age_days": 1.24,
       "topics": [
         "security"
       ],
@@ -122,7 +122,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 127.88,
+      "age_days": 127.89,
       "topics": [
         "ai"
       ],
@@ -151,7 +151,7 @@
       "url": "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-24T04:26:57+00:00",
-      "age_days": 0.77,
+      "age_days": 0.79,
       "topics": [
         "ai",
         "macro"
@@ -178,7 +178,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4m9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T12:10:33.040+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "disaster"
       ],
@@ -199,11 +199,36 @@
       "summary": "Time 2026-10-24 11:48:08 UTC 2026-10-24 11:48:08 UTC at epicenter Location 19.805°N 122.087°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "「ドパ資料」の作り方 - Qiita",
+      "url": "https://qiita.com/kikuziro/items/b6a0743b070d7320c36d?utm_source=dlvr.it&utm_medium=facebook",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-24T03:18:03+00:00",
+      "age_days": 0.83,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 22.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce"
+      ],
+      "summary": "この記事を開いたあなたは「ドパガキ」もしくは「ドパおじ」いや「ドパおば」かもしれませんね。 いずれにしてもドーパミンがドバドバ出る資料を求めてここにたどり着いたものと推測します。そんなあなたのためにこの記事ではドパ資料の作り方を書いていきます。 👀 対象読者 技術記事を書いているけど、いまいち読まれ..."
+    },
+    {
       "title": "M 5.9 - 196 km NW of Port-Olry, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4lm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T09:13:41.477+00:00",
-      "age_days": 0.58,
+      "age_days": 0.59,
       "topics": [
         "disaster"
       ],
@@ -228,7 +253,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T04:31:10.695+00:00",
-      "age_days": 0.77,
+      "age_days": 0.78,
       "topics": [
         "disaster"
       ],
@@ -253,7 +278,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ju",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T04:28:35.410+00:00",
-      "age_days": 0.77,
+      "age_days": 0.79,
       "topics": [
         "disaster"
       ],
@@ -278,7 +303,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T03:04:48.259+00:00",
-      "age_days": 0.83,
+      "age_days": 0.84,
       "topics": [
         "disaster"
       ],
@@ -297,31 +322,6 @@
         "high terms: 10"
       ],
       "summary": "PAGER - GREEN ShakeMap - IV Time 2026-10-24 02:35:57 UTC 2026-10-24 02:35:57 UTC at epicenter Location 14.042°S 165.867°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 5.8 - Bouvet Island region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4mn",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-24T15:47:19.957+00:00",
-      "age_days": 0.3,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "ShakeMap - I Time 2026-10-24 15:24:19 UTC 2026-10-24 15:24:19 UTC at epicenter Location 54.030°S 7.015°E Depth 12.49 km (7.76 mi)"
     }
   ],
   "read_order": [
@@ -333,8 +333,7 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 11,
-      "watch": 1
+      "strong": 12
     }
   }
 }
