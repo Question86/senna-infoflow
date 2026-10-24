@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-24T04:38:29Z_
+_Generated: 2026-10-24T04:50:12Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “CVE Tracker — CVEs per month since 199
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-23T17:30:30+00:00` / age_days `0.46`
+- Published: `2026-10-23T17:30:30+00:00` / age_days `0.47`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 0-day, 10, security high-signal: 0-day, 10, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -22,11 +22,31 @@ Stärkste Dynamik nach Gate-Recheck: “CVE Tracker — CVEs per month since 199
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `127.11`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `127.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 127.1d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/
+
+### M 5.8 - 203 km NW of Port-Olry, Vanuatu
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `21.0`
+- Published: `2026-10-24T04:31:10.695+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jw
+
+### M 5.7 - 205 km NW of Port-Olry, Vanuatu
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `21.0`
+- Published: `2026-10-24T04:28:35.410+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ju
 
 ### M 6.3 - 170 km NW of Port-Olry, Vanuatu
 
@@ -52,17 +72,27 @@ Stärkste Dynamik nach Gate-Recheck: “CVE Tracker — CVEs per month since 199
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-10-24T00:29:30.040+00:00` / age_days `0.17`
+- Published: `2026-10-24T00:29:30.040+00:00` / age_days `0.18`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4i8
 
+### M 5.3 - 216 km W of Sola, Vanuatu
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `17.0`
+- Published: `2026-10-24T04:39:04.040+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jy
+
 ### M 4.9 - 186 km WNW of Port-Olry, Vanuatu
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-24T04:07:17.040+00:00` / age_days `0.02`
+- Published: `2026-10-24T04:07:17.040+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -72,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “CVE Tracker — CVEs per month since 199
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-24T03:37:39.040+00:00` / age_days `0.04`
+- Published: `2026-10-24T03:37:39.040+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -82,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “CVE Tracker — CVEs per month since 199
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-24T03:25:12.040+00:00` / age_days `0.05`
+- Published: `2026-10-24T03:25:12.040+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -92,40 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “CVE Tracker — CVEs per month since 199
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-24T02:46:04.333+00:00` / age_days `0.08`
+- Published: `2026-10-24T02:46:04.333+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/attne4d5
-
-### 「この男に何かあったら終わり」と評されるPHPの保守とパッチの自動化を行うボランティア「オンドレイ・スーリー」氏とは何者か？
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `15.0`
-- Published: `2026-10-23T13:15:06+00:00` / age_days `0.64`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: high terms: 10
-- Quelle: https://gigazine.net/news/20261023-ondrej-sury-interview/
-
-### Usage metrics API adds usage from tools like OpenCode
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `10.0`
-- Published: `2026-10-23T23:42:03+00:00` / age_days `0.21`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: high terms: code, 10
-- Quelle: https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode
-
-### スイッチ向けプログラミングソフト『プチコン4』が突如配信停止―海外でスイッチ2改造への悪用と関連させる報道も | Game*Spark - 国内・海外ゲーム情報サイト
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `10.0`
-- Published: `2026-10-23T15:52:59+00:00` / age_days `0.53`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: high terms: 10
-- Quelle: https://www.gamespark.jp/article/2026/10/23/174015.html
 
 END OF DOCUMENT
