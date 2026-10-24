@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-24T07:02:31+00:00_
+_Generiert: 2026-10-24T07:20:37+00:00_
 
 ## Kurzlage
 
-30 neue relevante Treffer. Stärkstes Signal: „SnailSploit/Claude-Red“ aus GitHub Trending RSS All Languages Daily (Score 16, risk).
+32 neue relevante Treffer. Stärkstes Signal: „SnailSploit/Claude-Red“ aus GitHub Trending RSS All Languages Daily (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -45,6 +45,10 @@ _Generiert: 2026-10-24T07:02:31+00:00_
   - Quelle: USGS
   - Zeit: `2026-10-24T02:35:57+00:00`
   - Kurz: M6.3 - 170 km NW of Port-Olry, Vanuatu. PAGER alert: green. Tsunami flag: 0.
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:194.632km) in Vanuatu 24/10/2026 06:43 UTC, 60 thousand in MMI III.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573554)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:194.632km) in Vanuatu 24/10/2026 06:43 UTC, 60 thousand in MMI III.
 - **GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu 24/10/2026 05:23 UTC, 2 thousand in MMI&gt;=III.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573536)
   - Quelle: GDACS
   - Zeit: ``
@@ -65,10 +69,6 @@ _Generiert: 2026-10-24T07:02:31+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Red earthquake (Magnitude 7M, Depth:18km) in China 22/10/2026 14:33 UTC, 10 thousand (in MMI&gt;=VII).
-- **USGS earthquake M5.5 - 55 km NNE of Port-Olry, Vanuatu** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kq)
-  - Quelle: USGS
-  - Zeit: `2026-10-24T06:43:09+00:00`
-  - Kurz: M5.5 - 55 km NNE of Port-Olry, Vanuatu. PAGER alert: none. Tsunami flag: 0.
 
 ## Wirtschaft global
 
