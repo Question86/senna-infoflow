@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-24T08:28:22Z",
+  "generated_at": "2026-10-24T08:42:55Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “SnailSploit/Claude-Red” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/SnailSploit/Claude-Red",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-24T05:54:29+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "security",
@@ -39,11 +39,38 @@
       "summary": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development. claude-red Offensive security skills…"
     },
     {
+      "title": "AIサイバー対策緊急提言 | チームみらい",
+      "url": "https://team-mir.ai/lp/ai-cybersecurity/proposal.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-23T12:51:28+00:00",
+      "age_days": 0.83,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "security high-signal: 10",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "情報漏洩の件数 漏洩件数はすでに昨年を上回る 485件 サイバー攻撃による情報漏洩の件数（2026.10.13時点） 参考：MM総研（2026年10月14日）国内サイバー攻撃による情報漏えい動向調査"
+    },
+    {
       "title": "CVE Tracker — CVEs per month since 1999",
       "url": "https://cve.0xosprey.com/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-23T17:30:30+00:00",
-      "age_days": 0.62,
+      "age_days": 0.63,
       "topics": [
         "security"
       ],
@@ -69,7 +96,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 127.27,
+      "age_days": 127.28,
       "topics": [
         "ai"
       ],
@@ -98,7 +125,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T04:31:10.695+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -123,7 +150,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ju",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T04:28:35.410+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -148,7 +175,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T03:04:48.259+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -173,7 +200,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4j2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T02:50:27.832+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -198,7 +225,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4i8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T00:29:30.040+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "disaster"
       ],
@@ -223,7 +250,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T07:36:49.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -248,7 +275,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T07:11:10.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -273,7 +300,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ku",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T07:06:39.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -292,31 +319,6 @@
         "high terms: 10"
       ],
       "summary": "Time 2026-10-24 06:52:04 UTC 2026-10-24 06:52:04 UTC at epicenter Location 13.878°S 165.424°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 5.5 - 55 km NNE of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kq",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-24T07:01:37.040+00:00",
-      "age_days": 0.06,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-24 06:43:09 UTC 2026-10-24 06:43:09 UTC at epicenter Location 14.592°S 167.306°E Depth 194.63 km (120.94 mi)"
     }
   ],
   "read_order": [
@@ -328,8 +330,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 6,
-      "watch": 6
+      "strong": 7,
+      "watch": 5
     }
   }
 }
