@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-24T08:48:05+00:00",
+  "generated_at": "2026-10-24T08:54:55+00:00",
   "topics": {
     "ai": [
       {
@@ -155,6 +155,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jb"
       },
       {
+        "title": "M 4.5 - 81 km SSE of Akutan, Alaska",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-24T08:51:45.065+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ld"
+      },
+      {
         "title": "M 6.9 - 197 km WNW of Port-Olry, Vanuatu",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-24T02:50:27.832+00:00",
@@ -195,13 +202,6 @@
         "published_at": "2026-10-24T07:11:10.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kt"
-      },
-      {
-        "title": "M 5.0 - 219 km NW of Port-Olry, Vanuatu",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-24T07:06:39.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ku"
       }
     ]
   }
