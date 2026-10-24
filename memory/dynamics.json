@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-24T06:05:01Z",
+  "generated_at": "2026-10-24T06:35:11Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 28,
+    "dynamics": 33,
     "bands": {
       "krass": 2,
       "strong": 4,
-      "watch": 12,
-      "quiet": 10
+      "watch": 16,
+      "quiet": 11
     },
     "bands_after_gate_recheck": {
       "strong": 6,
-      "watch": 12,
-      "quiet": 10
+      "watch": 16,
+      "quiet": 11
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://github.com/SnailSploit/Claude-Red",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-24T05:54:29+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "security",
@@ -51,7 +51,7 @@
       "url": "https://cve.0xosprey.com/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-23T17:30:30+00:00",
-      "age_days": 0.52,
+      "age_days": 0.54,
       "topics": [
         "security"
       ],
@@ -77,7 +77,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 127.17,
+      "age_days": 127.19,
       "topics": [
         "ai"
       ],
@@ -106,7 +106,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T04:31:10.695+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -131,7 +131,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ju",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T04:28:35.410+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -156,7 +156,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T03:04:48.259+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -181,7 +181,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4j2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T02:50:27.832+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -206,7 +206,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4i8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T00:29:30.040+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -227,11 +227,86 @@
       "summary": "Time 2026-10-24 00:07:56 UTC 2026-10-24 00:07:56 UTC at epicenter Location 32.527°N 93.900°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 5.3 - 174 km NW of Port-Olry, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kj",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-24T06:23:43.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-24 06:04:16 UTC 2026-10-24 06:04:16 UTC at epicenter Location 14.128°S 165.754°E Depth 10.00 km (6.21 mi)"
+    },
+    {
+      "title": "M 4.5 - 175 km NW of Port-Olry, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kh",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-24T06:09:41.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-24 05:37:46 UTC 2026-10-24 05:37:46 UTC at epicenter Location 14.051°S 165.805°E Depth 10.00 km (6.21 mi)"
+    },
+    {
+      "title": "M 4.5 - 184 km NW of Port-Olry, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ke",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-24T06:04:41.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-24 05:35:54 UTC 2026-10-24 05:35:54 UTC at epicenter Location 13.979°S 165.748°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 5.8 - 182 km NW of Port-Olry, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T05:40:00.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -256,7 +331,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T05:35:05.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -281,7 +356,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T05:06:18.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -306,7 +381,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T05:02:11.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -331,7 +406,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T04:39:04.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -356,7 +431,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T04:07:17.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -381,7 +456,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T03:37:39.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -406,7 +481,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ji",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T03:25:12.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -431,7 +506,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/attne4d5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T02:46:04.333+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -456,7 +531,7 @@
       "url": "https://gigazine.net/news/20261023-ondrej-sury-interview/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-23T13:15:06+00:00",
-      "age_days": 0.7,
+      "age_days": 0.72,
       "topics": [
         "general"
       ],
@@ -476,11 +551,59 @@
       "summary": "2026年10月、世界中のウェブサイトの約70％で使われるプログラミング言語の「PHP」に深刻な脆弱(ぜいじゃく)性が2件見つかったことが明らかにされました。この対応に陰から尽力した開発者に、海外メディアThe Atlanticのチャーリー・ワーゼル記者がインタビューを行いました。 The Man Who Saved the Internet Yesterday..."
     },
     {
+      "title": "Piero Cipollone: Interview with Milano Finanza",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261024~ee2ba73cf3.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "published_at": "2026-10-24T06:00:00+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "Piero Cipollone: Interview with Milano Finanza"
+    },
+    {
+      "title": "不正アクセス受けたＧＭＯ、政府に「能動的サイバー防御」の適用を緊急要請",
+      "url": "https://www.yomiuri.co.jp/economy/20261024-GYT1T00180/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-24T04:45:05+00:00",
+      "age_days": 0.08,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "【読売新聞】 ＧＭＯインターネットのＦＸ（外国為替証拠金）取引などに使うクラウドサービスが不正アクセスを受けた問題で、同社は２４日、不正アクセスが原因の不正取引によって生じた損害を利用者に補償する方針を発表した。利用者全員に５０００"
+    },
+    {
       "title": "【重要】お名前.com デスクトップクラウドサービスに対するサイバー攻撃について（第4報） | GMOインターネットグループ株式会社",
       "url": "https://group.gmo/info/alert/20261024/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-24T03:11:09+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -504,7 +627,7 @@
       "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-23T23:42:03+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -528,7 +651,7 @@
       "url": "https://www.gamespark.jp/article/2026/10/23/174015.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-23T15:52:59+00:00",
-      "age_days": 0.59,
+      "age_days": 0.61,
       "topics": [
         "general"
       ],
@@ -552,7 +675,7 @@
       "url": "https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-23T17:17:58+00:00",
-      "age_days": 0.53,
+      "age_days": 0.55,
       "topics": [
         "ai"
       ],
@@ -578,7 +701,7 @@
       "url": "https://av.watch.impress.co.jp/docs/series/yoshida/2147681.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-23T04:46:55+00:00",
-      "age_days": 1.05,
+      "age_days": 1.08,
       "topics": [
         "general"
       ],
@@ -602,7 +725,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 126.14,
+      "age_days": 126.16,
       "topics": [
         "general"
       ],
@@ -618,7 +741,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 126.1d old signal"
+        "aging penalty -16.0 for 126.2d old signal"
       ],
       "summary": ""
     },
@@ -627,7 +750,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 126.14,
+      "age_days": 126.16,
       "topics": [
         "general"
       ],
@@ -643,7 +766,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 126.1d old signal"
+        "aging penalty -16.0 for 126.2d old signal"
       ],
       "summary": ""
     },
@@ -652,7 +775,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 126.14,
+      "age_days": 126.16,
       "topics": [
         "ai"
       ],
@@ -669,7 +792,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 126.1d old signal",
+        "aging penalty -16.0 for 126.2d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -679,7 +802,7 @@
       "url": "https://github.com/Renhuai123/ziwei-doushu",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-24T05:54:29+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
@@ -704,7 +827,7 @@
       "url": "https://www2.sagawa-exp.co.jp/information/detail/430/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-23T07:41:02+00:00",
-      "age_days": 0.93,
+      "age_days": 0.95,
       "topics": [
         "ai"
       ],
