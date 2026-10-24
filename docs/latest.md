@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-24T03:12:18+00:00_
+_Generiert: 2026-10-24T03:28:48+00:00_
 
 ## Kurzlage
 
-11 neue relevante Treffer. Stärkstes Signal: „M 6.3 - 170 km NW of Port-Olry, Vanuatu“ aus USGS M4.5+ Earthquakes Past Hour (Score 13, risk).
+12 neue relevante Treffer. Stärkstes Signal: „M 6.3 - 170 km NW of Port-Olry, Vanuatu“ aus USGS M4.5+ Earthquakes Past Hour (Score 13, risk).
 
 ## Priorität Hoch
 
