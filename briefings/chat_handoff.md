@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-24T20:56:05+00:00_
+_Generated: 2026-10-24T21:01:03+00:00_
 
 ## Status
 - status: `normal`
-- findings: `59`
+- findings: `60`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-10-24T20:56:05+00:00_
 - url: https://team-mir.ai/lp/ai-cybersecurity/proposal.html
 - summary: 情報漏洩の件数 漏洩件数はすでに昨年を上回る 485件 サイバー攻撃による情報漏洩の件数（2026.10.13時点） 参考：MM総研（2026年10月14日）国内サイバー攻撃による情報漏えい動向調査
 
-### 5. M 5.9 - 196 km NW of Port-Olry, Vanuatu
+### 5. 人間が時間を使うべきところはどこか
+- source: Hatena Bookmark Hotentry IT
+- score: `13`
+- published: `2026-10-24T11:36:59+00:00`
+- url: https://tellme.tokyo/post/2026/10/24/where-humans-spend-time/
+- summary: この 1 年で、自分でコードを書くことはほとんどなくなった。そのぶん増えたのはレビューで、といっても同僚の PR だけではなく、エージェントが書いた plan ファイルを読むことも多い。同僚の PR も、その後ろにはたいていエージェントがいるので、結局はどれも AI との会話になっている。そうなると、人間の時間はどこ...
+
+### 6. M 5.9 - 196 km NW of Port-Olry, Vanuatu
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-10-24T09:13:41.477+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4lm
 - summary: PAGER - GREEN ShakeMap - IV Time 2026-10-24 08:56:28 UTC 2026-10-24 08:56:28 UTC at epicenter Location 13.942°S 165.647°E Depth 10.00 km (6.21 mi)
 
-### 6. 決定的なフロントエンドアーキテクチャがいい
+### 7. 決定的なフロントエンドアーキテクチャがいい
 - source: Hatena Bookmark Hotentry IT
 - score: `13`
 - published: `2026-10-24T06:24:33+00:00`
 - url: https://speakerdeck.com/bengo4com/20261024-vuefes-2026-deterministic-frontend
 - summary: Vue Fes Japan 2026 における、プロダクト開発本部 クラウドサインProduct Engineering部 SWE 辻 佳佑 (t0daaay) による登壇資料です。 【Vue Fes Japan 2026】 …
 
-### 7. M 5.8 - 203 km NW of Port-Olry, Vanuatu
+### 8. M 5.8 - 203 km NW of Port-Olry, Vanuatu
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-10-24T04:31:10.695+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jw
 - summary: PAGER - GREEN ShakeMap - I Time 2026-10-24 04:12:05 UTC 2026-10-24 04:12:05 UTC at epicenter Location 13.902°S 165.597°E Depth 10.00 km (6.21 mi)
-
-### 8. M 5.7 - 205 km NW of Port-Olry, Vanuatu
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `13`
-- published: `2026-10-24T04:28:35.410+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ju
-- summary: PAGER - GREEN ShakeMap - I Time 2026-10-24 04:05:36 UTC 2026-10-24 04:05:36 UTC at epicenter Location 13.908°S 165.563°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
