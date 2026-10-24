@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T15:48:17+00:00",
-  "run_id": "2026-10-24T15:48:17+00:00",
+  "generated_at": "2026-10-24T15:54:06+00:00",
+  "run_id": "2026-10-24T15:54:06+00:00",
   "date": "2026-10-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 53
+      "configured_public_sources_only": 54
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 53,
-    "displayed_findings": 53,
+    "today_file_total": 54,
+    "displayed_findings": 54,
     "high": 0,
     "medium": 4,
-    "observe": 49,
+    "observe": 50,
     "source_errors": 0
   },
   "sections": {
@@ -563,6 +563,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "a00e630ce2b2accc1c0b"
+      },
+      {
+        "title": "M 4.9 - 217 km NW of Port-Olry, Vanuatu",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4mm",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-10-24T15:51:40.040+00:00",
+        "fetched_at": "2026-10-24T15:53:37+00:00",
+        "summary": "Time 2026-10-24 15:19:25 UTC 2026-10-24 15:19:25 UTC at epicenter Location 13.854°S 165.461°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "ba936d185e59b11d3703"
       },
       {
         "title": "M 4.9 - 148 km NNW of Kilmia, Yemen",
@@ -2216,6 +2252,42 @@
       "id": "a00e630ce2b2accc1c0b"
     },
     {
+      "title": "M 4.9 - 217 km NW of Port-Olry, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4mm",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-24T15:51:40.040+00:00",
+      "fetched_at": "2026-10-24T15:53:37+00:00",
+      "summary": "Time 2026-10-24 15:19:25 UTC 2026-10-24 15:19:25 UTC at epicenter Location 13.854°S 165.461°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "ba936d185e59b11d3703"
+    },
+    {
       "title": "M 4.9 - 148 km NNW of Kilmia, Yemen",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4m6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -3333,27 +3405,26 @@
   ],
   "new_findings": [
     {
-      "title": "M 5.8 - Bouvet Island region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4mn",
+      "title": "M 4.9 - 217 km NW of Port-Olry, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4mm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-10-24T15:47:19.957+00:00",
-      "fetched_at": "2026-10-24T15:47:51+00:00",
-      "summary": "ShakeMap - I Time 2026-10-24 15:24:19 UTC 2026-10-24 15:24:19 UTC at epicenter Location 54.030°S 7.015°E Depth 12.49 km (7.76 mi)",
+      "published_at": "2026-10-24T15:51:40.040+00:00",
+      "fetched_at": "2026-10-24T15:53:37+00:00",
+      "summary": "Time 2026-10-24 15:19:25 UTC 2026-10-24 15:19:25 UTC at epicenter Location 13.854°S 165.461°E Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
         "Climate/Disaster Infrastructure",
-        "ShakeMap",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake, ShakeMap"
+        "earthquakes_tsunami: earthquake"
       ],
       "market_context": [
         "MUV2.DE",
@@ -3367,7 +3438,7 @@
         "HD",
         "LOW"
       ],
-      "id": "913e786c9223cbd5a9d4"
+      "id": "ba936d185e59b11d3703"
     }
   ],
   "source_errors": [],
