@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-24T02:51:32+00:00_
+_Generiert: 2026-10-24T02:58:19+00:00_
 
 ## Kurzlage
 
@@ -9,10 +9,10 @@ _Generiert: 2026-10-24T02:51:32+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **USGS earthquake M7.2 - 200 km W of Sola, Vanuatu** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/attne4d5)
+- **USGS earthquake M6.9 - 197 km WNW of Port-Olry, Vanuatu** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4j2)
   - Quelle: USGS
-  - Zeit: `2026-10-24T02:31:53+00:00`
-  - Kurz: M7.2 - 200 km W of Sola, Vanuatu. PAGER alert: none. Tsunami flag: 1.
+  - Zeit: `2026-10-24T02:31:28+00:00`
+  - Kurz: M6.9 - 197 km WNW of Port-Olry, Vanuatu. PAGER alert: green. Tsunami flag: 1.
 - **CISA KEV: CVE-2026-114625 Arista VeloCloud Orchestrator** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-10-23`
@@ -33,14 +33,10 @@ _Generiert: 2026-10-24T02:51:32+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-20`
   - Kurz: Known exploited vulnerability. Added 2026-10-20. Due 2026-11-03. Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability
-- **GDACS: Green earthquake (Magnitude 7.2M, Depth:10km) in Vanuatu 24/10/2026 02:31 UTC, No people affected in 100km.** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573515)
+- **GDACS: Green earthquake (Magnitude 6.9M, Depth:10km) in Vanuatu 24/10/2026 02:31 UTC, No people affected in 100km.** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573515)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 7.2M, Depth:10km) in Vanuatu 24/10/2026 02:31 UTC, No people affected in 100km.
-- **USGS earthquake M6.9 - 197 km WNW of Port-Olry, Vanuatu** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4j2)
-  - Quelle: USGS
-  - Zeit: `2026-10-24T02:31:28+00:00`
-  - Kurz: M6.9 - 197 km WNW of Port-Olry, Vanuatu. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: Green earthquake (Magnitude 6.9M, Depth:10km) in Vanuatu 24/10/2026 02:31 UTC, No people affected in 100km.
 - **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Italy 23/10/2026 10:19 UTC, 40 thousand in MMI IV.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573344)
   - Quelle: GDACS
   - Zeit: ``

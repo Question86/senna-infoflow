@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T02:51:32+00:00",
-  "run_id": "2026-10-24T02:51:32+00:00",
+  "generated_at": "2026-10-24T02:58:19+00:00",
+  "run_id": "2026-10-24T02:58:19+00:00",
   "date": "2026-10-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 9,
     "displayed_findings": 9,
     "high": 0,
@@ -508,81 +508,7 @@
       "id": "edc594bcec601071f290"
     }
   ],
-  "new_findings": [
-    {
-      "title": "M 6.9 - 197 km WNW of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4j2",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-24T02:50:27.832+00:00",
-      "fetched_at": "2026-10-24T02:51:04+00:00",
-      "summary": "ShakeMap - V Time 2026-10-24 02:31:28 UTC 2026-10-24 02:31:28 UTC at epicenter Location 14.056°S 165.546°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "ShakeMap",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake, ShakeMap"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "4faf7597bb3a62e66029"
-    },
-    {
-      "title": "M 7.2 - 200 km W of Sola, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/attne4d5",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-24T02:46:04.333+00:00",
-      "fetched_at": "2026-10-24T02:51:04+00:00",
-      "summary": "DYFI? - III Time 2026-10-24 02:31:53 UTC 2026-10-24 02:31:53 UTC at epicenter Location 13.800°S 165.700°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "aa6573e8ce5d71e825cb"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
