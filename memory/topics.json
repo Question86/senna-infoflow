@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-24T07:32:16+00:00",
+  "generated_at": "2026-10-24T07:42:42+00:00",
   "topics": {
     "ai": [
       {
@@ -162,6 +162,13 @@
         "url": "https://gigazine.net/news/20261023-ondrej-sury-interview/"
       },
       {
+        "title": "M 4.7 - 195 km NW of Port-Olry, Vanuatu",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-24T07:36:49.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kw"
+      },
+      {
         "title": "M 4.6 - 206 km NW of Port-Olry, Vanuatu",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-24T07:11:10.040+00:00",
@@ -181,13 +188,6 @@
         "published_at": "2026-10-24T07:01:37.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kq"
-      },
-      {
-        "title": "M 5.3 - 174 km NW of Port-Olry, Vanuatu",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-24T06:23:43.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kj"
       }
     ]
   }
