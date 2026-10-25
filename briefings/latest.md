@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-25T11:30:33+00:00_
+_Generiert: 2026-10-25T11:39:02+00:00_
 
 ## Kurzlage
 
-27 neue relevante Treffer. Stärkstes Signal: „aws/agent-toolkit-for-aws“ aus GitHub Trending RSS All Languages Daily (Score 22, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+27 neue relevante Treffer. Stärkstes Signal: „aws/agent-toolkit-for-aws“ aus GitHub Trending RSS All Languages Daily (Score 22, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -196,7 +196,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `cert_eu_security_advisories` (rss): HTTPSConnectionPool(host='cert.europa.eu', port=443): Read timed out. (read timeout=8)
