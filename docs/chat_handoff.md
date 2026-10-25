@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-25T03:11:14+00:00_
+_Generated: 2026-10-25T03:47:07+00:00_
 
 ## Status
 - status: `normal`
-- findings: `10`
+- findings: `12`
 
 ## Top Signals
 
@@ -43,18 +43,18 @@ _Generated: 2026-10-25T03:11:14+00:00_
 - url: https://katashin.info/slides/satisfying-ui-animation/
 - summary: 2026年10月24日Vue,アニメーション,インタラクションVue Fes Japan 2026 で行った発表のスライドです。スライド部分をクリックしてからキーボードの左右入力でページをめくれます。 参考リンク #スライド内のデモTweetbot のデモの実装を解説した記事
 
-### 6. M 5.1 - 161 km WNW of Port-Olry, Vanuatu
+### 6. M 5.2 - 63 km NNE of Lae, Papua New Guinea
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-10-25T03:45:50.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4s5
+- summary: Time 2026-10-25 03:29:10 UTC 2026-10-25 03:29:10 UTC at epicenter Location 6.174°S 147.166°E Depth 80.78 km (50.19 mi)
+
+### 7. M 5.1 - 161 km WNW of Port-Olry, Vanuatu
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-10-25T02:44:45.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r7
 - summary: Time 2026-10-25 02:06:10 UTC 2026-10-25 02:06:10 UTC at epicenter Location 14.454°S 165.703°E Depth 10.00 km (6.21 mi)
-
-### 7. M 5.1 - 166 km WNW of Port-Olry, Vanuatu
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-10-25T02:06:04.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r3
-- summary: Time 2026-10-25 01:46:23 UTC 2026-10-25 01:46:23 UTC at epicenter Location 14.385°S 165.686°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
