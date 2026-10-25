@@ -1,18 +1,18 @@
 # Senna Briefing
 
-_Generiert: 2026-10-25T02:07:51+00:00_
+_Generiert: 2026-10-25T02:33:27+00:00_
 
 ## Kurzlage
 
-5 neue relevante Treffer. Stärkstes Signal: „M 5.3 - 44 km ESE of Miyazaki, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+6 neue relevante Treffer. Stärkstes Signal: „M 6.5 - Bonin Islands, Japan region“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **USGS earthquake M6.9 - 197 km WNW of Port-Olry, Vanuatu** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4j2)
+- **USGS earthquake M6.5 - Bonin Islands, Japan region** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r9)
   - Quelle: USGS
-  - Zeit: `2026-10-24T02:31:28+00:00`
-  - Kurz: M6.9 - 197 km WNW of Port-Olry, Vanuatu. PAGER alert: green. Tsunami flag: 1.
+  - Zeit: `2026-10-25T02:09:23+00:00`
+  - Kurz: M6.5 - Bonin Islands, Japan region. PAGER alert: green. Tsunami flag: 1.
 - **CISA KEV: CVE-2026-114625 Arista VeloCloud Orchestrator** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-10-23`
@@ -85,6 +85,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **M 6.5 - Bonin Islands, Japan region** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r9)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-25T02:29:48.190+00:00`, fetched `2026-10-25T02:32:54+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - I Time 2026-10-25 02:09:23 UTC 2026-10-25 02:09:23 UTC at epicenter Location 27.795°N 139.618°E Depth 492.38 km (305.95 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.3 - 44 km ESE of Miyazaki, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4qq)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-25T00:35:10.771+00:00`, fetched `2026-10-25T00:54:33+00:00`
