@@ -73,6 +73,27 @@
     "id": "36a6253786a4a3cf5faf"
   },
   {
+    "title": "eMudhra事件でWebアプリ開発者が点検すべきこと - Qiita",
+    "url": "https://qiita.com/autotaker1984/items/ef99b5791fe799a4ca66",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-24T22:48:23+00:00",
+    "fetched_at": "2026-10-25T01:39:17+00:00",
+    "summary": "ブラウザがWebサイトにアクセスするとき、Webサーバは証明書チェーンの公開鍵と、サーバ証明書に基づく通信内容の署名を送信します。クライアントは、サーバ証明書から中間CA、信頼済みルートCAへと署名を辿ります。OSやブラウザには証明書ストアを管理する機能があり、そこで「信頼する」と設定した証明書に辿り着けた...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3bfb8dfa36dab665ae5b"
+  },
+  {
     "title": "eMudhra のインシデントは Web にとって何を意味するのか | blog.jxck.io",
     "url": "https://blog.jxck.io/entries/2026-10-25/emudhra.html",
     "source": "Hatena Bookmark Hotentry IT",

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-25T01:17:24+00:00_
+_Generiert: 2026-10-25T01:39:50+00:00_
 
 ## Kurzlage
 
-3 neue relevante Treffer. Stärkstes Signal: „M 5.3 - 44 km ESE of Miyazaki, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+4 neue relevante Treffer. Stärkstes Signal: „M 5.3 - 44 km ESE of Miyazaki, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -106,6 +106,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-24 23:39:07 UTC 2026-10-24 23:39:07 UTC at epicenter Location 13.889°S 165.604°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **eMudhra事件でWebアプリ開発者が点検すべきこと - Qiita** — Score 5, observation — [Quelle](https://qiita.com/autotaker1984/items/ef99b5791fe799a4ca66)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-24T22:48:23+00:00`, fetched `2026-10-25T01:39:17+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: ブラウザがWebサイトにアクセスするとき、Webサーバは証明書チェーンの公開鍵と、サーバ証明書に基づく通信内容の署名を送信します。クライアントは、サーバ証明書から中間CA、信頼済みルートCAへと署名を辿ります。OSやブラウザには証明書ストアを管理する機能があり、そこで「信頼する」と設定した証明書に辿り着けた...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **eMudhra のインシデントは Web にとって何を意味するのか | blog.jxck.io** — Score 5, observation — [Quelle](https://blog.jxck.io/entries/2026-10-25/emudhra.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-24T20:22:49+00:00`, fetched `2026-10-25T00:54:33+00:00`
