@@ -173,6 +173,42 @@
     "id": "db31dcfd487ae4ad8325"
   },
   {
+    "title": "M 4.9 - 17 km SE of Ambelókipoi, Greece",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4sm",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-25T05:41:41.805+00:00",
+    "fetched_at": "2026-10-25T05:42:29+00:00",
+    "summary": "DYFI? - II Time 2026-10-25 05:15:44 UTC 2026-10-25 05:15:44 UTC at epicenter Location 37.651°N 21.011°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "d0e72f68e8de24ff34d1"
+  },
+  {
     "title": "M 5.2 - 63 km NNE of Lae, Papua New Guinea",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4s5",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -315,6 +351,27 @@
       "LOW"
     ],
     "id": "36a6253786a4a3cf5faf"
+  },
+  {
+    "title": "思いつきが現実になる世界でこわい - 運河",
+    "url": "https://uiuret.hatenablog.com/entry/2026/10/25/080436",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-25T02:09:50+00:00",
+    "fetched_at": "2026-10-25T05:42:29+00:00",
+    "summary": "僕はプログラマーなのだが、最近は1行もプログラムを自分で書いていない。プログラムを書いてないどころか、ほとんど読んでいない。 仕事では最低限すべてのコードに目を通してレビューをやってはいるが、もはやその必要もあまりなく儀式的にやっているだけになっている。 AIで頭がおかしくなった、という記事を書いたの...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e56e5513b4daf6080350"
   },
   {
     "title": "eMudhra事件でWebアプリ開発者が点検すべきこと - Qiita",
