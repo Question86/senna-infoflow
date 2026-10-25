@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-10-25T22:20:26Z",
+  "generated_at": "2026-10-25T22:32:36Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -53,12 +53,12 @@
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     },
     {
-      "title": "M 4.5 - 74 km SSE of Onagawa Chō, Japan",
+      "title": "M 5.3 - Bonin Islands, Japan region",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     },
     {
-      "title": "M 4.8 - Bonin Islands, Japan region",
+      "title": "M 4.5 - 74 km SSE of Onagawa Chō, Japan",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     }
