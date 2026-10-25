@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-25T03:29:05Z",
+  "generated_at": "2026-10-25T03:48:59Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 14,
+    "dynamics": 16,
     "bands": {
       "strong": 4,
-      "watch": 5,
-      "quiet": 5
+      "watch": 6,
+      "quiet": 6
     },
     "bands_after_gate_recheck": {
       "strong": 4,
-      "watch": 5,
-      "quiet": 5
+      "watch": 6,
+      "quiet": 6
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 128.06,
+      "age_days": 128.08,
       "topics": [
         "ai"
       ],
@@ -51,7 +51,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T02:29:48.190+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -77,7 +77,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T02:52:20.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -102,7 +102,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T02:46:22.213+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -123,11 +123,36 @@
       "summary": "PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-10-25 02:24:02 UTC 2026-10-25 02:24:02 UTC at epicenter Location 15.013°S 167.269°E Depth 136.30 km (84.69 mi)"
     },
     {
+      "title": "M 5.2 - 63 km NNE of Lae, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4s5",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-25T03:45:50.040+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-25 03:29:10 UTC 2026-10-25 03:29:10 UTC at epicenter Location 6.174°S 147.166°E Depth 80.78 km (50.19 mi)"
+    },
+    {
       "title": "M 5.1 - 161 km WNW of Port-Olry, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T02:44:45.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -152,7 +177,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T02:06:04.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -177,7 +202,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4qm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T23:55:56.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -202,7 +227,7 @@
       "url": "https://katashin.info/slides/satisfying-ui-animation/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-24T05:49:49+00:00",
-      "age_days": 0.9,
+      "age_days": 0.92,
       "topics": [
         "general"
       ],
@@ -226,7 +251,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4qq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T00:35:10.771+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai",
         "disaster"
@@ -254,7 +279,7 @@
       "url": "https://blog.jxck.io/entries/2026-10-25/emudhra.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-24T20:22:49+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -278,7 +303,7 @@
       "url": "https://qiita.com/autotaker1984/items/ef99b5791fe799a4ca66",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-24T22:48:23+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "general"
       ],
@@ -298,11 +323,35 @@
       "summary": "ブラウザがWebサイトにアクセスするとき、Webサーバは証明書チェーンの公開鍵と、サーバ証明書に基づく通信内容の署名を送信します。クライアントは、サーバ証明書から中間CA、信頼済みルートCAへと署名を辿ります。OSやブラウザには証明書ストアを管理する機能があり、そこで「信頼する」と設定した証明書に辿り着けた..."
     },
     {
+      "title": "プロの味！簡単にして激ウマな豚汁の秘密 by こじまぽん助【分子調理学研究家】",
+      "url": "https://cookpad.com/jp/recipes/19944624?ref=search&search_term=%E3%83%97%E3%83%AD%E3%81%AE%E5%91%B3%EF%BC%81%E7%B0%A1%E5%8D%98%E3%81%AB%E3%81%97%E3%81%A6%E6%BF%80%E3%82%A6%E3%83%9E%E3%81%AA%E8%B1%9A%E6%B1%81%E3%81%AE%E7%A7%98%E5%AF%86",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-24T18:14:36+00:00",
+      "age_days": 0.4,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "食材 豚バラ肉 300g ごぼう 1本 にんにく 1片 生姜 1かけ 玉ねぎ 1個 にんじん 1本 大根 1/3本 こんにゃく 1枚 調味料 サラダ油 大さじ2 和風だし 小さじ2 料理酒 150ml みりん 大さじ2 水 ひたひた(500mlを目安に) みそ 大さじ2程度"
+    },
+    {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 127.03,
+      "age_days": 127.04,
       "topics": [
         "general"
       ],
@@ -327,7 +376,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 127.03,
+      "age_days": 127.04,
       "topics": [
         "general"
       ],
@@ -352,7 +401,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 127.03,
+      "age_days": 127.04,
       "topics": [
         "ai"
       ],
