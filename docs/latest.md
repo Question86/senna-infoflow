@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-25T04:49:09+00:00_
+_Generiert: 2026-10-25T04:56:34+00:00_
 
 ## Kurzlage
 
-12 neue relevante Treffer. Stärkstes Signal: „M 6.5 - Bonin Islands, Japan region“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+13 neue relevante Treffer. Stärkstes Signal: „M 6.5 - Bonin Islands, Japan region“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 ## Priorität Hoch
 
