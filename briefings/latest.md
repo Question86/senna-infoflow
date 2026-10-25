@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-25T07:50:38+00:00_
+_Generiert: 2026-10-25T07:55:39+00:00_
 
 ## Kurzlage
 
-20 neue relevante Treffer. Stärkstes Signal: „aws/agent-toolkit-for-aws“ aus GitHub Trending RSS All Languages Daily (Score 22, opportunity).
+21 neue relevante Treffer. Stärkstes Signal: „aws/agent-toolkit-for-aws“ aus GitHub Trending RSS All Languages Daily (Score 22, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -133,6 +133,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-10-25 02:24:02 UTC 2026-10-25 02:24:02 UTC at epicenter Location 15.013°S 167.269°E Depth 136.30 km (84.69 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 4.5 - 89 km SSE of Akutan, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vddzqy)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-25T07:55:28.116+00:00`, fetched `2026-10-25T07:55:11+00:00`
+  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: ShakeMap - III Time 2026-10-25 07:44:29 UTC 2026-10-25 07:44:29 UTC at epicenter Location 53.453°N 165.051°W Depth 0.00 km (0.00 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.6 - 50 km SW of Atiquipa, Peru** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4t4)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-25T07:36:58.040+00:00`, fetched `2026-10-25T07:43:17+00:00`
@@ -151,15 +160,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年10月24日Vue,アニメーション,インタラクションVue Fes Japan 2026 で行った発表のスライドです。スライド部分をクリックしてからキーボードの左右入力でページをめくれます。 参考リンク #スライド内のデモTweetbot のデモの実装を解説した記事
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.9 - 17 km SE of Ambelókipoi, Greece** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4sm)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-25T05:41:41.805+00:00`, fetched `2026-10-25T05:42:29+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: DYFI? - II Time 2026-10-25 05:15:44 UTC 2026-10-25 05:15:44 UTC at epicenter Location 37.651°N 21.011°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **luongnv89/claude-howto** — Score 9, observation — [Quelle](https://github.com/luongnv89/claude-howto)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-10-25T06:30:32+00:00`
