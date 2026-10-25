@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-25T20:46:54Z",
+  "generated_at": "2026-10-25T21:03:00Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 1,
       "strong": 8,
-      "watch": 18,
-      "quiet": 13
+      "watch": 19,
+      "quiet": 12
     },
     "bands_after_gate_recheck": {
       "strong": 9,
-      "watch": 18,
-      "quiet": 13
+      "watch": 19,
+      "quiet": 12
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://claude.com/ja/resources/articles/the-ai-native-sdlc-playbook",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-25T01:29:55+00:00",
-      "age_days": 0.8,
+      "age_days": 0.81,
       "topics": [
         "ai"
       ],
@@ -48,7 +48,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T09:27:11.040+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "disaster"
       ],
@@ -73,7 +73,7 @@
       "url": "https://github.com/aws/agent-toolkit-for-aws",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-25T06:30:32+00:00",
-      "age_days": 0.59,
+      "age_days": 0.61,
       "topics": [
         "ai"
       ],
@@ -100,7 +100,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 128.78,
+      "age_days": 128.79,
       "topics": [
         "ai"
       ],
@@ -129,7 +129,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T02:29:48.190+00:00",
-      "age_days": 0.76,
+      "age_days": 0.77,
       "topics": [
         "disaster"
       ],
@@ -155,7 +155,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4sv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T06:30:51.040+00:00",
-      "age_days": 0.59,
+      "age_days": 0.61,
       "topics": [
         "disaster"
       ],
@@ -180,7 +180,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T02:52:20.040+00:00",
-      "age_days": 0.75,
+      "age_days": 0.76,
       "topics": [
         "disaster"
       ],
@@ -205,7 +205,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T10:52:50.272+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "disaster"
       ],
@@ -230,7 +230,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T02:46:22.213+00:00",
-      "age_days": 0.75,
+      "age_days": 0.76,
       "topics": [
         "disaster"
       ],
@@ -255,7 +255,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4vb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T18:09:56.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -280,7 +280,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4v1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T17:36:35.040+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -305,7 +305,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T11:48:24.040+00:00",
-      "age_days": 0.37,
+      "age_days": 0.39,
       "topics": [
         "disaster"
       ],
@@ -330,7 +330,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ty",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T11:43:09.040+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "disaster"
       ],
@@ -355,7 +355,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T08:59:29.750+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "disaster"
       ],
@@ -380,7 +380,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4t8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T08:16:20.040+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "disaster"
       ],
@@ -405,7 +405,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vdearz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T07:59:57.936+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "disaster"
       ],
@@ -430,7 +430,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vddzqy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T07:55:28.116+00:00",
-      "age_days": 0.54,
+      "age_days": 0.55,
       "topics": [
         "disaster"
       ],
@@ -455,7 +455,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4t4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T07:36:58.040+00:00",
-      "age_days": 0.55,
+      "age_days": 0.56,
       "topics": [
         "disaster"
       ],
@@ -476,11 +476,36 @@
       "summary": "Time 2026-10-25 07:11:49 UTC 2026-10-25 07:11:49 UTC at epicenter Location 16.068°S 74.747°W Depth 26.45 km (16.44 mi)"
     },
     {
+      "title": "M 4.8 - 167 km WNW of Port-Olry, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4vy",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-25T20:49:14.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-25 20:30:42 UTC 2026-10-25 20:30:42 UTC at epicenter Location 14.207°S 165.773°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 5.2 - 59 km SW of Ashkāsham, Afghanistan",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4va",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T17:57:50.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -505,7 +530,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4s5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T03:45:50.040+00:00",
-      "age_days": 0.71,
+      "age_days": 0.72,
       "topics": [
         "disaster"
       ],
@@ -530,7 +555,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T02:44:45.040+00:00",
-      "age_days": 0.75,
+      "age_days": 0.76,
       "topics": [
         "disaster"
       ],
@@ -555,7 +580,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T02:06:04.040+00:00",
-      "age_days": 0.78,
+      "age_days": 0.79,
       "topics": [
         "disaster"
       ],
@@ -580,7 +605,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4qm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-24T23:55:56.040+00:00",
-      "age_days": 0.87,
+      "age_days": 0.88,
       "topics": [
         "disaster"
       ],
@@ -605,7 +630,7 @@
       "url": "https://katashin.info/slides/satisfying-ui-animation/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-24T05:49:49+00:00",
-      "age_days": 1.62,
+      "age_days": 1.63,
       "topics": [
         "general"
       ],
@@ -629,7 +654,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4qq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T00:35:10.771+00:00",
-      "age_days": 0.84,
+      "age_days": 0.85,
       "topics": [
         "ai",
         "disaster"
@@ -657,7 +682,7 @@
       "url": "https://togetter.com/li/2762609",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-25T09:36:44+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "general"
       ],
@@ -681,7 +706,7 @@
       "url": "https://yurinchi2525.com/20261025emdash/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-25T09:02:39+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "general"
       ],
@@ -705,7 +730,7 @@
       "url": "https://togetter.com/li/2762636",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-25T08:06:25+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "general"
       ],
@@ -729,7 +754,7 @@
       "url": "https://gigazine.net/news/20261025-seeing-theory/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-25T04:02:37+00:00",
-      "age_days": 0.7,
+      "age_days": 0.71,
       "topics": [
         "general"
       ],
@@ -753,7 +778,7 @@
       "url": "https://blog.jxck.io/entries/2026-10-25/emudhra.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-24T20:22:49+00:00",
-      "age_days": 1.02,
+      "age_days": 1.03,
       "topics": [
         "general"
       ],
@@ -777,7 +802,7 @@
       "url": "https://www.yomiuri.co.jp/national/20261024-GYT1T00360/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-24T20:11:22+00:00",
-      "age_days": 1.02,
+      "age_days": 1.04,
       "topics": [
         "general"
       ],
@@ -801,7 +826,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4sm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T05:41:41.805+00:00",
-      "age_days": 0.63,
+      "age_days": 0.64,
       "topics": [
         "ai",
         "disaster"
@@ -829,7 +854,7 @@
       "url": "https://www.itmedia.co.jp/business/articles/2610/24/news009.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-24T10:19:59+00:00",
-      "age_days": 1.44,
+      "age_days": 1.45,
       "topics": [
         "ai"
       ],
@@ -855,7 +880,7 @@
       "url": "https://github.com/luongnv89/claude-howto",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-25T06:30:32+00:00",
-      "age_days": 0.59,
+      "age_days": 0.61,
       "topics": [
         "ai"
       ],
@@ -881,7 +906,7 @@
       "url": "https://qiita.com/autotaker1984/items/ef99b5791fe799a4ca66",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-24T22:48:23+00:00",
-      "age_days": 0.92,
+      "age_days": 0.93,
       "topics": [
         "general"
       ],
@@ -905,7 +930,7 @@
       "url": "https://cookpad.com/jp/recipes/19944624?ref=search&search_term=%E3%83%97%E3%83%AD%E3%81%AE%E5%91%B3%EF%BC%81%E7%B0%A1%E5%8D%98%E3%81%AB%E3%81%97%E3%81%A6%E6%BF%80%E3%82%A6%E3%83%9E%E3%81%AA%E8%B1%9A%E6%B1%81%E3%81%AE%E7%A7%98%E5%AF%86",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-24T18:14:36+00:00",
-      "age_days": 1.11,
+      "age_days": 1.12,
       "topics": [
         "general"
       ],
@@ -929,7 +954,7 @@
       "url": "https://uiuret.hatenablog.com/entry/2026/10/25/080436",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-25T02:09:50+00:00",
-      "age_days": 0.78,
+      "age_days": 0.79,
       "topics": [
         "ai"
       ],
@@ -955,7 +980,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 127.75,
+      "age_days": 127.76,
       "topics": [
         "general"
       ],
@@ -971,7 +996,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 127.7d old signal"
+        "aging penalty -16.0 for 127.8d old signal"
       ],
       "summary": ""
     },
@@ -980,7 +1005,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 127.75,
+      "age_days": 127.76,
       "topics": [
         "general"
       ],
@@ -996,34 +1021,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 127.7d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題",
-      "url": "https://toyokeizai.net/articles/-/948348?display=b",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 127.75,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 127.7d old signal",
-        "single-source AI cap enforced after phrase recheck"
+        "aging penalty -16.0 for 127.8d old signal"
       ],
       "summary": ""
     }
