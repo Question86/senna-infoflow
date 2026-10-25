@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-25T11:44:50+00:00_
+_Generiert: 2026-10-25T11:51:13+00:00_
 
 ## Kurzlage
 
-29 neue relevante Treffer. Stärkstes Signal: „aws/agent-toolkit-for-aws“ aus GitHub Trending RSS All Languages Daily (Score 22, opportunity).
+31 neue relevante Treffer. Stärkstes Signal: „aws/agent-toolkit-for-aws“ aus GitHub Trending RSS All Languages Daily (Score 22, opportunity).
 
 ## Priorität Hoch
 
@@ -69,14 +69,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-10-25 02:24:02 UTC 2026-10-25 02:24:02 UTC at epicenter Location 15.013°S 167.269°E Depth 136.30 km (84.69 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.8 - 209 km ENE of Nagqu, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ty)
+- **M 5.1 - 199 km ENE of Nagqu, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tx)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-25T11:43:09.040+00:00`, fetched `2026-10-25T11:44:20+00:00`
+  - Zeit: published `2026-10-25T11:48:24.040+00:00`, fetched `2026-10-25T11:50:45+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-25 11:25:57 UTC 2026-10-25 11:25:57 UTC at epicenter Location 32.369°N 94.004°E Depth 10.00 km (6.21 mi)
+  - Kurz: Time 2026-10-25 11:24:14 UTC 2026-10-25 11:24:14 UTC at epicenter Location 32.370°N 93.887°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **なぜその UI アニメーションは気持ちいいのか？ (Vue Fes Japan 2026) - Katashin .info** — Score 11, observation — [Quelle](https://katashin.info/slides/satisfying-ui-animation/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -96,6 +96,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region south_korea: Samsung (+2.0)
   - Kurz: ぽらりす @11_Polaris_24 [訂正] 天井 ←誤 展示用←正 [その他] ガジェオタじゃないので知識がないです。 好きな機種はnothing phone 2です。 特に宣伝することがないので好きな曲を貼っておきます 尾崎豊 - 核(Core) youtu.be/11WfcKu5G5U?si… 2026-10-25 09:10:41 iPhone Duo - Apple（日本） iPhone Duo。iPhone史上...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **さよならWordPress。ゲ制工房は新時代のCMS、EmDashに移行しました。** — Score 9, observation — [Quelle](https://yurinchi2525.com/20261025emdash/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-25T09:02:39+00:00`, fetched `2026-10-25T11:50:45+00:00`
+  - Treffer: Hatena, hotentry, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Webentwicklung (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 「Posts」と「Pages」の違いEmDashの管理画面を開くと、記事を書く場所が「Posts」と「Pages」の2つに分かれています。WordPressでいう「投稿」と「固定ページ」にあたるものです。 Posts（投稿）：日々書いていくブログ記事。カテゴリーやタグを付けられて、記事一覧・RSS・カテゴリー別の一覧に並びます。公開日時を指...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **luongnv89/claude-howto** — Score 9, observation — [Quelle](https://github.com/luongnv89/claude-howto)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-10-25T06:30:32+00:00`
@@ -104,15 +113,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph demote tutorial, template (x0.45)
   - Kurz: A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. http://luongnv.com/claude-howto/ 🌐 Language / Ngôn ngữ / 语言 / Мова: English | Tiếng Việt | 中文 | Українська | 日本語 Master Claude Code in a Weekend Go from typing claude to orchestrating agents, hooks, skills, and MCP servers — with visual tutorials, copy-paste templates, and a g…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **リュウジはなぜ嫌われている人からはすごく嫌われているのか…リュウジが自分自身のアンチになる要素を解説、さらに自分に対してのアンチ発言も** — Score 5, observation — [Quelle](https://togetter.com/li/2762636)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-25T08:06:25+00:00`, fetched `2026-10-25T10:32:55+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: リュウジ@料理のおじさんバズレシピ @ore825 多分俺が料理研究家じゃなく普通に生きてたら絶対に俺のアンチになってたからわかる コメント欄に共感しかない 大した実力もないのに声がデカいし偉そうで腹立つんだよな たまたまネットでバズって人気でただけのド素人なのに謙虚さがないんだよ x.com/salmonmon1104/… 2026-...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
