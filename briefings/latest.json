@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-25T13:52:08+00:00",
-  "run_id": "2026-10-25T13:52:08+00:00",
+  "generated_at": "2026-10-25T13:57:12+00:00",
+  "run_id": "2026-10-25T13:57:12+00:00",
   "date": "2026-10-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 32
+      "configured_public_sources_only": 33
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 32,
-    "displayed_findings": 32,
+    "today_file_total": 33,
+    "displayed_findings": 33,
     "high": 0,
     "medium": 6,
-    "observe": 26,
+    "observe": 27,
     "source_errors": 0
   },
   "sections": {
@@ -841,6 +841,28 @@
           "LOW"
         ],
         "id": "1f4866b71459d78bc973"
+      },
+      {
+        "title": "AI ネイティブの SDLC プレイブック",
+        "url": "https://claude.com/ja/resources/articles/the-ai-native-sdlc-playbook",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-25T01:29:55+00:00",
+        "fetched_at": "2026-10-25T13:56:43+00:00",
+        "summary": "This playbook is also available for download — the same six stages, plays, and worked examples, laid out for reading offline or sharing with your team. コードはもはやボトルネックではありません。組織は 1 年前には想像もできない速度でコードを書くために AI を活用し始めましたが、コードを扱うプロセスは...",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "70a55fa5f5efe4529bbf"
       },
       {
         "title": "M 4.8 - 203 km NW of Port-Olry, Vanuatu",
@@ -1888,6 +1910,28 @@
       "id": "1f4866b71459d78bc973"
     },
     {
+      "title": "AI ネイティブの SDLC プレイブック",
+      "url": "https://claude.com/ja/resources/articles/the-ai-native-sdlc-playbook",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-25T01:29:55+00:00",
+      "fetched_at": "2026-10-25T13:56:43+00:00",
+      "summary": "This playbook is also available for download — the same six stages, plays, and worked examples, laid out for reading offline or sharing with your team. コードはもはやボトルネックではありません。組織は 1 年前には想像もできない速度でコードを書くために AI を活用し始めましたが、コードを扱うプロセスは...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "70a55fa5f5efe4529bbf"
+    },
+    {
       "title": "M 4.8 - 203 km NW of Port-Olry, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4qm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -2121,26 +2165,26 @@
   ],
   "new_findings": [
     {
-      "title": "「もうプロンプトは書かない」 Claude Code生みの親が明かす“ループエンジニアリング”の衝撃",
-      "url": "https://www.itmedia.co.jp/business/articles/2610/24/news009.html",
+      "title": "AI ネイティブの SDLC プレイブック",
+      "url": "https://claude.com/ja/resources/articles/the-ai-native-sdlc-playbook",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-24T10:19:59+00:00",
-      "fetched_at": "2026-10-25T13:51:39+00:00",
-      "summary": "「私はもうClaudeにプロンプトを打っていない。ループが走っていて、そのループがClaudeにプロンプトを打ち、何をすべきか判断している。私の仕事はループを書くことだ」――。 AIコーディングツールの代名詞となった「Claude Code」を生んだ米Anthropic（アンソロピック）のボリス・チェルニー（Boris Cherny）氏が、今春...",
+      "published_at": "2026-10-25T01:29:55+00:00",
+      "fetched_at": "2026-10-25T13:56:43+00:00",
+      "summary": "This playbook is also available for download — the same six stages, plays, and worked examples, laid out for reading offline or sharing with your team. コードはもはやボトルネックではありません。組織は 1 年前には想像もできない速度でコードを書くために AI を活用し始めましたが、コードを扱うプロセスは...",
       "matched_keywords": [
-        "AI Agents",
+        "AI/KI",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "057b11033ca5714aad74"
+      "id": "70a55fa5f5efe4529bbf"
     }
   ],
   "source_errors": [],
