@@ -37,6 +37,42 @@
     "id": "66c5063ac84781bedde7"
   },
   {
+    "title": "M 5.1 - 166 km WNW of Port-Olry, Vanuatu",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r3",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-25T02:06:04.040+00:00",
+    "fetched_at": "2026-10-25T02:07:19+00:00",
+    "summary": "Time 2026-10-25 01:46:23 UTC 2026-10-25 01:46:23 UTC at epicenter Location 14.385°S 165.686°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "1f4866b71459d78bc973"
+  },
+  {
     "title": "M 4.8 - 203 km NW of Port-Olry, Vanuatu",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4qm",
     "source": "USGS M4.5+ Earthquakes Past Hour",
