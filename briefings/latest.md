@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-25T02:57:57+00:00_
+_Generiert: 2026-10-25T03:11:14+00:00_
 
 ## Kurzlage
 
-9 neue relevante Treffer. Stärkstes Signal: „M 6.5 - Bonin Islands, Japan region“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+10 neue relevante Treffer. Stärkstes Signal: „M 6.5 - Bonin Islands, Japan region“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,6 +33,10 @@ _Generiert: 2026-10-25T02:57:57+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-20`
   - Kurz: Known exploited vulnerability. Added 2026-10-20. Due 2026-11-03. Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability
+- **GDACS: Green earthquake (Magnitude 6.2M, Depth:136.298km) in Vanuatu 25/10/2026 02:24 UTC, 110 thousand in MMI IV.** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573712)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6.2M, Depth:136.298km) in Vanuatu 25/10/2026 02:24 UTC, 110 thousand in MMI IV.
 - **GDACS: Green earthquake (Magnitude 6.5M, Depth:492.376km) in Bonin Islands, Japan Region 25/10/2026 02:09 UTC, No people affected in 100km.** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573709)
   - Quelle: GDACS
   - Zeit: ``
@@ -65,10 +69,6 @@ _Generiert: 2026-10-25T02:57:57+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu 24/10/2026 05:23 UTC, 2 thousand in MMI&gt;=III.
-- **GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu Islands 24/10/2026 04:12 UTC, [unknown].** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573528)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu Islands 24/10/2026 04:12 UTC, [unknown].
 
 ## Wirtschaft global
 
@@ -124,6 +124,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-10-25 02:24:02 UTC 2026-10-25 02:24:02 UTC at epicenter Location 15.013°S 167.269°E Depth 136.30 km (84.69 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **なぜその UI アニメーションは気持ちいいのか？ (Vue Fes Japan 2026) - Katashin .info** — Score 11, observation — [Quelle](https://katashin.info/slides/satisfying-ui-animation/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-24T05:49:49+00:00`, fetched `2026-10-25T03:10:31+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 2026年10月24日Vue,アニメーション,インタラクションVue Fes Japan 2026 で行った発表のスライドです。スライド部分をクリックしてからキーボードの左右入力でページをめくれます。 参考リンク #スライド内のデモTweetbot のデモの実装を解説した記事
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.1 - 161 km WNW of Port-Olry, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r7)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-25T02:44:45.040+00:00`, fetched `2026-10-25T02:49:55+00:00`
