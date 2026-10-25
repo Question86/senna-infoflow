@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-25T10:46:57Z",
+  "generated_at": "2026-10-25T11:03:03Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 4.6 - Volcano Islands, Japan region” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T09:27:11.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -40,7 +40,7 @@
       "url": "https://github.com/aws/agent-toolkit-for-aws",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-25T06:30:32+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -67,7 +67,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 128.37,
+      "age_days": 128.38,
       "topics": [
         "ai"
       ],
@@ -96,7 +96,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T02:29:48.190+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "disaster"
       ],
@@ -122,7 +122,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4sv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T06:30:51.040+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -147,7 +147,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T02:52:20.040+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "disaster"
       ],
@@ -168,11 +168,36 @@
       "summary": "Time 2026-10-25 02:36:32 UTC 2026-10-25 02:36:32 UTC at epicenter Location 27.687°N 139.739°E Depth 498.88 km (309.99 mi)"
     },
     {
+      "title": "M 5.4 - 33 km ESE of Ambunti, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tq",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-25T10:52:50.272+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 21.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "PAGER - GREEN ShakeMap - IV Time 2026-10-25 10:30:27 UTC 2026-10-25 10:30:27 UTC at epicenter Location 4.364°S 143.084°E Depth 72.35 km (44.96 mi)"
+    },
+    {
       "title": "M 6.2 - 21 km E of Port-Olry, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4rf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T02:46:22.213+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "disaster"
       ],
@@ -197,7 +222,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T08:59:29.750+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -222,7 +247,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4t8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T08:16:20.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -247,7 +272,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vdearz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T07:59:57.936+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -272,31 +297,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vddzqy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-25T07:55:28.116+00:00",
-      "age_days": 0.12,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "ShakeMap - III Time 2026-10-25 07:44:29 UTC 2026-10-25 07:44:29 UTC at epicenter Location 53.453°N 165.051°W Depth 0.00 km (0.00 mi)"
-    },
-    {
-      "title": "M 4.6 - 50 km SW of Atiquipa, Peru",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4t4",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-25T07:36:58.040+00:00",
       "age_days": 0.13,
       "topics": [
         "disaster"
@@ -315,7 +315,7 @@
         "early terms: earthquake",
         "high terms: 10"
       ],
-      "summary": "Time 2026-10-25 07:11:49 UTC 2026-10-25 07:11:49 UTC at epicenter Location 16.068°S 74.747°W Depth 26.45 km (16.44 mi)"
+      "summary": "ShakeMap - III Time 2026-10-25 07:44:29 UTC 2026-10-25 07:44:29 UTC at epicenter Location 53.453°N 165.051°W Depth 0.00 km (0.00 mi)"
     }
   ],
   "read_order": [
@@ -327,8 +327,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 7,
-      "watch": 5
+      "strong": 8,
+      "watch": 4
     }
   }
 }
