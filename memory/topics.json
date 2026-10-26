@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-26T19:42:46+00:00",
+  "generated_at": "2026-10-26T19:55:38+00:00",
   "topics": {
     "ai": [
       {
@@ -200,6 +200,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4yr"
       },
       {
+        "title": "M 4.9 - 100 km E of La Tirana, Chile",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-26T19:52:13.040+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttbh"
+      },
+      {
         "title": "M 4.6 - 81 km SSE of Akutan, Alaska",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-26T11:48:30.831+00:00",
@@ -240,13 +247,6 @@
         "published_at": "2026-10-26T01:38:29.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4xa"
-      },
-      {
-        "title": "Vulnérabilité dans MongoDB PHP Driver (21 octobre 2026)",
-        "source": "CERT-FR Avis de sécurité",
-        "published_at": "2026-10-21T00:00:00+00:00",
-        "relevance_score": 8,
-        "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1347/"
       }
     ],
     "geopolitics": [

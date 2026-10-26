@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-26T19:42:46+00:00_
+_Generiert: 2026-10-26T19:55:38+00:00_
 
 ## Kurzlage
 
-80 neue relevante Treffer. Stärkstes Signal: „[MàJ] Vulnérabilité dans Fortinet FortiOS (09 février 2024)“ aus CERT-FR Alertes (Score 20, risk).
+81 neue relevante Treffer. Stärkstes Signal: „[MàJ] Vulnérabilité dans Fortinet FortiOS (09 février 2024)“ aus CERT-FR Alertes (Score 20, risk).
 
 ## Priorität Hoch
 
@@ -231,6 +231,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); CERT-FR (+2.0); alerte (+2.0); vulnérabilité (+2.5)
   - Kurz: Le 1 juillet 2024, OpenSSH a publié un avis de sécurité concernant la vulnérabilité critique CVE-2024-6387. Cette vulnérabilité permet à un attaquant non authentifié d'exécuter du code arbitraire à distance avec les privilèges *root*. L'éditeur précise que les versions 8.5p1 à 9.7p1 sont...
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 4.9 - 100 km E of La Tirana, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttbh)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-26T19:52:13.040+00:00`, fetched `2026-10-26T19:55:10+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-26 19:36:16 UTC 2026-10-26 19:36:16 UTC at epicenter Location 20.344°S 68.690°W Depth 119.52 km (74.27 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.6 - 81 km SSE of Akutan, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4z7)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-26T11:48:30.831+00:00`, fetched `2026-10-26T12:30:49+00:00`
@@ -276,15 +285,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
   - Kurz: De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.5 - 74 km SE of Rasht, Tajikistan** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttb5)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-26T18:29:32.040+00:00`, fetched `2026-10-26T18:43:04+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-26 18:07:04 UTC 2026-10-26 18:07:04 UTC at epicenter Location 38.644°N 71.076°E Depth 47.35 km (29.42 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen
 
