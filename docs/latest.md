@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-26T03:01:54+00:00_
+_Generiert: 2026-10-26T03:29:03+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „How a 39-store retail chain in Laos moved from Excel to AI agents“ aus e27 Asia Startup and Tech Feed (Score 17, opportunity).
+12 neue relevante Treffer. Stärkstes Signal: „How a 39-store retail chain in Laos moved from Excel to AI agents“ aus e27 Asia Startup and Tech Feed (Score 17, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -60,6 +60,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 私は普段から5種類のコーディングエージェントを併用しています。 人間が5つの画面を行き来するのではなく、Claude Codeを窓口にして他のエージェントを呼び出しています。 この記事では、なぜ私がそのような使い方をしているのか、それぞれどう使い分けているのかを解説します。 ※アウトプットの品質などは主観を含みま...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Ailytics bags US$7.4M Series A to make old CCTV cameras earn their keep** — Score 9, observation — [Quelle](https://e27.co/ailytics-bags-us7-4m-series-a-to-make-old-cctv-cameras-earn-their-keep-20261026/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-26T03:11:35+00:00`, fetched `2026-10-26T03:28:23+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Most industrial CCTV cameras lead a thankless life. They record everything, are watched by almost no one, and only become important after something has gone wrong, when their footage turns into evidence rather than prevention. Singapore-based Ailytics has built a business on reversing that order. The vision AI startup has raised US$7.4 million in an […] The post Ailytics bags US$7.4M Series A to make old CCTV camera…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Japan’s innovation problem is execution, and Southeast Asian startups are built for it** — Score 9, observation — [Quelle](https://e27.co/japans-innovation-problem-is-execution-and-southeast-asian-startups-are-built-for-it-20261023/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-26T02:00:37+00:00`, fetched `2026-10-26T02:16:53+00:00`
@@ -78,23 +87,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-26 01:22:20 UTC 2026-10-26 01:22:20 UTC at epicenter Location 13.880°S 165.583°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Youth brain drain: A hidden threat in Indonesia’s agriculture sector** — Score 7, observation — [Quelle](https://e27.co/youth-brain-drain-a-hidden-threat-in-indonesias-agriculture-sector-20261023/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-26T03:00:58+00:00`, fetched `2026-10-26T03:01:24+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)
-  - Kurz: Indonesia is losing its farmers. According to Statistics Indonesia (BPS), the number of farmers dropped from 31.7 million in 2013 to 29.3 million in 2023. That is a drop of about 7.5 per cent in ten years. Many of them moved to other jobs, such as construction work, factory work, or selling in the market, […] The post Youth brain drain: A hidden threat in Indonesia’s agriculture sector appeared first on e27 .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Google、プライバシーポリシーに「Gmail」「Googleフォト」のデータを広告に使う例外を追加 回避方法は** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2610/26/2000002570/)
+- **月の利益はほぼマイナス…4年半続けた飲食店を手放した経営者が語る、失敗と教訓 - おなじみ丨近くの店から、なじみの店へ。** — Score 5, observation — [Quelle](https://onaji.me/entry/2026/10/26)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-25T23:31:21+00:00`, fetched `2026-10-26T01:57:14+00:00`
+  - Zeit: published `2026-10-26T02:00:08+00:00`, fetched `2026-10-26T03:28:23+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 「コンテンツや広告など、カスタマイズしたサービスの提供」の項目にも記述が追加された。検索や「Gemini」アプリなどに、GoogleフォトやGmail、ドライブなどのデータへのアクセスを許可できること、その場合はアクセスする側のサービスのポリシーと設定が適用されることを説明している。例として、検索はアクセスを許可...
+  - Kurz: 東京・水天宮前に「ワインと鍋」を開業、その後売却したすてぃおさんに、飲食店経営の難しさを伺いました。 飲食店経営の成功談は数多くありますが、資金繰りの苦労や「店を続けるか、手放すか」というシビアな判断の裏側について、経営者が自ら語る機会はそう多くありません。 2021年12月、東京・水天宮前に開業した「...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
@@ -105,3 +105,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `twcert_security_news` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)

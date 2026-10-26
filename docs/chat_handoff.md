@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-26T03:01:54+00:00_
+_Generated: 2026-10-26T03:29:03+00:00_
 
 ## Status
-- status: `normal`
-- findings: `10`
+- status: `warning`
+- findings: `12`
 
 ## Top Signals
 
@@ -43,11 +43,11 @@ _Generated: 2026-10-26T03:01:54+00:00_
 - url: https://zenn.dev/rimon/articles/45c1fd2f015af8
 - summary: 私は普段から5種類のコーディングエージェントを併用しています。 人間が5つの画面を行き来するのではなく、Claude Codeを窓口にして他のエージェントを呼び出しています。 この記事では、なぜ私がそのような使い方をしているのか、それぞれどう使い分けているのかを解説します。 ※アウトプットの品質などは主観を含みま...
 
-### 6. Japan’s innovation problem is execution, and Southeast Asian startups are built for it
+### 6. Ailytics bags US$7.4M Series A to make old CCTV cameras earn their keep
 - source: e27 Asia Startup and Tech Feed
 - score: `9`
-- published: `2026-10-26T02:00:37+00:00`
-- url: https://e27.co/japans-innovation-problem-is-execution-and-southeast-asian-startups-are-built-for-it-20261023/
-- summary: Japan has industrial expertise and established corporate networks. Southeast Asia has startups building digital products for fast-changing markets. The opportunity lies in connecting these strengths, not simply exporting Japanese technology or selling into So…
+- published: `2026-10-26T03:11:35+00:00`
+- url: https://e27.co/ailytics-bags-us7-4m-series-a-to-make-old-cctv-cameras-earn-their-keep-20261026/
+- summary: Most industrial CCTV cameras lead a thankless life. They record everything, are watched by almost no one, and only become important after something has gone wrong, when their footage turns into evidence rather than prevention. Singapore-based Ailytics has bui…
 
 END OF DOCUMENT
