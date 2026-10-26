@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-26T12:31:17+00:00_
+_Generated: 2026-10-26T14:18:28+00:00_
 
 ## Status
 - status: `normal`
-- findings: `45`
+- findings: `54`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-10-26T12:31:17+00:00_
 - url: https://github.com/makecindy/cindy
 - summary: Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 https://cindy.app English · 简体中文 🌐 cindy.app · ⬇️ Download Cindy is an open-source AI agent that works out of the box. She brings multiple harnesses, models and…
 
-### 8. GlobalFoundries turns its Singapore fabs into a test bed for an AI-run control room
+### 8. Singapore’s US$59M grid fund bets on cheaper hydrogen and tougher tropical solar panels
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
-- published: `2026-10-26T11:30:40+00:00`
-- url: https://e27.co/globalfoundries-turns-its-singapore-fabs-into-a-test-bed-for-an-ai-run-control-room-20261026/
-- summary: When a chip plant is running close to full tilt, a failing chiller or a slow gas leak is not a maintenance ticket. It is lost output that cannot easily be made up elsewhere. That is the problem GlobalFoundries (GF) says it is tackling in Singapore. The New Yo…
+- published: `2026-10-26T12:36:06+00:00`
+- url: https://e27.co/singapores-us59m-grid-fund-bets-on-cheaper-hydrogen-and-tougher-tropical-solar-panels-20261026/
+- summary: Singapore has a power problem that no amount of rooftop solar will fix. The city-state generates about 95 per cent of its electricity from imported natural gas. It has little spare land for solar farms, no rivers for hydropower and not much wind. Every decarb…
 
 END OF DOCUMENT
