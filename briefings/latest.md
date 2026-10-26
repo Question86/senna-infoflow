@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-26T11:10:07+00:00_
+_Generiert: 2026-10-26T11:29:14+00:00_
 
 ## Kurzlage
 
@@ -57,10 +57,6 @@ _Generiert: 2026-10-26T11:10:07+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.1M, Depth:116km) in Vanuatu 25/10/2026 02:24 UTC, 110 thousand in MMI IV.
-- **USGS earthquake M5.5 - 283 km E of Levuka, Fiji** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4yr)
-  - Quelle: USGS
-  - Zeit: `2026-10-26T10:13:01+00:00`
-  - Kurz: M5.5 - 283 km E of Levuka, Fiji. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
