@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-26T19:48:56Z",
+  "generated_at": "2026-10-26T20:03:24Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] OPNsense: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2800",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T12:59:15+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4116",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T07:19:13+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -65,7 +65,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3241",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T08:34:12+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "security"
       ],
@@ -91,7 +91,7 @@
       "url": "https://github.com/makecindy/cindy",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-26T05:58:49+00:00",
-      "age_days": 0.58,
+      "age_days": 0.59,
       "topics": [
         "ai"
       ],
@@ -118,7 +118,7 @@
       "url": "https://jvn.jp/vu/JVNVU96549652/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-26T13:00:00+09:00",
-      "age_days": 0.66,
+      "age_days": 0.67,
       "topics": [
         "security"
       ],
@@ -144,7 +144,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3176",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T12:29:45+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -170,7 +170,7 @@
       "url": "https://jvn.jp/jp/JVN75668103/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-26T12:00:00+09:00",
-      "age_days": 0.7,
+      "age_days": 0.71,
       "topics": [
         "security"
       ],
@@ -196,7 +196,7 @@
       "url": "https://jvn.jp/vu/JVNVU97400824/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-26T15:00:00+09:00",
-      "age_days": 0.58,
+      "age_days": 0.59,
       "topics": [
         "security"
       ],
@@ -221,7 +221,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4121",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T10:54:12+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "security"
       ],
@@ -246,7 +246,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4019",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T07:56:13+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "security"
       ],
@@ -271,7 +271,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4120",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T07:19:13+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -296,7 +296,7 @@
       "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-004/",
       "source": "CERT-FR Alertes",
       "published_at": "2024-02-09T00:00:00+00:00",
-      "age_days": 990.83,
+      "age_days": 990.84,
       "topics": [
         "ai",
         "security",
