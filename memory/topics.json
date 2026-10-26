@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-26T11:29:14+00:00",
+  "generated_at": "2026-10-26T11:44:43+00:00",
   "topics": {
     "ai": [
       {
@@ -24,6 +24,13 @@
         "published_at": null,
         "relevance_score": 13,
         "url": "https://github.com/makecindy/cindy"
+      },
+      {
+        "title": "GlobalFoundries turns its Singapore fabs into a test bed for an AI-run control room",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-26T11:30:40+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/globalfoundries-turns-its-singapore-fabs-into-a-test-bed-for-an-ai-run-control-room-20261026/"
       },
       {
         "title": "Googleの圧縮形式「Brotli」に深刻な脆弱性「HTTP2Shell」、Web関連に幅広く影響／OpenAIが発見した「Node2Shell」の影響が拡大、認証なしでリモートコード実行のおそれ",
@@ -66,13 +73,6 @@
         "published_at": "2026-10-26T01:54:11+00:00",
         "relevance_score": 5,
         "url": "https://ascii.jp/elem/000/004/445/4445534/"
-      },
-      {
-        "title": "Google、プライバシーポリシーに「Gmail」「Googleフォト」のデータを広告に使う例外を追加 回避方法は",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-25T23:31:21+00:00",
-        "relevance_score": 5,
-        "url": "https://www.itmedia.co.jp/news/article/2610/26/2000002570/"
       }
     ],
     "security": [
@@ -177,6 +177,13 @@
         "url": "https://zenn.dev/rimon/articles/45c1fd2f015af8"
       },
       {
+        "title": "M 5.0 - 218 km NW of Port-Olry, Vanuatu",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-26T11:34:36.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4z6"
+      },
+      {
         "title": "M 4.8 - 182 km NW of Port-Olry, Vanuatu",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-26T05:16:27.040+00:00",
@@ -210,13 +217,6 @@
         "published_at": "2026-10-26T08:08:37+00:00",
         "relevance_score": 5,
         "url": "https://tech.classi.jp/entry/2026/10/26/163000"
-      },
-      {
-        "title": "GMO不正アクセス 「能動的サイバー防御」より先にやるべきことは：朝日新聞",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-26T07:32:00+00:00",
-        "relevance_score": 5,
-        "url": "https://www.asahi.com/articles/ASVBV1JK7VBVULZU002M.html"
       }
     ],
     "economy": [

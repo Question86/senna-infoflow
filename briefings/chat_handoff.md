@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-26T11:29:14+00:00_
+_Generated: 2026-10-26T11:44:43+00:00_
 
 ## Status
 - status: `normal`
-- findings: `40`
+- findings: `42`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-10-26T11:29:14+00:00_
 - url: https://github.com/makecindy/cindy
 - summary: Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 https://cindy.app English · 简体中文 🌐 cindy.app · ⬇️ Download Cindy is an open-source AI agent that works out of the box. She brings multiple harnesses, models and…
 
-### 8. Googleの圧縮形式「Brotli」に深刻な脆弱性「HTTP2Shell」、Web関連に幅広く影響／OpenAIが発見した「Node2Shell」の影響が拡大、認証なしでリモートコード実行のおそれ
-- source: Hatena Bookmark Hotentry IT
+### 8. GlobalFoundries turns its Singapore fabs into a test bed for an AI-run control room
+- source: e27 Asia Startup and Tech Feed
 - score: `12`
-- published: `2026-10-25T23:08:21+00:00`
-- url: https://forest.watch.impress.co.jp/docs/news/2151000.html
-- summary: Googleの圧縮形式「Brotli」に深刻な脆弱性「HTTP2Shell」、Web関連に幅広く影響／OpenAIが発見した「Node2Shell」の影響が拡大、認証なしでリモートコード実行のおそれ
+- published: `2026-10-26T11:30:40+00:00`
+- url: https://e27.co/globalfoundries-turns-its-singapore-fabs-into-a-test-bed-for-an-ai-run-control-room-20261026/
+- summary: When a chip plant is running close to full tilt, a failing chiller or a slow gas leak is not a maintenance ticket. It is lost output that cannot easily be made up elsewhere. That is the problem GlobalFoundries (GF) says it is tackling in Singapore. The New Yo…
 
 END OF DOCUMENT
