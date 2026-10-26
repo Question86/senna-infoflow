@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-26T10:04:38+00:00_
+_Generiert: 2026-10-26T10:26:09+00:00_
 
 ## Kurzlage
 
-35 neue relevante Treffer. Stärkstes Signal: „How a 39-store retail chain in Laos moved from Excel to AI agents“ aus e27 Asia Startup and Tech Feed (Score 17, opportunity).
+37 neue relevante Treffer. Stärkstes Signal: „How a 39-store retail chain in Laos moved from Excel to AI agents“ aus e27 Asia Startup and Tech Feed (Score 17, opportunity).
 
 ## Priorität Hoch
 
@@ -123,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Googleの圧縮形式「Brotli」に深刻な脆弱性「HTTP2Shell」、Web関連に幅広く影響／OpenAIが発見した「Node2Shell」の影響が拡大、認証なしでリモートコード実行のおそれ
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **AI models cost more when you don’t use English** — Score 10, observation — [Quelle](https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-10-26T10:00:22+00:00`, fetched `2026-10-26T10:25:36+00:00`
+  - Treffer: AI/KI, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Public Health (+5.0); recent (+1.0)
+  - Kurz: Some languages require far more tokens for AI models to process, raising costs and reducing context for the people who use them.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Bitcoin’s macro reset: Reclaim US$80,000 before the Fed speaks?** — Score 10, observation — [Quelle](https://e27.co/bitcoins-macro-reset-reclaim-us80000-before-the-fed-speaks-20261026/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-26T04:17:18+00:00`, fetched `2026-10-26T04:42:22+00:00`
@@ -185,6 +194,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Frank Elderson: Taking action for nature – investing in economic resilience and prosperity
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Brotli-Decoder-Lücke nicht nur in Node.js, sondern auch in Bun, Python und mehr** — Score 7, observation — [Quelle](https://www.heise.de/news/Brotli-Decoder-Luecke-nicht-nur-in-Node-js-sondern-auch-in-Bun-Python-und-mehr-11499975.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-10-26T10:04:00.000+00:00`, fetched `2026-10-26T10:25:36+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Die zunächst als „node2shell“ genannte Lücke im Brotli-Decoder von Google betrifft weitere Software. Admins sollten zügig updaten.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Angriffe auf Arista VeloCloud und Collabora/Nextcloud beobachtet** — Score 7, observation — [Quelle](https://www.heise.de/news/Angriffe-auf-Arista-VeloCloud-und-Collabora-Nextcloud-beobachtet-11499615.html)
   - Quelle: heise Security Alerts / `rss`

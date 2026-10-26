@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-26T10:04:38+00:00",
+  "generated_at": "2026-10-26T10:26:09+00:00",
   "topics": {
     "ai": [
       {
@@ -31,6 +31,13 @@
         "published_at": "2026-10-25T23:08:21+00:00",
         "relevance_score": 12,
         "url": "https://forest.watch.impress.co.jp/docs/news/2151000.html"
+      },
+      {
+        "title": "AI models cost more when you don’t use English",
+        "source": "Rest of World Global Tech Feed",
+        "published_at": "2026-10-26T10:00:22+00:00",
+        "relevance_score": 10,
+        "url": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
       },
       {
         "title": "Bitcoin’s macro reset: Reclaim US$80,000 before the Fed speaks?",
@@ -66,13 +73,6 @@
         "published_at": "2026-10-25T23:31:21+00:00",
         "relevance_score": 5,
         "url": "https://www.itmedia.co.jp/news/article/2610/26/2000002570/"
-      },
-      {
-        "title": "pollen-robotics/microduck",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 5,
-        "url": "https://github.com/pollen-robotics/microduck"
       }
     ],
     "security": [
@@ -124,6 +124,13 @@
         "published_at": "2026-10-26T07:19:13+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4116"
+      },
+      {
+        "title": "Brotli-Decoder-Lücke nicht nur in Node.js, sondern auch in Bun, Python und mehr",
+        "source": "heise Security Alerts",
+        "published_at": "2026-10-26T10:04:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Brotli-Decoder-Luecke-nicht-nur-in-Node-js-sondern-auch-in-Bun-Python-und-mehr-11499975.html"
       },
       {
         "title": "Angriffe auf Arista VeloCloud und Collabora/Nextcloud beobachtet",
@@ -272,6 +279,13 @@
         "published_at": "2026-10-26T05:00:00+00:00",
         "relevance_score": 8,
         "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261026~d903d7ad85.en.html"
+      },
+      {
+        "title": "Brotli-Decoder-Lücke nicht nur in Node.js, sondern auch in Bun, Python und mehr",
+        "source": "heise Security Alerts",
+        "published_at": "2026-10-26T10:04:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Brotli-Decoder-Luecke-nicht-nur-in-Node-js-sondern-auch-in-Bun-Python-und-mehr-11499975.html"
       },
       {
         "title": "pollen-robotics/microduck",
