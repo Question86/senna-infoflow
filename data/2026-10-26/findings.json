@@ -174,6 +174,27 @@
     "id": "41227f3a41a6bd2569c1"
   },
   {
+    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+    "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-10-26T13:45:00+00:00",
+    "fetched_at": "2026-10-26T21:51:06+00:00",
+    "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+    "matched_keywords": [
+      "OpenAI",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "OpenAI (+7.5); Security (+7.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "21025e905f3d1c12ba0e"
+  },
+  {
     "title": "[UPDATE] [mittel] Red Hat Enterprise Linux iperf3: Schwachstelle ermöglicht Denial of Service",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4121",
     "source": "BSI CERT-Bund Security Advisories",
@@ -1491,6 +1512,26 @@
     "id": "6c9dd2546f30e1c3fd9e"
   },
   {
+    "title": "Working with academic communities to build scientific understanding",
+    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-10-26T00:00:00+00:00",
+    "fetched_at": "2026-10-26T21:51:06+00:00",
+    "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+    "matched_keywords": [
+      "OpenAI"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "OpenAI (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "83411467a9162d1766a9"
+  },
+  {
     "title": "[UPDATE] [hoch] rclone: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3196",
     "source": "BSI CERT-Bund Security Advisories",
@@ -1698,6 +1739,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "2064e00d5e4302bc5293"
+  },
+  {
+    "title": "「ゲームを勝手に合体Mod」などAIゲーム改造が暴走するなか、Claudeに“こっそり制限強化”疑惑浮上。ゲームの中身が丸裸、逆コンパイル流行に歯止めか - AUTOMATON",
+    "url": "https://automaton-media.com/articles/newsjp/20261026-475703/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-26T11:57:14+00:00",
+    "fetched_at": "2026-10-26T21:51:06+00:00",
+    "summary": "AIの進化に伴い、逆コンパイルをはじめとするリバースエンジニアリングを用いた権利侵害行為が世界を揺るがしている。一方で、Anthropicの「Claude Opus 5.5」をはじめ、現在提供されている一部のAIモデルでは、そうした行為に加担する作業をブロックするケースが報告されはじめている。 Anthropicは対話型AI「Claude」...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b474f11b764117fe48a8"
   },
   {
     "title": "「年齢は合ってますが、人間ではありません」 6歳の飼い猫に届いた“進研ゼミの案内” なぜ届いたのかベネッセに聞いた",

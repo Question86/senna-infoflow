@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-26T21:45:32+00:00_
+_Generiert: 2026-10-26T21:51:39+00:00_
 
 ## Kurzlage
 
-83 neue relevante Treffer. Stärkstes Signal: „[MàJ] Vulnérabilité dans Fortinet FortiOS (09 février 2024)“ aus CERT-FR Alertes (Score 20, risk).
+86 neue relevante Treffer. Stärkstes Signal: „[MàJ] Vulnérabilité dans Fortinet FortiOS (09 février 2024)“ aus CERT-FR Alertes (Score 20, risk).
 
 ## Priorität Hoch
 
@@ -57,6 +57,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: Googleのデータ圧縮アルゴリズムBrotliのC言語実装における脆弱性（ CVE-2026-111497 ）に対するアドバイザリが公開されました。 本脆弱性は「HTTP2Shell」や「Node2Shell」とも呼ばれています。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases** — Score 16, observation — [Quelle](https://openai.com/index/gpt-6-1-sol-coderabbit-code-security)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-26T13:45:00+00:00`, fetched `2026-10-26T21:51:06+00:00`
+  - Treffer: OpenAI, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); Security (+7.5); recent (+1.0)
+  - Kurz: CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [mittel] Red Hat Enterprise Linux iperf3: Schwachstelle ermöglicht Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4121)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-10-26T10:54:12+00:00`, fetched `2026-10-26T10:57:23+00:00`
@@ -137,15 +146,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); CERT-FR (+2.0); alerte (+2.0); attaque (+2.0); vulnérabilité (+2.5)
   - Kurz: Le 24 avril 2024, Cisco a publié trois avis de sécurité concernant des vulnérabilités affectant les équipements de sécurité ASA et FTD. Deux d'entre eux concernent les vulnérabilités CVE-2024-20353 et CVE-2024-20359 qui sont activement exploitées dans le cadre d'attaques ciblées. La vulnérabilité...
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[MàJ] Vulnérabilité dans Palo Alto Networks GlobalProtect (12 avril 2024)** — Score 14, risk — [Quelle](https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-006/)
-  - Quelle: CERT-FR Alertes / `rss`
-  - Zeit: published `2024-04-12T00:00:00+00:00`, fetched `2026-10-26T16:15:26+00:00`
-  - Treffer: alerte, attaque, CERT-FR, Security, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); CERT-FR (+2.0); alerte (+2.0); attaque (+2.0); vulnérabilité (+2.5)
-  - Kurz: \[Mise à jour du 10 mai 2024\] Le CERT-FR est intervenu pour le traitement d'une compromission par rançongiciel au sein d'une entité française. Dans le cadre de cette attaque, la vulnérabilité a été exploitée pour ensuite réaliser une latéralisation dans le système d'information de la victime et...
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
