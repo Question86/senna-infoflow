@@ -1,19 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-26T22:38:02Z",
+  "generated_at": "2026-10-26T22:49:51Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
+      "extreme": 1,
       "krass": 15,
       "strong": 19,
-      "watch": 6
+      "watch": 5
     },
     "bands_after_gate_recheck": {
       "krass": 2,
-      "strong": 31,
-      "watch": 7
+      "strong": 32,
+      "watch": 6
     }
   },
   "top_dynamics": [
@@ -22,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2800",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T12:59:15+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "security"
       ],
@@ -47,7 +48,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4116",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T07:19:13+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "security"
       ],
@@ -72,7 +73,7 @@
       "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-006/",
       "source": "CERT-FR Alertes",
       "published_at": "2024-04-12T00:00:00+00:00",
-      "age_days": 927.94,
+      "age_days": 927.95,
       "topics": [
         "ai",
         "security"
@@ -90,7 +91,7 @@
       "why": [
         "high terms: 10, palo, alto",
         "security high-signal: 10, palo, alto",
-        "aging penalty -8.0 for 927.9d old signal"
+        "aging penalty -8.0 for 928.0d old signal"
       ],
       "summary": "\\[Mise à jour du 10 mai 2024\\] Le CERT-FR est intervenu pour le traitement d'une compromission par rançongiciel au sein d'une entité française. Dans le cadre de cette attaque, la vulnérabilité a été exploitée pour ensuite réaliser une latéralisation dans le système d'information de la victime et..."
     },
@@ -99,7 +100,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0987",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T12:29:47+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -123,7 +124,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1346/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-21T00:00:00+00:00",
-      "age_days": 5.94,
+      "age_days": 5.95,
       "topics": [
         "ai",
         "security"
@@ -149,7 +150,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1351/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-21T00:00:00+00:00",
-      "age_days": 5.94,
+      "age_days": 5.95,
       "topics": [
         "ai",
         "security"
@@ -175,7 +176,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1350/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-21T00:00:00+00:00",
-      "age_days": 5.94,
+      "age_days": 5.95,
       "topics": [
         "ai",
         "security"
@@ -201,7 +202,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1349/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-21T00:00:00+00:00",
-      "age_days": 5.94,
+      "age_days": 5.95,
       "topics": [
         "ai",
         "security"
@@ -223,11 +224,40 @@
       "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Database Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
     },
     {
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "source": "OpenAI News RSS",
+      "published_at": "2026-10-26T22:00:00+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "extreme gate recheck: insufficient independent/current evidence"
+      ],
+      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework."
+    },
+    {
       "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
       "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
       "source": "OpenAI News RSS",
       "published_at": "2026-10-26T13:45:00+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "ai",
         "security"
@@ -280,7 +310,7 @@
       "url": "https://github.com/makecindy/cindy",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-26T05:58:49+00:00",
-      "age_days": 0.69,
+      "age_days": 0.7,
       "topics": [
         "ai"
       ],
@@ -333,7 +363,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3176",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T12:29:45+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -359,7 +389,7 @@
       "url": "https://jvn.jp/jp/JVN75668103/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-26T12:00:00+09:00",
-      "age_days": 0.82,
+      "age_days": 0.83,
       "topics": [
         "security"
       ],
@@ -385,7 +415,7 @@
       "url": "https://jvn.jp/vu/JVNVU97400824/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-26T15:00:00+09:00",
-      "age_days": 0.69,
+      "age_days": 0.7,
       "topics": [
         "security"
       ],
@@ -410,7 +440,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4121",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T10:54:12+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "security"
       ],
@@ -435,7 +465,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4019",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T07:56:13+00:00",
-      "age_days": 0.61,
+      "age_days": 0.62,
       "topics": [
         "security"
       ],
@@ -460,7 +490,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4120",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T07:19:13+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "security"
       ],
@@ -511,7 +541,7 @@
       "url": "https://e27.co/how-a-39-store-retail-chain-in-laos-moved-from-excel-to-ai-agents-20261022/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T01:00:14+00:00",
-      "age_days": 0.9,
+      "age_days": 0.91,
       "topics": [
         "ai"
       ],
@@ -539,7 +569,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 129.86,
+      "age_days": 129.87,
       "topics": [
         "ai"
       ],
@@ -568,7 +598,7 @@
       "url": "https://openai.com/index/openai-cut-incident-investigation",
       "source": "OpenAI News RSS",
       "published_at": "2026-10-26T07:00:00+00:00",
-      "age_days": 0.65,
+      "age_days": 0.66,
       "topics": [
         "ai",
         "security"
@@ -624,7 +654,7 @@
       "url": "https://www.heise.de/news/Brotli-Decoder-Luecke-nicht-nur-in-Node-js-sondern-auch-in-Bun-Python-und-mehr-11499975.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-26T10:04:00.000+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -649,7 +679,7 @@
       "url": "https://www.heise.de/news/Angriffe-auf-Arista-VeloCloud-und-Collabora-Nextcloud-beobachtet-11499615.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-26T07:34:00.000+00:00",
-      "age_days": 0.63,
+      "age_days": 0.64,
       "topics": [
         "ai",
         "security"
@@ -675,7 +705,7 @@
       "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-007/",
       "source": "CERT-FR Alertes",
       "published_at": "2024-04-25T00:00:00+00:00",
-      "age_days": 914.94,
+      "age_days": 914.95,
       "topics": [
         "security"
       ],
@@ -692,7 +722,7 @@
       "why": [
         "high terms: active",
         "security high-signal: active",
-        "aging penalty -8.0 for 914.9d old signal"
+        "aging penalty -8.0 for 915.0d old signal"
       ],
       "summary": "Le 24 avril 2024, Cisco a publié trois avis de sécurité concernant des vulnérabilités affectant les équipements de sécurité ASA et FTD. Deux d'entre eux concernent les vulnérabilités CVE-2024-20353 et CVE-2024-20359 qui sont activement exploitées dans le cadre d'attaques ciblées. La vulnérabilité..."
     },
@@ -701,7 +731,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4y1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-26T05:10:35.040+00:00",
-      "age_days": 0.73,
+      "age_days": 0.74,
       "topics": [
         "disaster"
       ],
@@ -726,7 +756,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4xp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-26T04:17:47.040+00:00",
-      "age_days": 0.76,
+      "age_days": 0.77,
       "topics": [
         "disaster"
       ],
@@ -751,7 +781,7 @@
       "url": "https://www.bis.org/speeches/20261026-growth-responsibility-next-balance-sheet",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-26T00:00:00+00:00",
-      "age_days": 0.94,
+      "age_days": 0.95,
       "topics": [
         "ai",
         "macro"
@@ -779,7 +809,7 @@
       "url": "https://github.com/pollen-robotics/microduck",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-26T05:58:49+00:00",
-      "age_days": 0.69,
+      "age_days": 0.7,
       "topics": [
         "ai"
       ],
@@ -804,7 +834,7 @@
       "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-009/",
       "source": "CERT-FR Alertes",
       "published_at": "2024-07-01T00:00:00+00:00",
-      "age_days": 847.94,
+      "age_days": 847.95,
       "topics": [
         "ai",
         "security"
@@ -822,7 +852,7 @@
       "why": [
         "high terms: code, auth, root",
         "security high-signal: code, auth, root",
-        "aging penalty -8.0 for 847.9d old signal"
+        "aging penalty -8.0 for 848.0d old signal"
       ],
       "summary": "Le 1 juillet 2024, OpenSSH a publié un avis de sécurité concernant la vulnérabilité critique CVE-2024-6387. Cette vulnérabilité permet à un attaquant non authentifié d'exécuter du code arbitraire à distance avec les privilèges *root*. L'éditeur précise que les versions 8.5p1 à 9.7p1 sont..."
     },
@@ -831,7 +861,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4yr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-26T10:34:33.031+00:00",
-      "age_days": 0.5,
+      "age_days": 0.51,
       "topics": [
         "disaster"
       ],
@@ -856,7 +886,7 @@
       "url": "https://www.bis.org/speeches/20261026-women-economics-advancing-research-economics-internationally",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-26T00:00:00+00:00",
-      "age_days": 0.94,
+      "age_days": 0.95,
       "topics": [
         "macro"
       ],
@@ -882,7 +912,7 @@
       "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-004/",
       "source": "CERT-FR Alertes",
       "published_at": "2024-02-09T00:00:00+00:00",
-      "age_days": 990.94,
+      "age_days": 990.95,
       "topics": [
         "ai",
         "security",
@@ -901,7 +931,7 @@
       "why": [
         "high terms: active, exploitation, code",
         "security high-signal: active, exploitation, code, vpn",
-        "aging penalty -8.0 for 990.9d old signal",
+        "aging penalty -8.0 for 991.0d old signal",
         "stale single-source cap after 30d: no current exploitation phrase"
       ],
       "summary": "\\[Mise à jour du 19 mars 2024\\] Le CERT-FR a connaissance de codes d'exploitation publics et de nouvelles tentatives d'exploitation. Le 8 février 2024, Fortinet a publié l'avis de sécurité concernant la vulnérabilité critique CVE-2024-21762 affectant le VPN SSL de FortiOS. Cette vulnérabilité..."
@@ -911,7 +941,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttci",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-26T21:56:32.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -961,7 +991,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4z7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-26T11:48:30.831+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "disaster"
       ],
@@ -986,7 +1016,7 @@
       "url": "https://www.bis.org/speeches/20261026-transiting-emigration-immigration-maltas-economic-post-independence-economic-success-story",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-26T00:00:00+00:00",
-      "age_days": 0.94,
+      "age_days": 0.95,
       "topics": [
         "macro"
       ],
@@ -1008,37 +1038,11 @@
       "summary": "Address by Mr Alexander Demarco, Governor of the Central Bank of Malta, at the Annual Conference of the International Network of Financial Services Ombudsman, Valletta, 5 October 2026."
     },
     {
-      "title": "Shackleton’s lesson - we still have a choice",
-      "url": "https://www.bis.org/speeches/20261026-shackletons-lesson-we-still-have-choice",
-      "source": "BIS Central Bankers Speeches",
-      "published_at": "2026-10-26T00:00:00+00:00",
-      "age_days": 0.94,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit"
-      ],
-      "summary": "Speech by Mr Olaf Sleijpen, President of De Nederlandsche Bank, at the Green Swan 2026 Conference, Manila, 19 October 2026."
-    },
-    {
       "title": "[UPDATE] [hoch] rclone: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3196",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T12:59:16+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "security"
       ],
