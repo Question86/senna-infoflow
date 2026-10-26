@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-26T08:56:09+00:00",
+  "generated_at": "2026-10-26T09:06:30+00:00",
   "topics": {
     "ai": [
       {
@@ -191,18 +191,18 @@
         "url": "https://onaji.me/entry/2026/10/26"
       },
       {
+        "title": "社内のホワイトハッカー「誰より悔しい」不正アクセス受けたGMO熊谷社長、ブログ全文",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-26T00:54:55+00:00",
+        "relevance_score": 5,
+        "url": "https://www.sankei.com/article/20261026-FPM5XMZGCZP4RDOXILAKMEOOFE/"
+      },
+      {
         "title": "GMO不正アクセス犯の犯行声明文ビュアー",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-10-25T23:12:28+00:00",
         "relevance_score": 5,
         "url": "https://satoru.net/hacker/gmo/261025-seimei.html"
-      },
-      {
-        "title": "【特集】 PCが高い。本当に高い。それでもミニPCなら10万円で戦える",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-25T21:30:55+00:00",
-        "relevance_score": 5,
-        "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2149827.html"
       }
     ],
     "economy": [
@@ -258,6 +258,13 @@
         "published_at": "2026-10-26T02:00:07+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/founders-are-buying-gold-not-lamborghinis-after-the-exit-20261024/"
+      },
+      {
+        "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-10-26T09:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html"
       },
       {
         "title": "Frank Elderson: Taking action for nature – investing in economic resilience and prosperity",
