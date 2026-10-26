@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T22:58:52+00:00",
-  "run_id": "2026-10-26T22:58:52+00:00",
+  "generated_at": "2026-10-26T23:10:37+00:00",
+  "run_id": "2026-10-26T23:10:37+00:00",
   "date": "2026-10-26",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 91,
     "displayed_findings": 91,
     "high": 0,
@@ -4465,29 +4465,7 @@
       "id": "d82acf9beb135c97fb78"
     }
   ],
-  "new_findings": [
-    {
-      "title": "「Python」に再び「eMudhra」問題への対策、「Python 3.15.2」など5バージョンを提供／侵害された鍵をブロックする“最後の砦”が「ssl」モジュールに",
-      "url": "https://forest.watch.impress.co.jp/docs/news/2151194.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-26T08:48:34+00:00",
-      "fetched_at": "2026-10-26T22:58:23+00:00",
-      "summary": "「Python」に再び「eMudhra」問題への対策、「Python 3.15.2」など5バージョンを提供／侵害された鍵をブロックする“最後の砦”が「ssl」モジュールに",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "93ad32c13f542f067cde"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
