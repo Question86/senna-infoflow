@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-26T17:08:36+00:00_
+_Generiert: 2026-10-26T17:24:01+00:00_
 
 ## Kurzlage
 
-75 neue relevante Treffer. Stärkstes Signal: „[MàJ] Vulnérabilité dans Fortinet FortiOS (09 février 2024)“ aus CERT-FR Alertes (Score 20, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+75 neue relevante Treffer. Stärkstes Signal: „[MàJ] Vulnérabilité dans Fortinet FortiOS (09 février 2024)“ aus CERT-FR Alertes (Score 20, risk).
 
 ## Priorität Hoch
 
@@ -268,7 +268,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `bsi_cert_bund_advisories` (rss): 503 Server Error: Service Temporarily Unavailable for url: https://wid.cert-bund.de/content/public/securityAdvisory/rss
