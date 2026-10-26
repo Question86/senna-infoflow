@@ -260,6 +260,52 @@
     "id": "c61b739b011b5a30be8a"
   },
   {
+    "title": "[UPDATE] [mittel] Eclipse Jetty: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0987",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-26T12:29:47+00:00",
+    "fetched_at": "2026-10-26T12:30:49+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Eclipse Jetty ausnutzen, um Daten zu manipulieren oder einen Denial-of-Service auszulösen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b63fb470af454f6595fa"
+  },
+  {
+    "title": "[UPDATE] [mittel] Eclipse Jetty: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3176",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-10-26T12:29:45+00:00",
+    "fetched_at": "2026-10-26T12:30:49+00:00",
+    "summary": "Ein entfernter anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Eclipse Jetty ausnutzen, um einen Denial of Service Angriff zu erzeugen und Daten zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4c191c4032169b9cbf27"
+  },
+  {
     "title": "電子納品物検査支援システムにおけるインストール時の不適切なファイルアクセス権設定の脆弱性",
     "url": "https://jvn.jp/jp/JVN75668103/",
     "source": "JVN Japan Vulnerability Notes",
@@ -429,6 +475,43 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "847b8f10fbdd5c8ab1a2"
+  },
+  {
+    "title": "M 4.6 - 81 km SSE of Akutan, Alaska",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4z7",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-26T11:48:30.831+00:00",
+    "fetched_at": "2026-10-26T12:30:49+00:00",
+    "summary": "ShakeMap - III Time 2026-10-26 11:38:06 UTC 2026-10-26 11:38:06 UTC at epicenter Location 53.507°N 165.124°W Depth 35.00 km (21.75 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "ShakeMap",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake, ShakeMap"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "977f5a4f512e330e7561"
   },
   {
     "title": "AI models cost more when you don’t use English",
