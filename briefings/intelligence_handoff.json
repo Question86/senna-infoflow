@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-26T07:22:34Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “makecindy/cindy” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
+  "generated_at": "2026-10-26T07:54:21Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Internet Systems Consortium BIND: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,36 @@
   ],
   "top_dynamics": [
     {
+      "title": "[UPDATE] [hoch] Internet Systems Consortium BIND: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4116",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-26T07:19:13+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Internet Systems Consortium BIND ausnutzen, um einen Denial of Service Angriff durchzuführen oder möglicherweise beliebigen Code auszuführen."
+    },
+    {
       "title": "makecindy/cindy",
       "url": "https://github.com/makecindy/cindy",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-26T05:58:49+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -42,7 +67,7 @@
       "url": "https://jvn.jp/vu/JVNVU96549652/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-26T13:00:00+09:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -68,7 +93,7 @@
       "url": "https://jvn.jp/jp/JVN75668103/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-26T12:00:00+09:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -94,7 +119,7 @@
       "url": "https://jvn.jp/vu/JVNVU97400824/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-26T15:00:00+09:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -115,11 +140,36 @@
       "summary": "Googleのデータ圧縮アルゴリズムBrotliのC言語実装における脆弱性（ CVE-2026-111497 ）に対するアドバイザリが公開されました。 本脆弱性は「HTTP2Shell」や「Node2Shell」とも呼ばれています。"
     },
     {
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux ca-certificates: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4120",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-26T07:19:13+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ca-certificates ausnutzen, um Sicherheitsvorkehrungen zu umgehen, vertrauliche Informationen auszulesen oder Daten zu manipulieren"
+    },
+    {
       "title": "How a 39-store retail chain in Laos moved from Excel to AI agents",
       "url": "https://e27.co/how-a-39-store-retail-chain-in-laos-moved-from-excel-to-ai-agents-20261022/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T01:00:14+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -147,7 +197,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 129.23,
+      "age_days": 129.25,
       "topics": [
         "ai"
       ],
@@ -176,7 +226,7 @@
       "url": "https://e27.co/two-part-timers-and-one-ai-orchestrator-inside-a-dubai-conference-on-the-breaking-point-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T04:00:00+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "macro",
@@ -201,11 +251,37 @@
       "summary": "Most conferences are built the same way. A committee brainstorms a theme, a team chases speakers, a designer lays out a program, and everyone hopes the real value happens in the corridors. Three days in Dubai this October worked differently. The operating model was deliberately lean: two people shaping the ideas and r…"
     },
     {
+      "title": "Angriffe auf Arista VeloCloud und Collabora/Nextcloud beobachtet",
+      "url": "https://www.heise.de/news/Angriffe-auf-Arista-VeloCloud-und-Collabora-Nextcloud-beobachtet-11499615.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-10-26T07:34:00.000+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe",
+        "security high-signal: angriffe"
+      ],
+      "summary": "Angreifer nutzen eine Lücke in Collabora und installieren Webshells auf Nextcloud-Servern. Auch Arista VeloCloud wird attackiert."
+    },
+    {
       "title": "M 5.0 - 45 km NNW of Ende, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4y1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-26T05:10:35.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -226,36 +302,11 @@
       "summary": "Time 2026-10-26 04:53:40 UTC 2026-10-26 04:53:40 UTC at epicenter Location 8.443°S 121.573°E Depth 10.00 km (6.21 mi)"
     },
     {
-      "title": "M 4.8 - 41 km WNW of Kupang, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4xp",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-26T04:17:47.040+00:00",
-      "age_days": 0.13,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-26 03:59:22 UTC 2026-10-26 03:59:22 UTC at epicenter Location 10.044°S 123.251°E Depth 35.00 km (21.75 mi)"
-    },
-    {
       "title": "pollen-robotics/microduck",
       "url": "https://github.com/pollen-robotics/microduck",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-26T05:58:49+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -274,56 +325,6 @@
         "security high-signal: rce"
       ],
       "summary": "A Tiny biped duck robot 🦆 https://pollen-robotics.com/microduck Microduck A tiny biped robot that moves using reinforcement learning policies. Get yours here · Cheat sheet · Training the policies · How it works · Contributing This repo is the duck's brain. About 25 cm and 800 g of robot, run by a handful of daemons on…"
-    },
-    {
-      "title": "M 4.8 - 182 km NW of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4y2",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-26T05:16:27.040+00:00",
-      "age_days": 0.09,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-26 04:53:35 UTC 2026-10-26 04:53:35 UTC at epicenter Location 14.069°S 165.699°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 4.9 - 205 km NW of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4xa",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-26T01:38:29.040+00:00",
-      "age_days": 0.24,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-26 01:22:20 UTC 2026-10-26 01:22:20 UTC at epicenter Location 13.880°S 165.583°E Depth 10.00 km (6.21 mi)"
     }
   ],
   "read_order": [
@@ -335,8 +336,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 10,
-      "watch": 2
+      "krass": 1,
+      "strong": 11
     }
   }
 }
