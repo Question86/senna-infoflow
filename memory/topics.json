@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-26T08:34:35+00:00",
+  "generated_at": "2026-10-26T08:56:09+00:00",
   "topics": {
     "ai": [
       {
@@ -82,6 +82,13 @@
         "published_at": "2026-10-26T15:00:00+09:00",
         "relevance_score": 16,
         "url": "https://jvn.jp/vu/JVNVU97400824/"
+      },
+      {
+        "title": "[UPDATE] [hoch] Microsoft Apps: Mehrere Schwachstellen ermöglichen Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-26T08:34:12+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3241"
       },
       {
         "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
@@ -168,6 +175,13 @@
         "published_at": "2026-10-26T01:00:39+00:00",
         "relevance_score": 7,
         "url": "https://e27.co/thirty-climate-tech-startups-in-southeast-asia-that-would-rather-build-than-pledge-20261024/"
+      },
+      {
+        "title": "「3万円にした結果がコレかぁ」GMOのサーバー不正アクセス、3か月前の熊谷代表の発言が「伏線回収」だと話題になってしまう",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-26T03:24:49+00:00",
+        "relevance_score": 5,
+        "url": "https://togetter.com/li/2762937"
       },
       {
         "title": "月の利益はほぼマイナス…4年半続けた飲食店を手放した経営者が語る、失敗と教訓 - おなじみ丨近くの店から、なじみの店へ。",
