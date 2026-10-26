@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-26T11:47:10Z",
+  "generated_at": "2026-10-26T13:11:15Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 11,
-      "strong": 8,
-      "watch": 6,
-      "quiet": 15
+      "krass": 12,
+      "strong": 9,
+      "watch": 7,
+      "quiet": 12
     },
     "bands_after_gate_recheck": {
       "krass": 1,
-      "strong": 18,
-      "watch": 6,
-      "quiet": 15
+      "strong": 20,
+      "watch": 7,
+      "quiet": 12
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4116",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T07:19:13+00:00",
-      "age_days": 0.19,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -45,11 +45,35 @@
       "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Internet Systems Consortium BIND ausnutzen, um einen Denial of Service Angriff durchzuführen oder möglicherweise beliebigen Code auszuführen."
     },
     {
+      "title": "[UPDATE] [mittel] Eclipse Jetty: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0987",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-26T12:29:47+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Eclipse Jetty ausnutzen, um Daten zu manipulieren oder einen Denial-of-Service auszulösen."
+    },
+    {
       "title": "[UPDATE] [hoch] Microsoft Apps: Mehrere Schwachstellen ermöglichen Privilegieneskalation",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3241",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T08:34:12+00:00",
-      "age_days": 0.13,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -75,7 +99,7 @@
       "url": "https://github.com/makecindy/cindy",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-26T05:58:49+00:00",
-      "age_days": 0.24,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -102,7 +126,7 @@
       "url": "https://jvn.jp/vu/JVNVU96549652/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-26T13:00:00+09:00",
-      "age_days": 0.32,
+      "age_days": 0.38,
       "topics": [
         "security"
       ],
@@ -124,11 +148,37 @@
       "summary": "富士電機株式会社が提供するV-SFTには、複数の脆弱性が存在します。"
     },
     {
+      "title": "[UPDATE] [mittel] Eclipse Jetty: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3176",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-26T12:29:45+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Eclipse Jetty ausnutzen, um einen Denial of Service Angriff zu erzeugen und Daten zu manipulieren."
+    },
+    {
       "title": "電子納品物検査支援システムにおけるインストール時の不適切なファイルアクセス権設定の脆弱性",
       "url": "https://jvn.jp/jp/JVN75668103/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-26T12:00:00+09:00",
-      "age_days": 0.37,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -154,7 +204,7 @@
       "url": "https://jvn.jp/vu/JVNVU97400824/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-26T15:00:00+09:00",
-      "age_days": 0.24,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -179,7 +229,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4121",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T10:54:12+00:00",
-      "age_days": 0.04,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -204,7 +254,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4019",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T07:56:13+00:00",
-      "age_days": 0.16,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -229,7 +279,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4120",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T07:19:13+00:00",
-      "age_days": 0.19,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -254,7 +304,7 @@
       "url": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-10-26T10:00:22+00:00",
-      "age_days": 0.07,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -280,7 +330,7 @@
       "url": "https://e27.co/how-a-39-store-retail-chain-in-laos-moved-from-excel-to-ai-agents-20261022/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T01:00:14+00:00",
-      "age_days": 0.45,
+      "age_days": 0.51,
       "topics": [
         "ai"
       ],
@@ -308,7 +358,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 129.41,
+      "age_days": 129.47,
       "topics": [
         "ai"
       ],
@@ -327,7 +377,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 129.4d old signal",
+        "aging penalty -8.0 for 129.5d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -337,7 +387,7 @@
       "url": "https://e27.co/two-part-timers-and-one-ai-orchestrator-inside-a-dubai-conference-on-the-breaking-point-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T04:00:00+00:00",
-      "age_days": 0.32,
+      "age_days": 0.38,
       "topics": [
         "ai",
         "macro",
@@ -366,7 +416,7 @@
       "url": "https://www.heise.de/news/Brotli-Decoder-Luecke-nicht-nur-in-Node-js-sondern-auch-in-Bun-Python-und-mehr-11499975.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-26T10:04:00.000+00:00",
-      "age_days": 0.07,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -391,7 +441,7 @@
       "url": "https://www.heise.de/news/Angriffe-auf-Arista-VeloCloud-und-Collabora-Nextcloud-beobachtet-11499615.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-26T07:34:00.000+00:00",
-      "age_days": 0.18,
+      "age_days": 0.23,
       "topics": [
         "ai",
         "security"
@@ -417,7 +467,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4y1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-26T05:10:35.040+00:00",
-      "age_days": 0.28,
+      "age_days": 0.33,
       "topics": [
         "disaster"
       ],
@@ -442,7 +492,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4xp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-26T04:17:47.040+00:00",
-      "age_days": 0.31,
+      "age_days": 0.37,
       "topics": [
         "disaster"
       ],
@@ -467,7 +517,7 @@
       "url": "https://github.com/pollen-robotics/microduck",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-26T05:58:49+00:00",
-      "age_days": 0.24,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -492,7 +542,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4yr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-26T10:34:33.031+00:00",
-      "age_days": 0.05,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -513,11 +563,36 @@
       "summary": "PAGER - GREEN ShakeMap - I Time 2026-10-26 10:13:01 UTC 2026-10-26 10:13:01 UTC at epicenter Location 18.283°S 178.011°W Depth 641.81 km (398.80 mi)"
     },
     {
+      "title": "M 4.6 - 81 km SSE of Akutan, Alaska",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4z7",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-26T11:48:30.831+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "ShakeMap - III Time 2026-10-26 11:38:06 UTC 2026-10-26 11:38:06 UTC at epicenter Location 53.507°N 165.124°W Depth 35.00 km (21.75 mi)"
+    },
+    {
       "title": "M 5.0 - 218 km NW of Port-Olry, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4z6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-26T11:34:36.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -542,7 +617,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4y2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-26T05:16:27.040+00:00",
-      "age_days": 0.27,
+      "age_days": 0.33,
       "topics": [
         "disaster"
       ],
@@ -567,7 +642,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4xa",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-26T01:38:29.040+00:00",
-      "age_days": 0.42,
+      "age_days": 0.48,
       "topics": [
         "disaster"
       ],
@@ -592,7 +667,7 @@
       "url": "https://e27.co/founders-are-buying-gold-not-lamborghinis-after-the-exit-20261024/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T02:00:07+00:00",
-      "age_days": 0.41,
+      "age_days": 0.47,
       "topics": [
         "general"
       ],
@@ -616,7 +691,7 @@
       "url": "https://e27.co/japans-innovation-problem-is-execution-and-southeast-asian-startups-are-built-for-it-20261023/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T02:00:37+00:00",
-      "age_days": 0.41,
+      "age_days": 0.47,
       "topics": [
         "macro"
       ],
@@ -640,7 +715,7 @@
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-10-26T09:00:00+00:00",
-      "age_days": 0.12,
+      "age_days": 0.17,
       "topics": [
         "macro"
       ],
@@ -664,7 +739,7 @@
       "url": "https://tech.classi.jp/entry/2026/10/26/163000",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-26T08:08:37+00:00",
-      "age_days": 0.15,
+      "age_days": 0.21,
       "topics": [
         "general"
       ],
@@ -688,7 +763,7 @@
       "url": "https://onaji.me/entry/2026/10/26",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-26T02:00:08+00:00",
-      "age_days": 0.41,
+      "age_days": 0.47,
       "topics": [
         "general"
       ],
@@ -712,7 +787,7 @@
       "url": "https://www.sankei.com/article/20261026-FPM5XMZGCZP4RDOXILAKMEOOFE/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-26T00:54:55+00:00",
-      "age_days": 0.45,
+      "age_days": 0.51,
       "topics": [
         "general"
       ],
@@ -736,7 +811,7 @@
       "url": "https://satoru.net/hacker/gmo/261025-seimei.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-25T23:12:28+00:00",
-      "age_days": 0.52,
+      "age_days": 0.58,
       "topics": [
         "general"
       ],
@@ -760,7 +835,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2149827.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-25T21:30:55+00:00",
-      "age_days": 0.59,
+      "age_days": 0.65,
       "topics": [
         "general"
       ],
@@ -784,7 +859,7 @@
       "url": "https://e27.co/globalfoundries-turns-its-singapore-fabs-into-a-test-bed-for-an-ai-run-control-room-20261026/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T11:30:40+00:00",
-      "age_days": 0.01,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -810,7 +885,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2151000.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-25T23:08:21+00:00",
-      "age_days": 0.53,
+      "age_days": 0.59,
       "topics": [
         "ai"
       ],
@@ -836,7 +911,7 @@
       "url": "https://e27.co/bitcoins-macro-reset-reclaim-us80000-before-the-fed-speaks-20261026/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T04:17:18+00:00",
-      "age_days": 0.31,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "macro"
@@ -863,7 +938,7 @@
       "url": "https://zenn.dev/rimon/articles/45c1fd2f015af8",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-25T23:07:41+00:00",
-      "age_days": 0.53,
+      "age_days": 0.59,
       "topics": [
         "ai"
       ],
@@ -889,7 +964,7 @@
       "url": "https://e27.co/ailytics-bags-us7-4m-series-a-to-make-old-cctv-cameras-earn-their-keep-20261026/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T03:11:35+00:00",
-      "age_days": 0.36,
+      "age_days": 0.42,
       "topics": [
         "ai"
       ],
@@ -915,7 +990,7 @@
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261026~d903d7ad85.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-10-26T05:00:00+00:00",
-      "age_days": 0.28,
+      "age_days": 0.34,
       "topics": [
         "ai",
         "macro"
@@ -942,7 +1017,7 @@
       "url": "https://internet.watch.impress.co.jp/docs/news/2151273.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-26T09:20:26+00:00",
-      "age_days": 0.1,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -960,81 +1035,6 @@
         "no strong comparative reason"
       ],
       "summary": "Ｊｏｓｈｉｎ、不正アクセスで最大約600万件の会員情報などが漏えいの可能性"
-    },
-    {
-      "title": "GMO不正アクセス 「能動的サイバー防御」より先にやるべきことは：朝日新聞",
-      "url": "https://www.asahi.com/articles/ASVBV1JK7VBVULZU002M.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-26T07:32:00+00:00",
-      "age_days": 0.18,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "GMOインターネットが提供するFX（外国為替証拠金取引）関連のサービスが不正アクセスを受けた問題で、同社が政府に対して「能動的サイバー防御」の適用を要請したことが波紋を広げている。サイバー攻撃が相次…"
-    },
-    {
-      "title": "「3万円にした結果がコレかぁ」GMOのサーバー不正アクセス、3か月前の熊谷代表の発言が「伏線回収」だと話題になってしまう",
-      "url": "https://togetter.com/li/2762937",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-26T03:24:49+00:00",
-      "age_days": 0.35,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "報道ステーション＋サタステ @hst_tvasahi 【GMOサーバー攻撃】FX取引“ハッキング”で600万円被害 ｜ 神奈川県に住む男性会社員(44)は、21日夕方にFXの取引口座を乗っ取られ、意に反した売買が行われた ▼「400万ぐらい損を出すまでに1秒」 損失額約600万円 不正取引の被害者(44) 「被害としては600万以上」 「最初はパニ..."
-    },
-    {
-      "title": "Youth brain drain: A hidden threat in Indonesia’s agriculture sector",
-      "url": "https://e27.co/youth-brain-drain-a-hidden-threat-in-indonesias-agriculture-sector-20261023/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-26T03:00:58+00:00",
-      "age_days": 0.37,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 4.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Indonesia is losing its farmers. According to Statistics Indonesia (BPS), the number of farmers dropped from 31.7 million in 2013 to 29.3 million in 2023. That is a drop of about 7.5 per cent in ten years. Many of them moved to other jobs, such as construction work, factory work, or selling in the market, […] The post…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Internet Systems Consortium BIND: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
