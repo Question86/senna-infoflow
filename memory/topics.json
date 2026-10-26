@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-26T01:57:44+00:00",
+  "generated_at": "2026-10-26T02:17:25+00:00",
   "topics": {
     "ai": [
       {
@@ -26,6 +26,15 @@
         "url": "https://www.itmedia.co.jp/news/article/2610/26/2000002570/"
       }
     ],
+    "geopolitics": [
+      {
+        "title": "Founders are buying gold, not Lamborghinis, after the exit",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-26T02:00:07+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/founders-are-buying-gold-not-lamborghinis-after-the-exit-20261024/"
+      }
+    ],
     "general": [
       {
         "title": "私が5種類のコーディングエージェントを使い分ける理由",
@@ -47,6 +56,15 @@
         "published_at": "2026-10-26T01:00:39+00:00",
         "relevance_score": 7,
         "url": "https://e27.co/thirty-climate-tech-startups-in-southeast-asia-that-would-rather-build-than-pledge-20261024/"
+      }
+    ],
+    "economy": [
+      {
+        "title": "Japan’s innovation problem is execution, and Southeast Asian startups are built for it",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-26T02:00:37+00:00",
+        "relevance_score": 9,
+        "url": "https://e27.co/japans-innovation-problem-is-execution-and-southeast-asian-startups-are-built-for-it-20261023/"
       }
     ]
   }
