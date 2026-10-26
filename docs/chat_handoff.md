@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-26T14:18:28+00:00_
+_Generated: 2026-10-26T15:15:15+00:00_
 
 ## Status
 - status: `normal`
-- findings: `54`
+- findings: `60`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-10-26T14:18:28+00:00_
 - url: https://github.com/makecindy/cindy
 - summary: Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 https://cindy.app English · 简体中文 🌐 cindy.app · ⬇️ Download Cindy is an open-source AI agent that works out of the box. She brings multiple harnesses, models and…
 
-### 8. Singapore’s US$59M grid fund bets on cheaper hydrogen and tougher tropical solar panels
-- source: e27 Asia Startup and Tech Feed
+### 8. Announcing 20260095 (LTRO,liquidity providing), for 91 days deadline 10:00
+- source: ECB Open Market Operations and Communication
 - score: `12`
-- published: `2026-10-26T12:36:06+00:00`
-- url: https://e27.co/singapores-us59m-grid-fund-bets-on-cheaper-hydrogen-and-tougher-tropical-solar-panels-20261026/
-- summary: Singapore has a power problem that no amount of rooftop solar will fix. The city-state generates about 95 per cent of its electricity from imported natural gas. It has little spare land for solar farms, no rivers for hydropower and not much wind. Every decarb…
+- published: `2026-10-26T14:55:21+00:00`
+- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260095.en.html
+- summary: Announcing 20260095 (LTRO,liquidity providing), for 91 days deadline 10:00
 
 END OF DOCUMENT
