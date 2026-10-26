@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-26T19:02:12+00:00",
+  "generated_at": "2026-10-26T19:31:12+00:00",
   "topics": {
     "ai": [
       {
@@ -12,11 +12,32 @@
         "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-004/"
       },
       {
+        "title": "GPT-6.1 Terra in GitHub Copilot",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-26T19:15:53+00:00",
+        "relevance_score": 18,
+        "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot"
+      },
+      {
+        "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-10-26T07:00:00+00:00",
+        "relevance_score": 18,
+        "url": "https://openai.com/index/openai-cut-incident-investigation"
+      },
+      {
         "title": "How a 39-store retail chain in Laos moved from Excel to AI agents",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-10-26T01:00:14+00:00",
         "relevance_score": 17,
         "url": "https://e27.co/how-a-39-store-retail-chain-in-laos-moved-from-excel-to-ai-agents-20261022/"
+      },
+      {
+        "title": "Introducing GPT-6.1 Terra",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-10-26T00:00:00+00:00",
+        "relevance_score": 14,
+        "url": "https://openai.com/index/introducing-gpt-6-1-terra"
       },
       {
         "title": "[MàJ] Vulnérabilité dans Palo Alto Networks GlobalProtect (12 avril 2024)",
@@ -52,27 +73,6 @@
         "published_at": "2026-10-25T23:08:21+00:00",
         "relevance_score": 12,
         "url": "https://forest.watch.impress.co.jp/docs/news/2151000.html"
-      },
-      {
-        "title": "Vulnérabilité dans OpenSSH (01 juillet 2024)",
-        "source": "CERT-FR Alertes",
-        "published_at": "2024-07-01T00:00:00+00:00",
-        "relevance_score": 12,
-        "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-009/"
-      },
-      {
-        "title": "AI models cost more when you don’t use English",
-        "source": "Rest of World Global Tech Feed",
-        "published_at": "2026-10-26T10:00:22+00:00",
-        "relevance_score": 10,
-        "url": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
-      },
-      {
-        "title": "Bitcoin’s macro reset: Reclaim US$80,000 before the Fed speaks?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-26T04:17:18+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/bitcoins-macro-reset-reclaim-us80000-before-the-fed-speaks-20261026/"
       }
     ],
     "security": [
@@ -82,6 +82,13 @@
         "published_at": "2024-02-09T00:00:00+00:00",
         "relevance_score": 20,
         "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-004/"
+      },
+      {
+        "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-10-26T07:00:00+00:00",
+        "relevance_score": 18,
+        "url": "https://openai.com/index/openai-cut-incident-investigation"
       },
       {
         "title": "BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）",
@@ -138,13 +145,36 @@
         "published_at": "2026-10-26T12:29:47+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0987"
+      }
+    ],
+    "github": [
+      {
+        "title": "GPT-6.1 Terra in GitHub Copilot",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-26T19:15:53+00:00",
+        "relevance_score": 18,
+        "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot"
       },
       {
-        "title": "[UPDATE] [mittel] Eclipse Jetty: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-26T12:29:45+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3176"
+        "title": "makecindy/cindy",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 13,
+        "url": "https://github.com/makecindy/cindy"
+      },
+      {
+        "title": "Results of socio-economic development and execution of the republican budget for January–September 2026",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-10-26T00:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.bis.org/speeches/20261021-results-socio-economic-development-and-execution-republican-budget-january-september-2026"
+      },
+      {
+        "title": "pollen-robotics/microduck",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 5,
+        "url": "https://github.com/pollen-robotics/microduck"
       }
     ],
     "general": [
@@ -361,29 +391,6 @@
         "published_at": "2026-10-26T03:00:58+00:00",
         "relevance_score": 7,
         "url": "https://e27.co/youth-brain-drain-a-hidden-threat-in-indonesias-agriculture-sector-20261023/"
-      }
-    ],
-    "github": [
-      {
-        "title": "makecindy/cindy",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 13,
-        "url": "https://github.com/makecindy/cindy"
-      },
-      {
-        "title": "Results of socio-economic development and execution of the republican budget for January–September 2026",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-10-26T00:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.bis.org/speeches/20261021-results-socio-economic-development-and-execution-republican-budget-january-september-2026"
-      },
-      {
-        "title": "pollen-robotics/microduck",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 5,
-        "url": "https://github.com/pollen-robotics/microduck"
       }
     ]
   }

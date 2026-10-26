@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-26T19:02:12+00:00_
+_Generated: 2026-10-26T19:31:12+00:00_
 
 ## Status
 - status: `normal`
-- findings: `77`
+- findings: `80`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-10-26T19:02:12+00:00_
 - url: https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-004/
 - summary: \[Mise à jour du 19 mars 2024\] Le CERT-FR a connaissance de codes d'exploitation publics et de nouvelles tentatives d'exploitation. Le 8 février 2024, Fortinet a publié l'avis de sécurité concernant la vulnérabilité critique CVE-2024-21762 affectant le VPN S…
 
-### 2. How a 39-store retail chain in Laos moved from Excel to AI agents
+### 2. GPT-6.1 Terra in GitHub Copilot
+- source: GitHub Changelog Atom
+- score: `18`
+- published: `2026-10-26T19:15:53+00:00`
+- url: https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot
+- summary: GPT-6.1 Terra, OpenAI’s newest model, is now generally available in GitHub Copilot. It is designed for everyday agentic coding and terminal work at a lower cost than GPT-6.1 Sol. In… The post GPT-6.1 Terra in GitHub Copilot appeared first on The GitHub Blog .
+
+### 3. How Ultrafast cut incident investigation from hours to minutes at OpenAI
+- source: OpenAI News RSS
+- score: `18`
+- published: `2026-10-26T07:00:00+00:00`
+- url: https://openai.com/index/openai-cut-incident-investigation
+- summary: See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.
+
+### 4. How a 39-store retail chain in Laos moved from Excel to AI agents
 - source: e27 Asia Startup and Tech Feed
 - score: `17`
 - published: `2026-10-26T01:00:14+00:00`
 - url: https://e27.co/how-a-39-store-retail-chain-in-laos-moved-from-excel-to-ai-agents-20261022/
 - summary: Until this summer, the morning numbers at LDC Import-Export Co., Ltd. were built by hand. LDC is a Lao distribution and retail group. It started in Vientiane in 2011, distributing local and imported goods, and its retail arm now runs 39 convenience stores acr…
-
-### 3. BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）
-- source: JVN Japan Vulnerability Notes
-- score: `16`
-- published: `2026-10-26T15:00:00+09:00`
-- url: https://jvn.jp/vu/JVNVU97400824/
-- summary: Googleのデータ圧縮アルゴリズムBrotliのC言語実装における脆弱性（ CVE-2026-111497 ）に対するアドバイザリが公開されました。 本脆弱性は「HTTP2Shell」や「Node2Shell」とも呼ばれています。
-
-### 4. [UPDATE] [mittel] Red Hat Enterprise Linux iperf3: Schwachstelle ermöglicht Denial of Service
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-10-26T10:54:12+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4121
-- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux iperf3 ausnutzen, um einen Denial of Service Angriff durchzuführen.
 
 ### 5. M 5.5 - 283 km E of Levuka, Fiji
 - source: USGS M4.5+ Earthquakes Past Hour
