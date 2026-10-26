@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-26T03:29:03+00:00_
+_Generiert: 2026-10-26T03:48:52+00:00_
 
 ## Kurzlage
 
-12 neue relevante Treffer. Stärkstes Signal: „How a 39-store retail chain in Laos moved from Excel to AI agents“ aus e27 Asia Startup and Tech Feed (Score 17, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+12 neue relevante Treffer. Stärkstes Signal: „How a 39-store retail chain in Laos moved from Excel to AI agents“ aus e27 Asia Startup and Tech Feed (Score 17, opportunity).
 
 ## Priorität Hoch
 
@@ -105,7 +105,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `twcert_security_news` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)
