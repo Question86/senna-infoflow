@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-26T17:58:09+00:00_
+_Generiert: 2026-10-26T18:15:41+00:00_
 
 ## Kurzlage
 
-75 neue relevante Treffer. Stärkstes Signal: „[MàJ] Vulnérabilité dans Fortinet FortiOS (09 février 2024)“ aus CERT-FR Alertes (Score 20, risk).
+76 neue relevante Treffer. Stärkstes Signal: „[MàJ] Vulnérabilité dans Fortinet FortiOS (09 février 2024)“ aus CERT-FR Alertes (Score 20, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
