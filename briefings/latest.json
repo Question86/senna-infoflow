@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T06:33:53+00:00",
-  "run_id": "2026-10-26T06:33:53+00:00",
+  "generated_at": "2026-10-26T07:12:16+00:00",
+  "run_id": "2026-10-26T07:12:16+00:00",
   "date": "2026-10-26",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 24,
     "displayed_findings": 24,
     "high": 0,
@@ -1231,51 +1231,7 @@
       "id": "d82acf9beb135c97fb78"
     }
   ],
-  "new_findings": [
-    {
-      "title": "BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）",
-      "url": "https://jvn.jp/vu/JVNVU97400824/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-10-26T15:00:00+09:00",
-      "fetched_at": "2026-10-26T06:33:25+00:00",
-      "summary": "Googleのデータ圧縮アルゴリズムBrotliのC言語実装における脆弱性（ CVE-2026-111497 ）に対するアドバイザリが公開されました。 本脆弱性は「HTTP2Shell」や「Node2Shell」とも呼ばれています。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+7.5); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "41227f3a41a6bd2569c1"
-    },
-    {
-      "title": "【特集】 PCが高い。本当に高い。それでもミニPCなら10万円で戦える",
-      "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2149827.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-25T21:30:55+00:00",
-      "fetched_at": "2026-10-26T06:33:25+00:00",
-      "summary": "【特集】 PCが高い。本当に高い。それでもミニPCなら10万円で戦える",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f45e76f5d42b1ff842d5"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
