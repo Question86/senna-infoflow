@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-26T14:47:09Z",
+  "generated_at": "2026-10-26T15:26:41Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 13,
       "strong": 10,
-      "watch": 9,
-      "quiet": 8
+      "watch": 14,
+      "quiet": 3
     },
     "bands_after_gate_recheck": {
       "krass": 2,
       "strong": 21,
-      "watch": 9,
-      "quiet": 8
+      "watch": 14,
+      "quiet": 3
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2800",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T12:59:15+00:00",
-      "age_days": 0.07,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -49,7 +49,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4116",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T07:19:13+00:00",
-      "age_days": 0.31,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -74,7 +74,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0987",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T12:29:47+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -98,7 +98,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3241",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T08:34:12+00:00",
-      "age_days": 0.26,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -124,7 +124,7 @@
       "url": "https://github.com/makecindy/cindy",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-26T05:58:49+00:00",
-      "age_days": 0.37,
+      "age_days": 0.39,
       "topics": [
         "ai"
       ],
@@ -151,7 +151,7 @@
       "url": "https://jvn.jp/vu/JVNVU96549652/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-26T13:00:00+09:00",
-      "age_days": 0.45,
+      "age_days": 0.48,
       "topics": [
         "security"
       ],
@@ -177,7 +177,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3176",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T12:29:45+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -203,7 +203,7 @@
       "url": "https://jvn.jp/jp/JVN75668103/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-26T12:00:00+09:00",
-      "age_days": 0.49,
+      "age_days": 0.52,
       "topics": [
         "security"
       ],
@@ -229,7 +229,7 @@
       "url": "https://jvn.jp/vu/JVNVU97400824/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-26T15:00:00+09:00",
-      "age_days": 0.37,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -254,7 +254,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4121",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T10:54:12+00:00",
-      "age_days": 0.16,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -279,7 +279,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4019",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T07:56:13+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -304,7 +304,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4120",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T07:19:13+00:00",
-      "age_days": 0.31,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -329,7 +329,7 @@
       "url": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-10-26T10:00:22+00:00",
-      "age_days": 0.2,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -355,7 +355,7 @@
       "url": "https://e27.co/how-a-39-store-retail-chain-in-laos-moved-from-excel-to-ai-agents-20261022/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T01:00:14+00:00",
-      "age_days": 0.57,
+      "age_days": 0.6,
       "topics": [
         "ai"
       ],
@@ -383,7 +383,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 129.53,
+      "age_days": 129.56,
       "topics": [
         "ai"
       ],
@@ -402,7 +402,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 129.5d old signal",
+        "aging penalty -8.0 for 129.6d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -412,7 +412,7 @@
       "url": "https://e27.co/two-part-timers-and-one-ai-orchestrator-inside-a-dubai-conference-on-the-breaking-point-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T04:00:00+00:00",
-      "age_days": 0.45,
+      "age_days": 0.48,
       "topics": [
         "ai",
         "macro",
@@ -441,7 +441,7 @@
       "url": "https://www.heise.de/news/Brotli-Decoder-Luecke-nicht-nur-in-Node-js-sondern-auch-in-Bun-Python-und-mehr-11499975.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-26T10:04:00.000+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -466,7 +466,7 @@
       "url": "https://www.heise.de/news/Angriffe-auf-Arista-VeloCloud-und-Collabora-Nextcloud-beobachtet-11499615.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-26T07:34:00.000+00:00",
-      "age_days": 0.3,
+      "age_days": 0.33,
       "topics": [
         "ai",
         "security"
@@ -492,7 +492,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4y1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-26T05:10:35.040+00:00",
-      "age_days": 0.4,
+      "age_days": 0.43,
       "topics": [
         "disaster"
       ],
@@ -517,7 +517,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4xp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-26T04:17:47.040+00:00",
-      "age_days": 0.44,
+      "age_days": 0.46,
       "topics": [
         "disaster"
       ],
@@ -542,7 +542,7 @@
       "url": "https://www.bis.org/speeches/20261026-growth-responsibility-next-balance-sheet",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-26T00:00:00+00:00",
-      "age_days": 0.62,
+      "age_days": 0.64,
       "topics": [
         "ai",
         "macro"
@@ -570,7 +570,7 @@
       "url": "https://github.com/pollen-robotics/microduck",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-26T05:58:49+00:00",
-      "age_days": 0.37,
+      "age_days": 0.39,
       "topics": [
         "ai"
       ],
@@ -595,7 +595,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4yr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-26T10:34:33.031+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -620,7 +620,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4z7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-26T11:48:30.831+00:00",
-      "age_days": 0.12,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -641,11 +641,89 @@
       "summary": "ShakeMap - III Time 2026-10-26 11:38:06 UTC 2026-10-26 11:38:06 UTC at epicenter Location 53.507°N 165.124°W Depth 35.00 km (21.75 mi)"
     },
     {
+      "title": "Transiting from emigration to immigration – Malta’s economic post independence economic success story",
+      "url": "https://www.bis.org/speeches/20261026-transiting-emigration-immigration-maltas-economic-post-independence-economic-success-story",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-10-26T00:00:00+00:00",
+      "age_days": 0.64,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit"
+      ],
+      "summary": "Address by Mr Alexander Demarco, Governor of the Central Bank of Malta, at the Annual Conference of the International Network of Financial Services Ombudsman, Valletta, 5 October 2026."
+    },
+    {
+      "title": "Shackleton’s lesson - we still have a choice",
+      "url": "https://www.bis.org/speeches/20261026-shackletons-lesson-we-still-have-choice",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-10-26T00:00:00+00:00",
+      "age_days": 0.64,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit"
+      ],
+      "summary": "Speech by Mr Olaf Sleijpen, President of De Nederlandsche Bank, at the Green Swan 2026 Conference, Manila, 19 October 2026."
+    },
+    {
+      "title": "Rewiring payments - open. Connected. Inclusive.",
+      "url": "https://www.bis.org/speeches/20261026-rewiring-payments-open-connected-inclusive",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-10-26T00:00:00+00:00",
+      "age_days": 0.64,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit"
+      ],
+      "summary": "Address by Mr Lesetja Kganyago, Governor of the South African Reserve Bank, at the South African Reserve Bank Payments Conference, Pretoria, 20 October 2026."
+    },
+    {
       "title": "[UPDATE] [hoch] rclone: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3196",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-26T12:59:16+00:00",
-      "age_days": 0.07,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -665,11 +743,35 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in rclone ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um Informationen offenzulegen oder zu manipulieren, sowie um einen Denial of Service herbeizuführen."
     },
     {
+      "title": "Announcing 20260095 (LTRO,liquidity providing), for 91 days deadline 10:00",
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260095.en.html",
+      "source": "ECB Open Market Operations and Communication",
+      "published_at": "2026-10-26T14:55:21+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "Announcing 20260095 (LTRO,liquidity providing), for 91 days deadline 10:00"
+    },
+    {
       "title": "Singapore’s US$59M grid fund bets on cheaper hydrogen and tougher tropical solar panels",
       "url": "https://e27.co/singapores-us59m-grid-fund-bets-on-cheaper-hydrogen-and-tougher-tropical-solar-panels-20261026/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T12:36:06+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "macro"
       ],
@@ -693,7 +795,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4z6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-26T11:34:36.040+00:00",
-      "age_days": 0.13,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -718,7 +820,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4y2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-26T05:16:27.040+00:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "disaster"
       ],
@@ -743,7 +845,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4xa",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-26T01:38:29.040+00:00",
-      "age_days": 0.55,
+      "age_days": 0.58,
       "topics": [
         "disaster"
       ],
@@ -768,7 +870,7 @@
       "url": "https://e27.co/founders-are-buying-gold-not-lamborghinis-after-the-exit-20261024/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T02:00:07+00:00",
-      "age_days": 0.53,
+      "age_days": 0.56,
       "topics": [
         "general"
       ],
@@ -792,7 +894,7 @@
       "url": "https://e27.co/japans-innovation-problem-is-execution-and-southeast-asian-startups-are-built-for-it-20261023/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-26T02:00:37+00:00",
-      "age_days": 0.53,
+      "age_days": 0.56,
       "topics": [
         "macro"
       ],
@@ -816,7 +918,7 @@
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-10-26T09:00:00+00:00",
-      "age_days": 0.24,
+      "age_days": 0.27,
       "topics": [
         "macro"
       ],
@@ -836,11 +938,35 @@
       "summary": "Survey on the Access to Finance of Enterprises: lending conditions tightened"
     },
     {
+      "title": "Announcing 20260094 (MRO,liquidity providing), for 7 days deadline 09:30",
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260094.en.html",
+      "source": "ECB Open Market Operations and Communication",
+      "published_at": "2026-10-26T14:55:21+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "Announcing 20260094 (MRO,liquidity providing), for 7 days deadline 09:30"
+    },
+    {
       "title": "Results of socio-economic development and execution of the republican budget for January–September 2026",
       "url": "https://www.bis.org/speeches/20261021-results-socio-economic-development-and-execution-republican-budget-january-september-2026",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-26T00:00:00+00:00",
-      "age_days": 0.62,
+      "age_days": 0.64,
       "topics": [
         "macro"
       ],
@@ -864,7 +990,7 @@
       "url": "https://www.bis.org/speeches/20261007-taxes-credit-and-growth",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-26T00:00:00+00:00",
-      "age_days": 0.62,
+      "age_days": 0.64,
       "topics": [
         "macro"
       ],
@@ -888,7 +1014,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/26/2000002597/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-26T10:32:41+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -906,126 +1032,6 @@
         "high terms: 10"
       ],
       "summary": "「貴社が案内を送ってきた『萌奈椛様 6歳』はこの子です。年齢は合ってますが、人間ではありません」──飼い猫宛てに通信教育「進研ゼミ」の案内が届いたという投稿が、10月20日ごろにXで話題になった。ITmedia NEWSは、投稿者と発行元のベネッセコーポレーションに経緯を聞いた。 投稿者は、6歳の猫「萌奈椛」（もなか）..."
-    },
-    {
-      "title": "ハッカー集団 GMOにあす期限で100万ドル要求 顧客脅迫も | NHKニュース",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261026de65733",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-26T08:44:52+00:00",
-      "age_days": 0.25,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "GMOインターネットグループの投資家向けクラウドサービスに不正アクセスしたとみられるハッカー集団が、27日正午までに会社側に100万ドル＝日本円で1億5700万円余りを支払うよう求めていることが分かり…"
-    },
-    {
-      "title": "pixiv社の爆速PHPアップデートを参考に、社内で Docker Official Image のビルドシステムを作った話 - Classi開発者ブログ",
-      "url": "https://tech.classi.jp/entry/2026/10/26/163000",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-26T08:08:37+00:00",
-      "age_days": 0.28,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "はじめに Classi のサービス開発を担当しているイノウエです。 2026年10月21日に、通称 PHP2Shell と呼ばれる深刻な脆弱性を修正する PHP 8系への緊急パッチが配信されました。 当社のサービスも一部で PHP が使用されており、緊急パッチの配布に備え私を含めた数名で待機しておりました。 しかし、コンテナのベースイメ..."
-    },
-    {
-      "title": "月の利益はほぼマイナス…4年半続けた飲食店を手放した経営者が語る、失敗と教訓 - おなじみ丨近くの店から、なじみの店へ。",
-      "url": "https://onaji.me/entry/2026/10/26",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-26T02:00:08+00:00",
-      "age_days": 0.53,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "東京・水天宮前に「ワインと鍋」を開業、その後売却したすてぃおさんに、飲食店経営の難しさを伺いました。 飲食店経営の成功談は数多くありますが、資金繰りの苦労や「店を続けるか、手放すか」というシビアな判断の裏側について、経営者が自ら語る機会はそう多くありません。 2021年12月、東京・水天宮前に開業した「..."
-    },
-    {
-      "title": "社内のホワイトハッカー「誰より悔しい」不正アクセス受けたGMO熊谷社長、ブログ全文",
-      "url": "https://www.sankei.com/article/20261026-FPM5XMZGCZP4RDOXILAKMEOOFE/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-26T00:54:55+00:00",
-      "age_days": 0.58,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "外国為替証拠金取引（FX）のためのサービスに不正アクセスを受けたことを巡り、GMOインターネットグループの熊谷正寿社長が25日、事前に社内の技術者から安全性に関して「改善すべき課題」が指摘されていたとブログに投稿した。一律5000円の見舞金を支払うと発表したことについて、「ご不便とご心配」をかけた顧客への「..."
-    },
-    {
-      "title": "GMO不正アクセス犯の犯行声明文ビュアー",
-      "url": "https://satoru.net/hacker/gmo/261025-seimei.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-25T23:12:28+00:00",
-      "age_days": 0.65,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "最終更新 2026-10-25 ／ まとめページ ／ 傾向分析 ／ samples.zip の分析 ／ 10/27 正午までに利用者がやるべきこと 当ページは、事件の情報を正しく知ってもらうことを目的に公開しています。犯人の目的を助長したり、被害を広げたりする意図は一切ありません。口座 ID・パスワード・個人情報など、被害を広げるおそれ..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] OPNsense: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
