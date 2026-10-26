@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T07:41:54+00:00",
-  "run_id": "2026-10-26T07:41:54+00:00",
+  "generated_at": "2026-10-26T08:01:00+00:00",
+  "run_id": "2026-10-26T08:01:00+00:00",
   "date": "2026-10-26",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
+    "new_relevant_findings": 0,
     "today_file_total": 27,
     "displayed_findings": 27,
     "high": 0,
@@ -1365,75 +1365,7 @@
       "id": "d82acf9beb135c97fb78"
     }
   ],
-  "new_findings": [
-    {
-      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux ca-certificates: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4120",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-10-26T07:19:13+00:00",
-      "fetched_at": "2026-10-26T07:41:23+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ca-certificates ausnutzen, um Sicherheitsvorkehrungen zu umgehen, vertrauliche Informationen auszulesen oder Daten zu manipulieren",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Linux",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e3ab393cb53fae8c37f9"
-    },
-    {
-      "title": "[UPDATE] [hoch] Internet Systems Consortium BIND: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4116",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-10-26T07:19:13+00:00",
-      "fetched_at": "2026-10-26T07:41:23+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Internet Systems Consortium BIND ausnutzen, um einen Denial of Service Angriff durchzuführen oder möglicherweise beliebigen Code auszuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3da1ed0ac82dcf90e84a"
-    },
-    {
-      "title": "Angriffe auf Arista VeloCloud und Collabora/Nextcloud beobachtet",
-      "url": "https://www.heise.de/news/Angriffe-auf-Arista-VeloCloud-und-Collabora-Nextcloud-beobachtet-11499615.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-10-26T07:34:00.000+00:00",
-      "fetched_at": "2026-10-26T07:41:23+00:00",
-      "summary": "Angreifer nutzen eine Lücke in Collabora und installieren Webshells auf Nextcloud-Servern. Auch Arista VeloCloud wird attackiert.",
-      "matched_keywords": [
-        "Security"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8dedecd41d7d3cc2f57e"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
