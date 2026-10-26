@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-26T15:41:42+00:00_
+_Generiert: 2026-10-26T15:58:31+00:00_
 
 ## Kurzlage
 
-62 neue relevante Treffer. Stärkstes Signal: „How a 39-store retail chain in Laos moved from Excel to AI agents“ aus e27 Asia Startup and Tech Feed (Score 17, opportunity).
+63 neue relevante Treffer. Stärkstes Signal: „How a 39-store retail chain in Laos moved from Excel to AI agents“ aus e27 Asia Startup and Tech Feed (Score 17, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
