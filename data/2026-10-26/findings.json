@@ -186,6 +186,29 @@
     "id": "6ead925668001c8d8d05"
   },
   {
+    "title": "makecindy/cindy",
+    "url": "https://github.com/makecindy/cindy",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-10-26T05:58:49+00:00",
+    "summary": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 https://cindy.app English · 简体中文 🌐 cindy.app · ⬇️ Download Cindy is an open-source AI agent that works out of the box. She brings multiple harnesses, models and tools into one agent that finishes real work in your projects and apps. Ready from day one, yours to shape over time. Cindy runs locally on your own machine, us…",
+    "matched_keywords": [
+      "AI Agents",
+      "AI/KI",
+      "APAC Trend Radar",
+      "GitHub Trending"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1a8a3d7207a19fd31e69"
+  },
+  {
     "title": "Googleの圧縮形式「Brotli」に深刻な脆弱性「HTTP2Shell」、Web関連に幅広く影響／OpenAIが発見した「Node2Shell」の影響が拡大、認証なしでリモートコード実行のおそれ",
     "url": "https://forest.watch.impress.co.jp/docs/news/2151000.html",
     "source": "Hatena Bookmark Hotentry IT",
@@ -469,6 +492,27 @@
     "id": "27ff0790bff9ae00e6b2"
   },
   {
+    "title": "無料の画像生成AI「Moss-Image」がすごい 日本語も漫画も生成、商用利用OKの実力を試した (1/4)",
+    "url": "https://ascii.jp/elem/000/004/445/4445534/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-26T01:54:11+00:00",
+    "fetched_at": "2026-10-26T05:58:49+00:00",
+    "summary": "10月16日、「Moss-Image」という新しい画像AIモデルがオープンウエイトで登場しました。5B（50億）パラメータを持ち、写真からアニメ風まで、様々な画風での画像生成や日本語を含むテキストの描画ができる有能なモデルです。また、商用利用・改変・再配布・製品への組み込みを認めるApache 2.0という自由度の高いライセ...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "003e3b5d8ea7326d0fa4"
+  },
+  {
     "title": "Google、プライバシーポリシーに「Gmail」「Googleフォト」のデータを広告に使う例外を追加 回避方法は",
     "url": "https://www.itmedia.co.jp/news/article/2610/26/2000002570/",
     "source": "Hatena Bookmark Hotentry IT",
@@ -488,5 +532,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "86c1f156a4dc0a3b9ec9"
+  },
+  {
+    "title": "pollen-robotics/microduck",
+    "url": "https://github.com/pollen-robotics/microduck",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-10-26T05:58:49+00:00",
+    "summary": "A Tiny biped duck robot 🦆 https://pollen-robotics.com/microduck Microduck A tiny biped robot that moves using reinforcement learning policies. Get yours here · Cheat sheet · Training the policies · How it works · Contributing This repo is the duck's brain. About 25 cm and 800 g of robot, run by a handful of daemons on a Rockchip RK3566: a 50 Hz control loop driving fifteen servos from neural policies, the radios and…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "GitHub Trending"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d82acf9beb135c97fb78"
   }
 ]

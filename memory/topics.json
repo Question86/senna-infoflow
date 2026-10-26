@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-26T05:52:13+00:00",
+  "generated_at": "2026-10-26T05:59:18+00:00",
   "topics": {
     "ai": [
       {
@@ -17,6 +17,13 @@
         "published_at": "2026-10-26T04:00:00+00:00",
         "relevance_score": 13,
         "url": "https://e27.co/two-part-timers-and-one-ai-orchestrator-inside-a-dubai-conference-on-the-breaking-point-20261025/"
+      },
+      {
+        "title": "makecindy/cindy",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 13,
+        "url": "https://github.com/makecindy/cindy"
       },
       {
         "title": "Googleの圧縮形式「Brotli」に深刻な脆弱性「HTTP2Shell」、Web関連に幅広く影響／OpenAIが発見した「Node2Shell」の影響が拡大、認証なしでリモートコード実行のおそれ",
@@ -47,11 +54,25 @@
         "url": "https://e27.co/youth-brain-drain-a-hidden-threat-in-indonesias-agriculture-sector-20261023/"
       },
       {
+        "title": "無料の画像生成AI「Moss-Image」がすごい 日本語も漫画も生成、商用利用OKの実力を試した (1/4)",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-26T01:54:11+00:00",
+        "relevance_score": 5,
+        "url": "https://ascii.jp/elem/000/004/445/4445534/"
+      },
+      {
         "title": "Google、プライバシーポリシーに「Gmail」「Googleフォト」のデータを広告に使う例外を追加 回避方法は",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-10-25T23:31:21+00:00",
         "relevance_score": 5,
         "url": "https://www.itmedia.co.jp/news/article/2610/26/2000002570/"
+      },
+      {
+        "title": "pollen-robotics/microduck",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 5,
+        "url": "https://github.com/pollen-robotics/microduck"
       }
     ],
     "general": [
@@ -151,6 +172,22 @@
         "url": "https://e27.co/youth-brain-drain-a-hidden-threat-in-indonesias-agriculture-sector-20261023/"
       }
     ],
+    "github": [
+      {
+        "title": "makecindy/cindy",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 13,
+        "url": "https://github.com/makecindy/cindy"
+      },
+      {
+        "title": "pollen-robotics/microduck",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 5,
+        "url": "https://github.com/pollen-robotics/microduck"
+      }
+    ],
     "geopolitics": [
       {
         "title": "Founders are buying gold, not Lamborghinis, after the exit",
@@ -165,6 +202,13 @@
         "published_at": "2026-10-26T05:00:00+00:00",
         "relevance_score": 8,
         "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261026~d903d7ad85.en.html"
+      },
+      {
+        "title": "pollen-robotics/microduck",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 5,
+        "url": "https://github.com/pollen-robotics/microduck"
       }
     ]
   }

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-26T05:52:13+00:00_
+_Generated: 2026-10-26T05:59:18+00:00_
 
 ## Status
 - status: `normal`
-- findings: `19`
+- findings: `22`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-10-26T05:52:13+00:00_
 - url: https://e27.co/two-part-timers-and-one-ai-orchestrator-inside-a-dubai-conference-on-the-breaking-point-20261025/
 - summary: Most conferences are built the same way. A committee brainstorms a theme, a team chases speakers, a designer lays out a program, and everyone hopes the real value happens in the corridors. Three days in Dubai this October worked differently. The operating mod…
 
-### 6. Googleの圧縮形式「Brotli」に深刻な脆弱性「HTTP2Shell」、Web関連に幅広く影響／OpenAIが発見した「Node2Shell」の影響が拡大、認証なしでリモートコード実行のおそれ
+### 6. makecindy/cindy
+- source: GitHub Trending RSS All Languages Daily
+- score: `13`
+- published: `None`
+- url: https://github.com/makecindy/cindy
+- summary: Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 https://cindy.app English · 简体中文 🌐 cindy.app · ⬇️ Download Cindy is an open-source AI agent that works out of the box. She brings multiple harnesses, models and…
+
+### 7. Googleの圧縮形式「Brotli」に深刻な脆弱性「HTTP2Shell」、Web関連に幅広く影響／OpenAIが発見した「Node2Shell」の影響が拡大、認証なしでリモートコード実行のおそれ
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-10-25T23:08:21+00:00`
 - url: https://forest.watch.impress.co.jp/docs/news/2151000.html
 - summary: Googleの圧縮形式「Brotli」に深刻な脆弱性「HTTP2Shell」、Web関連に幅広く影響／OpenAIが発見した「Node2Shell」の影響が拡大、認証なしでリモートコード実行のおそれ
 
-### 7. Bitcoin’s macro reset: Reclaim US$80,000 before the Fed speaks?
+### 8. Bitcoin’s macro reset: Reclaim US$80,000 before the Fed speaks?
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-10-26T04:17:18+00:00`
 - url: https://e27.co/bitcoins-macro-reset-reclaim-us80000-before-the-fed-speaks-20261026/
 - summary: Bitcoin slipped 0.97 per cent to US$79,912.85 over the last 24 hours. That number alone looks mild for an asset known for violent swings. The total crypto market cap fell 0.72 per cent to US$2.68 trillion. Bitcoin’s seven-day correlation with the S&P 500 reac…
-
-### 8. Founders are buying gold, not Lamborghinis, after the exit
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-10-26T02:00:07+00:00`
-- url: https://e27.co/founders-are-buying-gold-not-lamborghinis-after-the-exit-20261024/
-- summary: A running joke in Singapore’s startup circles holds that a founder’s net worth exists only in two places: the cap table and the LinkedIn bio. For most of Southeast Asia’s entrepreneurs, the joke still lands. IPO windows open and slam shut, trade sales are thi…
 
 END OF DOCUMENT
