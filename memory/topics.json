@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-26T01:36:25+00:00",
+  "generated_at": "2026-10-26T01:57:44+00:00",
   "topics": {
     "ai": [
       {
@@ -17,6 +17,13 @@
         "published_at": "2026-10-25T23:08:21+00:00",
         "relevance_score": 12,
         "url": "https://forest.watch.impress.co.jp/docs/news/2151000.html"
+      },
+      {
+        "title": "Google、プライバシーポリシーに「Gmail」「Googleフォト」のデータを広告に使う例外を追加 回避方法は",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-25T23:31:21+00:00",
+        "relevance_score": 5,
+        "url": "https://www.itmedia.co.jp/news/article/2610/26/2000002570/"
       }
     ],
     "general": [
@@ -26,6 +33,13 @@
         "published_at": "2026-10-25T23:07:41+00:00",
         "relevance_score": 10,
         "url": "https://zenn.dev/rimon/articles/45c1fd2f015af8"
+      },
+      {
+        "title": "M 4.9 - 205 km NW of Port-Olry, Vanuatu",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-26T01:38:29.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4xa"
       },
       {
         "title": "Thirty climate tech startups in Southeast Asia that would rather build than pledge",
