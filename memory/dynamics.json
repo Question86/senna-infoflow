@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-27T12:36:54Z",
+  "generated_at": "2026-10-27T13:01:22Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/jp/JVN51223238/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-27T15:00:00+09:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://jvn.jp/jp/JVN90463048/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-27T12:00:00+09:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -71,7 +71,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4154",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-27T11:33:40+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -95,7 +95,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4134",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-27T11:33:38+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -119,7 +119,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3327",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-27T11:31:50+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "security"
@@ -144,7 +144,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4158",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-27T11:01:29+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -168,7 +168,7 @@
       "url": "https://jvn.jp/vu/JVNVU90547696/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-27T10:30:15+09:00",
-      "age_days": 0.46,
+      "age_days": 0.48,
       "topics": [
         "security"
       ],
@@ -192,7 +192,7 @@
       "url": "https://jvn.jp/vu/JVNVU90363302/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-27T10:30:00+09:00",
-      "age_days": 0.46,
+      "age_days": 0.48,
       "topics": [
         "security"
       ],
@@ -216,7 +216,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4155",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-27T11:33:39+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -242,7 +242,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4163",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-27T11:01:29+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -268,7 +268,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3965",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-27T08:51:29+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -294,7 +294,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4147",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-27T11:33:40+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -319,7 +319,7 @@
       "url": "https://e27.co/qpiais-singapore-bet-put-quantum-hardware-in-the-hands-of-finance-students-20261026/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-27T01:00:28+00:00",
-      "age_days": 0.48,
+      "age_days": 0.5,
       "topics": [
         "ai",
         "macro"
@@ -347,7 +347,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 130.44,
+      "age_days": 130.46,
       "topics": [
         "ai"
       ],
@@ -366,7 +366,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 130.4d old signal",
+        "aging penalty -8.0 for 130.5d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -376,7 +376,7 @@
       "url": "https://www.heise.de/news/php2shell-Erfolgreiche-Angriffe-bestaetigt-noch-viele-Instanzen-ungepatcht-11501167.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-27T08:02:00.000+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -401,7 +401,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tte0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-27T01:41:11.040+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "disaster"
       ],
@@ -426,7 +426,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttdt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-27T00:57:45.040+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "disaster"
       ],
@@ -451,7 +451,7 @@
       "url": "https://e27.co/the-e27-contributor-programme-writing-an-article-that-gets-published-part-1-20261027/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-27T04:54:00+00:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "ai",
         "macro"
@@ -477,7 +477,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-27T09:15:11.243+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -502,7 +502,7 @@
       "url": "https://e27.co/from-conference-attendee-to-intelligence-node-my-experience-at-an-ai-native-conference-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-27T02:00:11+00:00",
-      "age_days": 0.44,
+      "age_days": 0.46,
       "topics": [
         "ai",
         "macro"
@@ -530,7 +530,7 @@
       "url": "https://www.bis.org/speeches/20261027-welcoming-remarks-malaysias-designated-non-financial-businesses-and-professions-dnfbp-compliance-conference-2026",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-27T00:00:00+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "macro"
       ],
@@ -556,7 +556,7 @@
       "url": "https://e27.co/3-scenarios-for-october-28-which-one-breaks-bitcoins-us80000-resistance-20261027/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-27T05:02:50+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "macro"
       ],
@@ -580,7 +580,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-27T12:01:26.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -605,7 +605,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-27T12:22:23.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -630,7 +630,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-27T11:09:11.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -655,7 +655,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-27T10:50:39.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -680,7 +680,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfe",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-27T09:39:56.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -705,7 +705,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-27T09:27:10.040+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -730,7 +730,7 @@
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261027~506ef03145.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-10-27T00:00:00+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "macro"
       ],
@@ -754,7 +754,7 @@
       "url": "https://www.digital.go.jp/councils/procurement-reform/FY2026/24cfea22-3e10-418e-abbd-983af697d751",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-27T06:00:00+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -778,7 +778,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261027-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-27T02:51:03+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "general"
       ],
@@ -802,7 +802,7 @@
       "url": "https://www.bis.org/speeches/20261027-strength-through-resilience-adaptability-and-trust-insurance-stronger-europe",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-27T00:00:00+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "macro"
       ],
@@ -826,7 +826,7 @@
       "url": "https://e27.co/evan-goldberg-on-ai-trust-confident-answers-arent-enough-context-is-everything-20261027/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-27T10:42:02+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -852,7 +852,7 @@
       "url": "https://github.com/JetBrains/thinkrail",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-27T06:33:44+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "ai",
         "macro"
@@ -879,7 +879,7 @@
       "url": "https://www.ecb.europa.eu//press/stats/md/html/ecb.md2609~dd1bf1b2e4.en.html",
       "source": "ECB Statistical Press Releases",
       "published_at": "2026-10-27T09:00:00+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "macro"
       ],
@@ -899,11 +899,35 @@
       "summary": "Monetary developments in the euro area: September 2026"
     },
     {
+      "title": "GMO、不正アクセス実行犯の手がかりに懸賞金 1億5000万円規模",
+      "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002642/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-27T11:23:36+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "GMOインターネットグループは10月27日、傘下のGMOインターネットが提供するFX自動売買用VPS「お名前.com デスクトップクラウド」への不正アクセスを巡り、事態を解明する情報に総額100万ドル（約1億5000万円）を支払う懸賞金制度を始めると発表した。28日正午から専用窓口で情報提供を受け付ける。 国内外の法人・個人か..."
+    },
+    {
       "title": "【第7報】不正アクセスに関する調査結果および今後の対応について | IDCフロンティア",
       "url": "https://www.idcf.jp/news/topics/20261027001",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-27T07:55:13+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "general"
       ],
@@ -927,7 +951,7 @@
       "url": "https://group.gmo/info/alert/2026102703/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-27T05:28:04+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -951,7 +975,7 @@
       "url": "https://group.gmo/info/alert/20261027/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-27T01:26:24+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "general"
       ],
@@ -975,7 +999,7 @@
       "url": "https://internet.watch.impress.co.jp/docs/special/2151050.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-26T21:44:05+00:00",
-      "age_days": 0.62,
+      "age_days": 0.64,
       "topics": [
         "general"
       ],
@@ -993,30 +1017,6 @@
         "high terms: 10"
       ],
       "summary": "ウェブサイトも“保守・修繕”の発想が必要。「PHPの脆弱性」から、経営層・サイト運営者に知っておいてほしいこと"
-    },
-    {
-      "title": "電子ギフト会社に不正アクセス 5億5000万円分が不正発行 | NHKニュース",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261026de66013",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-26T14:37:21+00:00",
-      "age_days": 0.92,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "電子ギフトを手がける「ギフティグループ」は、子会社が運用するシステムが不正アクセスを受け、およそ5億5000万円分の電子ギフトが不正に発行されたと発表しました。 飲食店やコンビニなどで利用できる電…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “GROWIにおける複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
