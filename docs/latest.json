@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T07:43:03+00:00",
-  "run_id": "2026-10-27T07:43:03+00:00",
+  "generated_at": "2026-10-27T07:56:05+00:00",
+  "run_id": "2026-10-27T07:56:05+00:00",
   "date": "2026-10-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 29
+      "configured_public_sources_only": 30
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 29,
-    "displayed_findings": 29,
+    "new_relevant_findings": 1,
+    "today_file_total": 30,
+    "displayed_findings": 30,
     "high": 0,
     "medium": 8,
-    "observe": 21,
+    "observe": 22,
     "source_errors": 0
   },
   "sections": {
@@ -601,6 +601,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "597735fefdfa96b84d44"
+      },
+      {
+        "title": "【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第10報）（攻撃者による情報の公開に関し、弊社の認識と対策について） | GMOインターネットグループ株式会社",
+        "url": "https://group.gmo/info/alert/2026102703/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-27T05:28:04+00:00",
+        "fetched_at": "2026-10-27T07:55:34+00:00",
+        "summary": "2026年10月27日 お知らせ【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第10報） （攻撃者による情報の公開に関し、弊社の認識と対策について） 2026年10月27日 13:55時点 GMOインターネットグループ株式会社 GMOインターネット株式会社 このたびは、「お名前.com デスクト...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "afac49f53733746eb192"
       },
       {
         "title": "【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第8報）（【続報】お客様をお守りするために現在私たちが行っていること） | GMOインターネットグループ株式会社",
@@ -1281,6 +1302,27 @@
       "id": "597735fefdfa96b84d44"
     },
     {
+      "title": "【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第10報）（攻撃者による情報の公開に関し、弊社の認識と対策について） | GMOインターネットグループ株式会社",
+      "url": "https://group.gmo/info/alert/2026102703/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-27T05:28:04+00:00",
+      "fetched_at": "2026-10-27T07:55:34+00:00",
+      "summary": "2026年10月27日 お知らせ【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第10報） （攻撃者による情報の公開に関し、弊社の認識と対策について） 2026年10月27日 13:55時点 GMOインターネットグループ株式会社 GMOインターネット株式会社 このたびは、「お名前.com デスクト...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "afac49f53733746eb192"
+    },
+    {
       "title": "【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第8報）（【続報】お客様をお守りするために現在私たちが行っていること） | GMOインターネットグループ株式会社",
       "url": "https://group.gmo/info/alert/20261027/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1385,7 +1427,29 @@
       "id": "a46ced2ce1cdd2031cd2"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第10報）（攻撃者による情報の公開に関し、弊社の認識と対策について） | GMOインターネットグループ株式会社",
+      "url": "https://group.gmo/info/alert/2026102703/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-27T05:28:04+00:00",
+      "fetched_at": "2026-10-27T07:55:34+00:00",
+      "summary": "2026年10月27日 お知らせ【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第10報） （攻撃者による情報の公開に関し、弊社の認識と対策について） 2026年10月27日 13:55時点 GMOインターネットグループ株式会社 GMOインターネット株式会社 このたびは、「お名前.com デスクト...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "afac49f53733746eb192"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

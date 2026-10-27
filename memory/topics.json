@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-27T07:43:03+00:00",
+  "generated_at": "2026-10-27T07:56:05+00:00",
   "topics": {
     "ai": [
       {
@@ -200,6 +200,13 @@
         "url": "https://www.digital.go.jp/speech/minister-261027-01"
       },
       {
+        "title": "【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第10報）（攻撃者による情報の公開に関し、弊社の認識と対策について） | GMOインターネットグループ株式会社",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-27T05:28:04+00:00",
+        "relevance_score": 5,
+        "url": "https://group.gmo/info/alert/2026102703/"
+      },
+      {
         "title": "【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第8報）（【続報】お客様をお守りするために現在私たちが行っていること） | GMOインターネットグループ株式会社",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-10-27T01:26:24+00:00",
@@ -212,13 +219,6 @@
         "published_at": "2026-10-26T21:44:05+00:00",
         "relevance_score": 5,
         "url": "https://internet.watch.impress.co.jp/docs/special/2151050.html"
-      },
-      {
-        "title": "電子ギフト会社に不正アクセス 5億5000万円分が不正発行 | NHKニュース",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-26T14:37:21+00:00",
-        "relevance_score": 5,
-        "url": "https://news.web.nhk/newsweb/na/nd-20261026de66013"
       }
     ],
     "security": [
