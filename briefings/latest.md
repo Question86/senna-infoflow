@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-27T10:12:24+00:00_
+_Generiert: 2026-10-27T10:51:29+00:00_
 
 ## Kurzlage
 
-44 neue relevante Treffer. Stärkstes Signal: „QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students“ aus e27 Asia Startup and Tech Feed (Score 18, opportunity).
+46 neue relevante Treffer. Stärkstes Signal: „QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students“ aus e27 Asia Startup and Tech Feed (Score 18, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -152,6 +152,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Evan Goldberg on AI trust: Confident answers aren’t enough, context is everything** — Score 13, observation — [Quelle](https://e27.co/evan-goldberg-on-ai-trust-confident-answers-arent-enough-context-is-everything-20261027/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-27T10:42:02+00:00`, fetched `2026-10-27T10:50:58+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: Every enterprise software vendor now has an AI agent story. Oracle NetSuite’s version, unveiled at SuiteWorld in Las Vegas on October 26, comes with two twists: its agents are meant to know your industry, and its newest offering is designed to catch tech startups on day one and keep them until IPO. The company announced […] The post Evan Goldberg on AI trust: Confident answers aren’t enough, context is everything ap…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.8 - 200 km NW of Port-Olry, Vanuatu** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfb)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-27T09:15:11.243+00:00`, fetched `2026-10-27T09:19:13+00:00`
@@ -250,15 +259,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0)
   - Kurz: For years, the logic of startup building was closely associated with ownership. A company developed its own technology, recruited its own specialised teams, accumulated proprietary tools and built infrastructure that competitors would struggle to reproduce. The more difficult those capabilities were to access elsewhere, the more credible the competitive advantage appeared. In software especially, technological […] T…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Malaysia’s durian glut and the politics of the delivery gap** — Score 8, observation — [Quelle](https://e27.co/malaysias-durian-glut-and-the-politics-of-the-delivery-gap-20261025/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-27T03:00:08+00:00`, fetched `2026-10-27T03:05:20+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph region china_credible_only: China (+2.0)
-  - Kurz: Malaysia’s durian industry ought to be one of the country’s great economic success stories. Chinese demand soared. Musang King became an internationally recognised premium product. Investors planted orchards across the country. In 2024, Malaysia secured long-awaited approval to export fresh durians directly to China. Exports duly took off. Fresh durian exports to China increased from […] The post Malaysia’s durian g…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Welcoming remarks - Malaysia's Designated Non-Financial Businesses and Professions (DNFBP) Compliance Conference 2026** — Score 8, opportunity — [Quelle](https://www.bis.org/speeches/20261027-welcoming-remarks-malaysias-designated-non-financial-businesses-and-professions-dnfbp-compliance-conference-2026)
   - Quelle: BIS Central Bankers Speeches / `rss`
