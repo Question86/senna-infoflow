@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-27T09:37:26+00:00",
+  "generated_at": "2026-10-27T09:50:38+00:00",
   "topics": {
     "ai": [
       {
@@ -221,6 +221,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfb"
       },
       {
+        "title": "M 5.0 - 206 km NW of Port-Olry, Vanuatu",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-27T09:39:56.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfe"
+      },
+      {
         "title": "M 5.0 - 95 km NNE of Hihifo, Tonga",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-27T09:27:10.040+00:00",
@@ -261,13 +268,6 @@
         "published_at": "2026-10-27T02:51:03+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/speech/minister-261027-01"
-      },
-      {
-        "title": "【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第10報）（攻撃者による情報の公開に関し、弊社の認識と対策について） | GMOインターネットグループ株式会社",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-27T05:28:04+00:00",
-        "relevance_score": 5,
-        "url": "https://group.gmo/info/alert/2026102703/"
       }
     ],
     "security": [
