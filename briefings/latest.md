@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-27T08:59:32+00:00_
+_Generiert: 2026-10-27T09:19:48+00:00_
 
 ## Kurzlage
 
-36 neue relevante Treffer. Stärkstes Signal: „QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students“ aus e27 Asia Startup and Tech Feed (Score 18, opportunity).
+39 neue relevante Treffer. Stärkstes Signal: „QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students“ aus e27 Asia Startup and Tech Feed (Score 18, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,6 +33,10 @@ _Generiert: 2026-10-27T08:59:32+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.5M, Depth:492.376km) in Bonin Islands, Japan Region 25/10/2026 02:09 UTC, No people affected in 100km.
+- **GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu 27/10/2026 08:55 UTC, No people affected in 100km.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574115)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu 27/10/2026 08:55 UTC, No people affected in 100km.
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:641.812km) in Fiji 26/10/2026 10:13 UTC, 2 thousand in 100km.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573942)
   - Quelle: GDACS
   - Zeit: ``
@@ -57,6 +61,10 @@ _Generiert: 2026-10-27T08:59:32+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.1M, Depth:116km) in Vanuatu 25/10/2026 02:24 UTC, 110 thousand in MMI IV.
+- **USGS earthquake M5.8 - 200 km NW of Port-Olry, Vanuatu** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfb)
+  - Quelle: USGS
+  - Zeit: `2026-10-27T08:55:23+00:00`
+  - Kurz: M5.8 - 200 km NW of Port-Olry, Vanuatu. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -148,6 +156,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 5.8 - 200 km NW of Port-Olry, Vanuatu** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfb)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-27T09:15:11.243+00:00`, fetched `2026-10-27T09:19:13+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - IV Time 2026-10-27 08:55:23 UTC 2026-10-27 08:55:23 UTC at epicenter Location 13.896°S 165.626°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **JetBrains/thinkrail** — Score 13, observation — [Quelle](https://github.com/JetBrains/thinkrail)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-10-27T06:33:44+00:00`
@@ -165,6 +182,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)
   - Kurz: 「X をしたいから地図を作って」という依頼ごとに、その目的だけを満たす最小で最速の地図の描画器をほぼゼロから作り、計測で確かめるためのスキルとハーネスです。 汎用の地図エンジンは作らず、依頼ごとに描画器そのものを作り直します。平面でだけ見せたい依頼なら、3 次元描画のための処理の大半は最初から要りませ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Monetary developments in the euro area: September 2026** — Score 10, observation — [Quelle](https://www.ecb.europa.eu//press/stats/md/html/ecb.md2609~dd1bf1b2e4.en.html)
+  - Quelle: ECB Statistical Press Releases / `rss`
+  - Zeit: published `2026-10-27T09:00:00+00:00`, fetched `2026-10-27T09:19:13+00:00`
+  - Treffer: euro area, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Monetary developments in the euro area: September 2026
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **October 2026 euro area bank lending survey** — Score 10, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261027~506ef03145.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-10-27T00:00:00+00:00`, fetched `2026-10-27T09:19:13+00:00`
+  - Treffer: euro area, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: October 2026 euro area bank lending survey
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.9 - 69 km WSW of Kirakira, Solomon Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tte4)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -255,33 +290,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 令和8年度（2026年度）デジタル庁情報システム調達改革検討会（第2回） の開催情報と資料を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「防災分野のデータ流通促進」の取組概要と「デジタル庁における官民共創による防災DXの推進」の資料を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/disaster_prevention)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-10-27T06:00:00+00:00`, fetched `2026-10-27T06:33:44+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 「防災分野のデータ流通促進」の取組概要と「デジタル庁における官民共創による防災DXの推進」の資料を更新しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The two-tier system in transition - public foundations, private innovation** — Score 6, observation — [Quelle](https://www.bis.org/speeches/20261027-two-tier-system-transition-public-foundations-private-innovation)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-10-27T00:00:00+00:00`, fetched `2026-10-27T08:28:39+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0)
-  - Kurz: Speech by Ms Chiara Scotti, Deputy Governor of the Bank of Italy, at the meeting of the Institut International d’Études Bancaires (IIEB), Milan, 23 October 2026.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Taking action for nature - investing in economic resilience and prosperity** — Score 6, observation — [Quelle](https://www.bis.org/speeches/20261027-taking-action-nature-investing-economic-resilience-and-prosperity)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-10-27T00:00:00+00:00`, fetched `2026-10-27T08:28:39+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0)
-  - Kurz: Keynote speech by Mr Frank Elderson, Member of the Executive Board of the European Central Bank and Vice-Chair of the Supervisory Board of the European Central Bank, at the COP17 Finance and Biodiversity Day, Yerewan, 26 October 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

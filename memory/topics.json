@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-27T08:59:32+00:00",
+  "generated_at": "2026-10-27T09:19:48+00:00",
   "topics": {
     "ai": [
       {
@@ -98,6 +98,13 @@
         "url": "https://github.com/JetBrains/thinkrail"
       },
       {
+        "title": "October 2026 euro area bank lending survey",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-10-27T00:00:00+00:00",
+        "relevance_score": 10,
+        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261027~506ef03145.en.html"
+      },
+      {
         "title": "Agencies don’t have a hiring problem. They have the (EBITDA) multiple problem",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-10-27T01:00:36+00:00",
@@ -138,13 +145,6 @@
         "published_at": "2026-10-27T00:00:00+00:00",
         "relevance_score": 6,
         "url": "https://www.bis.org/speeches/20261027-taking-action-nature-investing-economic-resilience-and-prosperity"
-      },
-      {
-        "title": "Strength through resilience, adaptability and trust - insurance for a stronger Europe",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-10-27T00:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.bis.org/speeches/20261027-strength-through-resilience-adaptability-and-trust-insurance-stronger-europe"
       }
     ],
     "geopolitics": [
@@ -154,6 +154,20 @@
         "published_at": "2026-10-27T01:00:28+00:00",
         "relevance_score": 18,
         "url": "https://e27.co/qpiais-singapore-bet-put-quantum-hardware-in-the-hands-of-finance-students-20261026/"
+      },
+      {
+        "title": "Monetary developments in the euro area: September 2026",
+        "source": "ECB Statistical Press Releases",
+        "published_at": "2026-10-27T09:00:00+00:00",
+        "relevance_score": 10,
+        "url": "https://www.ecb.europa.eu//press/stats/md/html/ecb.md2609~dd1bf1b2e4.en.html"
+      },
+      {
+        "title": "October 2026 euro area bank lending survey",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-10-27T00:00:00+00:00",
+        "relevance_score": 10,
+        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261027~506ef03145.en.html"
       },
       {
         "title": "The AI era is forcing startups to rethink what they should own",
@@ -198,6 +212,13 @@
         "published_at": "2026-10-27T00:57:45.040+00:00",
         "relevance_score": 15,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttdt"
+      },
+      {
+        "title": "M 5.8 - 200 km NW of Port-Olry, Vanuatu",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-27T09:15:11.243+00:00",
+        "relevance_score": 13,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfb"
       },
       {
         "title": "M 4.9 - 69 km WSW of Kirakira, Solomon Islands",
@@ -247,13 +268,6 @@
         "published_at": "2026-10-27T01:26:24+00:00",
         "relevance_score": 5,
         "url": "https://group.gmo/info/alert/20261027/"
-      },
-      {
-        "title": "ウェブサイトも“保守・修繕”の発想が必要。「PHPの脆弱性」から、経営層・サイト運営者に知っておいてほしいこと",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-26T21:44:05+00:00",
-        "relevance_score": 5,
-        "url": "https://internet.watch.impress.co.jp/docs/special/2151050.html"
       }
     ],
     "security": [

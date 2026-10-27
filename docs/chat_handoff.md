@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-27T08:59:32+00:00_
+_Generated: 2026-10-27T09:19:48+00:00_
 
 ## Status
 - status: `normal`
-- findings: `36`
+- findings: `39`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-10-27T08:59:32+00:00_
 - url: https://jvn.jp/jp/JVN51223238/
 - summary: 株式会社GROWIが提供するGROWIには、複数の脆弱性が存在します。
 
-### 5. JetBrains/thinkrail
+### 5. M 5.8 - 200 km NW of Port-Olry, Vanuatu
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-10-27T09:15:11.243+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfb
+- summary: PAGER - GREEN ShakeMap - IV Time 2026-10-27 08:55:23 UTC 2026-10-27 08:55:23 UTC at epicenter Location 13.896°S 165.626°E Depth 10.00 km (6.21 mi)
+
+### 6. JetBrains/thinkrail
 - source: GitHub Trending RSS All Languages Daily
 - score: `13`
 - published: `None`
 - url: https://github.com/JetBrains/thinkrail
 - summary: Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need https://thinkrail.ai/ ThinkRail ThinkRail is the agentic IDE that gets better every time you use it — learning your project through living specs to…
 
-### 6. GitHub - yuiseki/map-from-scratch: 「Xをしたいから地図を作って」という依頼ごとに、その目的だけを満たす最小・最速の地図描画器をほぼゼロから作り、性能と正しさを計測して確かめる、 AI エージェントのためのスキルとハーネス
+### 7. GitHub - yuiseki/map-from-scratch: 「Xをしたいから地図を作って」という依頼ごとに、その目的だけを満たす最小・最速の地図描画器をほぼゼロから作り、性能と正しさを計測して確かめる、 AI エージェントのためのスキルとハーネス
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-10-26T12:01:11+00:00`
 - url: https://github.com/yuiseki/map-from-scratch
 - summary: 「X をしたいから地図を作って」という依頼ごとに、その目的だけを満たす最小で最速の地図の描画器をほぼゼロから作り、計測で確かめるためのスキルとハーネスです。 汎用の地図エンジンは作らず、依頼ごとに描画器そのものを作り直します。平面でだけ見せたい依頼なら、3 次元描画のための処理の大半は最初から要りませ...
 
-### 7. M 4.9 - 69 km WSW of Kirakira, Solomon Islands
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-10-27T02:22:17.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tte4
-- summary: Time 2026-10-27 02:02:55 UTC 2026-10-27 02:02:55 UTC at epicenter Location 10.668°S 161.319°E Depth 35.00 km (21.75 mi)
-
-### 8. Gemini で社内の AI 活用事例113件を収集！広報が毎日発信し続けた話 | iret.media
-- source: Hatena Bookmark Hotentry IT
-- score: `9`
-- published: `2026-10-27T01:28:51+00:00`
-- url: https://iret.media/210349
-- summary: こんにちは！KDDIアイレット広報の羽鳥です。 2026年3月から平日毎日発信を続けてきた KDDIアイレットの社員による AI 活用事例「AI 実践録」のまとめページを公開しました！ AI 活用事例 – KDDIアイレット社員の AI 実践録 2026年7月までに集まった実践録113件をまとめた特設ページです✨ 本記事では、社内の AI 活用事...
+### 8. Monetary developments in the euro area: September 2026
+- source: ECB Statistical Press Releases
+- score: `10`
+- published: `2026-10-27T09:00:00+00:00`
+- url: https://www.ecb.europa.eu//press/stats/md/html/ecb.md2609~dd1bf1b2e4.en.html
+- summary: Monetary developments in the euro area: September 2026
 
 END OF DOCUMENT

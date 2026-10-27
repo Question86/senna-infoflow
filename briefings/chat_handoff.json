@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-27T08:59:32+00:00",
+  "generated_at": "2026-10-27T09:19:48+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 36,
-    "displayed_findings": 36,
+    "new_relevant_findings": 3,
+    "today_file_total": 39,
+    "displayed_findings": 39,
     "high": 0,
     "medium": 9,
-    "observe": 27
+    "observe": 30
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -55,6 +55,16 @@
       "section": "medium"
     },
     {
+      "title": "M 5.8 - 200 km NW of Port-Olry, Vanuatu",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-27T09:15:11.243+00:00",
+      "relevance_score": 13,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfb",
+      "summary": "PAGER - GREEN ShakeMap - IV Time 2026-10-27 08:55:23 UTC 2026-10-27 08:55:23 UTC at epicenter Location 13.896°S 165.626°E Depth 10.00 km (6.21 mi)",
+      "section": "observe"
+    },
+    {
       "title": "JetBrains/thinkrail",
       "source": "GitHub Trending RSS All Languages Daily",
       "source_type": "rss",
@@ -75,23 +85,13 @@
       "section": "observe"
     },
     {
-      "title": "M 4.9 - 69 km WSW of Kirakira, Solomon Islands",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "Monetary developments in the euro area: September 2026",
+      "source": "ECB Statistical Press Releases",
       "source_type": "rss",
-      "published_at": "2026-10-27T02:22:17.040+00:00",
-      "relevance_score": 9,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tte4",
-      "summary": "Time 2026-10-27 02:02:55 UTC 2026-10-27 02:02:55 UTC at epicenter Location 10.668°S 161.319°E Depth 35.00 km (21.75 mi)",
-      "section": "observe"
-    },
-    {
-      "title": "Gemini で社内の AI 活用事例113件を収集！広報が毎日発信し続けた話 | iret.media",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-27T01:28:51+00:00",
-      "relevance_score": 9,
-      "url": "https://iret.media/210349",
-      "summary": "こんにちは！KDDIアイレット広報の羽鳥です。 2026年3月から平日毎日発信を続けてきた KDDIアイレットの社員による AI 活用事例「AI 実践録」のまとめページを公開しました！ AI 活用事例 – KDDIアイレット社員の AI 実践録 2026年7月までに集まった実践録113件をまとめた特設ページです✨ 本記事では、社内の AI 活用事...",
+      "published_at": "2026-10-27T09:00:00+00:00",
+      "relevance_score": 10,
+      "url": "https://www.ecb.europa.eu//press/stats/md/html/ecb.md2609~dd1bf1b2e4.en.html",
+      "summary": "Monetary developments in the euro area: September 2026",
       "section": "observe"
     }
   ],
@@ -100,138 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “[UPDATE] [hoch] ESRI ArcGIS: Mehrere Schwachstelle” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "[UPDATE] [hoch] ESRI ArcGIS: Mehrere Schwachstelle",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3965",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-27T08:51:29+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe",
-          "security high-signal: angriffe"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in ESRI ArcGIS ausnutzen, um einen SQL-Injection oder Cross Site Scripting Angriffe durchzuführen, Sicherheitsmaßnahmen zu umgehen und einen Denial of Service zu verursachen."
-      },
-      {
-        "title": "QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students",
-        "url": "https://e27.co/qpiais-singapore-bet-put-quantum-hardware-in-the-hands-of-finance-students-20261026/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-27T01:00:28+00:00",
-        "age_days": 0.34,
-        "topics": [
-          "axiom",
-          "ai",
-          "macro"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code, 10",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Singapore has deep-pocketed banks, a national quantum strategy and plenty of conference panels on the subject. What it has rarely offered is a physical quantum computer that a finance undergraduate can actually run code on. India-based QpiAI is betting that gap is its way into the market. Also Read: AI, quantum comput…"
-      },
-      {
-        "title": "GROWIにおける複数の脆弱性",
-        "url": "https://jvn.jp/jp/JVN51223238/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-27T15:00:00+09:00",
-        "age_days": 0.13,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "株式会社GROWIが提供するGROWIには、複数の脆弱性が存在します。"
-      },
-      {
-        "title": "Sleipnir Mobile for Androidのユーザーインターフェースにおいて偽のアドレスバーなどを表示される脆弱性",
-        "url": "https://jvn.jp/jp/JVN90463048/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-27T12:00:00+09:00",
-        "age_days": 0.25,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "フェンリル株式会社が提供するSleipnir Mobile for Androidには、ユーザーインターフェースにおいて偽のアドレスバーなどを表示される脆弱性が存在します。"
-      },
-      {
-        "title": "Fireblocks製mpc-libの強化導出（Hardened Derivation）処理における脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU90547696/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-10-27T10:30:15+09:00",
-        "age_days": 0.32,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      }
-    ]
-  }
+  ]
 }
