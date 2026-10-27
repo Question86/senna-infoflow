@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-27T03:56:50+00:00_
+_Generiert: 2026-10-27T04:26:03+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students“ aus e27 Asia Startup and Tech Feed (Score 18, opportunity).
+19 neue relevante Treffer. Stärkstes Signal: „QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students“ aus e27 Asia Startup and Tech Feed (Score 18, opportunity).
 
 ## Priorität Hoch
 
@@ -105,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: The most telling line in Publicis’ announcement of a new AI Development Hub in Singapore isn’t about technology. It’s the promise that the hub will create roles rather than remove them. The hub itself is a serious bet: engineers, data scientists and product designers working alongside strategists to build proprietary marketing technology in Singapore and […] The post Agencies don’t have a hiring problem. They have t…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **The AI era is forcing startups to rethink what they should own** — Score 8, observation — [Quelle](https://e27.co/the-ai-era-is-forcing-startups-to-rethink-what-they-should-own-20261025/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-27T04:00:53+00:00`, fetched `2026-10-27T04:25:31+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0)
+  - Kurz: For years, the logic of startup building was closely associated with ownership. A company developed its own technology, recruited its own specialised teams, accumulated proprietary tools and built infrastructure that competitors would struggle to reproduce. The more difficult those capabilities were to access elsewhere, the more credible the competitive advantage appeared. In software especially, technological […] T…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Malaysia’s durian glut and the politics of the delivery gap** — Score 8, observation — [Quelle](https://e27.co/malaysias-durian-glut-and-the-politics-of-the-delivery-gap-20261025/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-27T03:00:08+00:00`, fetched `2026-10-27T03:05:20+00:00`
@@ -114,15 +123,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph region china_credible_only: China (+2.0)
   - Kurz: Malaysia’s durian industry ought to be one of the country’s great economic success stories. Chinese demand soared. Musang King became an internationally recognised premium product. Investors planted orchards across the country. In 2024, Malaysia secured long-awaited approval to export fresh durians directly to China. Exports duly took off. Fresh durian exports to China increased from […] The post Malaysia’s durian g…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **From conference attendee to intelligence node: My experience at an AI-native conference** — Score 8, opportunity — [Quelle](https://e27.co/from-conference-attendee-to-intelligence-node-my-experience-at-an-ai-native-conference-20261025/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-27T02:00:11+00:00`, fetched `2026-10-27T02:18:57+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: From 5–7 October, I organised and attended the Strategic Renaissance 21 (SR21) × World Governments Summit workshop in Dubai. The three-day gathering brought together 48 senior leaders from government, finance, technology, defense, and academia to explore a common theme: The Breaking Point. The conference itself was an interesting experiment in AI-enabled event design. As my […] The post From conference attendee to i…
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **古川大臣記者会見（令和8年10月27日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-261027-01)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-10-27T02:51:03+00:00`, fetched `2026-10-27T03:05:20+00:00`
