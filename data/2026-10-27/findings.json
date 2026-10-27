@@ -1,5 +1,44 @@
 [
   {
+    "title": "M 5.4 - 128 km S of Pundong, Indonesia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttgf",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-27T15:24:00.344+00:00",
+    "fetched_at": "2026-10-27T15:24:18+00:00",
+    "summary": "PAGER - GREEN ShakeMap - III DYFI? - II Time 2026-10-27 14:44:00 UTC 2026-10-27 14:44:00 UTC at epicenter Location 9.116°S 110.331°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "PAGER",
+      "ShakeMap",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 19,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "10ddab5683d049eccee8"
+  },
+  {
     "title": "QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students",
     "url": "https://e27.co/qpiais-singapore-bet-put-quantum-hardware-in-the-hands-of-finance-students-20261026/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -68,6 +107,43 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "7f691edef1edb0950565"
+  },
+  {
+    "title": "M 4.9 - 156 km S of Pundong, Indonesia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttgh",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-27T15:12:35.040+00:00",
+    "fetched_at": "2026-10-27T15:24:18+00:00",
+    "summary": "Time 2026-10-27 14:43:09 UTC 2026-10-27 14:43:09 UTC at epicenter Location 9.366°S 110.297°E Depth 20.61 km (12.81 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "9de7e241a5c89640c23b"
   },
   {
     "title": "M 4.6 - 203 km SSE of Tateyama, Japan",

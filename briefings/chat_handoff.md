@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-27T15:04:05+00:00_
+_Generated: 2026-10-27T15:24:47+00:00_
 
 ## Status
 - status: `normal`
-- findings: `72`
+- findings: `74`
 
 ## Top Signals
 
-### 1. QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students
+### 1. M 5.4 - 128 km S of Pundong, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `19`
+- published: `2026-10-27T15:24:00.344+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttgf
+- summary: PAGER - GREEN ShakeMap - III DYFI? - II Time 2026-10-27 14:44:00 UTC 2026-10-27 14:44:00 UTC at epicenter Location 9.116°S 110.331°E Depth 10.00 km (6.21 mi)
+
+### 2. QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students
 - source: e27 Asia Startup and Tech Feed
 - score: `18`
 - published: `2026-10-27T01:00:28+00:00`
 - url: https://e27.co/qpiais-singapore-bet-put-quantum-hardware-in-the-hands-of-finance-students-20261026/
 - summary: Singapore has deep-pocketed banks, a national quantum strategy and plenty of conference panels on the subject. What it has rarely offered is a physical quantum computer that a finance undergraduate can actually run code on. India-based QpiAI is betting that g…
 
-### 2. [UPDATE] [mittel] Red Hat Enterprise Linux Flatpack: Mehrere Schwachstellen ermöglichen Manipulation von Dateien
+### 3. [UPDATE] [mittel] Red Hat Enterprise Linux Flatpack: Mehrere Schwachstellen ermöglichen Manipulation von Dateien
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-10-27T11:33:40+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4147
 - summary: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux Flatpack ausnutzen, um Dateien zu manipulieren.
 
-### 3. [UPDATE] [mittel] Red Hat Enterprise Linux (FreeIPMI): Mehrere Schwachstellen
+### 4. [UPDATE] [mittel] Red Hat Enterprise Linux (FreeIPMI): Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-10-27T11:33:39+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4155
 - summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (FreeIPMI) ausnutzen, um beliebigen Programmcode auszuführen und um einen Denial of Service Angriff durchzuführen.
-
-### 4. M 4.6 - 203 km SSE of Tateyama, Japan
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-10-27T01:41:11.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tte0
-- summary: Time 2026-10-27 01:17:53 UTC 2026-10-27 01:17:53 UTC at epicenter Location 33.285°N 140.713°E Depth 66.72 km (41.45 mi)
 
 ### 5. Evan Goldberg on AI trust: Confident answers aren’t enough, context is everything
 - source: e27 Asia Startup and Tech Feed
