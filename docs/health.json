@@ -1,31 +1,18 @@
 {
-  "generated_at": "2026-10-27T07:00:19+00:00",
-  "status": "warning",
+  "generated_at": "2026-10-27T07:25:53+00:00",
+  "status": "normal",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
-  "coverage_confidence": "limited",
+  "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 28,
-    "displayed_findings": 28,
+    "new_relevant_findings": 1,
+    "today_file_total": 29,
+    "displayed_findings": 29,
     "high": 0,
     "medium": 8,
-    "observe": 20,
-    "source_errors": 2
+    "observe": 21,
+    "source_errors": 0
   },
-  "source_errors": [
-    {
-      "source_id": "twcert_security_news",
-      "source_name": "TWCERT/CC Security News RSS",
-      "source_type": "rss",
-      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
-    },
-    {
-      "source_id": "twcert_tvn_vulnerability_notes",
-      "source_name": "TWCERT/CC TVN Vulnerability Notes RSS",
-      "source_type": "rss",
-      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
-    }
-  ],
+  "source_errors": [],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
 }
