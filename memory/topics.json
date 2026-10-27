@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-27T09:19:48+00:00",
+  "generated_at": "2026-10-27T09:37:26+00:00",
   "topics": {
     "ai": [
       {
@@ -40,6 +40,13 @@
         "url": "https://e27.co/agencies-dont-have-a-hiring-problem-they-have-the-ebitda-multiple-problem-20261025/"
       },
       {
+        "title": "プルリクエストのリスクを判定する仕組み - newmo 技術ブログ",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-27T05:57:00+00:00",
+        "relevance_score": 8,
+        "url": "https://tech.newmo.me/entry/2026/10/27/100000"
+      },
+      {
         "title": "中国製AI「Qwen3.8」にセキュリティ対策を命じたら勝手に北京のサーバーへデータ送信を試みたことが判明",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-10-27T04:07:06+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-10-27T02:00:11+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/from-conference-attendee-to-intelligence-node-my-experience-at-an-ai-native-conference-20261025/"
-      },
-      {
-        "title": "Ecosystem Roundup: Bukalapak stays in the black as gaming carries the load",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-27T06:00:05+00:00",
-        "relevance_score": 6,
-        "url": "https://e27.co/ecosystem-roundup-bukalapak-stays-in-the-black-as-gaming-carries-the-load-20261027/"
       }
     ],
     "economy": [
@@ -221,6 +221,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfb"
       },
       {
+        "title": "M 5.0 - 95 km NNE of Hihifo, Tonga",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-27T09:27:10.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfc"
+      },
+      {
         "title": "M 4.9 - 69 km WSW of Kirakira, Solomon Islands",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-27T02:22:17.040+00:00",
@@ -261,13 +268,6 @@
         "published_at": "2026-10-27T05:28:04+00:00",
         "relevance_score": 5,
         "url": "https://group.gmo/info/alert/2026102703/"
-      },
-      {
-        "title": "【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第8報）（【続報】お客様をお守りするために現在私たちが行っていること） | GMOインターネットグループ株式会社",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-27T01:26:24+00:00",
-        "relevance_score": 5,
-        "url": "https://group.gmo/info/alert/20261027/"
       }
     ],
     "security": [
@@ -328,6 +328,13 @@
         "published_at": "2026-10-26T12:01:11+00:00",
         "relevance_score": 11,
         "url": "https://github.com/yuiseki/map-from-scratch"
+      },
+      {
+        "title": "プルリクエストのリスクを判定する仕組み - newmo 技術ブログ",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-27T05:57:00+00:00",
+        "relevance_score": 8,
+        "url": "https://tech.newmo.me/entry/2026/10/27/100000"
       },
       {
         "title": "Ecosystem Roundup: Bukalapak stays in the black as gaming carries the load",
