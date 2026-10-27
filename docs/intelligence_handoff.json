@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-27T11:03:20Z",
+  "generated_at": "2026-10-27T11:25:04Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “GROWIにおける複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/jp/JVN51223238/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-27T15:00:00+09:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/jp/JVN90463048/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-27T12:00:00+09:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -59,11 +59,35 @@
       "summary": "フェンリル株式会社が提供するSleipnir Mobile for Androidには、ユーザーインターフェースにおいて偽のアドレスバーなどを表示される脆弱性が存在します。"
     },
     {
+      "title": "[UPDATE] [mittel] QT: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4158",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-27T11:01:29+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in QT ausnutzen, um einen Denial of Service Angriff durchzuführen oder Informationen offenzulegen."
+    },
+    {
       "title": "Fireblocks製mpc-libの強化導出（Hardened Derivation）処理における脆弱性",
       "url": "https://jvn.jp/vu/JVNVU90547696/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-27T10:30:15+09:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "security"
       ],
@@ -87,7 +111,7 @@
       "url": "https://jvn.jp/vu/JVNVU90363302/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-27T10:30:00+09:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "security"
       ],
@@ -107,11 +131,37 @@
       "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
     },
     {
+      "title": "[UPDATE] [hoch] Mautic: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4163",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-27T11:01:29+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Mautic ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren, um einen SQL-Injection Angriff durchzuführen, um einen Cross-Site Scripting Angriff durchzuführen und um Si…"
+    },
+    {
       "title": "[UPDATE] [hoch] ESRI ArcGIS: Mehrere Schwachstelle",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3965",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-27T08:51:29+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -137,7 +187,7 @@
       "url": "https://e27.co/qpiais-singapore-bet-put-quantum-hardware-in-the-hands-of-finance-students-20261026/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-27T01:00:28+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "ai",
         "macro"
@@ -165,7 +215,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 130.38,
+      "age_days": 130.39,
       "topics": [
         "ai"
       ],
@@ -194,7 +244,7 @@
       "url": "https://www.heise.de/news/php2shell-Erfolgreiche-Angriffe-bestaetigt-noch-viele-Instanzen-ungepatcht-11501167.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-27T08:02:00.000+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -219,7 +269,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tte0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-27T01:41:11.040+00:00",
-      "age_days": 0.39,
+      "age_days": 0.41,
       "topics": [
         "disaster"
       ],
@@ -240,36 +290,11 @@
       "summary": "Time 2026-10-27 01:17:53 UTC 2026-10-27 01:17:53 UTC at epicenter Location 33.285°N 140.713°E Depth 66.72 km (41.45 mi)"
     },
     {
-      "title": "M 4.8 - 54 km E of Tomioka, Japan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttdt",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-27T00:57:45.040+00:00",
-      "age_days": 0.42,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-27 00:25:08 UTC 2026-10-27 00:25:08 UTC at epicenter Location 37.387°N 141.625°E Depth 48.93 km (30.40 mi)"
-    },
-    {
       "title": "The e27 Contributor Programme: Writing an article that gets published — Part 1",
       "url": "https://e27.co/the-e27-contributor-programme-writing-an-article-that-gets-published-part-1-20261027/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-27T04:54:00+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "ai",
         "macro"
@@ -289,31 +314,6 @@
         "security high-signal: rce, 10"
       ],
       "summary": "I read a lot of contributor articles, and the ones that get published versus held back are rarely separated by writing talent. It’s usually the small things: an idea that’s too broad, a claim with no source, a company name that appears one time too many. Almost all of it is fixable before you hit […] The post The e27…"
-    },
-    {
-      "title": "M 5.8 - 200 km NW of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfb",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-27T09:15:11.243+00:00",
-      "age_days": 0.08,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 21.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "PAGER - GREEN ShakeMap - IV Time 2026-10-27 08:55:23 UTC 2026-10-27 08:55:23 UTC at epicenter Location 13.896°S 165.626°E Depth 10.00 km (6.21 mi)"
     }
   ],
   "read_order": [
