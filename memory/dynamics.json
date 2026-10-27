@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-27T07:54:30Z",
+  "generated_at": "2026-10-27T08:04:42Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 33,
+    "dynamics": 35,
     "bands": {
       "krass": 1,
-      "strong": 9,
-      "watch": 1,
-      "quiet": 22
-    },
-    "bands_after_gate_recheck": {
       "strong": 10,
       "watch": 1,
-      "quiet": 22
+      "quiet": 23
+    },
+    "bands_after_gate_recheck": {
+      "strong": 11,
+      "watch": 1,
+      "quiet": 23
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/jp/JVN51223238/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-27T15:00:00+09:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://jvn.jp/jp/JVN90463048/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-27T12:00:00+09:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -166,7 +166,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 130.2d old signal",
+        "aging penalty -8.0 for 130.3d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -176,7 +176,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tte0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-27T01:41:11.040+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "disaster"
       ],
@@ -201,7 +201,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttdt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-27T00:57:45.040+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "disaster"
       ],
@@ -276,11 +276,37 @@
       "summary": "From 5–7 October, I organised and attended the Strategic Renaissance 21 (SR21) × World Governments Summit workshop in Dubai. The three-day gathering brought together 48 senior leaders from government, finance, technology, defense, and academia to explore a common theme: The Breaking Point. The conference itself was an…"
     },
     {
+      "title": "Welcoming remarks - Malaysia's Designated Non-Financial Businesses and Professions (DNFBP) Compliance Conference 2026",
+      "url": "https://www.bis.org/speeches/20261027-welcoming-remarks-malaysias-designated-non-financial-businesses-and-professions-dnfbp-compliance-conference-2026",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-10-27T00:00:00+00:00",
+      "age_days": 0.34,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 21.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit"
+      ],
+      "summary": "Welcoming remarks by Mr Marzunisham Omar, Deputy Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at Malaysia's Designated Non-Financial Businesses and Professions (DNFBP) Compliance Conference 2026, Kuala Lumpur, 22 October 2026."
+    },
+    {
       "title": "3 scenarios for October 28: Which one breaks Bitcoin’s US$80,000 resistance",
       "url": "https://e27.co/3-scenarios-for-october-28-which-one-breaks-bitcoins-us80000-resistance-20261027/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-27T05:02:50+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "macro"
       ],
@@ -304,7 +330,7 @@
       "url": "https://www.digital.go.jp/councils/procurement-reform/FY2026/24cfea22-3e10-418e-abbd-983af697d751",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-27T06:00:00+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -328,7 +354,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261027-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-27T02:51:03+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -375,11 +401,35 @@
       "summary": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need https://thinkrail.ai/ ThinkRail ThinkRail is the agentic IDE that gets better every time you use it — learning your project through living specs today, and building its own capabilities tomorrow. We built a…"
     },
     {
+      "title": "【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第10報）（攻撃者による情報の公開に関し、弊社の認識と対策について） | GMOインターネットグループ株式会社",
+      "url": "https://group.gmo/info/alert/2026102703/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-27T05:28:04+00:00",
+      "age_days": 0.11,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "2026年10月27日 お知らせ【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第10報） （攻撃者による情報の公開に関し、弊社の認識と対策について） 2026年10月27日 13:55時点 GMOインターネットグループ株式会社 GMOインターネット株式会社 このたびは、「お名前.com デスクト..."
+    },
+    {
       "title": "【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第8報）（【続報】お客様をお守りするために現在私たちが行っていること） | GMOインターネットグループ株式会社",
       "url": "https://group.gmo/info/alert/20261027/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-27T01:26:24+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -403,7 +453,7 @@
       "url": "https://internet.watch.impress.co.jp/docs/special/2151050.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-26T21:44:05+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "general"
       ],
@@ -427,7 +477,7 @@
       "url": "https://news.web.nhk/newsweb/na/nd-20261026de66013",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-26T14:37:21+00:00",
-      "age_days": 0.72,
+      "age_days": 0.73,
       "topics": [
         "general"
       ],
@@ -451,7 +501,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tte4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-27T02:22:17.040+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai",
         "disaster"
@@ -532,7 +582,7 @@
       "url": "https://www.digital.go.jp/press/b1d81ddb-c690-47fc-be30-e98502f5045c",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-27T06:00:00+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -556,7 +606,7 @@
       "url": "https://www.digital.go.jp/policies/disaster_prevention",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-27T06:00:00+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -580,7 +630,7 @@
       "url": "https://gigazine.net/news/20261027-concerning-behaviour-open-weight-ai-model/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-27T04:07:06+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -606,7 +656,7 @@
       "url": "https://e27.co/the-ai-era-is-forcing-startups-to-rethink-what-they-should-own-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-27T04:00:53+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -632,7 +682,7 @@
       "url": "https://e27.co/malaysias-durian-glut-and-the-politics-of-the-delivery-gap-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-27T03:00:08+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "ai"
       ],
@@ -658,7 +708,7 @@
       "url": "https://github.com/yuiseki/map-from-scratch",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-26T12:01:11+00:00",
-      "age_days": 0.83,
+      "age_days": 0.84,
       "topics": [
         "ai"
       ],
@@ -683,7 +733,7 @@
       "url": "https://e27.co/ecosystem-roundup-bukalapak-stays-in-the-black-as-gaming-carries-the-load-20261027/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-27T06:00:05+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -736,7 +786,7 @@
       "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-26T22:31:30+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "ai"
       ],
@@ -788,7 +838,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 129.21,
+      "age_days": 129.22,
       "topics": [
         "general"
       ],
@@ -813,7 +863,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 129.21,
+      "age_days": 129.22,
       "topics": [
         "general"
       ],
@@ -838,7 +888,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 129.21,
+      "age_days": 129.22,
       "topics": [
         "ai"
       ],
