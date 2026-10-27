@@ -1341,6 +1341,66 @@
     "id": "2ea395985ed085137b0a"
   },
   {
+    "title": "Statement to the International Monetary and Financial Committee (IMFC)",
+    "url": "https://www.bis.org/speeches/20261027-statement-international-monetary-and-financial-committee-imfc",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-10-27T00:00:00+00:00",
+    "fetched_at": "2026-10-27T13:45:17+00:00",
+    "summary": "Statement by His Excellency Mr Ayman Al-Sayari, Governor of the Saudi Central Bank, to the International Monetary and Financial Committee (IMFC), Bangkok, 17 October 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0ba3727d3ab668bafdc0"
+  },
+  {
+    "title": "Shaping the future of sustainable finance - from market growth to economic transformation",
+    "url": "https://www.bis.org/speeches/20261027-shaping-future-sustainable-finance-market-growth-economic-transformation",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-10-27T00:00:00+00:00",
+    "fetched_at": "2026-10-27T13:45:17+00:00",
+    "summary": "Keynote address by Ms Clara Raposo, Vice-Governor of the Banco de Portugal, at the CESG (Commission on Environment, Social, and Governance) Conference 2026, Lisbon, 7 October 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "65ddd0885031d41415eb"
+  },
+  {
+    "title": "Asia-Pacific and Europe - building resilience and growth in an age of geopolitics and fragmentation",
+    "url": "https://www.bis.org/speeches/20261027-asia-pacific-and-europe-building-resilience-and-growth-age-geopolitics-and-fragmentation",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-10-27T00:00:00+00:00",
+    "fetched_at": "2026-10-27T13:45:17+00:00",
+    "summary": "Speech by Mr Olli Rehn, Governor of the Bank of Finland, at the OMFIF (The Official Monetary and Financial Institutions Forum) symposium “Forging growth, trade and investment between Europe and Asia-Pacific”, organised by OMFIF and DZ Bank, Bangkok, 17 October 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ef22732d2dabe8467308"
+  },
+  {
     "title": "GitHub Copilot assisted permissions generally available",
     "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
     "source": "GitHub Changelog Atom",
@@ -1381,6 +1441,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "594ef1d72825a44758d9"
+  },
+  {
+    "title": "【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第12報） （情報が公開されたお客様へのお見舞金について） | GMOインターネットグループ株式会社",
+    "url": "https://group.gmo/info/alert/2026102705/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-27T10:20:05+00:00",
+    "fetched_at": "2026-10-27T13:45:17+00:00",
+    "summary": "2026年10月27日 お知らせ【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第12報） （情報が公開されたお客様へのお見舞金について） 2026年10月27日 19:10時点 GMOインターネットグループ株式会社 GMOインターネット株式会社 このたびは、「お名前.com デスクトップクラウド...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b048e6af5cb1b8f3e363"
   },
   {
     "title": "GMO、なんでそんなに嫌われているの？→ダークパターン、対応の悪さ、同業者からの悪評と集まった反応がまるでGMOのWikiのよう",
