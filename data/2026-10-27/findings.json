@@ -490,6 +490,60 @@
     "id": "cd5bfab9437a29ad0754"
   },
   {
+    "title": "Anthropic, DeepSeek and drones: 10 takeaways from the 2026 unicorn boom",
+    "url": "https://e27.co/anthropic-deepseek-and-drones-10-takeaways-from-the-2026-unicorn-boom-20261027/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-10-27T11:50:36+00:00",
+    "fetched_at": "2026-10-27T11:55:09+00:00",
+    "summary": "Thirteen years after venture capitalist Aileen Lee coined the term, the unicorn has stopped being mythical. There are now 1,879 privately held companies valued at US$1 billion or more, according to a new analysis by BestBrokers, which drew on data from Crunchbase, PitchBook and TechCrunch. The headline number hides a narrower story. Capital in 2026 […] The post Anthropic, DeepSeek and drones: 10 takeaways from the 2…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Watchgraph:agriculture_food_fertilizer",
+      "Watchgraph:capitals_power_centers"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers, agriculture_food_fertilizer (+6.0); watchgraph markets via defense_war, macro_region_etfs, agriculture_food: corn (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "capitals_power_centers",
+      "agriculture_food_fertilizer"
+    ],
+    "watchgraph_reasons": [
+      "capitals_power_centers: capital",
+      "agriculture_food_fertilizer: corn"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ",
+      "ADM",
+      "BG",
+      "DE",
+      "NTR",
+      "CF",
+      "MOS",
+      "wheat",
+      "corn",
+      "soy"
+    ],
+    "id": "fe85264bb6de95f60b02"
+  },
+  {
     "title": "GitHub - yuiseki/map-from-scratch: 「Xをしたいから地図を作って」という依頼ごとに、その目的だけを満たす最小・最速の地図描画器をほぼゼロから作り、性能と正しさを計測して確かめる、 AI エージェントのためのスキルとハーネス",
     "url": "https://github.com/yuiseki/map-from-scratch",
     "source": "Hatena Bookmark Hotentry IT",

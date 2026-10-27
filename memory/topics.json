@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-27T11:47:41+00:00",
+  "generated_at": "2026-10-27T11:55:43+00:00",
   "topics": {
     "ai": [
       {
@@ -31,6 +31,13 @@
         "published_at": null,
         "relevance_score": 13,
         "url": "https://github.com/JetBrains/thinkrail"
+      },
+      {
+        "title": "Anthropic, DeepSeek and drones: 10 takeaways from the 2026 unicorn boom",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-27T11:50:36+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/anthropic-deepseek-and-drones-10-takeaways-from-the-2026-unicorn-boom-20261027/"
       },
       {
         "title": "GitHub - yuiseki/map-from-scratch: 「Xをしたいから地図を作って」という依頼ごとに、その目的だけを満たす最小・最速の地図描画器をほぼゼロから作り、性能と正しさを計測して確かめる、 AI エージェントのためのスキルとハーネス",
@@ -66,13 +73,6 @@
         "published_at": "2026-10-27T04:07:06+00:00",
         "relevance_score": 8,
         "url": "https://gigazine.net/news/20261027-concerning-behaviour-open-weight-ai-model/"
-      },
-      {
-        "title": "The AI era is forcing startups to rethink what they should own",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-27T04:00:53+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/the-ai-era-is-forcing-startups-to-rethink-what-they-should-own-20261025/"
       }
     ],
     "economy": [
