@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-27T21:59:58+00:00_
+_Generiert: 2026-10-27T22:12:57+00:00_
 
 ## Kurzlage
 
-88 neue relevante Treffer. Stärkstes Signal: „OpenAI expands partnership with Oracle to bring its apps to ChatGPT“ aus OpenAI News RSS (Score 20, opportunity).
+90 neue relevante Treffer. Stärkstes Signal: „OpenAI expands partnership with Oracle to bring its apps to ChatGPT“ aus OpenAI News RSS (Score 20, opportunity).
 
 ## Priorität Hoch
 
