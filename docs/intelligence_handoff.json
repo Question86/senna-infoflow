@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-27T02:56:04Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Fireblocks製mpc-libの強化導出（Hardened Derivation）処理における脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
+  "generated_at": "2026-10-27T03:30:44Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Sleipnir Mobile for Androidのユーザーインターフェースにおいて偽のアドレスバーなどを表示される脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,35 @@
   ],
   "top_dynamics": [
     {
+      "title": "Sleipnir Mobile for Androidのユーザーインターフェースにおいて偽のアドレスバーなどを表示される脆弱性",
+      "url": "https://jvn.jp/jp/JVN90463048/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-10-27T12:00:00+09:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security"
+      ],
+      "summary": "フェンリル株式会社が提供するSleipnir Mobile for Androidには、ユーザーインターフェースにおいて偽のアドレスバーなどを表示される脆弱性が存在します。"
+    },
+    {
       "title": "Fireblocks製mpc-libの強化導出（Hardened Derivation）処理における脆弱性",
       "url": "https://jvn.jp/vu/JVNVU90547696/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-27T10:30:15+09:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -39,7 +63,7 @@
       "url": "https://jvn.jp/vu/JVNVU90363302/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-27T10:30:00+09:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -63,7 +87,7 @@
       "url": "https://e27.co/qpiais-singapore-bet-put-quantum-hardware-in-the-hands-of-finance-students-20261026/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-27T01:00:28+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "macro"
@@ -91,7 +115,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 130.04,
+      "age_days": 130.06,
       "topics": [
         "ai"
       ],
@@ -110,7 +134,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 130.0d old signal",
+        "aging penalty -8.0 for 130.1d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -120,7 +144,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tte0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-27T01:41:11.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -145,7 +169,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttdt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-27T00:57:45.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -170,7 +194,7 @@
       "url": "https://e27.co/from-conference-attendee-to-intelligence-node-my-experience-at-an-ai-native-conference-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-27T02:00:11+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "macro"
@@ -194,11 +218,35 @@
       "summary": "From 5–7 October, I organised and attended the Strategic Renaissance 21 (SR21) × World Governments Summit workshop in Dubai. The three-day gathering brought together 48 senior leaders from government, finance, technology, defense, and academia to explore a common theme: The Breaking Point. The conference itself was an…"
     },
     {
+      "title": "古川大臣記者会見（令和8年10月27日）動画を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-261027-01",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-10-27T02:51:03+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "古川大臣記者会見（令和8年10月27日）動画を掲載しました"
+    },
+    {
       "title": "【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第8報）（【続報】お客様をお守りするために現在私たちが行っていること） | GMOインターネットグループ株式会社",
       "url": "https://group.gmo/info/alert/20261027/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-27T01:26:24+00:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -222,7 +270,7 @@
       "url": "https://internet.watch.impress.co.jp/docs/special/2151050.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-26T21:44:05+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -246,7 +294,7 @@
       "url": "https://news.web.nhk/newsweb/na/nd-20261026de66013",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-26T14:37:21+00:00",
-      "age_days": 0.51,
+      "age_days": 0.54,
       "topics": [
         "general"
       ],
@@ -264,61 +312,6 @@
         "high terms: 10"
       ],
       "summary": "電子ギフトを手がける「ギフティグループ」は、子会社が運用するシステムが不正アクセスを受け、およそ5億5000万円分の電子ギフトが不正に発行されたと発表しました。 飲食店やコンビニなどで利用できる電…"
-    },
-    {
-      "title": "M 4.9 - 69 km WSW of Kirakira, Solomon Islands",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tte4",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-27T02:22:17.040+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "ai",
-        "disaster"
-      ],
-      "dynamics_score": 9.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Time 2026-10-27 02:02:55 UTC 2026-10-27 02:02:55 UTC at epicenter Location 10.668°S 161.319°E Depth 35.00 km (21.75 mi)"
-    },
-    {
-      "title": "Agencies don’t have a hiring problem. They have the (EBITDA) multiple problem",
-      "url": "https://e27.co/agencies-dont-have-a-hiring-problem-they-have-the-ebitda-multiple-problem-20261025/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-27T01:00:36+00:00",
-      "age_days": 0.08,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "The most telling line in Publicis’ announcement of a new AI Development Hub in Singapore isn’t about technology. It’s the promise that the hub will create roles rather than remove them. The hub itself is a serious bet: engineers, data scientists and product designers working alongside strategists to build proprietary…"
     }
   ],
   "read_order": [
@@ -330,8 +323,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 7,
-      "quiet": 5
+      "strong": 8,
+      "quiet": 4
     }
   }
 }
