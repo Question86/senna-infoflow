@@ -1,21 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-27T15:42:50Z",
+  "generated_at": "2026-10-27T15:52:34Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 7,
-      "strong": 20,
-      "watch": 10,
-      "quiet": 3
+      "strong": 23,
+      "watch": 10
     },
     "bands_after_gate_recheck": {
       "krass": 1,
-      "strong": 26,
-      "watch": 10,
-      "quiet": 3
+      "strong": 29,
+      "watch": 10
     }
   },
   "top_dynamics": [
@@ -49,7 +47,7 @@
       "url": "https://jvn.jp/jp/JVN51223238/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-27T15:00:00+09:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "security"
       ],
@@ -73,7 +71,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4185",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-27T13:26:33+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -97,7 +95,7 @@
       "url": "https://jvn.jp/jp/JVN90463048/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-27T12:00:00+09:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "security"
       ],
@@ -121,7 +119,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4154",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-27T11:33:40+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -145,7 +143,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4134",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-27T11:33:38+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -169,7 +167,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3327",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-27T11:31:50+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "security"
@@ -218,7 +216,7 @@
       "url": "https://jvn.jp/vu/JVNVU90547696/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-27T10:30:15+09:00",
-      "age_days": 0.59,
+      "age_days": 0.6,
       "topics": [
         "security"
       ],
@@ -242,7 +240,7 @@
       "url": "https://jvn.jp/vu/JVNVU90363302/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-27T10:30:00+09:00",
-      "age_days": 0.59,
+      "age_days": 0.6,
       "topics": [
         "security"
       ],
@@ -262,11 +260,63 @@
       "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
     },
     {
+      "title": "Multiples vulnérabilités dans les produits Cisco (22 octobre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1360/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-10-22T00:00:00+00:00",
+      "age_days": 5.66,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 25.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
+    },
+    {
+      "title": "Multiples vulnérabilités dans PHP (21 octobre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1359/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-10-21T00:00:00+00:00",
+      "age_days": 6.66,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 25.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "De multiples vulnérabilités ont été découvertes dans PHP. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance."
+    },
+    {
       "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (FreeIPMI): Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4155",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-27T11:33:39+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -370,7 +420,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4147",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-27T11:33:40+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -395,7 +445,7 @@
       "url": "https://e27.co/qpiais-singapore-bet-put-quantum-hardware-in-the-hands-of-finance-students-20261026/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-27T01:00:28+00:00",
-      "age_days": 0.61,
+      "age_days": 0.62,
       "topics": [
         "ai",
         "macro"
@@ -423,7 +473,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 130.57,
+      "age_days": 130.58,
       "topics": [
         "ai"
       ],
@@ -452,7 +502,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttgf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-27T15:24:00.344+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -478,7 +528,7 @@
       "url": "https://www.heise.de/news/php2shell-Erfolgreiche-Angriffe-bestaetigt-noch-viele-Instanzen-ungepatcht-11501167.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-27T08:02:00.000+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -503,7 +553,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttgh",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-27T15:12:35.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -528,7 +578,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tte0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-27T01:41:11.040+00:00",
-      "age_days": 0.58,
+      "age_days": 0.59,
       "topics": [
         "disaster"
       ],
@@ -553,7 +603,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttdt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-27T00:57:45.040+00:00",
-      "age_days": 0.61,
+      "age_days": 0.62,
       "topics": [
         "disaster"
       ],
@@ -574,11 +624,35 @@
       "summary": "Time 2026-10-27 00:25:08 UTC 2026-10-27 00:25:08 UTC at epicenter Location 37.387°N 141.625°E Depth 48.93 km (30.40 mi)"
     },
     {
+      "title": "Multiples vulnérabilités dans Google Chrome (21 octobre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1357/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-10-21T00:00:00+00:00",
+      "age_days": 6.66,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 22.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: google"
+      ],
+      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+    },
+    {
       "title": "The e27 Contributor Programme: Writing an article that gets published — Part 1",
       "url": "https://e27.co/the-e27-contributor-programme-writing-an-article-that-gets-published-part-1-20261027/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-27T04:54:00+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "ai",
         "macro"
@@ -604,7 +678,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-27T09:15:11.243+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "disaster"
       ],
@@ -629,7 +703,7 @@
       "url": "https://e27.co/from-conference-attendee-to-intelligence-node-my-experience-at-an-ai-native-conference-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-27T02:00:11+00:00",
-      "age_days": 0.57,
+      "age_days": 0.58,
       "topics": [
         "ai",
         "macro"
@@ -657,7 +731,7 @@
       "url": "https://www.bis.org/speeches/20261027-welcoming-remarks-malaysias-designated-non-financial-businesses-and-professions-dnfbp-compliance-conference-2026",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-27T00:00:00+00:00",
-      "age_days": 0.65,
+      "age_days": 0.66,
       "topics": [
         "macro"
       ],
@@ -683,7 +757,7 @@
       "url": "https://www.bis.org/speeches/20261027-deepening-foreign-exchange-opening-better-serve-chinas-new-development-paradigm",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-27T00:00:00+00:00",
-      "age_days": 0.65,
+      "age_days": 0.66,
       "topics": [
         "infra",
         "macro"
@@ -710,7 +784,7 @@
       "url": "https://e27.co/3-scenarios-for-october-28-which-one-breaks-bitcoins-us80000-resistance-20261027/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-27T05:02:50+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "macro"
       ],
@@ -734,7 +808,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-27T12:01:26.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -759,7 +833,7 @@
       "url": "https://www.bis.org/speeches/20261027-shaping-future-sustainable-finance-market-growth-economic-transformation",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-27T00:00:00+00:00",
-      "age_days": 0.65,
+      "age_days": 0.66,
       "topics": [
         "ai",
         "macro"
@@ -787,7 +861,7 @@
       "url": "https://www.bis.org/speeches/20261027-keeping-european-supervision-track",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-10-27T00:00:00+00:00",
-      "age_days": 0.65,
+      "age_days": 0.66,
       "topics": [
         "ai",
         "macro"
@@ -811,11 +885,36 @@
       "summary": "Keynote speech by Mr Steven Maijoor, Executive Board Member and Chair of Supervision of De Nederlandsche Bank, at the Data Amplified conference, The Hague, 27 October 2026."
     },
     {
+      "title": "M 5.0 - 27 km W of Río Grande, Panama",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttgm",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-27T15:41:01.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-27 15:26:02 UTC 2026-10-27 15:26:02 UTC at epicenter Location 7.706°N 81.584°W Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 4.6 - 5 km ENE of Tierra y Libertad, Mexico",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-27T12:22:23.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -840,7 +939,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-27T11:09:11.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -865,7 +964,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-27T10:50:39.040+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -890,7 +989,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfe",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-27T09:39:56.040+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
@@ -915,7 +1014,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-27T09:27:10.040+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "disaster"
       ],
@@ -934,102 +1033,6 @@
         "high terms: 10"
       ],
       "summary": "Time 2026-10-27 09:07:45 UTC 2026-10-27 09:07:45 UTC at epicenter Location 15.174°S 173.409°W Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "October 2026 euro area bank lending survey",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261027~506ef03145.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
-      "published_at": "2026-10-27T00:00:00+00:00",
-      "age_days": 0.65,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 15.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "October 2026 euro area bank lending survey"
-    },
-    {
-      "title": "令和8年度（2026年度）デジタル庁情報システム調達改革検討会（第2回） の開催情報と資料を掲載しました",
-      "url": "https://www.digital.go.jp/councils/procurement-reform/FY2026/24cfea22-3e10-418e-abbd-983af697d751",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-10-27T06:00:00+00:00",
-      "age_days": 0.4,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "令和8年度（2026年度）デジタル庁情報システム調達改革検討会（第2回） の開催情報と資料を掲載しました"
-    },
-    {
-      "title": "古川大臣記者会見（令和8年10月27日）動画を掲載しました",
-      "url": "https://www.digital.go.jp/speech/minister-261027-01",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-10-27T02:51:03+00:00",
-      "age_days": 0.54,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "古川大臣記者会見（令和8年10月27日）動画を掲載しました"
-    },
-    {
-      "title": "Strength through resilience, adaptability and trust - insurance for a stronger Europe",
-      "url": "https://www.bis.org/speeches/20261027-strength-through-resilience-adaptability-and-trust-insurance-stronger-europe",
-      "source": "BIS Central Bankers Speeches",
-      "published_at": "2026-10-27T00:00:00+00:00",
-      "age_days": 0.65,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "Speech by Ms Mary-Elizabeth McMunn, Deputy Governor of the Central Bank of Ireland, at Insurance Ireland, Dublin, 22 October 2026."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] xz: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
