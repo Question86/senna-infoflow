@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-27T01:58:50+00:00_
+_Generiert: 2026-10-27T02:19:28+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „M 4.6 - 203 km SSE of Tateyama, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+10 neue relevante Treffer. Stärkstes Signal: „M 4.6 - 203 km SSE of Tateyama, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -112,6 +112,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **GitHub - yuiseki/map-from-scratch: 「Xをしたいから地図を作って」という依頼ごとに、その目的だけを満たす最小・最速の地図描画器をほぼゼロから作り、性能と正しさを計測して確かめる、 AI エージェントのためのスキルとハーネス** — Score 11, observation — [Quelle](https://github.com/yuiseki/map-from-scratch)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-26T12:01:11+00:00`, fetched `2026-10-27T02:18:57+00:00`
+  - Treffer: AI/KI, GitHub, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)
+  - Kurz: 「X をしたいから地図を作って」という依頼ごとに、その目的だけを満たす最小で最速の地図の描画器をほぼゼロから作り、計測で確かめるためのスキルとハーネスです。 汎用の地図エンジンは作らず、依頼ごとに描画器そのものを作り直します。平面でだけ見せたい依頼なら、3 次元描画のための処理の大半は最初から要りませ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Agencies don’t have a hiring problem. They have the (EBITDA) multiple problem** — Score 9, observation — [Quelle](https://e27.co/agencies-dont-have-a-hiring-problem-they-have-the-ebitda-multiple-problem-20261025/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-27T01:00:36+00:00`, fetched `2026-10-27T01:11:37+00:00`
@@ -120,6 +129,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: The most telling line in Publicis’ announcement of a new AI Development Hub in Singapore isn’t about technology. It’s the promise that the hub will create roles rather than remove them. The hub itself is a serious bet: engineers, data scientists and product designers working alongside strategists to build proprietary marketing technology in Singapore and […] The post Agencies don’t have a hiring problem. They have t…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **From conference attendee to intelligence node: My experience at an AI-native conference** — Score 8, opportunity — [Quelle](https://e27.co/from-conference-attendee-to-intelligence-node-my-experience-at-an-ai-native-conference-20261025/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-27T02:00:11+00:00`, fetched `2026-10-27T02:18:57+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: From 5–7 October, I organised and attended the Strategic Renaissance 21 (SR21) × World Governments Summit workshop in Dubai. The three-day gathering brought together 48 senior leaders from government, finance, technology, defense, and academia to explore a common theme: The Breaking Point. The conference itself was an interesting experiment in AI-enabled event design. As my […] The post From conference attendee to i…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Stryv bags US$11.5M Series B to turn a hair dryer brand into a household appliance group** — Score 6, observation — [Quelle](https://e27.co/stryv-bags-us11-5m-series-b-to-turn-a-hair-dryer-brand-into-a-household-appliance-group-20261026/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-27T02:00:33+00:00`, fetched `2026-10-27T02:18:57+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: A few years ago, Stryv’s pitch fitted into a single product: a professional-grade hair dryer that did not cost as much as the famous ones. Today, the Singapore company sells massage chairs and air purifiers too, and it has just raised fresh money to keep adding categories, markets and, if the right targets appear, entire […] The post Stryv bags US$11.5M Series B to turn a hair dryer brand into a household appliance…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ウェブサイトも“保守・修繕”の発想が必要。「PHPの脆弱性」から、経営層・サイト運営者に知っておいてほしいこと** — Score 5, observation — [Quelle](https://internet.watch.impress.co.jp/docs/special/2151050.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

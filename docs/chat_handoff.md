@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-27T01:58:50+00:00_
+_Generated: 2026-10-27T02:19:28+00:00_
 
 ## Status
 - status: `normal`
-- findings: `7`
+- findings: `10`
 
 ## Top Signals
 
@@ -36,25 +36,32 @@ _Generated: 2026-10-27T01:58:50+00:00_
 - url: https://jvn.jp/vu/JVNVU90363302/
 - summary: CERT/CCから本件に関するアドバイザリが公表されました。
 
-### 5. Agencies don’t have a hiring problem. They have the (EBITDA) multiple problem
+### 5. GitHub - yuiseki/map-from-scratch: 「Xをしたいから地図を作って」という依頼ごとに、その目的だけを満たす最小・最速の地図描画器をほぼゼロから作り、性能と正しさを計測して確かめる、 AI エージェントのためのスキルとハーネス
+- source: Hatena Bookmark Hotentry IT
+- score: `11`
+- published: `2026-10-26T12:01:11+00:00`
+- url: https://github.com/yuiseki/map-from-scratch
+- summary: 「X をしたいから地図を作って」という依頼ごとに、その目的だけを満たす最小で最速の地図の描画器をほぼゼロから作り、計測で確かめるためのスキルとハーネスです。 汎用の地図エンジンは作らず、依頼ごとに描画器そのものを作り直します。平面でだけ見せたい依頼なら、3 次元描画のための処理の大半は最初から要りませ...
+
+### 6. Agencies don’t have a hiring problem. They have the (EBITDA) multiple problem
 - source: e27 Asia Startup and Tech Feed
 - score: `9`
 - published: `2026-10-27T01:00:36+00:00`
 - url: https://e27.co/agencies-dont-have-a-hiring-problem-they-have-the-ebitda-multiple-problem-20261025/
 - summary: The most telling line in Publicis’ announcement of a new AI Development Hub in Singapore isn’t about technology. It’s the promise that the hub will create roles rather than remove them. The hub itself is a serious bet: engineers, data scientists and product d…
 
-### 6. ウェブサイトも“保守・修繕”の発想が必要。「PHPの脆弱性」から、経営層・サイト運営者に知っておいてほしいこと
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-10-26T21:44:05+00:00`
-- url: https://internet.watch.impress.co.jp/docs/special/2151050.html
-- summary: ウェブサイトも“保守・修繕”の発想が必要。「PHPの脆弱性」から、経営層・サイト運営者に知っておいてほしいこと
+### 7. From conference attendee to intelligence node: My experience at an AI-native conference
+- source: e27 Asia Startup and Tech Feed
+- score: `8`
+- published: `2026-10-27T02:00:11+00:00`
+- url: https://e27.co/from-conference-attendee-to-intelligence-node-my-experience-at-an-ai-native-conference-20261025/
+- summary: From 5–7 October, I organised and attended the Strategic Renaissance 21 (SR21) × World Governments Summit workshop in Dubai. The three-day gathering brought together 48 senior leaders from government, finance, technology, defense, and academia to explore a co…
 
-### 7. 電子ギフト会社に不正アクセス 5億5000万円分が不正発行 | NHKニュース
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-10-26T14:37:21+00:00`
-- url: https://news.web.nhk/newsweb/na/nd-20261026de66013
-- summary: 電子ギフトを手がける「ギフティグループ」は、子会社が運用するシステムが不正アクセスを受け、およそ5億5000万円分の電子ギフトが不正に発行されたと発表しました。 飲食店やコンビニなどで利用できる電…
+### 8. Stryv bags US$11.5M Series B to turn a hair dryer brand into a household appliance group
+- source: e27 Asia Startup and Tech Feed
+- score: `6`
+- published: `2026-10-27T02:00:33+00:00`
+- url: https://e27.co/stryv-bags-us11-5m-series-b-to-turn-a-hair-dryer-brand-into-a-household-appliance-group-20261026/
+- summary: A few years ago, Stryv’s pitch fitted into a single product: a professional-grade hair dryer that did not cost as much as the famous ones. Today, the Singapore company sells massage chairs and air purifiers too, and it has just raised fresh money to keep addi…
 
 END OF DOCUMENT

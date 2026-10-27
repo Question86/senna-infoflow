@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-27T01:58:50+00:00",
+  "generated_at": "2026-10-27T02:19:28+00:00",
   "topics": {
     "general": [
       {
@@ -51,11 +51,41 @@
     ],
     "ai": [
       {
+        "title": "GitHub - yuiseki/map-from-scratch: 「Xをしたいから地図を作って」という依頼ごとに、その目的だけを満たす最小・最速の地図描画器をほぼゼロから作り、性能と正しさを計測して確かめる、 AI エージェントのためのスキルとハーネス",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-26T12:01:11+00:00",
+        "relevance_score": 11,
+        "url": "https://github.com/yuiseki/map-from-scratch"
+      },
+      {
         "title": "Agencies don’t have a hiring problem. They have the (EBITDA) multiple problem",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-10-27T01:00:36+00:00",
         "relevance_score": 9,
         "url": "https://e27.co/agencies-dont-have-a-hiring-problem-they-have-the-ebitda-multiple-problem-20261025/"
+      },
+      {
+        "title": "From conference attendee to intelligence node: My experience at an AI-native conference",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-27T02:00:11+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/from-conference-attendee-to-intelligence-node-my-experience-at-an-ai-native-conference-20261025/"
+      },
+      {
+        "title": "Stryv bags US$11.5M Series B to turn a hair dryer brand into a household appliance group",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-27T02:00:33+00:00",
+        "relevance_score": 6,
+        "url": "https://e27.co/stryv-bags-us11-5m-series-b-to-turn-a-hair-dryer-brand-into-a-household-appliance-group-20261026/"
+      }
+    ],
+    "github": [
+      {
+        "title": "GitHub - yuiseki/map-from-scratch: 「Xをしたいから地図を作って」という依頼ごとに、その目的だけを満たす最小・最速の地図描画器をほぼゼロから作り、性能と正しさを計測して確かめる、 AI エージェントのためのスキルとハーネス",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-26T12:01:11+00:00",
+        "relevance_score": 11,
+        "url": "https://github.com/yuiseki/map-from-scratch"
       }
     ],
     "economy": [
@@ -65,6 +95,29 @@
         "published_at": "2026-10-27T01:00:36+00:00",
         "relevance_score": 9,
         "url": "https://e27.co/agencies-dont-have-a-hiring-problem-they-have-the-ebitda-multiple-problem-20261025/"
+      },
+      {
+        "title": "From conference attendee to intelligence node: My experience at an AI-native conference",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-27T02:00:11+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/from-conference-attendee-to-intelligence-node-my-experience-at-an-ai-native-conference-20261025/"
+      },
+      {
+        "title": "Stryv bags US$11.5M Series B to turn a hair dryer brand into a household appliance group",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-27T02:00:33+00:00",
+        "relevance_score": 6,
+        "url": "https://e27.co/stryv-bags-us11-5m-series-b-to-turn-a-hair-dryer-brand-into-a-household-appliance-group-20261026/"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "From conference attendee to intelligence node: My experience at an AI-native conference",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-27T02:00:11+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/from-conference-attendee-to-intelligence-node-my-experience-at-an-ai-native-conference-20261025/"
       }
     ]
   }
