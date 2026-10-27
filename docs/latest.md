@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-27T03:05:50+00:00_
+_Generiert: 2026-10-27T03:28:19+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students“ aus e27 Asia Startup and Tech Feed (Score 18, opportunity).
+18 neue relevante Treffer. Stärkstes Signal: „QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students“ aus e27 Asia Startup and Tech Feed (Score 18, opportunity).
 
 ## Priorität Hoch
 
@@ -87,6 +87,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-27 02:02:55 UTC 2026-10-27 02:02:55 UTC at epicenter Location 10.668°S 161.319°E Depth 35.00 km (21.75 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Gemini で社内の AI 活用事例113件を収集！広報が毎日発信し続けた話 | iret.media** — Score 9, observation — [Quelle](https://iret.media/210349)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-10-27T01:28:51+00:00`, fetched `2026-10-27T03:27:50+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: こんにちは！KDDIアイレット広報の羽鳥です。 2026年3月から平日毎日発信を続けてきた KDDIアイレットの社員による AI 活用事例「AI 実践録」のまとめページを公開しました！ AI 活用事例 – KDDIアイレット社員の AI 実践録 2026年7月までに集まった実践録113件をまとめた特設ページです✨ 本記事では、社内の AI 活用事...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Agencies don’t have a hiring problem. They have the (EBITDA) multiple problem** — Score 9, observation — [Quelle](https://e27.co/agencies-dont-have-a-hiring-problem-they-have-the-ebitda-multiple-problem-20261025/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-27T01:00:36+00:00`, fetched `2026-10-27T01:11:37+00:00`
@@ -140,15 +149,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 2026年10月27日 お知らせ【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第8報） （【続報】お客様をお守りするために現在私たちが行っていること） 2026年10月27日 9:58時点 GMOインターネットグループ株式会社 GMOインターネット株式会社 このたびは、「お名前.com デスク...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ウェブサイトも“保守・修繕”の発想が必要。「PHPの脆弱性」から、経営層・サイト運営者に知っておいてほしいこと** — Score 5, observation — [Quelle](https://internet.watch.impress.co.jp/docs/special/2151050.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-26T21:44:05+00:00`, fetched `2026-10-27T01:37:24+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: ウェブサイトも“保守・修繕”の発想が必要。「PHPの脆弱性」から、経営層・サイト運営者に知っておいてほしいこと
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
