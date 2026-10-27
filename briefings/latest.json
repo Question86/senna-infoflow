@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T11:55:43+00:00",
-  "run_id": "2026-10-27T11:55:43+00:00",
+  "generated_at": "2026-10-27T12:00:55+00:00",
+  "run_id": "2026-10-27T12:00:55+00:00",
   "date": "2026-10-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 58,
     "displayed_findings": 58,
     "high": 0,
@@ -2853,62 +2853,7 @@
       "id": "a46ced2ce1cdd2031cd2"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Anthropic, DeepSeek and drones: 10 takeaways from the 2026 unicorn boom",
-      "url": "https://e27.co/anthropic-deepseek-and-drones-10-takeaways-from-the-2026-unicorn-boom-20261027/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-27T11:50:36+00:00",
-      "fetched_at": "2026-10-27T11:55:09+00:00",
-      "summary": "Thirteen years after venture capitalist Aileen Lee coined the term, the unicorn has stopped being mythical. There are now 1,879 privately held companies valued at US$1 billion or more, according to a new analysis by BestBrokers, which drew on data from Crunchbase, PitchBook and TechCrunch. The headline number hides a narrower story. Capital in 2026 […] The post Anthropic, DeepSeek and drones: 10 takeaways from the 2…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Watchgraph:agriculture_food_fertilizer",
-        "Watchgraph:capitals_power_centers"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers, agriculture_food_fertilizer (+6.0); watchgraph markets via defense_war, macro_region_etfs, agriculture_food: corn (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "capitals_power_centers",
-        "agriculture_food_fertilizer"
-      ],
-      "watchgraph_reasons": [
-        "capitals_power_centers: capital",
-        "agriculture_food_fertilizer: corn"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ",
-        "ADM",
-        "BG",
-        "DE",
-        "NTR",
-        "CF",
-        "MOS",
-        "wheat",
-        "corn",
-        "soy"
-      ],
-      "id": "fe85264bb6de95f60b02"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
