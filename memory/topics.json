@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-27T06:00:56+00:00",
+  "generated_at": "2026-10-27T06:34:13+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-10-27T01:00:28+00:00",
         "relevance_score": 18,
         "url": "https://e27.co/qpiais-singapore-bet-put-quantum-hardware-in-the-hands-of-finance-students-20261026/"
+      },
+      {
+        "title": "JetBrains/thinkrail",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 13,
+        "url": "https://github.com/JetBrains/thinkrail"
       },
       {
         "title": "GitHub - yuiseki/map-from-scratch: 「Xをしたいから地図を作って」という依頼ごとに、その目的だけを満たす最小・最速の地図描画器をほぼゼロから作り、性能と正しさを計測して確かめる、 AI エージェントのためのスキルとハーネス",
@@ -31,6 +38,13 @@
         "published_at": "2026-10-27T01:00:36+00:00",
         "relevance_score": 9,
         "url": "https://e27.co/agencies-dont-have-a-hiring-problem-they-have-the-ebitda-multiple-problem-20261025/"
+      },
+      {
+        "title": "中国製AI「Qwen3.8」にセキュリティ対策を命じたら勝手に北京のサーバーへデータ送信を試みたことが判明",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-27T04:07:06+00:00",
+        "relevance_score": 8,
+        "url": "https://gigazine.net/news/20261027-concerning-behaviour-open-weight-ai-model/"
       },
       {
         "title": "The AI era is forcing startups to rethink what they should own",
@@ -59,20 +73,6 @@
         "published_at": "2026-10-27T06:00:05+00:00",
         "relevance_score": 6,
         "url": "https://e27.co/ecosystem-roundup-bukalapak-stays-in-the-black-as-gaming-carries-the-load-20261027/"
-      },
-      {
-        "title": "Stryv bags US$11.5M Series B to turn a hair dryer brand into a household appliance group",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-27T02:00:33+00:00",
-        "relevance_score": 6,
-        "url": "https://e27.co/stryv-bags-us11-5m-series-b-to-turn-a-hair-dryer-brand-into-a-household-appliance-group-20261026/"
-      },
-      {
-        "title": "GitHub Copilot assisted permissions generally available",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-10-26T22:31:30+00:00",
-        "relevance_score": 6,
-        "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available"
       }
     ],
     "economy": [
@@ -89,6 +89,13 @@
         "published_at": "2026-10-27T05:02:50+00:00",
         "relevance_score": 14,
         "url": "https://e27.co/3-scenarios-for-october-28-which-one-breaks-bitcoins-us80000-resistance-20261027/"
+      },
+      {
+        "title": "JetBrains/thinkrail",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 13,
+        "url": "https://github.com/JetBrains/thinkrail"
       },
       {
         "title": "Agencies don’t have a hiring problem. They have the (EBITDA) multiple problem",
@@ -165,6 +172,27 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tte4"
       },
       {
+        "title": "塩崎デジタル副大臣がアンドレス・ウンガ駐日エストニア共和国大使の表敬訪問を受けました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-10-27T06:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/press/b1d81ddb-c690-47fc-be30-e98502f5045c"
+      },
+      {
+        "title": "令和8年度（2026年度）デジタル庁情報システム調達改革検討会（第2回） の開催情報と資料を掲載しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-10-27T06:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/councils/procurement-reform/FY2026/24cfea22-3e10-418e-abbd-983af697d751"
+      },
+      {
+        "title": "「防災分野のデータ流通促進」の取組概要と「デジタル庁における官民共創による防災DXの推進」の資料を更新しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-10-27T06:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/policies/disaster_prevention"
+      },
+      {
         "title": "古川大臣記者会見（令和8年10月27日）動画を掲載しました",
         "source": "Japan Digital Agency News RSS",
         "published_at": "2026-10-27T02:51:03+00:00",
@@ -224,6 +252,13 @@
       }
     ],
     "github": [
+      {
+        "title": "JetBrains/thinkrail",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 13,
+        "url": "https://github.com/JetBrains/thinkrail"
+      },
       {
         "title": "GitHub - yuiseki/map-from-scratch: 「Xをしたいから地図を作って」という依頼ごとに、その目的だけを満たす最小・最速の地図描画器をほぼゼロから作り、性能と正しさを計測して確かめる、 AI エージェントのためのスキルとハーネス",
         "source": "Hatena Bookmark Hotentry IT",
