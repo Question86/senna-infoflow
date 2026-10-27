@@ -113,7 +113,7 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3965",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-27T08:51:29+00:00",
-        "age_days": 0.07,
+        "age_days": 0.08,
         "topics": [
           "security"
         ],
@@ -138,7 +138,7 @@
         "url": "https://e27.co/qpiais-singapore-bet-put-quantum-hardware-in-the-hands-of-finance-students-20261026/",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-10-27T01:00:28+00:00",
-        "age_days": 0.39,
+        "age_days": 0.4,
         "topics": [
           "axiom",
           "ai",
@@ -189,7 +189,7 @@
         "url": "https://jvn.jp/jp/JVN90463048/",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-10-27T12:00:00+09:00",
-        "age_days": 0.31,
+        "age_days": 0.32,
         "topics": [
           "security"
         ],
@@ -213,7 +213,7 @@
         "url": "https://jvn.jp/vu/JVNVU90547696/",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-10-27T10:30:15+09:00",
-        "age_days": 0.37,
+        "age_days": 0.38,
         "topics": [
           "security"
         ],
