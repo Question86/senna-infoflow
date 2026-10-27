@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-27T01:12:04+00:00",
+  "generated_at": "2026-10-27T01:37:53+00:00",
   "topics": {
     "general": [
       {
@@ -12,11 +12,34 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttdt"
       },
       {
+        "title": "ウェブサイトも“保守・修繕”の発想が必要。「PHPの脆弱性」から、経営層・サイト運営者に知っておいてほしいこと",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-26T21:44:05+00:00",
+        "relevance_score": 5,
+        "url": "https://internet.watch.impress.co.jp/docs/special/2151050.html"
+      },
+      {
         "title": "電子ギフト会社に不正アクセス 5億5000万円分が不正発行 | NHKニュース",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-10-26T14:37:21+00:00",
         "relevance_score": 5,
         "url": "https://news.web.nhk/newsweb/na/nd-20261026de66013"
+      }
+    ],
+    "security": [
+      {
+        "title": "Fireblocks製mpc-libの強化導出（Hardened Derivation）処理における脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-27T10:30:15+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU90547696/"
+      },
+      {
+        "title": "COVESA vsomeipにおける過剰なメモリ割り当ての脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-10-27T10:30:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU90363302/"
       }
     ],
     "ai": [
