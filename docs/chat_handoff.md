@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-27T11:37:01+00:00_
+_Generated: 2026-10-27T11:47:41+00:00_
 
 ## Status
 - status: `normal`
-- findings: `52`
+- findings: `57`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-10-27T11:37:01+00:00_
 - url: https://e27.co/qpiais-singapore-bet-put-quantum-hardware-in-the-hands-of-finance-students-20261026/
 - summary: Singapore has deep-pocketed banks, a national quantum strategy and plenty of conference panels on the subject. What it has rarely offered is a physical quantum computer that a finance undergraduate can actually run code on. India-based QpiAI is betting that g…
 
-### 2. M 4.6 - 203 km SSE of Tateyama, Japan
+### 2. [UPDATE] [mittel] Red Hat Enterprise Linux Flatpack: Mehrere Schwachstellen ermöglichen Manipulation von Dateien
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-10-27T11:33:40+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4147
+- summary: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux Flatpack ausnutzen, um Dateien zu manipulieren.
+
+### 3. [UPDATE] [mittel] Red Hat Enterprise Linux (FreeIPMI): Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-10-27T11:33:39+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4155
+- summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (FreeIPMI) ausnutzen, um beliebigen Programmcode auszuführen und um einen Denial of Service Angriff durchzuführen.
+
+### 4. M 4.6 - 203 km SSE of Tateyama, Japan
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-10-27T01:41:11.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tte0
 - summary: Time 2026-10-27 01:17:53 UTC 2026-10-27 01:17:53 UTC at epicenter Location 33.285°N 140.713°E Depth 66.72 km (41.45 mi)
-
-### 3. M 4.8 - 54 km E of Tomioka, Japan
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-10-27T00:57:45.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttdt
-- summary: Time 2026-10-27 00:25:08 UTC 2026-10-27 00:25:08 UTC at epicenter Location 37.387°N 141.625°E Depth 48.93 km (30.40 mi)
-
-### 4. GROWIにおける複数の脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-10-27T15:00:00+09:00`
-- url: https://jvn.jp/jp/JVN51223238/
-- summary: 株式会社GROWIが提供するGROWIには、複数の脆弱性が存在します。
 
 ### 5. Evan Goldberg on AI trust: Confident answers aren’t enough, context is everything
 - source: e27 Asia Startup and Tech Feed
