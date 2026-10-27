@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-27T15:24:47+00:00_
+_Generiert: 2026-10-27T15:37:58+00:00_
 
 ## Kurzlage
 
-74 neue relevante Treffer. Stärkstes Signal: „M 5.4 - 128 km S of Pundong, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+75 neue relevante Treffer. Stärkstes Signal: „M 5.4 - 128 km S of Pundong, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 ## Priorität Hoch
 
