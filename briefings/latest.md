@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-27T01:37:53+00:00_
+_Generiert: 2026-10-27T01:58:50+00:00_
 
 ## Kurzlage
 
-6 neue relevante Treffer. Stärkstes Signal: „M 4.8 - 54 km E of Tomioka, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+7 neue relevante Treffer. Stärkstes Signal: „M 4.6 - 203 km SSE of Tateyama, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -73,6 +73,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **M 4.6 - 203 km SSE of Tateyama, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tte0)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-27T01:41:11.040+00:00`, fetched `2026-10-27T01:58:16+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-27 01:17:53 UTC 2026-10-27 01:17:53 UTC at epicenter Location 33.285°N 140.713°E Depth 66.72 km (41.45 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.8 - 54 km E of Tomioka, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttdt)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-27T00:57:45.040+00:00`, fetched `2026-10-27T01:11:37+00:00`
