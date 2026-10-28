@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T15:37:53+00:00_
+_Generiert: 2026-10-28T15:43:57+00:00_
 
 ## Kurzlage
 
-68 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+69 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -296,6 +296,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
   - Kurz: De multiples vulnérabilités ont été découvertes dans les produits Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, un déni de service et un problème de sécurité non spécifié par l'éditeur.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **CPMI publishes analysis on how central banks support payment system safety and efficiency and trust in money in the rapidly changing payments ecosystem** — Score 9, observation — [Quelle](https://www.bis.org/p/s0/media-releases/20261029-cpmi-publishes-analysis-how-central-banks-support-payment-system-safety-and-efficiency-and)
+  - Quelle: BIS Press Releases / `rss`
+  - Zeit: published `2026-10-29T00:00:00+00:00`, fetched `2026-10-28T15:43:22+00:00`
+  - Treffer: central banks, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); central banks (+2.5)
+  - Kurz: A new report by the BIS Committee on Payments and Market Infrastructures (CPMI) examines how technological innovation, changing user demand and the emergence of new types of payment service providers and arrangements are transforming payment systems.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.5 - 13 km WSW of Āwash, Ethiopia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttp7)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-28T14:09:01.040+00:00`, fetched `2026-10-28T14:13:09+00:00`
@@ -340,15 +349,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Am Wochenende wurden Sicherheitslücken in Tailscale-Software bekannt, die Angreifer etwa zum Ausweiten der Rechte missbrauchen können.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Veeam: Backup-Server manipulierbar und MFA deaktivierbar** — Score 7, observation — [Quelle](https://www.heise.de/news/Veeam-Backup-Server-manipulierbar-und-MFA-deaktivierbar-11502821.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-10-28T09:23:00.000+00:00`, fetched `2026-10-28T09:33:13+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Es sind wichtige Sicherheitsupdates für Veeam Backup & Replication und ONE erschienen. Bislang gibt es keine Hinweise auf laufende Attacken.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
