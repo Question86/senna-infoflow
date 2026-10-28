@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T02:45:50+00:00_
+_Generiert: 2026-10-28T02:51:17+00:00_
 
 ## Kurzlage
 
@@ -33,6 +33,10 @@ _Generiert: 2026-10-28T02:45:50+00:00_
   - Quelle: USGS
   - Zeit: `2026-10-28T02:21:45+00:00`
   - Kurz: M6.0 - 214 km NW of Port-Olry, Vanuatu. PAGER alert: none. Tsunami flag: 0.
+- **GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu Islands 28/10/2026 02:21 UTC, No people affected in 100km.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574265)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu Islands 28/10/2026 02:21 UTC, No people affected in 100km.
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Vanuatu Islands 28/10/2026 01:39 UTC, [unknown].** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574251)
   - Quelle: GDACS
   - Zeit: ``
@@ -57,10 +61,6 @@ _Generiert: 2026-10-28T02:45:50+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.9M, Depth:7km) in China 25/10/2026 11:25 UTC, 10 thousand in MMI&gt;=V.
-- **GDACS: Green notification for tropical cyclone IN-FA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001343)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green notification for tropical cyclone IN-FA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 
 ## Wirtschaft global
 

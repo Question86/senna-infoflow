@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T02:45:56+00:00",
+  "generated_at": "2026-10-28T02:51:24+00:00",
   "sections": {
     "global_security": [
       {
@@ -80,6 +80,16 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu Islands 28/10/2026 02:21 UTC, No people affected in 100km.",
+        "summary": "Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu Islands 28/10/2026 02:21 UTC, No people affected in 100km.",
+        "source": "GDACS",
+        "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574265",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Vanuatu Islands 28/10/2026 01:39 UTC, [unknown].",
         "summary": "Green earthquake (Magnitude 5.5M, Depth:10km) in Vanuatu Islands 28/10/2026 01:39 UTC, [unknown].",
         "source": "GDACS",
@@ -134,16 +144,6 @@
         "summary": "Green earthquake (Magnitude 5.9M, Depth:7km) in China 25/10/2026 11:25 UTC, 10 thousand in MMI&gt;=V.",
         "source": "GDACS",
         "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573773",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green notification for tropical cyclone IN-FA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-        "summary": "Green notification for tropical cyclone IN-FA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-        "source": "GDACS",
-        "url": "http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001343",
         "published_at": "",
         "metrics": {}
       }
