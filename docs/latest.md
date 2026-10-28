@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T12:44:01+00:00_
+_Generiert: 2026-10-28T12:49:22+00:00_
 
 ## Kurzlage
 
-50 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+54 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -65,6 +65,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+7.5); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: OpenAIは10月26日、AIが数学、計算機科学、物理学の3分野で、長年の未解決問題に関する証明を生成したと発表した。計算機科学では、ある種の問題を解くには膨大な計算時間が必要だとする「指数時間仮説（ETH）」を覆す証明が得られたという。成果の一部を公開し、外部の研究者による検証や分析を進める。 指数時間仮説は...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [hoch] Red Hat Enterprise Linux (xdg-dbus-proxy): Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4172)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-10-28T12:42:10+00:00`, fetched `2026-10-28T12:48:55+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um Sicherheitsvorkehrungen zu umgehen und so möglicherweise beliebigen Code auszuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [mittel] Red Hat Enterprise Linux Libreswan: Mehrere Schwachstellen ermöglichen Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4183)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
@@ -137,15 +146,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - I Time 2026-10-27 23:43:52 UTC 2026-10-27 23:43:52 UTC at epicenter Location 5.725°N 125.342°E Depth 63.87 km (39.69 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **ヤマハ製NWR100における複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU91027179/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-10-28T14:15:00+09:00`, fetched `2026-10-28T05:17:41+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: ヤマハ株式会社が提供する無線LANルーターNWR100には、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
