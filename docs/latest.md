@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T10:00:56+00:00_
+_Generiert: 2026-10-28T10:15:21+00:00_
 
 ## Kurzlage
 
-41 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+42 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -65,6 +65,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+7.5); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: OpenAIは10月26日、AIが数学、計算機科学、物理学の3分野で、長年の未解決問題に関する証明を生成したと発表した。計算機科学では、ある種の問題を解くには膨大な計算時間が必要だとする「指数時間仮説（ETH）」を覆す証明が得られたという。成果の一部を公開し、外部の研究者による検証や分析を進める。 指数時間仮説は...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Legora is building the agentic operating system for legal work** — Score 16, observation — [Quelle](https://openai.com/index/legora-agentic-operating-system-for-legal-work)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-28T09:30:00+00:00`, fetched `2026-10-28T10:14:51+00:00`
+  - Treffer: AI Agents, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+6.0); AI Agents (+6.2); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年10月27日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU96093239/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
