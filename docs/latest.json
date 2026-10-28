@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28T02:02:28+00:00",
-  "run_id": "2026-10-28T02:02:28+00:00",
+  "generated_at": "2026-10-28T02:22:05+00:00",
+  "run_id": "2026-10-28T02:22:05+00:00",
   "date": "2026-10-28",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 12
+      "configured_public_sources_only": 13
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 12,
-    "displayed_findings": 12,
+    "new_relevant_findings": 1,
+    "today_file_total": 13,
+    "displayed_findings": 13,
     "high": 0,
     "medium": 7,
-    "observe": 5,
+    "observe": 6,
     "source_errors": 0
   },
   "sections": {
@@ -372,6 +372,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "9da4d091fd2b3cce3950"
+      },
+      {
+        "title": "軽量・軽快なウェブ地図描画ライブラリが登場。「MachGL」は本体が90KB程度、東京都全域の3D都市モデルでも100MB未満【地図と位置情報】",
+        "url": "https://internet.watch.impress.co.jp/docs/column/chizu3/2151651.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-27T22:49:05+00:00",
+        "fetched_at": "2026-10-28T02:21:34+00:00",
+        "summary": "軽量・軽快なウェブ地図描画ライブラリが登場。「MachGL」は本体が90KB程度、東京都全域の3D都市モデルでも100MB未満【地図と位置情報】",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0a23cfe477454b623ea0"
       },
       {
         "title": "脱GPUが加速、OracleもGoogle製TPUを選択",
@@ -761,6 +782,27 @@
       "id": "9da4d091fd2b3cce3950"
     },
     {
+      "title": "軽量・軽快なウェブ地図描画ライブラリが登場。「MachGL」は本体が90KB程度、東京都全域の3D都市モデルでも100MB未満【地図と位置情報】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/chizu3/2151651.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-27T22:49:05+00:00",
+      "fetched_at": "2026-10-28T02:21:34+00:00",
+      "summary": "軽量・軽快なウェブ地図描画ライブラリが登場。「MachGL」は本体が90KB程度、東京都全域の3D都市モデルでも100MB未満【地図と位置情報】",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0a23cfe477454b623ea0"
+    },
+    {
       "title": "脱GPUが加速、OracleもGoogle製TPUを選択",
       "url": "https://pc.watch.impress.co.jp/docs/news/2151701.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -805,72 +847,25 @@
   ],
   "new_findings": [
     {
-      "title": "How will AI shopping agents change Amazon and retail?",
-      "url": "https://e27.co/how-will-ai-shopping-agents-change-amazon-and-retail-20261025/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "軽量・軽快なウェブ地図描画ライブラリが登場。「MachGL」は本体が90KB程度、東京都全域の3D都市モデルでも100MB未満【地図と位置情報】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/chizu3/2151651.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-28T02:00:33+00:00",
-      "fetched_at": "2026-10-28T02:01:58+00:00",
-      "summary": "Amazon’s decision to block Meta’s Muse shopping agent looks, at first, like a technical dispute over access, security and authorisation. In practice, it points to a much larger commercial problem. If customers increasingly hand purchasing decisions to AI agents, retailers may still process the sale while losing control over how the customer chooses what to […] The post How will AI shopping agents change Amazon and r…",
+      "published_at": "2026-10-27T22:49:05+00:00",
+      "fetched_at": "2026-10-28T02:21:34+00:00",
+      "summary": "軽量・軽快なウェブ地図描画ライブラリが登場。「MachGL」は本体が90KB程度、東京都全域の3D都市モデルでも100MB未満【地図と位置情報】",
       "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "APAC Trend Radar",
-        "Security",
-        "Watchgraph:ai_agents_workflow"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 23,
-      "relevance_reason": "AI/KI (+3.8); AI Agents (+5.0); Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: META (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: AI agents"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "6216a74b91f08bf1db52"
-    },
-    {
-      "title": "Inside Singapore’s AI push: Lighthouses, rice importers and robot labs",
-      "url": "https://e27.co/inside-singapores-ai-push-lighthouses-rice-importers-and-robot-labs-20261027/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-28T02:00:58+00:00",
-      "fetched_at": "2026-10-28T02:01:58+00:00",
-      "summary": "Singapore has a habit of announcing its future in instalments. On Tuesday, at the Singapore Week of Innovation and Technology (SWITCH) 2026, Deputy Prime Minister Gan Kim Yong unveiled the latest chapter: a suite of AI initiatives led by Enterprise Singapore (EnterpriseSG) that is meant to reach every rung of the AI-readiness ladder, from blue-chip […] The post Inside Singapore’s AI push: Lighthouses, rice importers…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "1b777ebe8d8c52f405f3"
+      "id": "0a23cfe477454b623ea0"
     }
   ],
   "source_errors": [],
