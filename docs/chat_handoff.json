@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-28T01:51:01+00:00",
+  "generated_at": "2026-10-28T01:56:31+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 9,
-    "displayed_findings": 9,
+    "today_file_total": 10,
+    "displayed_findings": 10,
     "high": 0,
     "medium": 6,
-    "observe": 3
+    "observe": 4
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -53,6 +53,16 @@
       "url": "https://jvn.jp/vu/JVNVU96093239/",
       "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
       "section": "medium"
+    },
+    {
+      "title": "M 5.5 - 221 km NW of Port-Olry, Vanuatu",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-28T01:54:14.040+00:00",
+      "relevance_score": 9,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttld",
+      "summary": "Time 2026-10-28 01:39:11 UTC 2026-10-28 01:39:11 UTC at epicenter Location 13.895°S 165.389°E Depth 10.00 km (6.21 mi)",
+      "section": "observe"
     },
     {
       "title": "The most dangerous thing about AI isn’t hallucination. It’s that it stopped showing its work",

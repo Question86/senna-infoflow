@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-28T01:51:01+00:00_
+_Generated: 2026-10-28T01:56:31+00:00_
 
 ## Status
 - status: `normal`
-- findings: `9`
+- findings: `10`
 
 ## Top Signals
 
@@ -36,21 +36,28 @@ _Generated: 2026-10-28T01:51:01+00:00_
 - url: https://jvn.jp/vu/JVNVU96093239/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 5. The most dangerous thing about AI isn’t hallucination. It’s that it stopped showing its work
+### 5. M 5.5 - 221 km NW of Port-Olry, Vanuatu
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-10-28T01:54:14.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttld
+- summary: Time 2026-10-28 01:39:11 UTC 2026-10-28 01:39:11 UTC at epicenter Location 13.895°S 165.389°E Depth 10.00 km (6.21 mi)
+
+### 6. The most dangerous thing about AI isn’t hallucination. It’s that it stopped showing its work
 - source: e27 Asia Startup and Tech Feed
 - score: `8`
 - published: `2026-10-28T01:00:28+00:00`
 - url: https://e27.co/the-most-dangerous-thing-about-ai-isnt-hallucination-its-that-it-stopped-showing-its-work-20261025/
 - summary: Everyone is worried about the wrong AI failure. For two years, the loudest AI safety conversation has centred on hallucination: the model that invents a fact, a court case, a source that never existed. That risk is real and well documented. But a quieter prob…
 
-### 6. 脱GPUが加速、OracleもGoogle製TPUを選択
+### 7. 脱GPUが加速、OracleもGoogle製TPUを選択
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-10-27T21:44:26+00:00`
 - url: https://pc.watch.impress.co.jp/docs/news/2151701.html
 - summary: 脱GPUが加速、OracleもGoogle製TPUを選択
 
-### 7. AIが作ったUIはなぜ「使いづらい」のか？ 「操作できる」と「使える」を分けて、100点に引き上げる「4つの評価観点」
+### 8. AIが作ったUIはなぜ「使いづらい」のか？ 「操作できる」と「使える」を分けて、100点に引き上げる「4つの評価観点」
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-10-27T03:29:58+00:00`
