@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T21:00:14+00:00_
+_Generiert: 2026-10-28T21:12:53+00:00_
 
 ## Kurzlage
 
-86 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+86 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -296,7 +296,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `fed_selected_interest_rates_h15` (rss): HTTPSConnectionPool(host='www.federalreserve.gov', port=443): Read timed out. (read timeout=8)
