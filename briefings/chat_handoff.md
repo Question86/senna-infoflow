@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-28T08:01:20+00:00_
+_Generated: 2026-10-28T08:20:44+00:00_
 
 ## Status
-- status: `warning`
-- findings: `36`
+- status: `normal`
+- findings: `38`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-10-28T08:01:20+00:00_
 - url: https://github.com/nightly-labs/openbot
 - summary: A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration. https://openbot.run/ OpenBot OpenBot is a local-first desktop wor…
 
-### 5. Phishers now want you to type the malware in yourself
+### 5. Announcing 20260096 (OT,liquidity providing), for 7 days deadline 09:45
+- source: ECB Open Market Operations and Communication
+- score: `12`
+- published: `2026-10-28T08:15:22+00:00`
+- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260096.en.html
+- summary: Announcing 20260096 (OT,liquidity providing), for 7 days deadline 09:45
+
+### 6. Phishers now want you to type the malware in yourself
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-10-28T05:57:42+00:00`
 - url: https://e27.co/phishers-now-want-you-to-type-the-malware-in-yourself-20261028/
 - summary: For years, the anti-phishing playbook has been drilled into office workers like a fire-safety briefing: check the sender, hover before you click, never type your password into a page you reached from an email. The latest data from Check Point Research suggest…
 
-### 6. Meta sells voteless shares, SpaceX leases its chips. Johor should be paying attention
+### 7. Meta sells voteless shares, SpaceX leases its chips. Johor should be paying attention
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-10-28T03:00:24+00:00`
 - url: https://e27.co/meta-sells-voteless-shares-spacex-leases-its-chips-johor-should-be-paying-attention-20261027/
 - summary: Every few months, Southeast Asia’s startup ecosystem gets a headline that sounds like a resurrection. This October brought two. Tracxn reported that tech funding in the region rose 176 per cent to US$13.5 billion in the first nine months of 2026. Dealroom and…
 
-### 7. M 4.7 - 39 km SSW of Serrezuela, Argentina
+### 8. M 4.7 - 39 km SSW of Serrezuela, Argentina
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-10-28T07:18:50.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttmh
 - summary: Time 2026-10-28 07:02:12 UTC 2026-10-28 07:02:12 UTC at epicenter Location 30.956°S 65.568°W Depth 186.30 km (115.76 mi)
-
-### 8. How we use AI to triage inbound B2B leads without blasting everyone the same way
-- source: e27 Asia Startup and Tech Feed
-- score: `11`
-- published: `2026-10-28T03:00:41+00:00`
-- url: https://e27.co/how-we-use-ai-to-triage-inbound-b2b-leads-without-blasting-everyone-the-same-way-20261025/
-- summary: We used to say we wanted more leads. That was true, but it was not the full problem. The harder problem was what happened after a lead came in. A form submission would land in the inbox. Someone would glance at the company name, skim the message, maybe click…
 
 END OF DOCUMENT
