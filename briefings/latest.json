@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28T11:43:11+00:00",
-  "run_id": "2026-10-28T11:43:11+00:00",
+  "generated_at": "2026-10-28T11:49:06+00:00",
+  "run_id": "2026-10-28T11:49:06+00:00",
   "date": "2026-10-28",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 43,
     "displayed_findings": 43,
     "high": 0,
@@ -2569,28 +2569,7 @@
       "id": "b97c2f355f51a8a6b80f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Tailscale SSH: Update stopft „Tailworm“-Sicherheitslücken",
-      "url": "https://www.heise.de/news/Tailscale-SSH-Update-stopft-Tailworm-Sicherheitsluecken-11502847.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-10-28T11:35:00.000+00:00",
-      "fetched_at": "2026-10-28T11:42:44+00:00",
-      "summary": "Am Wochenende wurden Sicherheitslücken in Tailscale-Software bekannt, die Angreifer etwa zum Ausweiten der Rechte missbrauchen können.",
-      "matched_keywords": [
-        "Security"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1b6a562343168064e6ea"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
