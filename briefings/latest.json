@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28T16:40:49+00:00",
-  "run_id": "2026-10-28T16:40:49+00:00",
+  "generated_at": "2026-10-28T16:45:05+00:00",
+  "run_id": "2026-10-28T16:45:05+00:00",
   "date": "2026-10-28",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 81,
     "displayed_findings": 81,
     "high": 0,
@@ -4581,31 +4581,7 @@
       "id": "477a4e61ac16edbf2a2d"
     }
   ],
-  "new_findings": [
-    {
-      "title": "PHP財団の常勤職員「たった1人」の衝撃--ウェブの安全を支える人手と資金が足りない",
-      "url": "https://japan.cnet.com/article/35254103/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-28T09:39:58+00:00",
-      "fetched_at": "2026-10-28T16:40:15+00:00",
-      "summary": "この1週間、世界中のソフトウェアエンジニアが、ウェブサイトを動かすソフトウェアの更新に追われている。米OpenAIのAIモデルを使ったチームが、ウェブを支える重要なソフトウェア「PHP」に2件の重大な脆弱性を発見したためだ。米Cloudflareによると、影響はPHP 5.4以降を使うウェブサーバーに及ぶ。修正を適用しないま...",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Hatena",
-        "hotentry",
-        "OpenAI"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "OpenAI (+6.0); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "820b6396ac1839578996"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
