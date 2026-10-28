@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T17:34:20+00:00_
+_Generiert: 2026-10-28T17:40:03+00:00_
 
 ## Kurzlage
 
@@ -29,8 +29,34 @@ _Generiert: 2026-10-28T17:34:20+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-23`
   - Kurz: Known exploited vulnerability. Added 2026-10-23. Due 2026-10-26. Arista VeloCloud Orchestrator SQL Injection Vulnerability
-
-- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7fab1469e9d0>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:41.356km) in Japan 28/10/2026 15:07 UTC, 100 thousand in MMI V.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574369)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:41.356km) in Japan 28/10/2026 15:07 UTC, 100 thousand in MMI V.
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Reykjanes Ridge 28/10/2026 11:37 UTC, [unknown].** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574329)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Reykjanes Ridge 28/10/2026 11:37 UTC, [unknown].
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Vanuatu 28/10/2026 02:59 UTC, 3 thousand in MMI III.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574271)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Vanuatu 28/10/2026 02:59 UTC, 3 thousand in MMI III.
+- **GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu Islands 28/10/2026 02:21 UTC, [unknown].** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574265)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu Islands 28/10/2026 02:21 UTC, [unknown].
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Vanuatu Islands 28/10/2026 01:39 UTC, [unknown].** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574251)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Vanuatu Islands 28/10/2026 01:39 UTC, [unknown].
+- **GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu 27/10/2026 08:55 UTC, 1 thousand in MMI III.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574115)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu 27/10/2026 08:55 UTC, 1 thousand in MMI III.
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:641.812km) in Fiji 26/10/2026 10:13 UTC, 2 thousand in 100km.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573942)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:641.812km) in Fiji 26/10/2026 10:13 UTC, 2 thousand in 100km.
 
 ## Wirtschaft global
 
