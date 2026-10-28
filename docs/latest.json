@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28T05:38:54+00:00",
-  "run_id": "2026-10-28T05:38:54+00:00",
+  "generated_at": "2026-10-28T05:44:07+00:00",
+  "run_id": "2026-10-28T05:44:07+00:00",
   "date": "2026-10-28",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 29,
     "displayed_findings": 29,
     "high": 0,
@@ -1739,29 +1739,7 @@
       "id": "b97c2f355f51a8a6b80f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "支給PCのスペックがショボすぎて、新人が辞めた。",
-      "url": "https://anond.hatelabo.jp/20261028103922",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-28T01:39:36+00:00",
-      "fetched_at": "2026-10-28T05:38:24+00:00",
-      "summary": "メモリ価格の高騰で、PCの値段は昨年の倍になった。一方、うちの会社のPC調達規程は平成に制定されて以来、一度も改定されていない。 PCは1台10万円未満とする。 うちでは10万円以上になると固定資産として台帳に載り、稟議も社長決裁になる。その稟議を書きたい人がいないので、二十年間守られてきた。 今のPC価格はこ...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9162c22d0147934742bb"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
