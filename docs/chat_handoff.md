@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-28T20:24:29+00:00_
+_Generated: 2026-10-28T20:30:42+00:00_
 
 ## Status
 - status: `normal`
-- findings: `85`
+- findings: `86`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-10-28T20:24:29+00:00_
 - url: https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1371/
 - summary: De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
 
-### 6. Announcing 20260096 (OT,liquidity providing), for 7 days deadline 09:45
+### 6. OpenAI and ServiceNow expand partnership across enterprise workflows
+- source: OpenAI News RSS
+- score: `12`
+- published: `2026-10-28T13:15:00+00:00`
+- url: https://openai.com/index/openai-servicenow-partnership-expansion
+- summary: OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.
+
+### 7. Announcing 20260096 (OT,liquidity providing), for 7 days deadline 09:45
 - source: ECB Open Market Operations and Communication
 - score: `12`
 - published: `2026-10-28T08:15:22+00:00`
 - url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260096.en.html
 - summary: Announcing 20260096 (OT,liquidity providing), for 7 days deadline 09:45
 
-### 7. Phishers now want you to type the malware in yourself
+### 8. Phishers now want you to type the malware in yourself
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-10-28T05:57:42+00:00`
 - url: https://e27.co/phishers-now-want-you-to-type-the-malware-in-yourself-20261028/
 - summary: For years, the anti-phishing playbook has been drilled into office workers like a fire-safety briefing: check the sender, hover before you click, never type your password into a page you reached from an email. The latest data from Check Point Research suggest…
-
-### 8. Meta sells voteless shares, SpaceX leases its chips. Johor should be paying attention
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-10-28T03:00:24+00:00`
-- url: https://e27.co/meta-sells-voteless-shares-spacex-leases-its-chips-johor-should-be-paying-attention-20261027/
-- summary: Every few months, Southeast Asia’s startup ecosystem gets a headline that sounds like a resurrection. This October brought two. Tracxn reported that tech funding in the region rose 176 per cent to US$13.5 billion in the first nine months of 2026. Dealroom and…
 
 END OF DOCUMENT
