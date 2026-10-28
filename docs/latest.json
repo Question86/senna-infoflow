@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28T15:15:05+00:00",
-  "run_id": "2026-10-28T15:15:05+00:00",
+  "generated_at": "2026-10-28T15:23:35+00:00",
+  "run_id": "2026-10-28T15:23:35+00:00",
   "date": "2026-10-28",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 6,
+    "new_relevant_findings": 0,
     "today_file_total": 67,
     "displayed_findings": 67,
     "high": 0,
@@ -3827,150 +3827,7 @@
       "id": "b97c2f355f51a8a6b80f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Multiples vulnérabilités dans Microsoft Edge (23 octobre 2026)",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1371/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-10-23T00:00:00+00:00",
-      "fetched_at": "2026-10-28T15:14:31+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "Microsoft",
-        "sécurité",
-        "vulnérabilité",
-        "éditeur"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0); Microsoft (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4c68dbec866e77dbeea8"
-    },
-    {
-      "title": "Multiples vulnérabilités dans le noyau Linux de Debian (23 octobre 2026)",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1374/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-10-23T00:00:00+00:00",
-      "fetched_at": "2026-10-28T15:14:31+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "Linux",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b42d7d05c5fdc51dfc36"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits Red Hat (23 octobre 2026)",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1373/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-10-23T00:00:00+00:00",
-      "fetched_at": "2026-10-28T15:14:31+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, un déni de service et un problème de sécurité non spécifié par l'éditeur.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité",
-        "éditeur"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b11ebdcfb30d5501c3de"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits HPE Aruba Networking (23 octobre 2026)",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1369/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-10-23T00:00:00+00:00",
-      "fetched_at": "2026-10-28T15:14:31+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "229cadb4ffe89e8c545b"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits Tenable (23 octobre 2026)",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1370/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-10-23T00:00:00+00:00",
-      "fetched_at": "2026-10-28T15:14:31+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Tenable. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6596363f411f40e1360e"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits SUSE (23 octobre 2026)",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1372/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-10-23T00:00:00+00:00",
-      "fetched_at": "2026-10-28T15:14:31+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7df76fe4a8a475b02cef"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
