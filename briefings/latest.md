@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T03:19:49+00:00_
+_Generiert: 2026-10-28T03:30:06+00:00_
 
 ## Kurzlage
 
@@ -29,10 +29,10 @@ _Generiert: 2026-10-28T03:19:49+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-23`
   - Kurz: Known exploited vulnerability. Added 2026-10-23. Due 2026-10-26. Arista VeloCloud Orchestrator SQL Injection Vulnerability
-- **USGS earthquake M6.0 - 214 km NW of Port-Olry, Vanuatu** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlm)
-  - Quelle: USGS
-  - Zeit: `2026-10-28T02:21:45+00:00`
-  - Kurz: M6.0 - 214 km NW of Port-Olry, Vanuatu. PAGER alert: none. Tsunami flag: 0.
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Vanuatu 28/10/2026 02:59 UTC, 3 thousand in MMI III.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574271)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Vanuatu 28/10/2026 02:59 UTC, 3 thousand in MMI III.
 - **GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu Islands 28/10/2026 02:21 UTC, No people affected in 100km.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574265)
   - Quelle: GDACS
   - Zeit: ``
@@ -57,14 +57,10 @@ _Generiert: 2026-10-28T03:19:49+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone THREE-C-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Green earthquake (Magnitude 5.9M, Depth:7km) in China 25/10/2026 11:25 UTC, 10 thousand in MMI&gt;=V.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1573773)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.9M, Depth:7km) in China 25/10/2026 11:25 UTC, 10 thousand in MMI&gt;=V.
 - **USGS earthquake M5.6 - 174 km NW of Port-Olry, Vanuatu** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlt)
   - Quelle: USGS
   - Zeit: `2026-10-28T02:59:48+00:00`
-  - Kurz: M5.6 - 174 km NW of Port-Olry, Vanuatu. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M5.6 - 174 km NW of Port-Olry, Vanuatu. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
