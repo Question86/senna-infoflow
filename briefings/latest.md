@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T06:00:36+00:00_
+_Generiert: 2026-10-28T06:25:17+00:00_
 
 ## Kurzlage
 
-30 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+31 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -238,6 +238,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules elections_unrest (+3.0)
   - Kurz: クーポン・お買い物券:coupon枚 ソニーポイント:pointポイント一度サインアウトして、再度サインインしてください
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **三角デジタル監がDFFT Expert Community初の対面会合に出席しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/press/664c482f-3164-48d2-a3ee-5f1cf415cd78)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-10-28T06:04:22+00:00`, fetched `2026-10-28T06:24:46+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 三角デジタル監がDFFT Expert Community初の対面会合に出席しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **支給PCのスペックがショボすぎて、新人が辞めた。** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20261028103922)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-28T01:39:36+00:00`, fetched `2026-10-28T05:38:24+00:00`
@@ -258,7 +267,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `cert_eu_security_advisories` (rss): HTTPSConnectionPool(host='cert.europa.eu', port=443): Read timed out. (read timeout=8)
