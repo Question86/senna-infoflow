@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T05:54:52+00:00_
+_Generiert: 2026-10-28T06:00:36+00:00_
 
 ## Kurzlage
 
-29 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+30 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -105,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Phishers now want you to type the malware in yourself** — Score 12, risk — [Quelle](https://e27.co/phishers-now-want-you-to-type-the-malware-in-yourself-20261028/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-28T05:57:42+00:00`, fetched `2026-10-28T05:59:55+00:00`
+  - Treffer: APAC Trend Radar, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: For years, the anti-phishing playbook has been drilled into office workers like a fire-safety briefing: check the sender, hover before you click, never type your password into a page you reached from an email. The latest data from Check Point Research suggests attackers have read the same briefing. Increasingly, they are not after your password […] The post Phishers now want you to type the malware in yourself appea…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Meta sells voteless shares, SpaceX leases its chips. Johor should be paying attention** — Score 12, observation — [Quelle](https://e27.co/meta-sells-voteless-shares-spacex-leases-its-chips-johor-should-be-paying-attention-20261027/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-28T03:00:24+00:00`, fetched `2026-10-28T03:19:19+00:00`
@@ -122,15 +131,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); Webentwicklung (+3.0); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: We used to say we wanted more leads. That was true, but it was not the full problem. The harder problem was what happened after a lead came in. A form submission would land in the inbox. Someone would glance at the company name, skim the message, maybe click the website, maybe not. If the […] The post How we use AI to triage inbound B2B leads without blasting everyone the same way appeared first on e27 .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The Fed decides today: Here are the 2 levels every Bitcoin trader should watch** — Score 10, observation — [Quelle](https://e27.co/the-fed-decides-today-here-are-the-2-levels-every-bitcoin-trader-should-watch-20261028/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-28T04:02:21+00:00`, fetched `2026-10-28T04:17:50+00:00`
-  - Treffer: APAC Trend Radar, Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: The October 28 crypto session clearly shows how two forces can shape prices at the same time. Bitcoin gained 0.59 per cent to US$80,576.90 over 24 hours. The total crypto market cap rose 0.64 per cent to US$2.7 trillion. My view is that the headline numbers hide an important split. Bitcoin moved with traditional markets […] The post The Fed decides today: Here are the 2 levels every Bitcoin trader should watch appea…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.0 - 200 km W of Sola, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttm2)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -197,3 +197,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `cert_eu_security_advisories` (rss): HTTPSConnectionPool(host='cert.europa.eu', port=443): Read timed out. (read timeout=8)

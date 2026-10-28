@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-28T05:54:52+00:00_
+_Generated: 2026-10-28T06:00:36+00:00_
 
 ## Status
-- status: `normal`
-- findings: `29`
+- status: `warning`
+- findings: `30`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-10-28T05:54:52+00:00_
 - url: https://japan.cnet.com/article/35254012/
 - summary: OpenAIは10月26日、AIが数学、計算機科学、物理学の3分野で、長年の未解決問題に関する証明を生成したと発表した。計算機科学では、ある種の問題を解くには膨大な計算時間が必要だとする「指数時間仮説（ETH）」を覆す証明が得られたという。成果の一部を公開し、外部の研究者による検証や分析を進める。 指数時間仮説は...
 
-### 5. Meta sells voteless shares, SpaceX leases its chips. Johor should be paying attention
+### 5. Phishers now want you to type the malware in yourself
+- source: e27 Asia Startup and Tech Feed
+- score: `12`
+- published: `2026-10-28T05:57:42+00:00`
+- url: https://e27.co/phishers-now-want-you-to-type-the-malware-in-yourself-20261028/
+- summary: For years, the anti-phishing playbook has been drilled into office workers like a fire-safety briefing: check the sender, hover before you click, never type your password into a page you reached from an email. The latest data from Check Point Research suggest…
+
+### 6. Meta sells voteless shares, SpaceX leases its chips. Johor should be paying attention
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-10-28T03:00:24+00:00`
 - url: https://e27.co/meta-sells-voteless-shares-spacex-leases-its-chips-johor-should-be-paying-attention-20261027/
 - summary: Every few months, Southeast Asia’s startup ecosystem gets a headline that sounds like a resurrection. This October brought two. Tracxn reported that tech funding in the region rose 176 per cent to US$13.5 billion in the first nine months of 2026. Dealroom and…
 
-### 6. How we use AI to triage inbound B2B leads without blasting everyone the same way
+### 7. How we use AI to triage inbound B2B leads without blasting everyone the same way
 - source: e27 Asia Startup and Tech Feed
 - score: `11`
 - published: `2026-10-28T03:00:41+00:00`
 - url: https://e27.co/how-we-use-ai-to-triage-inbound-b2b-leads-without-blasting-everyone-the-same-way-20261025/
 - summary: We used to say we wanted more leads. That was true, but it was not the full problem. The harder problem was what happened after a lead came in. A form submission would land in the inbox. Someone would glance at the company name, skim the message, maybe click…
 
-### 7. The Fed decides today: Here are the 2 levels every Bitcoin trader should watch
+### 8. The Fed decides today: Here are the 2 levels every Bitcoin trader should watch
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-10-28T04:02:21+00:00`
 - url: https://e27.co/the-fed-decides-today-here-are-the-2-levels-every-bitcoin-trader-should-watch-20261028/
 - summary: The October 28 crypto session clearly shows how two forces can shape prices at the same time. Bitcoin gained 0.59 per cent to US$80,576.90 over 24 hours. The total crypto market cap rose 0.64 per cent to US$2.7 trillion. My view is that the headline numbers h…
-
-### 8. Muggles struggle, wizards juggle: What happens when everyone gets an AI familiar
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-10-28T04:00:06+00:00`
-- url: https://e27.co/muggles-struggle-wizards-juggle-what-happens-when-everyone-gets-an-ai-familiar-20261025/
-- summary: The new Harry Potter series arrives on HBO this Christmas, and the wizarding world is back in the conversation. I recently walked through the Great Hall and down Diagon Alley at the Warner Bros. Studio Tour in London. Somewhere between the animatronics and a…
 
 END OF DOCUMENT
