@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T04:01:02+00:00_
+_Generiert: 2026-10-28T04:18:22+00:00_
 
 ## Kurzlage
 
-21 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+22 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -96,14 +96,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Webentwicklung (+3.0); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: We used to say we wanted more leads. That was true, but it was not the full problem. The harder problem was what happened after a lead came in. A form submission would land in the inbox. Someone would glance at the company name, skim the message, maybe click the website, maybe not. If the […] The post How we use AI to triage inbound B2B leads without blasting everyone the same way appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Muggles struggle, wizards juggle: What happens when everyone gets an AI familiar** — Score 10, observation — [Quelle](https://e27.co/muggles-struggle-wizards-juggle-what-happens-when-everyone-gets-an-ai-familiar-20261025/)
+- **The Fed decides today: Here are the 2 levels every Bitcoin trader should watch** — Score 10, observation — [Quelle](https://e27.co/the-fed-decides-today-here-are-the-2-levels-every-bitcoin-trader-should-watch-20261028/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-28T04:00:06+00:00`, fetched `2026-10-28T04:00:29+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
+  - Zeit: published `2026-10-28T04:02:21+00:00`, fetched `2026-10-28T04:17:50+00:00`
+  - Treffer: APAC Trend Radar, Macro/Policy
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region europe: London (+2.0)
-  - Kurz: The new Harry Potter series arrives on HBO this Christmas, and the wizarding world is back in the conversation. I recently walked through the Great Hall and down Diagon Alley at the Warner Bros. Studio Tour in London. Somewhere between the animatronics and a butterbeer, one thought stuck: the technology we are building increasingly resembles […] The post Muggles struggle, wizards juggle: What happens when everyone g…
+  - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: The October 28 crypto session clearly shows how two forces can shape prices at the same time. Bitcoin gained 0.59 per cent to US$80,576.90 over 24 hours. The total crypto market cap rose 0.64 per cent to US$2.7 trillion. My view is that the headline numbers hide an important split. Bitcoin moved with traditional markets […] The post The Fed decides today: Here are the 2 levels every Bitcoin trader should watch appea…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.6 - 174 km NW of Port-Olry, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlt)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`

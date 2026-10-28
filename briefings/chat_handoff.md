@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-28T04:01:02+00:00_
+_Generated: 2026-10-28T04:18:22+00:00_
 
 ## Status
 - status: `normal`
-- findings: `21`
+- findings: `22`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-10-28T04:01:02+00:00_
 - url: https://e27.co/how-we-use-ai-to-triage-inbound-b2b-leads-without-blasting-everyone-the-same-way-20261025/
 - summary: We used to say we wanted more leads. That was true, but it was not the full problem. The harder problem was what happened after a lead came in. A form submission would land in the inbox. Someone would glance at the company name, skim the message, maybe click…
 
-### 7. Muggles struggle, wizards juggle: What happens when everyone gets an AI familiar
+### 7. The Fed decides today: Here are the 2 levels every Bitcoin trader should watch
+- source: e27 Asia Startup and Tech Feed
+- score: `10`
+- published: `2026-10-28T04:02:21+00:00`
+- url: https://e27.co/the-fed-decides-today-here-are-the-2-levels-every-bitcoin-trader-should-watch-20261028/
+- summary: The October 28 crypto session clearly shows how two forces can shape prices at the same time. Bitcoin gained 0.59 per cent to US$80,576.90 over 24 hours. The total crypto market cap rose 0.64 per cent to US$2.7 trillion. My view is that the headline numbers h…
+
+### 8. Muggles struggle, wizards juggle: What happens when everyone gets an AI familiar
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-10-28T04:00:06+00:00`
 - url: https://e27.co/muggles-struggle-wizards-juggle-what-happens-when-everyone-gets-an-ai-familiar-20261025/
 - summary: The new Harry Potter series arrives on HBO this Christmas, and the wizarding world is back in the conversation. I recently walked through the Great Hall and down Diagon Alley at the Warner Bros. Studio Tour in London. Somewhere between the animatronics and a…
-
-### 8. Inside Singapore’s AI push: Lighthouses, rice importers and robot labs
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-10-28T02:00:58+00:00`
-- url: https://e27.co/inside-singapores-ai-push-lighthouses-rice-importers-and-robot-labs-20261027/
-- summary: Singapore has a habit of announcing its future in instalments. On Tuesday, at the Singapore Week of Innovation and Technology (SWITCH) 2026, Deputy Prime Minister Gan Kim Yong unveiled the latest chapter: a suite of AI initiatives led by Enterprise Singapore…
 
 END OF DOCUMENT
