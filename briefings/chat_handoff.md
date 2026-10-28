@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-28T02:56:28+00:00_
+_Generated: 2026-10-28T03:19:49+00:00_
 
 ## Status
 - status: `normal`
-- findings: `16`
+- findings: `20`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-10-28T02:56:28+00:00_
 - url: https://japan.cnet.com/article/35254012/
 - summary: OpenAIは10月26日、AIが数学、計算機科学、物理学の3分野で、長年の未解決問題に関する証明を生成したと発表した。計算機科学では、ある種の問題を解くには膨大な計算時間が必要だとする「指数時間仮説（ETH）」を覆す証明が得られたという。成果の一部を公開し、外部の研究者による検証や分析を進める。 指数時間仮説は...
 
-### 5. Inside Singapore’s AI push: Lighthouses, rice importers and robot labs
+### 5. Meta sells voteless shares, SpaceX leases its chips. Johor should be paying attention
+- source: e27 Asia Startup and Tech Feed
+- score: `12`
+- published: `2026-10-28T03:00:24+00:00`
+- url: https://e27.co/meta-sells-voteless-shares-spacex-leases-its-chips-johor-should-be-paying-attention-20261027/
+- summary: Every few months, Southeast Asia’s startup ecosystem gets a headline that sounds like a resurrection. This October brought two. Tracxn reported that tech funding in the region rose 176 per cent to US$13.5 billion in the first nine months of 2026. Dealroom and…
+
+### 6. How we use AI to triage inbound B2B leads without blasting everyone the same way
+- source: e27 Asia Startup and Tech Feed
+- score: `11`
+- published: `2026-10-28T03:00:41+00:00`
+- url: https://e27.co/how-we-use-ai-to-triage-inbound-b2b-leads-without-blasting-everyone-the-same-way-20261025/
+- summary: We used to say we wanted more leads. That was true, but it was not the full problem. The harder problem was what happened after a lead came in. A form submission would land in the inbox. Someone would glance at the company name, skim the message, maybe click…
+
+### 7. Inside Singapore’s AI push: Lighthouses, rice importers and robot labs
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-10-28T02:00:58+00:00`
 - url: https://e27.co/inside-singapores-ai-push-lighthouses-rice-importers-and-robot-labs-20261027/
 - summary: Singapore has a habit of announcing its future in instalments. On Tuesday, at the Singapore Week of Innovation and Technology (SWITCH) 2026, Deputy Prime Minister Gan Kim Yong unveiled the latest chapter: a suite of AI initiatives led by Enterprise Singapore…
 
-### 6. M 4.8 - 217 km NW of Port-Olry, Vanuatu
+### 8. M 5.6 - 174 km NW of Port-Olry, Vanuatu
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
-- published: `2026-10-28T02:42:12.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttli
-- summary: Time 2026-10-28 02:13:55 UTC 2026-10-28 02:13:55 UTC at epicenter Location 13.890°S 165.440°E Depth 10.00 km (6.21 mi)
-
-### 7. M 5.2 - 220 km NW of Port-Olry, Vanuatu
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-10-28T02:35:20.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlk
-- summary: Time 2026-10-28 02:17:15 UTC 2026-10-28 02:17:15 UTC at epicenter Location 13.812°S 165.461°E Depth 10.00 km (6.21 mi)
-
-### 8. M 6.0 - 214 km NW of Port-Olry, Vanuatu
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-10-28T02:35:12.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlm
-- summary: Time 2026-10-28 02:21:45 UTC 2026-10-28 02:21:45 UTC at epicenter Location 13.931°S 165.446°E Depth 10.00 km (6.21 mi)
+- published: `2026-10-28T03:16:17.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlt
+- summary: Time 2026-10-28 02:59:48 UTC 2026-10-28 02:59:48 UTC at epicenter Location 14.069°S 165.800°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
