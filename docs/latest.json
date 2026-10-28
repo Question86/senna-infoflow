@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28T12:00:04+00:00",
-  "run_id": "2026-10-28T12:00:04+00:00",
+  "generated_at": "2026-10-28T12:21:04+00:00",
+  "run_id": "2026-10-28T12:21:04+00:00",
   "date": "2026-10-28",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 44
+      "configured_public_sources_only": 46
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 44,
-    "displayed_findings": 44,
+    "new_relevant_findings": 2,
+    "today_file_total": 46,
+    "displayed_findings": 46,
     "high": 0,
     "medium": 15,
-    "observe": 29,
+    "observe": 31,
     "source_errors": 0
   },
   "sections": {
@@ -770,6 +770,42 @@
         "id": "1b777ebe8d8c52f405f3"
       },
       {
+        "title": "M 5.0 - Reykjanes Ridge",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnk",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-10-28T12:14:07.040+00:00",
+        "fetched_at": "2026-10-28T12:20:34+00:00",
+        "summary": "Time 2026-10-28 11:56:17 UTC 2026-10-28 11:56:17 UTC at epicenter Location 58.356°N 32.240°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "d204eacb40a7867aa587"
+      },
+      {
         "title": "M 5.5 - Reykjanes Ridge",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnc",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1228,6 +1264,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2162aab737281fb74bd6"
+      },
+      {
+        "title": "女子高生が作った「音の消火器」、水も粉も使わずに5秒でボヤを消す | ギズモード・ジャパン",
+        "url": "https://www.gizmodo.jp/article/2610-vortex-tech-sound-fire-extinguisher/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-28T06:48:08+00:00",
+        "fetched_at": "2026-10-28T12:20:34+00:00",
+        "summary": "また女子高生です。 7月に、アメリカの高校生がガレージで作ったろ過フィルターの発明を書きました。浄水場超えの数字を叩き出したっていう。 今度はメキシコから。音で、火を消すそうです。 装置のサイズ感や実際に消すところは、本人ご登場の動画がわかりやすかったです。 バケツからの音で火を消すimage: Karime vort...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f5c8e901171ba38178c5"
       },
       {
         "title": "生成AI製のゲーム攻略Wikiが乱造、“存在しないキャラのアンロック方法”など載る始末。まともなWikiが埋もれる事態に、ゲーム開発者も頭を抱える - AUTOMATON",
@@ -2076,6 +2133,42 @@
       "id": "1b777ebe8d8c52f405f3"
     },
     {
+      "title": "M 5.0 - Reykjanes Ridge",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnk",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-28T12:14:07.040+00:00",
+      "fetched_at": "2026-10-28T12:20:34+00:00",
+      "summary": "Time 2026-10-28 11:56:17 UTC 2026-10-28 11:56:17 UTC at epicenter Location 58.356°N 32.240°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "d204eacb40a7867aa587"
+    },
+    {
       "title": "M 5.5 - Reykjanes Ridge",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -2536,6 +2629,27 @@
       "id": "2162aab737281fb74bd6"
     },
     {
+      "title": "女子高生が作った「音の消火器」、水も粉も使わずに5秒でボヤを消す | ギズモード・ジャパン",
+      "url": "https://www.gizmodo.jp/article/2610-vortex-tech-sound-fire-extinguisher/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-28T06:48:08+00:00",
+      "fetched_at": "2026-10-28T12:20:34+00:00",
+      "summary": "また女子高生です。 7月に、アメリカの高校生がガレージで作ったろ過フィルターの発明を書きました。浄水場超えの数字を叩き出したっていう。 今度はメキシコから。音で、火を消すそうです。 装置のサイズ感や実際に消すところは、本人ご登場の動画がわかりやすかったです。 バケツからの音で火を消すimage: Karime vort...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f5c8e901171ba38178c5"
+    },
+    {
       "title": "生成AI製のゲーム攻略Wikiが乱造、“存在しないキャラのアンロック方法”など載る始末。まともなWikiが埋もれる事態に、ゲーム開発者も頭を抱える - AUTOMATON",
       "url": "https://automaton-media.com/articles/newsjp/20261028-476063/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2641,7 +2755,65 @@
       "id": "b97c2f355f51a8a6b80f"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "M 5.0 - Reykjanes Ridge",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnk",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-28T12:14:07.040+00:00",
+      "fetched_at": "2026-10-28T12:20:34+00:00",
+      "summary": "Time 2026-10-28 11:56:17 UTC 2026-10-28 11:56:17 UTC at epicenter Location 58.356°N 32.240°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "d204eacb40a7867aa587"
+    },
+    {
+      "title": "女子高生が作った「音の消火器」、水も粉も使わずに5秒でボヤを消す | ギズモード・ジャパン",
+      "url": "https://www.gizmodo.jp/article/2610-vortex-tech-sound-fire-extinguisher/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-28T06:48:08+00:00",
+      "fetched_at": "2026-10-28T12:20:34+00:00",
+      "summary": "また女子高生です。 7月に、アメリカの高校生がガレージで作ったろ過フィルターの発明を書きました。浄水場超えの数字を叩き出したっていう。 今度はメキシコから。音で、火を消すそうです。 装置のサイズ感や実際に消すところは、本人ご登場の動画がわかりやすかったです。 バケツからの音で火を消すimage: Karime vort...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f5c8e901171ba38178c5"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
