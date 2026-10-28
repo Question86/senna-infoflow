@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-28T15:19:36Z",
+  "generated_at": "2026-10-28T15:32:00Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 3,
       "krass": 11,
-      "strong": 15,
-      "watch": 11
+      "strong": 16,
+      "watch": 10
     },
     "bands_after_gate_recheck": {
       "krass": 2,
-      "strong": 27,
-      "watch": 11
+      "strong": 28,
+      "watch": 10
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4172",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-28T12:42:10+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://jvn.jp/jp/JVN30675482/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-28T14:00:00+09:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "security",
         "infra"
@@ -74,7 +74,7 @@
       "url": "https://jvn.jp/jp/JVN23695234/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-28T14:00:15+09:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "security"
       ],
@@ -98,7 +98,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4178",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-28T12:42:10+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -122,7 +122,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4186",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-28T12:20:34+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -146,7 +146,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1371/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-23T00:00:00+00:00",
-      "age_days": 5.64,
+      "age_days": 5.65,
       "topics": [
         "security"
       ],
@@ -170,7 +170,7 @@
       "url": "https://e27.co/the-most-dangerous-thing-about-ai-isnt-hallucination-its-that-it-stopped-showing-its-work-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T01:00:28+00:00",
-      "age_days": 0.6,
+      "age_days": 0.61,
       "topics": [
         "ai"
       ],
@@ -195,7 +195,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1370/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-23T00:00:00+00:00",
-      "age_days": 5.64,
+      "age_days": 5.65,
       "topics": [
         "ai",
         "security"
@@ -221,7 +221,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1372/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-23T00:00:00+00:00",
-      "age_days": 5.64,
+      "age_days": 5.65,
       "topics": [
         "ai",
         "security"
@@ -247,7 +247,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1369/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-23T00:00:00+00:00",
-      "age_days": 5.64,
+      "age_days": 5.65,
       "topics": [
         "ai",
         "security"
@@ -269,11 +269,36 @@
       "summary": "De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
     },
     {
+      "title": "M 5.5 - 5 km ESE of Asahi, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttpe",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-28T15:28:42.804+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 25.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "ShakeMap - V DYFI? - III Time 2026-10-28 15:07:52 UTC 2026-10-28 15:07:52 UTC at epicenter Location 35.702°N 140.706°E Depth 41.36 km (25.70 mi)"
+    },
+    {
       "title": "nightly-labs/openbot",
       "url": "https://github.com/nightly-labs/openbot",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-28T06:49:00+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "ai",
         "macro"
@@ -303,7 +328,7 @@
       "url": "https://e27.co/how-will-ai-shopping-agents-change-amazon-and-retail-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T02:00:33+00:00",
-      "age_days": 0.55,
+      "age_days": 0.56,
       "topics": [
         "ai",
         "security",
@@ -333,7 +358,7 @@
       "url": "https://e27.co/netsuites-james-chisham-on-seas-e-invoicing-maze-data-residency-and-who-pays-when-ai-gets-it-wrong-20261027/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T01:00:05+00:00",
-      "age_days": 0.6,
+      "age_days": 0.61,
       "topics": [
         "ai",
         "macro"
@@ -362,7 +387,7 @@
       "url": "https://jvn.jp/vu/JVNVU96093239/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-28T09:00:00+09:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "security"
       ],
@@ -388,7 +413,7 @@
       "url": "https://jvn.jp/vu/JVNVU91027179/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-28T14:15:00+09:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -414,7 +439,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4184",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-28T12:42:09+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -440,7 +465,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4164",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-28T12:42:09+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -466,7 +491,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4132",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-28T12:41:47+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -492,7 +517,7 @@
       "url": "https://e27.co/phishers-now-want-you-to-type-the-malware-in-yourself-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T05:57:42+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "ai",
         "security"
@@ -519,7 +544,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4183",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-28T12:41:49+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -544,7 +569,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4162",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-28T12:41:48+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -569,7 +594,7 @@
       "url": "https://e27.co/the-fed-decides-today-here-are-the-2-levels-every-bitcoin-trader-should-watch-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T04:02:21+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "ai",
         "macro"
@@ -625,7 +650,7 @@
       "url": "https://claude.com/resources/articles/zero-trust-for-ai-agents",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-27T09:51:27+00:00",
-      "age_days": 1.23,
+      "age_days": 1.24,
       "topics": [
         "ai",
         "security",
@@ -653,7 +678,7 @@
       "url": "https://github.com/elayadesign/ai-design-skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-28T06:49:00+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "ai",
         "macro"
@@ -680,7 +705,7 @@
       "url": "https://www.heise.de/news/Angreifer-nehmen-Brotli-Adobe-Commerce-und-Magento-Lecks-ins-Visier-11502623.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-28T08:03:00.000+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "ai",
         "security"
@@ -706,7 +731,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttmz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T09:56:42.040+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -756,7 +781,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttkk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T00:08:38.301+00:00",
-      "age_days": 0.63,
+      "age_days": 0.64,
       "topics": [
         "disaster"
       ],
@@ -806,7 +831,7 @@
       "url": "https://www.heise.de/news/Veeam-Backup-Server-manipulierbar-und-MFA-deaktivierbar-11502821.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-28T09:23:00.000+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "security",
         "macro"
@@ -831,7 +856,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttmh",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T07:18:50.040+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "disaster"
       ],
@@ -856,7 +881,7 @@
       "url": "https://e27.co/meta-sells-voteless-shares-spacex-leases-its-chips-johor-should-be-paying-attention-20261027/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T03:00:24+00:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [
         "general"
       ],
@@ -880,7 +905,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttp7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T14:09:01.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -905,7 +930,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttp2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T13:36:40.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -955,7 +980,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T12:56:53.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -980,7 +1005,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T12:14:07.040+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -1005,7 +1030,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T11:53:25.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -1024,31 +1049,6 @@
         "high terms: 10"
       ],
       "summary": "Time 2026-10-28 11:37:49 UTC 2026-10-28 11:37:49 UTC at epicenter Location 58.101°N 32.151°W Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 5.0 - 205 km SSE of Vilyuchinsk, Russia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttmb",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-28T06:35:03.040+00:00",
-      "age_days": 0.36,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-28 06:12:47 UTC 2026-10-28 06:12:47 UTC at epicenter Location 51.226°N 159.537°E Depth 10.00 km (6.21 mi)"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Red Hat Enterprise Linux (xdg-dbus-proxy): Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
