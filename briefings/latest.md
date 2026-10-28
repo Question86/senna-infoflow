@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T22:14:43+00:00_
+_Generiert: 2026-10-28T22:21:33+00:00_
 
 ## Kurzlage
 
-87 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+88 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -53,6 +53,10 @@ _Generiert: 2026-10-28T22:14:43+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu 27/10/2026 08:55 UTC, 1 thousand in MMI III.
+- **USGS earthquake M5.7 - 276 km WSW of Tual, Indonesia** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttua)
+  - Quelle: USGS
+  - Zeit: `2026-10-28T22:06:44+00:00`
+  - Kurz: M5.7 - 276 km WSW of Tual, Indonesia. PAGER alert: none. Tsunami flag: 0.
 
 ## Wirtschaft global
 
