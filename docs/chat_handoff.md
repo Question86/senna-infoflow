@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-28T15:00:19+00:00_
+_Generated: 2026-10-28T15:15:05+00:00_
 
 ## Status
 - status: `normal`
-- findings: `61`
+- findings: `67`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-10-28T15:00:19+00:00_
 - url: https://github.com/nightly-labs/openbot
 - summary: A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration. https://openbot.run/ OpenBot OpenBot is a local-first desktop wor…
 
-### 5. Announcing 20260096 (OT,liquidity providing), for 7 days deadline 09:45
+### 5. Multiples vulnérabilités dans Microsoft Edge (23 octobre 2026)
+- source: CERT-FR Avis de sécurité
+- score: `13`
+- published: `2026-10-23T00:00:00+00:00`
+- url: https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1371/
+- summary: De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
+
+### 6. Announcing 20260096 (OT,liquidity providing), for 7 days deadline 09:45
 - source: ECB Open Market Operations and Communication
 - score: `12`
 - published: `2026-10-28T08:15:22+00:00`
 - url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260096.en.html
 - summary: Announcing 20260096 (OT,liquidity providing), for 7 days deadline 09:45
 
-### 6. Phishers now want you to type the malware in yourself
+### 7. Phishers now want you to type the malware in yourself
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-10-28T05:57:42+00:00`
 - url: https://e27.co/phishers-now-want-you-to-type-the-malware-in-yourself-20261028/
 - summary: For years, the anti-phishing playbook has been drilled into office workers like a fire-safety briefing: check the sender, hover before you click, never type your password into a page you reached from an email. The latest data from Check Point Research suggest…
 
-### 7. Meta sells voteless shares, SpaceX leases its chips. Johor should be paying attention
+### 8. Meta sells voteless shares, SpaceX leases its chips. Johor should be paying attention
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-10-28T03:00:24+00:00`
 - url: https://e27.co/meta-sells-voteless-shares-spacex-leases-its-chips-johor-should-be-paying-attention-20261027/
 - summary: Every few months, Southeast Asia’s startup ecosystem gets a headline that sounds like a resurrection. This October brought two. Tracxn reported that tech funding in the region rose 176 per cent to US$13.5 billion in the first nine months of 2026. Dealroom and…
-
-### 8. M 4.7 - 39 km SSW of Serrezuela, Argentina
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-10-28T07:18:50.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttmh
-- summary: Time 2026-10-28 07:02:12 UTC 2026-10-28 07:02:12 UTC at epicenter Location 30.956°S 65.568°W Depth 186.30 km (115.76 mi)
 
 END OF DOCUMENT
