@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-28T03:55:48+00:00_
+_Generated: 2026-10-28T04:01:02+00:00_
 
 ## Status
 - status: `normal`
-- findings: `20`
+- findings: `21`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-10-28T03:55:48+00:00_
 - url: https://e27.co/how-we-use-ai-to-triage-inbound-b2b-leads-without-blasting-everyone-the-same-way-20261025/
 - summary: We used to say we wanted more leads. That was true, but it was not the full problem. The harder problem was what happened after a lead came in. A form submission would land in the inbox. Someone would glance at the company name, skim the message, maybe click…
 
-### 7. Inside Singapore’s AI push: Lighthouses, rice importers and robot labs
+### 7. Muggles struggle, wizards juggle: What happens when everyone gets an AI familiar
+- source: e27 Asia Startup and Tech Feed
+- score: `10`
+- published: `2026-10-28T04:00:06+00:00`
+- url: https://e27.co/muggles-struggle-wizards-juggle-what-happens-when-everyone-gets-an-ai-familiar-20261025/
+- summary: The new Harry Potter series arrives on HBO this Christmas, and the wizarding world is back in the conversation. I recently walked through the Great Hall and down Diagon Alley at the Warner Bros. Studio Tour in London. Somewhere between the animatronics and a…
+
+### 8. Inside Singapore’s AI push: Lighthouses, rice importers and robot labs
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-10-28T02:00:58+00:00`
 - url: https://e27.co/inside-singapores-ai-push-lighthouses-rice-importers-and-robot-labs-20261027/
 - summary: Singapore has a habit of announcing its future in instalments. On Tuesday, at the Singapore Week of Innovation and Technology (SWITCH) 2026, Deputy Prime Minister Gan Kim Yong unveiled the latest chapter: a suite of AI initiatives led by Enterprise Singapore…
-
-### 8. M 5.6 - 174 km NW of Port-Olry, Vanuatu
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-10-28T03:16:17.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlt
-- summary: Time 2026-10-28 02:59:48 UTC 2026-10-28 02:59:48 UTC at epicenter Location 14.069°S 165.800°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT

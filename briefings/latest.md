@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T03:55:48+00:00_
+_Generiert: 2026-10-28T04:01:02+00:00_
 
 ## Kurzlage
 
-20 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+21 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -57,10 +57,6 @@ _Generiert: 2026-10-28T03:55:48+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone THREE-C-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **USGS earthquake M5.6 - 174 km NW of Port-Olry, Vanuatu** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlt)
-  - Quelle: USGS
-  - Zeit: `2026-10-28T02:59:48+00:00`
-  - Kurz: M5.6 - 174 km NW of Port-Olry, Vanuatu. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -161,14 +157,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Webentwicklung (+3.0); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: We used to say we wanted more leads. That was true, but it was not the full problem. The harder problem was what happened after a lead came in. A form submission would land in the inbox. Someone would glance at the company name, skim the message, maybe click the website, maybe not. If the […] The post How we use AI to triage inbound B2B leads without blasting everyone the same way appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Inside Singapore’s AI push: Lighthouses, rice importers and robot labs** — Score 10, observation — [Quelle](https://e27.co/inside-singapores-ai-push-lighthouses-rice-importers-and-robot-labs-20261027/)
+- **Muggles struggle, wizards juggle: What happens when everyone gets an AI familiar** — Score 10, observation — [Quelle](https://e27.co/muggles-struggle-wizards-juggle-what-happens-when-everyone-gets-an-ai-familiar-20261025/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-28T02:00:58+00:00`, fetched `2026-10-28T02:01:58+00:00`
+  - Zeit: published `2026-10-28T04:00:06+00:00`, fetched `2026-10-28T04:00:29+00:00`
   - Treffer: AI/KI, APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: Singapore has a habit of announcing its future in instalments. On Tuesday, at the Singapore Week of Innovation and Technology (SWITCH) 2026, Deputy Prime Minister Gan Kim Yong unveiled the latest chapter: a suite of AI initiatives led by Enterprise Singapore (EnterpriseSG) that is meant to reach every rung of the AI-readiness ladder, from blue-chip […] The post Inside Singapore’s AI push: Lighthouses, rice importers…
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region europe: London (+2.0)
+  - Kurz: The new Harry Potter series arrives on HBO this Christmas, and the wizarding world is back in the conversation. I recently walked through the Great Hall and down Diagon Alley at the Warner Bros. Studio Tour in London. Somewhere between the animatronics and a butterbeer, one thought stuck: the technology we are building increasingly resembles […] The post Muggles struggle, wizards juggle: What happens when everyone g…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.6 - 174 km NW of Port-Olry, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlt)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
