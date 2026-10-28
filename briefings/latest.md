@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T15:23:35+00:00_
+_Generiert: 2026-10-28T15:30:02+00:00_
 
 ## Kurzlage
 
-67 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+68 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -57,6 +57,10 @@ _Generiert: 2026-10-28T15:23:35+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 4.008 million .
+- **USGS earthquake M5.5 - 5 km ESE of Asahi, Japan** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttpe)
+  - Quelle: USGS
+  - Zeit: `2026-10-28T15:07:52+00:00`
+  - Kurz: M5.5 - 5 km ESE of Asahi, Japan. PAGER alert: none. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -127,6 +131,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: OpenAIは10月26日、AIが数学、計算機科学、物理学の3分野で、長年の未解決問題に関する証明を生成したと発表した。計算機科学では、ある種の問題を解くには膨大な計算時間が必要だとする「指数時間仮説（ETH）」を覆す証明が得られたという。成果の一部を公開し、外部の研究者による検証や分析を進める。 指数時間仮説は...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.5 - 5 km ESE of Asahi, Japan** — Score 17, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttpe)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-28T15:28:42.804+00:00`, fetched `2026-10-28T15:29:25+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); ShakeMap (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: ShakeMap - V DYFI? - III Time 2026-10-28 15:07:52 UTC 2026-10-28 15:07:52 UTC at epicenter Location 35.702°N 140.706°E Depth 41.36 km (25.70 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **[UPDATE] [hoch] Red Hat Enterprise Linux (xdg-dbus-proxy): Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4172)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-10-28T12:42:10+00:00`, fetched `2026-10-28T12:48:55+00:00`
@@ -198,15 +211,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-28 01:11:54 UTC 2026-10-28 01:11:54 UTC at epicenter Location 5.608°N 125.305°E Depth 45.94 km (28.55 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.1 - 7 km ENE of Pangyan, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttkk)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-28T00:08:38.301+00:00`, fetched `2026-10-28T00:13:03+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: DYFI? - I Time 2026-10-27 23:43:52 UTC 2026-10-27 23:43:52 UTC at epicenter Location 5.725°N 125.342°E Depth 63.87 km (39.69 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
