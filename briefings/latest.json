@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28T16:00:48+00:00",
-  "run_id": "2026-10-28T16:00:48+00:00",
+  "generated_at": "2026-10-28T16:17:32+00:00",
+  "run_id": "2026-10-28T16:17:32+00:00",
   "date": "2026-10-28",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 69
+      "configured_public_sources_only": 73
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 69,
-    "displayed_findings": 69,
+    "new_relevant_findings": 4,
+    "today_file_total": 73,
+    "displayed_findings": 73,
     "high": 0,
-    "medium": 24,
-    "observe": 45,
+    "medium": 25,
+    "observe": 48,
     "source_errors": 0
   },
   "sections": {
@@ -446,6 +446,51 @@
           "PINS"
         ],
         "id": "9e35cfe069ab46c1a274"
+      },
+      {
+        "title": "Legora is building the agentic operating system for legal work",
+        "url": "https://openai.com/index/legora",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-10-28T09:30:00+00:00",
+        "fetched_at": "2026-10-28T16:17:01+00:00",
+        "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+        "matched_keywords": [
+          "AI Agents",
+          "OpenAI",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "OpenAI (+6.0); AI Agents (+6.2); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: Codex"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "89bde92e67dab1b69bfc"
       },
       {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月27日）",
@@ -1778,6 +1823,69 @@
         "id": "4d6cd5d8c0400977d044"
       },
       {
+        "title": "pfpdf — Markdown から、印刷品質の PDF へ",
+        "url": "https://pfpdf.preferred.tech/ja/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-28T03:32:19+00:00",
+        "fetched_at": "2026-10-28T16:17:01+00:00",
+        "summary": "GFM Markdown 表・タスクリスト・取り消し線・自動リンク・ネストしたリストなど、GitHub 標準の記法がそのまま使えます。 日本語対応の強調処理 `これは**「重要」**です` のように全角記号に隣接した強調も正しく変換されます。 数式とコードハイライト インライン・ディスプレイ数式とコードブロックのハイライトを同...",
+        "matched_keywords": [
+          "GitHub",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "71bd454552284060d0ef"
+      },
+      {
+        "title": "GitHub Universe 2026: Evolving every layer of the stack",
+        "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+        "source": "GitHub Blog Atom",
+        "source_type": "rss",
+        "published_at": "2026-10-28T16:09:28+00:00",
+        "fetched_at": "2026-10-28T16:17:01+00:00",
+        "summary": "Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world. The post GitHub Universe 2026: Evolving every layer of the stack appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub",
+          "Watchgraph:sports_sf_tech_events"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "GitHub (+2.5); recent (+1.0); watchgraph modules sports_sf_tech_events (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "sports_sf_tech_events"
+        ],
+        "watchgraph_reasons": [
+          "sports_sf_tech_events: GitHub Universe"
+        ],
+        "market_context": [
+          "DIS",
+          "CMCSA",
+          "ABNB",
+          "BKNG",
+          "DAL",
+          "UAL",
+          "TKO",
+          "FWONK",
+          "AAL",
+          "META",
+          "GOOGL",
+          "MSFT",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "9e7f6b76bafadd9de5ad"
+      },
+      {
         "title": "三角デジタル監がDFFT Expert Community初の対面会合に出席しました",
         "url": "https://www.digital.go.jp/press/664c482f-3164-48d2-a3ee-5f1cf415cd78",
         "source": "Japan Digital Agency News RSS",
@@ -1985,6 +2093,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "b97c2f355f51a8a6b80f"
+      },
+      {
+        "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
+        "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+        "source": "GitHub Blog Atom",
+        "source_type": "rss",
+        "published_at": "2026-10-28T16:07:40+00:00",
+        "fetched_at": "2026-10-28T16:17:01+00:00",
+        "summary": "See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report. The post Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub"
+        ],
+        "relevance_score": 3,
+        "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "477a4e61ac16edbf2a2d"
       }
     ]
   },
@@ -2406,6 +2534,51 @@
         "PINS"
       ],
       "id": "9e35cfe069ab46c1a274"
+    },
+    {
+      "title": "Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-28T09:30:00+00:00",
+      "fetched_at": "2026-10-28T16:17:01+00:00",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "matched_keywords": [
+        "AI Agents",
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "OpenAI (+6.0); AI Agents (+6.2); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "89bde92e67dab1b69bfc"
     },
     {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月27日）",
@@ -3736,6 +3909,69 @@
       "id": "4d6cd5d8c0400977d044"
     },
     {
+      "title": "pfpdf — Markdown から、印刷品質の PDF へ",
+      "url": "https://pfpdf.preferred.tech/ja/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-28T03:32:19+00:00",
+      "fetched_at": "2026-10-28T16:17:01+00:00",
+      "summary": "GFM Markdown 表・タスクリスト・取り消し線・自動リンク・ネストしたリストなど、GitHub 標準の記法がそのまま使えます。 日本語対応の強調処理 `これは**「重要」**です` のように全角記号に隣接した強調も正しく変換されます。 数式とコードハイライト インライン・ディスプレイ数式とコードブロックのハイライトを同...",
+      "matched_keywords": [
+        "GitHub",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "71bd454552284060d0ef"
+    },
+    {
+      "title": "GitHub Universe 2026: Evolving every layer of the stack",
+      "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+      "source": "GitHub Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-28T16:09:28+00:00",
+      "fetched_at": "2026-10-28T16:17:01+00:00",
+      "summary": "Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world. The post GitHub Universe 2026: Evolving every layer of the stack appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub",
+        "Watchgraph:sports_sf_tech_events"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.5); recent (+1.0); watchgraph modules sports_sf_tech_events (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "sports_sf_tech_events"
+      ],
+      "watchgraph_reasons": [
+        "sports_sf_tech_events: GitHub Universe"
+      ],
+      "market_context": [
+        "DIS",
+        "CMCSA",
+        "ABNB",
+        "BKNG",
+        "DAL",
+        "UAL",
+        "TKO",
+        "FWONK",
+        "AAL",
+        "META",
+        "GOOGL",
+        "MSFT",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "9e7f6b76bafadd9de5ad"
+    },
+    {
       "title": "三角デジタル監がDFFT Expert Community初の対面会合に出席しました",
       "url": "https://www.digital.go.jp/press/664c482f-3164-48d2-a3ee-5f1cf415cd78",
       "source": "Japan Digital Agency News RSS",
@@ -3943,9 +4179,158 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "b97c2f355f51a8a6b80f"
+    },
+    {
+      "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
+      "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+      "source": "GitHub Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-28T16:07:40+00:00",
+      "fetched_at": "2026-10-28T16:17:01+00:00",
+      "summary": "See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report. The post Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "477a4e61ac16edbf2a2d"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-28T09:30:00+00:00",
+      "fetched_at": "2026-10-28T16:17:01+00:00",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "matched_keywords": [
+        "AI Agents",
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "OpenAI (+6.0); AI Agents (+6.2); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "89bde92e67dab1b69bfc"
+    },
+    {
+      "title": "pfpdf — Markdown から、印刷品質の PDF へ",
+      "url": "https://pfpdf.preferred.tech/ja/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-28T03:32:19+00:00",
+      "fetched_at": "2026-10-28T16:17:01+00:00",
+      "summary": "GFM Markdown 表・タスクリスト・取り消し線・自動リンク・ネストしたリストなど、GitHub 標準の記法がそのまま使えます。 日本語対応の強調処理 `これは**「重要」**です` のように全角記号に隣接した強調も正しく変換されます。 数式とコードハイライト インライン・ディスプレイ数式とコードブロックのハイライトを同...",
+      "matched_keywords": [
+        "GitHub",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "71bd454552284060d0ef"
+    },
+    {
+      "title": "GitHub Universe 2026: Evolving every layer of the stack",
+      "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+      "source": "GitHub Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-28T16:09:28+00:00",
+      "fetched_at": "2026-10-28T16:17:01+00:00",
+      "summary": "Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world. The post GitHub Universe 2026: Evolving every layer of the stack appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub",
+        "Watchgraph:sports_sf_tech_events"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.5); recent (+1.0); watchgraph modules sports_sf_tech_events (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "sports_sf_tech_events"
+      ],
+      "watchgraph_reasons": [
+        "sports_sf_tech_events: GitHub Universe"
+      ],
+      "market_context": [
+        "DIS",
+        "CMCSA",
+        "ABNB",
+        "BKNG",
+        "DAL",
+        "UAL",
+        "TKO",
+        "FWONK",
+        "AAL",
+        "META",
+        "GOOGL",
+        "MSFT",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "9e7f6b76bafadd9de5ad"
+    },
+    {
+      "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
+      "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+      "source": "GitHub Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-10-28T16:07:40+00:00",
+      "fetched_at": "2026-10-28T16:17:01+00:00",
+      "summary": "See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report. The post Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "477a4e61ac16edbf2a2d"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

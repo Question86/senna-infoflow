@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T16:00:48+00:00_
+_Generiert: 2026-10-28T16:17:32+00:00_
 
 ## Kurzlage
 
-69 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+73 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -111,6 +111,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI Agents (+6.2); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Legora is building the agentic operating system for legal work** — Score 16, observation — [Quelle](https://openai.com/index/legora)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-28T09:30:00+00:00`, fetched `2026-10-28T16:17:01+00:00`
+  - Treffer: AI Agents, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+6.0); AI Agents (+6.2); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年10月27日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU96093239/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-10-28T09:00:00+09:00`, fetched `2026-10-28T00:13:03+00:00`
@@ -138,15 +147,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: When Meta switched on Muse in the US last month, it let its new personal AI agent wander into Amazon.com unannounced. Twelve days later, Amazon showed it the door, complaining that the bot did not identify itself and that nobody had asked permission. In Singapore, Meta has brought the hosts along. Also Read: Zuckerberg’s Muse […] The post Meta’s Muse lands in Singapore with a guest list Amazon never got appeared fir…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.2 - 6 km NW of Balangonan, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlc)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-28T01:30:02.040+00:00`, fetched `2026-10-28T01:38:17+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-28 01:11:54 UTC 2026-10-28 01:11:54 UTC at epicenter Location 5.608°N 125.305°E Depth 45.94 km (28.55 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
