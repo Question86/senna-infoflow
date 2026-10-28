@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-28T02:31:17+00:00_
+_Generated: 2026-10-28T02:39:57+00:00_
 
 ## Status
 - status: `normal`
-- findings: `13`
+- findings: `15`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-10-28T02:31:17+00:00_
 - url: https://e27.co/inside-singapores-ai-push-lighthouses-rice-importers-and-robot-labs-20261027/
 - summary: Singapore has a habit of announcing its future in instalments. On Tuesday, at the Singapore Week of Innovation and Technology (SWITCH) 2026, Deputy Prime Minister Gan Kim Yong unveiled the latest chapter: a suite of AI initiatives led by Enterprise Singapore…
 
-### 6. M 5.5 - 221 km NW of Port-Olry, Vanuatu
+### 6. M 5.2 - 220 km NW of Port-Olry, Vanuatu
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-10-28T02:35:20.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlk
+- summary: Time 2026-10-28 02:17:15 UTC 2026-10-28 02:17:15 UTC at epicenter Location 13.812°S 165.461°E Depth 10.00 km (6.21 mi)
+
+### 7. M 6.0 - 214 km NW of Port-Olry, Vanuatu
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-10-28T02:35:12.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlm
+- summary: Time 2026-10-28 02:21:45 UTC 2026-10-28 02:21:45 UTC at epicenter Location 13.931°S 165.446°E Depth 10.00 km (6.21 mi)
+
+### 8. M 5.5 - 221 km NW of Port-Olry, Vanuatu
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-10-28T01:54:14.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttld
 - summary: Time 2026-10-28 01:39:11 UTC 2026-10-28 01:39:11 UTC at epicenter Location 13.895°S 165.389°E Depth 10.00 km (6.21 mi)
-
-### 7. The most dangerous thing about AI isn’t hallucination. It’s that it stopped showing its work
-- source: e27 Asia Startup and Tech Feed
-- score: `8`
-- published: `2026-10-28T01:00:28+00:00`
-- url: https://e27.co/the-most-dangerous-thing-about-ai-isnt-hallucination-its-that-it-stopped-showing-its-work-20261025/
-- summary: Everyone is worried about the wrong AI failure. For two years, the loudest AI safety conversation has centred on hallucination: the model that invents a fact, a court case, a source that never existed. That risk is real and well documented. But a quieter prob…
-
-### 8. 軽量・軽快なウェブ地図描画ライブラリが登場。「MachGL」は本体が90KB程度、東京都全域の3D都市モデルでも100MB未満【地図と位置情報】
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-10-27T22:49:05+00:00`
-- url: https://internet.watch.impress.co.jp/docs/column/chizu3/2151651.html
-- summary: 軽量・軽快なウェブ地図描画ライブラリが登場。「MachGL」は本体が90KB程度、東京都全域の3D都市モデルでも100MB未満【地図と位置情報】
 
 END OF DOCUMENT
