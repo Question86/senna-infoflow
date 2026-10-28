@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-28T19:17:14Z",
+  "generated_at": "2026-10-28T19:47:24Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4172",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-28T12:42:10+00:00",
-      "age_days": 0.27,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://jvn.jp/jp/JVN30675482/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-28T14:00:00+09:00",
-      "age_days": 0.6,
+      "age_days": 0.62,
       "topics": [
         "security",
         "infra"
@@ -74,7 +74,7 @@
       "url": "https://jvn.jp/jp/JVN23695234/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-28T14:00:15+09:00",
-      "age_days": 0.6,
+      "age_days": 0.62,
       "topics": [
         "security"
       ],
@@ -98,7 +98,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4178",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-28T12:42:10+00:00",
-      "age_days": 0.27,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -122,7 +122,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4186",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-28T12:20:34+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -146,7 +146,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1371/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-23T00:00:00+00:00",
-      "age_days": 5.8,
+      "age_days": 5.82,
       "topics": [
         "security"
       ],
@@ -170,7 +170,7 @@
       "url": "https://e27.co/the-most-dangerous-thing-about-ai-isnt-hallucination-its-that-it-stopped-showing-its-work-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T01:00:28+00:00",
-      "age_days": 0.76,
+      "age_days": 0.78,
       "topics": [
         "ai"
       ],
@@ -195,7 +195,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1370/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-23T00:00:00+00:00",
-      "age_days": 5.8,
+      "age_days": 5.82,
       "topics": [
         "ai",
         "security"
@@ -221,7 +221,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1372/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-23T00:00:00+00:00",
-      "age_days": 5.8,
+      "age_days": 5.82,
       "topics": [
         "ai",
         "security"
@@ -247,7 +247,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1369/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-23T00:00:00+00:00",
-      "age_days": 5.8,
+      "age_days": 5.82,
       "topics": [
         "ai",
         "security"
@@ -273,7 +273,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttpe",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T15:28:42.804+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -298,7 +298,7 @@
       "url": "https://github.com/nightly-labs/openbot",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-28T06:49:00+00:00",
-      "age_days": 0.52,
+      "age_days": 0.54,
       "topics": [
         "ai",
         "macro"
@@ -328,7 +328,7 @@
       "url": "https://e27.co/how-will-ai-shopping-agents-change-amazon-and-retail-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T02:00:33+00:00",
-      "age_days": 0.72,
+      "age_days": 0.74,
       "topics": [
         "ai",
         "security",
@@ -358,7 +358,7 @@
       "url": "https://e27.co/netsuites-james-chisham-on-seas-e-invoicing-maze-data-residency-and-who-pays-when-ai-gets-it-wrong-20261027/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T01:00:05+00:00",
-      "age_days": 0.76,
+      "age_days": 0.78,
       "topics": [
         "ai",
         "macro"
@@ -387,7 +387,7 @@
       "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-28T15:50:00+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -415,7 +415,7 @@
       "url": "https://jvn.jp/vu/JVNVU96093239/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-28T09:00:00+09:00",
-      "age_days": 0.8,
+      "age_days": 0.82,
       "topics": [
         "security"
       ],
@@ -441,7 +441,7 @@
       "url": "https://jvn.jp/vu/JVNVU91027179/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-28T14:15:00+09:00",
-      "age_days": 0.58,
+      "age_days": 0.61,
       "topics": [
         "security"
       ],
@@ -467,7 +467,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4184",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-28T12:42:09+00:00",
-      "age_days": 0.27,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -493,7 +493,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4164",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-28T12:42:09+00:00",
-      "age_days": 0.27,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -519,7 +519,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4132",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-28T12:41:47+00:00",
-      "age_days": 0.27,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -545,7 +545,7 @@
       "url": "https://e27.co/phishers-now-want-you-to-type-the-malware-in-yourself-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T05:57:42+00:00",
-      "age_days": 0.56,
+      "age_days": 0.58,
       "topics": [
         "ai",
         "security"
@@ -572,7 +572,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4183",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-28T12:41:49+00:00",
-      "age_days": 0.27,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -597,7 +597,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4162",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-28T12:41:48+00:00",
-      "age_days": 0.27,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -622,7 +622,7 @@
       "url": "https://e27.co/the-fed-decides-today-here-are-the-2-levels-every-bitcoin-trader-should-watch-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T04:02:21+00:00",
-      "age_days": 0.64,
+      "age_days": 0.66,
       "topics": [
         "ai",
         "macro"
@@ -649,7 +649,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 131.72,
+      "age_days": 131.74,
       "topics": [
         "ai"
       ],
@@ -678,7 +678,7 @@
       "url": "https://claude.com/resources/articles/zero-trust-for-ai-agents",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-27T09:51:27+00:00",
-      "age_days": 1.39,
+      "age_days": 1.41,
       "topics": [
         "ai",
         "security",
@@ -706,7 +706,7 @@
       "url": "https://github.com/elayadesign/ai-design-skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-28T06:49:00+00:00",
-      "age_days": 0.52,
+      "age_days": 0.54,
       "topics": [
         "ai",
         "macro"
@@ -733,7 +733,7 @@
       "url": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-10-28T15:45:00+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -759,7 +759,7 @@
       "url": "https://www.heise.de/news/Angreifer-nehmen-Brotli-Adobe-Commerce-und-Magento-Lecks-ins-Visier-11502623.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-28T08:03:00.000+00:00",
-      "age_days": 0.47,
+      "age_days": 0.49,
       "topics": [
         "ai",
         "security"
@@ -785,7 +785,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttmz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T09:56:42.040+00:00",
-      "age_days": 0.39,
+      "age_days": 0.41,
       "topics": [
         "disaster"
       ],
@@ -810,7 +810,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T01:30:02.040+00:00",
-      "age_days": 0.74,
+      "age_days": 0.76,
       "topics": [
         "disaster"
       ],
@@ -835,7 +835,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttkk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T00:08:38.301+00:00",
-      "age_days": 0.8,
+      "age_days": 0.82,
       "topics": [
         "disaster"
       ],
@@ -886,7 +886,7 @@
       "url": "https://www.heise.de/news/Tailscale-SSH-Update-stopft-Tailworm-Sicherheitsluecken-11502847.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-28T11:35:00.000+00:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "ai",
         "security"
@@ -911,7 +911,7 @@
       "url": "https://www.heise.de/news/Veeam-Backup-Server-manipulierbar-und-MFA-deaktivierbar-11502821.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-28T09:23:00.000+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "security",
         "macro"
@@ -936,7 +936,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttpk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T16:23:14.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -961,7 +961,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttmh",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T07:18:50.040+00:00",
-      "age_days": 0.5,
+      "age_days": 0.52,
       "topics": [
         "disaster"
       ],
@@ -986,7 +986,7 @@
       "url": "https://e27.co/meta-sells-voteless-shares-spacex-leases-its-chips-johor-should-be-paying-attention-20261027/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T03:00:24+00:00",
-      "age_days": 0.68,
+      "age_days": 0.7,
       "topics": [
         "general"
       ],
@@ -1010,7 +1010,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttp7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T14:09:01.040+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -1035,7 +1035,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttp2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T13:36:40.040+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
