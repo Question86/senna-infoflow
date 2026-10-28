@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T15:30:02+00:00_
+_Generiert: 2026-10-28T15:37:53+00:00_
 
 ## Kurzlage
 
@@ -29,6 +29,10 @@ _Generiert: 2026-10-28T15:30:02+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-23`
   - Kurz: Known exploited vulnerability. Added 2026-10-23. Due 2026-10-26. Arista VeloCloud Orchestrator SQL Injection Vulnerability
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:41.356km) in Japan 28/10/2026 15:07 UTC, 100 thousand in MMI V.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574369)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:41.356km) in Japan 28/10/2026 15:07 UTC, 100 thousand in MMI V.
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Reykjanes Ridge 28/10/2026 11:37 UTC, [unknown].** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574329)
   - Quelle: GDACS
   - Zeit: ``
@@ -53,14 +57,10 @@ _Generiert: 2026-10-28T15:30:02+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:641.812km) in Fiji 26/10/2026 10:13 UTC, 2 thousand in 100km.
-- **GDACS: Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 4.008 million .** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001345)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 4.008 million .
 - **USGS earthquake M5.5 - 5 km ESE of Asahi, Japan** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttpe)
   - Quelle: USGS
   - Zeit: `2026-10-28T15:07:52+00:00`
-  - Kurz: M5.5 - 5 km ESE of Asahi, Japan. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M5.5 - 5 km ESE of Asahi, Japan. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
