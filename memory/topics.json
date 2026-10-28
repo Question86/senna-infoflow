@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-28T12:34:52+00:00",
+  "generated_at": "2026-10-28T12:44:01+00:00",
   "topics": {
     "ai": [
       {
@@ -61,18 +61,18 @@
         "url": "https://e27.co/metas-muse-lands-in-singapore-with-a-guest-list-amazon-never-got-20261028/"
       },
       {
+        "title": "[UPDATE] [niedrig] IBM SPSS Modeler: Schwachstelle ermöglicht Manipulation von Dateien",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-28T12:41:47+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4132"
+      },
+      {
         "title": "Phishers now want you to type the malware in yourself",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-10-28T05:57:42+00:00",
         "relevance_score": 12,
         "url": "https://e27.co/phishers-now-want-you-to-type-the-malware-in-yourself-20261028/"
-      },
-      {
-        "title": "How we use AI to triage inbound B2B leads without blasting everyone the same way",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-28T03:00:41+00:00",
-        "relevance_score": 11,
-        "url": "https://e27.co/how-we-use-ai-to-triage-inbound-b2b-leads-without-blasting-everyone-the-same-way-20261025/"
       }
     ],
     "security": [
@@ -89,6 +89,20 @@
         "published_at": "2026-10-27T09:51:27+00:00",
         "relevance_score": 23,
         "url": "https://claude.com/resources/articles/zero-trust-for-ai-agents"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux Libreswan: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-28T12:41:49+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4183"
+      },
+      {
+        "title": "[UPDATE] [mittel] Microsoft .NET und ASP.NET: Schwachstelle ermöglicht Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-28T12:41:48+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4162"
       },
       {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月27日）",
@@ -119,32 +133,18 @@
         "url": "https://jvn.jp/jp/JVN30675482/"
       },
       {
+        "title": "[UPDATE] [niedrig] IBM SPSS Modeler: Schwachstelle ermöglicht Manipulation von Dateien",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-28T12:41:47+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4132"
+      },
+      {
         "title": "[NEU] [mittel] Docker Desktop: Schwachstelle ermöglicht Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-28T12:20:34+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4186"
-      },
-      {
-        "title": "Tailscale SSH: Update stopft „Tailworm“-Sicherheitslücken",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-28T11:35:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Tailscale-SSH-Update-stopft-Tailworm-Sicherheitsluecken-11502847.html"
-      },
-      {
-        "title": "Veeam: Backup-Server manipulierbar und MFA deaktivierbar",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-28T09:23:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Veeam-Backup-Server-manipulierbar-und-MFA-deaktivierbar-11502821.html"
-      },
-      {
-        "title": "Angreifer nehmen Brotli-, Adobe-Commerce- und Magento-Lecks ins Visier",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-28T08:03:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Angreifer-nehmen-Brotli-Adobe-Commerce-und-Magento-Lecks-ins-Visier-11502623.html"
       }
     ],
     "economy": [
