@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-28T16:27:42+00:00",
+  "generated_at": "2026-10-28T16:40:49+00:00",
   "topics": {
     "ai": [
       {
@@ -47,6 +47,13 @@
         "url": "https://japan.cnet.com/article/35254012/"
       },
       {
+        "title": "PHP財団の常勤職員「たった1人」の衝撃--ウェブの安全を支える人手と資金が足りない",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-28T09:39:58+00:00",
+        "relevance_score": 16,
+        "url": "https://japan.cnet.com/article/35254103/"
+      },
+      {
         "title": "Legora is building the agentic operating system for legal work",
         "source": "OpenAI News RSS",
         "published_at": "2026-10-28T09:30:00+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-10-28T05:30:40+00:00",
         "relevance_score": 15,
         "url": "https://e27.co/metas-muse-lands-in-singapore-with-a-guest-list-amazon-never-got-20261028/"
-      },
-      {
-        "title": "GitHub intelligence puts your code, context, and history to work",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-10-28T15:40:00+00:00",
-        "relevance_score": 14,
-        "url": "https://github.blog/changelog/2026-10-28-github-intelligence-puts-your-code-context-and-history-to-work"
       }
     ],
     "security": [
