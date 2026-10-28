@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-28T06:45:10Z_
+_Generated: 2026-10-28T06:52:06Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “ヤマハ製YMS-VPN8およびYMS-VPN8-CP
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `31.0`
-- Published: `2026-10-28T14:00:00+09:00` / age_days `0.07`
+- Published: `2026-10-28T14:00:00+09:00` / age_days `0.08`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: vpn, security high-signal: vpn
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “ヤマハ製YMS-VPN8およびYMS-VPN8-CP
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-10-28T14:00:15+09:00` / age_days `0.07`
+- Published: `2026-10-28T14:00:15+09:00` / age_days `0.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -37,6 +37,16 @@ Stärkste Dynamik nach Gate-Recheck: “ヤマハ製YMS-VPN8およびYMS-VPN8-CP
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, 10, security high-signal: rce, 10
 - Quelle: https://e27.co/the-most-dangerous-thing-about-ai-isnt-hallucination-its-that-it-stopped-showing-its-work-20261025/
+
+### nightly-labs/openbot
+
+- Band: `strong` (raw `extreme`)
+- Dynamics score: `24.9`
+- Published: `2026-10-28T06:49:00+00:00` / age_days `0.0`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: early terms: local, high terms: rce, code, security high-signal: rce, code, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
+- Quelle: https://github.com/nightly-labs/openbot
 
 ### How will AI shopping agents change Amazon and retail?
 
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “ヤマハ製YMS-VPN8およびYMS-VPN8-CP
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-28T09:00:00+09:00` / age_days `0.28`
+- Published: `2026-10-28T09:00:00+09:00` / age_days `0.29`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
@@ -72,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “ヤマハ製YMS-VPN8およびYMS-VPN8-CP
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-28T14:15:00+09:00` / age_days `0.06`
+- Published: `2026-10-28T14:15:00+09:00` / age_days `0.07`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “ヤマハ製YMS-VPN8およびYMS-VPN8-CP
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-28T05:57:42+00:00` / age_days `0.03`
+- Published: `2026-10-28T05:57:42+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -92,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “ヤマハ製YMS-VPN8およびYMS-VPN8-CP
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-28T04:02:21+00:00` / age_days `0.11`
+- Published: `2026-10-28T04:02:21+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, 10, security high-signal: rce, 10, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “ヤマハ製YMS-VPN8およびYMS-VPN8-CP
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-27T09:51:27+00:00` / age_days `0.87`
+- Published: `2026-10-27T09:51:27+00:00` / age_days `0.88`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://claude.com/resources/articles/zero-trust-for-ai-agents
-
-### M 5.2 - 6 km NW of Balangonan, Philippines
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `23.0`
-- Published: `2026-10-28T01:30:02.040+00:00` / age_days `0.22`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake, high terms: 10
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlc
 
 END OF DOCUMENT
