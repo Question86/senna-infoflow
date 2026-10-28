@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T22:21:33+00:00_
+_Generiert: 2026-10-28T22:26:48+00:00_
 
 ## Kurzlage
 
@@ -56,7 +56,7 @@ _Generiert: 2026-10-28T22:21:33+00:00_
 - **USGS earthquake M5.7 - 276 km WSW of Tual, Indonesia** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttua)
   - Quelle: USGS
   - Zeit: `2026-10-28T22:06:44+00:00`
-  - Kurz: M5.7 - 276 km WSW of Tual, Indonesia. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M5.7 - 276 km WSW of Tual, Indonesia. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
