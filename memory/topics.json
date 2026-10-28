@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-28T16:17:32+00:00",
+  "generated_at": "2026-10-28T16:27:42+00:00",
   "topics": {
     "ai": [
       {
@@ -68,11 +68,11 @@
         "url": "https://e27.co/metas-muse-lands-in-singapore-with-a-guest-list-amazon-never-got-20261028/"
       },
       {
-        "title": "[UPDATE] [niedrig] IBM SPSS Modeler: Schwachstelle ermöglicht Manipulation von Dateien",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-28T12:41:47+00:00",
+        "title": "GitHub intelligence puts your code, context, and history to work",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-28T15:40:00+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4132"
+        "url": "https://github.blog/changelog/2026-10-28-github-intelligence-puts-your-code-context-and-history-to-work"
       }
     ],
     "security": [
@@ -89,6 +89,13 @@
         "published_at": "2026-10-27T09:51:27+00:00",
         "relevance_score": 23,
         "url": "https://claude.com/resources/articles/zero-trust-for-ai-agents"
+      },
+      {
+        "title": "Security extension for the GitHub Copilot app",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-28T15:45:00+00:00",
+        "relevance_score": 20,
+        "url": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app"
       },
       {
         "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (xdg-dbus-proxy): Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
@@ -138,13 +145,6 @@
         "published_at": "2026-10-28T14:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN30675482/"
-      },
-      {
-        "title": "[UPDATE] [hoch] QT: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-10-28T12:42:10+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4178"
       }
     ],
     "economy": [
@@ -196,6 +196,13 @@
         "published_at": "2026-10-29T00:00:00+00:00",
         "relevance_score": 9,
         "url": "https://www.bis.org/p/s0/media-releases/20261029-cpmi-publishes-analysis-how-central-banks-support-payment-system-safety-and-efficiency-and"
+      },
+      {
+        "title": "Route and orchestrate models with GitHub Copilot Fusion",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-28T16:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion"
       }
     ],
     "geopolitics": [
@@ -263,11 +270,11 @@
         "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1373/"
       },
       {
-        "title": "Tailscale SSH: Update stopft „Tailworm“-Sicherheitslücken",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-28T11:35:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Tailscale-SSH-Update-stopft-Tailworm-Sicherheitsluecken-11502847.html"
+        "title": "AIがコードを書いてくれる時代、我々は何を確かめるのか",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-28T09:48:15+00:00",
+        "relevance_score": 8,
+        "url": "https://speakerdeck.com/yosuke_furukawa/ai-ga-kodo-o-kai-te-kureru-jidai-wareware-ha-nani-o-tashikameru-no-ka"
       }
     ],
     "github": [
@@ -286,6 +293,20 @@
         "url": "https://github.com/elayadesign/ai-design-skills"
       },
       {
+        "title": "Security extension for the GitHub Copilot app",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-28T15:45:00+00:00",
+        "relevance_score": 20,
+        "url": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app"
+      },
+      {
+        "title": "GitHub intelligence puts your code, context, and history to work",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-28T15:40:00+00:00",
+        "relevance_score": 14,
+        "url": "https://github.blog/changelog/2026-10-28-github-intelligence-puts-your-code-context-and-history-to-work"
+      },
+      {
         "title": "Meta sells voteless shares, SpaceX leases its chips. Johor should be paying attention",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-10-28T03:00:24+00:00",
@@ -298,6 +319,13 @@
         "published_at": "2026-10-29T00:00:00+00:00",
         "relevance_score": 9,
         "url": "https://www.bis.org/p/s0/media-releases/20261029-cpmi-publishes-analysis-how-central-banks-support-payment-system-safety-and-efficiency-and"
+      },
+      {
+        "title": "GitHub Enterprise now includes access to GitHub Copilot",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-28T15:50:00+00:00",
+        "relevance_score": 9,
+        "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot"
       },
       {
         "title": "pfpdf — Markdown から、印刷品質の PDF へ",
@@ -314,11 +342,11 @@
         "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/"
       },
       {
-        "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
-        "source": "GitHub Blog Atom",
-        "published_at": "2026-10-28T16:07:40+00:00",
-        "relevance_score": 3,
-        "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/"
+        "title": "Route and orchestrate models with GitHub Copilot Fusion",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-10-28T16:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion"
       }
     ],
     "general": [
@@ -349,6 +377,13 @@
         "published_at": "2026-10-28T00:08:38.301+00:00",
         "relevance_score": 15,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttkk"
+      },
+      {
+        "title": "M 4.7 - 81 km ENE of Mazha, China",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-28T16:23:14.040+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttpk"
       },
       {
         "title": "M 4.7 - 39 km SSW of Serrezuela, Argentina",
@@ -384,13 +419,6 @@
         "published_at": "2026-10-28T12:56:53.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnt"
-      },
-      {
-        "title": "M 5.0 - Reykjanes Ridge",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-10-28T12:14:07.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnk"
       }
     ]
   }
