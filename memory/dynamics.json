@@ -1,22 +1,22 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-28T12:26:23Z",
+  "generated_at": "2026-10-28T12:38:08Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 3,
       "krass": 5,
-      "strong": 9,
+      "strong": 10,
       "watch": 17,
-      "quiet": 6
+      "quiet": 5
     },
     "bands_after_gate_recheck": {
       "krass": 1,
-      "strong": 16,
+      "strong": 17,
       "watch": 17,
-      "quiet": 6
+      "quiet": 5
     }
   },
   "top_dynamics": [
@@ -25,7 +25,7 @@
       "url": "https://jvn.jp/jp/JVN30675482/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-28T14:00:00+09:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "security",
         "infra"
@@ -51,7 +51,7 @@
       "url": "https://jvn.jp/jp/JVN23695234/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-28T14:00:15+09:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -69,6 +69,30 @@
         "security high-signal: jvn, security"
       ],
       "summary": "ヤマハ株式会社が提供するYamaha LAN Monitor for Windowsのインストーラには、DLL読み込みに関する脆弱性が存在します。"
+    },
+    {
+      "title": "[NEU] [mittel] Docker Desktop: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4186",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-28T12:20:34+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Docker Desktop ausnutzen, um Informationen offenzulegen."
     },
     {
       "title": "The most dangerous thing about AI isn’t hallucination. It’s that it stopped showing its work",
@@ -100,7 +124,7 @@
       "url": "https://github.com/nightly-labs/openbot",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-28T06:49:00+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai",
         "macro"
@@ -130,7 +154,7 @@
       "url": "https://e27.co/how-will-ai-shopping-agents-change-amazon-and-retail-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T02:00:33+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "ai",
         "security",
@@ -189,7 +213,7 @@
       "url": "https://jvn.jp/vu/JVNVU96093239/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-28T09:00:00+09:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -215,7 +239,7 @@
       "url": "https://jvn.jp/vu/JVNVU91027179/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-28T14:15:00+09:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -241,7 +265,7 @@
       "url": "https://e27.co/phishers-now-want-you-to-type-the-malware-in-yourself-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T05:57:42+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "ai",
         "security"
@@ -268,7 +292,7 @@
       "url": "https://e27.co/the-fed-decides-today-here-are-the-2-levels-every-bitcoin-trader-should-watch-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T04:02:21+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "ai",
         "macro"
@@ -324,7 +348,7 @@
       "url": "https://claude.com/resources/articles/zero-trust-for-ai-agents",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-27T09:51:27+00:00",
-      "age_days": 1.11,
+      "age_days": 1.12,
       "topics": [
         "ai",
         "security",
@@ -352,7 +376,7 @@
       "url": "https://github.com/elayadesign/ai-design-skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-28T06:49:00+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai",
         "macro"
@@ -379,7 +403,7 @@
       "url": "https://www.heise.de/news/Angreifer-nehmen-Brotli-Adobe-Commerce-und-Magento-Lecks-ins-Visier-11502623.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-28T08:03:00.000+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "security"
@@ -405,7 +429,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttmz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T09:56:42.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -455,7 +479,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttkk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T00:08:38.301+00:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [
         "disaster"
       ],
@@ -505,7 +529,7 @@
       "url": "https://www.heise.de/news/Veeam-Backup-Server-manipulierbar-und-MFA-deaktivierbar-11502821.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-28T09:23:00.000+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security",
         "macro"
@@ -530,7 +554,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttmh",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T07:18:50.040+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -555,7 +579,7 @@
       "url": "https://e27.co/meta-sells-voteless-shares-spacex-leases-its-chips-johor-should-be-paying-attention-20261027/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T03:00:24+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "general"
       ],
@@ -579,7 +603,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T12:14:07.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -604,7 +628,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T11:53:25.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -629,7 +653,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttmb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T06:35:03.040+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -654,7 +678,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttm2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T04:47:49.040+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "disaster"
       ],
@@ -679,7 +703,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T03:16:17.040+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "disaster"
       ],
@@ -729,7 +753,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T02:35:20.040+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "disaster"
       ],
@@ -754,7 +778,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T02:35:12.040+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "disaster"
       ],
@@ -779,7 +803,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttld",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T01:54:14.040+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "disaster"
       ],
@@ -804,7 +828,7 @@
       "url": "https://japan.cnet.com/article/35254012/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-27T09:31:21+00:00",
-      "age_days": 1.12,
+      "age_days": 1.13,
       "topics": [
         "ai"
       ],
@@ -830,7 +854,7 @@
       "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
       "source": "OpenAI News RSS",
       "published_at": "2026-10-28T09:30:00+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai",
         "macro"
@@ -857,7 +881,7 @@
       "url": "https://e27.co/metas-muse-lands-in-singapore-with-a-guest-list-amazon-never-got-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T05:30:40+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -883,7 +907,7 @@
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260096.en.html",
       "source": "ECB Open Market Operations and Communication",
       "published_at": "2026-10-28T08:15:22+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "macro"
       ],
@@ -907,7 +931,7 @@
       "url": "https://www.ecb.europa.eu//press/stats/ffi/html/ecb.eaefd_full2026q2~b2bd701420.en.html",
       "source": "ECB Statistical Press Releases",
       "published_at": "2026-10-28T10:00:00+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "macro"
       ],
@@ -931,7 +955,7 @@
       "url": "https://www.gizmodo.jp/article/2610-vortex-tech-sound-fire-extinguisher/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-28T06:48:08+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -955,7 +979,7 @@
       "url": "https://anond.hatelabo.jp/20261028103922",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-28T01:39:36+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "general"
       ],
@@ -979,7 +1003,7 @@
       "url": "https://internet.watch.impress.co.jp/docs/column/chizu3/2151651.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-27T22:49:05+00:00",
-      "age_days": 0.57,
+      "age_days": 0.58,
       "topics": [
         "general"
       ],
@@ -1003,7 +1027,7 @@
       "url": "https://e27.co/how-we-use-ai-to-triage-inbound-b2b-leads-without-blasting-everyone-the-same-way-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T03:00:41+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "ai"
       ],
@@ -1023,30 +1047,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "We used to say we wanted more leads. That was true, but it was not the full problem. The harder problem was what happened after a lead came in. A form submission would land in the inbox. Someone would glance at the company name, skim the message, maybe click the website, maybe not. If the […] The post How we use AI to…"
-    },
-    {
-      "title": "ELF-MN1 | 空間再現ディスプレイ（Spatial Reality Display） | ソニー",
-      "url": "https://www.sony.jp/spatial-reality-display/products/ELF-MN1/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-28T01:56:24+00:00",
-      "age_days": 0.44,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 8.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "クーポン・お買い物券:coupon枚 ソニーポイント:pointポイント一度サインアウトして、再度サインインしてください"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “ヤマハ製YMS-VPN8およびYMS-VPN8-CPにおける引用符で囲まれていないファイルパスの脆弱性” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
