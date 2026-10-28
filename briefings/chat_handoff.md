@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-28T02:39:57+00:00_
+_Generated: 2026-10-28T02:45:50+00:00_
 
 ## Status
 - status: `normal`
-- findings: `15`
+- findings: `16`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-10-28T02:39:57+00:00_
 - url: https://e27.co/inside-singapores-ai-push-lighthouses-rice-importers-and-robot-labs-20261027/
 - summary: Singapore has a habit of announcing its future in instalments. On Tuesday, at the Singapore Week of Innovation and Technology (SWITCH) 2026, Deputy Prime Minister Gan Kim Yong unveiled the latest chapter: a suite of AI initiatives led by Enterprise Singapore…
 
-### 6. M 5.2 - 220 km NW of Port-Olry, Vanuatu
+### 6. M 4.8 - 217 km NW of Port-Olry, Vanuatu
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-10-28T02:42:12.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttli
+- summary: Time 2026-10-28 02:13:55 UTC 2026-10-28 02:13:55 UTC at epicenter Location 13.890°S 165.440°E Depth 10.00 km (6.21 mi)
+
+### 7. M 5.2 - 220 km NW of Port-Olry, Vanuatu
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-10-28T02:35:20.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlk
 - summary: Time 2026-10-28 02:17:15 UTC 2026-10-28 02:17:15 UTC at epicenter Location 13.812°S 165.461°E Depth 10.00 km (6.21 mi)
 
-### 7. M 6.0 - 214 km NW of Port-Olry, Vanuatu
+### 8. M 6.0 - 214 km NW of Port-Olry, Vanuatu
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-10-28T02:35:12.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlm
 - summary: Time 2026-10-28 02:21:45 UTC 2026-10-28 02:21:45 UTC at epicenter Location 13.931°S 165.446°E Depth 10.00 km (6.21 mi)
-
-### 8. M 5.5 - 221 km NW of Port-Olry, Vanuatu
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-10-28T01:54:14.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttld
-- summary: Time 2026-10-28 01:39:11 UTC 2026-10-28 01:39:11 UTC at epicenter Location 13.895°S 165.389°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT

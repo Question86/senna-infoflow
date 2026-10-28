@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-28T02:39:57+00:00",
+  "generated_at": "2026-10-28T02:45:50+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 15,
-    "displayed_findings": 15,
+    "new_relevant_findings": 1,
+    "today_file_total": 16,
+    "displayed_findings": 16,
     "high": 0,
     "medium": 7,
-    "observe": 8
+    "observe": 9
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -65,6 +65,16 @@
       "section": "observe"
     },
     {
+      "title": "M 4.8 - 217 km NW of Port-Olry, Vanuatu",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-28T02:42:12.040+00:00",
+      "relevance_score": 9,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttli",
+      "summary": "Time 2026-10-28 02:13:55 UTC 2026-10-28 02:13:55 UTC at epicenter Location 13.890°S 165.440°E Depth 10.00 km (6.21 mi)",
+      "section": "observe"
+    },
+    {
       "title": "M 5.2 - 220 km NW of Port-Olry, Vanuatu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 9,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlm",
       "summary": "Time 2026-10-28 02:21:45 UTC 2026-10-28 02:21:45 UTC at epicenter Location 13.931°S 165.446°E Depth 10.00 km (6.21 mi)",
-      "section": "observe"
-    },
-    {
-      "title": "M 5.5 - 221 km NW of Port-Olry, Vanuatu",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-28T01:54:14.040+00:00",
-      "relevance_score": 9,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttld",
-      "summary": "Time 2026-10-28 01:39:11 UTC 2026-10-28 01:39:11 UTC at epicenter Location 13.895°S 165.389°E Depth 10.00 km (6.21 mi)",
       "section": "observe"
     }
   ],
