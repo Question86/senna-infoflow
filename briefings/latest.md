@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T17:57:07+00:00_
+_Generiert: 2026-10-28T18:06:03+00:00_
 
 ## Kurzlage
 
-82 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+83 neue relevante Treffer. Stärkstes Signal: „How will AI shopping agents change Amazon and retail?“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -323,6 +323,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); central banks (+2.5)
   - Kurz: A new report by the BIS Committee on Payments and Market Infrastructures (CPMI) examines how technological innovation, changing user demand and the emergence of new types of payment service providers and arrangements are transforming payment systems.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Federal Reserve issues FOMC statement** — Score 9, observation — [Quelle](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm)
+  - Quelle: Federal Reserve Monetary Policy Press Releases / `rss`
+  - Zeit: published `2026-10-28T18:00:00+00:00`, fetched `2026-10-28T18:05:30+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: Federal Reserve issues FOMC statement
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **GitHub Enterprise now includes access to GitHub Copilot** — Score 9, observation — [Quelle](https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-10-28T15:50:00+00:00`, fetched `2026-10-28T16:27:11+00:00`
@@ -341,15 +350,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-28 13:31:54 UTC 2026-10-28 13:31:54 UTC at epicenter Location 8.924°N 40.064°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **トランプ大統領「AI」の名称使用を禁止の方針 代わりに「SI＝超知能」の使用を求める大統領令に署名 「AI使う者はすべて敵」（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース** — Score 9, observation — [Quelle](https://news.yahoo.co.jp/articles/4573deab7a69a2492e721d2d5bf8e59d3393d84a)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-10-28T02:22:26+00:00`, fetched `2026-10-28T03:19:19+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: トランプ大統領「AI」の名称使用を禁止の方針 代わりに「SI＝超知能」の使用を求める大統領令に署名 「AI使う者はすべて敵」（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
