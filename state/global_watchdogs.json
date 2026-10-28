@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T11:54:44+00:00",
+  "generated_at": "2026-10-28T12:00:07+00:00",
   "sections": {
     "global_security": [
       {
@@ -136,13 +136,13 @@
         "domain": "security",
         "severity": "watch",
         "title": "USGS earthquake M5.5 - Reykjanes Ridge",
-        "summary": "M5.5 - Reykjanes Ridge. PAGER alert: none. Tsunami flag: 0.",
+        "summary": "M5.5 - Reykjanes Ridge. PAGER alert: green. Tsunami flag: 0.",
         "source": "USGS",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnc",
         "published_at": "2026-10-28T11:37:49+00:00",
         "metrics": {
           "mag": 5.5,
-          "alert": "",
+          "alert": "green",
           "sig": 465.0,
           "tsunami": 0
         }

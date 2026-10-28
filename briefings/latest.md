@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-28T11:54:40+00:00_
+_Generiert: 2026-10-28T12:00:04+00:00_
 
 ## Kurzlage
 
@@ -60,7 +60,7 @@ _Generiert: 2026-10-28T11:54:40+00:00_
 - **USGS earthquake M5.5 - Reykjanes Ridge** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnc)
   - Quelle: USGS
   - Zeit: `2026-10-28T11:37:49+00:00`
-  - Kurz: M5.5 - Reykjanes Ridge. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M5.5 - Reykjanes Ridge. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
