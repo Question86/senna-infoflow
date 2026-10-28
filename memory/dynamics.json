@@ -1,22 +1,22 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-28T12:38:08Z",
+  "generated_at": "2026-10-28T12:47:28Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 3,
-      "krass": 5,
+      "krass": 8,
       "strong": 10,
       "watch": 17,
-      "quiet": 5
+      "quiet": 2
     },
     "bands_after_gate_recheck": {
       "krass": 1,
-      "strong": 17,
+      "strong": 20,
       "watch": 17,
-      "quiet": 5
+      "quiet": 2
     }
   },
   "top_dynamics": [
@@ -75,7 +75,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4186",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-28T12:20:34+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -99,7 +99,7 @@
       "url": "https://e27.co/the-most-dangerous-thing-about-ai-isnt-hallucination-its-that-it-stopped-showing-its-work-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T01:00:28+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "ai"
       ],
@@ -124,7 +124,7 @@
       "url": "https://github.com/nightly-labs/openbot",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-28T06:49:00+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "ai",
         "macro"
@@ -154,7 +154,7 @@
       "url": "https://e27.co/how-will-ai-shopping-agents-change-amazon-and-retail-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T02:00:33+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "ai",
         "security",
@@ -184,7 +184,7 @@
       "url": "https://e27.co/netsuites-james-chisham-on-seas-e-invoicing-maze-data-residency-and-who-pays-when-ai-gets-it-wrong-20261027/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T01:00:05+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "ai",
         "macro"
@@ -261,6 +261,32 @@
       "summary": "ヤマハ株式会社が提供する無線LANルーターNWR100には、複数の脆弱性が存在します。"
     },
     {
+      "title": "[UPDATE] [niedrig] IBM SPSS Modeler: Schwachstelle ermöglicht Manipulation von Dateien",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4132",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-28T12:41:47+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in IBM SPSS ausnutzen, um Dateien zu manipulieren."
+    },
+    {
       "title": "Phishers now want you to type the malware in yourself",
       "url": "https://e27.co/phishers-now-want-you-to-type-the-malware-in-yourself-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -286,6 +312,56 @@
         "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
       ],
       "summary": "For years, the anti-phishing playbook has been drilled into office workers like a fire-safety briefing: check the sender, hover before you click, never type your password into a page you reached from an email. The latest data from Check Point Research suggests attackers have read the same briefing. Increasingly, they…"
+    },
+    {
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux Libreswan: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4183",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-28T12:41:49+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux Libreswan ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
+      "title": "[UPDATE] [mittel] Microsoft .NET und ASP.NET: Schwachstelle ermöglicht Privilegieneskalation",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4162",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-28T12:41:48+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Microsoft .NET und Microsoft ASP.NET ausnutzen, um die höchsten Berechtigungen auf dem System zu erlangen."
     },
     {
       "title": "The Fed decides today: Here are the 2 levels every Bitcoin trader should watch",
@@ -319,7 +395,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 131.44,
+      "age_days": 131.45,
       "topics": [
         "ai"
       ],
@@ -338,7 +414,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 131.4d old signal",
+        "aging penalty -8.0 for 131.5d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -376,7 +452,7 @@
       "url": "https://github.com/elayadesign/ai-design-skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-28T06:49:00+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "ai",
         "macro"
@@ -403,7 +479,7 @@
       "url": "https://www.heise.de/news/Angreifer-nehmen-Brotli-Adobe-Commerce-und-Magento-Lecks-ins-Visier-11502623.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-28T08:03:00.000+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "security"
@@ -429,7 +505,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttmz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T09:56:42.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -454,7 +530,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T01:30:02.040+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "disaster"
       ],
@@ -479,7 +555,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttkk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T00:08:38.301+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "disaster"
       ],
@@ -504,7 +580,7 @@
       "url": "https://www.heise.de/news/Tailscale-SSH-Update-stopft-Tailworm-Sicherheitsluecken-11502847.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-28T11:35:00.000+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "security"
@@ -554,7 +630,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttmh",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T07:18:50.040+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -579,7 +655,7 @@
       "url": "https://e27.co/meta-sells-voteless-shares-spacex-leases-its-chips-johor-should-be-paying-attention-20261027/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-28T03:00:24+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "general"
       ],
@@ -628,7 +704,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttnc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T11:53:25.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -653,7 +729,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttmb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T06:35:03.040+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
@@ -703,7 +779,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T03:16:17.040+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "disaster"
       ],
@@ -728,7 +804,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttli",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T02:42:12.040+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "disaster"
       ],
@@ -753,7 +829,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T02:35:20.040+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "disaster"
       ],
@@ -778,7 +854,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-28T02:35:12.040+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "disaster"
       ],
@@ -828,7 +904,7 @@
       "url": "https://japan.cnet.com/article/35254012/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-27T09:31:21+00:00",
-      "age_days": 1.13,
+      "age_days": 1.14,
       "topics": [
         "ai"
       ],
@@ -854,7 +930,7 @@
       "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
       "source": "OpenAI News RSS",
       "published_at": "2026-10-28T09:30:00+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "macro"
@@ -907,7 +983,7 @@
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260096.en.html",
       "source": "ECB Open Market Operations and Communication",
       "published_at": "2026-10-28T08:15:22+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "macro"
       ],
@@ -931,7 +1007,7 @@
       "url": "https://www.ecb.europa.eu//press/stats/ffi/html/ecb.eaefd_full2026q2~b2bd701420.en.html",
       "source": "ECB Statistical Press Releases",
       "published_at": "2026-10-28T10:00:00+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "macro"
       ],
@@ -955,7 +1031,7 @@
       "url": "https://www.gizmodo.jp/article/2610-vortex-tech-sound-fire-extinguisher/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-28T06:48:08+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -973,80 +1049,6 @@
         "high terms: 10"
       ],
       "summary": "また女子高生です。 7月に、アメリカの高校生がガレージで作ったろ過フィルターの発明を書きました。浄水場超えの数字を叩き出したっていう。 今度はメキシコから。音で、火を消すそうです。 装置のサイズ感や実際に消すところは、本人ご登場の動画がわかりやすかったです。 バケツからの音で火を消すimage: Karime vort..."
-    },
-    {
-      "title": "支給PCのスペックがショボすぎて、新人が辞めた。",
-      "url": "https://anond.hatelabo.jp/20261028103922",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-28T01:39:36+00:00",
-      "age_days": 0.46,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "メモリ価格の高騰で、PCの値段は昨年の倍になった。一方、うちの会社のPC調達規程は平成に制定されて以来、一度も改定されていない。 PCは1台10万円未満とする。 うちでは10万円以上になると固定資産として台帳に載り、稟議も社長決裁になる。その稟議を書きたい人がいないので、二十年間守られてきた。 今のPC価格はこ..."
-    },
-    {
-      "title": "軽量・軽快なウェブ地図描画ライブラリが登場。「MachGL」は本体が90KB程度、東京都全域の3D都市モデルでも100MB未満【地図と位置情報】",
-      "url": "https://internet.watch.impress.co.jp/docs/column/chizu3/2151651.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-10-27T22:49:05+00:00",
-      "age_days": 0.58,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "軽量・軽快なウェブ地図描画ライブラリが登場。「MachGL」は本体が90KB程度、東京都全域の3D都市モデルでも100MB未満【地図と位置情報】"
-    },
-    {
-      "title": "How we use AI to triage inbound B2B leads without blasting everyone the same way",
-      "url": "https://e27.co/how-we-use-ai-to-triage-inbound-b2b-leads-without-blasting-everyone-the-same-way-20261025/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-28T03:00:41+00:00",
-      "age_days": 0.4,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 8.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "We used to say we wanted more leads. That was true, but it was not the full problem. The harder problem was what happened after a lead came in. A form submission would land in the inbox. Someone would glance at the company name, skim the message, maybe click the website, maybe not. If the […] The post How we use AI to…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “ヤマハ製YMS-VPN8およびYMS-VPN8-CPにおける引用符で囲まれていないファイルパスの脆弱性” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
