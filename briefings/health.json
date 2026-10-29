@@ -1,18 +1,25 @@
 {
-  "generated_at": "2026-10-29T06:18:26+00:00",
-  "status": "normal",
+  "generated_at": "2026-10-29T06:37:12+00:00",
+  "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
-  "coverage_confidence": "normal",
+  "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 29,
-    "displayed_findings": 29,
+    "new_relevant_findings": 1,
+    "today_file_total": 30,
+    "displayed_findings": 30,
     "high": 0,
-    "medium": 6,
+    "medium": 7,
     "observe": 23,
-    "source_errors": 0
+    "source_errors": 1
   },
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "bsi_cert_bund_csw",
+      "source_name": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+      "source_type": "rss",
+      "error": "502 Server Error: Bad Gateway for url: https://www.bsi.bund.de/error_path/502.html?al_req_id=auLphwovXr0fomIJzN1L-AAABrA"
+    }
+  ],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
 }
