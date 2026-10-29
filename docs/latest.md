@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-29T22:00:54+00:00_
+_Generiert: 2026-10-29T22:14:56+00:00_
 
 ## Kurzlage
 
-85 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
+86 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
 
 ## Priorität Hoch
 
@@ -132,6 +132,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 6.2 - 43 km ESE of Port-Olry, Vanuatu** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu4f)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-29T22:12:27.738+00:00`, fetched `2026-10-29T22:14:26+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - IV Time 2026-10-29 21:46:44 UTC 2026-10-29 21:46:44 UTC at epicenter Location 15.189°S 167.452°E Depth 142.83 km (88.75 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 6.4 - southeast of Easter Island** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttxz)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-29T08:13:05.141+00:00`, fetched `2026-10-29T08:20:15+00:00`
@@ -195,15 +204,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: VPNがあるのは外から分かるので狙われる。パッチ当てはもう自動化するしかない――日本ハッカー協会・杉浦隆幸代表理事が語る、AI時代のランサムウェア対処策【Security Days Fall 2026】
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.0 - 143 km S of False Pass, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu3j)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-29T20:36:30.973+00:00`, fetched `2026-10-29T20:37:00+00:00`
-  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: ShakeMap - III Time 2026-10-29 20:14:32 UTC 2026-10-29 20:14:32 UTC at epicenter Location 53.584°N 163.028°W Depth 15.60 km (9.69 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **How Ropes & Gray is developing AI for transactional diligence** — Score 11, observation — [Quelle](https://openai.com/index/ropes-gray-ai-diligence)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-10-29T07:00:00+00:00`, fetched `2026-10-29T17:45:06+00:00`

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-29T22:00:54+00:00_
+_Generated: 2026-10-29T22:14:56+00:00_
 
 ## Status
 - status: `normal`
-- findings: `85`
+- findings: `86`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-10-29T22:00:54+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw3
 - summary: PAGER - GREEN ShakeMap - III Time 2026-10-29 03:19:05 UTC 2026-10-29 03:19:05 UTC at epicenter Location 8.474°N 127.492°E Depth 10.00 km (6.21 mi)
 
-### 5. M 6.4 - southeast of Easter Island
+### 5. M 6.2 - 43 km ESE of Port-Olry, Vanuatu
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-10-29T22:12:27.738+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu4f
+- summary: PAGER - GREEN ShakeMap - IV Time 2026-10-29 21:46:44 UTC 2026-10-29 21:46:44 UTC at epicenter Location 15.189°S 167.452°E Depth 142.83 km (88.75 mi)
+
+### 6. M 6.4 - southeast of Easter Island
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-10-29T08:13:05.141+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttxz
 - summary: PAGER - GREEN ShakeMap - I Time 2026-10-29 07:49:50 UTC 2026-10-29 07:49:50 UTC at epicenter Location 36.406°S 98.049°W Depth 10.00 km (6.21 mi)
 
-### 6. M 5.6 - South Sandwich Islands region
+### 7. M 5.6 - South Sandwich Islands region
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-10-29T05:28:13.664+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttx0
 - summary: PAGER - GREEN ShakeMap - III Time 2026-10-29 05:06:48 UTC 2026-10-29 05:06:48 UTC at epicenter Location 60.342°S 28.014°W Depth 10.00 km (6.21 mi)
 
-### 7. The e27 Contributor Programme: Using AI, submitting, and growing your readership — Part 2
+### 8. The e27 Contributor Programme: Using AI, submitting, and growing your readership — Part 2
 - source: e27 Asia Startup and Tech Feed
 - score: `13`
 - published: `2026-10-29T04:30:22+00:00`
 - url: https://e27.co/the-e27-contributor-programme-using-ai-submitting-and-growing-your-readership-part-2-20261029/
 - summary: Part one of this guide ended with a draft. This one starts there. A finished draft is a bit like a packed suitcase: the hard decisions are made, but you can still leave without your passport. Plenty of good contributor articles stumble in this last stretch, w…
-
-### 8. CVE-2026-98432 | Ubuntu
-- source: Hatena Bookmark Hotentry IT
-- score: `12`
-- published: `2026-10-29T04:39:46+00:00`
-- url: https://ubuntu.com/security/CVE-2026-98432
-- summary: Description In the Linux kernel, the following vulnerability has been resolved: ipv4: free inet_opt and ireq_opt after an RCU grace period tcp_v4_syn_recv_sock() transfers ownership of ireq->ireq_opt to the child socket (newinet->inet_opt) without copying it.…
 
 END OF DOCUMENT
