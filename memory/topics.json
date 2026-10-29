@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-29T13:54:40+00:00",
+  "generated_at": "2026-10-29T14:00:08+00:00",
   "topics": {
     "ai": [
       {
@@ -170,6 +170,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1530"
       },
       {
+        "title": "[UPDATE] [niedrig] expat: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-29T13:54:33+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1448"
+      },
+      {
         "title": "[UPDATE] [hoch] Mozilla Firefox, Firefox ESR, und Thunderbird: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-10-29T12:57:00+00:00",
@@ -210,13 +217,6 @@
         "published_at": "2026-10-29T11:29:00.000+00:00",
         "relevance_score": 7,
         "url": "https://www.heise.de/news/Angriffsversuche-auf-junge-Luecke-in-Oracle-E-Business-Suite-11504666.html"
-      },
-      {
-        "title": "Angriffe auf Linux- und VMware-ESX-Schwachstellen",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-29T07:34:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Angriffe-auf-Linux-und-VMware-ESX-Schwachstellen-11503947.html"
       }
     ],
     "general": [
