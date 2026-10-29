@@ -1613,6 +1613,26 @@
     "id": "eb36afa320bda7b12a69"
   },
   {
+    "title": "How we detect frontier model misalignment",
+    "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-10-29T09:00:00+00:00",
+    "fetched_at": "2026-10-29T17:04:10+00:00",
+    "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+    "matched_keywords": [
+      "OpenAI"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "OpenAI (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9d4b52dd43fb54a24a93"
+  },
+  {
     "title": "Angriffe auf Linux- und VMware-ESX-Schwachstellen",
     "url": "https://www.heise.de/news/Angriffe-auf-Linux-und-VMware-ESX-Schwachstellen-11503947.html",
     "source": "heise Security Alerts",
