@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-29T15:19:45Z_
+_Generated: 2026-10-29T15:31:58Z_
 
 ## Lageurteil
 
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Cisco Secure Firewall Threa
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-10-29T13:54:33+00:00` / age_days `0.06`
+- Published: `2026-10-29T13:54:33+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Cisco Secure Firewall Threa
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-10-29T12:57:00+00:00` / age_days `0.1`
+- Published: `2026-10-29T12:57:00+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Cisco Secure Firewall Threa
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-10-29T12:00:00+09:00` / age_days `0.51`
+- Published: `2026-10-29T12:00:00+09:00` / age_days `0.52`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Cisco Secure Firewall Threa
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-28T22:58:45+00:00` / age_days `0.68`
+- Published: `2026-10-28T22:58:45+00:00` / age_days `0.69`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: vpn, security high-signal: vpn, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Cisco Secure Firewall Threa
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-29T09:49:26+00:00` / age_days `0.23`
+- Published: `2026-10-29T09:49:26+00:00` / age_days `0.24`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory, official security but no high-signal phrase: capped at strong
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Cisco Secure Firewall Threa
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-29T10:00:00+00:00` / age_days `0.22`
+- Published: `2026-10-29T10:00:00+00:00` / age_days `0.23`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: local, high terms: critical, rce, security high-signal: critical, rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
