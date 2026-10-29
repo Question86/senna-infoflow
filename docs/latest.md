@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-29T08:56:59+00:00_
+_Generiert: 2026-10-29T09:18:10+00:00_
 
 ## Kurzlage
 
-36 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
+38 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
 
 ## Priorität Hoch
 
@@ -132,6 +132,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, ASEAN (+2.0)
   - Kurz: There was a time when a bank in Southeast Asia could win customers simply by shipping an app that did not crash on payday. That era, a new study suggests, is over. Twimbit, the Singapore-based research and advisory firm, unveiled its inaugural State of CX in ASEAN Banking 2026 at the Twimbit Banking Summit & […] The post The 70/30 rule: Why ASEAN banks still need humans as AI takes over appeared first on e27 .
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Statistical release: BIS international banking statistics and global liquidity indicators at end-June 2026** — Score 12, observation — [Quelle](https://www.bis.org/publications/202610-commentary-ibs-gli)
+  - Quelle: BIS Statistical Releases / `rss`
+  - Zeit: published `2026-10-29T00:00:00+00:00`, fetched `2026-10-29T09:17:39+00:00`
+  - Treffer: banking, Macro/Policy, statistics
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); statistics (+2.5); banking (+2.5); recent (+1.0)
+  - Kurz: Statistical release: BIS international banking statistics and global liquidity indicators at end-June 2026
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **VPNがあるのは外から分かるので狙われる。パッチ当てはもう自動化するしかない――日本ハッカー協会・杉浦隆幸代表理事が語る、AI時代のランサムウェア対処策【Security Days Fall 2026】** — Score 12, observation — [Quelle](https://internet.watch.impress.co.jp/docs/event/2151590.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-28T22:58:45+00:00`, fetched `2026-10-29T03:12:25+00:00`
@@ -141,14 +150,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: VPNがあるのは外から分かるので狙われる。パッチ当てはもう自動化するしかない――日本ハッカー協会・杉浦隆幸代表理事が語る、AI時代のランサムウェア対処策【Security Days Fall 2026】
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.8 - western Indian-Antarctic Ridge** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvs)
+- **M 5.1 - 218 km NNW of Bamboo Flat, India** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tty7)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-29T01:23:11.040+00:00`, fetched `2026-10-29T01:25:17+00:00`
+  - Zeit: published `2026-10-29T09:04:28.040+00:00`, fetched `2026-10-29T09:17:39+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-29 01:07:04 UTC 2026-10-29 01:07:04 UTC at epicenter Location 50.269°S 139.409°E Depth 10.00 km (6.21 mi)
+  - Kurz: Time 2026-10-29 08:49:42 UTC 2026-10-29 08:49:42 UTC at epicenter Location 13.379°N 91.659°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **LKYGBPC returns with a pitch to fix deeptech’s real bottleneck: customers** — Score 10, observation — [Quelle](https://e27.co/lkygbpc-returns-with-a-pitch-to-fix-deeptechs-real-bottleneck-customers-20261028/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
