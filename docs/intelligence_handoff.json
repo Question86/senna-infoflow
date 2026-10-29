@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-29T10:19:18Z",
+  "generated_at": "2026-10-29T10:32:15Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Apache Struts 2 RESTプラグインにおける、@StrutsParameterの制限が@JsonAnySetterに適用されない問題” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -39,7 +39,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3875",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-29T09:49:26+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -63,7 +63,7 @@
       "url": "https://internet.watch.impress.co.jp/docs/event/2151590.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-28T22:58:45+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "ai",
         "security",
@@ -91,7 +91,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1530",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-29T09:49:26+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -116,7 +116,7 @@
       "url": "https://restofworld.org/2026/africa-sovereign-ai-off-switch/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-10-29T10:00:00+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai",
         "security"
@@ -144,7 +144,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 132.35,
+      "age_days": 132.36,
       "topics": [
         "ai"
       ],
@@ -163,7 +163,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 132.3d old signal",
+        "aging penalty -8.0 for 132.4d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -173,7 +173,7 @@
       "url": "https://e27.co/the-ai-told-me-to-raise-my-prices-by-40-percent-but-it-had-never-been-to-a-wet-market-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T03:30:01+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "ai",
         "macro"
@@ -200,7 +200,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11352-8c3dc-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-10-29T06:22:00+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai",
         "security"
@@ -228,7 +228,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T03:38:50.890+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "disaster"
       ],
@@ -255,7 +255,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttxn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T07:48:09.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -282,7 +282,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T03:30:28.040+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "disaster"
       ],
@@ -309,7 +309,7 @@
       "url": "https://www.heise.de/news/Angriffe-auf-Linux-und-VMware-ESX-Schwachstellen-11503947.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-29T07:34:00.000+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
