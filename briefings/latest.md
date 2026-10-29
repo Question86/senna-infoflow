@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-29T10:53:40+00:00_
+_Generiert: 2026-10-29T10:59:34+00:00_
 
 ## Kurzlage
 
-45 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
+46 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
