@@ -1,18 +1,25 @@
 {
-  "generated_at": "2026-10-29T14:50:38+00:00",
-  "status": "normal",
+  "generated_at": "2026-10-29T14:56:02+00:00",
+  "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
-  "coverage_confidence": "normal",
+  "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 67,
-    "displayed_findings": 67,
+    "new_relevant_findings": 1,
+    "today_file_total": 68,
+    "displayed_findings": 68,
     "high": 0,
     "medium": 20,
-    "observe": 47,
-    "source_errors": 0
+    "observe": 48,
+    "source_errors": 1
   },
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "twcert_tvn_vulnerability_notes",
+      "source_name": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7fc50b030650>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))"
+    }
+  ],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
 }
