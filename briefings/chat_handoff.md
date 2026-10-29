@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-29T20:29:57+00:00_
+_Generated: 2026-10-29T20:37:33+00:00_
 
 ## Status
 - status: `normal`
-- findings: `81`
+- findings: `83`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-10-29T20:29:57+00:00_
 - url: https://e27.co/the-e27-contributor-programme-using-ai-submitting-and-growing-your-readership-part-2-20261029/
 - summary: Part one of this guide ended with a draft. This one starts there. A finished draft is a bit like a packed suitcase: the hard decisions are made, but you can still leave without your passport. Plenty of good contributor articles stumble in this last stretch, w…
 
-### 8. The 70/30 rule: Why ASEAN banks still need humans as AI takes over
-- source: e27 Asia Startup and Tech Feed
+### 8. CVE-2026-98432 | Ubuntu
+- source: Hatena Bookmark Hotentry IT
 - score: `12`
-- published: `2026-10-29T02:00:57+00:00`
-- url: https://e27.co/the-70-30-rule-why-asean-banks-still-need-humans-as-ai-takes-over-20261028/
-- summary: There was a time when a bank in Southeast Asia could win customers simply by shipping an app that did not crash on payday. That era, a new study suggests, is over. Twimbit, the Singapore-based research and advisory firm, unveiled its inaugural State of CX in…
+- published: `2026-10-29T04:39:46+00:00`
+- url: https://ubuntu.com/security/CVE-2026-98432
+- summary: Description In the Linux kernel, the following vulnerability has been resolved: ipv4: free inet_opt and ireq_opt after an RCU grace period tcp_v4_syn_recv_sock() transfers ownership of ireq->ireq_opt to the child socket (newinet->inet_opt) without copying it.…
 
 END OF DOCUMENT
