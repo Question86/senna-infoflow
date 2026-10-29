@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-29T13:46:50Z",
+  "generated_at": "2026-10-29T14:03:32Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Red Hat Enterprise Linux (libXi, libXrender, ansible-collection-redhat-leapp) und Red Hat Build of Apache Camel for Quarkus: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4187",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-29T11:49:27+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -36,11 +36,35 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux und Red Hat Build of Apache Camel for Quarkus ausnutzen, um einen Denial of Service Angriff durchzuführen, Sicherheitsmaßnahmen zu umgehen, beliebigen Code auszuführen sowie Daten offenzulegen oder zu manipulieren."
     },
     {
+      "title": "[UPDATE] [niedrig] expat: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1448",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-29T13:54:33+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in expat ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
       "title": "[UPDATE] [hoch] Mozilla Firefox, Firefox ESR, und Thunderbird: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4216",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-29T12:57:00+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -64,7 +88,7 @@
       "url": "https://jvn.jp/jp/JVN82782759/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-29T12:00:00+09:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -88,7 +112,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4189",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-29T10:34:25+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -112,7 +136,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3875",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-29T09:49:26+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -136,7 +160,7 @@
       "url": "https://internet.watch.impress.co.jp/docs/event/2151590.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-28T22:58:45+00:00",
-      "age_days": 0.62,
+      "age_days": 0.63,
       "topics": [
         "ai",
         "security",
@@ -164,7 +188,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1530",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-29T09:49:26+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -189,7 +213,7 @@
       "url": "https://restofworld.org/2026/africa-sovereign-ai-off-switch/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-10-29T10:00:00+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai",
         "security"
@@ -217,7 +241,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 132.49,
+      "age_days": 132.5,
       "topics": [
         "ai"
       ],
@@ -246,7 +270,7 @@
       "url": "https://e27.co/the-ai-told-me-to-raise-my-prices-by-40-percent-but-it-had-never-been-to-a-wet-market-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T03:30:01+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "ai",
         "macro"
@@ -273,7 +297,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11352-8c3dc-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-10-29T06:22:00+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "ai",
         "security"
@@ -295,33 +319,6 @@
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": "資安廠商CrowdStrike於2026年10月7日揭露一起涉及韓國金融機構的資料竊取事件，指出攻擊者疑似濫用名為ARTEX的AI輔助滲透測試工具發動攻擊。研究人員從攻擊者的公開目錄，取得ARTEX的相關設定檔與操作紀錄。發現攻擊活動涉及多種大型語言模型及代理伺服器(Proxy)，顯示攻擊者可能運用 AI 工具輔助執行攻擊作業。顯示攻擊者可能運用 AI 工具輔助執行攻擊作業。目前尚未將相關活動歸因至特定進階持續性威脅（Advanced Persistent Threat, APT）組織。 另外，依據韓國金融委員會於2026年10月16日公布的調查報告，當地共有16家金融企業發生資料外洩事件，總計涉及約10萬筆客戶資料。然而，前述事…"
-    },
-    {
-      "title": "M 5.7 - 121 km ENE of Barcelona, Philippines",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw3",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-29T03:38:50.890+00:00",
-      "age_days": 0.42,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: earthquake",
-        "high terms: rce, 10",
-        "security high-signal: rce, 10",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": "PAGER - GREEN ShakeMap - III Time 2026-10-29 03:19:05 UTC 2026-10-29 03:19:05 UTC at epicenter Location 8.474°N 127.492°E Depth 10.00 km (6.21 mi)"
     }
   ],
   "read_order": [
