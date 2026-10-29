@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-29T03:12:56+00:00_
+_Generiert: 2026-10-29T03:23:38+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „Thailand, not just Singapore, is Asia’s quiet AI surprise, says NetSuite’s Amit Suxena“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
+16 neue relevante Treffer. Stärkstes Signal: „Thailand, not just Singapore, is Asia’s quiet AI surprise, says NetSuite’s Amit Suxena“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
