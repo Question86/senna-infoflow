@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T18:31:11+00:00",
-  "run_id": "2026-10-29T18:31:11+00:00",
+  "generated_at": "2026-10-29T18:39:54+00:00",
+  "run_id": "2026-10-29T18:39:54+00:00",
   "date": "2026-10-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 80,
     "displayed_findings": 80,
     "high": 0,
@@ -4009,29 +4009,7 @@
       "id": "9cb71d46823d9fdc5c56"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Webhook IP ranges added to the Meta API",
-      "url": "https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-10-29T17:14:38+00:00",
-      "fetched_at": "2026-10-29T18:30:41+00:00",
-      "summary": "We’re adding IP ranges for GitHub webhook deliveries on github.com. The Meta API now includes these additional ranges in the hooks field. If you maintain a static network allowlist for… The post Webhook IP ranges added to the Meta API appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "AI Agents",
-        "GitHub"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI Agents (+5.0); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "402d7b7f16f18e897907"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
