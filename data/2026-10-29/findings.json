@@ -56,5 +56,26 @@
       "LOW"
     ],
     "id": "c332452473f1c1b682e7"
+  },
+  {
+    "title": "いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと",
+    "url": "https://zenn.dev/nayuta/articles/aec9ab2e11a7b7",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-10-28T13:54:02+00:00",
+    "fetched_at": "2026-10-29T00:56:16+00:00",
+    "summary": "2026年10月、Black October、情報セキュリティの世界は変わってしまった。 2026年10月、情報セキュリティの世界は完全に変わりました。今この10月は Black October （暗黒の10月）と呼ばれ始めており、セキュリティへの関心も高まっています。でも、セキュリティに関わる人はみんなこう思っています。 「確かにもう少し...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "753b256b722ce2d543ed"
   }
 ]
