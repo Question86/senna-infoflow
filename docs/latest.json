@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T10:02:25+00:00",
-  "run_id": "2026-10-29T10:02:25+00:00",
+  "generated_at": "2026-10-29T10:16:15+00:00",
+  "run_id": "2026-10-29T10:16:15+00:00",
   "date": "2026-10-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 42
+      "configured_public_sources_only": 43
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 42,
-    "displayed_findings": 42,
+    "new_relevant_findings": 1,
+    "today_file_total": 43,
+    "displayed_findings": 43,
     "high": 0,
     "medium": 11,
-    "observe": 31,
+    "observe": 32,
     "source_errors": 0
   },
   "sections": {
@@ -656,6 +656,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "1c06bc53c2eb991f63b3"
+      },
+      {
+        "title": "CPMI publishes analysis on how central banks support payment system safety and efficiency and trust in money in the rapidly changing payments ecosystem",
+        "url": "https://www.bis.org/media-releases/20261029-cpmi-publishes-analysis-how-central-banks-support-payment-system-safety-and-efficiency-and",
+        "source": "BIS Press Releases",
+        "source_type": "rss",
+        "published_at": "2026-10-29T00:00:00+00:00",
+        "fetched_at": "2026-10-29T10:15:41+00:00",
+        "summary": "A new report by the BIS Committee on Payments and Market Infrastructures (CPMI) examines how technological innovation, changing user demand and the emergence of new types of payment service providers and arrangements are transforming payment systems.",
+        "matched_keywords": [
+          "central banks",
+          "Macro/Policy"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "Macro/Policy (+6.2); central banks (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0c95a8eb3813b72c14c1"
       },
       {
         "title": "もしあなたの免許証画像が漏洩したら？ 対処法をIPAが公開 相次ぐ不正アクセス受け",
@@ -1793,6 +1814,27 @@
       "id": "1c06bc53c2eb991f63b3"
     },
     {
+      "title": "CPMI publishes analysis on how central banks support payment system safety and efficiency and trust in money in the rapidly changing payments ecosystem",
+      "url": "https://www.bis.org/media-releases/20261029-cpmi-publishes-analysis-how-central-banks-support-payment-system-safety-and-efficiency-and",
+      "source": "BIS Press Releases",
+      "source_type": "rss",
+      "published_at": "2026-10-29T00:00:00+00:00",
+      "fetched_at": "2026-10-29T10:15:41+00:00",
+      "summary": "A new report by the BIS Committee on Payments and Market Infrastructures (CPMI) examines how technological innovation, changing user demand and the emergence of new types of payment service providers and arrangements are transforming payment systems.",
+      "matched_keywords": [
+        "central banks",
+        "Macro/Policy"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "Macro/Policy (+6.2); central banks (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0c95a8eb3813b72c14c1"
+    },
+    {
       "title": "もしあなたの免許証画像が漏洩したら？ 対処法をIPAが公開 相次ぐ不正アクセス受け",
       "url": "https://japan.cnet.com/article/35254062/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2301,45 +2343,25 @@
   ],
   "new_findings": [
     {
-      "title": "ECB President Lagarde to step down on 7 February 2027",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
+      "title": "CPMI publishes analysis on how central banks support payment system safety and efficiency and trust in money in the rapidly changing payments ecosystem",
+      "url": "https://www.bis.org/media-releases/20261029-cpmi-publishes-analysis-how-central-banks-support-payment-system-safety-and-efficiency-and",
+      "source": "BIS Press Releases",
       "source_type": "rss",
-      "published_at": "2026-10-29T10:00:00+00:00",
-      "fetched_at": "2026-10-29T10:01:47+00:00",
-      "summary": "ECB President Lagarde to step down on 7 February 2027",
+      "published_at": "2026-10-29T00:00:00+00:00",
+      "fetched_at": "2026-10-29T10:15:41+00:00",
+      "summary": "A new report by the BIS Committee on Payments and Market Infrastructures (CPMI) examines how technological innovation, changing user demand and the emergence of new types of payment service providers and arrangements are transforming payment systems.",
       "matched_keywords": [
+        "central banks",
         "Macro/Policy"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "relevance_score": 10,
+      "relevance_reason": "Macro/Policy (+6.2); central banks (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "354287d0a92fd020e90b"
-    },
-    {
-      "title": "Why Africa needs its own AI off switch",
-      "url": "https://restofworld.org/2026/africa-sovereign-ai-off-switch/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "source": "Rest of World Global Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-10-29T10:00:00+00:00",
-      "fetched_at": "2026-10-29T10:01:47+00:00",
-      "summary": "Africa must develop AI systems with local control to protect critical infrastructure such as mobile money networks from growing AI-powered cyberthreats.",
-      "matched_keywords": [
-        "Africa",
-        "AI/KI"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "AI/KI (+3.8); Africa (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "eb36afa320bda7b12a69"
+      "id": "0c95a8eb3813b72c14c1"
     }
   ],
   "source_errors": [],
