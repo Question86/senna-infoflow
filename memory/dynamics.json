@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-29T00:43:39Z",
+  "generated_at": "2026-10-29T00:58:50Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 6,
+    "dynamics": 7,
     "bands": {
       "strong": 1,
       "watch": 2,
-      "quiet": 3
+      "quiet": 4
     },
     "bands_after_gate_recheck": {
       "strong": 1,
       "watch": 2,
-      "quiet": 3
+      "quiet": 4
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 131.95,
+      "age_days": 131.96,
       "topics": [
         "ai"
       ],
@@ -41,7 +41,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 131.9d old signal",
+        "aging penalty -8.0 for 132.0d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -51,7 +51,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T00:23:20.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -76,7 +76,7 @@
       "url": "https://japan.cnet.com/article/35254062/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-28T03:14:20+00:00",
-      "age_days": 0.9,
+      "age_days": 0.91,
       "topics": [
         "general"
       ],
@@ -96,11 +96,35 @@
       "summary": "情報処理推進機構（IPA）は10月26日、個人情報の漏えいを知らせる連絡を受けた人に向けて、対処法を公開した。漏れた情報がID・パスワードなのか、クレジットカード情報なのかなどを確認したうえで、情報の種類に応じた対応を取るよう呼びかけている。 漏えいしたIDとパスワードを悪用する「リスト型攻撃」のイメージ。I..."
     },
     {
+      "title": "いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと",
+      "url": "https://zenn.dev/nayuta/articles/aec9ab2e11a7b7",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-28T13:54:02+00:00",
+      "age_days": 0.46,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "2026年10月、Black October、情報セキュリティの世界は変わってしまった。 2026年10月、情報セキュリティの世界は完全に変わりました。今この10月は Black October （暗黒の10月）と呼ばれ始めており、セキュリティへの関心も高まっています。でも、セキュリティに関わる人はみんなこう思っています。 「確かにもう少し..."
+    },
+    {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 130.91,
+      "age_days": 130.92,
       "topics": [
         "general"
       ],
@@ -125,7 +149,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 130.91,
+      "age_days": 130.92,
       "topics": [
         "general"
       ],
@@ -150,7 +174,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 130.91,
+      "age_days": 130.92,
       "topics": [
         "ai"
       ],
