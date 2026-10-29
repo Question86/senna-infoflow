@@ -1,5 +1,29 @@
 [
   {
+    "title": "The AI told me to raise my prices by 40 percent but it had never been to a wet market",
+    "url": "https://e27.co/the-ai-told-me-to-raise-my-prices-by-40-percent-but-it-had-never-been-to-a-wet-market-20261028/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-10-29T03:30:01+00:00",
+    "fetched_at": "2026-10-29T03:32:07+00:00",
+    "summary": "I run OTSATE, a small lemongrass sauce brand in Malaysia. I’m the founder, the cook and the person who does the numbers, so everything below is one operator’s experience, not a benchmark. Most of my admin now runs through Claude Code, an AI agent that works inside a terminal and can read my files and […] The post The AI told me to raise my prices by 40 percent but it had never been to a wet market appeared first on…",
+    "matched_keywords": [
+      "AI Agents",
+      "AI/KI",
+      "APAC Trend Radar",
+      "founder",
+      "Public Health"
+    ],
+    "relevance_score": 22,
+    "relevance_reason": "AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.0); Public Health (+5.0); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "75a7a1af0916134b8605"
+  },
+  {
     "title": "Thailand, not just Singapore, is Asia’s quiet AI surprise, says NetSuite’s Amit Suxena",
     "url": "https://e27.co/thailand-not-just-singapore-is-asias-quiet-ai-surprise-says-netsuites-amit-suxena-20261027/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -21,6 +45,43 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "dd39c3afbf48eb165ff5"
+  },
+  {
+    "title": "M 5.4 - 113 km ENE of Barcelona, Philippines",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw2",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-10-29T03:30:28.040+00:00",
+    "fetched_at": "2026-10-29T03:32:07+00:00",
+    "summary": "Time 2026-10-29 03:17:54 UTC 2026-10-29 03:17:54 UTC at epicenter Location 8.370°N 127.443°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "3b822cfe08e325c47124"
   },
   {
     "title": "Apache Struts 2 RESTプラグインにおける、@StrutsParameterの制限が@JsonAnySetterに適用されない問題",

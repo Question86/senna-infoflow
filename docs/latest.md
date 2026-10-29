@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-29T03:23:38+00:00_
+_Generiert: 2026-10-29T03:32:37+00:00_
 
 ## Kurzlage
 
-16 neue relevante Treffer. Stärkstes Signal: „Thailand, not just Singapore, is Asia’s quiet AI surprise, says NetSuite’s Amit Suxena“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
+18 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **The AI told me to raise my prices by 40 percent but it had never been to a wet market** — Score 22, observation — [Quelle](https://e27.co/the-ai-told-me-to-raise-my-prices-by-40-percent-but-it-had-never-been-to-a-wet-market-20261028/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-29T03:30:01+00:00`, fetched `2026-10-29T03:32:07+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, founder, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.0); Public Health (+5.0); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)
+  - Kurz: I run OTSATE, a small lemongrass sauce brand in Malaysia. I’m the founder, the cook and the person who does the numbers, so everything below is one operator’s experience, not a benchmark. Most of my admin now runs through Claude Code, an AI agent that works inside a terminal and can read my files and […] The post The AI told me to raise my prices by 40 percent but it had never been to a wet market appeared first on…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Thailand, not just Singapore, is Asia’s quiet AI surprise, says NetSuite’s Amit Suxena** — Score 22, observation — [Quelle](https://e27.co/thailand-not-just-singapore-is-asias-quiet-ai-surprise-says-netsuites-amit-suxena-20261027/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-29T01:00:36+00:00`, fetched `2026-10-29T01:03:08+00:00`
@@ -21,6 +30,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Public Health (+5.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph region southeast_asia: Singapore, Thailand (+2.0); watchgraph region china_credible_only: China (+2.0)
   - Kurz: Ask a typical AI assistant a question and it answers. Amit Suxena thinks that is already yesterday’s AI. “You don’t need AI where I ask a question and get an answer. I think that’s already passed,” says the GVP and Head of NetSuite Asia, who oversees Southeast Asia, the Indian subcontinent and Greater China for […] The post Thailand, not just Singapore, is Asia’s quiet AI surprise, says NetSuite’s Amit Suxena appear…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.4 - 113 km ENE of Barcelona, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw2)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-29T03:30:28.040+00:00`, fetched `2026-10-29T03:32:07+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-29 03:17:54 UTC 2026-10-29 03:17:54 UTC at epicenter Location 8.370°N 127.443°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Apache Struts 2 RESTプラグインにおける、@StrutsParameterの制限が@JsonAnySetterに適用されない問題** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN82782759/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-10-29T12:00:00+09:00`, fetched `2026-10-29T03:12:25+00:00`
