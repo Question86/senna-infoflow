@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T15:49:16+00:00",
-  "run_id": "2026-10-29T15:49:16+00:00",
+  "generated_at": "2026-10-29T15:54:50+00:00",
+  "run_id": "2026-10-29T15:54:50+00:00",
   "date": "2026-10-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 74
+      "configured_public_sources_only": 75
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 74,
-    "displayed_findings": 74,
+    "new_relevant_findings": 1,
+    "today_file_total": 75,
+    "displayed_findings": 75,
     "high": 0,
     "medium": 20,
-    "observe": 54,
+    "observe": 55,
     "source_errors": 0
   },
   "sections": {
@@ -1389,6 +1389,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "87addba92d1c42d20829"
+      },
+      {
+        "title": "Piero Cipollone: Next-day securities settlement, tokenisation and the transformation of Europe’s financial infrastructure",
+        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261029~e9b57c3495.en.html",
+        "source": "ECB Press Releases Speeches Interviews",
+        "source_type": "rss",
+        "published_at": "2026-10-29T15:50:00+00:00",
+        "fetched_at": "2026-10-29T15:54:19+00:00",
+        "summary": "Piero Cipollone: Next-day securities settlement, tokenisation and the transformation of Europe’s financial infrastructure",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ec39d96a53e2e088ed81"
       },
       {
         "title": "AIのコード解析を妨害するために「天安門事件」「台湾独立」「水道水に毒物混入」などのフレーズを大量に混入させる手法が発見される",
@@ -3256,6 +3276,26 @@
       "id": "87addba92d1c42d20829"
     },
     {
+      "title": "Piero Cipollone: Next-day securities settlement, tokenisation and the transformation of Europe’s financial infrastructure",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261029~e9b57c3495.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-10-29T15:50:00+00:00",
+      "fetched_at": "2026-10-29T15:54:19+00:00",
+      "summary": "Piero Cipollone: Next-day securities settlement, tokenisation and the transformation of Europe’s financial infrastructure",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ec39d96a53e2e088ed81"
+    },
+    {
       "title": "AIのコード解析を妨害するために「天安門事件」「台湾独立」「水道水に毒物混入」などのフレーズを大量に混入させる手法が発見される",
       "url": "https://gigazine.net/news/20261029-anti-ai-words-in-script/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3759,7 +3799,28 @@
       "id": "304d967e1e0badc9f340"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Piero Cipollone: Next-day securities settlement, tokenisation and the transformation of Europe’s financial infrastructure",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261029~e9b57c3495.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-10-29T15:50:00+00:00",
+      "fetched_at": "2026-10-29T15:54:19+00:00",
+      "summary": "Piero Cipollone: Next-day securities settlement, tokenisation and the transformation of Europe’s financial infrastructure",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ec39d96a53e2e088ed81"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
