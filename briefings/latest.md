@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-29T03:32:37+00:00_
+_Generiert: 2026-10-29T03:40:19+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
+20 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -57,6 +57,14 @@ _Generiert: 2026-10-29T03:32:37+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu 27/10/2026 08:55 UTC, 1 thousand in MMI III.
+- **USGS earthquake M5.7 - 82 km NE of Kiunga, Papua New Guinea** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw5)
+  - Quelle: USGS
+  - Zeit: `2026-10-29T03:26:42+00:00`
+  - Kurz: M5.7 - 82 km NE of Kiunga, Papua New Guinea. PAGER alert: none. Tsunami flag: 0.
+- **USGS earthquake M5.7 - 121 km ENE of Barcelona, Philippines** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw3)
+  - Quelle: USGS
+  - Zeit: `2026-10-29T03:19:05+00:00`
+  - Kurz: M5.7 - 121 km ENE of Barcelona, Philippines. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -91,6 +99,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Public Health (+5.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph region southeast_asia: Singapore, Thailand (+2.0); watchgraph region china_credible_only: China (+2.0)
   - Kurz: Ask a typical AI assistant a question and it answers. Amit Suxena thinks that is already yesterday’s AI. “You don’t need AI where I ask a question and get an answer. I think that’s already passed,” says the GVP and Head of NetSuite Asia, who oversees Southeast Asia, the Indian subcontinent and Greater China for […] The post Thailand, not just Singapore, is Asia’s quiet AI surprise, says NetSuite’s Amit Suxena appear…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.7 - 121 km ENE of Barcelona, Philippines** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw3)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-29T03:38:50.890+00:00`, fetched `2026-10-29T03:39:47+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - III Time 2026-10-29 03:19:05 UTC 2026-10-29 03:19:05 UTC at epicenter Location 8.474°N 127.492°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.4 - 113 km ENE of Barcelona, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw2)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-29T03:30:28.040+00:00`, fetched `2026-10-29T03:32:07+00:00`
@@ -175,6 +192,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 情報処理推進機構（IPA）は10月26日、個人情報の漏えいを知らせる連絡を受けた人に向けて、対処法を公開した。漏れた情報がID・パスワードなのか、クレジットカード情報なのかなどを確認したうえで、情報の種類に応じた対応を取るよう呼びかけている。 漏えいしたIDとパスワードを悪用する「リスト型攻撃」のイメージ。I...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.7 - 82 km NE of Kiunga, Papua New Guinea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw5)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-29T03:39:42.040+00:00`, fetched `2026-10-29T03:39:47+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-29 03:26:42 UTC 2026-10-29 03:26:42 UTC at epicenter Location 5.699°S 141.902°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.8 - 36 km SSW of Merizo Village, Guam** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvy)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-29T02:33:40.040+00:00`, fetched `2026-10-29T02:35:24+00:00`
@@ -183,15 +209,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-29 02:18:21 UTC 2026-10-29 02:18:21 UTC at epicenter Location 12.948°N 144.582°E Depth 70.24 km (43.64 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.9 - 117 km E of Port-Olry, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvn)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-29T01:13:11.040+00:00`, fetched `2026-10-29T01:17:13+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-29 00:57:36 UTC 2026-10-29 00:57:36 UTC at epicenter Location 15.023°S 168.164°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **【やじうまミニレビュー】徘徊に悩んだ筆者が思う「あの時これがあれば」。AirTag入りインソール - PC Watch** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2152066.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-29T03:32:37+00:00_
+_Generated: 2026-10-29T03:40:19+00:00_
 
 ## Status
 - status: `normal`
-- findings: `18`
+- findings: `20`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-10-29T03:32:37+00:00_
 - url: https://e27.co/thailand-not-just-singapore-is-asias-quiet-ai-surprise-says-netsuites-amit-suxena-20261027/
 - summary: Ask a typical AI assistant a question and it answers. Amit Suxena thinks that is already yesterday’s AI. “You don’t need AI where I ask a question and get an answer. I think that’s already passed,” says the GVP and Head of NetSuite Asia, who oversees Southeas…
 
-### 3. M 5.4 - 113 km ENE of Barcelona, Philippines
+### 3. M 5.7 - 121 km ENE of Barcelona, Philippines
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `19`
+- published: `2026-10-29T03:38:50.890+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw3
+- summary: PAGER - GREEN ShakeMap - III Time 2026-10-29 03:19:05 UTC 2026-10-29 03:19:05 UTC at epicenter Location 8.474°N 127.492°E Depth 10.00 km (6.21 mi)
+
+### 4. M 5.4 - 113 km ENE of Barcelona, Philippines
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-10-29T03:30:28.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw2
 - summary: Time 2026-10-29 03:17:54 UTC 2026-10-29 03:17:54 UTC at epicenter Location 8.370°N 127.443°E Depth 10.00 km (6.21 mi)
-
-### 4. Apache Struts 2 RESTプラグインにおける、@StrutsParameterの制限が@JsonAnySetterに適用されない問題
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-10-29T12:00:00+09:00`
-- url: https://jvn.jp/jp/JVN82782759/
-- summary: The Apache Software Foundationが提供するApache Struts 2のRESTプラグインには、Jacksonの @JsonAnySetter が指定されたフィールドやメソッドに対して @StrutsParameter の制限が行われない問題が存在します。
 
 ### 5. The 70/30 rule: Why ASEAN banks still need humans as AI takes over
 - source: e27 Asia Startup and Tech Feed
