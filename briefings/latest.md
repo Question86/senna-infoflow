@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-29T07:37:59+00:00_
+_Generiert: 2026-10-29T07:43:51+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
+32 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -228,6 +228,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-29 05:33:36 UTC 2026-10-29 05:33:36 UTC at epicenter Location 61.328°S 161.164°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Angriffe auf Linux- und VMware-ESX-Schwachstellen** — Score 7, observation — [Quelle](https://www.heise.de/news/Angriffe-auf-Linux-und-VMware-ESX-Schwachstellen-11503947.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-10-29T07:34:00.000+00:00`, fetched `2026-10-29T07:43:20+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Die IT-Sicherheitsbehörde CISA warnt vor Angriffen auf Lecks im Linux-Kernel und VMware ESX. Dieses Mal sind Hintergründe bekannt.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **10月28日（水）、英国とデジタル政府分野における協力覚書を取り交わしました** — Score 6, observation — [Quelle](https://www.digital.go.jp/press/605c1671-b6ad-4f31-94b7-b586675d65a4)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-10-29T06:00:00+00:00`, fetched `2026-10-29T06:17:55+00:00`
