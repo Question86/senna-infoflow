@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-29T05:23:28+00:00",
+  "generated_at": "2026-10-29T05:30:01+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 24,
-    "displayed_findings": 24,
+    "new_relevant_findings": 1,
+    "today_file_total": 25,
+    "displayed_findings": 25,
     "high": 0,
     "medium": 6,
-    "observe": 18
+    "observe": 19
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -55,6 +55,16 @@
       "section": "medium"
     },
     {
+      "title": "M 5.6 - South Sandwich Islands region",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-10-29T05:28:13.664+00:00",
+      "relevance_score": 13,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttx0",
+      "summary": "PAGER - GREEN ShakeMap - III Time 2026-10-29 05:06:48 UTC 2026-10-29 05:06:48 UTC at epicenter Location 60.342°S 28.014°W Depth 10.00 km (6.21 mi)",
+      "section": "observe"
+    },
+    {
       "title": "The e27 Contributor Programme: Using AI, submitting, and growing your readership — Part 2",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 12,
       "url": "https://internet.watch.impress.co.jp/docs/event/2151590.html",
       "summary": "VPNがあるのは外から分かるので狙われる。パッチ当てはもう自動化するしかない――日本ハッカー協会・杉浦隆幸代表理事が語る、AI時代のランサムウェア対処策【Security Days Fall 2026】",
-      "section": "observe"
-    },
-    {
-      "title": "M 4.8 - western Indian-Antarctic Ridge",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-29T01:23:11.040+00:00",
-      "relevance_score": 11,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvs",
-      "summary": "Time 2026-10-29 01:07:04 UTC 2026-10-29 01:07:04 UTC at epicenter Location 50.269°S 139.409°E Depth 10.00 km (6.21 mi)",
       "section": "observe"
     }
   ],

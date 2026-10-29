@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-29T05:23:28+00:00_
+_Generiert: 2026-10-29T05:30:01+00:00_
 
 ## Kurzlage
 
-24 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
+25 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -61,6 +61,10 @@ _Generiert: 2026-10-29T05:23:28+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Vanuatu Islands 28/10/2026 01:39 UTC, [unknown].
+- **USGS earthquake M5.6 - South Sandwich Islands region** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttx0)
+  - Quelle: USGS
+  - Zeit: `2026-10-29T05:06:48+00:00`
+  - Kurz: M5.6 - South Sandwich Islands region. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -134,6 +138,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 5.6 - South Sandwich Islands region** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttx0)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-29T05:28:13.664+00:00`, fetched `2026-10-29T05:29:30+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - III Time 2026-10-29 05:06:48 UTC 2026-10-29 05:06:48 UTC at epicenter Location 60.342°S 28.014°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **The e27 Contributor Programme: Using AI, submitting, and growing your readership — Part 2** — Score 13, observation — [Quelle](https://e27.co/the-e27-contributor-programme-using-ai-submitting-and-growing-your-readership-part-2-20261029/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-29T04:30:22+00:00`, fetched `2026-10-29T04:36:59+00:00`
@@ -196,15 +209,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-29 03:26:42 UTC 2026-10-29 03:26:42 UTC at epicenter Location 5.699°S 141.902°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.8 - 36 km SSW of Merizo Village, Guam** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvy)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-29T02:33:40.040+00:00`, fetched `2026-10-29T02:35:24+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-29 02:18:21 UTC 2026-10-29 02:18:21 UTC at epicenter Location 12.948°N 144.582°E Depth 70.24 km (43.64 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **渦中のGMO、熊谷代表の発信は“火に油”か？ 「経営トップが自ら広報」の功罪** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2610/29/2000002674/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
