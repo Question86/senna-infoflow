@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-29T07:15:39+00:00_
+_Generiert: 2026-10-29T07:25:06+00:00_
 
 ## Kurzlage
 
@@ -29,10 +29,10 @@ _Generiert: 2026-10-29T07:15:39+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-26`
   - Kurz: Known exploited vulnerability. Added 2026-10-26. Due 2026-10-29. PHP Memory Corruption Vulnerability
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in South Sandwich Islands Region 29/10/2026 05:06 UTC, No people affected in 100km.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574489)
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in South Sandwich Islands Region 29/10/2026 05:06 UTC, [unknown].** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574489)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in South Sandwich Islands Region 29/10/2026 05:06 UTC, No people affected in 100km.
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in South Sandwich Islands Region 29/10/2026 05:06 UTC, [unknown].
 - **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Papua New Guinea 29/10/2026 03:26 UTC, Few people affected (in MMI&gt;=VII).** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574467)
   - Quelle: GDACS
   - Zeit: ``
