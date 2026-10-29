@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-29T04:22:18Z",
+  "generated_at": "2026-10-29T04:33:10Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 27,
@@ -47,7 +47,7 @@
       "url": "https://internet.watch.impress.co.jp/docs/event/2151590.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-28T22:58:45+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai",
         "security",
@@ -75,7 +75,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 132.1,
+      "age_days": 132.11,
       "topics": [
         "ai"
       ],
@@ -131,7 +131,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T03:38:50.890+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -185,7 +185,7 @@
       "url": "https://e27.co/the-70-30-rule-why-asean-banks-still-need-humans-as-ai-takes-over-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T02:00:57+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -212,7 +212,7 @@
       "url": "https://e27.co/bitcoin-rebounds-to-us81000-but-faces-weakest-october-in-6-years-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T03:49:09+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "macro"
@@ -238,7 +238,7 @@
       "url": "https://e27.co/thailand-not-just-singapore-is-asias-quiet-ai-surprise-says-netsuites-amit-suxena-20261027/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T01:00:36+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -264,7 +264,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T01:23:11.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -314,7 +314,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T01:13:11.040+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -388,7 +388,7 @@
       "url": "https://e27.co/every-department-you-add-makes-your-startup-harder-to-understand-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T01:00:45+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -436,7 +436,7 @@
       "url": "https://e27.co/how-to-use-ai-in-marketing-without-opening-a-single-dashboard-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T02:00:22+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "macro"
@@ -463,7 +463,7 @@
       "url": "https://e27.co/hong-kong-has-no-gigafactories-but-it-wants-a-cut-of-asias-us5t-battery-boom-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T04:04:16+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "general"
       ],
@@ -487,7 +487,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002674/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-29T01:46:44+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -511,7 +511,7 @@
       "url": "https://zenn.dev/nayuta/articles/aec9ab2e11a7b7",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-28T13:54:02+00:00",
-      "age_days": 0.6,
+      "age_days": 0.61,
       "topics": [
         "general"
       ],
@@ -535,7 +535,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T03:39:42.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "disaster"
@@ -589,7 +589,7 @@
       "url": "https://e27.co/fingular-secures-us20m-debt-line-to-bet-on-malaysias-near-prime-borrowers-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T02:43:20+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -615,7 +615,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 131.06,
+      "age_days": 131.07,
       "topics": [
         "general"
       ],
@@ -640,7 +640,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 131.06,
+      "age_days": 131.07,
       "topics": [
         "general"
       ],
@@ -665,7 +665,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 131.06,
+      "age_days": 131.07,
       "topics": [
         "ai"
       ],
@@ -692,7 +692,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2152066.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-28T23:01:41+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
