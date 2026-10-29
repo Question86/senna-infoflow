@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T02:35:53+00:00",
-  "run_id": "2026-10-29T02:35:53+00:00",
+  "generated_at": "2026-10-29T02:42:28+00:00",
+  "run_id": "2026-10-29T02:42:28+00:00",
   "date": "2026-10-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 10,
     "displayed_findings": 10,
     "high": 0,
@@ -587,44 +587,7 @@
       "id": "753b256b722ce2d543ed"
     }
   ],
-  "new_findings": [
-    {
-      "title": "M 4.8 - 36 km SSW of Merizo Village, Guam",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvy",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-10-29T02:33:40.040+00:00",
-      "fetched_at": "2026-10-29T02:35:24+00:00",
-      "summary": "Time 2026-10-29 02:18:21 UTC 2026-10-29 02:18:21 UTC at epicenter Location 12.948°N 144.582°E Depth 70.24 km (43.64 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "8d010d18ef3a3e0712d5"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
