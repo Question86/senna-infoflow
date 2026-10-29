@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-29T05:53:55+00:00_
+_Generiert: 2026-10-29T05:59:01+00:00_
 
 ## Kurzlage
 
@@ -29,46 +29,12 @@ _Generiert: 2026-10-29T05:53:55+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-26`
   - Kurz: Known exploited vulnerability. Added 2026-10-26. Due 2026-10-29. PHP Memory Corruption Vulnerability
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in South Sandwich Islands Region 29/10/2026 05:06 UTC, No people affected in 100km.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574489)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in South Sandwich Islands Region 29/10/2026 05:06 UTC, No people affected in 100km.
-- **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Papua New Guinea 29/10/2026 03:26 UTC, Few people affected (in MMI&gt;=VII).** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574467)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.7M, Depth:10km) in Papua New Guinea 29/10/2026 03:26 UTC, Few people affected (in MMI&gt;=VII).
-- **GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in Philippines 29/10/2026 03:19 UTC, 7 thousand in MMI IV.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574466)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in Philippines 29/10/2026 03:19 UTC, 7 thousand in MMI IV.
-- **GDACS: Green earthquake (Magnitude 5.7M, Depth:142km) in Indonesia 28/10/2026 22:06 UTC, Few people affected in MMI III.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574426)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.7M, Depth:142km) in Indonesia 28/10/2026 22:06 UTC, Few people affected in MMI III.
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:41.356km) in Japan 28/10/2026 15:07 UTC, 100 thousand in MMI V.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574369)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:41.356km) in Japan 28/10/2026 15:07 UTC, 100 thousand in MMI V.
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Reykjanes Ridge 28/10/2026 11:37 UTC, [unknown].** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574329)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Reykjanes Ridge 28/10/2026 11:37 UTC, [unknown].
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Vanuatu 28/10/2026 02:59 UTC, 3 thousand in MMI III.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574271)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Vanuatu 28/10/2026 02:59 UTC, 3 thousand in MMI III.
-- **GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu Islands 28/10/2026 02:21 UTC, [unknown].** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574265)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu Islands 28/10/2026 02:21 UTC, [unknown].
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Vanuatu Islands 28/10/2026 01:39 UTC, [unknown].** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574251)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Vanuatu Islands 28/10/2026 01:39 UTC, [unknown].
 - **USGS earthquake M5.6 - South Sandwich Islands region** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttx0)
   - Quelle: USGS
   - Zeit: `2026-10-29T05:06:48+00:00`
   - Kurz: M5.6 - South Sandwich Islands region. PAGER alert: green. Tsunami flag: 0.
+
+- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f52238f2990>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
 
 ## Wirtschaft global
 
@@ -235,4 +201,4 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Quellenfehler
 
-- `bsi_cert_bund_csw` (rss): 502 Server Error: Bad Gateway for url: https://www.bsi.bund.de/error_path/502.html?al_req_id=auLfYOrzLpKvZb6Bhao0ZQAAAvc
+- `bsi_cert_bund_csw` (rss): 502 Server Error: Bad Gateway for url: https://www.bsi.bund.de/error_path/502.html?al_req_id=auLgkjXd_lVDbUgzK4MUMgAAB-M

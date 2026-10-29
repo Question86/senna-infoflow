@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-29T05:53:55+00:00_
+_Generiert: 2026-10-29T05:59:01+00:00_
 
 ## Kurzlage
 
@@ -162,4 +162,4 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Quellenfehler
 
-- `bsi_cert_bund_csw` (rss): 502 Server Error: Bad Gateway for url: https://www.bsi.bund.de/error_path/502.html?al_req_id=auLfYOrzLpKvZb6Bhao0ZQAAAvc
+- `bsi_cert_bund_csw` (rss): 502 Server Error: Bad Gateway for url: https://www.bsi.bund.de/error_path/502.html?al_req_id=auLgkjXd_lVDbUgzK4MUMgAAB-M
