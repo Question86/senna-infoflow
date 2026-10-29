@@ -648,6 +648,26 @@
     "id": "969b7c8020f88fc28cc2"
   },
   {
+    "title": "ECB President Lagarde to step down on 7 February 2027",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html",
+    "source": "ECB Press Releases Speeches Interviews",
+    "source_type": "rss",
+    "published_at": "2026-10-29T10:00:00+00:00",
+    "fetched_at": "2026-10-29T10:01:47+00:00",
+    "summary": "ECB President Lagarde to step down on 7 February 2027",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "354287d0a92fd020e90b"
+  },
+  {
     "title": "M 4.6 - 41 km W of Mosteiros, Portugal",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tty0",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -904,6 +924,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "2ed97d85720729c47ad9"
+  },
+  {
+    "title": "Why Africa needs its own AI off switch",
+    "url": "https://restofworld.org/2026/africa-sovereign-ai-off-switch/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "source": "Rest of World Global Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-10-29T10:00:00+00:00",
+    "fetched_at": "2026-10-29T10:01:47+00:00",
+    "summary": "Africa must develop AI systems with local control to protect critical infrastructure such as mobile money networks from growing AI-powered cyberthreats.",
+    "matched_keywords": [
+      "Africa",
+      "AI/KI"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "AI/KI (+3.8); Africa (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "eb36afa320bda7b12a69"
   },
   {
     "title": "Angriffe auf Linux- und VMware-ESX-Schwachstellen",
