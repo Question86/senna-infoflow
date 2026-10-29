@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-29T03:40:19+00:00_
+_Generiert: 2026-10-29T03:45:56+00:00_
 
 ## Kurzlage
 
-20 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
+20 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -60,7 +60,7 @@ _Generiert: 2026-10-29T03:40:19+00:00_
 - **USGS earthquake M5.7 - 82 km NE of Kiunga, Papua New Guinea** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw5)
   - Quelle: USGS
   - Zeit: `2026-10-29T03:26:42+00:00`
-  - Kurz: M5.7 - 82 km NE of Kiunga, Papua New Guinea. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M5.7 - 82 km NE of Kiunga, Papua New Guinea. PAGER alert: green. Tsunami flag: 0.
 - **USGS earthquake M5.7 - 121 km ENE of Barcelona, Philippines** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw3)
   - Quelle: USGS
   - Zeit: `2026-10-29T03:19:05+00:00`
@@ -228,3 +228,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f580cdddad0>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))

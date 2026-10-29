@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T03:40:30+00:00",
+  "generated_at": "2026-10-29T03:46:01+00:00",
   "sections": {
     "global_security": [
       {
@@ -136,13 +136,13 @@
         "domain": "security",
         "severity": "watch",
         "title": "USGS earthquake M5.7 - 82 km NE of Kiunga, Papua New Guinea",
-        "summary": "M5.7 - 82 km NE of Kiunga, Papua New Guinea. PAGER alert: none. Tsunami flag: 0.",
+        "summary": "M5.7 - 82 km NE of Kiunga, Papua New Guinea. PAGER alert: green. Tsunami flag: 0.",
         "source": "USGS",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw5",
         "published_at": "2026-10-29T03:26:42+00:00",
         "metrics": {
           "mag": 5.7,
-          "alert": "",
+          "alert": "green",
           "sig": 500.0,
           "tsunami": 0
         }
