@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-29T08:20:45+00:00_
+_Generiert: 2026-10-29T08:31:17+00:00_
 
 ## Kurzlage
 
@@ -29,14 +29,14 @@ _Generiert: 2026-10-29T08:20:45+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-26`
   - Kurz: Known exploited vulnerability. Added 2026-10-26. Due 2026-10-29. PHP Memory Corruption Vulnerability
+- **GDACS: Green earthquake (Magnitude 6.4M, Depth:10km) in Southeast Of Easter Island 29/10/2026 07:49 UTC, [unknown].** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574517)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6.4M, Depth:10km) in Southeast Of Easter Island 29/10/2026 07:49 UTC, [unknown].
 - **USGS earthquake M6.4 - southeast of Easter Island** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttxz)
   - Quelle: USGS
   - Zeit: `2026-10-29T07:49:50+00:00`
   - Kurz: M6.4 - southeast of Easter Island. PAGER alert: green. Tsunami flag: 0.
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in South Sandwich Islands Region 29/10/2026 05:06 UTC, [unknown].** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574489)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in South Sandwich Islands Region 29/10/2026 05:06 UTC, [unknown].
 - **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Papua New Guinea 29/10/2026 03:26 UTC, Few people affected (in MMI&gt;=VII).** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574467)
   - Quelle: GDACS
   - Zeit: ``
