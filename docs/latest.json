@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T11:38:03+00:00",
-  "run_id": "2026-10-29T11:38:03+00:00",
+  "generated_at": "2026-10-29T11:43:11+00:00",
+  "run_id": "2026-10-29T11:43:11+00:00",
   "date": "2026-10-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 48,
     "displayed_findings": 48,
     "high": 0,
@@ -2583,28 +2583,7 @@
       "id": "f534e07fb2dd66ad0366"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Angriffsversuche auf junge Lücke in Oracle E-Business-Suite",
-      "url": "https://www.heise.de/news/Angriffsversuche-auf-junge-Luecke-in-Oracle-E-Business-Suite-11504666.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-10-29T11:29:00.000+00:00",
-      "fetched_at": "2026-10-29T11:37:32+00:00",
-      "summary": "Oracle hat mit dem Oktober-CPU auch Lücken in der E-Business-Suite geschlossen. Nun sehen IT-Forscher erste Angriffsversuche.",
-      "matched_keywords": [
-        "Security"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "20bff3d330f629e481b7"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
