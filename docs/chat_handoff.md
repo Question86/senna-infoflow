@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-29T04:29:35+00:00_
+_Generated: 2026-10-29T04:37:31+00:00_
 
 ## Status
 - status: `normal`
-- findings: `23`
+- findings: `24`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-10-29T04:29:35+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw2
 - summary: Time 2026-10-29 03:17:54 UTC 2026-10-29 03:17:54 UTC at epicenter Location 8.370°N 127.443°E Depth 10.00 km (6.21 mi)
 
-### 5. The 70/30 rule: Why ASEAN banks still need humans as AI takes over
+### 5. The e27 Contributor Programme: Using AI, submitting, and growing your readership — Part 2
+- source: e27 Asia Startup and Tech Feed
+- score: `13`
+- published: `2026-10-29T04:30:22+00:00`
+- url: https://e27.co/the-e27-contributor-programme-using-ai-submitting-and-growing-your-readership-part-2-20261029/
+- summary: Part one of this guide ended with a draft. This one starts there. A finished draft is a bit like a packed suitcase: the hard decisions are made, but you can still leave without your passport. Plenty of good contributor articles stumble in this last stretch, w…
+
+### 6. The 70/30 rule: Why ASEAN banks still need humans as AI takes over
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-10-29T02:00:57+00:00`
 - url: https://e27.co/the-70-30-rule-why-asean-banks-still-need-humans-as-ai-takes-over-20261028/
 - summary: There was a time when a bank in Southeast Asia could win customers simply by shipping an app that did not crash on payday. That era, a new study suggests, is over. Twimbit, the Singapore-based research and advisory firm, unveiled its inaugural State of CX in…
 
-### 6. VPNがあるのは外から分かるので狙われる。パッチ当てはもう自動化するしかない――日本ハッカー協会・杉浦隆幸代表理事が語る、AI時代のランサムウェア対処策【Security Days Fall 2026】
+### 7. VPNがあるのは外から分かるので狙われる。パッチ当てはもう自動化するしかない――日本ハッカー協会・杉浦隆幸代表理事が語る、AI時代のランサムウェア対処策【Security Days Fall 2026】
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-10-28T22:58:45+00:00`
 - url: https://internet.watch.impress.co.jp/docs/event/2151590.html
 - summary: VPNがあるのは外から分かるので狙われる。パッチ当てはもう自動化するしかない――日本ハッカー協会・杉浦隆幸代表理事が語る、AI時代のランサムウェア対処策【Security Days Fall 2026】
 
-### 7. M 4.8 - western Indian-Antarctic Ridge
+### 8. M 4.8 - western Indian-Antarctic Ridge
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-10-29T01:23:11.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvs
 - summary: Time 2026-10-29 01:07:04 UTC 2026-10-29 01:07:04 UTC at epicenter Location 50.269°S 139.409°E Depth 10.00 km (6.21 mi)
-
-### 8. Malaysian SMEs are comparing the wrong number when they buy a website
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-10-29T03:00:51+00:00`
-- url: https://e27.co/malaysian-smes-are-comparing-the-wrong-number-when-they-buy-a-website-20261025/
-- summary: Most small business owners I speak to compare website quotes the same way: they line up the first invoice and pick the lowest. It feels sensible. It’s also how many end up paying several times more than they planned. In October 2026 we looked at the published…
 
 END OF DOCUMENT

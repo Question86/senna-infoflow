@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-29T04:29:35+00:00_
+_Generiert: 2026-10-29T04:37:31+00:00_
 
 ## Kurzlage
 
-23 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
+24 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -134,6 +134,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **The e27 Contributor Programme: Using AI, submitting, and growing your readership — Part 2** — Score 13, observation — [Quelle](https://e27.co/the-e27-contributor-programme-using-ai-submitting-and-growing-your-readership-part-2-20261029/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-29T04:30:22+00:00`, fetched `2026-10-29T04:36:59+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Content-Chance
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Content-Chance (+5.0); recent (+1.0)
+  - Kurz: Part one of this guide ended with a draft. This one starts there. A finished draft is a bit like a packed suitcase: the hard decisions are made, but you can still leave without your passport. Plenty of good contributor articles stumble in this last stretch, with an AI edit that sanded away the author’s […] The post The e27 Contributor Programme: Using AI, submitting, and growing your readership — Part 2 appeared fir…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The 70/30 rule: Why ASEAN banks still need humans as AI takes over** — Score 12, opportunity — [Quelle](https://e27.co/the-70-30-rule-why-asean-banks-still-need-humans-as-ai-takes-over-20261028/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-29T02:00:57+00:00`, fetched `2026-10-29T02:14:21+00:00`
@@ -169,15 +178,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Webentwicklung (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)
   - Kurz: Most small business owners I speak to compare website quotes the same way: they line up the first invoice and pick the lowest. It feels sensible. It’s also how many end up paying several times more than they planned. In October 2026 we looked at the published prices of popular website packages in Malaysia and […] The post Malaysian SMEs are comparing the wrong number when they buy a website appeared first on e27 .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Every department you add makes your startup harder to understand** — Score 10, observation — [Quelle](https://e27.co/every-department-you-add-makes-your-startup-harder-to-understand-20261025/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-29T01:00:45+00:00`, fetched `2026-10-29T01:03:08+00:00`
-  - Treffer: APAC Trend Radar, founder, Webentwicklung
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Webentwicklung (+3.0); APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0)
-  - Kurz: Open 10 startup websites. Cover the logos. Shuffle the pages. Nothing breaks. “Revolutionising how finance works.” “Trusted by industry leaders.” Nobody asks which leaders. The usual diagnosis is lazy copywriting. It lets the founder off. The real cause is worse: she did everything right. Imagine a Series A software company. Watch one sentence travel through […] The post Every department you add makes your startup h…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **もしあなたの免許証画像が漏洩したら？ 対処法をIPAが公開 相次ぐ不正アクセス受け** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35254062/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
