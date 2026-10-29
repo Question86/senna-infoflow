@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-10-29T06:29:23Z",
+  "generated_at": "2026-10-29T06:45:20Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -43,6 +43,11 @@
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     },
     {
+      "title": "駭客利用AI滲透測試工具ARTEX竊取韓國金融業資料",
+      "band": "strong",
+      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
+    },
+    {
       "title": "M 5.7 - 121 km ENE of Barcelona, Philippines",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
@@ -54,11 +59,6 @@
     },
     {
       "title": "Bitcoin rebounds to US$81,000 but faces weakest October in 6 years",
-      "band": "strong",
-      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
-    },
-    {
-      "title": "The 70/30 rule: Why ASEAN banks still need humans as AI takes over",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     }
