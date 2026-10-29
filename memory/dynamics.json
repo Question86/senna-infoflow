@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-29T10:32:15Z",
+  "generated_at": "2026-10-29T10:46:35Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 3,
-      "strong": 14,
+      "strong": 15,
       "watch": 14,
-      "quiet": 9
+      "quiet": 8
     },
     "bands_after_gate_recheck": {
-      "strong": 17,
+      "strong": 18,
       "watch": 14,
-      "quiet": 9
+      "quiet": 8
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/jp/JVN82782759/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-29T12:00:00+09:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -43,11 +43,35 @@
       "summary": "The Apache Software Foundationが提供するApache Struts 2のRESTプラグインには、Jacksonの @JsonAnySetter が指定されたフィールドやメソッドに対して @StrutsParameter の制限が行われない問題が存在します。"
     },
     {
+      "title": "[NEU] [hoch] Python: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4189",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-29T10:34:25+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Python ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, Sicherheitsvorkehrungen zu umgehen oder Dateien zu manipulieren."
+    },
+    {
       "title": "[UPDATE] [mittel] MLflow: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3875",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-29T09:49:26+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -71,7 +95,7 @@
       "url": "https://internet.watch.impress.co.jp/docs/event/2151590.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-28T22:58:45+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "ai",
         "security",
@@ -99,7 +123,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1530",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-29T09:49:26+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -124,7 +148,7 @@
       "url": "https://restofworld.org/2026/africa-sovereign-ai-off-switch/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-10-29T10:00:00+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "security"
@@ -152,7 +176,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 132.36,
+      "age_days": 132.37,
       "topics": [
         "ai"
       ],
@@ -181,7 +205,7 @@
       "url": "https://e27.co/the-ai-told-me-to-raise-my-prices-by-40-percent-but-it-had-never-been-to-a-wet-market-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T03:30:01+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "ai",
         "macro"
@@ -208,7 +232,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11352-8c3dc-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-10-29T06:22:00+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "security"
@@ -236,7 +260,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T03:38:50.890+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "disaster"
       ],
@@ -263,7 +287,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttxn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T07:48:09.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -290,7 +314,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T03:30:28.040+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "disaster"
       ],
@@ -317,7 +341,7 @@
       "url": "https://e27.co/the-70-30-rule-why-asean-banks-still-need-humans-as-ai-takes-over-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T02:00:57+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "ai"
       ],
@@ -344,7 +368,7 @@
       "url": "https://www.heise.de/news/Angriffe-auf-Linux-und-VMware-ESX-Schwachstellen-11503947.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-29T07:34:00.000+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -369,7 +393,7 @@
       "url": "https://www.bis.org/media-releases/20261029-cpmi-publishes-analysis-how-central-banks-support-payment-system-safety-and-efficiency-and",
       "source": "BIS Press Releases",
       "published_at": "2026-10-29T00:00:00+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "macro"
       ],
@@ -395,7 +419,7 @@
       "url": "https://e27.co/bitcoin-rebounds-to-us81000-but-faces-weakest-october-in-6-years-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T03:49:09+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "ai",
         "macro"
@@ -421,7 +445,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttxz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T08:13:05.141+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -446,7 +470,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttx0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T05:28:13.664+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -471,7 +495,7 @@
       "url": "https://e27.co/thailand-not-just-singapore-is-asias-quiet-ai-surprise-says-netsuites-amit-suxena-20261027/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T01:00:36+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "ai"
       ],
@@ -497,7 +521,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tty7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T09:04:28.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -522,7 +546,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T01:23:11.040+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "disaster"
       ],
@@ -547,7 +571,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tty0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T08:20:12.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -572,7 +596,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttx8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T05:49:32.040+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -597,7 +621,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T02:33:40.040+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "disaster"
       ],
@@ -622,7 +646,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T01:13:11.040+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "disaster"
       ],
@@ -647,7 +671,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T00:23:20.040+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "disaster"
       ],
@@ -672,7 +696,7 @@
       "url": "https://e27.co/lkygbpc-returns-with-a-pitch-to-fix-deeptechs-real-bottleneck-customers-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T06:00:33+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -696,7 +720,7 @@
       "url": "https://e27.co/malaysian-smes-are-comparing-the-wrong-number-when-they-buy-a-website-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T03:00:51+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -720,7 +744,7 @@
       "url": "https://e27.co/every-department-you-add-makes-your-startup-harder-to-understand-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T01:00:45+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "general"
       ],
@@ -744,7 +768,7 @@
       "url": "https://japan.cnet.com/article/35254062/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-28T03:14:20+00:00",
-      "age_days": 1.3,
+      "age_days": 1.31,
       "topics": [
         "general"
       ],
@@ -768,7 +792,7 @@
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-10-29T10:00:00+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "macro"
       ],
@@ -792,7 +816,7 @@
       "url": "https://github.com/HKUDS/DeepTutor",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-29T07:15:05+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "macro"
@@ -819,7 +843,7 @@
       "url": "https://e27.co/how-to-use-ai-in-marketing-without-opening-a-single-dashboard-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T02:00:22+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "macro"
@@ -846,7 +870,7 @@
       "url": "https://www.digital.go.jp/press/605c1671-b6ad-4f31-94b7-b586675d65a4",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-29T06:00:00+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -870,7 +894,7 @@
       "url": "https://e27.co/hong-kong-has-no-gigafactories-but-it-wants-a-cut-of-asias-us5t-battery-boom-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T04:04:16+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -894,7 +918,7 @@
       "url": "https://e27.co/the-e27-contributor-programme-using-ai-submitting-and-growing-your-readership-part-2-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-29T04:30:22+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -920,7 +944,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002716/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-29T06:15:08+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -944,7 +968,7 @@
       "url": "https://ashunar0.dev/posts/cloudflare-free-plan/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-29T03:25:44+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -968,7 +992,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002674/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-29T01:46:44+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "general"
       ],
@@ -992,7 +1016,7 @@
       "url": "https://zenn.dev/nayuta/articles/aec9ab2e11a7b7",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-28T13:54:02+00:00",
-      "age_days": 0.86,
+      "age_days": 0.87,
       "topics": [
         "general"
       ],
@@ -1010,33 +1034,6 @@
         "high terms: 10"
       ],
       "summary": "2026年10月、Black October、情報セキュリティの世界は変わってしまった。 2026年10月、情報セキュリティの世界は完全に変わりました。今この10月は Black October （暗黒の10月）と呼ばれ始めており、セキュリティへの関心も高まっています。でも、セキュリティに関わる人はみんなこう思っています。 「確かにもう少し..."
-    },
-    {
-      "title": "Statistical release: BIS international banking statistics and global liquidity indicators at end-June 2026",
-      "url": "https://www.bis.org/publications/202610-commentary-ibs-gli",
-      "source": "BIS Statistical Releases",
-      "published_at": "2026-10-29T00:00:00+00:00",
-      "age_days": 0.44,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 9.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Statistical release: BIS international banking statistics and global liquidity indicators at end-June 2026"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Apache Struts 2 RESTプラグインにおける、@StrutsParameterの制限が@JsonAnySetterに適用されない問題” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
