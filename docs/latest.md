@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-29T14:56:02+00:00_
+_Generiert: 2026-10-29T15:01:46+00:00_
 
 ## Kurzlage
 
-68 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+68 neue relevante Treffer. Stärkstes Signal: „The AI told me to raise my prices by 40 percent but it had never been to a wet market“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
 
 ## Priorität Hoch
 
@@ -267,7 +267,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7fc50b030650>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
