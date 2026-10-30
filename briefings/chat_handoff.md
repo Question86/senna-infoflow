@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-30T05:55:27+00:00_
+_Generated: 2026-10-30T06:00:58+00:00_
 
 ## Status
 - status: `normal`
-- findings: `20`
+- findings: `21`
 
 ## Top Signals
 
@@ -29,25 +29,25 @@ _Generated: 2026-10-30T05:55:27+00:00_
 - url: https://e27.co/the-sovereign-threshold-why-airtight-ai-decisions-are-paralysing-executive-teams-20261028/
 - summary: Picture a leadership meeting that goes like this. The air conditioner in the corner of the 22nd-floor boardroom had a faint, high-pitched metallic whine. Outside the glass, the heat off Robinson Road shimmered against the asphalt, but inside, the air was cold…
 
-### 4. Your SME doesn’t need a chatbot. It needs the work after the chat done
+### 4. Linuxカーネルの重大な脆弱性（CVE-2026-98432）によるカーリルへの影響について – カーリルのブログ
+- source: Hatena Bookmark Hotentry IT
+- score: `12`
+- published: `2026-10-30T03:40:04+00:00`
+- url: https://blog.calil.jp/2026/10/linux-kernel.html
+- summary: 2026年10月15日、Linuxカーネル（Linux OSの中核部分）のネットワーク処理に重大な脆弱性（CVE-2026-98432）があることが公表され、あわせて修正版が公開されました。細工したパケットを送りつけることでサーバーを停止させたり、条件によっては認証なしでリモートからプログラムを実行されたりするおそれがある問題です...
+
+### 5. Your SME doesn’t need a chatbot. It needs the work after the chat done
 - source: e27 Asia Startup and Tech Feed
 - score: `11`
 - published: `2026-10-30T03:30:52+00:00`
 - url: https://e27.co/your-sme-doesnt-need-a-chatbot-it-needs-the-work-after-the-chat-done-20261028/
 - summary: Most small businesses in Southeast Asia already run on WhatsApp. Orders arrive there, suppliers send invoices there, staff send photos of receipts there. So when owners hear “AI”, the first idea is usually a chatbot that answers customers faster. After buildi…
 
-### 5. Figmaを離れてClaude CodeでUIデザインをするようになった話｜🐰
+### 6. Figmaを離れてClaude CodeでUIデザインをするようになった話｜🐰
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-10-29T14:57:36+00:00`
 - url: https://note.com/hgffdgn654/n/n92467b83a1c1
 - summary: 久々のデザイン記事です。以前はFigmaでゴリゴリにコンポーネントを作ってUIデザインをしていましたが、生成AIの登場によってデザイン業務の進め方も大きく変わってきたように感じています。今回はそんな私の最近のデザイン業務についてまとめていきます。 現在私は業務委託としてSaaSプロダクトのソロデザイナーとして...
-
-### 6. If Binance says user funds are safe, why did Bitcoin still fall to US$77,037.20?
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-10-30T03:54:03+00:00`
-- url: https://e27.co/if-binance-says-user-funds-are-safe-why-did-bitcoin-still-fall-to-us77037-20-20261030/
-- summary: Bitcoin fell 4.87 per cent to US$77,037.20 in 24 hours and underperformed a broadly weaker crypto sector. A confirmed security incident at Binance on October 29 triggered the drop. That shock arrived against a 65 per cent correlation with the S&P 500. Macro r…
 
 END OF DOCUMENT
