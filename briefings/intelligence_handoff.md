@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-30T08:24:11Z_
+_Generated: 2026-10-30T08:33:59Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “Ruby behebt drei kritische Lücken, vor 
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `25.0`
-- Published: `2026-10-30T07:43:00.000+00:00` / age_days `0.03`
+- Published: `2026-10-30T07:43:00.000+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: kritisch, security high-signal: kritisch
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “Ruby behebt drei kritische Lücken, vor 
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-30T09:15:00+09:00` / age_days `0.34`
+- Published: `2026-10-30T09:15:00+09:00` / age_days `0.35`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “Ruby behebt drei kritische Lücken, vor 
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-30T07:43:06+00:00` / age_days `0.03`
+- Published: `2026-10-30T07:43:06+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: angriffe, kritisch, security high-signal: angriffe, kritisch, official security but no high-signal phrase: capped at strong
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “Ruby behebt drei kritische Lücken, vor 
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.0`
-- Published: `2026-10-30T07:51:00.000+00:00` / age_days `0.02`
+- Published: `2026-10-30T07:51:00.000+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: firewall, vpn, security high-signal: firewall, vpn
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “Ruby behebt drei kritische Lücken, vor 
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-10-30T05:15:17.040+00:00` / age_days `0.13`
+- Published: `2026-10-30T05:15:17.040+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “Ruby behebt drei kritische Lücken, vor 
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-30T05:27:03.040+00:00` / age_days `0.12`
+- Published: `2026-10-30T05:27:03.040+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “Ruby behebt drei kritische Lücken, vor 
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-30T03:18:33.040+00:00` / age_days `0.21`
+- Published: `2026-10-30T03:18:33.040+00:00` / age_days `0.22`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
