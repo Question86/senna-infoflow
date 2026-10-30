@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-30T18:15:15+00:00",
+  "generated_at": "2026-10-30T18:23:09+00:00",
   "topics": {
     "security": [
       {
@@ -84,6 +84,13 @@
         "url": "https://github.com/milind-soni/OpenMausBot"
       },
       {
+        "title": "Making it easier for websites to express AI training preferences",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-10-30T09:30:00+00:00",
+        "relevance_score": 14,
+        "url": "https://openai.com/index/helping-websites-express-ai-training-preferences"
+      },
+      {
         "title": "The sovereign threshold: Why airtight AI decisions are paralysing executive teams",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-10-30T02:00:52+00:00",
@@ -138,13 +145,6 @@
         "published_at": "2026-10-30T02:00:24+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/hasan-vc-moria-ventures-bet-on-gulf-capital-to-rescue-indonesias-halal-startups-20261029/"
-      },
-      {
-        "title": "Amplicity raises US$1M to put Singapore’s sleeping data centre batteries to work",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-10-30T01:30:00+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/amplicity-raises-us1m-to-put-singapores-sleeping-data-centre-batteries-to-work-20261029/"
       }
     ],
     "github": [
