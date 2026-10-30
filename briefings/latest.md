@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-30T13:02:45+00:00_
+_Generiert: 2026-10-30T13:16:55+00:00_
 
 ## Kurzlage
 
-42 neue relevante Treffer. Stärkstes Signal: „milind-soni/OpenMausBot“ aus GitHub Trending RSS All Languages Daily (Score 17, opportunity).
+43 neue relevante Treffer. Stärkstes Signal: „milind-soni/OpenMausBot“ aus GitHub Trending RSS All Languages Daily (Score 17, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -246,6 +246,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Results of the ECB Survey of Professional Forecasters for the fourth quarter of 2026
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Claude-Code-Erweiterung im Cursor-Marktplatz mit Malware infiziert** — Score 8, risk — [Quelle](https://www.heise.de/news/Claude-Code-Erweiterung-im-Cursor-Marktplatz-mit-Malware-infiziert-11506368.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-10-30T13:08:00.000+00:00`, fetched `2026-10-30T13:16:22+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); recent (+1.0)
+  - Kurz: Im Marktplatz der Entwicklungsumgebung Cursor steckte in der offiziellen Claude-Code-Erweiterung eine SSH-Backdoor.
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Ruby behebt drei kritische Lücken, vor denen CVE-Scanner nicht warnen** — Score 8, risk — [Quelle](https://www.heise.de/news/Ruby-behebt-drei-kritische-Luecken-vor-denen-CVE-Scanner-nicht-warnen-11505663.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-10-30T07:43:00.000+00:00`, fetched `2026-10-30T07:49:47+00:00`
@@ -255,15 +264,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); recent (+1.0)
   - Kurz: Die kritischen GitLab-Lücken der letzten Wochen gehen auf drei jetzt behobene Fehler in Rubys Regex-Engine zurück. CVE-Scanner schlagen auf sie nicht an.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **TeamViewer stopft Codeschmuggel-Lücke** — Score 7, observation — [Quelle](https://www.heise.de/news/TeamViewer-stopft-Codeschmuggel-Luecke-11506072.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-10-30T12:20:00.000+00:00`, fetched `2026-10-30T12:36:45+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Neue Versionen von TeamViewer stopfen als hochriskant eingestufte Sicherheitslücken. Angreifer könnten etwa Code einschmuggeln.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **古川大臣記者会見（令和8年10月30日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-261030-01)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-10-30T01:11:38+00:00`, fetched `2026-10-30T01:20:50+00:00`
