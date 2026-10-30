@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-30T10:31:40Z",
+  "generated_at": "2026-10-30T10:46:59Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Ruby behebt drei kritische Lücken, vor denen CVE-Scanner nicht warnen” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://www.heise.de/news/Ruby-behebt-drei-kritische-Luecken-vor-denen-CVE-Scanner-nicht-warnen-11505663.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-30T07:43:00.000+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://github.com/milind-soni/OpenMausBot",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-30T07:15:47+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -68,7 +68,7 @@
       "url": "https://e27.co/if-binance-says-user-funds-are-safe-why-did-bitcoin-still-fall-to-us77037-20-20261030/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T03:54:03+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "ai",
         "security"
@@ -97,7 +97,7 @@
       "url": "https://jvn.jp/vu/JVNVU95856220/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-30T09:15:00+09:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "security"
       ],
@@ -119,11 +119,37 @@
       "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
     },
     {
+      "title": "[UPDATE] [hoch] Langflow: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4226",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-30T10:28:06+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Langflow ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren und um Sicherheitsvorkehrungen zu umgehen."
+    },
+    {
       "title": "[UPDATE] [kritisch] Drupal Erweiterungen: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4230",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-30T07:43:06+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -149,7 +175,7 @@
       "url": "https://www.heise.de/news/WordPress-Update-stopft-Schadcode-Luecke-Exploit-Versuche-beobachtet-11505811.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-30T09:27:00.000+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -175,7 +201,7 @@
       "url": "https://blog.calil.jp/2026/10/linux-kernel.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-30T03:40:04+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -201,7 +227,7 @@
       "url": "https://e27.co/the-sharia-trust-premium-lessons-from-indonesias-first-sharia-p2p-generation-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T01:00:49+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "ai"
       ],
@@ -227,7 +253,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 133.36,
+      "age_days": 133.37,
       "topics": [
         "ai"
       ],
@@ -256,7 +282,7 @@
       "url": "https://www.heise.de/news/Cisco-Firewalls-und-GitLab-Luecke-werden-angegriffen-11505669.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-30T07:51:00.000+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security",
         "infra"
@@ -282,7 +308,7 @@
       "url": "https://e27.co/north-koreas-hiring-scam-just-cost-binance-us6-3b-seas-engineers-are-on-the-shortlist-20261030/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T09:04:26+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "infra"
       ],
@@ -301,31 +327,6 @@
         "high terms: 10, exchange"
       ],
       "summary": "For years, Southeast Asia’s crypto regulators have asked exchanges the same set of questions. Where is your licence? Where is your local entity? Where are your cold wallets, and whose name is on them? On October 29, North Korea answered with a question of its own: whose laptop is this? Binance, the world’s largest cry…"
-    },
-    {
-      "title": "M 4.6 - 51 km ENE of Noda, Japan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu6f",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-30T05:15:17.040+00:00",
-      "age_days": 0.22,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-30 04:58:31 UTC 2026-10-30 04:58:31 UTC at epicenter Location 40.311°N 142.362°E Depth 56.60 km (35.17 mi)"
     }
   ],
   "read_order": [
