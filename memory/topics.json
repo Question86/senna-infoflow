@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-30T01:09:49+00:00",
+  "generated_at": "2026-10-30T01:21:20+00:00",
   "topics": {
     "security": [
       {
@@ -58,6 +58,13 @@
         "published_at": "2026-10-29T23:57:22.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu4z"
+      },
+      {
+        "title": "古川大臣記者会見（令和8年10月30日）動画を掲載しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-10-30T01:11:38+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/speech/minister-261030-01"
       },
       {
         "title": "単体テストの本をデータ基盤チームで輪読会した話 - yasuhisa's blog",
