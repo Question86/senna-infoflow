@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-30T10:48:09+00:00",
+  "generated_at": "2026-10-30T10:53:41+00:00",
   "topics": {
     "ai": [
       {
@@ -93,11 +93,32 @@
     ],
     "security": [
       {
+        "title": "[UPDATE] [hoch] Microsoft Edge: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-30T10:49:33+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4204"
+      },
+      {
+        "title": "[UPDATE] [UNGEPATCHT] [hoch] Keycloak: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-30T10:49:33+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4191"
+      },
+      {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月29日）",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-10-30T09:15:00+09:00",
         "relevance_score": 16,
         "url": "https://jvn.jp/vu/JVNVU95856220/"
+      },
+      {
+        "title": "[UPDATE] [hoch] Google Chrome: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-10-30T10:49:32+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4210"
       },
       {
         "title": "[UPDATE] [hoch] Langflow: Mehrere Schwachstellen",
@@ -140,13 +161,6 @@
         "published_at": "2026-10-30T07:43:00.000+00:00",
         "relevance_score": 8,
         "url": "https://www.heise.de/news/Ruby-behebt-drei-kritische-Luecken-vor-denen-CVE-Scanner-nicht-warnen-11505663.html"
-      },
-      {
-        "title": "Cisco-Firewalls und GitLab-Lücke werden angegriffen",
-        "source": "heise Security Alerts",
-        "published_at": "2026-10-30T07:51:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Cisco-Firewalls-und-GitLab-Luecke-werden-angegriffen-11505669.html"
       }
     ],
     "general": [
