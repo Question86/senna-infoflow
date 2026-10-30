@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-30T11:34:08+00:00",
+  "generated_at": "2026-10-30T11:39:57+00:00",
   "topics": {
     "ai": [
       {
@@ -186,6 +186,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu6f"
       },
       {
+        "title": "M 4.7 - 42 km SE of Sykiá, Greece",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-30T11:37:34.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu7m"
+      },
+      {
         "title": "M 5.1 - Balleny Islands region",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-30T10:30:55.040+00:00",
@@ -226,13 +233,6 @@
         "published_at": "2026-10-30T09:15:16+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/roblox-hands-fave-founder-joel-neoh-the-keys-to-sea-his-first-job-isnt-growth-its-trust-20261030/"
-      },
-      {
-        "title": "古川大臣記者会見（令和8年10月30日）動画を掲載しました",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-10-30T01:11:38+00:00",
-        "relevance_score": 6,
-        "url": "https://www.digital.go.jp/speech/minister-261030-01"
       }
     ],
     "geopolitics": [

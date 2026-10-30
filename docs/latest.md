@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-30T11:34:08+00:00_
+_Generiert: 2026-10-30T11:39:57+00:00_
 
 ## Kurzlage
 
-38 neue relevante Treffer. Stärkstes Signal: „milind-soni/OpenMausBot“ aus GitHub Trending RSS All Languages Daily (Score 17, opportunity).
+39 neue relevante Treffer. Stärkstes Signal: „milind-soni/OpenMausBot“ aus GitHub Trending RSS All Languages Daily (Score 17, opportunity).
 
 ## Priorität Hoch
 
@@ -141,6 +141,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Bitcoin fell 4.87 per cent to US$77,037.20 in 24 hours and underperformed a broadly weaker crypto sector. A confirmed security incident at Binance on October 29 triggered the drop. That shock arrived against a 65 per cent correlation with the S&P 500. Macro risk aversion had already set a defensive tone. The result was a […] The post If Binance says user funds are safe, why did Bitcoin still fall to US$77,037.20? ap…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.7 - 42 km SE of Sykiá, Greece** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu7m)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-30T11:37:34.040+00:00`, fetched `2026-10-30T11:39:25+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-30 10:45:03 UTC 2026-10-30 10:45:03 UTC at epicenter Location 39.731°N 24.228°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.1 - Balleny Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu7j)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-30T10:30:55.040+00:00`, fetched `2026-10-30T10:36:32+00:00`
@@ -168,15 +177,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Results of the ECB Survey of Professional Forecasters for the fourth quarter of 2026
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.8 - Fiji region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu6i)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-10-30T05:27:03.040+00:00`, fetched `2026-10-30T05:30:39+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-10-30 05:10:19 UTC 2026-10-30 05:10:19 UTC at epicenter Location 18.177°S 177.047°W Depth 371.79 km (231.02 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Ruby behebt drei kritische Lücken, vor denen CVE-Scanner nicht warnen** — Score 8, risk — [Quelle](https://www.heise.de/news/Ruby-behebt-drei-kritische-Luecken-vor-denen-CVE-Scanner-nicht-warnen-11505663.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-10-30T07:43:00.000+00:00`, fetched `2026-10-30T07:49:47+00:00`
