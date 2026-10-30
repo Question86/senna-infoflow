@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-30T11:56:44+00:00_
+_Generiert: 2026-10-30T12:24:21+00:00_
 
 ## Kurzlage
 
-39 neue relevante Treffer. Stärkstes Signal: „milind-soni/OpenMausBot“ aus GitHub Trending RSS All Languages Daily (Score 17, opportunity).
+41 neue relevante Treffer. Stärkstes Signal: „milind-soni/OpenMausBot“ aus GitHub Trending RSS All Languages Daily (Score 17, opportunity).
 
 ## Priorität Hoch
 
@@ -186,14 +186,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); recent (+1.0)
   - Kurz: Die kritischen GitLab-Lücken der letzten Wochen gehen auf drei jetzt behobene Fehler in Rubys Regex-Engine zurück. CVE-Scanner schlagen auf sie nicht an.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Cisco-Firewalls und GitLab-Lücke werden angegriffen** — Score 7, observation — [Quelle](https://www.heise.de/news/Cisco-Firewalls-und-GitLab-Luecke-werden-angegriffen-11505669.html)
+- **Erneut kritischer Bug in Linux TCP/IP aufgedeckt – Updates in Arbeit** — Score 7, observation — [Quelle](https://www.heise.de/news/Erneut-kritischer-Bug-in-Linux-TCP-IP-aufgedeckt-Updates-in-Arbeit-11506050.html)
   - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-10-30T07:51:00.000+00:00`, fetched `2026-10-30T08:00:45+00:00`
+  - Zeit: published `2026-10-30T12:12:00.000+00:00`, fetched `2026-10-30T12:23:50+00:00`
   - Treffer: Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Bösartige Akteure missbrauchen Schwachstellen in Ciscos SSL-VPN und GitLab. Updates stehen bereit, Admins sollten sie installieren.
+  - Kurz: Eine kritische Lücke im TCP/IP-Stack des Linux-Kerns erlaubt Remote Code Execution. Anthropics Claude entdeckte den elf Jahre alten Fehler.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **古川大臣記者会見（令和8年10月30日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-261030-01)
   - Quelle: Japan Digital Agency News RSS / `rss`
