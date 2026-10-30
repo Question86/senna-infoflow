@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-30T09:31:17+00:00_
+_Generiert: 2026-10-30T09:38:58+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „milind-soni/OpenMausBot“ aus GitHub Trending RSS All Languages Daily (Score 17, opportunity).
+32 neue relevante Treffer. Stärkstes Signal: „milind-soni/OpenMausBot“ aus GitHub Trending RSS All Languages Daily (Score 17, opportunity).
 
 ## Priorität Hoch
 
@@ -69,6 +69,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)
   - Kurz: Picture a leadership meeting that goes like this. The air conditioner in the corner of the 22nd-floor boardroom had a faint, high-pitched metallic whine. Outside the glass, the heat off Robinson Road shimmered against the asphalt, but inside, the air was cold enough to raise goosebumps. David, the CEO, leaned forward and rested his forearms […] The post The sovereign threshold: Why airtight AI decisions are paralysi…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **WordPress-Update stopft Schadcode-Lücke, Exploit-Versuche beobachtet** — Score 12, risk — [Quelle](https://www.heise.de/news/WordPress-Update-stopft-Schadcode-Luecke-Exploit-Versuche-beobachtet-11505811.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-10-30T09:27:00.000+00:00`, fetched `2026-10-30T09:38:31+00:00`
+  - Treffer: Security, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); Webentwicklung (+3.8); recent (+1.0)
+  - Kurz: WordPress-Updates stopfen mehrere Sicherheitslücken. Über eine lässt sich Schadcode einschleusen. Angriffsversuche laufen.
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Linuxカーネルの重大な脆弱性（CVE-2026-98432）によるカーリルへの影響について – カーリルのブログ** — Score 12, risk — [Quelle](https://blog.calil.jp/2026/10/linux-kernel.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-30T03:40:04+00:00`, fetched `2026-10-30T06:00:23+00:00`
