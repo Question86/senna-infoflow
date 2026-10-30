@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-30T07:20:23Z",
+  "generated_at": "2026-10-30T07:47:07Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 26,
+    "dynamics": 28,
     "bands": {
       "extreme": 2,
-      "krass": 3,
+      "krass": 4,
       "strong": 2,
       "watch": 4,
-      "quiet": 15
+      "quiet": 16
     },
     "bands_after_gate_recheck": {
-      "strong": 7,
+      "strong": 8,
       "watch": 4,
-      "quiet": 15
+      "quiet": 16
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://github.com/milind-soni/OpenMausBot",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-30T07:15:47+00:00",
-      "age_days": 0.0,
+      "age_days": 0.02,
       "topics": [
         "ai"
       ],
@@ -52,7 +52,7 @@
       "url": "https://e27.co/if-binance-says-user-funds-are-safe-why-did-bitcoin-still-fall-to-us77037-20-20261030/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T03:54:03+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "security"
@@ -81,7 +81,7 @@
       "url": "https://jvn.jp/vu/JVNVU95856220/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-30T09:15:00+09:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -103,11 +103,37 @@
       "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
     },
     {
+      "title": "[UPDATE] [kritisch] Drupal Erweiterungen: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4230",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-30T07:43:06+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe, kritisch",
+        "security high-signal: angriffe, kritisch",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Drupal ausnutzen, um erweiterte Berechtigungen zu erlangen und Benutzerkonten zu übernehmen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren, Cross-Site-Scripting-Angriffe durchzuführen und nicht näher spezifizierte Auswirkung…"
+    },
+    {
       "title": "Linuxカーネルの重大な脆弱性（CVE-2026-98432）によるカーリルへの影響について – カーリルのブログ",
       "url": "https://blog.calil.jp/2026/10/linux-kernel.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-30T03:40:04+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -133,7 +159,7 @@
       "url": "https://e27.co/the-sharia-trust-premium-lessons-from-indonesias-first-sharia-p2p-generation-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T01:00:49+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -159,7 +185,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 133.22,
+      "age_days": 133.24,
       "topics": [
         "ai"
       ],
@@ -188,7 +214,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu6f",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-30T05:15:17.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -213,7 +239,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu6i",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-30T05:27:03.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -238,7 +264,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu5q",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-30T03:18:33.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -263,7 +289,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu4z",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T23:57:22.040+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "disaster"
       ],
@@ -288,7 +314,7 @@
       "url": "https://e27.co/powering-the-green-transition-why-the-global-battery-race-runs-through-hong-kong-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T00:00:30+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -312,7 +338,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261030-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-30T01:11:38+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -336,7 +362,7 @@
       "url": "https://e27.co/the-sovereign-threshold-why-airtight-ai-decisions-are-paralysing-executive-teams-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T02:00:52+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "ai",
         "macro"
@@ -363,7 +389,7 @@
       "url": "https://e27.co/amplicity-raises-us1m-to-put-singapores-sleeping-data-centre-batteries-to-work-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T01:30:00+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "ai",
         "infra"
@@ -387,11 +413,35 @@
       "summary": "Singapore’s data centres keep roughly 160 MWh of battery capacity on permanent standby, charged and waiting for a blackout that almost never comes. For an island that imports nearly all its fuel and is scrambling for clean power, that is a lot of expensive hardware doing nothing. Amplicity, a Singapore-headquartered e…"
     },
     {
+      "title": "暗号資産の「バイナンス」に不正アクセスか 影響額 約9900億円 | NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261030de68404",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-10-30T04:56:14+00:00",
+      "age_days": 0.12,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "暗号資産の取引所として世界的な大手の「バイナンス」は29日、不正アクセスとみられるセキュリティー上の問題が起き、影響額が推定でおよそ63億ドル、日本円にしておよそ9900億円に上ることを明らかにしまし…"
+    },
+    {
       "title": "読んでいないコードを私たちはどれだけ信頼できるのか - YAMAGUCHI::weblog",
       "url": "https://ymotongpoo.hatenablog.com/entry/2026/10/30/093000",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-30T00:38:15+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -415,7 +465,7 @@
       "url": "https://www.yasuhisay.info/entry/2026/10/29/093840",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-29T00:52:08+00:00",
-      "age_days": 1.27,
+      "age_days": 1.29,
       "topics": [
         "general"
       ],
@@ -439,7 +489,7 @@
       "url": "https://e27.co/your-sme-doesnt-need-a-chatbot-it-needs-the-work-after-the-chat-done-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T03:30:52+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -465,7 +515,7 @@
       "url": "https://note.com/hgffdgn654/n/n92467b83a1c1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-29T14:57:36+00:00",
-      "age_days": 0.68,
+      "age_days": 0.7,
       "topics": [
         "ai"
       ],
@@ -491,7 +541,7 @@
       "url": "https://e27.co/hasan-vc-moria-ventures-bet-on-gulf-capital-to-rescue-indonesias-halal-startups-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T02:00:24+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -517,7 +567,7 @@
       "url": "https://e27.co/the-fan-vote-is-broken-here-is-what-it-takes-to-make-people-trust-it-again-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T03:00:56+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -544,7 +594,7 @@
       "url": "https://e27.co/indonesias-8-per-cent-cap-cost-gojek-us8-4m-in-a-quarter-gopay-covered-the-bill-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T01:00:39+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -570,7 +620,7 @@
       "url": "https://tech.findy.co.jp/entry/2026/10/30/070000",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-29T22:25:22+00:00",
-      "age_days": 0.37,
+      "age_days": 0.39,
       "topics": [
         "ai"
       ],
@@ -596,7 +646,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 132.19,
+      "age_days": 132.21,
       "topics": [
         "general"
       ],
@@ -621,7 +671,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 132.19,
+      "age_days": 132.21,
       "topics": [
         "general"
       ],
@@ -646,7 +696,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 132.19,
+      "age_days": 132.21,
       "topics": [
         "ai"
       ],
@@ -673,7 +723,7 @@
       "url": "https://levtech.jp/media/detail_959/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-30T00:24:37+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],

@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-10-30T07:20:23Z_
+_Generated: 2026-10-30T07:47:07Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “milind-soni/OpenMausBot” — Die Dynam
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-30T07:15:47+00:00` / age_days `0.0`
+- Published: `2026-10-30T07:15:47+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “milind-soni/OpenMausBot” — Die Dynam
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-30T03:54:03+00:00` / age_days `0.14`
+- Published: `2026-10-30T03:54:03+00:00` / age_days `0.16`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -32,17 +32,27 @@ Stärkste Dynamik nach Gate-Recheck: “milind-soni/OpenMausBot” — Die Dynam
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-30T09:15:00+09:00` / age_days `0.3`
+- Published: `2026-10-30T09:15:00+09:00` / age_days `0.31`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
 - Quelle: https://jvn.jp/vu/JVNVU95856220/
 
+### [UPDATE] [kritisch] Drupal Erweiterungen: Mehrere Schwachstellen
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-10-30T07:43:06+00:00` / age_days `0.0`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: angriffe, kritisch, security high-signal: angriffe, kritisch, official security but no high-signal phrase: capped at strong
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4230
+
 ### Linuxカーネルの重大な脆弱性（CVE-2026-98432）によるカーリルへの影響について – カーリルのブログ
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-30T03:40:04+00:00` / age_days `0.15`
+- Published: `2026-10-30T03:40:04+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -52,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “milind-soni/OpenMausBot” — Die Dynam
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-10-30T01:00:49+00:00` / age_days `0.26`
+- Published: `2026-10-30T01:00:49+00:00` / age_days `0.28`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, 10, security high-signal: rce, 10, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “milind-soni/OpenMausBot” — Die Dynam
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `133.22`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `133.24`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 133.2d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -72,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “milind-soni/OpenMausBot” — Die Dynam
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-10-30T05:15:17.040+00:00` / age_days `0.09`
+- Published: `2026-10-30T05:15:17.040+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “milind-soni/OpenMausBot” — Die Dynam
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-30T05:27:03.040+00:00` / age_days `0.08`
+- Published: `2026-10-30T05:27:03.040+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -92,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “milind-soni/OpenMausBot” — Die Dynam
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-30T03:18:33.040+00:00` / age_days `0.17`
+- Published: `2026-10-30T03:18:33.040+00:00` / age_days `0.19`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “milind-soni/OpenMausBot” — Die Dynam
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-10-29T23:57:22.040+00:00` / age_days `0.31`
+- Published: `2026-10-29T23:57:22.040+00:00` / age_days `0.33`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “milind-soni/OpenMausBot” — Die Dynam
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `15.0`
-- Published: `2026-10-30T00:00:30+00:00` / age_days `0.31`
+- Published: `2026-10-30T00:00:30+00:00` / age_days `0.32`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
 - Quelle: https://e27.co/powering-the-green-transition-why-the-global-battery-race-runs-through-hong-kong-20261029/
-
-### 古川大臣記者会見（令和8年10月30日）動画を掲載しました
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `11.0`
-- Published: `2026-10-30T01:11:38+00:00` / age_days `0.26`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: high terms: 10
-- Quelle: https://www.digital.go.jp/speech/minister-261030-01
 
 END OF DOCUMENT

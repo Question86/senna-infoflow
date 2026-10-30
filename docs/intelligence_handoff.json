@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-30T07:20:23Z",
+  "generated_at": "2026-10-30T07:47:07Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “milind-soni/OpenMausBot” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/milind-soni/OpenMausBot",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-30T07:15:47+00:00",
-      "age_days": 0.0,
+      "age_days": 0.02,
       "topics": [
         "ai"
       ],
@@ -43,7 +43,7 @@
       "url": "https://e27.co/if-binance-says-user-funds-are-safe-why-did-bitcoin-still-fall-to-us77037-20-20261030/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T03:54:03+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "security"
@@ -72,7 +72,7 @@
       "url": "https://jvn.jp/vu/JVNVU95856220/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-30T09:15:00+09:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -94,11 +94,37 @@
       "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
     },
     {
+      "title": "[UPDATE] [kritisch] Drupal Erweiterungen: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4230",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-30T07:43:06+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe, kritisch",
+        "security high-signal: angriffe, kritisch",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Drupal ausnutzen, um erweiterte Berechtigungen zu erlangen und Benutzerkonten zu übernehmen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren, Cross-Site-Scripting-Angriffe durchzuführen und nicht näher spezifizierte Auswirkung…"
+    },
+    {
       "title": "Linuxカーネルの重大な脆弱性（CVE-2026-98432）によるカーリルへの影響について – カーリルのブログ",
       "url": "https://blog.calil.jp/2026/10/linux-kernel.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-30T03:40:04+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -124,7 +150,7 @@
       "url": "https://e27.co/the-sharia-trust-premium-lessons-from-indonesias-first-sharia-p2p-generation-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T01:00:49+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -150,7 +176,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 133.22,
+      "age_days": 133.24,
       "topics": [
         "ai"
       ],
@@ -179,7 +205,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu6f",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-30T05:15:17.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -204,7 +230,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu6i",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-30T05:27:03.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -229,7 +255,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu5q",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-30T03:18:33.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -254,7 +280,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu4z",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T23:57:22.040+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "disaster"
       ],
@@ -279,7 +305,7 @@
       "url": "https://e27.co/powering-the-green-transition-why-the-global-battery-race-runs-through-hong-kong-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T00:00:30+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -297,30 +323,6 @@
         "high terms: 10"
       ],
       "summary": "As Battery energy storage (BES) investment scales toward US$5 trillion, Hong Kong Science and Technology Parks Corporation (HKSTP) is positioning Hong Kong as Asia’s launchpad for materials, integration, green finance and recycling — a bridge Southeast Asian founders can use to finance, certify and scale. A battery us…"
-    },
-    {
-      "title": "古川大臣記者会見（令和8年10月30日）動画を掲載しました",
-      "url": "https://www.digital.go.jp/speech/minister-261030-01",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-10-30T01:11:38+00:00",
-      "age_days": 0.26,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "古川大臣記者会見（令和8年10月30日）動画を掲載しました"
     }
   ],
   "read_order": [
@@ -332,9 +334,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 7,
-      "watch": 4,
-      "quiet": 1
+      "strong": 8,
+      "watch": 4
     }
   }
 }
