@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-30T16:48:56+00:00_
+_Generiert: 2026-10-30T16:54:05+00:00_
 
 ## Kurzlage
 
-57 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] n8n: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 18, observation).
+58 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] n8n: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 18, observation).
 
 ## Priorität Hoch
 
@@ -150,6 +150,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)
   - Kurz: De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Community safety report and new protections for teens** — Score 10, observation — [Quelle](https://openai.com/index/community-safety-report-and-new-protections-for-teens)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-10-30T09:00:00+00:00`, fetched `2026-10-30T16:53:34+00:00`
+  - Treffer: OpenAI, safety
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); safety (+2.5); recent (+1.0)
+  - Kurz: OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **If Binance says user funds are safe, why did Bitcoin still fall to US$77,037.20?** — Score 10, observation — [Quelle](https://e27.co/if-binance-says-user-funds-are-safe-why-did-bitcoin-still-fall-to-us77037-20-20261030/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-30T03:54:03+00:00`, fetched `2026-10-30T03:55:22+00:00`
@@ -213,15 +222,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Results of the ECB Survey of Professional Forecasters for the fourth quarter of 2026
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Claude-Code-Erweiterung im Cursor-Marktplatz mit Malware infiziert** — Score 8, risk — [Quelle](https://www.heise.de/news/Claude-Code-Erweiterung-im-Cursor-Marktplatz-mit-Malware-infiziert-11506368.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-10-30T13:08:00.000+00:00`, fetched `2026-10-30T13:16:22+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+7.5); recent (+1.0)
-  - Kurz: Im Marktplatz der Entwicklungsumgebung Cursor steckte in der offiziellen Claude-Code-Erweiterung eine SSH-Backdoor.
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen
 
