@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-30T16:03:15Z",
+  "generated_at": "2026-10-30T16:20:20Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Google Chrome: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4210",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-30T10:49:32+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://github.com/milind-soni/OpenMausBot",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-30T07:15:47+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "ai"
       ],
@@ -68,7 +68,7 @@
       "url": "https://e27.co/if-binance-says-user-funds-are-safe-why-did-bitcoin-still-fall-to-us77037-20-20261030/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T03:54:03+00:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [
         "ai",
         "security"
@@ -97,7 +97,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4204",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-30T10:49:33+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -123,7 +123,7 @@
       "url": "https://jvn.jp/vu/JVNVU95856220/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-30T09:15:00+09:00",
-      "age_days": 0.66,
+      "age_days": 0.67,
       "topics": [
         "security"
       ],
@@ -149,7 +149,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4259",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-30T14:58:10+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -175,7 +175,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4226",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-30T10:28:06+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -201,7 +201,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4230",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-30T07:43:06+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -227,7 +227,7 @@
       "url": "https://www.heise.de/news/WordPress-Update-stopft-Schadcode-Luecke-Exploit-Versuche-beobachtet-11505811.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-30T09:27:00.000+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -253,7 +253,7 @@
       "url": "https://blog.calil.jp/2026/10/linux-kernel.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-30T03:40:04+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -279,7 +279,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4191",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-30T10:49:33+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -300,13 +300,14 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Keycloak ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren und vertrauliche Informationen offenzulegen."
     },
     {
-      "title": "The sharia trust premium: Lessons from Indonesia’s first sharia P2P generation",
-      "url": "https://e27.co/the-sharia-trust-premium-lessons-from-indonesias-first-sharia-p2p-generation-20261028/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-30T01:00:49+00:00",
-      "age_days": 0.63,
+      "title": "Multiples vulnérabilités dans Microsoft Edge (27 octobre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1395/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-10-27T00:00:00+00:00",
+      "age_days": 3.68,
       "topics": [
-        "ai"
+        "ai",
+        "security"
       ],
       "dynamics_score": 24.9,
       "raw_band": "krass",
@@ -319,11 +320,11 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "high terms: rce, 10",
-        "security high-signal: rce, 10",
-        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
       ],
-      "summary": "Indonesia’s sharia P2P lending sector looks different in 2026 than it did when Dana Syariah Indonesia and a cohort of sharia-compliant fintechs scaled between 2018 and 2022. The sector that aimed to bring Islamic finance principles into digital lending has consolidated significantly. Several platforms have been throug…"
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données."
     }
   ],
   "read_order": [
