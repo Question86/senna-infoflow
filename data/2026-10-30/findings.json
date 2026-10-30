@@ -459,6 +459,26 @@
     "id": "cc1f46976f9f8480031b"
   },
   {
+    "title": "Ruby behebt drei kritische Lücken, vor denen CVE-Scanner nicht warnen",
+    "url": "https://www.heise.de/news/Ruby-behebt-drei-kritische-Luecken-vor-denen-CVE-Scanner-nicht-warnen-11505663.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-10-30T07:43:00.000+00:00",
+    "fetched_at": "2026-10-30T07:49:47+00:00",
+    "summary": "Die kritischen GitLab-Lücken der letzten Wochen gehen auf drei jetzt behobene Fehler in Rubys Regex-Engine zurück. CVE-Scanner schlagen auf sie nicht an.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Security (+7.5); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e623fe3e130b0c55007c"
+  },
+  {
     "title": "Indonesia’s 8 per cent cap cost Gojek US$8.4M in a quarter. GoPay covered the bill",
     "url": "https://e27.co/indonesias-8-per-cent-cap-cost-gojek-us8-4m-in-a-quarter-gopay-covered-the-bill-20261029/",
     "source": "e27 Asia Startup and Tech Feed",

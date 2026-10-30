@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-30T07:44:46+00:00",
+  "generated_at": "2026-10-30T07:50:22+00:00",
   "topics": {
     "ai": [
       {
@@ -119,6 +119,13 @@
         "published_at": "2026-10-30T03:54:03+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/if-binance-says-user-funds-are-safe-why-did-bitcoin-still-fall-to-us77037-20-20261030/"
+      },
+      {
+        "title": "Ruby behebt drei kritische Lücken, vor denen CVE-Scanner nicht warnen",
+        "source": "heise Security Alerts",
+        "published_at": "2026-10-30T07:43:00.000+00:00",
+        "relevance_score": 8,
+        "url": "https://www.heise.de/news/Ruby-behebt-drei-kritische-Luecken-vor-denen-CVE-Scanner-nicht-warnen-11505663.html"
       }
     ],
     "general": [
@@ -200,6 +207,13 @@
         "published_at": "2026-10-30T00:00:30+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/powering-the-green-transition-why-the-global-battery-race-runs-through-hong-kong-20261029/"
+      },
+      {
+        "title": "Ruby behebt drei kritische Lücken, vor denen CVE-Scanner nicht warnen",
+        "source": "heise Security Alerts",
+        "published_at": "2026-10-30T07:43:00.000+00:00",
+        "relevance_score": 8,
+        "url": "https://www.heise.de/news/Ruby-behebt-drei-kritische-Luecken-vor-denen-CVE-Scanner-nicht-warnen-11505663.html"
       },
       {
         "title": "Indonesia’s 8 per cent cap cost Gojek US$8.4M in a quarter. GoPay covered the bill",
