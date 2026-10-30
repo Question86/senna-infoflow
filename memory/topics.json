@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-30T02:56:35+00:00",
+  "generated_at": "2026-10-30T03:19:44+00:00",
   "topics": {
     "security": [
       {
@@ -49,6 +49,13 @@
         "url": "https://e27.co/indonesias-8-per-cent-cap-cost-gojek-us8-4m-in-a-quarter-gopay-covered-the-bill-20261029/"
       },
       {
+        "title": "The fan vote is broken: Here is what it takes to make people trust it again",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-30T03:00:56+00:00",
+        "relevance_score": 6,
+        "url": "https://e27.co/the-fan-vote-is-broken-here-is-what-it-takes-to-make-people-trust-it-again-20261028/"
+      },
+      {
         "title": "デザインは見た目ではなく意思決定だった ─ フロントエンドエンジニアがデザインシステム導入で学び直したこと - Findy Tech Blog",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-10-29T22:25:22+00:00",
@@ -84,6 +91,13 @@
         "published_at": "2026-10-30T01:00:39+00:00",
         "relevance_score": 7,
         "url": "https://e27.co/indonesias-8-per-cent-cap-cost-gojek-us8-4m-in-a-quarter-gopay-covered-the-bill-20261029/"
+      },
+      {
+        "title": "The fan vote is broken: Here is what it takes to make people trust it again",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-10-30T03:00:56+00:00",
+        "relevance_score": 6,
+        "url": "https://e27.co/the-fan-vote-is-broken-here-is-what-it-takes-to-make-people-trust-it-again-20261028/"
       }
     ],
     "general": [
