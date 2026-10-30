@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-30T03:30:15+00:00_
+_Generiert: 2026-10-30T03:39:03+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月29日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+15 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月29日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -106,6 +106,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)
   - Kurz: Picture a leadership meeting that goes like this. The air conditioner in the corner of the 22nd-floor boardroom had a faint, high-pitched metallic whine. Outside the glass, the heat off Robinson Road shimmered against the asphalt, but inside, the air was cold enough to raise goosebumps. David, the CEO, leaned forward and rested his forearms […] The post The sovereign threshold: Why airtight AI decisions are paralysi…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Your SME doesn’t need a chatbot. It needs the work after the chat done** — Score 11, observation — [Quelle](https://e27.co/your-sme-doesnt-need-a-chatbot-it-needs-the-work-after-the-chat-done-20261028/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-30T03:30:52+00:00`, fetched `2026-10-30T03:38:33+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Indonesia (+2.0)
+  - Kurz: Most small businesses in Southeast Asia already run on WhatsApp. Orders arrive there, suppliers send invoices there, staff send photos of receipts there. So when owners hear “AI”, the first idea is usually a chatbot that answers customers faster. After building AI systems for food, professional services and property businesses in Indonesia and Singapore, I […] The post Your SME doesn’t need a chatbot. It needs the w…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **HASAN.VC, Moria Ventures bet on Gulf capital to rescue Indonesia’s halal startups** — Score 10, observation — [Quelle](https://e27.co/hasan-vc-moria-ventures-bet-on-gulf-capital-to-rescue-indonesias-halal-startups-20261029/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-30T02:00:24+00:00`, fetched `2026-10-30T02:00:37+00:00`
@@ -115,15 +124,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Indonesia has never lacked halal ambition. What it lacks is money willing to back that ambition. Two weeks ago, at the 13th Indonesia Sharia Economic Festival (ISEF) in Jakarta, a coalition of regulators, investors and universities launched the Indonesia Halal Innovation and Venture Ecosystem (I-HIVE). The aim is to fix the second problem. I-HIVE brings […] The post HASAN.VC, Moria Ventures bet on Gulf capital to re…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Amplicity raises US$1M to put Singapore’s sleeping data centre batteries to work** — Score 10, risk — [Quelle](https://e27.co/amplicity-raises-us1m-to-put-singapores-sleeping-data-centre-batteries-to-work-20261029/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-30T01:30:00+00:00`, fetched `2026-10-30T01:36:34+00:00`
-  - Treffer: APAC Trend Radar, Watchgraph:energy_oil_gas_power_uranium
-  - Watchgraph: energy_oil_gas_power_uranium
-  - Markt-/Kontextkorb: XOM, CVX, SHEL, TTE, BP, CCJ, ENB, SU, EQNR, URA
-  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules energy_oil_gas_power_uranium (+3.0)
-  - Kurz: Singapore’s data centres keep roughly 160 MWh of battery capacity on permanent standby, charged and waiting for a blackout that almost never comes. For an island that imports nearly all its fuel and is scrambling for clean power, that is a lot of expensive hardware doing nothing. Amplicity, a Singapore-headquartered energy technology startup, wants to […] The post Amplicity raises US$1M to put Singapore’s sleeping d…
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.1 - 97 km NNE of Finschhafen, Papua New Guinea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu5q)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-30T03:18:33.040+00:00`, fetched `2026-10-30T03:29:45+00:00`
