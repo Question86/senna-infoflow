@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-30T01:00:18Z",
+  "generated_at": "2026-10-30T01:16:46Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 9,
+    "dynamics": 11,
     "bands": {
-      "krass": 1,
+      "krass": 2,
       "strong": 1,
       "watch": 2,
-      "quiet": 5
+      "quiet": 6
     },
     "bands_after_gate_recheck": {
-      "strong": 2,
+      "strong": 3,
       "watch": 2,
-      "quiet": 5
+      "quiet": 6
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/vu/JVNVU95856220/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-30T09:15:00+09:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -45,11 +45,37 @@
       "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
     },
     {
+      "title": "The sharia trust premium: Lessons from Indonesia’s first sharia P2P generation",
+      "url": "https://e27.co/the-sharia-trust-premium-lessons-from-indonesias-first-sharia-p2p-generation-20261028/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-30T01:00:49+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce, 10",
+        "security high-signal: rce, 10",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Indonesia’s sharia P2P lending sector looks different in 2026 than it did when Dana Syariah Indonesia and a cohort of sharia-compliant fintechs scaled between 2018 and 2022. The sector that aimed to bring Islamic finance principles into digital lending has consolidated significantly. Several platforms have been throug…"
+    },
+    {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 132.96,
+      "age_days": 132.97,
       "topics": [
         "ai"
       ],
@@ -78,7 +104,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu4z",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T23:57:22.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -103,7 +129,7 @@
       "url": "https://e27.co/powering-the-green-transition-why-the-global-battery-race-runs-through-hong-kong-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T00:00:30+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
@@ -127,7 +153,7 @@
       "url": "https://www.yasuhisay.info/entry/2026/10/29/093840",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-29T00:52:08+00:00",
-      "age_days": 1.01,
+      "age_days": 1.02,
       "topics": [
         "general"
       ],
@@ -147,11 +173,37 @@
       "summary": "背景 課題感 解決策: チーム内の輪読会 前段階を整備する 進め方 輪読会を通じて得られた学び 輪読会をやってよかったこと 背景 データ基盤チームはSWE出身のメンバーだけでないことが多い アナリティクスエンジニアやアナリスト出身の人、PdMやマーケター出身の人など様々なバックグラウンドを持ったチームであることが..."
     },
     {
+      "title": "Indonesia’s 8 per cent cap cost Gojek US$8.4M in a quarter. GoPay covered the bill",
+      "url": "https://e27.co/indonesias-8-per-cent-cap-cost-gojek-us8-4m-in-a-quarter-gopay-covered-the-bill-20261029/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-10-30T01:00:39+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 4.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "GoTo has now reported a net profit for three quarters in a row. Read past the headline, though, and the numbers show a company run by its payments arm, while its ride-hailing business absorbs the cost of a government-imposed fare squeeze. GoTo reported a third-quarter net profit of Rp441 billion (about US$24.6 million…"
+    },
+    {
       "title": "デザインは見た目ではなく意思決定だった ─ フロントエンドエンジニアがデザインシステム導入で学び直したこと - Findy Tech Blog",
       "url": "https://tech.findy.co.jp/entry/2026/10/30/070000",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-29T22:25:22+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -177,7 +229,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 131.92,
+      "age_days": 131.94,
       "topics": [
         "general"
       ],
@@ -202,7 +254,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 131.92,
+      "age_days": 131.94,
       "topics": [
         "general"
       ],
@@ -227,7 +279,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 131.92,
+      "age_days": 131.94,
       "topics": [
         "ai"
       ],
