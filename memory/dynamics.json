@@ -1,22 +1,22 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-10-30T14:03:14Z",
+  "generated_at": "2026-10-30T14:20:31Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 2,
       "krass": 9,
-      "strong": 9,
+      "strong": 10,
       "watch": 7,
-      "quiet": 13
+      "quiet": 12
     },
     "bands_after_gate_recheck": {
       "krass": 1,
-      "strong": 19,
+      "strong": 20,
       "watch": 7,
-      "quiet": 13
+      "quiet": 12
     }
   },
   "top_dynamics": [
@@ -25,7 +25,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4210",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-30T10:49:32+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -46,11 +46,35 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, potenziell beliebigen Code auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen und zu manipulieren oder einen Denial-of-Service-Zustand auszulösen."
     },
     {
+      "title": "[UPDATE] [mittel] libxml2 (exsltDynMapFunction): Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1948",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-10-30T14:14:17+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in libxml2 ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
       "title": "Claude-Code-Erweiterung im Cursor-Marktplatz mit Malware infiziert",
       "url": "https://www.heise.de/news/Claude-Code-Erweiterung-im-Cursor-Marktplatz-mit-Malware-infiziert-11506368.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-30T13:08:00.000+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "security"
@@ -76,7 +100,7 @@
       "url": "https://www.heise.de/news/Ruby-behebt-drei-kritische-Luecken-vor-denen-CVE-Scanner-nicht-warnen-11505663.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-30T07:43:00.000+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -101,7 +125,7 @@
       "url": "https://github.com/milind-soni/OpenMausBot",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-30T07:15:47+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -129,7 +153,7 @@
       "url": "https://e27.co/if-binance-says-user-funds-are-safe-why-did-bitcoin-still-fall-to-us77037-20-20261030/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T03:54:03+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "ai",
         "security"
@@ -158,7 +182,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4204",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-30T10:49:33+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -184,7 +208,7 @@
       "url": "https://jvn.jp/vu/JVNVU95856220/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-10-30T09:15:00+09:00",
-      "age_days": 0.58,
+      "age_days": 0.59,
       "topics": [
         "security"
       ],
@@ -210,7 +234,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4226",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-30T10:28:06+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -236,7 +260,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4230",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-30T07:43:06+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -262,7 +286,7 @@
       "url": "https://www.heise.de/news/WordPress-Update-stopft-Schadcode-Luecke-Exploit-Versuche-beobachtet-11505811.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-30T09:27:00.000+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -288,7 +312,7 @@
       "url": "https://blog.calil.jp/2026/10/linux-kernel.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-30T03:40:04+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "security"
       ],
@@ -314,7 +338,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4191",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-10-30T10:49:33+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -339,7 +363,7 @@
       "url": "https://e27.co/the-sharia-trust-premium-lessons-from-indonesias-first-sharia-p2p-generation-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T01:00:49+00:00",
-      "age_days": 0.54,
+      "age_days": 0.56,
       "topics": [
         "ai"
       ],
@@ -365,7 +389,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 133.5,
+      "age_days": 133.52,
       "topics": [
         "ai"
       ],
@@ -394,7 +418,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu7k",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-30T10:54:02.040+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -421,7 +445,7 @@
       "url": "https://www.heise.de/news/TeamViewer-stopft-Codeschmuggel-Luecke-11506072.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-30T12:20:00.000+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -446,7 +470,7 @@
       "url": "https://www.heise.de/news/Erneut-kritischer-Bug-in-Linux-TCP-IP-aufgedeckt-Updates-in-Arbeit-11506050.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-30T12:12:00.000+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "security"
@@ -472,7 +496,7 @@
       "url": "https://www.heise.de/news/Cisco-Firewalls-und-GitLab-Luecke-werden-angegriffen-11505669.html",
       "source": "heise Security Alerts",
       "published_at": "2026-10-30T07:51:00.000+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "security",
         "infra"
@@ -498,7 +522,7 @@
       "url": "https://e27.co/north-koreas-hiring-scam-just-cost-binance-us6-3b-seas-engineers-are-on-the-shortlist-20261030/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T09:04:26+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "infra"
       ],
@@ -523,7 +547,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu6f",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-30T05:15:17.040+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "disaster"
       ],
@@ -548,7 +572,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu7j",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-30T10:30:55.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -573,7 +597,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu7b",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-30T09:01:05.040+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -598,7 +622,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu6i",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-30T05:27:03.040+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "disaster"
       ],
@@ -623,7 +647,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu5q",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-30T03:18:33.040+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "disaster"
       ],
@@ -648,7 +672,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu4z",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-29T23:57:22.040+00:00",
-      "age_days": 0.59,
+      "age_days": 0.6,
       "topics": [
         "disaster"
       ],
@@ -673,7 +697,7 @@
       "url": "https://e27.co/powering-the-green-transition-why-the-global-battery-race-runs-through-hong-kong-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T00:00:30+00:00",
-      "age_days": 0.59,
+      "age_days": 0.6,
       "topics": [
         "general"
       ],
@@ -697,7 +721,7 @@
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261030~e92c3c838c.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-10-30T09:00:00+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "macro"
       ],
@@ -721,7 +745,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261030-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-10-30T01:11:38+00:00",
-      "age_days": 0.54,
+      "age_days": 0.55,
       "topics": [
         "general"
       ],
@@ -745,7 +769,7 @@
       "url": "https://e27.co/the-sovereign-threshold-why-airtight-ai-decisions-are-paralysing-executive-teams-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T02:00:52+00:00",
-      "age_days": 0.5,
+      "age_days": 0.51,
       "topics": [
         "ai",
         "macro"
@@ -772,7 +796,7 @@
       "url": "https://e27.co/amplicity-raises-us1m-to-put-singapores-sleeping-data-centre-batteries-to-work-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T01:30:00+00:00",
-      "age_days": 0.52,
+      "age_days": 0.54,
       "topics": [
         "ai",
         "infra"
@@ -800,7 +824,7 @@
       "url": "https://tech.every.tv/entry/2026/10/30/124255",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-30T05:48:02+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "general"
       ],
@@ -824,7 +848,7 @@
       "url": "https://news.web.nhk/newsweb/na/nd-20261030de68404",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-30T04:56:14+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "general"
       ],
@@ -848,7 +872,7 @@
       "url": "https://ymotongpoo.hatenablog.com/entry/2026/10/30/093000",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-30T00:38:15+00:00",
-      "age_days": 0.56,
+      "age_days": 0.57,
       "topics": [
         "general"
       ],
@@ -872,7 +896,7 @@
       "url": "https://www.yasuhisay.info/entry/2026/10/29/093840",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-29T00:52:08+00:00",
-      "age_days": 1.55,
+      "age_days": 1.56,
       "topics": [
         "general"
       ],
@@ -896,7 +920,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu7m",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-30T11:37:34.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "disaster"
@@ -924,7 +948,7 @@
       "url": "https://e27.co/your-sme-doesnt-need-a-chatbot-it-needs-the-work-after-the-chat-done-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T03:30:52+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "ai"
       ],
@@ -950,7 +974,7 @@
       "url": "https://note.com/hgffdgn654/n/n92467b83a1c1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-29T14:57:36+00:00",
-      "age_days": 0.96,
+      "age_days": 0.97,
       "topics": [
         "ai"
       ],
@@ -976,7 +1000,7 @@
       "url": "https://e27.co/hasan-vc-moria-ventures-bet-on-gulf-capital-to-rescue-indonesias-halal-startups-20261029/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T02:00:24+00:00",
-      "age_days": 0.5,
+      "age_days": 0.51,
       "topics": [
         "ai"
       ],
@@ -1002,7 +1026,7 @@
       "url": "https://e27.co/the-fan-vote-is-broken-here-is-what-it-takes-to-make-people-trust-it-again-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-10-30T03:00:56+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "ai"
       ],
@@ -1023,32 +1047,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "I’m the founder of MyStarChain, which runs blockchain-based public voting for awards, pageants and competitions through the MyStarPick platform. In August my team ran the public vote for the 70th Miss Korea pageant. When the count closed, nobody asked us to prove it. The organiser did not need to, the contestants did…"
-    },
-    {
-      "title": "Roblox hands Fave founder Joel Neoh the keys to SEA. His first job isn’t growth, it’s trust",
-      "url": "https://e27.co/roblox-hands-fave-founder-joel-neoh-the-keys-to-sea-his-first-job-isnt-growth-its-trust-20261030/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-10-30T09:15:16+00:00",
-      "age_days": 0.2,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Joel Neoh has spent two decades selling things to adults: group-buying deals at Groupon, cashback at Fave, DNA kits and supplements at Prenetics. His new job asks him to build a business on a platform where a large slice of the audience still needs a parent’s permission to buy anything. Roblox has appointed the Malays…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Google Chrome: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
