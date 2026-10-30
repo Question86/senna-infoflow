@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-30T02:01:16+00:00_
+_Generiert: 2026-10-30T02:21:14+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月29日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+11 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月29日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 ## Priorität Hoch
 
@@ -24,6 +24,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **The sovereign threshold: Why airtight AI decisions are paralysing executive teams** — Score 13, observation — [Quelle](https://e27.co/the-sovereign-threshold-why-airtight-ai-decisions-are-paralysing-executive-teams-20261028/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-30T02:00:52+00:00`, fetched `2026-10-30T02:20:47+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Watchgraph:agriculture_food_fertilizer
+  - Watchgraph: agriculture_food_fertilizer
+  - Markt-/Kontextkorb: ADM, BG, DE, NTR, CF, MOS, wheat, corn, soy
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)
+  - Kurz: Picture a leadership meeting that goes like this. The air conditioner in the corner of the 22nd-floor boardroom had a faint, high-pitched metallic whine. Outside the glass, the heat off Robinson Road shimmered against the asphalt, but inside, the air was cold enough to raise goosebumps. David, the CEO, leaned forward and rested his forearms […] The post The sovereign threshold: Why airtight AI decisions are paralysi…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **HASAN.VC, Moria Ventures bet on Gulf capital to rescue Indonesia’s halal startups** — Score 10, observation — [Quelle](https://e27.co/hasan-vc-moria-ventures-bet-on-gulf-capital-to-rescue-indonesias-halal-startups-20261029/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-30T02:00:24+00:00`, fetched `2026-10-30T02:00:37+00:00`
@@ -42,15 +51,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules energy_oil_gas_power_uranium (+3.0)
   - Kurz: Singapore’s data centres keep roughly 160 MWh of battery capacity on permanent standby, charged and waiting for a blackout that almost never comes. For an island that imports nearly all its fuel and is scrambling for clean power, that is a lot of expensive hardware doing nothing. Amplicity, a Singapore-headquartered energy technology startup, wants to […] The post Amplicity raises US$1M to put Singapore’s sleeping d…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **The sharia trust premium: Lessons from Indonesia’s first sharia P2P generation** — Score 10, observation — [Quelle](https://e27.co/the-sharia-trust-premium-lessons-from-indonesias-first-sharia-p2p-generation-20261028/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-10-30T01:00:49+00:00`, fetched `2026-10-30T01:09:19+00:00`
-  - Treffer: APAC Trend Radar, Open Source
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)
-  - Kurz: Indonesia’s sharia P2P lending sector looks different in 2026 than it did when Dana Syariah Indonesia and a cohort of sharia-compliant fintechs scaled between 2018 and 2022. The sector that aimed to bring Islamic finance principles into digital lending has consolidated significantly. Several platforms have been through restructuring. Dana Syariah Indonesia, whose OJK license was […] The post The sharia trust premium…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.6 - 59 km SW of Port-Vila, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu4z)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-10-29T23:57:22.040+00:00`, fetched `2026-10-29T23:59:36+00:00`
