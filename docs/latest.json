@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T21:54:47+00:00",
-  "run_id": "2026-10-30T21:54:47+00:00",
+  "generated_at": "2026-10-30T22:00:51+00:00",
+  "run_id": "2026-10-30T22:00:51+00:00",
   "date": "2026-10-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 61
+      "configured_public_sources_only": 62
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 61,
-    "displayed_findings": 61,
+    "new_relevant_findings": 1,
+    "today_file_total": 62,
+    "displayed_findings": 62,
     "high": 0,
     "medium": 14,
-    "observe": 47,
+    "observe": 48,
     "source_errors": 0
   },
   "sections": {
@@ -713,6 +713,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "8615836a109938793b16"
+      },
+      {
+        "title": "Fair use benefits everyone",
+        "url": "https://openai.com/index/fair-use-benefits-everyone",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-10-30T00:00:00+00:00",
+        "fetched_at": "2026-10-30T22:00:13+00:00",
+        "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+        "matched_keywords": [
+          "AI/KI",
+          "OpenAI"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f86b233e879a099f945d"
       },
       {
         "title": "Multiples vulnérabilités dans Google Chrome (28 octobre 2026)",
@@ -2207,6 +2228,27 @@
       "id": "8615836a109938793b16"
     },
     {
+      "title": "Fair use benefits everyone",
+      "url": "https://openai.com/index/fair-use-benefits-everyone",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-30T00:00:00+00:00",
+      "fetched_at": "2026-10-30T22:00:13+00:00",
+      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+      "matched_keywords": [
+        "AI/KI",
+        "OpenAI"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f86b233e879a099f945d"
+    },
+    {
       "title": "Multiples vulnérabilités dans Google Chrome (28 octobre 2026)",
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1398/",
       "source": "CERT-FR Avis de sécurité",
@@ -3013,7 +3055,29 @@
       "id": "a80c3cf2b44ace954e42"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Fair use benefits everyone",
+      "url": "https://openai.com/index/fair-use-benefits-everyone",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-10-30T00:00:00+00:00",
+      "fetched_at": "2026-10-30T22:00:13+00:00",
+      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+      "matched_keywords": [
+        "AI/KI",
+        "OpenAI"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f86b233e879a099f945d"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
