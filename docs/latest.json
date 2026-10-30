@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T01:21:20+00:00",
-  "run_id": "2026-10-30T01:21:20+00:00",
+  "generated_at": "2026-10-30T01:28:30+00:00",
+  "run_id": "2026-10-30T01:28:30+00:00",
   "date": "2026-10-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 8,
     "displayed_findings": 8,
     "high": 0,
@@ -403,28 +403,7 @@
       "id": "a80c3cf2b44ace954e42"
     }
   ],
-  "new_findings": [
-    {
-      "title": "古川大臣記者会見（令和8年10月30日）動画を掲載しました",
-      "url": "https://www.digital.go.jp/speech/minister-261030-01",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-10-30T01:11:38+00:00",
-      "fetched_at": "2026-10-30T01:20:50+00:00",
-      "summary": "古川大臣記者会見（令和8年10月30日）動画を掲載しました",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a51fbd4a1146b4ef0f68"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
