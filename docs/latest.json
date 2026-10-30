@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T08:01:19+00:00",
-  "run_id": "2026-10-30T08:01:19+00:00",
+  "generated_at": "2026-10-30T08:20:25+00:00",
+  "run_id": "2026-10-30T08:20:25+00:00",
   "date": "2026-10-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 26
+      "configured_public_sources_only": 27
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 26,
-    "displayed_findings": 26,
+    "today_file_total": 27,
+    "displayed_findings": 27,
     "high": 0,
     "medium": 4,
-    "observe": 22,
+    "observe": 23,
     "source_errors": 0
   },
   "sections": {
@@ -590,6 +590,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "a51fbd4a1146b4ef0f68"
+      },
+      {
+        "title": "無印良品、「MUJIアプリ」の利用者情報最大約2726万件が不正アクセスにより流出の可能性",
+        "url": "https://internet.watch.impress.co.jp/docs/news/2152666.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-30T06:32:44+00:00",
+        "fetched_at": "2026-10-30T08:19:53+00:00",
+        "summary": "無印良品、「MUJIアプリ」の利用者情報最大約2726万件が不正アクセスにより流出の可能性",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "cb7b82cbd8122bc2eb18"
       },
       {
         "title": "暗号資産の「バイナンス」に不正アクセスか 影響額 約9900億円 | NHKニュース",
@@ -1260,6 +1281,27 @@
       "id": "a51fbd4a1146b4ef0f68"
     },
     {
+      "title": "無印良品、「MUJIアプリ」の利用者情報最大約2726万件が不正アクセスにより流出の可能性",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2152666.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-30T06:32:44+00:00",
+      "fetched_at": "2026-10-30T08:19:53+00:00",
+      "summary": "無印良品、「MUJIアプリ」の利用者情報最大約2726万件が不正アクセスにより流出の可能性",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cb7b82cbd8122bc2eb18"
+    },
+    {
       "title": "暗号資産の「バイナンス」に不正アクセスか 影響額 約9900億円 | NHKニュース",
       "url": "https://news.web.nhk/newsweb/na/nd-20261030de68404",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1367,24 +1409,25 @@
   ],
   "new_findings": [
     {
-      "title": "Cisco-Firewalls und GitLab-Lücke werden angegriffen",
-      "url": "https://www.heise.de/news/Cisco-Firewalls-und-GitLab-Luecke-werden-angegriffen-11505669.html",
-      "source": "heise Security Alerts",
+      "title": "無印良品、「MUJIアプリ」の利用者情報最大約2726万件が不正アクセスにより流出の可能性",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2152666.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-30T07:51:00.000+00:00",
-      "fetched_at": "2026-10-30T08:00:45+00:00",
-      "summary": "Bösartige Akteure missbrauchen Schwachstellen in Ciscos SSL-VPN und GitLab. Updates stehen bereit, Admins sollten sie installieren.",
+      "published_at": "2026-10-30T06:32:44+00:00",
+      "fetched_at": "2026-10-30T08:19:53+00:00",
+      "summary": "無印良品、「MUJIアプリ」の利用者情報最大約2726万件が不正アクセスにより流出の可能性",
       "matched_keywords": [
-        "Security"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "df7b17ba6ed78bf59230"
+      "id": "cb7b82cbd8122bc2eb18"
     }
   ],
   "source_errors": [],
