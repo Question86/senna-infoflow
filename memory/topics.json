@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-30T10:53:41+00:00",
+  "generated_at": "2026-10-30T10:59:14+00:00",
   "topics": {
     "ai": [
       {
@@ -172,6 +172,13 @@
         "url": "https://e27.co/north-koreas-hiring-scam-just-cost-binance-us6-3b-seas-engineers-are-on-the-shortlist-20261030/"
       },
       {
+        "title": "M 4.5 - 104 km ENE of Barcelona, Philippines",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-30T10:54:02.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu7k"
+      },
+      {
         "title": "M 4.6 - 51 km ENE of Noda, Japan",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-10-30T05:15:17.040+00:00",
@@ -226,13 +233,6 @@
         "published_at": "2026-10-30T01:11:38+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/speech/minister-261030-01"
-      },
-      {
-        "title": "無印良品、「MUJIアプリ」の利用者情報最大約2726万件が不正アクセスにより流出の可能性",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-10-30T06:32:44+00:00",
-        "relevance_score": 5,
-        "url": "https://internet.watch.impress.co.jp/docs/news/2152666.html"
       }
     ],
     "geopolitics": [

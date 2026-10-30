@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-30T10:53:41+00:00_
+_Generiert: 2026-10-30T10:59:14+00:00_
 
 ## Kurzlage
 
-37 neue relevante Treffer. Stärkstes Signal: „milind-soni/OpenMausBot“ aus GitHub Trending RSS All Languages Daily (Score 17, opportunity).
+38 neue relevante Treffer. Stärkstes Signal: „milind-soni/OpenMausBot“ aus GitHub Trending RSS All Languages Daily (Score 17, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -125,6 +125,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); Reputationsrisiko (+8.8); Southeast Asia (+2.0); recent (+1.0)
   - Kurz: For years, Southeast Asia’s crypto regulators have asked exchanges the same set of questions. Where is your licence? Where is your local entity? Where are your cold wallets, and whose name is on them? On October 29, North Korea answered with a question of its own: whose laptop is this? Binance, the world’s largest crypto […] The post North Korea’s hiring scam just cost Binance US$6.3B. SEA’s engineers are on the sho…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 4.5 - 104 km ENE of Barcelona, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu7k)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-10-30T10:54:02.040+00:00`, fetched `2026-10-30T10:58:44+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-10-30 10:24:11 UTC 2026-10-30 10:24:11 UTC at epicenter Location 8.373°N 127.362°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.6 - 51 km ENE of Noda, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu6f)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
