@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T23:22:31+00:00",
-  "run_id": "2026-10-30T23:22:31+00:00",
+  "generated_at": "2026-10-30T23:28:05+00:00",
+  "run_id": "2026-10-30T23:28:05+00:00",
   "date": "2026-10-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 66
+      "configured_public_sources_only": 67
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 66,
-    "displayed_findings": 66,
+    "today_file_total": 67,
+    "displayed_findings": 67,
     "high": 0,
     "medium": 14,
-    "observe": 52,
+    "observe": 53,
     "source_errors": 0
   },
   "sections": {
@@ -1410,6 +1410,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "a51fbd4a1146b4ef0f68"
+      },
+      {
+        "title": "小学生の絵に「AIくさい」 中傷相次ぎしょうゆコンクール公開中止：朝日新聞",
+        "url": "https://www.asahi.com/articles/ASVBZ2WFHVBZUTIL023M.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-30T22:18:39+00:00",
+        "fetched_at": "2026-10-30T23:27:34+00:00",
+        "summary": "福島県喜多方市が特産のしょうゆのPRをかねて地元の小学生から募集したポスターコンクールで、入賞作品に「生成AI（人工知能）が使われた」などとの中傷がネットで相次ぎ、作品の公開が中止された。画用紙での…",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "bb5020fc39f9af2fa67b"
       },
       {
         "title": "推定1兆円相当のBinanceの不正出金事案についてまとめてみた - piyolog",
@@ -3026,6 +3047,27 @@
       "id": "a51fbd4a1146b4ef0f68"
     },
     {
+      "title": "小学生の絵に「AIくさい」 中傷相次ぎしょうゆコンクール公開中止：朝日新聞",
+      "url": "https://www.asahi.com/articles/ASVBZ2WFHVBZUTIL023M.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-30T22:18:39+00:00",
+      "fetched_at": "2026-10-30T23:27:34+00:00",
+      "summary": "福島県喜多方市が特産のしょうゆのPRをかねて地元の小学生から募集したポスターコンクールで、入賞作品に「生成AI（人工知能）が使われた」などとの中傷がネットで相次ぎ、作品の公開が中止された。画用紙での…",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bb5020fc39f9af2fa67b"
+    },
+    {
       "title": "推定1兆円相当のBinanceの不正出金事案についてまとめてみた - piyolog",
       "url": "https://piyolog.hatenadiary.jp/entry/2026/10/30/230303",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3259,40 +3301,25 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.6 - 33 km NE of Mazo Cruz, Peru",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tufp",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "小学生の絵に「AIくさい」 中傷相次ぎしょうゆコンクール公開中止：朝日新聞",
+      "url": "https://www.asahi.com/articles/ASVBZ2WFHVBZUTIL023M.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-30T23:14:13.040+00:00",
-      "fetched_at": "2026-10-30T23:22:05+00:00",
-      "summary": "Time 2026-10-30 22:46:57 UTC 2026-10-30 22:46:57 UTC at epicenter Location 16.544°S 69.484°W Depth 194.81 km (121.05 mi)",
+      "published_at": "2026-10-30T22:18:39+00:00",
+      "fetched_at": "2026-10-30T23:27:34+00:00",
+      "summary": "福島県喜多方市が特産のしょうゆのPRをかねて地元の小学生から募集したポスターコンクールで、入賞作品に「生成AI（人工知能）が使われた」などとの中傷がネットで相次ぎ、作品の公開が中止された。画用紙での…",
       "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "9d89c666f866003f598f"
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bb5020fc39f9af2fa67b"
     }
   ],
   "source_errors": [],
