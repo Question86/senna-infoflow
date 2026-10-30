@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-30T00:58:11+00:00_
+_Generiert: 2026-10-30T01:09:49+00:00_
 
 ## Kurzlage
 
-5 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月29日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+7 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年10月29日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -97,6 +97,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **The sharia trust premium: Lessons from Indonesia’s first sharia P2P generation** — Score 10, observation — [Quelle](https://e27.co/the-sharia-trust-premium-lessons-from-indonesias-first-sharia-p2p-generation-20261028/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-30T01:00:49+00:00`, fetched `2026-10-30T01:09:19+00:00`
+  - Treffer: APAC Trend Radar, Open Source
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)
+  - Kurz: Indonesia’s sharia P2P lending sector looks different in 2026 than it did when Dana Syariah Indonesia and a cohort of sharia-compliant fintechs scaled between 2018 and 2022. The sector that aimed to bring Islamic finance principles into digital lending has consolidated significantly. Several platforms have been through restructuring. Dana Syariah Indonesia, whose OJK license was […] The post The sharia trust premium…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Powering the green transition: Why the global battery race runs through Hong Kong** — Score 10, observation — [Quelle](https://e27.co/powering-the-green-transition-why-the-global-battery-race-runs-through-hong-kong-20261029/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-10-30T00:00:30+00:00`, fetched `2026-10-30T00:39:36+00:00`
@@ -115,6 +124,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-10-29 23:04:49 UTC 2026-10-29 23:04:49 UTC at epicenter Location 18.132°S 167.935°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Indonesia’s 8 per cent cap cost Gojek US$8.4M in a quarter. GoPay covered the bill** — Score 7, observation — [Quelle](https://e27.co/indonesias-8-per-cent-cap-cost-gojek-us8-4m-in-a-quarter-gopay-covered-the-bill-20261029/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-10-30T01:00:39+00:00`, fetched `2026-10-30T01:09:19+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)
+  - Kurz: GoTo has now reported a net profit for three quarters in a row. Read past the headline, though, and the numbers show a company run by its payments arm, while its ride-hailing business absorbs the cost of a government-imposed fare squeeze. GoTo reported a third-quarter net profit of Rp441 billion (about US$24.6 million), compared with […] The post Indonesia’s 8 per cent cap cost Gojek US$8.4M in a quarter. GoPay cove…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **デザインは見た目ではなく意思決定だった ─ フロントエンドエンジニアがデザインシステム導入で学び直したこと - Findy Tech Blog** — Score 5, observation — [Quelle](https://tech.findy.co.jp/entry/2026/10/30/070000)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-10-29T22:25:22+00:00`, fetched `2026-10-30T00:39:36+00:00`
