@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-10-30T03:19:44+00:00",
+  "generated_at": "2026-10-30T03:30:15+00:00",
   "topics": {
     "security": [
       {
@@ -101,6 +101,13 @@
       }
     ],
     "general": [
+      {
+        "title": "M 5.1 - 97 km NNE of Finschhafen, Papua New Guinea",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-10-30T03:18:33.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu5q"
+      },
       {
         "title": "M 4.6 - 59 km SW of Port-Vila, Vanuatu",
         "source": "USGS M4.5+ Earthquakes Past Hour",
