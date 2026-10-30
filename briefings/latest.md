@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-30T18:29:14+00:00_
+_Generiert: 2026-10-30T18:36:06+00:00_
 
 ## Kurzlage
 
-60 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] n8n: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 18, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+60 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] n8n: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 18, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -310,7 +310,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `bsi_cert_bund_csw` (rss): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
