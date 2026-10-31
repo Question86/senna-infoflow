@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-10-31T23:02:14Z",
+  "generated_at": "2026-10-31T23:16:45Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “もう「CVSSで重大→修正急務」は限界 「即対応」脆弱性を9割減らすGitHub推奨の優先順位付け基準” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/30/news060.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-30T09:16:56+00:00",
-      "age_days": 1.57,
+      "age_days": 1.58,
       "topics": [
         "ai"
       ],
@@ -40,7 +40,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuku",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-31T22:34:07.103+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -65,7 +65,7 @@
       "url": "https://github.com/expo/skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-31T06:53:26+00:00",
-      "age_days": 0.67,
+      "age_days": 0.68,
       "topics": [
         "ai",
         "macro"
@@ -94,7 +94,7 @@
       "url": "https://github.com/CopilotKit/OpenBot",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-10-31T06:53:26+00:00",
-      "age_days": 0.67,
+      "age_days": 0.68,
       "topics": [
         "ai"
       ],
@@ -120,7 +120,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 134.88,
+      "age_days": 134.89,
       "topics": [
         "ai"
       ],
@@ -149,7 +149,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-10-31T14:28:34+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "macro",
@@ -178,7 +178,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-31T03:33:42.040+00:00",
-      "age_days": 0.81,
+      "age_days": 0.82,
       "topics": [
         "disaster"
       ],
@@ -203,7 +203,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuk4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-31T19:08:59.040+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -224,11 +224,36 @@
       "summary": "ShakeMap - III Time 2026-10-31 18:51:02 UTC 2026-10-31 18:51:02 UTC at epicenter Location 51.699°N 172.793°W Depth 44.87 km (27.88 mi)"
     },
     {
+      "title": "M 5.2 - 200 km NW of Port-Olry, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuky",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-10-31T23:11:08.040+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-10-31 22:42:39 UTC 2026-10-31 22:42:39 UTC at epicenter Location 13.873°S 165.646°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 5.0 - 115 km SE of Bushehr, Iran",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tukm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-31T21:35:56.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -253,7 +278,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tujf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-31T16:09:15.196+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "disaster"
       ],
@@ -278,7 +303,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuif",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-10-31T11:47:21.040+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "disaster"
       ],
@@ -297,31 +322,6 @@
         "high terms: 10"
       ],
       "summary": "Time 2026-10-31 11:31:12 UTC 2026-10-31 11:31:12 UTC at epicenter Location 13.907°S 165.676°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 4.9 - 236 km NW of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuht",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-10-31T09:40:35.040+00:00",
-      "age_days": 0.56,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-10-31 09:18:32 UTC 2026-10-31 09:18:32 UTC at epicenter Location 13.789°S 165.295°E Depth 10.00 km (6.21 mi)"
     }
   ],
   "read_order": [
