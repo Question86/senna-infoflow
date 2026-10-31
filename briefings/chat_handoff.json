@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-31T05:34:56+00:00",
+  "generated_at": "2026-10-31T05:39:54+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 7,
-    "displayed_findings": 7,
+    "new_relevant_findings": 1,
+    "today_file_total": 8,
+    "displayed_findings": 8,
     "high": 0,
     "medium": 1,
-    "observe": 6
+    "observe": 7
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -45,6 +45,16 @@
       "section": "observe"
     },
     {
+      "title": "「ここ 3 年くらいの CloudWatch アップデート について丸っと解説します」というタイトルで登壇しました #devio2026 | DevelopersIO",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-31T02:15:33+00:00",
+      "relevance_score": 8,
+      "url": "https://dev.classmethod.jp/articles/cloudwatc-upadte-summary-devio-2026/",
+      "summary": "「ここ 3 年くらいの CloudWatch アップデート について丸っと解説します」というタイトルで登壇しました #devio2026 | DevelopersIO",
+      "section": "observe"
+    },
+    {
       "title": "もう「CVSSで重大→修正急務」は限界 「即対応」脆弱性を9割減らすGitHub推奨の優先順位付け基準",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
@@ -52,16 +62,6 @@
       "relevance_score": 8,
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/30/news060.html",
       "summary": "攻撃多発時こそ「基礎対策」の見直し、徹底を サイバー攻撃が連日のように続いています。そうした中で「うちは大丈夫か」「不正アクセスされているのか」「漏えいしていないのか」などと言われても、セキュリティ対策状況によっては回答が難しいこともあるでしょう。ならば、せめて対策の基礎を見直し、改めて徹底してみ...",
-      "section": "observe"
-    },
-    {
-      "title": "GMO不正アクセスの件で見つけた不審なXアカウントと「被害者フォーラム」について | ActiveTK's Note",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-30T22:33:17+00:00",
-      "relevance_score": 5,
-      "url": "https://note.activetk.jp/hacks/onamae-desktop-cloud-v3",
-      "summary": "GMO不正アクセスの件で見つけた不審なXアカウントと「被害者フォーラム」について解説しました。",
       "section": "observe"
     }
   ],
