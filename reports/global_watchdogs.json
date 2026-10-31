@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T22:41:12+00:00",
+  "generated_at": "2026-10-31T22:46:26+00:00",
   "sections": {
     "global_security": [
       {
@@ -103,9 +103,19 @@
         "metrics": {
           "mag": 6.0,
           "alert": "green",
-          "sig": 555.0,
+          "sig": 556.0,
           "tsunami": 0
         }
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 6M, Depth:352.449km) in Japan 31/10/2026 22:15 UTC, 60 thousand in MMI III.",
+        "summary": "Green earthquake (Magnitude 6M, Depth:352.449km) in Japan 31/10/2026 22:15 UTC, 60 thousand in MMI III.",
+        "source": "GDACS",
+        "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574997",
+        "published_at": "",
+        "metrics": {}
       },
       {
         "domain": "security",
