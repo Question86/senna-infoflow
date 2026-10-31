@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-10-31T13:40:46+00:00_
+_Generiert: 2026-10-31T13:46:00+00:00_
 
 ## Kurzlage
 
-20 neue relevante Treffer. Stärkstes Signal: „expo/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+21 neue relevante Treffer. Stärkstes Signal: „expo/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -177,3 +177,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `twcert_security_news` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)
