@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-10-31T22:35:44+00:00_
+_Generiert: 2026-10-31T22:41:09+00:00_
 
 ## Kurzlage
 
@@ -44,7 +44,7 @@ _Generiert: 2026-10-31T22:35:44+00:00_
 - **USGS earthquake M6.0 - 58 km SSE of Shima, Japan** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuku)
   - Quelle: USGS
   - Zeit: `2026-10-31T22:15:02+00:00`
-  - Kurz: M6.0 - 58 km SSE of Shima, Japan. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M6.0 - 58 km SSE of Shima, Japan. PAGER alert: green. Tsunami flag: 0.
 - **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Papua New Guinea 29/10/2026 03:26 UTC, Few people affected (in MMI&gt;=VII).** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574467)
   - Quelle: GDACS
   - Zeit: ``
