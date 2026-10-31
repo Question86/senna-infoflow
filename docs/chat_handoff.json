@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-10-31T11:49:29+00:00",
+  "generated_at": "2026-10-31T11:55:13+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 17,
-    "displayed_findings": 17,
+    "today_file_total": 18,
+    "displayed_findings": 18,
     "high": 0,
-    "medium": 4,
+    "medium": 5,
     "observe": 13
   },
   "source_errors_count": 0,
@@ -22,6 +22,16 @@
       "relevance_score": 23,
       "url": "https://github.com/expo/skills",
       "summary": "A collection of AI agent skills for working with Expo projects and Expo Application Services Expo Skills Official AI agent skills from the Expo team for building, deploying, upgrading, and debugging Expo apps. How It Works Skills give AI agents focused Expo k…",
+      "section": "medium"
+    },
+    {
+      "title": "OpenAI アルトマンCEO「PCに大量のRAMを搭載するのは問題」と発言。ローカルAIより「クラウドで24時間活用すべき」との考え語る | テクノエッジ TechnoEdge",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-31T07:41:11+00:00",
+      "relevance_score": 18,
+      "url": "https://www.techno-edge.net/article/2026/10/31/5657.html",
+      "summary": "ガジェット全般、サイエンス、宇宙、音楽、モータースポーツetc... 電気・ネットワーク技術者。実績媒体Engadget日本版, Autoblog日本版, Forbes JAPAN他 OpenAIのサム・アルトマンCEOは、米決済大手Stripeの共同創業者ジョン・コリソン氏のポッドキャスト番組に出演した際に「個人のPCに大量のDRAMを保有させることには...",
       "section": "medium"
     },
     {
@@ -42,16 +52,6 @@
       "relevance_score": 15,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugv",
       "summary": "Time 2026-10-31 03:14:13 UTC 2026-10-31 03:14:13 UTC at epicenter Location 30.910°N 142.519°E Depth 10.00 km (6.21 mi)",
-      "section": "medium"
-    },
-    {
-      "title": "CopilotKit/OpenBot",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "relevance_score": 14,
-      "url": "https://github.com/CopilotKit/OpenBot",
-      "summary": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent. https://www.copilotkit.ai/openbot OpenBot The AI assistant your company can actu…",
       "section": "medium"
     },
     {
