@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-10-31T22:29:36+00:00_
+_Generated: 2026-10-31T22:35:44+00:00_
 
 ## Status
 - status: `normal`
-- findings: `28`
+- findings: `29`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-10-31T22:29:36+00:00_
 - url: https://www.techno-edge.net/article/2026/10/31/5657.html
 - summary: ガジェット全般、サイエンス、宇宙、音楽、モータースポーツetc... 電気・ネットワーク技術者。実績媒体Engadget日本版, Autoblog日本版, Forbes JAPAN他 OpenAIのサム・アルトマンCEOは、米決済大手Stripeの共同創業者ジョン・コリソン氏のポッドキャスト番組に出演した際に「個人のPCに大量のDRAMを保有させることには...
 
-### 4. OpenAI CEOが個人PCにメモリを積むのは「かなりひどい」と発言。DRAMはクラウドに集約すべきと主張
-- source: Hatena Bookmark Hotentry IT
-- score: `16`
-- published: `2026-10-31T02:56:44+00:00`
-- url: https://gazlog.jp/entry/open-ai-ceo-memory-should-go-to-dc/
-- summary: メモリ不足が続く中、OpenAIのSam Altman CEOが、DRAMを誰もが自分のPCに積んでおくのは「かなりひどい」と語りました。PCではDRAMがほとんど活用されておらず、クラウドに集めて使い切る方が良いという背景のようです。 AIをPCで動かしたい人は多いが、DRAMはクラウドに集めるべきとAltman氏 AIデータセンター向けの需...
+### 4. M 6.0 - 58 km SSE of Shima, Japan
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `17`
+- published: `2026-10-31T22:34:07.103+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuku
+- summary: ShakeMap - III Time 2026-10-31 22:15:02 UTC 2026-10-31 22:15:02 UTC at epicenter Location 33.822°N 136.985°E Depth 352.45 km (219.00 mi)
 
 ### 5. もう無理｜ひでと
 - source: Hatena Bookmark Hotentry IT
