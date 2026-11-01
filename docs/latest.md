@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-01T17:49:17+00:00_
+_Generiert: 2026-11-01T17:54:18+00:00_
 
 ## Kurzlage
 
-27 neue relevante Treffer. Stärkstes Signal: „GitHub - vercel-labs/agent-desktop: Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry,“ aus Hatena Bookmark Hotentry IT (Score 23, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+27 neue relevante Treffer. Stärkstes Signal: „GitHub - vercel-labs/agent-desktop: Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry,“ aus Hatena Bookmark Hotentry IT (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -124,7 +124,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `restofworld_feed` (rss): 403 Client Error: Forbidden for url: https://restofworld.org/feed/latest/
