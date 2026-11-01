@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-01T01:19:06+00:00_
+_Generiert: 2026-11-01T01:24:47+00:00_
 
 ## Kurzlage
 
-3 neue relevante Treffer. Stärkstes Signal: „AIエージェント向けの業務手順書（Agent Skills）の設計方法“ aus Hatena Bookmark Hotentry IT (Score 14, observation).
+3 neue relevante Treffer. Stärkstes Signal: „AIエージェント向けの業務手順書（Agent Skills）の設計方法“ aus Hatena Bookmark Hotentry IT (Score 14, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -50,3 +50,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `ecb_open_market_operations` (rss): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
