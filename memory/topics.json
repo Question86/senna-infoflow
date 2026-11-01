@@ -1,6 +1,25 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-01T00:01:07+00:00",
-  "topics": {}
+  "generated_at": "2026-11-01T00:40:33+00:00",
+  "topics": {
+    "ai": [
+      {
+        "title": "AIエージェント向けの業務手順書（Agent Skills）の設計方法",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-30T10:18:57+00:00",
+        "relevance_score": 14,
+        "url": "https://techblog.kazaneya.com/20261030-agent-skills/"
+      }
+    ],
+    "general": [
+      {
+        "title": "M 4.8 - 199 km NW of Port-Olry, Vanuatu",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-11-01T00:17:06.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tule"
+      }
+    ]
+  }
 }
