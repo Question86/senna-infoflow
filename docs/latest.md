@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-01T01:57:30+00:00_
+_Generiert: 2026-11-01T02:06:48+00:00_
 
 ## Kurzlage
 
-4 neue relevante Treffer. Stärkstes Signal: „AIエージェント向けの業務手順書（Agent Skills）の設計方法“ aus Hatena Bookmark Hotentry IT (Score 14, observation).
+5 neue relevante Treffer. Stärkstes Signal: „AIエージェント向けの業務手順書（Agent Skills）の設計方法“ aus Hatena Bookmark Hotentry IT (Score 14, observation).
 
 ## Priorität Hoch
 
@@ -33,6 +33,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 米OpenAI、米Google、米Microsoftは10月30日（現地時間）、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を複数のAI企業にまとめて伝えられる共通の仕組みに対応する方針をそれぞれ発表した。米Anthropicも実装を進めている。この仕組みは、Anthropicの標準化担当者、ケビン・ケリー氏が同日付で標準化団体IET...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.5 - 55 km SSW of Ollagüe, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuly)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-01T01:58:21.040+00:00`, fetched `2026-11-01T02:06:21+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-11-01 01:24:52 UTC 2026-11-01 01:24:52 UTC at epicenter Location 21.698°S 68.435°W Depth 120.44 km (74.84 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.8 - 199 km NW of Port-Olry, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tule)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-01T00:17:06.040+00:00`, fetched `2026-11-01T00:40:04+00:00`
