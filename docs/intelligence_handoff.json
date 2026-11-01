@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-01T19:31:45Z",
+  "generated_at": "2026-11-01T19:46:46Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “GitHub - vercel-labs/agent-desktop: Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay…” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/vercel-labs/agent-desktop",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-01T02:51:00+00:00",
-      "age_days": 0.69,
+      "age_days": 0.71,
       "topics": [
         "ai",
         "macro"
@@ -44,7 +44,7 @@
       "url": "https://rocket-boys.co.jp/security-measures-lab/contact_form_7_624_security_update_20261030/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-30T22:48:42+00:00",
-      "age_days": 1.86,
+      "age_days": 1.87,
       "topics": [
         "security"
       ],
@@ -70,7 +70,7 @@
       "url": "https://slides.yusu.ke/foss4g-2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-01T11:35:27+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -96,7 +96,7 @@
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-01T07:33:43+00:00",
-      "age_days": 0.5,
+      "age_days": 0.51,
       "topics": [
         "ai",
         "macro"
@@ -124,7 +124,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 135.73,
+      "age_days": 135.74,
       "topics": [
         "ai"
       ],
@@ -153,7 +153,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tupl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-01T12:07:14.175+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "disaster"
       ],
@@ -178,7 +178,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tur0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-01T19:12:41.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -203,7 +203,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuqv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-01T18:55:28.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -228,7 +228,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuqx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-01T18:54:01.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -253,7 +253,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuqi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-01T17:40:10.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -277,7 +277,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuqk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-01T17:30:32.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -302,7 +302,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tupq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-01T12:26:07.040+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "disaster"
       ],
