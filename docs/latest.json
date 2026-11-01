@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01T21:35:38+00:00",
-  "run_id": "2026-11-01T21:35:38+00:00",
+  "generated_at": "2026-11-01T21:41:06+00:00",
+  "run_id": "2026-11-01T21:41:06+00:00",
   "date": "2026-11-01",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 31
+      "configured_public_sources_only": 32
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 31,
-    "displayed_findings": 31,
+    "new_relevant_findings": 1,
+    "today_file_total": 32,
+    "displayed_findings": 32,
     "high": 0,
     "medium": 5,
-    "observe": 26,
+    "observe": 27,
     "source_errors": 0
   },
   "sections": {
@@ -976,6 +976,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "bf0b7f1f1638b3d8feba"
+      },
+      {
+        "title": "Game Off 2026: The theme is SHIFT",
+        "url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
+        "source": "GitHub Blog Atom",
+        "source_type": "rss",
+        "published_at": "2026-11-01T21:36:00+00:00",
+        "fetched_at": "2026-11-01T21:40:36+00:00",
+        "summary": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub"
+        ],
+        "relevance_score": 3,
+        "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c5d94fb387149473f697"
       }
     ]
   },
@@ -1925,9 +1945,50 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "bf0b7f1f1638b3d8feba"
+    },
+    {
+      "title": "Game Off 2026: The theme is SHIFT",
+      "url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
+      "source": "GitHub Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-11-01T21:36:00+00:00",
+      "fetched_at": "2026-11-01T21:40:36+00:00",
+      "summary": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c5d94fb387149473f697"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Game Off 2026: The theme is SHIFT",
+      "url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
+      "source": "GitHub Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-11-01T21:36:00+00:00",
+      "fetched_at": "2026-11-01T21:40:36+00:00",
+      "summary": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c5d94fb387149473f697"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
