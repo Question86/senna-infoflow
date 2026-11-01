@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-01T22:34:20+00:00_
+_Generiert: 2026-11-01T22:39:54+00:00_
 
 ## Kurzlage
 
-34 neue relevante Treffer. Stärkstes Signal: „GitHub - vercel-labs/agent-desktop: Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry,“ aus Hatena Bookmark Hotentry IT (Score 23, opportunity).
+35 neue relevante Treffer. Stärkstes Signal: „GitHub - vercel-labs/agent-desktop: Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry,“ aus Hatena Bookmark Hotentry IT (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -96,14 +96,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 米OpenAI、米Google、米Microsoftは10月30日（現地時間）、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を複数のAI企業にまとめて伝えられる共通の仕組みに対応する方針をそれぞれ発表した。米Anthropicも実装を進めている。この仕組みは、Anthropicの標準化担当者、ケビン・ケリー氏が同日付で標準化団体IET...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.8 - Mid-Indian Ridge** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tur0)
+- **M 4.6 - Mid-Indian Ridge** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000turv)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-11-01T19:12:41.040+00:00`, fetched `2026-11-01T19:22:04+00:00`
+  - Zeit: published `2026-11-01T22:37:14.040+00:00`, fetched `2026-11-01T22:39:26+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-11-01 18:53:57 UTC 2026-11-01 18:53:57 UTC at epicenter Location 35.441°S 78.417°E Depth 10.00 km (6.21 mi)
+  - Kurz: Time 2026-11-01 22:22:44 UTC 2026-11-01 22:22:44 UTC at epicenter Location 35.403°S 78.404°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **楽天証券、顧客情報流出の可能性 NTTデータ委託先不正アクセスで** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35254251/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
