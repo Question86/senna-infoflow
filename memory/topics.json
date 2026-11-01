@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-01T01:41:07+00:00",
+  "generated_at": "2026-11-01T01:46:40+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-10-30T10:18:57+00:00",
         "relevance_score": 14,
         "url": "https://techblog.kazaneya.com/20261030-agent-skills/"
+      },
+      {
+        "title": "AI学習への利用拒否をrobots.txtで一括指定へ OpenAIやGoogleなどが対応表明",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-01T00:58:30+00:00",
+        "relevance_score": 12,
+        "url": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/"
       },
       {
         "title": "ローマ教皇、AIに法的人格や権利を与えるべきではないと主張「機械は人間ではない」",
