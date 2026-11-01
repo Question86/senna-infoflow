@@ -1,9 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-01T07:28:00+00:00",
+  "generated_at": "2026-11-01T07:34:09+00:00",
   "topics": {
     "ai": [
+      {
+        "title": "Donchitos/Claude-Code-Game-Studios",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 18,
+        "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
+      },
       {
         "title": "AIエージェント向けの業務手順書（Agent Skills）の設計方法",
         "source": "Hatena Bookmark Hotentry IT",
@@ -33,6 +40,15 @@
         "url": "https://www.afpbb.com/articles/-/3660265"
       }
     ],
+    "github": [
+      {
+        "title": "Donchitos/Claude-Code-Game-Studios",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 18,
+        "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
+      }
+    ],
     "general": [
       {
         "title": "M 4.8 - 71 km NNW of San Antonio de los Cobres, Argentina",
@@ -54,6 +70,13 @@
         "published_at": "2026-10-31T23:27:23+00:00",
         "relevance_score": 10,
         "url": "https://japan.cnet.com/article/35254251/"
+      },
+      {
+        "title": "M 5.1 - 201 km NW of Port-Olry, Vanuatu",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-11-01T07:29:13.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tund"
       },
       {
         "title": "M 5.4 - 203 km NW of Port-Olry, Vanuatu",
