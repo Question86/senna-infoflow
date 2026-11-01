@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-01T07:34:09+00:00_
+_Generiert: 2026-11-01T07:39:48+00:00_
 
 ## Kurzlage
 
-12 neue relevante Treffer. Stärkstes Signal: „Donchitos/Claude-Code-Game-Studios“ aus GitHub Trending RSS All Languages Daily (Score 18, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+12 neue relevante Treffer. Stärkstes Signal: „Donchitos/Claude-Code-Game-Studios“ aus GitHub Trending RSS All Languages Daily (Score 18, opportunity).
 
 ## Priorität Hoch
 
@@ -96,7 +96,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `e27_asia_startups_feed` (rss): 403 Client Error: Forbidden for url: https://e27.co/feed/
