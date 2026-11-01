@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-01T18:52:37+00:00_
+_Generiert: 2026-11-01T18:57:43+00:00_
 
 ## Kurzlage
 
-27 neue relevante Treffer. Stärkstes Signal: „GitHub - vercel-labs/agent-desktop: Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry,“ aus Hatena Bookmark Hotentry IT (Score 23, opportunity).
+29 neue relevante Treffer. Stärkstes Signal: „GitHub - vercel-labs/agent-desktop: Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry,“ aus Hatena Bookmark Hotentry IT (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -96,14 +96,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 米OpenAI、米Google、米Microsoftは10月30日（現地時間）、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を複数のAI企業にまとめて伝えられる共通の仕組みに対応する方針をそれぞれ発表した。米Anthropicも実装を進めている。この仕組みは、Anthropicの標準化担当者、ケビン・ケリー氏が同日付で標準化団体IET...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.8 - 71 km NNW of San Antonio de los Cobres, Argentina** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tumy)
+- **M 4.6 - Mid-Indian Ridge** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuqv)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-11-01T05:47:27.040+00:00`, fetched `2026-11-01T05:48:14+00:00`
+  - Zeit: published `2026-11-01T18:55:28.040+00:00`, fetched `2026-11-01T18:57:13+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Argentina (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-11-01 05:31:54 UTC 2026-11-01 05:31:54 UTC at epicenter Location 23.639°S 66.632°W Depth 202.07 km (125.56 mi)
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-11-01 18:30:23 UTC 2026-11-01 18:30:23 UTC at epicenter Location 23.950°S 69.507°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **楽天証券、顧客情報流出の可能性 NTTデータ委託先不正アクセスで** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35254251/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
