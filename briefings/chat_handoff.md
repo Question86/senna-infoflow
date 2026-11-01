@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-01T17:21:16+00:00_
+_Generated: 2026-11-01T17:26:48+00:00_
 
 ## Status
 - status: `normal`
-- findings: `24`
+- findings: `25`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-11-01T17:21:16+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tunq
 - summary: Time 2026-11-01 08:20:07 UTC 2026-11-01 08:20:07 UTC at epicenter Location 24.881°N 122.062°E Depth 118.80 km (73.82 mi)
 
-### 7. AI学習への利用拒否をrobots.txtで一括指定へ OpenAIやGoogleなどが対応表明
+### 7. HonoがPRを閉じた理由
+- source: Hatena Bookmark Hotentry IT
+- score: `12`
+- published: `2026-11-01T11:35:27+00:00`
+- url: https://slides.yusu.ke/foss4g-2026
+- summary: ::title:: HonoがPRを閉じた理由 Yusuke Wada FOSS4G分科会シンポジウム 2026「AI時代のFOSS4G」 ・ November 1, 2026 Yusuke Wada Cloudflare Senior Developer Advocate Creator of Hono ::right:: Hono JavaScriptで動くWebフレームワーク GitHub上でOSSとして開発 2021年12月〜 32K stars / 月間2.67億 ダウンロード...
+
+### 8. AI学習への利用拒否をrobots.txtで一括指定へ OpenAIやGoogleなどが対応表明
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-11-01T00:58:30+00:00`
 - url: https://www.itmedia.co.jp/news/article/2611/01/2000002776/
 - summary: 米OpenAI、米Google、米Microsoftは10月30日（現地時間）、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を複数のAI企業にまとめて伝えられる共通の仕組みに対応する方針をそれぞれ発表した。米Anthropicも実装を進めている。この仕組みは、Anthropicの標準化担当者、ケビン・ケリー氏が同日付で標準化団体IET...
-
-### 8. M 4.8 - 71 km NNW of San Antonio de los Cobres, Argentina
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-11-01T05:47:27.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tumy
-- summary: Time 2026-11-01 05:31:54 UTC 2026-11-01 05:31:54 UTC at epicenter Location 23.639°S 66.632°W Depth 202.07 km (125.56 mi)
 
 END OF DOCUMENT
