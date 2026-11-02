@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-02T08:23:19Z",
+  "generated_at": "2026-11-02T08:32:18Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Schwachstellen in Drupal, Ivanti Connect Secure und Synology angegriffen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=27.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -40,7 +40,7 @@
       "url": "https://jvn.jp/jp/JVN23328936/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-02T12:00:00+09:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -91,7 +91,7 @@
       "url": "https://github.com/lightpanda-io/browser",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-02T07:26:26+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "security"
@@ -175,7 +175,7 @@
       "url": "https://e27.co/ask-for-whats-missing-inside-the-machine-behind-the-breaking-point-part-2-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T04:00:56+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "macro"
@@ -199,11 +199,35 @@
       "summary": "In my last article, I described how the SR21 x World Government Summit workshop in Dubai was curated, planned, and run with AI as the orchestrator, piloted by two part-time organisers, Khor Zijian and Lin Fanghong. I promised a closer look at the engine underneath: Machine Augmented Insights Extraction, or MAIE. This…"
     },
     {
+      "title": "M 5.1 - 19 km WNW of Tomohon, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuuy",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-02T08:27:49.040+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "Time 2026-11-02 08:13:14 UTC 2026-11-02 08:13:14 UTC at epicenter Location 1.392°N 124.648°E Depth 196.65 km (122.19 mi)"
+    },
+    {
       "title": "M 4.6 - 201 km NE of Kuril’sk, Russia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tutv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-02T05:11:20.040+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -228,7 +252,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tut4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-02T01:36:08.040+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "disaster"
       ],
@@ -253,7 +277,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tusv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-02T01:09:20.040+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "disaster"
       ],
@@ -299,34 +323,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "I use AI almost every day. Sometimes, several times a day. As someone managing a digital publication and overseeing marketing for an esports business, I’ve come to rely on ChatGPT (and sometimes Claude) for everything from writing and research to campaign planning and website troubleshooting. It’s saved me countless h…"
-    },
-    {
-      "title": "M 4.5 - 288 km SSE of Muroto-misakicho, Japan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuta",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-11-02T02:12:33.040+00:00",
-      "age_days": 0.26,
-      "topics": [
-        "ai",
-        "disaster"
-      ],
-      "dynamics_score": 15.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Time 2026-11-02 01:54:55 UTC 2026-11-02 01:54:55 UTC at epicenter Location 30.841°N 135.199°E Depth 510.07 km (316.94 mi)"
     }
   ],
   "read_order": [
