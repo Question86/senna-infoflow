@@ -535,6 +535,26 @@
     "id": "6efcb3a36639d334a5e4"
   },
   {
+    "title": "Schadcode-Sicherheitslücken bedrohen Veeam Management Pack",
+    "url": "https://www.heise.de/news/Schadcode-Sicherheitsluecken-bedrohen-Veeam-Management-Pack-11507704.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-11-02T09:32:00.000+00:00",
+    "fetched_at": "2026-11-02T09:40:37+00:00",
+    "summary": "Das Veeam Management Pack für Microsoft System Center ist verwundbar. Abhilfe schafft ein Upgrade auf Version 13.1.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "760599c25a1373ddc990"
+  },
+  {
     "title": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html",
     "source": "ECB Press Releases Speeches Interviews",
