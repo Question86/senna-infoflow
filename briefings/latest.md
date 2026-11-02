@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-02T11:41:48+00:00_
+_Generiert: 2026-11-02T11:52:48+00:00_
 
 ## Kurzlage
 
-36 neue relevante Treffer. Stärkstes Signal: „Startups recalibrate Chinese AI for the West“ aus Rest of World Global Tech Feed (Score 20, observation).
+37 neue relevante Treffer. Stärkstes Signal: „Startups recalibrate Chinese AI for the West“ aus Rest of World Global Tech Feed (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -204,6 +204,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-11-02 01:18:16 UTC 2026-11-02 01:18:16 UTC at epicenter Location 31.224°S 177.724°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Binance’s US$6.4B hack was decided in 54 minutes, and the chase isn’t over** — Score 8, observation — [Quelle](https://e27.co/binances-us6-4b-hack-was-decided-in-54-minutes-and-the-chase-isnt-over-20261102/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-02T11:47:19+00:00`, fetched `2026-11-02T11:52:17+00:00`
+  - Treffer: APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: At about 4.20am Singapore time on October 30, while most of Southeast Asia’s crypto traders were asleep, money began leaving Binance. By the time the region’s markets opened, the world’s largest crypto exchange had suffered the biggest theft in crypto history. Blockchain analytics firm Chainalysis has now published its reconstruction of the attack. It puts […] The post Binance’s US$6.4B hack was decided in 54 minute…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AI prepared every decision. It did not raise the ceiling on scale** — Score 8, observation — [Quelle](https://e27.co/ai-prepared-every-decision-it-did-not-raise-the-ceiling-on-scale-20261028/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-02T03:30:20+00:00`, fetched `2026-11-02T03:33:25+00:00`
@@ -248,15 +257,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Startup Island TAIWAN, the national startup brand of Taiwan, backed by the National Development Council (NDC), led 33 Taiwanese deep-tech startups to the Taiwan Pavilion at SWITCH 2026 in Singapore from October 27 to 29, in partnership with Startup Terrace, Hsinchu Science Park Bureau, the Taiwan Stock Exchange (TWSE) and Taiwan Digi Gold Card. Exhibiting […] The post Startup Island TAIWAN leads 33 deep-tech startup…
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Ask for what’s missing: Inside the machine behind “The Breaking Point” — Part 2** — Score 7, opportunity — [Quelle](https://e27.co/ask-for-whats-missing-inside-the-machine-behind-the-breaking-point-part-2-20261025/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-02T04:00:56+00:00`, fetched `2026-11-02T04:01:18+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: In my last article, I described how the SR21 x World Government Summit workshop in Dubai was curated, planned, and run with AI as the orchestrator, piloted by two part-time organisers, Khor Zijian and Lin Fanghong. I promised a closer look at the engine underneath: Machine Augmented Insights Extraction, or MAIE. This is that look. […] The post Ask for what’s missing: Inside the machine behind “The Breaking Point” —…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **サービスレベル設計として捉える非機能の考え方 | フューチャー技術ブログ** — Score 7, observation — [Quelle](https://future-architect.github.io/articles/20261102a/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
