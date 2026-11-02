@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-02T09:51:53+00:00",
+  "generated_at": "2026-11-02T09:56:51+00:00",
   "topics": {
     "ai": [
       {
@@ -96,6 +96,13 @@
         "published_at": "2026-11-02T07:45:00.000+00:00",
         "relevance_score": 10,
         "url": "https://www.heise.de/news/Schwachstellen-in-Drupal-Ivanti-Connect-Secure-und-Synology-angegriffen-11507497.html"
+      },
+      {
+        "title": "Sicherheitslücken in Progress WS_FTP ermöglichen Kompromittierung",
+        "source": "heise Security Alerts",
+        "published_at": "2026-11-02T09:44:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Sicherheitsluecken-in-Progress-WS-FTP-ermoeglichen-Kompromittierung-11507580.html"
       },
       {
         "title": "Schadcode-Sicherheitslücken bedrohen Veeam Management Pack",
