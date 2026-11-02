@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-02T07:49:06+00:00_
+_Generiert: 2026-11-02T07:54:56+00:00_
 
 ## Kurzlage
 
-22 neue relevante Treffer. Stärkstes Signal: „lightpanda-io/browser“ aus GitHub Trending RSS All Languages Daily (Score 20, opportunity).
+23 neue relevante Treffer. Stärkstes Signal: „lightpanda-io/browser“ aus GitHub Trending RSS All Languages Daily (Score 20, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -105,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Schwachstellen in Drupal, Ivanti Connect Secure und Synology angegriffen** — Score 10, risk — [Quelle](https://www.heise.de/news/Schwachstellen-in-Drupal-Ivanti-Connect-Secure-und-Synology-angegriffen-11507497.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-11-02T07:45:00.000+00:00`, fetched `2026-11-02T07:54:25+00:00`
+  - Treffer: Security, Watchgraph:cyber_active_exploitation
+  - Watchgraph: cyber_active_exploitation
+  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: Security (+6.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
+  - Kurz: Angreifer missbrauchen Lücken in veralteten Betriebssystemen oder als Zero-Day-Lücken in Drupal, Ivanti Connect Secure und Synology.
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026** — Score 10, observation — [Quelle](https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-01T16:58:30+00:00`, fetched `2026-11-02T00:35:38+00:00`

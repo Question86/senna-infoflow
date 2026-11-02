@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-02T07:49:06+00:00",
+  "generated_at": "2026-11-02T07:54:56+00:00",
   "topics": {
     "ai": [
       {
@@ -89,6 +89,13 @@
         "published_at": "2026-11-02T12:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN23328936/"
+      },
+      {
+        "title": "Schwachstellen in Drupal, Ivanti Connect Secure und Synology angegriffen",
+        "source": "heise Security Alerts",
+        "published_at": "2026-11-02T07:45:00.000+00:00",
+        "relevance_score": 10,
+        "url": "https://www.heise.de/news/Schwachstellen-in-Drupal-Ivanti-Connect-Secure-und-Synology-angegriffen-11507497.html"
       }
     ],
     "github": [
