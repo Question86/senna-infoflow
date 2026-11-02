@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-02T20:59:09+00:00",
+  "generated_at": "2026-11-02T21:09:20+00:00",
   "topics": {
     "ai": [
       {
@@ -47,6 +47,13 @@
         "url": "https://openai.com/index/qodo-codex-plugin"
       },
       {
+        "title": "日本の全法令を git の履歴にしてみた",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-02T05:17:38+00:00",
+        "relevance_score": 13,
+        "url": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git"
+      },
+      {
         "title": "Capital needs AI, and AI needs capital - Europe's opportunity for more growth",
         "source": "BIS Central Bankers Speeches",
         "published_at": "2026-11-02T00:00:00+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-11-02T06:27:09+00:00",
         "relevance_score": 12,
         "url": "https://pc.watch.impress.co.jp/docs/news/2153092.html"
-      },
-      {
-        "title": "AI adoption in Europe",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-11-02T00:00:00+00:00",
-        "relevance_score": 12,
-        "url": "https://www.bis.org/speeches/20261102-ai-adoption-europe"
       }
     ],
     "security": [
