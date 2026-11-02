@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-02T17:43:44+00:00_
+_Generiert: 2026-11-02T17:49:08+00:00_
 
 ## Kurzlage
 
-74 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+75 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -213,6 +213,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); GitHub (+2.0); recent (+1.0)
   - Kurz: The GitHub code security risk assessment and secret risk assessment now show whether findings are in protected or unprotected repositories, helping you identify where to extend your security coverage. Organization… The post Security risk assessments include repository protection status appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **LifeVal** — Score 10, observation — [Quelle](https://openai.com/index/lifeval)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-11-02T09:00:00+00:00`, fetched `2026-11-02T17:48:36+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)
+  - Kurz: Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Schwachstellen in Drupal, Ivanti Connect Secure und Synology angegriffen** — Score 10, risk — [Quelle](https://www.heise.de/news/Schwachstellen-in-Drupal-Ivanti-Connect-Secure-und-Synology-angegriffen-11507497.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-11-02T07:45:00.000+00:00`, fetched `2026-11-02T07:54:25+00:00`
@@ -248,15 +257,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: At about 4.20am Singapore time on October 30, while most of Southeast Asia’s crypto traders were asleep, money began leaving Binance. By the time the region’s markets opened, the world’s largest crypto exchange had suffered the biggest theft in crypto history. Blockchain analytics firm Chainalysis has now published its reconstruction of the attack. It puts […] The post Binance’s US$6.4B hack was decided in 54 minute…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AI prepared every decision. It did not raise the ceiling on scale** — Score 8, observation — [Quelle](https://e27.co/ai-prepared-every-decision-it-did-not-raise-the-ceiling-on-scale-20261028/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-02T03:30:20+00:00`, fetched `2026-11-02T03:33:25+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Every week, the meetings I sit in across the businesses I work with are recorded, and an AI system turns each one into four lists: decisions, risks, blockers and next priorities. It takes minutes. I rely on it. After months of reading those lists back to back, one thing is hard to miss. The system […] The post AI prepared every decision. It did not raise the ceiling on scale appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
