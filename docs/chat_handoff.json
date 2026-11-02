@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-02T14:38:26+00:00",
-  "status": "normal",
-  "coverage_confidence": "normal",
+  "generated_at": "2026-11-02T14:43:27+00:00",
+  "status": "warning",
+  "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 53,
-    "displayed_findings": 53,
+    "new_relevant_findings": 1,
+    "today_file_total": 54,
+    "displayed_findings": 54,
     "high": 0,
-    "medium": 21,
+    "medium": 22,
     "observe": 32
   },
-  "source_errors_count": 0,
+  "source_errors_count": 1,
   "top_signals": [
+    {
+      "title": "Updates | ReliefWeb",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-11-02T14:43:16+00:00",
+      "relevance_score": 23,
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "section": "medium"
+    },
     {
       "title": "Startups recalibrate Chinese AI for the West",
       "source": "Rest of World Global Tech Feed",
@@ -42,16 +52,6 @@
       "relevance_score": 19,
       "url": "https://e27.co/ai-saves-me-hours-but-i-dont-trust-it-blindly-20261028/",
       "summary": "I use AI almost every day. Sometimes, several times a day. As someone managing a digital publication and overseeing marketing for an esports business, I’ve come to rely on ChatGPT (and sometimes Claude) for everything from writing and research to campaign pla…",
-      "section": "medium"
-    },
-    {
-      "title": "[NEU] [hoch] Microsoft Azure, Entra und Exchange: Mehrere Schwachstellen",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-11-02T13:17:57+00:00",
-      "relevance_score": 18,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4286",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Azure, Microsoft Entra und Microsoft Exchange ausnutzen, um seine Privilegien zu erhöhen oder beliebigen Code auszuführen.",
       "section": "medium"
     },
     {

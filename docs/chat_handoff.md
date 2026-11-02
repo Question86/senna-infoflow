@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-02T14:38:26+00:00_
+_Generated: 2026-11-02T14:43:27+00:00_
 
 ## Status
-- status: `normal`
-- findings: `53`
+- status: `warning`
+- findings: `54`
 
 ## Top Signals
 
-### 1. Startups recalibrate Chinese AI for the West
+### 1. Updates | ReliefWeb
+- source: ReliefWeb Mindanao Recovery Watch
+- score: `23`
+- published: `2026-11-02T14:43:16+00:00`
+- url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
+- summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
+
+### 2. Startups recalibrate Chinese AI for the West
 - source: Rest of World Global Tech Feed
 - score: `20`
 - published: `2026-11-02T11:00:00+00:00`
 - url: https://restofworld.org/2026/western-startups-realigning-chinese-ai-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
 - summary: A growing number of startups are editing powerful Chinese open-weight models for Western businesses that are concerned about censorship and security.
 
-### 2. lightpanda-io/browser
+### 3. lightpanda-io/browser
 - source: GitHub Trending RSS All Languages Daily
 - score: `20`
 - published: `None`
 - url: https://github.com/lightpanda-io/browser
 - summary: Lightpanda: the headless browser designed for AI and automation https://lightpanda.io Lightpanda Browser The headless browser built from scratch for AI agents and automation. Not a Chromium fork. Not a WebKit patch. A new browser, written in Zig. 16x lighter…
 
-### 3. AI saves me hours, but I don’t trust it blindly
+### 4. AI saves me hours, but I don’t trust it blindly
 - source: e27 Asia Startup and Tech Feed
 - score: `19`
 - published: `2026-11-02T01:00:15+00:00`
 - url: https://e27.co/ai-saves-me-hours-but-i-dont-trust-it-blindly-20261028/
 - summary: I use AI almost every day. Sometimes, several times a day. As someone managing a digital publication and overseeing marketing for an esports business, I’ve come to rely on ChatGPT (and sometimes Claude) for everything from writing and research to campaign pla…
-
-### 4. [NEU] [hoch] Microsoft Azure, Entra und Exchange: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `18`
-- published: `2026-11-02T13:17:57+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4286
-- summary: Ein Angreifer kann mehrere Schwachstellen in Microsoft Azure, Microsoft Entra und Microsoft Exchange ausnutzen, um seine Privilegien zu erhöhen oder beliebigen Code auszuführen.
 
 ### 5. Euro area bank interest rate statistics: September 2026
 - source: ECB Statistical Press Releases
