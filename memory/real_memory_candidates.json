@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-11-02T09:32:00Z",
+  "generated_at": "2026-11-02T10:02:32Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -48,12 +48,17 @@
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     },
     {
-      "title": "Startup Island TAIWAN leads 33 deep-tech startups to SWITCH 2026, advancing their expansion into Singapore",
+      "title": "Sicherheitslücken in Progress WS_FTP ermöglichen Kompromittierung",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     },
     {
-      "title": "Ask for what’s missing: Inside the machine behind “The Breaking Point” — Part 2",
+      "title": "Schadcode-Sicherheitslücken bedrohen Veeam Management Pack",
+      "band": "strong",
+      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
+    },
+    {
+      "title": "M 4.7 - 113 km SW of Basco, Philippines",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     }
