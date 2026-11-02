@@ -707,6 +707,29 @@
     "id": "97de361d9310b73e147e"
   },
   {
+    "title": "ISUCON2026 で優勝しました（当日編）",
+    "url": "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-11-02T13:50:45+00:00",
+    "fetched_at": "2026-11-02T15:54:28+00:00",
+    "summary": "当日の様子 8:53 用意していた agent skill で、競技エージェントの起動依頼をして、競技エージェントに渡すPlaywrightのセッションでポータルにログインしました。この後は、競技エージェントには一度も指示を入力しませんでした。 左の pane が起動に使う Claude Code のセッションで、右の pane が競技エージェント実...",
+    "matched_keywords": [
+      "agent",
+      "AI Agents",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0c4da330ce44c7313c5d"
+  },
+  {
     "title": "「今は個人PCに大量のメモリを使うべきでない」OpenAI CEOアルトマン氏が指摘",
     "url": "https://pc.watch.impress.co.jp/docs/news/2153092.html",
     "source": "Hatena Bookmark Hotentry IT",

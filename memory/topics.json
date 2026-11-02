@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-02T15:49:57+00:00",
+  "generated_at": "2026-11-02T15:54:59+00:00",
   "topics": {
     "ai": [
       {
@@ -47,6 +47,13 @@
         "url": "https://www.bis.org/speeches/20261102-capital-needs-ai-and-ai-needs-capital-europes-opportunity-more-growth"
       },
       {
+        "title": "ISUCON2026 で優勝しました（当日編）",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-02T13:50:45+00:00",
+        "relevance_score": 12,
+        "url": "https://zenn.dev/luvtechno/articles/isucon2026-competition-day"
+      },
+      {
         "title": "「今は個人PCに大量のメモリを使うべきでない」OpenAI CEOアルトマン氏が指摘",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-11-02T06:27:09+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-10-28T00:00:00+00:00",
         "relevance_score": 11,
         "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1405/"
-      },
-      {
-        "title": "GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-01T16:58:30+00:00",
-        "relevance_score": 10,
-        "url": "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html"
       }
     ],
     "security": [
