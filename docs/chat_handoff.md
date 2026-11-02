@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-02T08:19:55+00:00_
+_Generated: 2026-11-02T08:29:18+00:00_
 
 ## Status
 - status: `normal`
-- findings: `23`
+- findings: `24`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-11-02T08:19:55+00:00_
 - url: https://e27.co/ai-agents-need-someone-standing-behind-them-says-amantrue-ceo-evin-mcmullen-20261102/
 - summary: A passport is not a clever piece of paper. Anyone with a good printer and bad intentions can fake one. What makes it work is the government standing behind it, an authority that vouched for the holder and can withdraw that vouching the moment something goes w…
 
-### 4. M 4.5 - 288 km SSE of Muroto-misakicho, Japan
+### 4. M 5.1 - 19 km WNW of Tomohon, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
-- published: `2026-11-02T02:12:33.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuta
-- summary: Time 2026-11-02 01:54:55 UTC 2026-11-02 01:54:55 UTC at epicenter Location 30.841°N 135.199°E Depth 510.07 km (316.94 mi)
+- published: `2026-11-02T08:27:49.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuuy
+- summary: Time 2026-11-02 08:13:14 UTC 2026-11-02 08:13:14 UTC at epicenter Location 1.392°N 124.648°E Depth 196.65 km (122.19 mi)
 
 ### 5. Schwachstellen in Drupal, Ivanti Connect Secure und Synology angegriffen
 - source: heise Security Alerts
