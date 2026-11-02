@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-02T13:15:50+00:00_
+_Generated: 2026-11-02T13:22:41+00:00_
 
 ## Status
 - status: `normal`
-- findings: `45`
+- findings: `51`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-11-02T13:15:50+00:00_
 - url: https://e27.co/ai-saves-me-hours-but-i-dont-trust-it-blindly-20261028/
 - summary: I use AI almost every day. Sometimes, several times a day. As someone managing a digital publication and overseeing marketing for an esports business, I’ve come to rely on ChatGPT (and sometimes Claude) for everything from writing and research to campaign pla…
 
-### 4. [UPDATE] [hoch] Google Cloud Platform: Schwachstelle ermöglicht Codeausführung
+### 4. [NEU] [hoch] Microsoft Azure, Entra und Exchange: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
-- score: `17`
-- published: `2026-11-02T11:54:00+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4228
-- summary: Ein Angreifer kann eine Schwachstelle in Google Cloud Platform ausnutzen, um beliebigen Programmcode auszuführen.
+- score: `18`
+- published: `2026-11-02T13:17:57+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4286
+- summary: Ein Angreifer kann mehrere Schwachstellen in Microsoft Azure, Microsoft Entra und Microsoft Exchange ausnutzen, um seine Privilegien zu erhöhen oder beliebigen Code auszuführen.
 
 ### 5. Euro area bank interest rate statistics: September 2026
 - source: ECB Statistical Press Releases
