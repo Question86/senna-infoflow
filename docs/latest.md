@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-02T16:14:06+00:00_
+_Generiert: 2026-11-02T16:21:46+00:00_
 
 ## Kurzlage
 
-71 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+72 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
