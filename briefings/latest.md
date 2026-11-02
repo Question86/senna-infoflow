@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-02T12:55:37+00:00_
+_Generiert: 2026-11-02T13:01:19+00:00_
 
 ## Kurzlage
 
-44 neue relevante Treffer. Stärkstes Signal: „Startups recalibrate Chinese AI for the West“ aus Rest of World Global Tech Feed (Score 20, observation).
+45 neue relevante Treffer. Stärkstes Signal: „Startups recalibrate Chinese AI for the West“ aus Rest of World Global Tech Feed (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
