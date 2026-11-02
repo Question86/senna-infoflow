@@ -60,6 +60,28 @@
     "id": "59fbe46f926377fc7228"
   },
   {
+    "title": "Core TempのカーネルドライバにおけるIOCTLインタフェースに対するアクセス制御が不十分な脆弱性",
+    "url": "https://jvn.jp/jp/JVN23328936/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-11-02T12:00:00+09:00",
+    "fetched_at": "2026-11-02T03:02:26+00:00",
+    "summary": "ALCPUが提供するCore Tempのカーネルドライバには、IOCTLインタフェースに対するアクセス制御が不十分な脆弱性が存在します。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9348bc97813c748b6c29"
+  },
+  {
     "title": "GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026",
     "url": "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html",
     "source": "Hatena Bookmark Hotentry IT",
@@ -235,6 +257,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "3ba0c1ca931dfea69d0a"
+  },
+  {
+    "title": "アップル、Chromeを名指しで挑発。「Safariは あなたを守る、Chromeは あなたを晒す」 - すまほん!!",
+    "url": "https://smhn.info/202611-apple-switch-to-safari-campaign-targets-chrome",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-11-01T14:35:35+00:00",
+    "fetched_at": "2026-11-02T03:02:26+00:00",
+    "summary": "MacやiPhoneには、最初からSafariが入っています。それでも、Googleアカウントでブックマークやパスワードを同期できる、WindowsやAndroidでも同じように使えるといった理由から、わざわざChromeを入れて使っている人は少なくありません。 そんなChromeユーザーに向けて、Appleが公式サイトでかなり挑発的なメッセージを...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "93dda149848bc086e4d1"
   },
   {
     "title": "Bitcoin and Ethereum rebound through a shaky relief move",

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-02T02:56:26+00:00",
+  "generated_at": "2026-11-02T03:02:55+00:00",
   "topics": {
     "ai": [
       {
@@ -31,6 +31,13 @@
         "published_at": "2026-11-01T21:25:56+00:00",
         "relevance_score": 5,
         "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2152921.html"
+      },
+      {
+        "title": "アップル、Chromeを名指しで挑発。「Safariは あなたを守る、Chromeは あなたを晒す」 - すまほん!!",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-01T14:35:35+00:00",
+        "relevance_score": 5,
+        "url": "https://smhn.info/202611-apple-switch-to-safari-campaign-targets-chrome"
       },
       {
         "title": "Bitcoin and Ethereum rebound through a shaky relief move",
@@ -91,6 +98,15 @@
         "published_at": "2026-11-02T02:12:32+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/speech/minister-261102-01"
+      }
+    ],
+    "security": [
+      {
+        "title": "Core TempのカーネルドライバにおけるIOCTLインタフェースに対するアクセス制御が不十分な脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-02T12:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN23328936/"
       }
     ],
     "github": [
