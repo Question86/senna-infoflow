@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-02T06:58:26+00:00",
+  "generated_at": "2026-11-02T07:09:21+00:00",
   "topics": {
     "ai": [
       {
@@ -195,6 +195,13 @@
         "published_at": "2026-11-01T16:58:30+00:00",
         "relevance_score": 10,
         "url": "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html"
+      },
+      {
+        "title": "サービスレベル設計として捉える非機能の考え方 | フューチャー技術ブログ",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-02T01:20:43+00:00",
+        "relevance_score": 7,
+        "url": "https://future-architect.github.io/articles/20261102a/"
       },
       {
         "title": "Bitcoin and Ethereum rebound through a shaky relief move",

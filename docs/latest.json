@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02T06:58:26+00:00",
-  "run_id": "2026-11-02T06:58:26+00:00",
+  "generated_at": "2026-11-02T07:09:21+00:00",
+  "run_id": "2026-11-02T07:09:21+00:00",
   "date": "2026-11-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 19
+      "configured_public_sources_only": 20
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 19,
-    "displayed_findings": 19,
+    "new_relevant_findings": 1,
+    "today_file_total": 20,
+    "displayed_findings": 20,
     "high": 0,
     "medium": 4,
-    "observe": 15,
+    "observe": 16,
     "source_errors": 0
   },
   "sections": {
@@ -407,6 +407,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "77472ff607dd5e984ea7"
+      },
+      {
+        "title": "サービスレベル設計として捉える非機能の考え方 | フューチャー技術ブログ",
+        "url": "https://future-architect.github.io/articles/20261102a/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-02T01:20:43+00:00",
+        "fetched_at": "2026-11-02T07:08:52+00:00",
+        "summary": "秋のブログ週間2026 の5本目です。 前回の 非機能はなぜ必要なのか の続編です。前回は社内の非機能要件ガイドラインを読んで感じた違和感をエッセイとして書きましたが、今回はその考え方を、実務で使える形に整理し直したものです。 本記事の位置づけ本記事は、非機能を「システム開発者の目線」ではなく「事業者（サ...",
+        "matched_keywords": [
+          "GitHub",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "157dbae6c940fdac9405"
       },
       {
         "title": "古川大臣記者会見（令和8年11月2日）動画を掲載しました",
@@ -933,6 +955,28 @@
       "id": "77472ff607dd5e984ea7"
     },
     {
+      "title": "サービスレベル設計として捉える非機能の考え方 | フューチャー技術ブログ",
+      "url": "https://future-architect.github.io/articles/20261102a/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-02T01:20:43+00:00",
+      "fetched_at": "2026-11-02T07:08:52+00:00",
+      "summary": "秋のブログ週間2026 の5本目です。 前回の 非機能はなぜ必要なのか の続編です。前回は社内の非機能要件ガイドラインを読んで感じた違和感をエッセイとして書きましたが、今回はその考え方を、実務で使える形に整理し直したものです。 本記事の位置づけ本記事は、非機能を「システム開発者の目線」ではなく「事業者（サ...",
+      "matched_keywords": [
+        "GitHub",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "157dbae6c940fdac9405"
+    },
+    {
       "title": "古川大臣記者会見（令和8年11月2日）動画を掲載しました",
       "url": "https://www.digital.go.jp/speech/minister-261102-01",
       "source": "Japan Digital Agency News RSS",
@@ -1077,7 +1121,30 @@
       "id": "17d67182ca9a3c30985b"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "サービスレベル設計として捉える非機能の考え方 | フューチャー技術ブログ",
+      "url": "https://future-architect.github.io/articles/20261102a/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-02T01:20:43+00:00",
+      "fetched_at": "2026-11-02T07:08:52+00:00",
+      "summary": "秋のブログ週間2026 の5本目です。 前回の 非機能はなぜ必要なのか の続編です。前回は社内の非機能要件ガイドラインを読んで感じた違和感をエッセイとして書きましたが、今回はその考え方を、実務で使える形に整理し直したものです。 本記事の位置づけ本記事は、非機能を「システム開発者の目線」ではなく「事業者（サ...",
+      "matched_keywords": [
+        "GitHub",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "157dbae6c940fdac9405"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

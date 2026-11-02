@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-02T06:58:26+00:00_
+_Generiert: 2026-11-02T07:09:21+00:00_
 
 ## Kurzlage
 
-19 neue relevante Treffer. Stärkstes Signal: „AI saves me hours, but I don’t trust it blindly“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
+20 neue relevante Treffer. Stärkstes Signal: „AI saves me hours, but I don’t trust it blindly“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -159,6 +159,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: In my last article, I described how the SR21 x World Government Summit workshop in Dubai was curated, planned, and run with AI as the orchestrator, piloted by two part-time organisers, Khor Zijian and Lin Fanghong. I promised a closer look at the engine underneath: Machine Augmented Insights Extraction, or MAIE. This is that look. […] The post Ask for what’s missing: Inside the machine behind “The Breaking Point” —…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **サービスレベル設計として捉える非機能の考え方 | フューチャー技術ブログ** — Score 7, observation — [Quelle](https://future-architect.github.io/articles/20261102a/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-02T01:20:43+00:00`, fetched `2026-11-02T07:08:52+00:00`
+  - Treffer: GitHub, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: 秋のブログ週間2026 の5本目です。 前回の 非機能はなぜ必要なのか の続編です。前回は社内の非機能要件ガイドラインを読んで感じた違和感をエッセイとして書きましたが、今回はその考え方を、実務で使える形に整理し直したものです。 本記事の位置づけ本記事は、非機能を「システム開発者の目線」ではなく「事業者（サ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **古川大臣記者会見（令和8年11月2日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-261102-01)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-11-02T02:12:32+00:00`, fetched `2026-11-02T02:20:56+00:00`
@@ -176,15 +185,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: GMOグローバルサインは10月30日、シングルサインオンサービス「GMOトラスト・ログイン」の設定不備による情報漏えいで、利用企業2492社・4万5030人分の氏名やメールアドレスなどが対象になったと発表した。 顧客情報を含む一時ファイルなどを、ロゴ画像と同じ公開領域に保存する設計になっていたことで、約9年間にわたり...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **クラウドが状態を把握してもIaCがなくならない理由 - YAMAGUCHI::weblog** — Score 5, observation — [Quelle](https://ymotongpoo.hatenablog.com/entry/2026/11/02/093500)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-02T01:05:51+00:00`, fetched `2026-11-02T02:34:25+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: はじめに こんにちは、Grafana Labsでデベロッパーアドボケイトをしているものです。 2026年10月31日、元同僚のJames Ward*1が、Xで「IaC is dead」と投稿しました。AIがあれば、インフラの構成をコードで管理するIaC*2は不要になるという主張で、最後には共著書の宣伝が添えられていました。私は思わず「Such a poor pr...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
