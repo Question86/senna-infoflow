@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-02T11:52:48+00:00",
+  "generated_at": "2026-11-02T11:58:13+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 37,
-    "displayed_findings": 37,
+    "new_relevant_findings": 7,
+    "today_file_total": 44,
+    "displayed_findings": 44,
     "high": 0,
-    "medium": 9,
-    "observe": 28
+    "medium": 15,
+    "observe": 29
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -45,13 +45,13 @@
       "section": "medium"
     },
     {
-      "title": "AI agents need someone standing behind them, says AmanTrue CEO Evin McMullen",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "[UPDATE] [hoch] Google Cloud Platform: Schwachstelle ermöglicht Codeausführung",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-11-02T05:18:24+00:00",
+      "published_at": "2026-11-02T11:54:00+00:00",
       "relevance_score": 17,
-      "url": "https://e27.co/ai-agents-need-someone-standing-behind-them-says-amantrue-ceo-evin-mcmullen-20261102/",
-      "summary": "A passport is not a clever piece of paper. Anyone with a good printer and bad intentions can fake one. What makes it work is the government standing behind it, an authority that vouched for the holder and can withdraw that vouching the moment something goes w…",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4228",
+      "summary": "Ein Angreifer kann eine Schwachstelle in Google Cloud Platform ausnutzen, um beliebigen Programmcode auszuführen.",
       "section": "medium"
     },
     {
