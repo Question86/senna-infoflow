@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-02T02:28:22+00:00_
+_Generiert: 2026-11-02T02:34:57+00:00_
 
 ## Kurzlage
 
-8 neue relevante Treffer. Stärkstes Signal: „AI saves me hours, but I don’t trust it blindly“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
+10 neue relevante Treffer. Stärkstes Signal: „AI saves me hours, but I don’t trust it blindly“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
 
 ## Priorität Hoch
 
@@ -69,6 +69,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 古川大臣記者会見（令和8年11月2日）動画を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **クラウドが状態を把握してもIaCがなくならない理由 - YAMAGUCHI::weblog** — Score 5, observation — [Quelle](https://ymotongpoo.hatenablog.com/entry/2026/11/02/093500)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-02T01:05:51+00:00`, fetched `2026-11-02T02:34:25+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: はじめに こんにちは、Grafana Labsでデベロッパーアドボケイトをしているものです。 2026年10月31日、元同僚のJames Ward*1が、Xで「IaC is dead」と投稿しました。AIがあれば、インフラの構成をコードで管理するIaC*2は不要になるという主張で、最後には共著書の宣伝が添えられていました。私は思わず「Such a poor pr...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **【特集】 メモリ・SSDの値下がりはAIバブル崩壊後？そのときは価格どころではない ～2028年まで逼迫と各社が予測、ただしその先も値下がりの保証なし** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/topic/feature/2152921.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-01T21:25:56+00:00`, fetched `2026-11-02T01:14:14+00:00`
@@ -77,6 +86,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 【特集】 メモリ・SSDの値下がりはAIバブル崩壊後？そのときは価格どころではない ～2028年まで逼迫と各社が予測、ただしその先も値下がりの保証なし
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Bitcoin and Ethereum rebound through a shaky relief move** — Score 4, observation — [Quelle](https://e27.co/bitcoin-and-ethereum-rebound-through-a-shaky-relief-move-20261102/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-02T02:30:48+00:00`, fetched `2026-11-02T02:34:25+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: The top two coin reports tell a connected story. Bitcoin rose 1.16 per cent to US$78,293.83 in 24 hours while Ethereum rose 1.22 per cent to US$2,279.47. The broader crypto market gained 0.75 per cent. That surface looks like a clean recovery. My view is less comfortable. The Bitcoin bounce looks mechanical and brittle. The […] The post Bitcoin and Ethereum rebound through a shaky relief move appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Could creating stories be another way to get kids reading?** — Score 4, observation — [Quelle](https://e27.co/could-creating-stories-be-another-way-to-get-kids-reading-20261028/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
