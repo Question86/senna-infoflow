@@ -642,6 +642,28 @@
     "id": "c87b08621a9fa5895515"
   },
   {
+    "title": "Announcing 20260097 (MRO,liquidity providing), for 7 days deadline 09:30",
+    "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260097.en.html",
+    "source": "ECB Open Market Operations and Communication",
+    "source_type": "rss",
+    "published_at": "2026-11-02T14:49:00+00:00",
+    "fetched_at": "2026-11-02T14:49:00+00:00",
+    "summary": "Announcing 20260097 (MRO,liquidity providing), for 7 days deadline 09:30",
+    "matched_keywords": [
+      "liquidity",
+      "Macro/Policy",
+      "open market operations"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "97de361d9310b73e147e"
+  },
+  {
     "title": "「今は個人PCに大量のメモリを使うべきでない」OpenAI CEOアルトマン氏が指摘",
     "url": "https://pc.watch.impress.co.jp/docs/news/2153092.html",
     "source": "Hatena Bookmark Hotentry IT",
