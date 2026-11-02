@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-02T10:38:45+00:00",
+  "generated_at": "2026-11-02T10:44:34+00:00",
   "topics": {
     "ai": [
       {
@@ -68,11 +68,11 @@
         "url": "https://mainichi.jp/articles/20261102/hrc/00m/020/001000d"
       },
       {
-        "title": "クラウドが状態を把握してもIaCがなくならない理由 - YAMAGUCHI::weblog",
+        "title": "ドコモの5G基地局は他社の半分以下、5G化率18.5％で最下位 総務省調査",
         "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-02T01:05:51+00:00",
+        "published_at": "2026-11-02T05:14:19+00:00",
         "relevance_score": 5,
-        "url": "https://ymotongpoo.hatenablog.com/entry/2026/11/02/093500"
+        "url": "https://k-tai.watch.impress.co.jp/docs/news/2153051.html"
       }
     ],
     "security": [
