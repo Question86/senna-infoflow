@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-11-02T11:32:15Z_
+_Generated: 2026-11-02T11:47:03Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “Schwachstellen in Drupal, Ivanti Connect
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `27.0`
-- Published: `2026-11-02T07:45:00.000+00:00` / age_days `0.16`
+- Published: `2026-11-02T07:45:00.000+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: zero-day, active, exploitation, security high-signal: zero-day, active, exploitation, ivanti
@@ -22,17 +22,27 @@ Stärkste Dynamik nach Gate-Recheck: “Schwachstellen in Drupal, Ivanti Connect
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-11-02T12:00:00+09:00` / age_days `0.36`
+- Published: `2026-11-02T12:00:00+09:00` / age_days `0.37`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
 - Quelle: https://jvn.jp/jp/JVN23328936/
 
+### [UPDATE] [hoch] Rancher: Mehrere Schwachstellen
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-11-02T11:27:32+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4246
+
 ### AI agents need someone standing behind them, says AmanTrue CEO Evin McMullen
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-02T05:18:24+00:00` / age_days `0.26`
+- Published: `2026-11-02T05:18:24+00:00` / age_days `0.27`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, auth, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -42,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “Schwachstellen in Drupal, Ivanti Connect
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-02T07:26:26+00:00` / age_days `0.17`
+- Published: `2026-11-02T07:26:26+00:00` / age_days `0.18`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -52,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “Schwachstellen in Drupal, Ivanti Connect
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `136.4`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `136.41`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 136.4d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “Schwachstellen in Drupal, Ivanti Connect
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-11-02T11:00:00+00:00` / age_days `0.02`
+- Published: `2026-11-02T11:00:00+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -72,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “Schwachstellen in Drupal, Ivanti Connect
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.0`
-- Published: `2026-11-02T09:44:00.000+00:00` / age_days `0.08`
+- Published: `2026-11-02T09:44:00.000+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: kritisch, security high-signal: kritisch
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “Schwachstellen in Drupal, Ivanti Connect
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.0`
-- Published: `2026-11-02T09:32:00.000+00:00` / age_days `0.08`
+- Published: `2026-11-02T09:32:00.000+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code
@@ -92,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “Schwachstellen in Drupal, Ivanti Connect
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-11-02T09:34:03.040+00:00` / age_days `0.08`
+- Published: `2026-11-02T09:34:03.040+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 9.8
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “Schwachstellen in Drupal, Ivanti Connect
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.0`
-- Published: `2026-11-02T04:34:54+00:00` / age_days `0.29`
+- Published: `2026-11-02T04:34:54+00:00` / age_days `0.3`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, exchange, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “Schwachstellen in Drupal, Ivanti Connect
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.0`
-- Published: `2026-11-02T04:00:56+00:00` / age_days `0.31`
+- Published: `2026-11-02T04:00:56+00:00` / age_days `0.32`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
 - Quelle: https://e27.co/ask-for-whats-missing-inside-the-machine-behind-the-breaking-point-part-2-20261025/
-
-### M 5.1 - 19 km WNW of Tomohon, Indonesia
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `18.0`
-- Published: `2026-11-02T08:27:49.040+00:00` / age_days `0.13`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuuy
 
 END OF DOCUMENT
