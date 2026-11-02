@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-02T14:49:33+00:00_
+_Generated: 2026-11-02T14:55:01+00:00_
 
 ## Status
 - status: `normal`
-- findings: `55`
+- findings: `61`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-11-02T14:49:33+00:00_
 - url: https://pc.watch.impress.co.jp/docs/news/2153092.html
 - summary: 「今は個人PCに大量のメモリを使うべきでない」OpenAI CEOアルトマン氏が指摘
 
-### 8. Schwachstellen in Drupal, Ivanti Connect Secure und Synology angegriffen
-- source: heise Security Alerts
-- score: `10`
-- published: `2026-11-02T07:45:00.000+00:00`
-- url: https://www.heise.de/news/Schwachstellen-in-Drupal-Ivanti-Connect-Secure-und-Synology-angegriffen-11507497.html
-- summary: Angreifer missbrauchen Lücken in veralteten Betriebssystemen oder als Zero-Day-Lücken in Drupal, Ivanti Connect Secure und Synology.
+### 8. Multiples vulnérabilités dans Microsoft Edge (28 octobre 2026)
+- source: CERT-FR Avis de sécurité
+- score: `11`
+- published: `2026-10-28T00:00:00+00:00`
+- url: https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1405/
+- summary: De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.
 
 END OF DOCUMENT
