@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-02T07:54:56+00:00_
+_Generiert: 2026-11-02T08:00:22+00:00_
 
 ## Kurzlage
 
@@ -33,10 +33,10 @@ _Generiert: 2026-11-02T07:54:56+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu 01/11/2026 11:47 UTC, 2 thousand in MMI IV.
-- **GDACS: Green notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001346)
+- **GDACS: Red notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 2.104 million .** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001346)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+  - Kurz: Red notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 2.104 million .
 - **GDACS: Green earthquake (Magnitude 6M, Depth:352.449km) in Japan 31/10/2026 22:15 UTC, 60 thousand in MMI III.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574997)
   - Quelle: GDACS
   - Zeit: ``
