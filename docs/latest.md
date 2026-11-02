@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-02T10:55:41+00:00_
+_Generiert: 2026-11-02T11:01:01+00:00_
 
 ## Kurzlage
 
-34 neue relevante Treffer. Stärkstes Signal: „lightpanda-io/browser“ aus GitHub Trending RSS All Languages Daily (Score 20, opportunity).
+34 neue relevante Treffer. Stärkstes Signal: „lightpanda-io/browser“ aus GitHub Trending RSS All Languages Daily (Score 20, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -223,3 +223,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `hn_release_security_burst` (hackernews): HTTPSConnectionPool(host='hn.algolia.com', port=443): Read timed out. (read timeout=8)
