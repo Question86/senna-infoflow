@@ -1,9 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-02T07:19:47+00:00",
+  "generated_at": "2026-11-02T07:26:57+00:00",
   "topics": {
     "ai": [
+      {
+        "title": "lightpanda-io/browser",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 20,
+        "url": "https://github.com/lightpanda-io/browser"
+      },
       {
         "title": "AI saves me hours, but I don’t trust it blindly",
         "source": "e27 Asia Startup and Tech Feed",
@@ -66,6 +73,45 @@
         "published_at": "2026-11-01T14:35:35+00:00",
         "relevance_score": 5,
         "url": "https://smhn.info/202611-apple-switch-to-safari-campaign-targets-chrome"
+      }
+    ],
+    "security": [
+      {
+        "title": "lightpanda-io/browser",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 20,
+        "url": "https://github.com/lightpanda-io/browser"
+      },
+      {
+        "title": "Core TempのカーネルドライバにおけるIOCTLインタフェースに対するアクセス制御が不十分な脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-02T12:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN23328936/"
+      }
+    ],
+    "github": [
+      {
+        "title": "lightpanda-io/browser",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 20,
+        "url": "https://github.com/lightpanda-io/browser"
+      },
+      {
+        "title": "GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-01T16:58:30+00:00",
+        "relevance_score": 10,
+        "url": "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html"
+      },
+      {
+        "title": "サービスレベル設計として捉える非機能の考え方 | フューチャー技術ブログ",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-02T01:20:43+00:00",
+        "relevance_score": 7,
+        "url": "https://future-architect.github.io/articles/20261102a/"
       },
       {
         "title": "Bitcoin and Ethereum rebound through a shaky relief move",
@@ -177,38 +223,6 @@
         "published_at": "2026-11-02T01:59:35+00:00",
         "relevance_score": 5,
         "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002780/"
-      }
-    ],
-    "security": [
-      {
-        "title": "Core TempのカーネルドライバにおけるIOCTLインタフェースに対するアクセス制御が不十分な脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-02T12:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN23328936/"
-      }
-    ],
-    "github": [
-      {
-        "title": "GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-01T16:58:30+00:00",
-        "relevance_score": 10,
-        "url": "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html"
-      },
-      {
-        "title": "サービスレベル設計として捉える非機能の考え方 | フューチャー技術ブログ",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-02T01:20:43+00:00",
-        "relevance_score": 7,
-        "url": "https://future-architect.github.io/articles/20261102a/"
-      },
-      {
-        "title": "Bitcoin and Ethereum rebound through a shaky relief move",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-02T02:30:48+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/bitcoin-and-ethereum-rebound-through-a-shaky-relief-move-20261102/"
       }
     ]
   }
