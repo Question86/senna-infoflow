@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-02T15:46:28Z",
+  "generated_at": "2026-11-02T16:02:26Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 9,
+      "krass": 10,
       "strong": 19,
-      "watch": 12
+      "watch": 11
     },
     "bands_after_gate_recheck": {
       "krass": 3,
-      "strong": 25,
-      "watch": 12
+      "strong": 26,
+      "watch": 11
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4285",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T13:17:56+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4242",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T11:54:21+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -72,7 +72,7 @@
       "url": "https://www.heise.de/news/Schwachstellen-in-Drupal-Ivanti-Connect-Secure-und-Synology-angegriffen-11507497.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-02T07:45:00.000+00:00",
-      "age_days": 0.33,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -97,7 +97,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4286",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T13:17:57+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security",
         "infra"
@@ -124,7 +124,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4283",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T13:17:56+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -150,7 +150,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4228",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T11:54:00+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -176,7 +176,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4287",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T13:17:57+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -200,7 +200,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4214",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T13:17:56+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -224,7 +224,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4284",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T13:17:56+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -248,7 +248,7 @@
       "url": "https://jvn.jp/jp/JVN23328936/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-02T12:00:00+09:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "security"
       ],
@@ -272,7 +272,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4254",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T11:54:22+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -296,7 +296,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4253",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T11:54:21+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -320,7 +320,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1406/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-28T00:00:00+00:00",
-      "age_days": 5.66,
+      "age_days": 5.67,
       "topics": [
         "ai",
         "security"
@@ -346,7 +346,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1340/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-19T00:00:00+00:00",
-      "age_days": 14.66,
+      "age_days": 14.67,
       "topics": [
         "ai",
         "security"
@@ -372,7 +372,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4243",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T11:54:00+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -398,7 +398,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4245",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T11:54:21+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -424,7 +424,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4246",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-02T11:27:32+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -450,7 +450,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1405/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-28T00:00:00+00:00",
-      "age_days": 5.66,
+      "age_days": 5.67,
       "topics": [
         "ai",
         "security"
@@ -473,11 +473,37 @@
       "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité."
     },
     {
+      "title": "Security risk assessments include repository protection status",
+      "url": "https://github.blog/changelog/2026-11-02-security-risk-assessments-include-repository-protection-status",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-11-02T15:47:21+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "The GitHub code security risk assessment and secret risk assessment now show whether findings are in protected or unprotected repositories, helping you identify where to extend your security coverage. Organization… The post Security risk assessments include repository protection status appeared first on The GitHub Blo…"
+    },
+    {
       "title": "AI agents need someone standing behind them, says AmanTrue CEO Evin McMullen",
       "url": "https://e27.co/ai-agents-need-someone-standing-behind-them-says-amantrue-ceo-evin-mcmullen-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T05:18:24+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "ai"
       ],
@@ -504,7 +530,7 @@
       "url": "https://github.com/lightpanda-io/browser",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-02T07:26:26+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "ai",
         "security"
@@ -531,7 +557,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 136.57,
+      "age_days": 136.59,
       "topics": [
         "ai"
       ],
@@ -560,7 +586,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-11-02T14:43:16+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "macro",
@@ -589,7 +615,7 @@
       "url": "https://restofworld.org/2026/western-startups-realigning-chinese-ai-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-11-02T11:00:00+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "ai",
         "security",
@@ -617,7 +643,7 @@
       "url": "https://www.heise.de/news/Sicherheitsluecken-in-Progress-WS-FTP-ermoeglichen-Kompromittierung-11507580.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-02T09:44:00.000+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -642,7 +668,7 @@
       "url": "https://www.heise.de/news/Schadcode-Sicherheitsluecken-bedrohen-Veeam-Management-Pack-11507704.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-02T09:32:00.000+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -667,7 +693,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuv5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-02T09:34:03.040+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "disaster"
       ],
@@ -692,7 +718,7 @@
       "url": "https://e27.co/startup-island-taiwan-leads-33-deep-tech-startups-to-switch-2026-advancing-their-expansion-into-singapore-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T04:34:54+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "ai",
         "infra"
@@ -720,7 +746,7 @@
       "url": "https://e27.co/ask-for-whats-missing-inside-the-machine-behind-the-breaking-point-part-2-20261025/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T04:00:56+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "ai",
         "macro"
@@ -744,11 +770,36 @@
       "summary": "In my last article, I described how the SR21 x World Government Summit workshop in Dubai was curated, planned, and run with AI as the orchestrator, piloted by two part-time organisers, Khor Zijian and Lin Fanghong. I promised a closer look at the engine underneath: Machine Augmented Insights Extraction, or MAIE. This…"
     },
     {
+      "title": "M 5.1 - 50 km WSW of Huarmey, Peru",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuxg",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-02T15:48:47.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-11-02 15:28:13 UTC 2026-11-02 15:28:13 UTC at epicenter Location 10.170°S 78.599°W Depth 67.24 km (41.78 mi)"
+    },
+    {
       "title": "M 5.1 - 19 km WNW of Tomohon, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuuy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-02T08:27:49.040+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "disaster"
       ],
@@ -772,7 +823,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tutv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-02T05:11:20.040+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "disaster"
       ],
@@ -797,7 +848,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tut4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-02T01:36:08.040+00:00",
-      "age_days": 0.59,
+      "age_days": 0.6,
       "topics": [
         "disaster"
       ],
@@ -822,7 +873,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tusv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-02T01:09:20.040+00:00",
-      "age_days": 0.61,
+      "age_days": 0.62,
       "topics": [
         "disaster"
       ],
@@ -847,7 +898,7 @@
       "url": "https://e27.co/ai-saves-me-hours-but-i-dont-trust-it-blindly-20261028/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-02T01:00:15+00:00",
-      "age_days": 0.62,
+      "age_days": 0.63,
       "topics": [
         "ai",
         "macro"
@@ -874,7 +925,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuta",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-02T02:12:33.040+00:00",
-      "age_days": 0.57,
+      "age_days": 0.58,
       "topics": [
         "ai",
         "disaster"
@@ -902,7 +953,7 @@
       "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir2611~2502265512.en.html",
       "source": "ECB Statistical Press Releases",
       "published_at": "2026-11-02T09:00:00+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "macro"
       ],
@@ -926,7 +977,7 @@
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260097.en.html",
       "source": "ECB Open Market Operations and Communication",
       "published_at": "2026-11-02T14:49:00+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "macro"
       ],
@@ -950,7 +1001,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuwv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-02T14:30:22.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -974,7 +1025,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuu0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-02T05:39:59.040+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "disaster"
       ],
@@ -992,54 +1043,6 @@
         "early terms: earthquake"
       ],
       "summary": "Time 2026-11-02 05:19:50 UTC 2026-11-02 05:19:50 UTC at epicenter Location 5.563°S 154.088°E Depth 87.89 km (54.61 mi)"
-    },
-    {
-      "title": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
-      "published_at": "2026-11-02T09:30:00+00:00",
-      "age_days": 0.26,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world"
-    },
-    {
-      "title": "サービスレベル設計として捉える非機能の考え方 | フューチャー技術ブログ",
-      "url": "https://future-architect.github.io/articles/20261102a/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-02T01:20:43+00:00",
-      "age_days": 0.6,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "秋のブログ週間2026 の5本目です。 前回の 非機能はなぜ必要なのか の続編です。前回は社内の非機能要件ガイドラインを読んで感じた違和感をエッセイとして書きましたが、今回はその考え方を、実務で使える形に整理し直したものです。 本記事の位置づけ本記事は、非機能を「システム開発者の目線」ではなく「事業者（サ..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Red Hat Enterprise Linux (perl-yaml, pillow): Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
