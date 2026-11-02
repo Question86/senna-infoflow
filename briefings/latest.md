@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-02T04:16:38+00:00_
+_Generiert: 2026-11-02T04:24:53+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „AI saves me hours, but I don’t trust it blindly“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
+15 neue relevante Treffer. Stärkstes Signal: „AI saves me hours, but I don’t trust it blindly“ aus e27 Asia Startup and Tech Feed (Score 19, observation). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -177,3 +177,8 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `cert_fr_alerts` (rss): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+- `japan_digital_agency_news` (rss): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
