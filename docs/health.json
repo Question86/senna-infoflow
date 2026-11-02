@@ -1,24 +1,30 @@
 {
-  "generated_at": "2026-11-02T02:07:01+00:00",
+  "generated_at": "2026-11-02T02:21:34+00:00",
   "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
   "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 5,
-    "displayed_findings": 5,
+    "new_relevant_findings": 3,
+    "today_file_total": 8,
+    "displayed_findings": 8,
     "high": 0,
-    "medium": 1,
-    "observe": 4,
-    "source_errors": 1
+    "medium": 2,
+    "observe": 6,
+    "source_errors": 2
   },
   "source_errors": [
     {
-      "source_id": "e27_asia_startups_feed",
-      "source_name": "e27 Asia Startup and Tech Feed",
+      "source_id": "twcert_security_news",
+      "source_name": "TWCERT/CC Security News RSS",
       "source_type": "rss",
-      "error": "403 Client Error: Forbidden for url: https://e27.co/feed/"
+      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "source_id": "ecb_yield_curve",
+      "source_name": "ECB Euro Area Yield Curve",
+      "source_type": "rss",
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
     }
   ],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
