@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-02T09:28:54+00:00_
+_Generiert: 2026-11-02T09:35:44+00:00_
 
 ## Kurzlage
 
-28 neue relevante Treffer. Stärkstes Signal: „lightpanda-io/browser“ aus GitHub Trending RSS All Languages Daily (Score 20, opportunity).
+30 neue relevante Treffer. Stärkstes Signal: „lightpanda-io/browser“ aus GitHub Trending RSS All Languages Daily (Score 20, opportunity).
 
 ## Priorität Hoch
 
@@ -39,6 +39,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: A passport is not a clever piece of paper. Anyone with a good printer and bad intentions can fake one. What makes it work is the government standing behind it, an authority that vouched for the holder and can withdraw that vouching the moment something goes wrong. Evin McMullen has spent a decade thinking about […] The post AI agents need someone standing behind them, says AmanTrue CEO Evin McMullen appeared first o…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **M 4.7 - 113 km SW of Basco, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuv5)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-02T09:34:03.040+00:00`, fetched `2026-11-02T09:35:14+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-11-02 08:42:47 UTC 2026-11-02 08:42:47 UTC at epicenter Location 19.801°N 121.125°E Depth 35.00 km (21.75 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.1 - 19 km WNW of Tomohon, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuuy)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-02T08:27:49.040+00:00`, fetched `2026-11-02T08:28:48+00:00`

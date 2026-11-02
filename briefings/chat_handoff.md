@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-02T09:28:54+00:00_
+_Generated: 2026-11-02T09:35:44+00:00_
 
 ## Status
 - status: `normal`
-- findings: `28`
+- findings: `30`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-11-02T09:28:54+00:00_
 - url: https://e27.co/ai-agents-need-someone-standing-behind-them-says-amantrue-ceo-evin-mcmullen-20261102/
 - summary: A passport is not a clever piece of paper. Anyone with a good printer and bad intentions can fake one. What makes it work is the government standing behind it, an authority that vouched for the holder and can withdraw that vouching the moment something goes w…
 
-### 4. M 5.1 - 19 km WNW of Tomohon, Indonesia
+### 4. M 4.7 - 113 km SW of Basco, Philippines
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
-- published: `2026-11-02T08:27:49.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuuy
-- summary: Time 2026-11-02 08:13:14 UTC 2026-11-02 08:13:14 UTC at epicenter Location 1.392°N 124.648°E Depth 196.65 km (122.19 mi)
+- published: `2026-11-02T09:34:03.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuv5
+- summary: Time 2026-11-02 08:42:47 UTC 2026-11-02 08:42:47 UTC at epicenter Location 19.801°N 121.125°E Depth 35.00 km (21.75 mi)
 
 ### 5. Euro area bank interest rate statistics: September 2026
 - source: ECB Statistical Press Releases
