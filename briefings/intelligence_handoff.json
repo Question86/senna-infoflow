@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-03T01:32:07Z",
+  "generated_at": "2026-11-03T01:46:43Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “HKSTP drives Hong Kong mobility innovators to test and scale in Singapore” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://e27.co/hkstp-drives-hong-kong-mobility-innovators-to-test-and-scale-in-singapore-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T01:00:54+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
@@ -40,7 +40,7 @@
       "url": "https://openai.com/index/dan-driscoll-joins-openai",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-02T00:00:00+00:00",
-      "age_days": 1.06,
+      "age_days": 1.07,
       "topics": [
         "ai",
         "security"
@@ -68,7 +68,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 136.98,
+      "age_days": 136.99,
       "topics": [
         "ai"
       ],
@@ -93,11 +93,38 @@
       "summary": ""
     },
     {
+      "title": "Claude CodeやCodexが書いたコードを全部は読まずに自分で説明できるようにする4つの手順 - AIDB",
+      "url": "https://ai-data-base.com/archives/139789",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-01T04:48:57+00:00",
+      "age_days": 1.87,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: rce, code, 10",
+        "security high-signal: rce, code, 10",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "理解していないAIのコードを出してよいのか、開発者がHacker Newsで議論 10月19日、Hacker Newsに「理解していないAIのコードをリリースすることに、どう向き合えばいいか」という投稿が立ちました。コメントでは、全体の流れは分かっても細部を把握できないことや、AIがコードとテストの両方を書いたときの見逃しが話題..."
+    },
+    {
       "title": "In Southeast Asia, winning at home may no longer be enough",
       "url": "https://e27.co/in-southeast-asia-winning-at-home-may-no-longer-be-enough-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T01:00:36+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "macro"
@@ -124,7 +151,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOUB0222R0S6A101C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-02T09:47:11+00:00",
-      "age_days": 0.66,
+      "age_days": 0.67,
       "topics": [
         "ai"
       ],
@@ -150,7 +177,7 @@
       "url": "https://news.yahoo.co.jp/articles/743e16ce8d8b3f48908d0248d48f4d15c913b90e",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-02T14:12:40+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "general"
       ],
@@ -174,7 +201,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN300HD0Q6A031C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-02T09:06:32+00:00",
-      "age_days": 0.68,
+      "age_days": 0.69,
       "topics": [
         "ai"
       ],
@@ -199,7 +226,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 135.95,
+      "age_days": 135.96,
       "topics": [
         "general"
       ],
@@ -215,7 +242,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 135.9d old signal"
+        "aging penalty -16.0 for 136.0d old signal"
       ],
       "summary": ""
     },
@@ -224,7 +251,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 135.95,
+      "age_days": 135.96,
       "topics": [
         "general"
       ],
@@ -240,7 +267,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 135.9d old signal"
+        "aging penalty -16.0 for 136.0d old signal"
       ],
       "summary": ""
     },
@@ -249,7 +276,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 135.95,
+      "age_days": 135.96,
       "topics": [
         "ai"
       ],
@@ -266,7 +293,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 135.9d old signal",
+        "aging penalty -16.0 for 136.0d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -281,7 +308,7 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 3,
+      "strong": 4,
       "quiet": 7
     }
   }
