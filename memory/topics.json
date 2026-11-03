@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-03T15:42:27+00:00",
+  "generated_at": "2026-11-03T15:53:32+00:00",
   "topics": {
     "ai": [
       {
@@ -131,6 +131,13 @@
         "published_at": null,
         "relevance_score": 5,
         "url": "https://github.com/hyprwm/Hyprland"
+      },
+      {
+        "title": "Look up a resource’s cost center with the GitHub REST API",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-11-03T15:27:13+00:00",
+        "relevance_score": 4,
+        "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api"
       },
       {
         "title": "GitHub Desktop adds short-lived authentication tokens",
