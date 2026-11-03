@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-03T15:01:06+00:00",
+  "generated_at": "2026-11-03T15:13:10+00:00",
   "topics": {
     "ai": [
       {
@@ -89,6 +89,13 @@
         "published_at": null,
         "relevance_score": 19,
         "url": "https://github.com/D4Vinci/Scrapling"
+      },
+      {
+        "title": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-11-03T14:56:03+00:00",
+        "relevance_score": 18,
+        "url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions"
       },
       {
         "title": "vercel-labs/agent-desktop",
@@ -221,6 +228,13 @@
         "url": "https://openai.com/index/dan-driscoll-joins-openai"
       },
       {
+        "title": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-11-03T14:56:03+00:00",
+        "relevance_score": 18,
+        "url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions"
+      },
+      {
         "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-03T14:44:12+00:00",
@@ -268,13 +282,6 @@
         "published_at": "2026-11-03T12:17:32+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4301"
-      },
-      {
-        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-03T11:25:09+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4152"
       }
     ],
     "geopolitics": [

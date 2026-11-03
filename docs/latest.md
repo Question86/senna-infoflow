@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-03T15:01:06+00:00_
+_Generiert: 2026-11-03T15:13:10+00:00_
 
 ## Kurzlage
 
-76 neue relevante Treffer. Stärkstes Signal: „SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+77 neue relevante Treffer. Stärkstes Signal: „SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -75,6 +75,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Macro/Policy (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules elections_unrest, ai_agents_workflow (+6.0)
   - Kurz: 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev https://scrapling.readthedocs.io/en/latest/ Effortless Web Scraping for the Modern Web Selection methods · Fetchers · Spiders · Proxy Rotation · CLI · MCP Scrapling is a Python Web Scraping…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions** — Score 18, observation — [Quelle](https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-11-03T14:56:03+00:00`, fetched `2026-11-03T15:12:39+00:00`
+  - Treffer: CodeQL/Dependabot, GitHub, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); Security (+6.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.27.3. It supports new Python 3.15 language… The post CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **vercel-labs/agent-desktop** — Score 18, opportunity — [Quelle](https://github.com/vercel-labs/agent-desktop)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-11-03T07:57:56+00:00`
@@ -138,15 +147,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Payments in a fragmenting world - sovereignty, strategy and system design** — Score 14, opportunity — [Quelle](https://www.bis.org/speeches/20261103-payments-fragmenting-world-sovereignty-strategy-and-system-design)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-11-03T00:00:00+00:00`, fetched `2026-11-03T13:34:25+00:00`
-  - Treffer: Macro/Policy, Markets/Capital Structure
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); Markets/Capital Structure (+7.5); recent (+1.0)
-  - Kurz: Speech by Mr Denis Beau, First Deputy Governor of the Bank of France, at the South African Reserve Bank Payments Conference 2026, Pretoria, 21 October 2026.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Nur beobachten
 
@@ -295,7 +295,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `hn_release_security_burst` (hackernews): HTTPSConnectionPool(host='hn.algolia.com', port=443): Read timed out. (read timeout=8)
