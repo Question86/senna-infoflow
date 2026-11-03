@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T20:40:50+00:00",
-  "run_id": "2026-11-03T20:40:50+00:00",
+  "generated_at": "2026-11-03T20:45:55+00:00",
+  "run_id": "2026-11-03T20:45:55+00:00",
   "date": "2026-11-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 88,
     "displayed_findings": 88,
     "high": 0,
@@ -4739,31 +4739,7 @@
       "id": "d5b712707e693e13748c"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Dependabot version updates support Agent Package Manager",
-      "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-11-03T20:24:07+00:00",
-      "fetched_at": "2026-11-03T20:40:22+00:00",
-      "summary": "You can now keep your AI agent skills, prompts, and instructions up to date with Dependabot version updates for Agent Package Manager (APM). Dependabot opens pull requests to update supported… The post Dependabot version updates support Agent Package Manager appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "CodeQL/Dependabot",
-        "GitHub"
-      ],
-      "relevance_score": 20,
-      "relevance_reason": "CodeQL/Dependabot (+8.8); AI/KI (+3.0); AI Agents (+5.0); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "54fedd2c6cde17ab3191"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
