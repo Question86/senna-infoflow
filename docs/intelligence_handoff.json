@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-03T06:25:37Z",
+  "generated_at": "2026-11-03T06:35:37Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “HKSTP drives Hong Kong mobility innovators to test and scale in Singapore” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -119,7 +119,7 @@
       "url": "https://e27.co/indonesia-urgently-needs-an-allergy-data-centre-to-support-national-food-security-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T04:30:47+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -201,7 +201,7 @@
       "url": "https://e27.co/vietnams-climate-tech-has-a-missing-middle-and-women-founders-are-falling-into-it-20261103/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T03:46:11+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [],
       "dynamics_score": 24.0,
       "raw_band": "strong",
@@ -225,7 +225,7 @@
       "url": "https://e27.co/the-crypto-independence-story-is-fragile-bitcoin-now-moves-on-elections-oil-and-missiles-20261103/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T05:26:33+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "macro"
       ],
@@ -249,7 +249,7 @@
       "url": "https://japan.cnet.com/article/35254298/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-03T00:12:21+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -273,7 +273,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN02B1R0S6A101C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-02T23:12:33+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -297,7 +297,7 @@
       "url": "https://e27.co/singapore-and-romania-dont-need-another-mou-they-need-first-customers-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T03:30:36+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],

@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-11-03T06:25:37Z_
+_Generated: 2026-11-03T06:35:37Z_
 
 ## Lageurteil
 
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “HKSTP drives Hong Kong mobility innovato
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-03T04:30:47+00:00` / age_days `0.08`
+- Published: `2026-11-03T04:30:47+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “HKSTP drives Hong Kong mobility innovato
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.0`
-- Published: `2026-11-03T03:46:11+00:00` / age_days `0.11`
+- Published: `2026-11-03T03:46:11+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10, 9.8, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “HKSTP drives Hong Kong mobility innovato
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-11-03T05:26:33+00:00` / age_days `0.04`
+- Published: `2026-11-03T05:26:33+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “HKSTP drives Hong Kong mobility innovato
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `12.0`
-- Published: `2026-11-03T00:12:21+00:00` / age_days `0.26`
+- Published: `2026-11-03T00:12:21+00:00` / age_days `0.27`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “HKSTP drives Hong Kong mobility innovato
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `12.0`
-- Published: `2026-11-02T23:12:33+00:00` / age_days `0.3`
+- Published: `2026-11-02T23:12:33+00:00` / age_days `0.31`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “HKSTP drives Hong Kong mobility innovato
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `11.0`
-- Published: `2026-11-03T03:30:36+00:00` / age_days `0.12`
+- Published: `2026-11-03T03:30:36+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
