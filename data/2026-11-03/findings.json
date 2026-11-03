@@ -1265,6 +1265,27 @@
     "id": "0855687ea2cbec0df6bf"
   },
   {
+    "title": "A new payment scheme for Iceland - building a sovereign and secure payment system",
+    "url": "https://www.bis.org/speeches/20261103-new-payment-scheme-iceland-building-sovereign-and-secure-payment-system",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-11-03T00:00:00+00:00",
+    "fetched_at": "2026-11-03T13:51:05+00:00",
+    "summary": "Speech by Mr Tómas Brynjólfsson, Deputy Governor for Financial Stability at the Central Bank of Iceland, at the Money Live Nordic Banking conference, Copenhagen, 30 October 2026.",
+    "matched_keywords": [
+      "banking",
+      "Macro/Policy"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Macro/Policy (+5.0); banking (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "058ff7e5ac5a4150db4e"
+  },
+  {
     "title": "FlashML-org/FreeToken",
     "url": "https://github.com/FlashML-org/FreeToken",
     "source": "GitHub Trending RSS All Languages Daily",
