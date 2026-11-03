@@ -1401,5 +1401,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "548ce0575cb29ea25fa2"
+  },
+  {
+    "title": "毎年1万円だったドメインが、いきなり17万円になった話｜藪原太郎",
+    "url": "https://note.com/t_yabuhara/n/n7871bfc65d5c",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2025-09-08T08:51:43+00:00",
+    "fetched_at": "2026-11-03T12:28:49+00:00",
+    "summary": "はじめに「毎年1万円弱で更新していたドメインが、ある日突然17万円に…」 そんな話、信じられますか？ しかし、これは私が管理している 「taro.bar」 というドメインで起きた現実です。今回はその経緯と、国際ルールとの衝突をテーマに書いてみようと思います。 実際に起きたことこれまで「taro.bar」は 9,566円 で更新...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d5b712707e693e13748c"
   }
 ]
