@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-03T02:00:43+00:00_
+_Generiert: 2026-11-03T02:18:31+00:00_
 
 ## Kurzlage
 
-8 neue relevante Treffer. Stärkstes Signal: „Claude CodeやCodexが書いたコードを全部は読まずに自分で説明できるようにする4つの手順 - AIDB“ aus Hatena Bookmark Hotentry IT (Score 23, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+9 neue relevante Treffer. Stärkstes Signal: „Claude CodeやCodexが書いたコードを全部は読まずに自分で説明できるようにする4つの手順 - AIDB“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -33,6 +33,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Are AI fears genuine? Why we should demand evidence, not alarm** — Score 13, risk — [Quelle](https://e27.co/are-ai-fears-genuine-why-we-should-demand-evidence-not-alarm-20261101/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-03T02:00:03+00:00`, fetched `2026-11-03T02:17:59+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, founder, Watchgraph:elections_unrest
+  - Watchgraph: elections_unrest
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, META, GOOGL, MSFT, RDDT, SNAP, PINS
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0); watchgraph modules elections_unrest (+3.0)
+  - Kurz: Over the past couple of months, I’ve come across several perspectives from AI founders that have made me question whether the fears surrounding AI are genuine concerns or narratives being shaped to serve their own interests. Recent comments by some of the biggest names in the technology industry about AI should be judged by facts […] The post Are AI fears genuine? Why we should demand evidence, not alarm appeared fi…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **In Southeast Asia, winning at home may no longer be enough** — Score 12, observation — [Quelle](https://e27.co/in-southeast-asia-winning-at-home-may-no-longer-be-enough-20261016/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-03T01:00:36+00:00`, fetched `2026-11-03T01:08:55+00:00`
@@ -87,7 +96,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `hn_release_security_burst` (hackernews): HTTPSConnectionPool(host='hn.algolia.com', port=443): Read timed out. (read timeout=8)
