@@ -1,22 +1,22 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-03T15:37:07+00:00",
+  "generated_at": "2026-11-03T15:42:27+00:00",
   "topics": {
     "ai": [
+      {
+        "title": "Updates | ReliefWeb",
+        "source": "ReliefWeb Mindanao Recovery Watch",
+        "published_at": "2026-11-03T15:42:17+00:00",
+        "relevance_score": 23,
+        "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+      },
       {
         "title": "SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-11-03T07:55:32+00:00",
         "relevance_score": 23,
         "url": "https://e27.co/scb-10x-invests-tasklet-ai-agent-platform-12-8m-funding-20261103/"
-      },
-      {
-        "title": "Updates | ReliefWeb",
-        "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-11-03T07:42:00+00:00",
-        "relevance_score": 23,
-        "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
       {
         "title": "Claude CodeやCodexが書いたコードを全部は読まずに自分で説明できるようにする4つの手順 - AIDB",
