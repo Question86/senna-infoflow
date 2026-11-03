@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-03T08:21:36Z",
+  "generated_at": "2026-11-03T08:31:47Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “HKSTP drives Hong Kong mobility innovators to test and scale in Singapore” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -40,7 +40,7 @@
       "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-02T18:00:00+00:00",
-      "age_days": 0.6,
+      "age_days": 0.61,
       "topics": [
         "ai",
         "security"
@@ -65,7 +65,7 @@
       "url": "https://e27.co/scb-10x-invests-tasklet-ai-agent-platform-12-8m-funding-20261103/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T07:55:32+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "macro"
@@ -123,7 +123,7 @@
       "url": "https://openai.com/index/dan-driscoll-joins-openai",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-02T00:00:00+00:00",
-      "age_days": 1.35,
+      "age_days": 1.36,
       "topics": [
         "ai",
         "security"
@@ -151,7 +151,7 @@
       "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-02T18:00:00+00:00",
-      "age_days": 0.6,
+      "age_days": 0.61,
       "topics": [
         "ai",
         "security"
@@ -177,7 +177,7 @@
       "url": "https://e27.co/indonesia-urgently-needs-an-allergy-data-centre-to-support-national-food-security-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T04:30:47+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -288,7 +288,7 @@
       "url": "https://e27.co/vietnams-climate-tech-has-a-missing-middle-and-women-founders-are-falling-into-it-20261103/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T03:46:11+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [],
       "dynamics_score": 24.0,
       "raw_band": "strong",
@@ -312,7 +312,7 @@
       "url": "https://e27.co/the-crypto-independence-story-is-fragile-bitcoin-now-moves-on-elections-oil-and-missiles-20261103/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T05:26:33+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "macro"
       ],
