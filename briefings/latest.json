@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T14:27:07+00:00",
-  "run_id": "2026-11-03T14:27:07+00:00",
+  "generated_at": "2026-11-03T14:38:51+00:00",
+  "run_id": "2026-11-03T14:38:51+00:00",
   "date": "2026-11-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 73
+      "configured_public_sources_only": 74
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 73,
-    "displayed_findings": 73,
+    "new_relevant_findings": 1,
+    "today_file_total": 74,
+    "displayed_findings": 74,
     "high": 0,
-    "medium": 30,
+    "medium": 31,
     "observe": 43,
     "source_errors": 0
   },
@@ -378,6 +378,30 @@
           "PINS"
         ],
         "id": "d6707c925b2fbdc6c3b7"
+      },
+      {
+        "title": "[UPDATE] [hoch] util-linux: Schwachstelle ermöglicht Privilegieneskalation",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3180",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-03T14:24:22+00:00",
+        "fetched_at": "2026-11-03T14:38:21+00:00",
+        "summary": "Ein lokaler Angreifer kann eine Schwachstelle in util-linux ausnutzen, um seine Privilegien zu erhöhen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1ce20c949142911fedb1"
       },
       {
         "title": "[NEU] [mittel] Red Hat Enterprise Linux (libXi, ghostscript): Mehrere Schwachstellen",
@@ -2325,6 +2349,30 @@
       "id": "d6707c925b2fbdc6c3b7"
     },
     {
+      "title": "[UPDATE] [hoch] util-linux: Schwachstelle ermöglicht Privilegieneskalation",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3180",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-03T14:24:22+00:00",
+      "fetched_at": "2026-11-03T14:38:21+00:00",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in util-linux ausnutzen, um seine Privilegien zu erhöhen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1ce20c949142911fedb1"
+    },
+    {
       "title": "[NEU] [mittel] Red Hat Enterprise Linux (libXi, ghostscript): Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4292",
       "source": "BSI CERT-Bund Security Advisories",
@@ -3915,7 +3963,32 @@
       "id": "d5b712707e693e13748c"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "[UPDATE] [hoch] util-linux: Schwachstelle ermöglicht Privilegieneskalation",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3180",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-03T14:24:22+00:00",
+      "fetched_at": "2026-11-03T14:38:21+00:00",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in util-linux ausnutzen, um seine Privilegien zu erhöhen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1ce20c949142911fedb1"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
