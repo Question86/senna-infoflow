@@ -1,31 +1,106 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-03T11:46:57Z",
+  "generated_at": "2026-11-03T12:03:54Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 3,
-      "krass": 7,
-      "strong": 8,
+      "krass": 11,
+      "strong": 10,
       "watch": 5,
-      "quiet": 17
+      "quiet": 11
     },
     "bands_after_gate_recheck": {
-      "krass": 1,
-      "strong": 17,
+      "krass": 4,
+      "strong": 20,
       "watch": 5,
-      "quiet": 17
+      "quiet": 11
     }
   },
   "top_dynamics": [
+    {
+      "title": "[UPDATE] [kritisch] Axis Camera Station und Device Manager: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1765",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-03T11:52:33+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: kritisch, code, auth",
+        "security high-signal: kritisch, code, auth"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Axis Camera Station und Axis Device Manager ausnutzen, um die Authentifizierung zu umgehen, erhöhte Privilegien zu erlangen, eine Man-in-the-Middle-Attacke durchzuführen und beliebigen Code auszuführen."
+    },
+    {
+      "title": "[UPDATE] [hoch] Apple iOS, iPadOS, macOS und Safari: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4165",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-03T11:52:33+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code, root",
+        "security high-signal: code, root"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Apple iOS, Apple iPadOS, Apple macOS und Apple Safari ausnutzen, um erweiterte Berechtigungen – einschließlich Root-Rechte – zu erlangen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen oder einen Denial-of-Service-Zusta…"
+    },
+    {
+      "title": "[NEU] [hoch] TianoCore EDK2: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4298",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-03T11:52:32+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in TianoCore EDK2 ausnutzen, um einen Denial-of-Service-Zustand auszulösen oder beliebigen Code auszuführen."
+    },
     {
       "title": "[UPDATE] [hoch] Google Chrome: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4244",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T10:25:40+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -46,11 +121,60 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, potenziell beliebigen Code auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen und zu manipulieren oder einen Denial-of-Service-Zustand auszulösen."
     },
     {
+      "title": "[UPDATE] [mittel] Axis Camera Station: Schwachstelle ermöglicht nicht spezifizierten Angriff",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4199",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-03T11:52:33+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Axis Camera Station ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen."
+    },
+    {
+      "title": "[NEU] [hoch] xwiki: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4300",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-03T11:52:33+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in xwiki ausnutzen, um Informationen offenzulegen."
+    },
+    {
       "title": "HKSTP drives Hong Kong mobility innovators to test and scale in Singapore",
       "url": "https://e27.co/hkstp-drives-hong-kong-mobility-innovators-to-test-and-scale-in-singapore-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T01:00:54+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "general"
       ],
@@ -75,7 +199,7 @@
       "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-02T18:00:00+00:00",
-      "age_days": 0.74,
+      "age_days": 0.75,
       "topics": [
         "ai",
         "security"
@@ -100,7 +224,7 @@
       "url": "https://e27.co/scb-10x-invests-tasklet-ai-agent-platform-12-8m-funding-20261103/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T07:55:32+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai",
         "macro"
@@ -129,7 +253,7 @@
       "url": "https://github.com/vercel-labs/agent-desktop",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-03T07:57:56+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai",
         "macro"
@@ -158,7 +282,7 @@
       "url": "https://openai.com/index/dan-driscoll-joins-openai",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-02T00:00:00+00:00",
-      "age_days": 1.49,
+      "age_days": 1.5,
       "topics": [
         "ai",
         "security"
@@ -186,7 +310,7 @@
       "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-02T18:00:00+00:00",
-      "age_days": 0.74,
+      "age_days": 0.75,
       "topics": [
         "ai",
         "security"
@@ -208,11 +332,37 @@
       "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI."
     },
     {
+      "title": "[NEU] [niedrig] Froxlor: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4299",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-03T11:52:33+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Froxlor ausnutzen, um Informationen offenzulegen."
+    },
+    {
       "title": "Indonesia urgently needs an allergy data centre to support national food security",
       "url": "https://e27.co/indonesia-urgently-needs-an-allergy-data-centre-to-support-national-food-security-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T04:30:47+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -238,7 +388,7 @@
       "url": "https://protocol-explorer-alpha.vercel.app/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-03T03:40:37+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "ai"
       ],
@@ -264,7 +414,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4152",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T11:25:09+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -289,7 +439,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4224",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T10:25:40+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -314,7 +464,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4264",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T09:27:32+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -339,7 +489,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 137.41,
+      "age_days": 137.42,
       "topics": [
         "ai"
       ],
@@ -368,7 +518,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-11-03T07:42:00+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "macro",
@@ -397,7 +547,7 @@
       "url": "https://ai-data-base.com/archives/139789",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-01T04:48:57+00:00",
-      "age_days": 2.29,
+      "age_days": 2.3,
       "topics": [
         "ai",
         "macro"
@@ -424,7 +574,7 @@
       "url": "https://www.heise.de/news/Android-Patchday-Kritische-Luecken-ermoeglichen-Angriffe-ohne-Nutzerinteraktion-11508886.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-03T08:59:00.000+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security",
         "macro"
@@ -450,7 +600,7 @@
       "url": "https://e27.co/vietnams-climate-tech-has-a-missing-middle-and-women-founders-are-falling-into-it-20261103/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T03:46:11+00:00",
-      "age_days": 0.33,
+      "age_days": 0.35,
       "topics": [],
       "dynamics_score": 24.0,
       "raw_band": "strong",
@@ -474,7 +624,7 @@
       "url": "https://e27.co/the-crypto-independence-story-is-fragile-bitcoin-now-moves-on-elections-oil-and-missiles-20261103/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T05:26:33+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "macro"
       ],
@@ -498,7 +648,7 @@
       "url": "https://www.heise.de/news/Internet-of-Things-Siemens-Simatic-IoT2050-angegriffen-11509246.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-03T11:09:00.000+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "security"
@@ -523,7 +673,7 @@
       "url": "https://e27.co/thailands-labour-crisis-and-the-refugees-building-its-ai-future-20261103/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T09:29:30+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -549,7 +699,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv4i",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-03T09:32:21.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -574,7 +724,7 @@
       "url": "https://japan.cnet.com/article/35254298/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-03T00:12:21+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "general"
       ],
@@ -598,7 +748,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN02B1R0S6A101C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-02T23:12:33+00:00",
-      "age_days": 0.52,
+      "age_days": 0.54,
       "topics": [
         "general"
       ],
@@ -622,7 +772,7 @@
       "url": "https://github.com/D4Vinci/Scrapling",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-03T07:57:56+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -647,7 +797,7 @@
       "url": "https://openai.com/index/heimstaden",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-03T08:00:00+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -673,7 +823,7 @@
       "url": "https://e27.co/singapore-and-romania-dont-need-another-mou-they-need-first-customers-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T03:30:36+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -699,7 +849,7 @@
       "url": "https://e27.co/are-ai-fears-genuine-why-we-should-demand-evidence-not-alarm-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T02:00:03+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "ai"
       ],
@@ -725,7 +875,7 @@
       "url": "https://anond.hatelabo.jp/20261103160506",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-03T07:06:48+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "general"
       ],
@@ -749,7 +899,7 @@
       "url": "https://e27.co/in-southeast-asia-winning-at-home-may-no-longer-be-enough-20261016/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T01:00:36+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "ai",
         "macro"
@@ -776,7 +926,7 @@
       "url": "https://github.com/FlashML-org/FreeToken",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-03T07:57:56+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -803,7 +953,7 @@
       "url": "https://e27.co/singapores-factories-are-riding-the-ai-wave-but-the-optimism-rests-on-a-narrow-base-20261103/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T08:06:29+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -829,7 +979,7 @@
       "url": "https://e27.co/krungsri-buys-into-amity-as-the-thai-ai-group-dresses-its-cap-table-for-an-ipo-20261103/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T05:59:28+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "ai",
         "macro"
@@ -856,7 +1006,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOUB0222R0S6A101C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-02T09:47:11+00:00",
-      "age_days": 1.08,
+      "age_days": 1.09,
       "topics": [
         "ai"
       ],
@@ -882,7 +1032,7 @@
       "url": "https://e27.co/ecosystem-roundup-north-koreas-us6-4b-binance-heist-took-54-minutes-and-isnt-over-20261103/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T07:38:45+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "infra"
@@ -904,160 +1054,7 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "North Korea’s TraderTraitor group drained about US$6.4 billion from Binance in the early hours of 30 October, Singapore time, according to a Chainalysis reconstruction that puts the loss slightly above the exchange’s own US$6.3 billion estimate. No cryptography was broken. A compromised engineer’s laptop let the attac…"
-    },
-    {
-      "title": "Taiwan and Singapore back NSV’s US$53M bet on Asia’s biotech pipeline",
-      "url": "https://e27.co/taiwan-and-singapore-back-nsvs-us53m-bet-on-asias-biotech-pipeline-20261103/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-03T04:38:20+00:00",
-      "age_days": 0.3,
-      "topics": [
-        "ai",
-        "infra"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: pipeline",
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Raising a debut fund in 2026 is hard. Raising one for biotech, a sector investors have spent four years avoiding, is harder still. NeoSci Ventures (NSV) says it has done it anyway. The Singapore-, Taiwan- and US-based venture builder has announced a first close of SGD70 million (US$53 million) for its inaugural instit…"
-    },
-    {
-      "title": "Vynn Capital backs Econili as Malaysia bets on recycling its battery waste",
-      "url": "https://e27.co/vynn-capital-backs-econili-as-malaysia-bets-on-recycling-its-battery-waste-20261103/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-03T05:30:46+00:00",
-      "age_days": 0.26,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Econili Battery New Energy likes to think big. The Ipoh-based recycler has described itself as the largest lithium-ion battery recycler in ASEAN. It talks about plants on two continents and a listing on Nasdaq. thesun The latest deal is a good deal smaller. Econili has raised an extension round led by Vynn Capital, ta…"
-    },
-    {
-      "title": "「GoogleやAppleのアカウントを守るためにYubiKeyを使っている」物理キーが注目を集め、売り切れが相次いでいる→導入前に知っておきたい注意点は？",
-      "url": "https://togetter.com/li/2766080",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-03T03:56:08+00:00",
-      "age_days": 0.33,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "でこ @DEKO_MUGEN GoogleとAppleアカウントの乗っ取り対策に、物理キー「YubiKey 5C NFC」を使っています。 普段はキーホルダーに。薄くて軽いので気になりません。紛失に備えて、登録済みの予備は別の安全な場所に保管ですな。 購入時はファームウェアの確認を。写真のものは5.8.0。購入後に更新できないので、価格だけ..."
-    },
-    {
-      "title": "ノジマオンラインにて約700万人分の情報流出。氏名、住所、電話番号、ログインID・パスワードなど（GAME Watch） - Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/743e16ce8d8b3f48908d0248d48f4d15c913b90e",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-02T14:12:40+00:00",
-      "age_days": 0.9,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "写真：GAME Watch（株式会社インプレス） ノジマは、同社ECサイト「ノジマオンライン」における不正アクセスに伴う個人情報漏えいに関するお知らせを公開した。 同社は、11月1日に発生した「ノジマオンライン」の会員管理システムに対する第三者による不正アクセスによって、同サイト及び中古スマホ買取サイトに登録さ..."
-    },
-    {
-      "title": "「日本の防衛はAIで優位に」 米パランティアCEOインタビュー - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOGN300HD0Q6A031C2000000/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-02T09:06:32+00:00",
-      "age_days": 1.11,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 2.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "米パランティア・テクノロジーズのアレックス・カープ最高経営責任者（CEO）は日本経済新聞の単独インタビューで「日本は専守防衛型の人工知能（AI）スタック（製品群）の開発で優位に立てる」と自衛隊へのAIシステム供給に意欲をみせた。民間部門には知的財産を守るためにAIの制御・訓練が必要だと指摘した。 米軍・情..."
-    },
-    {
-      "title": "米アンソロピック 売り上げ13倍もAI開発への支出は140兆円余に | NHKニュース",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261103de69869",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-02T23:52:35+00:00",
-      "age_days": 0.5,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 2.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "アメリカのAI開発企業「アンソロピック」はIPO＝新規株式公開に向けた書類の改訂版を公表し、ことし1月から9月までの売り上げが去年の同じ時期の13倍となったことを明らかにしました。一方、AI開発に必要…"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Google Chrome: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [kritisch] Axis Camera Station und Device Manager: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
 }
