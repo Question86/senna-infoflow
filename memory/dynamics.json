@@ -1,22 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-03T13:32:18Z",
+  "generated_at": "2026-11-03T14:02:33Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 3,
-      "krass": 14,
-      "strong": 11,
-      "watch": 7,
-      "quiet": 5
+      "krass": 17,
+      "strong": 12,
+      "watch": 8
     },
     "bands_after_gate_recheck": {
       "krass": 4,
-      "strong": 24,
-      "watch": 7,
-      "quiet": 5
+      "strong": 28,
+      "watch": 8
     }
   },
   "top_dynamics": [
@@ -25,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1765",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T11:52:33+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -50,7 +48,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4165",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T11:52:33+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -75,7 +73,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4298",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T11:52:32+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -100,7 +98,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4244",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T10:25:40+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -125,7 +123,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4199",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T11:52:33+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -149,7 +147,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4300",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T11:52:33+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "security"
@@ -174,7 +172,7 @@
       "url": "https://e27.co/hkstp-drives-hong-kong-mobility-innovators-to-test-and-scale-in-singapore-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T01:00:54+00:00",
-      "age_days": 0.52,
+      "age_days": 0.54,
       "topics": [
         "general"
       ],
@@ -199,7 +197,7 @@
       "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-02T18:00:00+00:00",
-      "age_days": 0.81,
+      "age_days": 0.84,
       "topics": [
         "ai",
         "security"
@@ -224,7 +222,7 @@
       "url": "https://e27.co/scb-10x-invests-tasklet-ai-agent-platform-12-8m-funding-20261103/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T07:55:32+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "ai",
         "macro"
@@ -253,7 +251,7 @@
       "url": "https://github.com/vercel-labs/agent-desktop",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-03T07:57:56+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "ai",
         "macro"
@@ -282,7 +280,7 @@
       "url": "https://openai.com/index/dan-driscoll-joins-openai",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-02T00:00:00+00:00",
-      "age_days": 1.56,
+      "age_days": 1.59,
       "topics": [
         "ai",
         "security"
@@ -310,7 +308,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0280",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T13:19:19+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -336,7 +334,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3294",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T12:32:49+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -358,11 +356,39 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um Sicherheitsmaßnahmen zu umgehen, sensible Informationen offenzulegen, Daten zu manipulieren, Denial-of-Service-Zustände herbeizuführen oder andere, nicht näher spezifizierte Angriffe durchzuführen."
     },
     {
+      "title": "Innovation, security and technological sovereignty - reconciling three imperatives",
+      "url": "https://www.bis.org/speeches/20261103-innovation-security-and-technological-sovereignty-reconciling-three-imperatives",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-11-03T00:00:00+00:00",
+      "age_days": 0.59,
+      "topics": [
+        "ai",
+        "security",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10, auth",
+        "security high-signal: 10, auth",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Speech by Mr Denis Beau, First Deputy Governor of the Bank of France and Delegated Chairman of the Prudential Supervision and Resolution Authority (ACPR), at a seminar organised by the Association Europe-Finances-Régulations, Paris, 15 October 2026."
+    },
+    {
       "title": "Preparing our next security sprint to harden OpenAI",
       "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-02T18:00:00+00:00",
-      "age_days": 0.81,
+      "age_days": 0.84,
       "topics": [
         "ai",
         "security"
@@ -388,7 +414,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4299",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T11:52:33+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -414,7 +440,7 @@
       "url": "https://e27.co/indonesia-urgently-needs-an-allergy-data-centre-to-support-national-food-security-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T04:30:47+00:00",
-      "age_days": 0.38,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -440,7 +466,7 @@
       "url": "https://protocol-explorer-alpha.vercel.app/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-03T03:40:37+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "ai"
       ],
@@ -462,11 +488,36 @@
       "summary": "Watch the internet work, packet by packet. Interactive lessons on HTTP, HTTPS, TCP, UDP, IP, DNS, DHCP, ICMP, SMTP, POP3, IMAP, FTP, SSH and TLS, with every packet decoded byte by byte. In English, Spanish, Portuguese, French, German, Turkish, Indonesian, Japanese, Chinese (Simplified and Traditi..."
     },
     {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1517",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-03T13:49:09+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder nicht näher spezifizierte Auswirkungen zu erzielen."
+    },
+    {
       "title": "[NEU] [mittel] Red Hat Enterprise Linux (cockpit): Mehrere Schwachstellen ermöglichen Denial of Service",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4301",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T12:17:32+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -491,7 +542,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4152",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T11:25:09+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -516,7 +567,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4224",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T10:25:40+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -541,7 +592,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4264",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T09:27:32+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -562,11 +613,38 @@
       "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (PyJWT) ausnutzen, um Sicherheitsvorkehrungen zu umgehen."
     },
     {
+      "title": "Payments in a fragmenting world - sovereignty, strategy and system design",
+      "url": "https://www.bis.org/speeches/20261103-payments-fragmenting-world-sovereignty-strategy-and-system-design",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-11-03T00:00:00+00:00",
+      "age_days": 0.59,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Speech by Mr Denis Beau, First Deputy Governor of the Bank of France, at the South African Reserve Bank Payments Conference 2026, Pretoria, 21 October 2026."
+    },
+    {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 137.48,
+      "age_days": 137.5,
       "topics": [
         "ai"
       ],
@@ -595,7 +673,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-11-03T07:42:00+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "ai",
         "macro",
@@ -624,7 +702,7 @@
       "url": "https://ai-data-base.com/archives/139789",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-01T04:48:57+00:00",
-      "age_days": 2.36,
+      "age_days": 2.38,
       "topics": [
         "ai",
         "macro"
@@ -651,7 +729,7 @@
       "url": "https://www.heise.de/news/Android-Patchday-Kritische-Luecken-ermoeglichen-Angriffe-ohne-Nutzerinteraktion-11508886.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-03T08:59:00.000+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "security",
         "macro"
@@ -677,7 +755,7 @@
       "url": "https://e27.co/vietnams-climate-tech-has-a-missing-middle-and-women-founders-are-falling-into-it-20261103/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T03:46:11+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [],
       "dynamics_score": 24.0,
       "raw_band": "strong",
@@ -701,7 +779,7 @@
       "url": "https://www.bis.org/speeches/20261103-stable-banks-strong-capital-markets-europes-financial-system-future",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-11-03T00:00:00+00:00",
-      "age_days": 0.56,
+      "age_days": 0.59,
       "topics": [
         "ai",
         "macro"
@@ -729,7 +807,7 @@
       "url": "https://e27.co/the-crypto-independence-story-is-fragile-bitcoin-now-moves-on-elections-oil-and-missiles-20261103/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T05:26:33+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "macro"
       ],
@@ -749,11 +827,39 @@
       "summary": "The leading digital asset fell 1.69 per cent to US$76,940.91 over 24 hours, while the total crypto market capitalisation dropped 1.68 per cent. That near-perfect match matters. I don’t see this as a coin-specific move. It is a unified repricing of risk across global markets, and the largest cryptocurrency is caught in…"
     },
     {
+      "title": "A new payment scheme for Iceland - building a sovereign and secure payment system",
+      "url": "https://www.bis.org/speeches/20261103-new-payment-scheme-iceland-building-sovereign-and-secure-payment-system",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-11-03T00:00:00+00:00",
+      "age_days": 0.59,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 21.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Speech by Mr Tómas Brynjólfsson, Deputy Governor for Financial Stability at the Central Bank of Iceland, at the Money Live Nordic Banking conference, Copenhagen, 30 October 2026."
+    },
+    {
       "title": "Passwort-Manager mSecure: Nach IT-Vorfall Zugangsdaten sichern",
       "url": "https://www.heise.de/news/Passwort-Manager-mSecure-Nach-IT-Vorfall-Zugangsdaten-sichern-11509717.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-03T12:57:00.000+00:00",
-      "age_days": 0.02,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -777,7 +883,7 @@
       "url": "https://www.heise.de/news/Internet-of-Things-Siemens-Simatic-IoT2050-angegriffen-11509246.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-03T11:09:00.000+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "security"
@@ -802,7 +908,7 @@
       "url": "https://e27.co/thailands-labour-crisis-and-the-refugees-building-its-ai-future-20261103/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T09:29:30+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -828,7 +934,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv4i",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-03T09:32:21.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -849,11 +955,37 @@
       "summary": "Time 2026-11-03 09:13:14 UTC 2026-11-03 09:13:14 UTC at epicenter Location 3.739°N 75.720°W Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "Economic transitions - technology",
+      "url": "https://www.bis.org/speeches/20261103-economic-transitions-technology",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-11-03T00:00:00+00:00",
+      "age_days": 0.59,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit"
+      ],
+      "summary": "Opening remarks by Mr Gabriel Makhlouf, Governor of the Central Bank of Ireland, at the 5th Financial System Conference, Dublin, 2 November 2026."
+    },
+    {
       "title": "Building sills for Africa’s home-grown development",
       "url": "https://www.bis.org/speeches/20261103-building-sills-africas-home-grown-development",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-11-03T00:00:00+00:00",
-      "age_days": 0.56,
+      "age_days": 0.59,
       "topics": [
         "macro"
       ],
@@ -879,7 +1011,7 @@
       "url": "https://japan.cnet.com/article/35254298/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-03T00:12:21+00:00",
-      "age_days": 0.56,
+      "age_days": 0.58,
       "topics": [
         "general"
       ],
@@ -899,13 +1031,13 @@
       "summary": "Googleは11月2日、130万台を超えるテレビ用端末を広告詐欺などに悪用していたネットワーク「XCPE」の運用を、前週に妨害したと発表した。端末メーカーのVideostrong Technologyが金銭目的で意図的に開発・運用していたと判断し、同社との取引を停止したという。調査と運用妨害には日本の警察庁も協力した。 XCPEは、利用..."
     },
     {
-      "title": "冷凍庫にサイバー攻撃、食品溶け大量廃棄 欧州各地のスーパー - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOGN02B1R0S6A101C2000000/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-02T23:12:33+00:00",
-      "age_days": 0.6,
+      "title": "M 4.9 - South Sandwich Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv5i",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-03T13:52:00.040+00:00",
+      "age_days": 0.01,
       "topics": [
-        "general"
+        "disaster"
       ],
       "dynamics_score": 12.0,
       "raw_band": "watch",
@@ -918,136 +1050,9 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "high terms: 10"
+        "early terms: earthquake"
       ],
-      "summary": "【ブリュッセル、ロンドン=共同】ベルギーの大手スーパー、デレーズが1〜2日にかけてサイバー攻撃を受け、約40店舗の冷蔵・冷凍設備の温度が上昇した。ベルギー第2の都市アントワープの食肉チェーン店も攻撃を受け、店員らが手動で設備を操作し温度を下げるなどの対応に追われた。地元メディアが報じた。ロイター通信に..."
-    },
-    {
-      "title": "D4Vinci/Scrapling",
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-11-03T07:57:56+00:00",
-      "age_days": 0.23,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev https://scrapling.readthedocs.io/en/latest/ Effortless Web Scraping for the Modern Web Se…"
-    },
-    {
-      "title": "Heimstaden is changing residential real estate management with AI",
-      "url": "https://openai.com/index/heimstaden",
-      "source": "OpenAI News RSS",
-      "published_at": "2026-11-03T08:00:00+00:00",
-      "age_days": 0.23,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: code",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe."
-    },
-    {
-      "title": "Singapore and Romania don’t need another MOU. They need first customers",
-      "url": "https://e27.co/singapore-and-romania-dont-need-another-mou-they-need-first-customers-20261101/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-03T03:30:36+00:00",
-      "age_days": 0.42,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "On a weekday afternoon in late October, a group of Romanian founders pitched to a Singapore audience over Teams. One of them signed off with a plain request. He would be in Singapore the week of the Singapore Fintech Festival, he said, and he’d love an introduction to anyone who runs compliance or risk at […] The post…"
-    },
-    {
-      "title": "Credit unionism and the development of Barbados",
-      "url": "https://www.bis.org/speeches/20261103-credit-unionism-and-development-barbados",
-      "source": "BIS Central Bankers Speeches",
-      "published_at": "2026-11-03T00:00:00+00:00",
-      "age_days": 0.56,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "Remarks by Dr Kevin Greenidge, Governor of the Central Bank of Barbados, at the UWI (Cave Hill) Cooperative Credit Union’s 40th Anniversary Dinner and Awards, Bridgetown, 24 October 2026."
-    },
-    {
-      "title": "Are AI fears genuine? Why we should demand evidence, not alarm",
-      "url": "https://e27.co/are-ai-fears-genuine-why-we-should-demand-evidence-not-alarm-20261101/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-03T02:00:03+00:00",
-      "age_days": 0.48,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Over the past couple of months, I’ve come across several perspectives from AI founders that have made me question whether the fears surrounding AI are genuine concerns or narratives being shaped to serve their own interests. Recent comments by some of the biggest names in the technology industry about AI should be jud…"
+      "summary": "Time 2026-11-03 13:34:06 UTC 2026-11-03 13:34:06 UTC at epicenter Location 58.840°S 26.474°W Depth 143.60 km (89.23 mi)"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [kritisch] Axis Camera Station und Device Manager: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
