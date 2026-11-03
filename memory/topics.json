@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-03T13:16:52+00:00",
+  "generated_at": "2026-11-03T13:23:08+00:00",
   "topics": {
     "ai": [
       {
@@ -163,6 +163,13 @@
         "url": "https://e27.co/krungsri-buys-into-amity-as-the-thai-ai-group-dresses-its-cap-table-for-an-ipo-20261103/"
       },
       {
+        "title": "Stable banks, strong capital markets - Europe’s financial system for the future",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-11-03T00:00:00+00:00",
+        "relevance_score": 9,
+        "url": "https://www.bis.org/speeches/20261103-stable-banks-strong-capital-markets-europes-financial-system-future"
+      },
+      {
         "title": "Credit unionism and the development of Barbados",
         "source": "BIS Central Bankers Speeches",
         "published_at": "2026-11-03T00:00:00+00:00",
@@ -307,18 +314,18 @@
         "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
       },
       {
+        "title": "Stable banks, strong capital markets - Europe’s financial system for the future",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-11-03T00:00:00+00:00",
+        "relevance_score": 9,
+        "url": "https://www.bis.org/speeches/20261103-stable-banks-strong-capital-markets-europes-financial-system-future"
+      },
+      {
         "title": "FlashML-org/FreeToken",
         "source": "GitHub Trending RSS All Languages Daily",
         "published_at": null,
         "relevance_score": 8,
         "url": "https://github.com/FlashML-org/FreeToken"
-      },
-      {
-        "title": "Passwort-Manager mSecure: Nach IT-Vorfall Zugangsdaten sichern",
-        "source": "heise Security Alerts",
-        "published_at": "2026-11-03T12:57:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Passwort-Manager-mSecure-Nach-IT-Vorfall-Zugangsdaten-sichern-11509717.html"
       }
     ],
     "general": [

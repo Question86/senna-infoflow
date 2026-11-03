@@ -1137,6 +1137,48 @@
     "id": "fb2f86e5ae4fa5eb9480"
   },
   {
+    "title": "Stable banks, strong capital markets - Europe’s financial system for the future",
+    "url": "https://www.bis.org/speeches/20261103-stable-banks-strong-capital-markets-europes-financial-system-future",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-11-03T00:00:00+00:00",
+    "fetched_at": "2026-11-03T13:22:41+00:00",
+    "summary": "Keynote speech by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the conference for the 40th anniversary of the International Bankers Forum, Frankfurt am Main, 21 October 2026.",
+    "matched_keywords": [
+      "Macro/Policy",
+      "Watchgraph:capitals_power_centers"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [
+      "capitals_power_centers"
+    ],
+    "watchgraph_reasons": [
+      "capitals_power_centers: capital"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "3fb83127eee16226c2bb"
+  },
+  {
     "title": "FlashML-org/FreeToken",
     "url": "https://github.com/FlashML-org/FreeToken",
     "source": "GitHub Trending RSS All Languages Daily",

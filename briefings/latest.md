@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-03T13:16:52+00:00_
+_Generiert: 2026-11-03T13:23:08+00:00_
 
 ## Kurzlage
 
-56 neue relevante Treffer. Stärkstes Signal: „SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+57 neue relevante Treffer. Stärkstes Signal: „SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,22 +29,6 @@ _Generiert: 2026-11-03T13:16:52+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-28`
   - Kurz: Known exploited vulnerability. Added 2026-10-28. Due 2026-11-11. Broadcom VMWare ESX Insufficient Logging Vulnerability
-- **GDACS: Green flood alert in Bulgaria** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104267)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Bulgaria
-- **GDACS: Green flood alert in Spain** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104268)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Spain
-- **GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu 01/11/2026 11:47 UTC, 2 thousand in MMI IV.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1575068)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu 01/11/2026 11:47 UTC, 2 thousand in MMI IV.
-- **GDACS: Red notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.506 million .** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001346)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Red notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.506 million .
 
 ## Wirtschaft global
 
@@ -253,6 +237,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
   - Kurz: 日本株の上昇期待が剝落しつつある。市場は米テック大手による人工知能（AI）投資の拡大ペースが減速する将来を織り込み始めた。悪影響を受けるのは大規模投資の恩恵にあずかってきた「ツルハシ銘柄」。株価上昇を正当化してきたナラティブ（物語）が、株売りの材料にすり替わっている。「過去最大の損失が出た。AI関連...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Stable banks, strong capital markets - Europe’s financial system for the future** — Score 9, opportunity — [Quelle](https://www.bis.org/speeches/20261103-stable-banks-strong-capital-markets-europes-financial-system-future)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-11-03T00:00:00+00:00`, fetched `2026-11-03T13:22:41+00:00`
+  - Treffer: Macro/Policy, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Keynote speech by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the conference for the 40th anniversary of the International Bankers Forum, Frankfurt am Main, 21 October 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **FlashML-org/FreeToken** — Score 8, observation — [Quelle](https://github.com/FlashML-org/FreeToken)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-11-03T07:57:56+00:00`
@@ -307,15 +300,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0)
   - Kurz: Speech by Mr Paolo Angelini, Senior Deputy Governor of the Bank of Italy, at the Africa growth and opportunity: research in action 2026 conference (AGORA 26), Palermo, 26 October 2026.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **hyprwm/Hyprland** — Score 5, observation — [Quelle](https://github.com/hyprwm/Hyprland)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-11-03T07:57:56+00:00`
-  - Treffer: APAC Trend Radar, GitHub Trending
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks. https://hypr.land Hyprland is a 100% independent, dynamic tiling Wayland compositor that doesn't sacrifice on its looks. It provides the latest Wayland features, is highly customizable, has all the eyecandy, the most powerful plugins, easy IPC, much more QoL stuff than other compositors and more...…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
