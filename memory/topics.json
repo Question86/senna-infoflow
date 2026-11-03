@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-03T13:07:32+00:00",
+  "generated_at": "2026-11-03T13:16:52+00:00",
   "topics": {
     "ai": [
       {
@@ -161,6 +161,20 @@
         "published_at": "2026-11-03T05:59:28+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/krungsri-buys-into-amity-as-the-thai-ai-group-dresses-its-cap-table-for-an-ipo-20261103/"
+      },
+      {
+        "title": "Credit unionism and the development of Barbados",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-11-03T00:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.bis.org/speeches/20261103-credit-unionism-and-development-barbados"
+      },
+      {
+        "title": "Building sills for Africa’s home-grown development",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-11-03T00:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.bis.org/speeches/20261103-building-sills-africas-home-grown-development"
       }
     ],
     "security": [
