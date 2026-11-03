@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T13:23:08+00:00",
-  "run_id": "2026-11-03T13:23:08+00:00",
+  "generated_at": "2026-11-03T13:28:37+00:00",
+  "run_id": "2026-11-03T13:28:37+00:00",
   "date": "2026-11-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 57
+      "configured_public_sources_only": 59
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 57,
-    "displayed_findings": 57,
+    "new_relevant_findings": 2,
+    "today_file_total": 59,
+    "displayed_findings": 59,
     "high": 0,
-    "medium": 24,
-    "observe": 33,
+    "medium": 25,
+    "observe": 34,
     "source_errors": 0
   },
   "sections": {
@@ -378,6 +378,30 @@
           "PINS"
         ],
         "id": "d6707c925b2fbdc6c3b7"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0280",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-03T13:19:19+00:00",
+        "fetched_at": "2026-11-03T13:28:07+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "51bb7f3f2e1a725de714"
       },
       {
         "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
@@ -1211,6 +1235,26 @@
         "id": "3fb83127eee16226c2bb"
       },
       {
+        "title": "Marking our tenth anniversary - one conviction, two principles and three challenges",
+        "url": "https://www.bis.org/speeches/20261103-marking-our-tenth-anniversary-one-conviction-two-principles-and-three-challenges",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-11-03T00:00:00+00:00",
+        "fetched_at": "2026-11-03T13:28:07+00:00",
+        "summary": "Speech by Mr Emmanuel Moulin, Governor of the Bank of France, at the Prudential Supervision and Resolution Authority (ACPR)-Financial Markets Authority(AMF) Fintech Forum, Paris, 2 October 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: Paris (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0855687ea2cbec0df6bf"
+      },
+      {
         "title": "FlashML-org/FreeToken",
         "url": "https://github.com/FlashML-org/FreeToken",
         "source": "GitHub Trending RSS All Languages Daily",
@@ -1954,6 +1998,30 @@
         "PINS"
       ],
       "id": "d6707c925b2fbdc6c3b7"
+    },
+    {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0280",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-03T13:19:19+00:00",
+      "fetched_at": "2026-11-03T13:28:07+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "51bb7f3f2e1a725de714"
     },
     {
       "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
@@ -2785,6 +2853,26 @@
       "id": "3fb83127eee16226c2bb"
     },
     {
+      "title": "Marking our tenth anniversary - one conviction, two principles and three challenges",
+      "url": "https://www.bis.org/speeches/20261103-marking-our-tenth-anniversary-one-conviction-two-principles-and-three-challenges",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-11-03T00:00:00+00:00",
+      "fetched_at": "2026-11-03T13:28:07+00:00",
+      "summary": "Speech by Mr Emmanuel Moulin, Governor of the Bank of France, at the Prudential Supervision and Resolution Authority (ACPR)-Financial Markets Authority(AMF) Fintech Forum, Paris, 2 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: Paris (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0855687ea2cbec0df6bf"
+    },
+    {
       "title": "FlashML-org/FreeToken",
       "url": "https://github.com/FlashML-org/FreeToken",
       "source": "GitHub Trending RSS All Languages Daily",
@@ -3179,46 +3267,48 @@
   ],
   "new_findings": [
     {
-      "title": "Stable banks, strong capital markets - Europe’s financial system for the future",
-      "url": "https://www.bis.org/speeches/20261103-stable-banks-strong-capital-markets-europes-financial-system-future",
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0280",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-03T13:19:19+00:00",
+      "fetched_at": "2026-11-03T13:28:07+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "51bb7f3f2e1a725de714"
+    },
+    {
+      "title": "Marking our tenth anniversary - one conviction, two principles and three challenges",
+      "url": "https://www.bis.org/speeches/20261103-marking-our-tenth-anniversary-one-conviction-two-principles-and-three-challenges",
       "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
       "published_at": "2026-11-03T00:00:00+00:00",
-      "fetched_at": "2026-11-03T13:22:41+00:00",
-      "summary": "Keynote speech by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the conference for the 40th anniversary of the International Bankers Forum, Frankfurt am Main, 21 October 2026.",
+      "fetched_at": "2026-11-03T13:28:07+00:00",
+      "summary": "Speech by Mr Emmanuel Moulin, Governor of the Bank of France, at the Prudential Supervision and Resolution Authority (ACPR)-Financial Markets Authority(AMF) Fintech Forum, Paris, 2 October 2026.",
       "matched_keywords": [
-        "Macro/Policy",
-        "Watchgraph:capitals_power_centers"
+        "Macro/Policy"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "watchgraph_reasons": [
-        "capitals_power_centers: capital"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
-      ],
-      "id": "3fb83127eee16226c2bb"
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: Paris (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0855687ea2cbec0df6bf"
     }
   ],
   "source_errors": [],

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-03T13:23:08+00:00",
+  "generated_at": "2026-11-03T13:28:37+00:00",
   "topics": {
     "ai": [
       {
@@ -170,6 +170,13 @@
         "url": "https://www.bis.org/speeches/20261103-stable-banks-strong-capital-markets-europes-financial-system-future"
       },
       {
+        "title": "Marking our tenth anniversary - one conviction, two principles and three challenges",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-11-03T00:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.bis.org/speeches/20261103-marking-our-tenth-anniversary-one-conviction-two-principles-and-three-challenges"
+      },
+      {
         "title": "Credit unionism and the development of Barbados",
         "source": "BIS Central Bankers Speeches",
         "published_at": "2026-11-03T00:00:00+00:00",
@@ -198,6 +205,13 @@
         "published_at": "2026-11-02T00:00:00+00:00",
         "relevance_score": 19,
         "url": "https://openai.com/index/dan-driscoll-joins-openai"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-03T13:19:19+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0280"
       },
       {
         "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
@@ -247,13 +261,6 @@
         "published_at": "2026-11-03T11:52:33+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1765"
-      },
-      {
-        "title": "[UPDATE] [hoch] Apple iOS, iPadOS, macOS und Safari: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-03T11:52:33+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4165"
       }
     ],
     "geopolitics": [
