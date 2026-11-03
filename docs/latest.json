@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T21:36:42+00:00",
-  "run_id": "2026-11-03T21:36:42+00:00",
+  "generated_at": "2026-11-03T21:41:50+00:00",
+  "run_id": "2026-11-03T21:41:50+00:00",
   "date": "2026-11-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 92,
     "displayed_findings": 92,
     "high": 0,
@@ -4907,29 +4907,7 @@
       "id": "d5b712707e693e13748c"
     }
   ],
-  "new_findings": [
-    {
-      "title": "freeeにおけるSoftware Factory",
-      "url": "https://speakerdeck.com/freee/freee-niokeru-software-factory",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-10-26T04:53:25+00:00",
-      "fetched_at": "2026-11-03T21:36:12+00:00",
-      "summary": "freee 技術の日 2026のセッション資料です。",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0eb4c0632c74f3781ec0"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
