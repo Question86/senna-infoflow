@@ -42,6 +42,32 @@
     "id": "87776800c49ce1163ca8"
   },
   {
+    "title": "GitHub - NVIDIA/auto-ontology: Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+    "url": "https://github.com/NVIDIA/auto-ontology",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-11-03T12:34:20+00:00",
+    "fetched_at": "2026-11-03T20:11:44+00:00",
+    "summary": "Agents can retrieve documents and query databases, but reliability gates agentic analytics: a revenue metric answered faster is worth nothing if the number is wrong. Agents need a context layer that tells them where data lives, what it means, whether to use it, how to use it, where it came from, ...",
+    "matched_keywords": [
+      "agent",
+      "AI Agents",
+      "AI/KI",
+      "Content-Chance",
+      "GitHub",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 23,
+    "relevance_reason": "AI/KI (+3.8); AI Agents (+5.0); Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); agent (+2.5); recent (+1.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "fd21d2fa8341a469f0ed"
+  },
+  {
     "title": "SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round",
     "url": "https://e27.co/scb-10x-invests-tasklet-ai-agent-platform-12-8m-funding-20261103/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -895,6 +921,27 @@
     "id": "b83b41a16aac0b9fc992"
   },
   {
+    "title": "How Cisco defends at machine speed with OpenAI",
+    "url": "https://openai.com/index/cisco-cyber",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-11-03T08:00:00+00:00",
+    "fetched_at": "2026-11-03T20:11:44+00:00",
+    "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+    "matched_keywords": [
+      "OpenAI",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "OpenAI (+7.5); Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9298773ff8ada2c37fa2"
+  },
+  {
     "title": "Heimstaden is changing residential real estate management with AI",
     "url": "https://openai.com/index/heimstaden",
     "source": "OpenAI News RSS",
@@ -1677,6 +1724,26 @@
       "EWZ"
     ],
     "id": "3fb83127eee16226c2bb"
+  },
+  {
+    "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+    "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-11-03T00:00:00+00:00",
+    "fetched_at": "2026-11-03T20:11:44+00:00",
+    "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+    "matched_keywords": [
+      "OpenAI"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a536931e1006516f103e"
   },
   {
     "title": "Marking our tenth anniversary - one conviction, two principles and three challenges",
