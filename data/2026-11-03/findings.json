@@ -350,6 +350,30 @@
     "id": "d6707c925b2fbdc6c3b7"
   },
   {
+    "title": "[NEU] [mittel] Red Hat Enterprise Linux (cockpit): Mehrere Schwachstellen ermöglichen Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4301",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-03T12:17:32+00:00",
+    "fetched_at": "2026-11-03T12:18:30+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (cockpit) ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a38cb44d755f77b1bc83"
+  },
+  {
     "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4152",
     "source": "BSI CERT-Bund Security Advisories",
@@ -1336,6 +1360,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "48e14978a67c421072bf"
+  },
+  {
+    "title": "GitHub Desktop adds short-lived authentication tokens",
+    "url": "https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-11-03T07:55:58+00:00",
+    "fetched_at": "2026-11-03T12:18:30+00:00",
+    "summary": "When you sign in to GitHub Desktop 3.6.10 or later, eligible accounts can now use short-lived, automatically refreshing authentication tokens. Short-lived access tokens reduce how long a leaked token can… The post GitHub Desktop adds short-lived authentication tokens appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "GitHub (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "30cd08d0359246c60f5d"
   },
   {
     "title": "コードレビューをなくして見えたもの",
