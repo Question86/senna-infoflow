@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-03T18:19:14Z",
+  "generated_at": "2026-11-03T18:48:28Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] Red Hat Enterprise Linux (libXi, ghostscript): Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4292",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T14:14:08+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1765",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T11:52:33+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -65,7 +65,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4165",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T11:52:33+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -90,7 +90,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4298",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T11:52:32+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -115,7 +115,7 @@
       "url": "https://e27.co/scb-10x-invests-tasklet-ai-agent-platform-12-8m-funding-20261103/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T07:55:32+00:00",
-      "age_days": 0.43,
+      "age_days": 0.45,
       "topics": [
         "ai",
         "macro"
@@ -144,7 +144,7 @@
       "url": "https://github.com/vercel-labs/agent-desktop",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-03T07:57:56+00:00",
-      "age_days": 0.43,
+      "age_days": 0.45,
       "topics": [
         "ai",
         "macro"
@@ -173,7 +173,7 @@
       "url": "https://openai.com/index/dan-driscoll-joins-openai",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-02T00:00:00+00:00",
-      "age_days": 1.76,
+      "age_days": 1.78,
       "topics": [
         "ai",
         "security"
@@ -201,7 +201,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0280",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T13:19:19+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -227,7 +227,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3294",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T12:32:49+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -253,7 +253,7 @@
       "url": "https://www.bis.org/speeches/20261103-innovation-security-and-technological-sovereignty-reconciling-three-imperatives",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-11-03T00:00:00+00:00",
-      "age_days": 0.76,
+      "age_days": 0.78,
       "topics": [
         "ai",
         "security",
@@ -281,7 +281,7 @@
       "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-02T18:00:00+00:00",
-      "age_days": 1.01,
+      "age_days": 1.03,
       "topics": [
         "ai",
         "security"
@@ -307,7 +307,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4299",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T11:52:33+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
