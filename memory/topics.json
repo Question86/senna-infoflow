@@ -1,9 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-03T07:36:52+00:00",
+  "generated_at": "2026-11-03T07:42:11+00:00",
   "topics": {
     "ai": [
+      {
+        "title": "Updates | ReliefWeb",
+        "source": "ReliefWeb Mindanao Recovery Watch",
+        "published_at": "2026-11-03T07:42:00+00:00",
+        "relevance_score": 23,
+        "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+      },
       {
         "title": "Claude CodeやCodexが書いたコードを全部は読まずに自分で説明できるようにする4つの手順 - AIDB",
         "source": "Hatena Bookmark Hotentry IT",
@@ -66,13 +73,6 @@
         "published_at": "2026-11-02T09:06:32+00:00",
         "relevance_score": 10,
         "url": "https://www.nikkei.com/article/DGXZQOGN300HD0Q6A031C2000000/"
-      },
-      {
-        "title": "Vynn Capital backs Econili as Malaysia bets on recycling its battery waste",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-03T05:30:46+00:00",
-        "relevance_score": 9,
-        "url": "https://e27.co/vynn-capital-backs-econili-as-malaysia-bets-on-recycling-its-battery-waste-20261103/"
       }
     ],
     "security": [
