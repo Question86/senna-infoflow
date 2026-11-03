@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-03T01:38:07+00:00",
+  "generated_at": "2026-11-03T01:43:40+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 6,
-    "displayed_findings": 6,
+    "new_relevant_findings": 1,
+    "today_file_total": 7,
+    "displayed_findings": 7,
     "high": 0,
-    "medium": 1,
+    "medium": 2,
     "observe": 5
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "Claude CodeやCodexが書いたコードを全部は読まずに自分で説明できるようにする4つの手順 - AIDB",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-01T04:48:57+00:00",
+      "relevance_score": 23,
+      "url": "https://ai-data-base.com/archives/139789",
+      "summary": "理解していないAIのコードを出してよいのか、開発者がHacker Newsで議論 10月19日、Hacker Newsに「理解していないAIのコードをリリースすることに、どう向き合えばいいか」という投稿が立ちました。コメントでは、全体の流れは分かっても細部を把握できないことや、AIがコードとテストの両方を書いたときの見逃しが話題...",
+      "section": "medium"
+    },
     {
       "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
       "source": "OpenAI News RSS",

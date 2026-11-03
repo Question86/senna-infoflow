@@ -1,9 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-03T01:38:07+00:00",
+  "generated_at": "2026-11-03T01:43:40+00:00",
   "topics": {
     "ai": [
+      {
+        "title": "Claude CodeやCodexが書いたコードを全部は読まずに自分で説明できるようにする4つの手順 - AIDB",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-01T04:48:57+00:00",
+        "relevance_score": 23,
+        "url": "https://ai-data-base.com/archives/139789"
+      },
       {
         "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
         "source": "OpenAI News RSS",
