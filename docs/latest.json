@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T00:53:31+00:00",
-  "run_id": "2026-11-03T00:53:31+00:00",
+  "generated_at": "2026-11-03T00:58:53+00:00",
+  "run_id": "2026-11-03T00:58:53+00:00",
   "date": "2026-11-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 4,
     "displayed_findings": 4,
     "high": 0,
@@ -209,30 +209,7 @@
       "id": "946b7a69f955f9c3764c"
     }
   ],
-  "new_findings": [
-    {
-      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "url": "https://openai.com/index/dan-driscoll-joins-openai",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-11-02T00:00:00+00:00",
-      "fetched_at": "2026-11-03T00:53:01+00:00",
-      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
-      "matched_keywords": [
-        "AI/KI",
-        "OpenAI",
-        "Security"
-      ],
-      "relevance_score": 19,
-      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); Security (+7.5); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9ca6791946ffe58e43bb"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
