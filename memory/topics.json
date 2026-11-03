@@ -1,9 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-03T00:48:13+00:00",
+  "generated_at": "2026-11-03T00:53:31+00:00",
   "topics": {
     "ai": [
+      {
+        "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-11-02T00:00:00+00:00",
+        "relevance_score": 19,
+        "url": "https://openai.com/index/dan-driscoll-joins-openai"
+      },
       {
         "title": "日本株「ツルハシ神話」に陰り AI投資に黄信号、揺らぐ増益期待 - 日本経済新聞",
         "source": "Hatena Bookmark Hotentry IT",
@@ -17,6 +24,15 @@
         "published_at": "2026-11-02T09:06:32+00:00",
         "relevance_score": 10,
         "url": "https://www.nikkei.com/article/DGXZQOGN300HD0Q6A031C2000000/"
+      }
+    ],
+    "security": [
+      {
+        "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-11-02T00:00:00+00:00",
+        "relevance_score": 19,
+        "url": "https://openai.com/index/dan-driscoll-joins-openai"
       }
     ],
     "general": [

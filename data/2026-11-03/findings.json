@@ -1,5 +1,27 @@
 [
   {
+    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+    "url": "https://openai.com/index/dan-driscoll-joins-openai",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-11-02T00:00:00+00:00",
+    "fetched_at": "2026-11-03T00:53:01+00:00",
+    "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+    "matched_keywords": [
+      "AI/KI",
+      "OpenAI",
+      "Security"
+    ],
+    "relevance_score": 19,
+    "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); Security (+7.5); recent (+1.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9ca6791946ffe58e43bb"
+  },
+  {
     "title": "日本株「ツルハシ神話」に陰り AI投資に黄信号、揺らぐ増益期待 - 日本経済新聞",
     "url": "https://www.nikkei.com/article/DGXZQOUB0222R0S6A101C2000000/",
     "source": "Hatena Bookmark Hotentry IT",
