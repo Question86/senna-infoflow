@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "doc_type": "senna.http_fetch_metrics",
-  "started_at": "2026-11-03T17:48:52Z",
+  "started_at": "2026-11-03T17:54:34Z",
   "requests": 41,
   "retries": 0,
   "failures": 0,
   "retry_statuses": {},
   "retry_exceptions": {},
-  "finished_at": "2026-11-03T17:49:23Z"
+  "finished_at": "2026-11-03T17:55:05Z"
 }
