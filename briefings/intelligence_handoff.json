@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-03T07:32:09Z",
+  "generated_at": "2026-11-03T07:47:01Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “HKSTP drives Hong Kong mobility innovators to test and scale in Singapore” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://e27.co/hkstp-drives-hong-kong-mobility-innovators-to-test-and-scale-in-singapore-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T01:00:54+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -40,7 +40,7 @@
       "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-02T18:00:00+00:00",
-      "age_days": 0.56,
+      "age_days": 0.57,
       "topics": [
         "ai",
         "security"
@@ -65,7 +65,7 @@
       "url": "https://openai.com/index/dan-driscoll-joins-openai",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-02T00:00:00+00:00",
-      "age_days": 1.31,
+      "age_days": 1.32,
       "topics": [
         "ai",
         "security"
@@ -93,7 +93,7 @@
       "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-02T18:00:00+00:00",
-      "age_days": 0.56,
+      "age_days": 0.57,
       "topics": [
         "ai",
         "security"
@@ -119,7 +119,7 @@
       "url": "https://e27.co/indonesia-urgently-needs-an-allergy-data-centre-to-support-national-food-security-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T04:30:47+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -145,7 +145,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 137.23,
+      "age_days": 137.24,
       "topics": [
         "ai"
       ],
@@ -170,11 +170,40 @@
       "summary": ""
     },
     {
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "published_at": "2026-11-03T07:42:00+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai",
+        "macro",
+        "disaster"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: earthquake",
+        "high terms: rce",
+        "security high-signal: rce",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan"
+    },
+    {
       "title": "Claude CodeやCodexが書いたコードを全部は読まずに自分で説明できるようにする4つの手順 - AIDB",
       "url": "https://ai-data-base.com/archives/139789",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-01T04:48:57+00:00",
-      "age_days": 2.11,
+      "age_days": 2.12,
       "topics": [
         "ai",
         "macro"
@@ -201,7 +230,7 @@
       "url": "https://e27.co/vietnams-climate-tech-has-a-missing-middle-and-women-founders-are-falling-into-it-20261103/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T03:46:11+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [],
       "dynamics_score": 24.0,
       "raw_band": "strong",
@@ -225,7 +254,7 @@
       "url": "https://e27.co/the-crypto-independence-story-is-fragile-bitcoin-now-moves-on-elections-oil-and-missiles-20261103/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T05:26:33+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "macro"
       ],
@@ -249,7 +278,7 @@
       "url": "https://japan.cnet.com/article/35254298/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-03T00:12:21+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -273,7 +302,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN02B1R0S6A101C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-02T23:12:33+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "general"
       ],
@@ -291,32 +320,6 @@
         "high terms: 10"
       ],
       "summary": "【ブリュッセル、ロンドン=共同】ベルギーの大手スーパー、デレーズが1〜2日にかけてサイバー攻撃を受け、約40店舗の冷蔵・冷凍設備の温度が上昇した。ベルギー第2の都市アントワープの食肉チェーン店も攻撃を受け、店員らが手動で設備を操作し温度を下げるなどの対応に追われた。地元メディアが報じた。ロイター通信に..."
-    },
-    {
-      "title": "Singapore and Romania don’t need another MOU. They need first customers",
-      "url": "https://e27.co/singapore-and-romania-dont-need-another-mou-they-need-first-customers-20261101/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-03T03:30:36+00:00",
-      "age_days": 0.17,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "On a weekday afternoon in late October, a group of Romanian founders pitched to a Singapore audience over Teams. One of them signed off with a plain request. He would be in Singapore the week of the Singapore Fintech Festival, he said, and he’d love an introduction to anyone who runs compliance or risk at […] The post…"
     }
   ],
   "read_order": [
@@ -328,9 +331,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 9,
-      "watch": 2,
-      "quiet": 1
+      "strong": 10,
+      "watch": 2
     }
   }
 }
