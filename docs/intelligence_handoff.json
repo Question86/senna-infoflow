@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-03T02:21:39Z",
+  "generated_at": "2026-11-03T02:31:32Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “HKSTP drives Hong Kong mobility innovators to test and scale in Singapore” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -40,7 +40,7 @@
       "url": "https://openai.com/index/dan-driscoll-joins-openai",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-02T00:00:00+00:00",
-      "age_days": 1.1,
+      "age_days": 1.11,
       "topics": [
         "ai",
         "security"
@@ -124,7 +124,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN02B1R0S6A101C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-02T23:12:33+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -201,7 +201,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOUB0222R0S6A101C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-02T09:47:11+00:00",
-      "age_days": 0.69,
+      "age_days": 0.7,
       "topics": [
         "ai"
       ],
@@ -251,7 +251,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN300HD0Q6A031C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-02T09:06:32+00:00",
-      "age_days": 0.72,
+      "age_days": 0.73,
       "topics": [
         "ai"
       ],
@@ -276,7 +276,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 135.98,
+      "age_days": 135.99,
       "topics": [
         "general"
       ],
@@ -301,7 +301,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 135.98,
+      "age_days": 135.99,
       "topics": [
         "general"
       ],
