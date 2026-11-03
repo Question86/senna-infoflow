@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-03T18:48:28Z",
+  "generated_at": "2026-11-03T19:02:42Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4292",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T14:14:08+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1765",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T11:52:33+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -73,7 +73,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4165",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T11:52:33+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -98,7 +98,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4298",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T11:52:32+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -123,7 +123,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4244",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T10:25:40+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -148,7 +148,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4199",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T11:52:33+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -172,7 +172,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4300",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T11:52:33+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "ai",
         "security"
@@ -197,7 +197,7 @@
       "url": "https://e27.co/hkstp-drives-hong-kong-mobility-innovators-to-test-and-scale-in-singapore-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T01:00:54+00:00",
-      "age_days": 0.74,
+      "age_days": 0.75,
       "topics": [
         "general"
       ],
@@ -222,7 +222,7 @@
       "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-02T18:00:00+00:00",
-      "age_days": 1.03,
+      "age_days": 1.04,
       "topics": [
         "ai",
         "security"
@@ -247,7 +247,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1410/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-29T00:00:00+00:00",
-      "age_days": 5.78,
+      "age_days": 5.79,
       "topics": [
         "security"
       ],
@@ -272,7 +272,7 @@
       "url": "https://e27.co/scb-10x-invests-tasklet-ai-agent-platform-12-8m-funding-20261103/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T07:55:32+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "ai",
         "macro"
@@ -301,7 +301,7 @@
       "url": "https://github.com/vercel-labs/agent-desktop",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-03T07:57:56+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "ai",
         "macro"
@@ -330,7 +330,7 @@
       "url": "https://openai.com/index/dan-driscoll-joins-openai",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-02T00:00:00+00:00",
-      "age_days": 1.78,
+      "age_days": 1.79,
       "topics": [
         "ai",
         "security"
@@ -358,7 +358,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0280",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T13:19:19+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -384,7 +384,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3294",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T12:32:49+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -410,7 +410,7 @@
       "url": "https://www.bis.org/speeches/20261103-innovation-security-and-technological-sovereignty-reconciling-three-imperatives",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-11-03T00:00:00+00:00",
-      "age_days": 0.78,
+      "age_days": 0.79,
       "topics": [
         "ai",
         "security",
@@ -438,7 +438,7 @@
       "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-02T18:00:00+00:00",
-      "age_days": 1.03,
+      "age_days": 1.04,
       "topics": [
         "ai",
         "security"
@@ -464,7 +464,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4299",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T11:52:33+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -490,7 +490,7 @@
       "url": "https://e27.co/indonesia-urgently-needs-an-allergy-data-centre-to-support-national-food-security-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-03T04:30:47+00:00",
-      "age_days": 0.6,
+      "age_days": 0.61,
       "topics": [
         "security"
       ],
@@ -516,7 +516,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1412/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-29T00:00:00+00:00",
-      "age_days": 5.78,
+      "age_days": 5.79,
       "topics": [
         "security"
       ],
@@ -542,7 +542,7 @@
       "url": "https://protocol-explorer-alpha.vercel.app/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-03T03:40:37+00:00",
-      "age_days": 0.63,
+      "age_days": 0.64,
       "topics": [
         "ai"
       ],
@@ -568,7 +568,7 @@
       "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-03T15:27:13+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "krass",
@@ -594,7 +594,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0194",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T14:44:12+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -619,7 +619,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3180",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T14:24:22+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -644,7 +644,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1517",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T13:49:09+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -669,7 +669,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4301",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T12:17:32+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -694,7 +694,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4152",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T11:25:09+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -719,7 +719,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4224",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T10:25:40+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -744,7 +744,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4264",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-03T09:27:32+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -769,7 +769,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1411/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-10-29T00:00:00+00:00",
-      "age_days": 5.78,
+      "age_days": 5.79,
       "topics": [
         "ai",
         "security"
@@ -796,7 +796,7 @@
       "url": "https://www.bis.org/speeches/20261103-payments-fragmenting-world-sovereignty-strategy-and-system-design",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-11-03T00:00:00+00:00",
-      "age_days": 0.78,
+      "age_days": 0.79,
       "topics": [
         "macro"
       ],
@@ -823,7 +823,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 137.7,
+      "age_days": 137.71,
       "topics": [
         "ai"
       ],
@@ -852,7 +852,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-11-03T15:42:17+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "macro",
@@ -881,7 +881,7 @@
       "url": "https://ai-data-base.com/archives/139789",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-01T04:48:57+00:00",
-      "age_days": 2.58,
+      "age_days": 2.59,
       "topics": [
         "ai",
         "macro"
@@ -908,7 +908,7 @@
       "url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-03T14:56:03+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -934,7 +934,7 @@
       "url": "https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-03T13:49:32+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -961,7 +961,7 @@
       "url": "https://www.heise.de/news/Android-Patchday-Kritische-Luecken-ermoeglichen-Angriffe-ohne-Nutzerinteraktion-11508886.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-03T08:59:00.000+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "security",
         "macro"
@@ -987,7 +987,7 @@
       "url": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/",
       "source": "GitHub Blog Atom",
       "published_at": "2026-11-03T16:00:00+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -1012,7 +1012,7 @@
       "url": "https://www.heise.de/news/Passwort-Manager-mSecure-Nach-IT-Vorfall-Zugangsdaten-sichern-11509717.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-03T12:57:00.000+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -1036,7 +1036,7 @@
       "url": "https://www.heise.de/news/Internet-of-Things-Siemens-Simatic-IoT2050-angegriffen-11509246.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-03T11:09:00.000+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "ai",
         "security"
