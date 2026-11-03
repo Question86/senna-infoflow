@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-03T12:58:07+00:00_
+_Generiert: 2026-11-03T13:07:32+00:00_
 
 ## Kurzlage
 
-52 neue relevante Treffer. Stärkstes Signal: „SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+53 neue relevante Treffer. Stärkstes Signal: „SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,6 +29,22 @@ _Generiert: 2026-11-03T12:58:07+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-28`
   - Kurz: Known exploited vulnerability. Added 2026-10-28. Due 2026-11-11. Broadcom VMWare ESX Insufficient Logging Vulnerability
+- **GDACS: Green flood alert in Bulgaria** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104267)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Bulgaria
+- **GDACS: Green flood alert in Spain** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104268)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Spain
+- **GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu 01/11/2026 11:47 UTC, 2 thousand in MMI IV.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1575068)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu 01/11/2026 11:47 UTC, 2 thousand in MMI IV.
+- **GDACS: Red notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.506 million .** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001346)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Red notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.506 million .
 
 ## Wirtschaft global
 
@@ -245,6 +261,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently. https://flashml.ai | Download | Paper | Developer Slack | Community Discord | Community WeChat | Unlock datacenter-class intelligence on the hardware you already own — Run 290B+ frontier MoE models locally on your gaming PC at blistering interactive speeds. About FreeToken is an edge-native Mixture-of-E…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Passwort-Manager mSecure: Nach IT-Vorfall Zugangsdaten sichern** — Score 7, observation — [Quelle](https://www.heise.de/news/Passwort-Manager-mSecure-Nach-IT-Vorfall-Zugangsdaten-sichern-11509717.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-11-03T12:57:00.000+00:00`, fetched `2026-11-03T13:07:03+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Die Programmierer des Passwort-Managers mSecure empfehlen nach einem IT-Vorfall, alle gespeicherten Zugänge neu abzusichern.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Internet of Things: Siemens Simatic IoT2050 angegriffen** — Score 7, risk — [Quelle](https://www.heise.de/news/Internet-of-Things-Siemens-Simatic-IoT2050-angegriffen-11509246.html)
   - Quelle: heise Security Alerts / `rss`

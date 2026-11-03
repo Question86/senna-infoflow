@@ -1159,6 +1159,26 @@
     "id": "1f4cd663db0d0b5a9207"
   },
   {
+    "title": "Passwort-Manager mSecure: Nach IT-Vorfall Zugangsdaten sichern",
+    "url": "https://www.heise.de/news/Passwort-Manager-mSecure-Nach-IT-Vorfall-Zugangsdaten-sichern-11509717.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-11-03T12:57:00.000+00:00",
+    "fetched_at": "2026-11-03T13:07:03+00:00",
+    "summary": "Die Programmierer des Passwort-Managers mSecure empfehlen nach einem IT-Vorfall, alle gespeicherten Zugänge neu abzusichern.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "14801391f1e423e51f34"
+  },
+  {
     "title": "Internet of Things: Siemens Simatic IoT2050 angegriffen",
     "url": "https://www.heise.de/news/Internet-of-Things-Siemens-Simatic-IoT2050-angegriffen-11509246.html",
     "source": "heise Security Alerts",

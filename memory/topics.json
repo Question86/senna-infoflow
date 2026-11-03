@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-03T12:58:07+00:00",
+  "generated_at": "2026-11-03T13:07:32+00:00",
   "topics": {
     "ai": [
       {
@@ -300,11 +300,11 @@
         "url": "https://github.com/FlashML-org/FreeToken"
       },
       {
-        "title": "Internet of Things: Siemens Simatic IoT2050 angegriffen",
+        "title": "Passwort-Manager mSecure: Nach IT-Vorfall Zugangsdaten sichern",
         "source": "heise Security Alerts",
-        "published_at": "2026-11-03T11:09:00.000+00:00",
+        "published_at": "2026-11-03T12:57:00.000+00:00",
         "relevance_score": 7,
-        "url": "https://www.heise.de/news/Internet-of-Things-Siemens-Simatic-IoT2050-angegriffen-11509246.html"
+        "url": "https://www.heise.de/news/Passwort-Manager-mSecure-Nach-IT-Vorfall-Zugangsdaten-sichern-11509717.html"
       }
     ],
     "general": [

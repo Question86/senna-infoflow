@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-03T12:58:07+00:00_
+_Generiert: 2026-11-03T13:07:32+00:00_
 
 ## Kurzlage
 
-52 neue relevante Treffer. Stärkstes Signal: „SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
+53 neue relevante Treffer. Stärkstes Signal: „SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -212,6 +212,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently. https://flashml.ai | Download | Paper | Developer Slack | Community Discord | Community WeChat | Unlock datacenter-class intelligence on the hardware you already own — Run 290B+ frontier MoE models locally on your gaming PC at blistering interactive speeds. About FreeToken is an edge-native Mixture-of-E…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Passwort-Manager mSecure: Nach IT-Vorfall Zugangsdaten sichern** — Score 7, observation — [Quelle](https://www.heise.de/news/Passwort-Manager-mSecure-Nach-IT-Vorfall-Zugangsdaten-sichern-11509717.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-11-03T12:57:00.000+00:00`, fetched `2026-11-03T13:07:03+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Die Programmierer des Passwort-Managers mSecure empfehlen nach einem IT-Vorfall, alle gespeicherten Zugänge neu abzusichern.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Internet of Things: Siemens Simatic IoT2050 angegriffen** — Score 7, risk — [Quelle](https://www.heise.de/news/Internet-of-Things-Siemens-Simatic-IoT2050-angegriffen-11509246.html)
   - Quelle: heise Security Alerts / `rss`
