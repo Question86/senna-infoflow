@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-03T07:53:29+00:00_
+_Generiert: 2026-11-03T07:58:24+00:00_
 
 ## Kurzlage
 
-24 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+29 neue relevante Treffer. Stärkstes Signal: „SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round“ aus e27 Asia Startup and Tech Feed (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,10 +33,10 @@ _Generiert: 2026-11-03T07:53:29+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu 01/11/2026 11:47 UTC, 2 thousand in MMI IV.
-- **GDACS: Red notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.935 million .** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001346)
+- **GDACS: Red notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.506 million .** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001346)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Red notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.935 million .
+  - Kurz: Red notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.506 million .
 - **GDACS: Green earthquake (Magnitude 6M, Depth:352.449km) in Japan 31/10/2026 22:15 UTC, 60 thousand in MMI III.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1574997)
   - Quelle: GDACS
   - Zeit: ``
@@ -57,6 +57,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round** — Score 23, opportunity — [Quelle](https://e27.co/scb-10x-invests-tasklet-ai-agent-platform-12-8m-funding-20261103/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-03T07:55:32+00:00`, fetched `2026-11-03T07:57:56+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, Automatisierung, funding, Watchgraph:ai_agents_workflow, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers, ai_agents_workflow
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, NVDA, AMD, TSM, ASML, AVGO, MU, BA
+  - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); Automatisierung (+5.0); APAC Trend Radar (+3.8); funding (+2.5); recent (+1.0); watchgraph modules capitals_power_centers, ai_agents_workflow (+6.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: Bangkok, October 26, 2026 – SCB 10X, the disruptive technology investment arm of SCBX Group, announced its investment in Tasklet, an AI agent platform that enables businesses to automate complex workflows and delegate operational tasks to AI agents. Tasklet has raised an additional $12.8 million in funding, with participation from investors including Union Square Ventures, 359 Capital, […] The post SCB 10X Invests i…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
   - Zeit: published `2026-11-03T07:42:00+00:00`, fetched `2026-11-03T07:41:47+00:00`
@@ -93,6 +102,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); Security (+7.5); recent (+1.0)
   - Kurz: OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **D4Vinci/Scrapling** — Score 19, observation — [Quelle](https://github.com/D4Vinci/Scrapling)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-11-03T07:57:56+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, GitHub Trending, Macro/Policy, Watchgraph:ai_agents_workflow, Watchgraph:elections_unrest
+  - Watchgraph: elections_unrest, ai_agents_workflow
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, NVDA, AMD, TSM, ASML, AVGO, MU, BA
+  - Warum relevant: AI/KI (+3.0); Macro/Policy (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules elections_unrest, ai_agents_workflow (+6.0)
+  - Kurz: 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev https://scrapling.readthedocs.io/en/latest/ Effortless Web Scraping for the Modern Web Selection methods · Fetchers · Spiders · Proxy Rotation · CLI · MCP Scrapling is a Python Web Scraping…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **vercel-labs/agent-desktop** — Score 18, opportunity — [Quelle](https://github.com/vercel-labs/agent-desktop)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-11-03T07:57:56+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, GitHub Trending, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: SNAP (+2.0)
+  - Kurz: Computer use CLI for AI agents https://agent-browser.dev/desktop agent-desktop Computer use for AI agents: read and operate desktop apps through the OS accessibility tree. A CLI and C library for macOS, Windows and Linux. A snapshot returns JSON with a ref for every element an agent can act on. The agent acts on a ref and snapshots again to check, with no pixel matching; the loop stays in your agent. Every CLI call…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **The crypto independence story is fragile: Bitcoin now moves on elections, oil and missiles** — Score 16, observation — [Quelle](https://e27.co/the-crypto-independence-story-is-fragile-bitcoin-now-moves-on-elections-oil-and-missiles-20261103/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-03T05:26:33+00:00`, fetched `2026-11-03T05:37:52+00:00`
@@ -110,15 +137,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+7.5); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)
   - Kurz: Food allergy in Indonesia is a real concern, and we cannot ignore it. According to CNN Indonesia, about 1.7 million children in Indonesia have allergies, and cow’s milk is one of the triggers. This number was shared by Ray Wagiu Basrowi, a doctor and researcher, during World Allergy Week 2026 with Sarihusada in Jakarta on […] The post Indonesia urgently needs an allergy data centre to support national food security…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Singapore and Romania don’t need another MOU. They need first customers** — Score 14, observation — [Quelle](https://e27.co/singapore-and-romania-dont-need-another-mou-they-need-first-customers-20261101/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-03T03:30:36+00:00`, fetched `2026-11-03T03:38:04+00:00`
-  - Treffer: APAC Trend Radar, founder, Public Health
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); Public Health (+5.0); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: On a weekday afternoon in late October, a group of Romanian founders pitched to a Singapore audience over Teams. One of them signed off with a plain request. He would be in Singapore the week of the Singapore Fintech Festival, he said, and he’d love an introduction to anyone who runs compliance or risk at […] The post Singapore and Romania don’t need another MOU. They need first customers appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
@@ -186,12 +204,30 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
   - Kurz: 米パランティア・テクノロジーズのアレックス・カープ最高経営責任者（CEO）は日本経済新聞の単独インタビューで「日本は専守防衛型の人工知能（AI）スタック（製品群）の開発で優位に立てる」と自衛隊へのAIシステム供給に意欲をみせた。民間部門には知的財産を守るためにAIの制御・訓練が必要だと指摘した。 米軍・情...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **FlashML-org/FreeToken** — Score 8, observation — [Quelle](https://github.com/FlashML-org/FreeToken)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-11-03T07:57:56+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, GitHub Trending
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
+  - Kurz: FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently. https://flashml.ai | Download | Paper | Developer Slack | Community Discord | Community WeChat | Unlock datacenter-class intelligence on the hardware you already own — Run 290B+ frontier MoE models locally on your gaming PC at blistering interactive speeds. About FreeToken is an edge-native Mixture-of-E…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **hyprwm/Hyprland** — Score 5, observation — [Quelle](https://github.com/hyprwm/Hyprland)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-11-03T07:57:56+00:00`
+  - Treffer: APAC Trend Radar, GitHub Trending
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
+  - Kurz: Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks. https://hypr.land Hyprland is a 100% independent, dynamic tiling Wayland compositor that doesn't sacrifice on its looks. It provides the latest Wayland features, is highly customizable, has all the eyecandy, the most powerful plugins, easy IPC, much more QoL stuff than other compositors and more...…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
+- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Erinnerungskandidaten
 
