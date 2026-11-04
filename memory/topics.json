@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-04T15:00:40+00:00",
+  "generated_at": "2026-11-04T15:14:30+00:00",
   "topics": {
     "ai": [
       {
@@ -68,11 +68,11 @@
         "url": "https://e27.co/information-asymmetry-didnt-die-in-2026-it-just-learned-better-pr-20261101/"
       },
       {
-        "title": "max-sixty/worktrunk",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
+        "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-11-04T07:00:00+00:00",
         "relevance_score": 13,
-        "url": "https://github.com/max-sixty/worktrunk"
+        "url": "https://openai.com/index/daybreak-red-aws-govcloud"
       }
     ],
     "economy": [
@@ -342,6 +342,13 @@
         "published_at": "2026-11-04T09:17:59+00:00",
         "relevance_score": 5,
         "url": "https://news.web.nhk/newsweb/na/nd-20261104de70494"
+      },
+      {
+        "title": "日本語プログラミングフォント「Cyroit」とそのファミリー8種が一斉アップデート／「Inconsolata」＋「Circle M+」＋「BIZ UDゴシック」、コード特有の可読性にも配慮",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-04T09:09:14+00:00",
+        "relevance_score": 5,
+        "url": "https://forest.watch.impress.co.jp/docs/news/2153421.html"
       },
       {
         "title": "Binance、約1兆円相当の暗号資産が流出した問題に関し、検索エンジンに表示されたWebサイトから改ざんされたHomebrewをインストールした事が始まりだったと発表。",
