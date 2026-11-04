@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-04T06:22:41+00:00",
-    "fetched_at": "2026-11-04T06:22:26+00:00",
+    "published_at": "2026-11-04T13:04:06+00:00",
+    "fetched_at": "2026-11-04T13:03:52+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "0e868348810e174a944c"
+    "id": "268ae18bba370437a445"
   },
   {
     "title": "Could AI agents break fractional-reserve banking?",
@@ -87,6 +87,30 @@
       "PINS"
     ],
     "id": "a6a4b291834d30177d30"
+  },
+  {
+    "title": "[NEU] [mittel] Angular: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4339",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-04T12:59:02+00:00",
+    "fetched_at": "2026-11-04T13:03:52+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Angular ausnutzen, um einen Denial of Service Angriff durchzuführen oder Nutzer auf eine beliebige externe Website umzuleiten.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security",
+      "Webentwicklung"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); Webentwicklung (+3.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ad017a7bac6196e56926"
   },
   {
     "title": "[NEU] [hoch] Microsoft GitHub Enterprise Server: Mehrere Schwachstellen",
@@ -431,6 +455,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "eb971ba25f042d801365"
+  },
+  {
+    "title": "[NEU] [mittel] BuildKit: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4338",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-04T12:59:02+00:00",
+    "fetched_at": "2026-11-04T13:03:52+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in BuildKit ausnutzen, um Privilegien zu erhöhen oder einen Denial of Service zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "04794b3a11a289677351"
   },
   {
     "title": "[NEU] [mittel] Grafana: Schwachstelle ermöglicht Offenlegung von Informationen",
