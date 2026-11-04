@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-04T06:26:13Z",
+  "generated_at": "2026-11-04T06:36:14Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 30,
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/jp/JVN12040144/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-04T12:00:15+09:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "security"
@@ -48,7 +48,7 @@
       "url": "https://jvn.jp/jp/JVN44272550/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-04T12:00:00+09:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -120,7 +120,7 @@
       "url": "https://azukiazusa.dev/blog/agent-desktop-computer-use-cli/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-03T08:51:58+00:00",
-      "age_days": 0.9,
+      "age_days": 0.91,
       "topics": [
         "ai"
       ],
@@ -146,7 +146,7 @@
       "url": "https://rocket-boys.co.jp/security-measures-lab/android-sms-of-death-cve-2026-58882-zero-click-dos/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-03T13:06:50+00:00",
-      "age_days": 0.72,
+      "age_days": 0.73,
       "topics": [
         "security"
       ],
@@ -197,7 +197,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11359-f87b5-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-11-04T05:54:00+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -223,7 +223,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11358-6cf16-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-11-04T05:52:00+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -331,7 +331,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-11-04T06:22:41+00:00",
-      "age_days": 0.0,
+      "age_days": 0.01,
       "topics": [
         "ai",
         "macro",
@@ -360,7 +360,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11360-ab123-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-11-04T05:55:00+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -433,7 +433,7 @@
       "url": "https://e27.co/information-asymmetry-didnt-die-in-2026-it-just-learned-better-pr-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-04T02:00:40+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -483,7 +483,7 @@
       "url": "https://e27.co/your-startup-should-think-about-scaling-not-surviving-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-04T04:00:18+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "macro"
@@ -510,7 +510,7 @@
       "url": "https://e27.co/afore-funded-him-flew-him-to-sf-then-watched-him-scrap-the-plan-in-a-week-they-didnt-flinch-20261104/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-04T05:22:04+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -536,7 +536,7 @@
       "url": "https://www.digital.go.jp/policies/education/2025report",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-11-04T06:00:00+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
@@ -560,7 +560,7 @@
       "url": "https://e27.co/how-i-use-ai-for-outreach-without-outsourcing-judgement-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-04T03:00:20+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -586,7 +586,7 @@
       "url": "https://e27.co/two-interviews-and-a-coding-test-how-a-fake-job-opened-binance-to-north-korea-20261104/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-04T04:01:15+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -613,7 +613,7 @@
       "url": "https://av.watch.impress.co.jp/docs/topic/special/2149395.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-03T23:37:15+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -637,7 +637,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 137.15,
+      "age_days": 137.16,
       "topics": [
         "general"
       ],
@@ -662,7 +662,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 137.15,
+      "age_days": 137.16,
       "topics": [
         "general"
       ],
@@ -687,7 +687,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 137.15,
+      "age_days": 137.16,
       "topics": [
         "ai"
       ],
@@ -714,7 +714,7 @@
       "url": "https://www.digital.go.jp/policies/genai/a53afc92-729a-46ce-9b86-8d9a33053edf",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-11-04T06:12:12+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai"
       ],
