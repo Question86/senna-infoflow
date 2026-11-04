@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-04T12:40:51+00:00_
+_Generated: 2026-11-04T12:46:06+00:00_
 
 ## Status
 - status: `normal`
-- findings: `61`
+- findings: `67`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-11-04T12:40:51+00:00_
 - url: https://e27.co/could-ai-agents-break-fractional-reserve-banking-20261101/
 - summary: Banks perform a useful trick. They let customers withdraw money from checking and savings accounts at short notice, while using much of that funding to support mortgages and business loans that may not be repaid for years. The system works because customers d…
 
-### 3. [UPDATE] [hoch] Android Patchday November 2026 (Google Android, Automotive OS and XR): Mehrere Schwachstellen
+### 3. [NEU] [UNGEPATCHT] [mittel] Rsync: Schwachstelle ermöglicht Denial of Service
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-11-04T12:44:15+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4324
+- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Rsync ausnutzen, um einen Denial of Service Angriff durchzuführen.
+
+### 4. [UPDATE] [hoch] Android Patchday November 2026 (Google Android, Automotive OS and XR): Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-11-04T11:40:48+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4288
 - summary: Ein Angreifer kann mehrere Schwachstellen in Google Android ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern, vertrauliche Informationen offenzulegen, Denial-of-Service-Zustände zu verursachen oder andere, nicht näher spezifizierte Auswi…
-
-### 4. [UPDATE] [hoch] Ivanti Connect Secure: Schwachstelle ermöglicht die Umgehung von Authentifizierung und Codeausführung
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-11-04T11:39:54+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3936
-- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Ivanti Connect Secure ausnutzen, um Sicherheitsvorkehrungen zu umgehen und um beliebigen Code auszuführen.
 
 ### 5. max-sixty/worktrunk
 - source: GitHub Trending RSS All Languages Daily

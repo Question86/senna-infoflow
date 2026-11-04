@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-04T12:40:51+00:00_
+_Generiert: 2026-11-04T12:46:06+00:00_
 
 ## Kurzlage
 
-61 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+67 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -79,6 +79,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); funding (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: Banks perform a useful trick. They let customers withdraw money from checking and savings accounts at short notice, while using much of that funding to support mortgages and business loans that may not be repaid for years. The system works because customers do not all ask for their money back at the same time. Most […] The post Could AI agents break fractional-reserve banking? appeared first on e27 .
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **[NEU] [UNGEPATCHT] [mittel] Rsync: Schwachstelle ermöglicht Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4324)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-11-04T12:44:15+00:00`, fetched `2026-11-04T12:45:36+00:00`
+  - Treffer: BSI, CERT-Bund, Patch, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Rsync ausnutzen, um einen Denial of Service Angriff durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [hoch] Android Patchday November 2026 (Google Android, Automotive OS and XR): Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4288)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-11-04T11:40:48+00:00`, fetched `2026-11-04T11:48:27+00:00`
@@ -96,15 +105,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
   - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Ivanti Connect Secure ausnutzen, um Sicherheitsvorkehrungen zu umgehen und um beliebigen Code auszuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4302)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-11-04T11:19:02+00:00`, fetched `2026-11-04T11:26:27+00:00`
-  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, darunter möglicherweise die Auslösung eines Denial-of-Service-Angriffs, die Manipulation oder Offenlegung von Daten, die Ausführung von beliebigem Code, die Erlangung erweiterter Berechtigungen oder die Umgehung von Sicherheitsmaßnahmen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年11月03日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU91151184/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
