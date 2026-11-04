@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-04T22:00:50+00:00",
-  "run_id": "2026-11-04T22:00:50+00:00",
+  "generated_at": "2026-11-04T22:11:20+00:00",
+  "run_id": "2026-11-04T22:11:20+00:00",
   "date": "2026-11-04",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 96
+      "configured_public_sources_only": 97
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 96,
-    "displayed_findings": 96,
+    "new_relevant_findings": 1,
+    "today_file_total": 97,
+    "displayed_findings": 97,
     "high": 0,
     "medium": 55,
-    "observe": 41,
-    "source_errors": 1
+    "observe": 42,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -2296,6 +2296,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "ec35cea99912897a04ea"
+      },
+      {
+        "title": "珠玉の書籍 「人生を変えた1冊」 yukiさん＆sivchariさん - Findy Media",
+        "url": "https://findy-code.io/media/articles/influential-books-helloyuki_-sivchari",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-03T23:35:47+00:00",
+        "fetched_at": "2026-11-04T22:10:50+00:00",
+        "summary": "1冊の本が、エンジニアの進む方向を変えることがある。この企画では、エンジニアが1冊の本と出会った場面から今につながる変化までをたどります。誰かの1冊との物語が、あなたが次の1冊に手を伸ばすきっかけになりますように。Findy Engineer Labで全7回・55名の方にご登場いただいた「珠玉の書籍」が、1記事2名でじっく...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8364f967a27749d1c98b"
       },
       {
         "title": "マッキンゼーが国に納品した資料2,446ページ、全部数えたらパターンは7つだけだった｜うちた",
@@ -4629,6 +4650,27 @@
       "id": "ec35cea99912897a04ea"
     },
     {
+      "title": "珠玉の書籍 「人生を変えた1冊」 yukiさん＆sivchariさん - Findy Media",
+      "url": "https://findy-code.io/media/articles/influential-books-helloyuki_-sivchari",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-03T23:35:47+00:00",
+      "fetched_at": "2026-11-04T22:10:50+00:00",
+      "summary": "1冊の本が、エンジニアの進む方向を変えることがある。この企画では、エンジニアが1冊の本と出会った場面から今につながる変化までをたどります。誰かの1冊との物語が、あなたが次の1冊に手を伸ばすきっかけになりますように。Findy Engineer Labで全7回・55名の方にご登場いただいた「珠玉の書籍」が、1記事2名でじっく...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8364f967a27749d1c98b"
+    },
+    {
       "title": "マッキンゼーが国に納品した資料2,446ページ、全部数えたらパターンは7つだけだった｜うちた",
       "url": "https://note.com/uchita_success/n/nfc53d1ef5f81",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4691,15 +4733,30 @@
       "id": "6d07835e6d2c1099505b"
     }
   ],
-  "new_findings": [],
-  "source_errors": [
+  "new_findings": [
     {
-      "source_id": "e27_asia_startups_feed",
-      "source_name": "e27 Asia Startup and Tech Feed",
+      "title": "珠玉の書籍 「人生を変えた1冊」 yukiさん＆sivchariさん - Findy Media",
+      "url": "https://findy-code.io/media/articles/influential-books-helloyuki_-sivchari",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "error": "403 Client Error: Forbidden for url: https://e27.co/feed/"
+      "published_at": "2026-11-03T23:35:47+00:00",
+      "fetched_at": "2026-11-04T22:10:50+00:00",
+      "summary": "1冊の本が、エンジニアの進む方向を変えることがある。この企画では、エンジニアが1冊の本と出会った場面から今につながる変化までをたどります。誰かの1冊との物語が、あなたが次の1冊に手を伸ばすきっかけになりますように。Findy Engineer Labで全7回・55名の方にご登場いただいた「珠玉の書籍」が、1記事2名でじっく...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8364f967a27749d1c98b"
     }
   ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
