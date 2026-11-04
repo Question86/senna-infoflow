@@ -1,5 +1,52 @@
 [
   {
+    "title": "Could AI agents break fractional-reserve banking?",
+    "url": "https://e27.co/could-ai-agents-break-fractional-reserve-banking-20261101/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-11-04T01:00:35+00:00",
+    "fetched_at": "2026-11-04T01:07:45+00:00",
+    "summary": "Banks perform a useful trick. They let customers withdraw money from checking and savings accounts at short notice, while using much of that funding to support mortgages and business loans that may not be repaid for years. The system works because customers do not all ask for their money back at the same time. Most […] The post Could AI agents break fractional-reserve banking? appeared first on e27 .",
+    "matched_keywords": [
+      "AI Agents",
+      "AI/KI",
+      "APAC Trend Radar",
+      "funding",
+      "Watchgraph:ai_agents_workflow"
+    ],
+    "relevance_score": 19,
+    "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); funding (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [
+      "ai_agents_workflow"
+    ],
+    "watchgraph_reasons": [
+      "ai_agents_workflow: AI agents"
+    ],
+    "market_context": [
+      "NVDA",
+      "AMD",
+      "TSM",
+      "ASML",
+      "AVGO",
+      "MU",
+      "005930.KS",
+      "000660.KS",
+      "8035.T",
+      "MSFT",
+      "GTLB",
+      "FROG",
+      "TEAM",
+      "META",
+      "GOOGL",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "a6a4b291834d30177d30"
+  },
+  {
     "title": "AI エージェントがデスクトップアプリを操作する CLI agent-desktop",
     "url": "https://azukiazusa.dev/blog/agent-desktop-computer-use-cli/",
     "source": "Hatena Bookmark Hotentry IT",
