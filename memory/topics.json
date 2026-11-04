@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-04T09:55:52+00:00",
+  "generated_at": "2026-11-04T10:15:21+00:00",
   "topics": {
     "ai": [
       {
@@ -163,25 +163,25 @@
         "url": "https://jvn.jp/vu/JVNVU92281274/"
       },
       {
-        "title": "[NEU] [hoch] Mozilla Firefox: Schwachstelle ermöglicht nicht spezifizierten Angriff",
+        "title": "[NEU] [hoch] Docker Desktop: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-04T09:29:02+00:00",
+        "published_at": "2026-11-04T10:14:01+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4304"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4310"
       },
       {
-        "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] IBM TXSeries: Mehrere Schwachstellen ermöglichen Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-04T09:29:01+00:00",
+        "published_at": "2026-11-04T10:09:02+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4303"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4309"
       },
       {
-        "title": "歐洲超市冷凍設備遭駭，凸顯連網設備對外暴露與預設密碼風險",
-        "source": "TWCERT/CC Security News RSS",
-        "published_at": "2026-11-04T08:40:00+00:00",
+        "title": "[NEU] [hoch] Xen: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-04T10:09:02+00:00",
         "relevance_score": 14,
-        "url": "https://www.twcert.org.tw/tw/cp-104-11367-06bed-1.html"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4308"
       }
     ],
     "geopolitics": [
@@ -191,6 +191,41 @@
         "published_at": "2026-11-04T09:34:01+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4305"
+      },
+      {
+        "title": "[NEU] [hoch] Docker Desktop: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-04T10:14:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4310"
+      },
+      {
+        "title": "[NEU] [mittel] IBM TXSeries: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-04T10:09:02+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4309"
+      },
+      {
+        "title": "[NEU] [hoch] Xen: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-04T10:09:02+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4308"
+      },
+      {
+        "title": "[NEU] [mittel] PostgreSQL ODBC Treiber: Mehrere Schwachstellen ermöglichen Manipulation von Daten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-04T10:04:02+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4307"
+      },
+      {
+        "title": "[NEU] [hoch] Devolutions Server: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-04T10:04:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4306"
       },
       {
         "title": "[NEU] [hoch] Mozilla Firefox: Schwachstelle ermöglicht nicht spezifizierten Angriff",
