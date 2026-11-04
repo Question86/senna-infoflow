@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-04T11:43:37+00:00",
+  "generated_at": "2026-11-04T11:48:58+00:00",
   "topics": {
     "ai": [
       {
@@ -114,6 +114,13 @@
     ],
     "security": [
       {
+        "title": "[UPDATE] [hoch] Android Patchday November 2026 (Google Android, Automotive OS and XR): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-04T11:40:48+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4288"
+      },
+      {
         "title": "[UPDATE] [hoch] Ivanti Connect Secure: Schwachstelle ermöglicht die Umgehung von Authentifizierung und Codeausführung",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-04T11:39:54+00:00",
@@ -175,13 +182,6 @@
         "published_at": "2026-11-04T11:39:33+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3828"
-      },
-      {
-        "title": "[NEU] [mittel] IBM WebSphere Application Server Liberty: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-04T10:24:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4314"
       }
     ],
     "geopolitics": [
