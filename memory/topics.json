@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-04T10:22:43+00:00",
+  "generated_at": "2026-11-04T10:28:18+00:00",
   "topics": {
     "ai": [
       {
@@ -149,6 +149,13 @@
         "url": "https://jvn.jp/jp/JVN44272550/"
       },
       {
+        "title": "[NEU] [mittel] IBM WebSphere Application Server Liberty: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-04T10:24:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4314"
+      },
+      {
         "title": "[NEU] [mittel] IBM AIX und VIOS (Perl): Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-04T10:19:01+00:00",
@@ -175,13 +182,6 @@
         "published_at": "2026-11-04T10:15:30+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU99859918/"
-      },
-      {
-        "title": "Androidアプリ「BaseChat - Audio Dating App」における複数の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-04T10:15:15+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU92281274/"
       }
     ],
     "geopolitics": [
@@ -191,6 +191,13 @@
         "published_at": "2026-11-04T09:34:01+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4305"
+      },
+      {
+        "title": "[NEU] [mittel] IBM WebSphere Application Server Liberty: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-04T10:24:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4314"
       },
       {
         "title": "[NEU] [mittel] IBM AIX und VIOS (Perl): Schwachstelle ermöglicht Denial of Service",
@@ -247,13 +254,6 @@
         "published_at": "2026-11-04T10:04:01+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4306"
-      },
-      {
-        "title": "[NEU] [hoch] Mozilla Firefox: Schwachstelle ermöglicht nicht spezifizierten Angriff",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-04T09:29:02+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4304"
       }
     ],
     "general": [
