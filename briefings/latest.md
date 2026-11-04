@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-04T09:14:18+00:00_
+_Generiert: 2026-11-04T09:21:35+00:00_
 
 ## Kurzlage
 
-34 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+35 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -226,6 +226,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: San Francisco (+2.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: The excitement lasted about as long as it took his roommate to ask one question. Mohammed Khambhati was in his dorm at the Singapore University of Technology and Design (SUTD) when he learnt that Afore Capital, a San Francisco pre-seed firm, was backing his startup. “Dude, I just got funded. I have to go to […] The post Afore funded him, flew him to SF, then watched him scrap the plan in a week. They didn’t flinch a…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Why Multiable HCM Is the Best AI HRIS in Singapore for Public Companies and Large Enterprises** — Score 10, observation — [Quelle](https://e27.co/ai-hris-singapore-public-company-multiable-hcm-20261104/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-04T09:16:20+00:00`, fetched `2026-11-04T09:21:08+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Enterprise Workforce Administration for Listed Corporations in Singapore Rising Governance Expectations in Public Company Human Resources Listed corporations and large enterprise groups operating on the Singapore Exchange face intense scrutiny regarding workforce governance, financial disclosure accuracy, and regional labor administration. Managing thousands of employees across multiple business units requires far m…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.0 - Fiji region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvuv)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-04T00:47:49.040+00:00`, fetched `2026-11-04T00:52:34+00:00`
@@ -243,15 +252,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **How I use AI for outreach without outsourcing judgement** — Score 8, observation — [Quelle](https://e27.co/how-i-use-ai-for-outreach-without-outsourcing-judgement-20261101/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-04T03:00:20+00:00`, fetched `2026-11-04T03:13:06+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: I use AI regularly for prospecting and outreach. The useful part is not having it write a generic email to a long list of companies. It is helping me find a more relevant starting point: businesses that have put out a public signal which may match an offer I am making. That signal might be […] The post How I use AI for outreach without outsourcing judgement appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ガバメントAI 源内に関する「国会答弁作成支援AIアプリ 基本機能編」の解説動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/genai/a53afc92-729a-46ce-9b86-8d9a33053edf)
   - Quelle: Japan Digital Agency News RSS / `rss`

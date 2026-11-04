@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04T09:14:18+00:00",
-  "run_id": "2026-11-04T09:14:18+00:00",
+  "generated_at": "2026-11-04T09:21:35+00:00",
+  "run_id": "2026-11-04T09:21:35+00:00",
   "date": "2026-11-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 34
+      "configured_public_sources_only": 35
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 34,
-    "displayed_findings": 34,
+    "today_file_total": 35,
+    "displayed_findings": 35,
     "high": 0,
     "medium": 13,
-    "observe": 21,
+    "observe": 22,
     "source_errors": 0
   },
   "sections": {
@@ -645,6 +645,27 @@
           "EWZ"
         ],
         "id": "ea6286f725ede7fb91ac"
+      },
+      {
+        "title": "Why Multiable HCM Is the Best AI HRIS in Singapore for Public Companies and Large Enterprises",
+        "url": "https://e27.co/ai-hris-singapore-public-company-multiable-hcm-20261104/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-04T09:16:20+00:00",
+        "fetched_at": "2026-11-04T09:21:08+00:00",
+        "summary": "Enterprise Workforce Administration for Listed Corporations in Singapore Rising Governance Expectations in Public Company Human Resources Listed corporations and large enterprise groups operating on the Singapore Exchange face intense scrutiny regarding workforce governance, financial disclosure accuracy, and regional labor administration. Managing thousands of employees across multiple business units requires far m…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6ffd9afaff00ff475807"
       },
       {
         "title": "M 5.0 - Fiji region",
@@ -1507,6 +1528,27 @@
       "id": "ea6286f725ede7fb91ac"
     },
     {
+      "title": "Why Multiable HCM Is the Best AI HRIS in Singapore for Public Companies and Large Enterprises",
+      "url": "https://e27.co/ai-hris-singapore-public-company-multiable-hcm-20261104/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-04T09:16:20+00:00",
+      "fetched_at": "2026-11-04T09:21:08+00:00",
+      "summary": "Enterprise Workforce Administration for Listed Corporations in Singapore Rising Governance Expectations in Public Company Human Resources Listed corporations and large enterprise groups operating on the Singapore Exchange face intense scrutiny regarding workforce governance, financial disclosure accuracy, and regional labor administration. Managing thousands of employees across multiple business units requires far m…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6ffd9afaff00ff475807"
+    },
+    {
       "title": "M 5.0 - Fiji region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvuv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1751,24 +1793,25 @@
   ],
   "new_findings": [
     {
-      "title": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
+      "title": "Why Multiable HCM Is the Best AI HRIS in Singapore for Public Companies and Large Enterprises",
+      "url": "https://e27.co/ai-hris-singapore-public-company-multiable-hcm-20261104/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-11-04T00:00:00+00:00",
-      "fetched_at": "2026-11-04T09:13:46+00:00",
-      "summary": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
+      "published_at": "2026-11-04T09:16:20+00:00",
+      "fetched_at": "2026-11-04T09:21:08+00:00",
+      "summary": "Enterprise Workforce Administration for Listed Corporations in Singapore Rising Governance Expectations in Public Company Human Resources Listed corporations and large enterprise groups operating on the Singapore Exchange face intense scrutiny regarding workforce governance, financial disclosure accuracy, and regional labor administration. Managing thousands of employees across multiple business units requires far m…",
       "matched_keywords": [
-        "Macro/Policy"
+        "AI/KI",
+        "APAC Trend Radar"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "05f4ef84139c90f0efd1"
+      "id": "6ffd9afaff00ff475807"
     }
   ],
   "source_errors": [],
