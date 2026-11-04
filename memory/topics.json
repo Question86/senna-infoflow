@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-04T01:16:27+00:00",
+  "generated_at": "2026-11-04T01:21:20+00:00",
   "topics": {
     "ai": [
       {
@@ -43,6 +43,27 @@
       }
     ],
     "security": [
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月03日）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-04T10:15:00+09:00",
+        "relevance_score": 16,
+        "url": "https://jvn.jp/vu/JVNVU91151184/"
+      },
+      {
+        "title": "INFINITT Healthcare製INFINITT PACS System Managerにおける複数の任意コード実行の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-04T10:15:30+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU99859918/"
+      },
+      {
+        "title": "Androidアプリ「BaseChat - Audio Dating App」における複数の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-04T10:15:15+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU92281274/"
+      },
       {
         "title": "Android「SMS of Death」脆弱性、SMS受信だけで通話切断・再起動ループの恐れ CVE-2026-58882をGoogleがCriticalで修正|セキュリティニュースのセキュリティ対策Lab",
         "source": "Hatena Bookmark Hotentry IT",
