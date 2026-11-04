@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-04T11:31:51Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Red Hat Enterprise Linux (dpdk, raptor2, dnspython): Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
+  "generated_at": "2026-11-04T11:46:59Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Ivanti Connect Secure: Schwachstelle ermöglicht die Umgehung von Authentifizierung und Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,36 @@
   ],
   "top_dynamics": [
     {
+      "title": "[UPDATE] [hoch] Ivanti Connect Secure: Schwachstelle ermöglicht die Umgehung von Authentifizierung und Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3936",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-04T11:39:54+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 33.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: active, exploitation, code",
+        "security high-signal: active, exploitation, code, ivanti"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Ivanti Connect Secure ausnutzen, um Sicherheitsvorkehrungen zu umgehen und um beliebigen Code auszuführen."
+    },
+    {
       "title": "[NEU] [hoch] Red Hat Enterprise Linux (dpdk, raptor2, dnspython): Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4305",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-04T09:34:01+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -40,7 +65,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4303",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-04T09:29:01+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -65,7 +90,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4302",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-04T11:19:02+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -91,7 +116,7 @@
       "url": "https://azukiazusa.dev/blog/agent-desktop-computer-use-cli/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-03T08:51:58+00:00",
-      "age_days": 1.11,
+      "age_days": 1.12,
       "topics": [
         "ai"
       ],
@@ -117,7 +142,7 @@
       "url": "https://e27.co/eight-systems-one-number-how-dvi-group-fixed-the-back-office-its-pandemic-boom-broke-20261104/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-04T07:57:24+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "security"
@@ -140,11 +165,38 @@
       "summary": "Four years ago, DVI Group’s management team sat down for what should have been a routine meeting. Sales, finance, delivery and customer service each brought a spreadsheet tracking the company’s live contracts. Each spreadsheet carried a different number. “It was shocking,” recalls Tanish Dhillon, General Manager at th…"
     },
     {
+      "title": "[UPDATE] [mittel] vllm: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3828",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-04T11:39:33+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in vllm ausnutzen, um einen Denial of Service Angriff durchzuführen und um Informationen offenzulegen."
+    },
+    {
       "title": "[NEU] [hoch] SolarWinds Dameware: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4311",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-04T10:19:01+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -170,7 +222,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4313",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-04T10:19:01+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -196,7 +248,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4310",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-04T10:14:01+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -222,7 +274,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11367-06bed-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-11-04T08:40:00+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security",
         "macro"
@@ -249,7 +301,7 @@
       "url": "https://e27.co/ai-hris-singapore-public-company-multiable-hcm-20261104/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-04T09:16:20+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "infra"
@@ -271,57 +323,6 @@
         "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
       ],
       "summary": "Enterprise Workforce Administration for Listed Corporations in Singapore Rising Governance Expectations in Public Company Human Resources Listed corporations and large enterprise groups operating on the Singapore Exchange face intense scrutiny regarding workforce governance, financial disclosure accuracy, and regional…"
-    },
-    {
-      "title": "Android「SMS of Death」脆弱性、SMS受信だけで通話切断・再起動ループの恐れ CVE-2026-58882をGoogleがCriticalで修正|セキュリティニュースのセキュリティ対策Lab",
-      "url": "https://rocket-boys.co.jp/security-measures-lab/android-sms-of-death-cve-2026-58882-zero-click-dos/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-03T13:06:50+00:00",
-      "age_days": 0.93,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: critical",
-        "security high-signal: critical",
-        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
-      ],
-      "summary": "Android「SMS of Death」脆弱性、SMS受信だけで通話切断・再起動ループの恐れ CVE-2026-58882をGoogleがCriticalで修正 Androidの電話機能を、細工されたSMSを受信させるだけで停止させる脆弱性「CVE-2026-58882」が公表されました。「SMS of Death」と呼ばれるこの問題は、利用者がメッセージを開く操作をしなくても発..."
-    },
-    {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月03日）",
-      "url": "https://jvn.jp/vu/JVNVU91151184/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-11-04T10:15:00+09:00",
-      "age_days": 0.43,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cisa, jvn, security, advisory",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
     }
   ],
   "read_order": [
@@ -333,8 +334,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "krass": 2,
-      "strong": 10
+      "krass": 3,
+      "strong": 9
     }
   }
 }
