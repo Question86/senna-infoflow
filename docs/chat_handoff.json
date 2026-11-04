@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-04T12:46:06+00:00",
-  "status": "normal",
-  "coverage_confidence": "normal",
+  "generated_at": "2026-11-04T12:51:58+00:00",
+  "status": "warning",
+  "coverage_confidence": "limited",
   "counts": {
     "new_relevant_findings": 6,
-    "today_file_total": 67,
-    "displayed_findings": 67,
+    "today_file_total": 73,
+    "displayed_findings": 73,
     "high": 0,
-    "medium": 38,
+    "medium": 44,
     "observe": 29
   },
-  "source_errors_count": 0,
+  "source_errors_count": 1,
   "top_signals": [
     {
       "title": "Updates | ReliefWeb",
@@ -35,23 +35,23 @@
       "section": "medium"
     },
     {
-      "title": "[NEU] [UNGEPATCHT] [mittel] Rsync: Schwachstelle ermöglicht Denial of Service",
+      "title": "[NEU] [UNGEPATCHT] [mittel] Apache Traffic Server: Schwachstelle ermöglicht Denial of Service",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-11-04T12:44:15+00:00",
+      "published_at": "2026-11-04T12:49:01+00:00",
       "relevance_score": 16,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4324",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Rsync ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4326",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Apache Traffic Server ausnutzen, um einen Denial of Service Angriff durchzuführen.",
       "section": "medium"
     },
     {
-      "title": "[UPDATE] [hoch] Android Patchday November 2026 (Google Android, Automotive OS and XR): Mehrere Schwachstellen",
+      "title": "[NEU] [UNGEPATCHT] [kritisch] Linksys Router E5600: Mehrere Schwachstellen ermöglichen Privilegieneskalation",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-11-04T11:40:48+00:00",
+      "published_at": "2026-11-04T12:49:01+00:00",
       "relevance_score": 16,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4288",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Android ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern, vertrauliche Informationen offenzulegen, Denial-of-Service-Zustände zu verursachen oder andere, nicht näher spezifizierte Auswi…",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4327",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Linksys Router E5600 ausnutzen, um sich erweiterte Rechte zu verschaffen, Daten zu manipulieren oder offenzulegen und einen Denial-of-Service-Zustand auszulösen.",
       "section": "medium"
     },
     {
