@@ -1,28 +1,53 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-04T11:46:59Z",
+  "generated_at": "2026-11-04T12:04:09Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 18,
+      "krass": 19,
       "strong": 18,
-      "watch": 4
+      "watch": 3
     },
     "bands_after_gate_recheck": {
-      "krass": 3,
+      "krass": 4,
       "strong": 33,
-      "watch": 4
+      "watch": 3
     }
   },
   "top_dynamics": [
+    {
+      "title": "[UPDATE] [hoch] Android Patchday November 2026 (Google Android, Automotive OS and XR): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4288",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-04T11:40:48+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 33.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Android ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern, vertrauliche Informationen offenzulegen, Denial-of-Service-Zustände zu verursachen oder andere, nicht näher spezifizierte Auswirkungen zu erreichen."
+    },
     {
       "title": "[UPDATE] [hoch] Ivanti Connect Secure: Schwachstelle ermöglicht die Umgehung von Authentifizierung und Codeausführung",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3936",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-04T11:39:54+00:00",
-      "age_days": 0.0,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -47,7 +72,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4305",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-04T09:34:01+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -72,7 +97,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4303",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-04T09:29:01+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -97,7 +122,7 @@
       "url": "https://jvn.jp/jp/JVN46901199/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-04T16:00:00+09:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -121,7 +146,7 @@
       "url": "https://jvn.jp/jp/JVN12040144/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-04T12:00:15+09:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "ai",
         "security"
@@ -146,7 +171,7 @@
       "url": "https://jvn.jp/jp/JVN44272550/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-04T12:00:00+09:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "security"
       ],
@@ -170,7 +195,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3908",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-04T11:39:54+00:00",
-      "age_days": 0.0,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -194,7 +219,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4314",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-04T10:24:01+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -218,7 +243,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4312",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-04T10:19:01+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "security"
@@ -243,7 +268,7 @@
       "url": "https://jvn.jp/vu/JVNVU99859918/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-04T10:15:30+09:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -267,7 +292,7 @@
       "url": "https://jvn.jp/vu/JVNVU92281274/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-04T10:15:15+09:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -291,7 +316,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4309",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-04T10:09:02+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -315,7 +340,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4308",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-04T10:09:02+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -339,7 +364,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4307",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-04T10:04:02+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -363,7 +388,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4306",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-04T10:04:01+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -387,7 +412,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4304",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-04T09:29:02+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -411,7 +436,7 @@
       "url": "https://www.heise.de/news/Barracuda-Root-Sicherheitsluecke-bedroht-unter-anderem-Email-Security-Gateway-11511074.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-04T09:28:00.000+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "security"
@@ -437,7 +462,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4302",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-04T11:19:02+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -463,7 +488,7 @@
       "url": "https://azukiazusa.dev/blog/agent-desktop-computer-use-cli/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-03T08:51:58+00:00",
-      "age_days": 1.12,
+      "age_days": 1.13,
       "topics": [
         "ai"
       ],
@@ -489,7 +514,7 @@
       "url": "https://e27.co/eight-systems-one-number-how-dvi-group-fixed-the-back-office-its-pandemic-boom-broke-20261104/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-04T07:57:24+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai",
         "security"
@@ -516,7 +541,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3828",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-04T11:39:33+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai",
         "security"
@@ -543,7 +568,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4311",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-04T10:19:01+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -569,7 +594,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4313",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-04T10:19:01+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -595,7 +620,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4310",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-04T10:14:01+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -621,7 +646,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11367-06bed-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-11-04T08:40:00+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security",
         "macro"
@@ -648,7 +673,7 @@
       "url": "https://e27.co/ai-hris-singapore-public-company-multiable-hcm-20261104/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-04T09:16:20+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "infra"
@@ -676,7 +701,7 @@
       "url": "https://rocket-boys.co.jp/security-measures-lab/android-sms-of-death-cve-2026-58882-zero-click-dos/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-03T13:06:50+00:00",
-      "age_days": 0.94,
+      "age_days": 0.96,
       "topics": [
         "security"
       ],
@@ -702,7 +727,7 @@
       "url": "https://jvn.jp/vu/JVNVU91151184/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-04T10:15:00+09:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -727,7 +752,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11359-f87b5-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-11-04T05:54:00+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -753,7 +778,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11358-6cf16-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-11-04T05:52:00+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -779,7 +804,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11355-341da-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-11-04T05:49:00+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -805,7 +830,7 @@
       "url": "https://e27.co/could-ai-agents-break-fractional-reserve-banking-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-04T01:00:35+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "ai"
       ],
@@ -832,7 +857,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 138.41,
+      "age_days": 138.42,
       "topics": [
         "ai"
       ],
@@ -861,7 +886,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-11-04T06:22:41+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai",
         "macro",
@@ -890,7 +915,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11360-ab123-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-11-04T05:55:00+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -914,7 +939,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11366-d92ac-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-11-04T06:18:00+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -938,7 +963,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvwj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-04T08:00:21.040+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -962,7 +987,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvuv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-04T00:47:49.040+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "disaster"
       ],
@@ -987,7 +1012,7 @@
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-11-04T00:00:00+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "macro"
       ],
@@ -1005,31 +1030,7 @@
         "high terms: 10"
       ],
       "summary": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026"
-    },
-    {
-      "title": "Announcing 20260098 (OT,liquidity providing), for 7 days deadline 09:45",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260098.en.html",
-      "source": "ECB Open Market Operations and Communication",
-      "published_at": "2026-11-04T08:15:24+00:00",
-      "age_days": 0.15,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "Announcing 20260098 (OT,liquidity providing), for 7 days deadline 09:45"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Ivanti Connect Secure: Schwachstelle ermöglicht die Umgehung von Authentifizierung und Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Android Patchday November 2026 (Google Android, Automotive OS and XR): Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
 }

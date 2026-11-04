@@ -1,18 +1,28 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-11-04T11:46:59Z_
+_Generated: 2026-11-04T12:04:09Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Ivanti Connect Secure: Schwachstelle ermöglicht die Umgehung von Authentifizierung und Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.
+Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Android Patchday November 2026 (Google Android, Automotive OS and XR): Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.
 
 ## Top Dynamics
+
+### [UPDATE] [hoch] Android Patchday November 2026 (Google Android, Automotive OS and XR): Mehrere Schwachstellen
+
+- Band: `krass` (raw `krass`)
+- Dynamics score: `33.0`
+- Published: `2026-11-04T11:40:48+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: code, security high-signal: code
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4288
 
 ### [UPDATE] [hoch] Ivanti Connect Secure: Schwachstelle ermöglicht die Umgehung von Authentifizierung und Codeausführung
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `33.0`
-- Published: `2026-11-04T11:39:54+00:00` / age_days `0.0`
+- Published: `2026-11-04T11:39:54+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: active, exploitation, code, security high-signal: active, exploitation, code, ivanti
@@ -22,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Ivanti Connect Secure: S
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `33.0`
-- Published: `2026-11-04T09:34:01+00:00` / age_days `0.09`
+- Published: `2026-11-04T09:34:01+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: angriffe, code, security high-signal: angriffe, code
@@ -32,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Ivanti Connect Secure: S
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `31.0`
-- Published: `2026-11-04T09:29:01+00:00` / age_days `0.1`
+- Published: `2026-11-04T09:29:01+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: angriffe, code, security high-signal: angriffe, code
@@ -42,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Ivanti Connect Secure: S
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-04T11:19:02+00:00` / age_days `0.02`
+- Published: `2026-11-04T11:19:02+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -52,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Ivanti Connect Secure: S
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-03T08:51:58+00:00` / age_days `1.12`
+- Published: `2026-11-03T08:51:58+00:00` / age_days `1.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Ivanti Connect Secure: S
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-04T07:57:24+00:00` / age_days `0.16`
+- Published: `2026-11-04T07:57:24+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -72,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Ivanti Connect Secure: S
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-04T11:39:33+00:00` / age_days `0.01`
+- Published: `2026-11-04T11:39:33+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Ivanti Connect Secure: S
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-04T10:19:01+00:00` / age_days `0.06`
+- Published: `2026-11-04T10:19:01+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -92,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Ivanti Connect Secure: S
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-04T10:19:01+00:00` / age_days `0.06`
+- Published: `2026-11-04T10:19:01+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Ivanti Connect Secure: S
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-04T10:14:01+00:00` / age_days `0.06`
+- Published: `2026-11-04T10:14:01+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Ivanti Connect Secure: S
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-04T08:40:00+00:00` / age_days `0.13`
+- Published: `2026-11-04T08:40:00+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, krass gate recheck: needs multi-source, identity, or official high-signal phrase
 - Quelle: https://www.twcert.org.tw/tw/cp-104-11367-06bed-1.html
-
-### Why Multiable HCM Is the Best AI HRIS in Singapore for Public Companies and Large Enterprises
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-11-04T09:16:20+00:00` / age_days `0.1`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: early terms: regional, high terms: rce, 10, exchange, security high-signal: rce, 10, exchange, krass gate recheck: needs multi-source, identity, or official high-signal phrase
-- Quelle: https://e27.co/ai-hris-singapore-public-company-multiable-hcm-20261104/
 
 END OF DOCUMENT
