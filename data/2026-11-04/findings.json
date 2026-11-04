@@ -112,6 +112,30 @@
     "id": "edc9f9a7e5026c9fa42b"
   },
   {
+    "title": "[NEU] [hoch] Red Hat Enterprise Linux (dpdk, raptor2, dnspython): Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4305",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-04T09:34:01+00:00",
+    "fetched_at": "2026-11-04T09:55:22+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um den Speicher zu beschädigen, Sicherheitsmaßnahmen zu umgehen, einen Denial-of-Service-Zustand auszulösen, beliebigen Code auszuführen, Daten zu manipulieren oder offenzulegen oder andere, nicht näher spezifizierte Angriffe durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "cec6bcfd1d9104faefa2"
+  },
+  {
     "title": "AI エージェントがデスクトップアプリを操作する CLI agent-desktop",
     "url": "https://azukiazusa.dev/blog/agent-desktop-computer-use-cli/",
     "source": "Hatena Bookmark Hotentry IT",
@@ -738,6 +762,26 @@
     "id": "05f4ef84139c90f0efd1"
   },
   {
+    "title": "Barracuda: Root-Sicherheitslücke bedroht unter anderem Email Security Gateway",
+    "url": "https://www.heise.de/news/Barracuda-Root-Sicherheitsluecke-bedroht-unter-anderem-Email-Security-Gateway-11511074.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-11-04T09:28:00.000+00:00",
+    "fetched_at": "2026-11-04T09:55:22+00:00",
+    "summary": "Wenn die Voraussetzungen stimmen, können Angreifer etwa Barracuda Email Security Gateway attackieren und sich Root-Rechte verschaffen.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Security (+7.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ea3452dc04b9dc08467f"
+  },
+  {
     "title": "How I use AI for outreach without outsourcing judgement",
     "url": "https://e27.co/how-i-use-ai-for-outreach-without-outsourcing-judgement-20261101/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -818,6 +862,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "6f6cbd5db548786a0d0f"
+  },
+  {
+    "title": "良品計画 クレカ番号の全桁 約109万件が漏えいのおそれ | NHKニュース",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261104de70494",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-11-04T09:17:59+00:00",
+    "fetched_at": "2026-11-04T09:55:22+00:00",
+    "summary": "「無印良品」を展開する良品計画は、不正アクセスを受けて、クレジットカード番号の全桁、およそ109万件が漏えいしたおそれがあると発表しました。 この中には、すでに期限切れとなっているカードも多く含ま…",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4d7814aec55dff301162"
   },
   {
     "title": "Two interviews and a coding test: How a fake job opened Binance to North Korea",

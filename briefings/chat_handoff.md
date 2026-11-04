@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-04T09:33:36+00:00_
+_Generated: 2026-11-04T09:55:52+00:00_
 
 ## Status
 - status: `normal`
-- findings: `37`
+- findings: `40`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-11-04T09:33:36+00:00_
 - url: https://jvn.jp/vu/JVNVU91151184/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 4. AI エージェントがデスクトップアプリを操作する CLI agent-desktop
-- source: Hatena Bookmark Hotentry IT
+### 4. [NEU] [hoch] Red Hat Enterprise Linux (dpdk, raptor2, dnspython): Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-11-03T08:51:58+00:00`
-- url: https://azukiazusa.dev/blog/agent-desktop-computer-use-cli/
-- summary: agent-desktop は Vercel Labs が公開している、AI エージェント向けの Computer Use CLI です。スクリーンショットとピクセル座標ではなく OS のアクセシビリティツリーを読み取り、スナップショットごとに発行される ref を指定してデスクトップアプリを操作します。この記事では agent-desktop の基本的な使い方を確...
+- published: `2026-11-04T09:34:01+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4305
+- summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um den Speicher zu beschädigen, Sicherheitsmaßnahmen zu umgehen, einen Denial-of-Service-Zustand auszulösen, beliebigen Code auszuführen, Daten zu manipulieren oder offenzulegen…
 
 ### 5. max-sixty/worktrunk
 - source: GitHub Trending RSS All Languages Daily
