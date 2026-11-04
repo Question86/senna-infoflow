@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-04T12:51:58+00:00",
+  "generated_at": "2026-11-04T12:57:38+00:00",
   "topics": {
     "ai": [
       {
@@ -114,6 +114,13 @@
     ],
     "security": [
       {
+        "title": "[NEU] [hoch] Microsoft GitHub Enterprise Server: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-04T12:54:02+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4334"
+      },
+      {
         "title": "[NEU] [UNGEPATCHT] [mittel] Apache Traffic Server: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-04T12:49:01+00:00",
@@ -175,16 +182,60 @@
         "published_at": "2026-11-04T16:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN46901199/"
+      }
+    ],
+    "github": [
+      {
+        "title": "[NEU] [hoch] Microsoft GitHub Enterprise Server: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-04T12:54:02+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4334"
       },
       {
-        "title": "[NEU] [mittel] QT: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-04T12:49:02+00:00",
+        "title": "Information asymmetry didn’t die in 2026. It just learned better PR",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-04T02:00:40+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4329"
+        "url": "https://e27.co/information-asymmetry-didnt-die-in-2026-it-just-learned-better-pr-20261101/"
+      },
+      {
+        "title": "max-sixty/worktrunk",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 13,
+        "url": "https://github.com/max-sixty/worktrunk"
+      },
+      {
+        "title": "AI chatbots cave on climate facts under pressure, and SEA’s languages may fare worst",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-04T11:24:43+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/ai-chatbots-cave-on-climate-facts-under-pressure-and-seas-languages-may-fare-worst-20261104/"
+      },
+      {
+        "title": "令和7年度教育関連データのデータ連携の実現に向けた実証調査研究の実施報告書を更新しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-11-04T06:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/policies/education/2025report"
+      },
+      {
+        "title": "BYOK and enterprise custom models in the Copilot usage API",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-11-04T00:32:19+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api"
       }
     ],
     "geopolitics": [
+      {
+        "title": "[NEU] [hoch] Microsoft GitHub Enterprise Server: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-04T12:54:02+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4334"
+      },
       {
         "title": "[NEU] [UNGEPATCHT] [mittel] Apache Traffic Server: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
@@ -214,46 +265,39 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4305"
       },
       {
-        "title": "[NEU] [mittel] QT: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "title": "[NEU] [mittel] Grafana: Schwachstelle ermöglicht Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-04T12:49:02+00:00",
+        "published_at": "2026-11-04T12:54:03+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4329"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4337"
       },
       {
-        "title": "[NEU] [mittel] MongoDB (EF Core Provider, Atlas SQL, C Treiber, Rust Treiber, Database Tools und Node.js Treiber): Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] PJSIP: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-04T12:49:02+00:00",
+        "published_at": "2026-11-04T12:54:02+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4328"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4335"
       },
       {
-        "title": "[NEU] [kritisch] Zyxel Switch: Schwachstelle ermöglicht Codeausführung",
+        "title": "[NEU] [mittel] Kibana: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-04T12:49:02+00:00",
+        "published_at": "2026-11-04T12:54:02+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4330"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4336"
       },
       {
-        "title": "[NEU] [hoch] IBM QRadar SIEM: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] Django: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-04T12:49:02+00:00",
+        "published_at": "2026-11-04T12:54:02+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4331"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4333"
       },
       {
-        "title": "[NEU] [mittel] Elasticsearch: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] Apache OpenOffice: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-04T12:44:15+00:00",
+        "published_at": "2026-11-04T12:54:01+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4325"
-      },
-      {
-        "title": "[NEU] [mittel] Nagios Enterprises Nagios XI: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Benutzerrechten",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-04T12:44:14+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4323"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4332"
       }
     ],
     "general": [
@@ -312,43 +356,6 @@
         "published_at": "2026-11-03T23:37:15+00:00",
         "relevance_score": 5,
         "url": "https://av.watch.impress.co.jp/docs/topic/special/2149395.html"
-      }
-    ],
-    "github": [
-      {
-        "title": "Information asymmetry didn’t die in 2026. It just learned better PR",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-04T02:00:40+00:00",
-        "relevance_score": 14,
-        "url": "https://e27.co/information-asymmetry-didnt-die-in-2026-it-just-learned-better-pr-20261101/"
-      },
-      {
-        "title": "max-sixty/worktrunk",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 13,
-        "url": "https://github.com/max-sixty/worktrunk"
-      },
-      {
-        "title": "AI chatbots cave on climate facts under pressure, and SEA’s languages may fare worst",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-04T11:24:43+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/ai-chatbots-cave-on-climate-facts-under-pressure-and-seas-languages-may-fare-worst-20261104/"
-      },
-      {
-        "title": "令和7年度教育関連データのデータ連携の実現に向けた実証調査研究の実施報告書を更新しました",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-11-04T06:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.digital.go.jp/policies/education/2025report"
-      },
-      {
-        "title": "BYOK and enterprise custom models in the Copilot usage API",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-11-04T00:32:19+00:00",
-        "relevance_score": 6,
-        "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api"
       }
     ]
   }

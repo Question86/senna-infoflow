@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-04T12:51:58+00:00_
+_Generated: 2026-11-04T12:57:38+00:00_
 
 ## Status
-- status: `warning`
-- findings: `73`
+- status: `normal`
+- findings: `79`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-11-04T12:51:58+00:00_
 - url: https://e27.co/could-ai-agents-break-fractional-reserve-banking-20261101/
 - summary: Banks perform a useful trick. They let customers withdraw money from checking and savings accounts at short notice, while using much of that funding to support mortgages and business loans that may not be repaid for years. The system works because customers d…
 
-### 3. [NEU] [UNGEPATCHT] [mittel] Apache Traffic Server: Schwachstelle ermöglicht Denial of Service
+### 3. [NEU] [hoch] Microsoft GitHub Enterprise Server: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-11-04T12:54:02+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4334
+- summary: Ein Angreifer kann mehrere Schwachstellen in Microsoft GitHub Enterprise ausnutzen, um beliebigen Programmcode auszuführen, Daten zu manipulieren und offenzulegen oder einen Denial-of-Service-Zustand auszulösen.
+
+### 4. [NEU] [UNGEPATCHT] [mittel] Apache Traffic Server: Schwachstelle ermöglicht Denial of Service
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-11-04T12:49:01+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4326
 - summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Apache Traffic Server ausnutzen, um einen Denial of Service Angriff durchzuführen.
-
-### 4. [NEU] [UNGEPATCHT] [kritisch] Linksys Router E5600: Mehrere Schwachstellen ermöglichen Privilegieneskalation
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-11-04T12:49:01+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4327
-- summary: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Linksys Router E5600 ausnutzen, um sich erweiterte Rechte zu verschaffen, Daten zu manipulieren oder offenzulegen und einen Denial-of-Service-Zustand auszulösen.
 
 ### 5. max-sixty/worktrunk
 - source: GitHub Trending RSS All Languages Daily
