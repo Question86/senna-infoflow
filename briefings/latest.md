@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-04T11:54:49+00:00_
+_Generiert: 2026-11-04T12:00:03+00:00_
 
 ## Kurzlage
 
-57 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+58 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -226,6 +226,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Android「SMS of Death」脆弱性、SMS受信だけで通話切断・再起動ループの恐れ CVE-2026-58882をGoogleがCriticalで修正 Androidの電話機能を、細工されたSMSを受信させるだけで停止させる脆弱性「CVE-2026-58882」が公表されました。「SMS of Death」と呼ばれるこの問題は、利用者がメッセージを開く操作をしなくても発...
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **RAM関連発言で燃えたサム・アルトマンがXアカウント名を「Ram Altman」に変更、RAMをデータセンターに集約するべきという意見表明の後に** — Score 11, observation — [Quelle](https://gigazine.net/news/20261104-ram-altman/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-04T07:56:21+00:00`, fetched `2026-11-04T11:59:29+00:00`
+  - Treffer: Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: OpenAIのサム・アルトマンCEOがXのアカウント名を「Ram Altman」に変更しました。 Ram Altman（@sama）さん / X https://x.com/sama OpenAIをはじめとするAI企業はAIの開発およびサービス展開のために膨大な数のメモリを購入しており、世界的なメモリ不足を引き起こしています。個人ユーザー向けのRAMの価格も急騰してお...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **關於時間科技｜Herowatch Go Server - Insecure Direct Object Reference** — Score 11, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11366-d92ac-1.html)
   - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
   - Zeit: published `2026-11-04T06:18:00+00:00`, fetched `2026-11-04T06:22:26+00:00`
@@ -306,15 +315,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 令和7年度教育関連データのデータ連携の実現に向けた実証調査研究の実施報告書を更新しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **BYOK and enterprise custom models in the Copilot usage API** — Score 6, observation — [Quelle](https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-11-04T00:32:19+00:00`, fetched `2026-11-04T00:47:02+00:00`
-  - Treffer: Copilot, GitHub
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub (+2.0); Copilot (+2.5); recent (+1.0)
-  - Kurz: The Copilot usage metrics API now shows bring your own key (BYOK) usage across GitHub Copilot, so you can separate it from Copilot-hosted model usage. Reports cover two kinds of… The post BYOK and enterprise custom models in the Copilot usage API appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

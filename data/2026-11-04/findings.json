@@ -892,6 +892,28 @@
     "id": "8cc17104c7d02fa3b23f"
   },
   {
+    "title": "RAM関連発言で燃えたサム・アルトマンがXアカウント名を「Ram Altman」に変更、RAMをデータセンターに集約するべきという意見表明の後に",
+    "url": "https://gigazine.net/news/20261104-ram-altman/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-11-04T07:56:21+00:00",
+    "fetched_at": "2026-11-04T11:59:29+00:00",
+    "summary": "OpenAIのサム・アルトマンCEOがXのアカウント名を「Ram Altman」に変更しました。 Ram Altman（@sama）さん / X https://x.com/sama OpenAIをはじめとするAI企業はAIの開発およびサービス展開のために膨大な数のメモリを購入しており、世界的なメモリ不足を引き起こしています。個人ユーザー向けのRAMの価格も急騰してお...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry",
+      "OpenAI"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "02f8c81e28c7f76be1dd"
+  },
+  {
     "title": "關於時間科技｜Herowatch Go Server - Insecure Direct Object Reference",
     "url": "https://www.twcert.org.tw/tw/cp-132-11366-d92ac-1.html",
     "source": "TWCERT/CC TVN Vulnerability Notes RSS",
