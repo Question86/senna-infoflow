@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-04T11:38:07+00:00",
+  "generated_at": "2026-11-04T11:43:37+00:00",
   "topics": {
     "ai": [
       {
@@ -31,6 +31,13 @@
         "published_at": "2026-11-04T12:00:15+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN12040144/"
+      },
+      {
+        "title": "[UPDATE] [mittel] vllm: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-04T11:39:33+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3828"
       },
       {
         "title": "[NEU] [mittel] IBM AIX und VIOS (Perl): Schwachstelle ermöglicht Denial of Service",
@@ -66,13 +73,6 @@
         "published_at": "2026-11-04T11:24:43+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/ai-chatbots-cave-on-climate-facts-under-pressure-and-seas-languages-may-fare-worst-20261104/"
-      },
-      {
-        "title": "Why Multiable HCM Is the Best AI HRIS in Singapore for Public Companies and Large Enterprises",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-04T09:16:20+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/ai-hris-singapore-public-company-multiable-hcm-20261104/"
       }
     ],
     "economy": [
@@ -113,6 +113,13 @@
       }
     ],
     "security": [
+      {
+        "title": "[UPDATE] [hoch] Ivanti Connect Secure: Schwachstelle ermöglicht die Umgehung von Authentifizierung und Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-04T11:39:54+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3936"
+      },
       {
         "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
         "source": "BSI CERT-Bund Security Advisories",
@@ -156,32 +163,25 @@
         "url": "https://jvn.jp/jp/JVN44272550/"
       },
       {
+        "title": "[UPDATE] [mittel] IBM SPSS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-04T11:39:54+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3908"
+      },
+      {
+        "title": "[UPDATE] [mittel] vllm: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-04T11:39:33+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3828"
+      },
+      {
         "title": "[NEU] [mittel] IBM WebSphere Application Server Liberty: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-04T10:24:01+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4314"
-      },
-      {
-        "title": "[NEU] [mittel] IBM AIX und VIOS (Perl): Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-04T10:19:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4312"
-      },
-      {
-        "title": "[NEU] [hoch] SolarWinds Dameware: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-04T10:19:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4311"
-      },
-      {
-        "title": "[NEU] [hoch] Emerson Ovation: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-04T10:19:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4313"
       }
     ],
     "geopolitics": [
