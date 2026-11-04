@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-04T22:40:49+00:00_
+_Generiert: 2026-11-04T22:46:08+00:00_
 
 ## Kurzlage
 
-101 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+102 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -258,6 +258,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: San Francisco (+2.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: The excitement lasted about as long as it took his roommate to ask one question. Mohammed Khambhati was in his dorm at the Singapore University of Technology and Design (SUTD) when he learnt that Afore Capital, a San Francisco pre-seed firm, was backing his startup. “Dude, I just got funded. I have to go to […] The post Afore funded him, flew him to SF, then watched him scrap the plan in a week. They didn’t flinch a…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **30周年を迎えて | お知らせ | Mac OTAKARA** — Score 10, observation — [Quelle](https://www.macotakara.jp/etc/category-49/entry-52233.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-04T15:36:38+00:00`, fetched `2026-11-04T22:45:38+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: ※本サイトは、アフィリエイト広告および広告による収益を得て運営しています。購入により売上の一部が本サイトに還元されることがあります。 MACお宝鑑定団は、1996年11月05日にインターネット上にサイトを開設してから30周年を迎えました。 私達がMACお宝鑑定団サイトをはじめたのは、1996年にApple Japanが主要都市で...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AI chatbots cave on climate facts under pressure, and SEA’s languages may fare worst** — Score 10, observation — [Quelle](https://e27.co/ai-chatbots-cave-on-climate-facts-under-pressure-and-seas-languages-may-fare-worst-20261104/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-04T11:24:43+00:00`, fetched `2026-11-04T11:26:27+00:00`
@@ -266,15 +275,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region europe: London (+2.0)
   - Kurz: Ask a chatbot whether human activity is warming the planet and you will almost certainly get the right answer. Argue with it for a turn or two and, according to a new study from UNESCO and University College London, there is a fair chance it will start agreeing with you instead. The report, which UNESCO […] The post AI chatbots cave on climate facts under pressure, and SEA’s languages may fare worst appeared first o…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ドコモ社長、5G基地局がKDDIやソフトバンクより少ない理由を説明** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35254374/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-04T10:06:48+00:00`, fetched `2026-11-04T16:43:11+00:00`
-  - Treffer: APAC Trend Radar, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: NTTドコモの前田義晃社長は11月4日の決算説明会で、同社の5G基地局数が他社（KDDIやソフトバンク）より少ない理由について、通信容量を確保できるサブ6（3.7GHz帯、4.5GHz帯）の整備を優先しているためだと説明した。4Gの周波数を5Gに転用するには、基地局を収容する装置の交換工事が必要だという。また、2026年度の設備...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Vulnérabilité dans CPython (30 octobre 2026)** — Score 10, observation — [Quelle](https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1423/)
   - Quelle: CERT-FR Avis de sécurité / `rss`
