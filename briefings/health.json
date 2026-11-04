@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T14:21:11+00:00",
+  "generated_at": "2026-11-04T14:26:30+00:00",
   "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
@@ -18,7 +18,7 @@
       "source_id": "e27_asia_startups_feed",
       "source_name": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)"
+      "error": "403 Client Error: Forbidden for url: https://e27.co/feed/"
     }
   ],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
