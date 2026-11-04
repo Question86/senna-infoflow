@@ -337,6 +337,52 @@
     "id": "eb971ba25f042d801365"
   },
   {
+    "title": "[UPDATE] [niedrig] libexpat: Mehrere Schwachstellen ermöglichen Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0733",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-04T12:39:41+00:00",
+    "fetched_at": "2026-11-04T12:40:22+00:00",
+    "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in libexpat ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "46953ec32597e9d495db"
+  },
+  {
+    "title": "[UPDATE] [mittel] FasterXML Jackson: Schwachstelle ermöglicht Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0555",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-04T12:39:40+00:00",
+    "fetched_at": "2026-11-04T12:40:22+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in FasterXML Jackson ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "15585697c8df7dd11ac1"
+  },
+  {
     "title": "Airbyteにおける任意のコードが実行可能な脆弱性",
     "url": "https://jvn.jp/jp/JVN12040144/",
     "source": "JVN Japan Vulnerability Notes",

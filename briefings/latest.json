@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04T12:35:22+00:00",
-  "run_id": "2026-11-04T12:35:22+00:00",
+  "generated_at": "2026-11-04T12:40:51+00:00",
+  "run_id": "2026-11-04T12:40:51+00:00",
   "date": "2026-11-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 59
+      "configured_public_sources_only": 61
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 59,
-    "displayed_findings": 59,
+    "new_relevant_findings": 2,
+    "today_file_total": 61,
+    "displayed_findings": 61,
     "high": 0,
-    "medium": 30,
+    "medium": 32,
     "observe": 29,
     "source_errors": 0
   },
@@ -365,6 +365,52 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "eb971ba25f042d801365"
+      },
+      {
+        "title": "[UPDATE] [niedrig] libexpat: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0733",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-04T12:39:41+00:00",
+        "fetched_at": "2026-11-04T12:40:22+00:00",
+        "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in libexpat ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "46953ec32597e9d495db"
+      },
+      {
+        "title": "[UPDATE] [mittel] FasterXML Jackson: Schwachstelle ermöglicht Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0555",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-04T12:39:40+00:00",
+        "fetched_at": "2026-11-04T12:40:22+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in FasterXML Jackson ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "15585697c8df7dd11ac1"
       },
       {
         "title": "Airbyteにおける任意のコードが実行可能な脆弱性",
@@ -1804,6 +1850,52 @@
       "id": "eb971ba25f042d801365"
     },
     {
+      "title": "[UPDATE] [niedrig] libexpat: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0733",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-04T12:39:41+00:00",
+      "fetched_at": "2026-11-04T12:40:22+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in libexpat ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "46953ec32597e9d495db"
+    },
+    {
+      "title": "[UPDATE] [mittel] FasterXML Jackson: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0555",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-04T12:39:40+00:00",
+      "fetched_at": "2026-11-04T12:40:22+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in FasterXML Jackson ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "15585697c8df7dd11ac1"
+    },
+    {
       "title": "Airbyteにおける任意のコードが実行可能な脆弱性",
       "url": "https://jvn.jp/jp/JVN12040144/",
       "source": "JVN Japan Vulnerability Notes",
@@ -2899,7 +2991,54 @@
       "id": "6d07835e6d2c1099505b"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "[UPDATE] [niedrig] libexpat: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0733",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-04T12:39:41+00:00",
+      "fetched_at": "2026-11-04T12:40:22+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in libexpat ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "46953ec32597e9d495db"
+    },
+    {
+      "title": "[UPDATE] [mittel] FasterXML Jackson: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0555",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-04T12:39:40+00:00",
+      "fetched_at": "2026-11-04T12:40:22+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in FasterXML Jackson ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "15585697c8df7dd11ac1"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

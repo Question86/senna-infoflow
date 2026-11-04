@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-04T12:35:22+00:00",
+  "generated_at": "2026-11-04T12:40:51+00:00",
   "topics": {
     "ai": [
       {
@@ -156,6 +156,20 @@
         "url": "https://jvn.jp/jp/JVN46901199/"
       },
       {
+        "title": "[UPDATE] [niedrig] libexpat: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-04T12:39:41+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0733"
+      },
+      {
+        "title": "[UPDATE] [mittel] FasterXML Jackson: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-04T12:39:40+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0555"
+      },
+      {
         "title": "Airbyteにおける任意のコードが実行可能な脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-11-04T12:00:15+09:00",
@@ -168,20 +182,6 @@
         "published_at": "2026-11-04T12:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN44272550/"
-      },
-      {
-        "title": "[UPDATE] [mittel] IBM SPSS: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-04T11:39:54+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3908"
-      },
-      {
-        "title": "[UPDATE] [mittel] vllm: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-04T11:39:33+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3828"
       }
     ],
     "geopolitics": [
