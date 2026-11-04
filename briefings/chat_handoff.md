@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-04T02:59:55+00:00_
+_Generated: 2026-11-04T03:13:37+00:00_
 
 ## Status
 - status: `normal`
-- findings: `9`
+- findings: `12`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-11-04T02:59:55+00:00_
 - url: https://azukiazusa.dev/blog/agent-desktop-computer-use-cli/
 - summary: agent-desktop は Vercel Labs が公開している、AI エージェント向けの Computer Use CLI です。スクリーンショットとピクセル座標ではなく OS のアクセシビリティツリーを読み取り、スナップショットごとに発行される ref を指定してデスクトップアプリを操作します。この記事では agent-desktop の基本的な使い方を確...
 
-### 4. INFINITT Healthcare製INFINITT PACS System Managerにおける複数の任意コード実行の脆弱性
+### 4. Airbyteにおける任意のコードが実行可能な脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
-- published: `2026-11-04T10:15:30+09:00`
-- url: https://jvn.jp/vu/JVNVU99859918/
-- summary: CERT/CCから本件に関するアドバイザリが公表されました。
+- published: `2026-11-04T12:00:15+09:00`
+- url: https://jvn.jp/jp/JVN12040144/
+- summary: Airbyteには、不適切なクラスロードにより想定外のコンポーネントを読み込むことができるため、任意のコード実行が可能となる脆弱性が存在します。
 
 ### 5. Android「SMS of Death」脆弱性、SMS受信だけで通話切断・再起動ループの恐れ CVE-2026-58882をGoogleがCriticalで修正|セキュリティニュースのセキュリティ対策Lab
 - source: Hatena Bookmark Hotentry IT
@@ -50,7 +50,14 @@ _Generated: 2026-11-04T02:59:55+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvuv
 - summary: Time 2026-11-04 00:32:59 UTC 2026-11-04 00:32:59 UTC at epicenter Location 19.320°S 177.426°W Depth 549.80 km (341.63 mi)
 
-### 7. BYOK and enterprise custom models in the Copilot usage API
+### 7. How I use AI for outreach without outsourcing judgement
+- source: e27 Asia Startup and Tech Feed
+- score: `8`
+- published: `2026-11-04T03:00:20+00:00`
+- url: https://e27.co/how-i-use-ai-for-outreach-without-outsourcing-judgement-20261101/
+- summary: I use AI regularly for prospecting and outreach. The useful part is not having it write a generic email to a long list of companies. It is helping me find a more relevant starting point: businesses that have put out a public signal which may match an offer I…
+
+### 8. BYOK and enterprise custom models in the Copilot usage API
 - source: GitHub Changelog Atom
 - score: `6`
 - published: `2026-11-04T00:32:19+00:00`

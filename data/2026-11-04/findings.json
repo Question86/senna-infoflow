@@ -94,6 +94,50 @@
     "id": "c6fc478e879fd2562aa0"
   },
   {
+    "title": "Airbyteにおける任意のコードが実行可能な脆弱性",
+    "url": "https://jvn.jp/jp/JVN12040144/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-11-04T12:00:15+09:00",
+    "fetched_at": "2026-11-04T03:13:06+00:00",
+    "summary": "Airbyteには、不適切なクラスロードにより想定外のコンポーネントを読み込むことができるため、任意のコード実行が可能となる脆弱性が存在します。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "68a55746a8c632ec5a41"
+  },
+  {
+    "title": "複数のAkeeba製品におけるクロスサイトリクエストフォージェリの脆弱性",
+    "url": "https://jvn.jp/jp/JVN44272550/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-11-04T12:00:00+09:00",
+    "fetched_at": "2026-11-04T03:13:06+00:00",
+    "summary": "Akeeba Ltd.が提供する複数の製品には、クロスサイトリクエストフォージェリの脆弱性が存在します。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "cf953416d96f91f85630"
+  },
+  {
     "title": "INFINITT Healthcare製INFINITT PACS System Managerにおける複数の任意コード実行の脆弱性",
     "url": "https://jvn.jp/vu/JVNVU99859918/",
     "source": "JVN Japan Vulnerability Notes",
@@ -216,6 +260,27 @@
       "LOW"
     ],
     "id": "2a8b74b02aa7e8716282"
+  },
+  {
+    "title": "How I use AI for outreach without outsourcing judgement",
+    "url": "https://e27.co/how-i-use-ai-for-outreach-without-outsourcing-judgement-20261101/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-11-04T03:00:20+00:00",
+    "fetched_at": "2026-11-04T03:13:06+00:00",
+    "summary": "I use AI regularly for prospecting and outreach. The useful part is not having it write a generic email to a long list of companies. It is helping me find a more relevant starting point: businesses that have put out a public signal which may match an offer I am making. That signal might be […] The post How I use AI for outreach without outsourcing judgement appeared first on e27 .",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4ddfcb0cb5bfb5d5e04c"
   },
   {
     "title": "BYOK and enterprise custom models in the Copilot usage API",
