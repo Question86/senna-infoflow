@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-04T13:04:16+00:00",
+  "generated_at": "2026-11-04T13:14:40+00:00",
   "topics": {
     "ai": [
       {
@@ -24,6 +24,13 @@
         "published_at": "2026-11-03T08:51:58+00:00",
         "relevance_score": 16,
         "url": "https://azukiazusa.dev/blog/agent-desktop-computer-use-cli/"
+      },
+      {
+        "title": "[UPDATE] [hoch] dnsmasq: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-04T13:04:02+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1468"
       },
       {
         "title": "[NEU] [mittel] TYPO3 Extension (Mail): Mehrere Schwachstellen",
@@ -66,13 +73,6 @@
         "published_at": null,
         "relevance_score": 13,
         "url": "https://github.com/max-sixty/worktrunk"
-      },
-      {
-        "title": "Your startup should think about scaling, not surviving",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-04T04:00:18+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/your-startup-should-think-about-scaling-not-surviving-20261101/"
       }
     ],
     "economy": [
@@ -228,6 +228,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4305"
       },
       {
+        "title": "[NEU] [mittel] Laravel: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-04T13:04:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4340"
+      },
+      {
         "title": "[NEU] [mittel] BuildKit: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-04T12:59:02+00:00",
@@ -247,13 +254,6 @@
         "published_at": "2026-11-04T12:54:02+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4335"
-      },
-      {
-        "title": "[NEU] [mittel] Kibana: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-04T12:54:02+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4336"
       }
     ],
     "github": [
