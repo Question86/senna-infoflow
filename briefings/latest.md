@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-04T04:01:04+00:00_
+_Generiert: 2026-11-04T04:15:30+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „Could AI agents break fractional-reserve banking?“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
+14 neue relevante Treffer. Stärkstes Signal: „Could AI agents break fractional-reserve banking?“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -162,6 +162,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: GitHub (+2.0); Copilot (+2.5); recent (+1.0)
   - Kurz: The Copilot usage metrics API now shows bring your own key (BYOK) usage across GitHub Copilot, so you can separate it from Copilot-hosted model usage. Reports cover two kinds of… The post BYOK and enterprise custom models in the Copilot usage API appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Two interviews and a coding test: How a fake job opened Binance to North Korea** — Score 5, observation — [Quelle](https://e27.co/two-interviews-and-a-coding-test-how-a-fake-job-opened-binance-to-north-korea-20261104/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-04T04:01:15+00:00`, fetched `2026-11-04T04:14:55+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0)
+  - Kurz: Before North Korea’s hackers took US$6.4 billion from Binance, they took US$14.3 million from people most of us will never hear about. That second figure, from a new Chainalysis analysis, may matter more. Over the past 18 months, the blockchain analytics firm has linked more than US$14.3 million in losses to DPRK-linked fake job interview […] The post Two interviews and a coding test: How a fake job opened Binance t…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
