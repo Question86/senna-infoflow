@@ -247,6 +247,72 @@
     "id": "8cc17104c7d02fa3b23f"
   },
   {
+    "title": "關於時間科技｜Herowatch Mini - Missing Authentication",
+    "url": "https://www.twcert.org.tw/tw/cp-132-11359-f87b5-1.html",
+    "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+    "source_type": "rss",
+    "published_at": "2026-11-04T05:54:00+00:00",
+    "fetched_at": "2026-11-04T05:55:50+00:00",
+    "summary": "關於時間科技｜Herowatch Mini - Missing Authentication",
+    "matched_keywords": [
+      "Security",
+      "TVN",
+      "TWCERT"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c8062632b93f05f6302e"
+  },
+  {
+    "title": "關於時間科技｜Herowatch Mini - Missing Authentication",
+    "url": "https://www.twcert.org.tw/tw/cp-132-11358-6cf16-1.html",
+    "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+    "source_type": "rss",
+    "published_at": "2026-11-04T05:52:00+00:00",
+    "fetched_at": "2026-11-04T05:55:50+00:00",
+    "summary": "關於時間科技｜Herowatch Mini - Missing Authentication",
+    "matched_keywords": [
+      "Security",
+      "TVN",
+      "TWCERT"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ef86c0c786c5d1d84c61"
+  },
+  {
+    "title": "關於時間科技｜Herowatch Mini - Missing Authentication",
+    "url": "https://www.twcert.org.tw/tw/cp-132-11355-341da-1.html",
+    "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+    "source_type": "rss",
+    "published_at": "2026-11-04T05:49:00+00:00",
+    "fetched_at": "2026-11-04T05:55:50+00:00",
+    "summary": "關於時間科技｜Herowatch Mini - Missing Authentication",
+    "matched_keywords": [
+      "Security",
+      "TVN",
+      "TWCERT"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8072723abd8246873642"
+  },
+  {
     "title": "Afore funded him, flew him to SF, then watched him scrap the plan in a week. They didn’t flinch",
     "url": "https://e27.co/afore-funded-him-flew-him-to-sf-then-watched-him-scrap-the-plan-in-a-week-they-didnt-flinch-20261104/",
     "source": "e27 Asia Startup and Tech Feed",

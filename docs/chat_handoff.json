@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-04T05:51:04+00:00",
+  "generated_at": "2026-11-04T05:56:21+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 18,
-    "displayed_findings": 18,
+    "new_relevant_findings": 3,
+    "today_file_total": 21,
+    "displayed_findings": 21,
     "high": 0,
     "medium": 8,
-    "observe": 10
+    "observe": 13
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -75,23 +75,23 @@
       "section": "observe"
     },
     {
-      "title": "Afore funded him, flew him to SF, then watched him scrap the plan in a week. They didn’t flinch",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "關於時間科技｜Herowatch Mini - Missing Authentication",
+      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "source_type": "rss",
-      "published_at": "2026-11-04T05:22:04+00:00",
+      "published_at": "2026-11-04T05:54:00+00:00",
       "relevance_score": 11,
-      "url": "https://e27.co/afore-funded-him-flew-him-to-sf-then-watched-him-scrap-the-plan-in-a-week-they-didnt-flinch-20261104/",
-      "summary": "The excitement lasted about as long as it took his roommate to ask one question. Mohammed Khambhati was in his dorm at the Singapore University of Technology and Design (SUTD) when he learnt that Afore Capital, a San Francisco pre-seed firm, was backing his s…",
+      "url": "https://www.twcert.org.tw/tw/cp-132-11359-f87b5-1.html",
+      "summary": "關於時間科技｜Herowatch Mini - Missing Authentication",
       "section": "observe"
     },
     {
-      "title": "M 5.0 - Fiji region",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "關於時間科技｜Herowatch Mini - Missing Authentication",
+      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "source_type": "rss",
-      "published_at": "2026-11-04T00:47:49.040+00:00",
-      "relevance_score": 9,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvuv",
-      "summary": "Time 2026-11-04 00:32:59 UTC 2026-11-04 00:32:59 UTC at epicenter Location 19.320°S 177.426°W Depth 549.80 km (341.63 mi)",
+      "published_at": "2026-11-04T05:52:00+00:00",
+      "relevance_score": 11,
+      "url": "https://www.twcert.org.tw/tw/cp-132-11358-6cf16-1.html",
+      "summary": "關於時間科技｜Herowatch Mini - Missing Authentication",
       "section": "observe"
     }
   ],

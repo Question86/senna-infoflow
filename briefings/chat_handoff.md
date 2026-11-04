@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-04T05:51:04+00:00_
+_Generated: 2026-11-04T05:56:21+00:00_
 
 ## Status
 - status: `normal`
-- findings: `18`
+- findings: `21`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-11-04T05:51:04+00:00_
 - url: https://rocket-boys.co.jp/security-measures-lab/android-sms-of-death-cve-2026-58882-zero-click-dos/
 - summary: Android「SMS of Death」脆弱性、SMS受信だけで通話切断・再起動ループの恐れ CVE-2026-58882をGoogleがCriticalで修正 Androidの電話機能を、細工されたSMSを受信させるだけで停止させる脆弱性「CVE-2026-58882」が公表されました。「SMS of Death」と呼ばれるこの問題は、利用者がメッセージを開く操作をしなくても発...
 
-### 7. Afore funded him, flew him to SF, then watched him scrap the plan in a week. They didn’t flinch
-- source: e27 Asia Startup and Tech Feed
+### 7. 關於時間科技｜Herowatch Mini - Missing Authentication
+- source: TWCERT/CC TVN Vulnerability Notes RSS
 - score: `11`
-- published: `2026-11-04T05:22:04+00:00`
-- url: https://e27.co/afore-funded-him-flew-him-to-sf-then-watched-him-scrap-the-plan-in-a-week-they-didnt-flinch-20261104/
-- summary: The excitement lasted about as long as it took his roommate to ask one question. Mohammed Khambhati was in his dorm at the Singapore University of Technology and Design (SUTD) when he learnt that Afore Capital, a San Francisco pre-seed firm, was backing his s…
+- published: `2026-11-04T05:54:00+00:00`
+- url: https://www.twcert.org.tw/tw/cp-132-11359-f87b5-1.html
+- summary: 關於時間科技｜Herowatch Mini - Missing Authentication
 
-### 8. M 5.0 - Fiji region
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-11-04T00:47:49.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvuv
-- summary: Time 2026-11-04 00:32:59 UTC 2026-11-04 00:32:59 UTC at epicenter Location 19.320°S 177.426°W Depth 549.80 km (341.63 mi)
+### 8. 關於時間科技｜Herowatch Mini - Missing Authentication
+- source: TWCERT/CC TVN Vulnerability Notes RSS
+- score: `11`
+- published: `2026-11-04T05:52:00+00:00`
+- url: https://www.twcert.org.tw/tw/cp-132-11358-6cf16-1.html
+- summary: 關於時間科技｜Herowatch Mini - Missing Authentication
 
 END OF DOCUMENT
