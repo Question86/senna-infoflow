@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04T00:47:42+00:00",
-  "run_id": "2026-11-04T00:47:42+00:00",
+  "generated_at": "2026-11-04T00:53:06+00:00",
+  "run_id": "2026-11-04T00:53:06+00:00",
   "date": "2026-11-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 2
+      "configured_public_sources_only": 3
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 2,
-    "displayed_findings": 2,
+    "today_file_total": 3,
+    "displayed_findings": 3,
     "high": 0,
     "medium": 1,
-    "observe": 1,
+    "observe": 2,
     "source_errors": 0
   },
   "sections": {
@@ -55,6 +55,42 @@
       }
     ],
     "observe": [
+      {
+        "title": "M 5.0 - Fiji region",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvuv",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-11-04T00:47:49.040+00:00",
+        "fetched_at": "2026-11-04T00:52:34+00:00",
+        "summary": "Time 2026-11-04 00:32:59 UTC 2026-11-04 00:32:59 UTC at epicenter Location 19.320°S 177.426°W Depth 549.80 km (341.63 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "2a8b74b02aa7e8716282"
+      },
       {
         "title": "BYOK and enterprise custom models in the Copilot usage API",
         "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
@@ -104,6 +140,42 @@
       "id": "c6fc478e879fd2562aa0"
     },
     {
+      "title": "M 5.0 - Fiji region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvuv",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-04T00:47:49.040+00:00",
+      "fetched_at": "2026-11-04T00:52:34+00:00",
+      "summary": "Time 2026-11-04 00:32:59 UTC 2026-11-04 00:32:59 UTC at epicenter Location 19.320°S 177.426°W Depth 549.80 km (341.63 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "2a8b74b02aa7e8716282"
+    },
+    {
       "title": "BYOK and enterprise custom models in the Copilot usage API",
       "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
       "source": "GitHub Changelog Atom",
@@ -127,25 +199,40 @@
   ],
   "new_findings": [
     {
-      "title": "BYOK and enterprise custom models in the Copilot usage API",
-      "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
-      "source": "GitHub Changelog Atom",
+      "title": "M 5.0 - Fiji region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvuv",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-11-04T00:32:19+00:00",
-      "fetched_at": "2026-11-04T00:47:02+00:00",
-      "summary": "The Copilot usage metrics API now shows bring your own key (BYOK) usage across GitHub Copilot, so you can separate it from Copilot-hosted model usage. Reports cover two kinds of… The post BYOK and enterprise custom models in the Copilot usage API appeared first on The GitHub Blog .",
+      "published_at": "2026-11-04T00:47:49.040+00:00",
+      "fetched_at": "2026-11-04T00:52:34+00:00",
+      "summary": "Time 2026-11-04 00:32:59 UTC 2026-11-04 00:32:59 UTC at epicenter Location 19.320°S 177.426°W Depth 549.80 km (341.63 mi)",
       "matched_keywords": [
-        "Copilot",
-        "GitHub"
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6f6cbd5db548786a0d0f"
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "2a8b74b02aa7e8716282"
     }
   ],
   "source_errors": [],
