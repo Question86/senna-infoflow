@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-04T09:00:27+00:00",
+  "generated_at": "2026-11-04T09:14:18+00:00",
   "topics": {
     "ai": [
       {
@@ -265,6 +265,13 @@
         "published_at": "2026-11-04T08:15:24+00:00",
         "relevance_score": 12,
         "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260098.en.html"
+      },
+      {
+        "title": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-11-04T00:00:00+00:00",
+        "relevance_score": 9,
+        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html"
       }
     ]
   }
