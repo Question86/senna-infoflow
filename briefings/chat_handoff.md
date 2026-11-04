@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-04T00:33:01+00:00_
+_Generated: 2026-11-04T00:47:42+00:00_
 
 ## Status
 - status: `normal`
-- findings: `1`
+- findings: `2`
 
 ## Top Signals
 
@@ -14,5 +14,12 @@ _Generated: 2026-11-04T00:33:01+00:00_
 - published: `2026-11-03T08:51:58+00:00`
 - url: https://azukiazusa.dev/blog/agent-desktop-computer-use-cli/
 - summary: agent-desktop は Vercel Labs が公開している、AI エージェント向けの Computer Use CLI です。スクリーンショットとピクセル座標ではなく OS のアクセシビリティツリーを読み取り、スナップショットごとに発行される ref を指定してデスクトップアプリを操作します。この記事では agent-desktop の基本的な使い方を確...
+
+### 2. BYOK and enterprise custom models in the Copilot usage API
+- source: GitHub Changelog Atom
+- score: `6`
+- published: `2026-11-04T00:32:19+00:00`
+- url: https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api
+- summary: The Copilot usage metrics API now shows bring your own key (BYOK) usage across GitHub Copilot, so you can separate it from Copilot-hosted model usage. Reports cover two kinds of… The post BYOK and enterprise custom models in the Copilot usage API appeared fir…
 
 END OF DOCUMENT

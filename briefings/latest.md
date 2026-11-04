@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-04T00:33:01+00:00_
+_Generiert: 2026-11-04T00:47:42+00:00_
 
 ## Kurzlage
 
-1 neue relevante Treffer. Stärkstes Signal: „AI エージェントがデスクトップアプリを操作する CLI agent-desktop“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
+2 neue relevante Treffer. Stärkstes Signal: „AI エージェントがデスクトップアプリを操作する CLI agent-desktop“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -73,7 +73,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
-Keine neuen Beobachtungssignale.
+- **BYOK and enterprise custom models in the Copilot usage API** — Score 6, observation — [Quelle](https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-11-04T00:32:19+00:00`, fetched `2026-11-04T00:47:02+00:00`
+  - Treffer: Copilot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub (+2.0); Copilot (+2.5); recent (+1.0)
+  - Kurz: The Copilot usage metrics API now shows bring your own key (BYOK) usage across GitHub Copilot, so you can separate it from Copilot-hosted model usage. Reports cover two kinds of… The post BYOK and enterprise custom models in the Copilot usage API appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
