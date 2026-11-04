@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-04T22:23:40+00:00",
+  "generated_at": "2026-11-04T22:28:50+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-11-04T21:44:17+00:00",
+        "published_at": "2026-11-04T22:28:40+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -103,6 +103,13 @@
         "published_at": "2026-11-04T04:00:18+00:00",
         "relevance_score": 12,
         "url": "https://e27.co/your-startup-should-think-about-scaling-not-surviving-20261101/"
+      },
+      {
+        "title": "A thousand fewer paths to root",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-11-04T08:00:00+00:00",
+        "relevance_score": 7,
+        "url": "https://openai.com/index/a-thousand-fewer-paths-to-root"
       },
       {
         "title": "BYOK and enterprise custom models in the Copilot usage API",

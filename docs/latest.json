@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-04T22:23:40+00:00",
-  "run_id": "2026-11-04T22:23:40+00:00",
+  "generated_at": "2026-11-04T22:28:50+00:00",
+  "run_id": "2026-11-04T22:28:50+00:00",
   "date": "2026-11-04",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 98
+      "configured_public_sources_only": 99
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 98,
-    "displayed_findings": 98,
+    "new_relevant_findings": 2,
+    "today_file_total": 99,
+    "displayed_findings": 99,
     "high": 0,
     "medium": 55,
-    "observe": 43,
-    "source_errors": 0
+    "observe": 44,
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-04T21:44:17+00:00",
-        "fetched_at": "2026-11-04T21:43:59+00:00",
+        "published_at": "2026-11-04T22:28:40+00:00",
+        "fetched_at": "2026-11-04T22:28:27+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "3242d318c5d088e4c816"
+        "id": "6f51db272c4e7ad74947"
       },
       {
         "title": "Could AI agents break fractional-reserve banking?",
@@ -2111,6 +2111,26 @@
         "id": "10cd78cc1f1539629d3e"
       },
       {
+        "title": "A thousand fewer paths to root",
+        "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-11-04T08:00:00+00:00",
+        "fetched_at": "2026-11-04T22:28:27+00:00",
+        "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+        "matched_keywords": [
+          "OpenAI"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "OpenAI (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0ba37a029c617181d934"
+      },
+      {
         "title": "GitHub Copilot is now available in Xcode’s coding assistant",
         "url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant",
         "source": "GitHub Changelog Atom",
@@ -2408,8 +2428,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-04T21:44:17+00:00",
-      "fetched_at": "2026-11-04T21:43:59+00:00",
+      "published_at": "2026-11-04T22:28:40+00:00",
+      "fetched_at": "2026-11-04T22:28:27+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2443,7 +2463,7 @@
         "HD",
         "LOW"
       ],
-      "id": "3242d318c5d088e4c816"
+      "id": "6f51db272c4e7ad74947"
     },
     {
       "title": "Could AI agents break fractional-reserve banking?",
@@ -4483,6 +4503,26 @@
       "id": "10cd78cc1f1539629d3e"
     },
     {
+      "title": "A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-11-04T08:00:00+00:00",
+      "fetched_at": "2026-11-04T22:28:27+00:00",
+      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+      "matched_keywords": [
+        "OpenAI"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "OpenAI (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0ba37a029c617181d934"
+    },
+    {
       "title": "GitHub Copilot is now available in Xcode’s coding assistant",
       "url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant",
       "source": "GitHub Changelog Atom",
@@ -4775,27 +4815,76 @@
   ],
   "new_findings": [
     {
-      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-      "url": "https://openai.com/index/devrev-enterprise-self-service",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-11-04T22:28:40+00:00",
+      "fetched_at": "2026-11-04T22:28:27+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "6f51db272c4e7ad74947"
+    },
+    {
+      "title": "A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
       "source": "OpenAI News RSS",
       "source_type": "rss",
-      "published_at": "2026-11-04T00:00:00+00:00",
-      "fetched_at": "2026-11-04T22:23:09+00:00",
-      "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+      "published_at": "2026-11-04T08:00:00+00:00",
+      "fetched_at": "2026-11-04T22:28:27+00:00",
+      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
       "matched_keywords": [
         "OpenAI"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+      "relevance_score": 7,
+      "relevance_reason": "OpenAI (+6.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "e8c4a7cb12e3bae19c5f"
+      "id": "0ba37a029c617181d934"
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "e27_asia_startups_feed",
+      "source_name": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "error": "403 Client Error: Forbidden for url: https://e27.co/feed/"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
