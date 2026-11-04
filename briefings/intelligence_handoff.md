@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-11-04T06:47:01Z_
+_Generated: 2026-11-04T07:02:49Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “Airbyteにおける任意のコードが
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-11-04T12:00:15+09:00` / age_days `0.16`
+- Published: `2026-11-04T12:00:15+09:00` / age_days `0.17`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “Airbyteにおける任意のコードが
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-11-04T12:00:00+09:00` / age_days `0.16`
+- Published: `2026-11-04T12:00:00+09:00` / age_days `0.17`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “Airbyteにおける任意のコードが
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-11-04T10:15:30+09:00` / age_days `0.23`
+- Published: `2026-11-04T10:15:30+09:00` / age_days `0.24`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “Airbyteにおける任意のコードが
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-11-04T10:15:15+09:00` / age_days `0.23`
+- Published: `2026-11-04T10:15:15+09:00` / age_days `0.24`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “Airbyteにおける任意のコードが
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-03T08:51:58+00:00` / age_days `0.91`
+- Published: `2026-11-03T08:51:58+00:00` / age_days `0.92`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “Airbyteにおける任意のコードが
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-03T13:06:50+00:00` / age_days `0.74`
+- Published: `2026-11-03T13:06:50+00:00` / age_days `0.75`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: critical, security high-signal: critical, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “Airbyteにおける任意のコードが
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-04T10:15:00+09:00` / age_days `0.23`
+- Published: `2026-11-04T10:15:00+09:00` / age_days `0.24`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cisa, jvn, security, advisory, official security but no high-signal phrase: capped at strong
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “Airbyteにおける任意のコードが
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-04T05:54:00+00:00` / age_days `0.04`
+- Published: `2026-11-04T05:54:00+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: auth, security high-signal: auth, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “Airbyteにおける任意のコードが
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-04T05:52:00+00:00` / age_days `0.04`
+- Published: `2026-11-04T05:52:00+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: auth, security high-signal: auth, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “Airbyteにおける任意のコードが
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-04T05:49:00+00:00` / age_days `0.04`
+- Published: `2026-11-04T05:49:00+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: auth, security high-signal: auth, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “Airbyteにおける任意のコードが
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-04T01:00:35+00:00` / age_days `0.24`
+- Published: `2026-11-04T01:00:35+00:00` / age_days `0.25`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “Airbyteにおける任意のコードが
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `138.2`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `138.21`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 138.2d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
