@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-04T06:02:00+00:00_
+_Generiert: 2026-11-04T06:22:51+00:00_
 
 ## Kurzlage
 
-23 neue relevante Treffer. Stärkstes Signal: „Could AI agents break fractional-reserve banking?“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
+26 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -61,6 +61,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
+  - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
+  - Zeit: published `2026-11-04T06:22:41+00:00`, fetched `2026-11-04T06:22:26+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Could AI agents break fractional-reserve banking?** — Score 19, opportunity — [Quelle](https://e27.co/could-ai-agents-break-fractional-reserve-banking-20261101/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-04T01:00:35+00:00`, fetched `2026-11-04T01:07:45+00:00`
@@ -145,18 +154,18 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Android「SMS of Death」脆弱性、SMS受信だけで通話切断・再起動ループの恐れ CVE-2026-58882をGoogleがCriticalで修正 Androidの電話機能を、細工されたSMSを受信させるだけで停止させる脆弱性「CVE-2026-58882」が公表されました。「SMS of Death」と呼ばれるこの問題は、利用者がメッセージを開く操作をしなくても発...
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **關於時間科技｜Herowatch Mini - Missing Authentication** — Score 11, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11359-f87b5-1.html)
+- **關於時間科技｜Herowatch Go Server - Insecure Direct Object Reference** — Score 11, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11366-d92ac-1.html)
   - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
-  - Zeit: published `2026-11-04T05:54:00+00:00`, fetched `2026-11-04T05:55:50+00:00`
+  - Zeit: published `2026-11-04T06:18:00+00:00`, fetched `2026-11-04T06:22:26+00:00`
   - Treffer: Security, TVN, TWCERT
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)
-  - Kurz: 關於時間科技｜Herowatch Mini - Missing Authentication
+  - Kurz: 關於時間科技｜Herowatch Go Server - Insecure Direct Object Reference
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **關於時間科技｜Herowatch Mini - Missing Authentication** — Score 11, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11358-6cf16-1.html)
+- **關於時間科技｜Herowatch Mini - Missing Authentication** — Score 11, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11359-f87b5-1.html)
   - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
-  - Zeit: published `2026-11-04T05:52:00+00:00`, fetched `2026-11-04T05:55:50+00:00`
+  - Zeit: published `2026-11-04T05:54:00+00:00`, fetched `2026-11-04T05:55:50+00:00`
   - Treffer: Security, TVN, TWCERT
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
@@ -189,6 +198,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: I use AI regularly for prospecting and outreach. The useful part is not having it write a generic email to a long list of companies. It is helping me find a more relevant starting point: businesses that have put out a public signal which may match an offer I am making. That signal might be […] The post How I use AI for outreach without outsourcing judgement appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ガバメントAI 源内に関する「国会答弁作成支援AIアプリ 基本機能編」の解説動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/genai/a53afc92-729a-46ce-9b86-8d9a33053edf)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-11-04T06:12:12+00:00`, fetched `2026-11-04T06:22:26+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: ガバメントAI 源内に関する「国会答弁作成支援AIアプリ 基本機能編」の解説動画を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **令和7年度教育関連データのデータ連携の実現に向けた実証調査研究の実施報告書を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/education/2025report)
   - Quelle: Japan Digital Agency News RSS / `rss`
@@ -229,10 +247,14 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
-- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `e27_asia_startups_feed` (rss): 403 Client Error: Forbidden for url: https://e27.co/feed/

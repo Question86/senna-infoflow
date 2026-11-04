@@ -1,9 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-04T06:02:00+00:00",
+  "generated_at": "2026-11-04T06:22:51+00:00",
   "topics": {
     "ai": [
+      {
+        "title": "Updates | ReliefWeb",
+        "source": "ReliefWeb Mindanao Recovery Watch",
+        "published_at": "2026-11-04T06:22:41+00:00",
+        "relevance_score": 23,
+        "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+      },
       {
         "title": "Could AI agents break fractional-reserve banking?",
         "source": "e27 Asia Startup and Tech Feed",
@@ -47,6 +54,13 @@
         "url": "https://e27.co/how-i-use-ai-for-outreach-without-outsourcing-judgement-20261101/"
       },
       {
+        "title": "ガバメントAI 源内に関する「国会答弁作成支援AIアプリ 基本機能編」の解説動画を掲載しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-11-04T06:12:12+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/policies/genai/a53afc92-729a-46ce-9b86-8d9a33053edf"
+      },
+      {
         "title": "BYOK and enterprise custom models in the Copilot usage API",
         "source": "GitHub Changelog Atom",
         "published_at": "2026-11-04T00:32:19+00:00",
@@ -59,13 +73,6 @@
         "published_at": "2026-11-04T04:01:15+00:00",
         "relevance_score": 5,
         "url": "https://e27.co/two-interviews-and-a-coding-test-how-a-fake-job-opened-binance-to-north-korea-20261104/"
-      },
-      {
-        "title": "新しいRAG「Decision RAG」は速い！安い！上手い！🍜 - Qiita",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-03T13:02:09+00:00",
-        "relevance_score": 5,
-        "url": "https://qiita.com/kikuziro/items/cc82e6e4e4c215eac99f"
       }
     ],
     "economy": [
@@ -149,6 +156,13 @@
         "url": "https://rocket-boys.co.jp/security-measures-lab/android-sms-of-death-cve-2026-58882-zero-click-dos/"
       },
       {
+        "title": "關於時間科技｜Herowatch Go Server - Insecure Direct Object Reference",
+        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+        "published_at": "2026-11-04T06:18:00+00:00",
+        "relevance_score": 11,
+        "url": "https://www.twcert.org.tw/tw/cp-132-11366-d92ac-1.html"
+      },
+      {
         "title": "關於時間科技｜Herowatch Mini - Missing Authentication",
         "source": "TWCERT/CC TVN Vulnerability Notes RSS",
         "published_at": "2026-11-04T05:54:00+00:00",
@@ -161,13 +175,6 @@
         "published_at": "2026-11-04T05:52:00+00:00",
         "relevance_score": 11,
         "url": "https://www.twcert.org.tw/tw/cp-132-11358-6cf16-1.html"
-      },
-      {
-        "title": "關於時間科技｜Herowatch Mini - Missing Authentication",
-        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-        "published_at": "2026-11-04T05:49:00+00:00",
-        "relevance_score": 11,
-        "url": "https://www.twcert.org.tw/tw/cp-132-11355-341da-1.html"
       }
     ],
     "github": [
