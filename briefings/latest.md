@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-04T05:56:21+00:00_
+_Generiert: 2026-11-04T06:02:00+00:00_
 
 ## Kurzlage
 
-21 neue relevante Treffer. Stärkstes Signal: „Could AI agents break fractional-reserve banking?“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
+23 neue relevante Treffer. Stärkstes Signal: „Could AI agents break fractional-reserve banking?“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -118,6 +118,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **關於時間科技｜Herowatch Go - Security Misconfiguration** — Score 12, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11360-ab123-1.html)
+  - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
+  - Zeit: published `2026-11-04T05:55:00+00:00`, fetched `2026-11-04T06:01:30+00:00`
+  - Treffer: Security, TVN, TWCERT
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); TWCERT (+2.0); TVN (+2.0); recent (+1.0)
+  - Kurz: 關於時間科技｜Herowatch Go - Security Misconfiguration
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Your startup should think about scaling, not surviving** — Score 12, observation — [Quelle](https://e27.co/your-startup-should-think-about-scaling-not-surviving-20261101/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-04T04:00:18+00:00`, fetched `2026-11-04T04:00:30+00:00`
@@ -154,15 +163,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)
   - Kurz: 關於時間科技｜Herowatch Mini - Missing Authentication
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **關於時間科技｜Herowatch Mini - Missing Authentication** — Score 11, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11355-341da-1.html)
-  - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
-  - Zeit: published `2026-11-04T05:49:00+00:00`, fetched `2026-11-04T05:55:50+00:00`
-  - Treffer: Security, TVN, TWCERT
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)
-  - Kurz: 關於時間科技｜Herowatch Mini - Missing Authentication
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Afore funded him, flew him to SF, then watched him scrap the plan in a week. They didn’t flinch** — Score 11, observation — [Quelle](https://e27.co/afore-funded-him-flew-him-to-sf-then-watched-him-scrap-the-plan-in-a-week-they-didnt-flinch-20261104/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-04T05:22:04+00:00`, fetched `2026-11-04T05:50:32+00:00`
@@ -189,6 +189,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: I use AI regularly for prospecting and outreach. The useful part is not having it write a generic email to a long list of companies. It is helping me find a more relevant starting point: businesses that have put out a public signal which may match an offer I am making. That signal might be […] The post How I use AI for outreach without outsourcing judgement appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **令和7年度教育関連データのデータ連携の実現に向けた実証調査研究の実施報告書を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/education/2025report)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-11-04T06:00:00+00:00`, fetched `2026-11-04T06:01:30+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 令和7年度教育関連データのデータ連携の実現に向けた実証調査研究の実施報告書を更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **BYOK and enterprise custom models in the Copilot usage API** — Score 6, observation — [Quelle](https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api)
   - Quelle: GitHub Changelog Atom / `rss`
