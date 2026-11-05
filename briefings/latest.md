@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-05T00:48:08+00:00_
+_Generiert: 2026-11-05T00:54:10+00:00_
 
 ## Kurzlage
 
-4 neue relevante Treffer. Stärkstes Signal: „Siemens製品に対するアップデート（2026年11月）“ aus JVN Japan Vulnerability Notes (Score 14, risk).
+5 neue relevante Treffer. Stärkstes Signal: „Siemens製品に対するアップデート（2026年11月）“ aus JVN Japan Vulnerability Notes (Score 14, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -87,6 +87,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: １．万能の願望器「聖杯」に願いをかけること 「聖杯」と言って連想される作品はさまざまだろう。年配の人なら『インディージョーンズ』を思い出そうが、私はアニメ／ゲーム『Fate』シリーズに登場する「聖杯」、特に『Fate/Zero』に登場する「聖杯」が真っ先に思い出される。 『Fate』シリーズでは、「聖杯戦争」と呼ば...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **日本の全法令が「Git」の履歴に ～改正で何が変わったのかが一目瞭然／「Git」の意外な弱点も？【やじうまの杜】** — Score 5, observation — [Quelle](https://forest.watch.impress.co.jp/docs/serial/yajiuma/2153621.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-04T23:02:29+00:00`, fetched `2026-11-05T00:53:40+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 日本の全法令が「Git」の履歴に ～改正で何が変わったのかが一目瞭然／「Git」の意外な弱点も？【やじうまの杜】
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-05T00:48:08+00:00",
+  "generated_at": "2026-11-05T00:54:10+00:00",
   "topics": {
     "security": [
       {
@@ -33,6 +33,15 @@
         "published_at": "2026-11-04T23:22:25+00:00",
         "relevance_score": 5,
         "url": "https://blog.tinect.jp/?p=91573"
+      }
+    ],
+    "general": [
+      {
+        "title": "日本の全法令が「Git」の履歴に ～改正で何が変わったのかが一目瞭然／「Git」の意外な弱点も？【やじうまの杜】",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-04T23:02:29+00:00",
+        "relevance_score": 5,
+        "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2153621.html"
       }
     ]
   }
