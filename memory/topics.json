@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-05T23:11:52+00:00",
+  "generated_at": "2026-11-05T23:28:27+00:00",
   "topics": {
     "ai": [
       {
@@ -40,6 +40,13 @@
         "url": "https://openai.com/index/introducing-gpt-6-cyber"
       },
       {
+        "title": "Merge builds product and business tools with OpenAI technology",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-11-05T08:00:00+00:00",
+        "relevance_score": 16,
+        "url": "https://openai.com/index/merge-builds-with-openai"
+      },
+      {
         "title": "Setting a new standard for responsible AI infrastructure",
         "source": "OpenAI News RSS",
         "published_at": "2026-11-05T02:00:00+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-11-05T09:14:57+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4317"
-      },
-      {
-        "title": "Chopin",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-10T10:10:12+00:00",
-        "relevance_score": 13,
-        "url": "https://githubnext.com/projects/chopin/"
       }
     ],
     "security": [
@@ -154,6 +154,13 @@
         "published_at": "2026-11-05T09:28:53+00:00",
         "relevance_score": 19,
         "url": "https://e27.co/the-frontier-ai-money-is-getting-picky-southeast-asias-ai-founders-should-price-that-in-now-20261105/"
+      },
+      {
+        "title": "Merge builds product and business tools with OpenAI technology",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-11-05T08:00:00+00:00",
+        "relevance_score": 16,
+        "url": "https://openai.com/index/merge-builds-with-openai"
       },
       {
         "title": "Can Bitcoin hold US$80,000 after a US$386M short squeeze and US$1.16B in ETF outflows?",
@@ -258,6 +265,13 @@
         "url": "https://e27.co/the-step-zero-problem-of-the-startup-ecosystem-20261101/"
       },
       {
+        "title": "M 4.6 - 147 km SSE of False Pass, Alaska",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-11-05T23:26:58.996+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twd4"
+      },
+      {
         "title": "M 5.0 - 130 km NE of Thang, India",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-11-05T17:13:46.040+00:00",
@@ -312,13 +326,6 @@
         "published_at": "2026-11-05T06:00:00+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/councils/smartphone-mynumbercard/963f6b16-1056-4bcf-b22f-dbc11ceaf322"
-      },
-      {
-        "title": "冷凍庫や冷蔵庫をハックして温度を上げて食料などをダメにするようなサイバー攻撃が世界中で行われているが、何かの予行演習だったりするのか？",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-05T13:37:21+00:00",
-        "relevance_score": 5,
-        "url": "https://togetter.com/li/2766988"
       }
     ],
     "github": [
