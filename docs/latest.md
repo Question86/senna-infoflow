@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-05T07:29:48+00:00_
+_Generiert: 2026-11-05T07:37:03+00:00_
 
 ## Kurzlage
 
-19 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+20 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -105,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-11-05 04:56:01 UTC 2026-11-05 04:56:01 UTC at epicenter Location 40.425°N 125.627°W Depth 2.14 km (1.33 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Piero Cipollone: Shaping the future of money** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105~6495a0df6f.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-11-05T07:30:00+00:00`, fetched `2026-11-05T07:36:34+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Piero Cipollone: Shaping the future of money
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **US$16.5B and counting: Inside the lopsided year that rewrote SEA’s funding charts** — Score 8, observation — [Quelle](https://e27.co/us16-5b-and-counting-inside-the-lopsided-year-that-rewrote-seas-funding-charts-20261105/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-05T04:35:58+00:00`, fetched `2026-11-05T04:37:59+00:00`
