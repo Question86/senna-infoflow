@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T06:22:10+00:00",
-  "run_id": "2026-11-05T06:22:10+00:00",
+  "generated_at": "2026-11-05T06:34:47+00:00",
+  "run_id": "2026-11-05T06:34:47+00:00",
   "date": "2026-11-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 19,
     "displayed_findings": 19,
     "high": 0,
@@ -959,51 +959,7 @@
       "id": "3a044c4dd91b52915c2a"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Equal spend: why AI budgets need a security twin",
-      "url": "https://e27.co/equal-spend-why-ai-budgets-need-a-security-twin-20261105/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-05T06:05:36+00:00",
-      "fetched_at": "2026-11-05T06:21:37+00:00",
-      "summary": "The last few weeks have had a pattern. Every week, another company announces an AI agent, an AI assistant or an AI workflow. Every week, another headline tells us something has been breached, leaked or drained. Those two streams of news are connected. On 30 October, Binance suffered the biggest theft in crypto history, with […] The post Equal spend: why AI budgets need a security twin appeared first on e27 .",
-      "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "APAC Trend Radar",
-        "Security"
-      ],
-      "relevance_score": 20,
-      "relevance_reason": "AI/KI (+3.8); AI Agents (+5.0); Security (+7.5); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ed7bfc3dae191d31401c"
-    },
-    {
-      "title": "マイナンバーカードの機能のスマートフォン搭載に関する検討会（第8回）の会議資料等を掲載しました",
-      "url": "https://www.digital.go.jp/councils/smartphone-mynumbercard/963f6b16-1056-4bcf-b22f-dbc11ceaf322",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-11-05T06:00:00+00:00",
-      "fetched_at": "2026-11-05T06:21:37+00:00",
-      "summary": "マイナンバーカードの機能のスマートフォン搭載に関する検討会（第8回）の会議資料等を掲載しました",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5733516cd58e4cb69454"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
