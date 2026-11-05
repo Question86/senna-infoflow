@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T23:00:21+00:00",
-  "run_id": "2026-11-05T23:00:21+00:00",
+  "generated_at": "2026-11-05T23:11:52+00:00",
+  "run_id": "2026-11-05T23:11:52+00:00",
   "date": "2026-11-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 101,
     "displayed_findings": 101,
     "high": 0,
@@ -4861,29 +4861,7 @@
       "id": "5072f264cfccc9d93ee4"
     }
   ],
-  "new_findings": [
-    {
-      "title": "アメリカ各地でAIデータセンター建設に反対する住民投票が相次ぎ可決、47件中46件で規制強化を支持",
-      "url": "https://gigazine.net/news/20261105-us-data-center-vote-reject/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-05T10:14:14+00:00",
-      "fetched_at": "2026-11-05T22:59:47+00:00",
-      "summary": "アメリカで2026年11月3日に実施された中間選挙に合わせて、各地でAI向けデータセンターの建設を禁止・制限する住民投票が行われました。多くの地域でデータセンターの建設に反対する結果となり、11月4日時点では2026年に実施された関連住民投票47件のうち46件で規制強化を支持する結果が出ています。 US voters roundly ...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "22470ab418bb9c40d67e"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
