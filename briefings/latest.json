@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T20:13:21+00:00",
-  "run_id": "2026-11-05T20:13:21+00:00",
+  "generated_at": "2026-11-05T20:25:17+00:00",
+  "run_id": "2026-11-05T20:25:17+00:00",
   "date": "2026-11-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 92
+      "configured_public_sources_only": 93
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 92,
-    "displayed_findings": 92,
+    "today_file_total": 93,
+    "displayed_findings": 93,
     "high": 0,
     "medium": 47,
-    "observe": 45,
+    "observe": 46,
     "source_errors": 0
   },
   "sections": {
@@ -2112,6 +2112,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "aab915513e0f8a572dec"
+      },
+      {
+        "title": "Inside GitHub’s new Git storage architecture",
+        "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+        "source": "GitHub Blog Atom",
+        "source_type": "rss",
+        "published_at": "2026-11-05T20:23:21+00:00",
+        "fetched_at": "2026-11-05T20:24:46+00:00",
+        "summary": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "GitHub (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "328edb765bc615e3f67e"
       },
       {
         "title": "Accessibility statements now have a home on GitHub",
@@ -4321,6 +4341,26 @@
       "id": "aab915513e0f8a572dec"
     },
     {
+      "title": "Inside GitHub’s new Git storage architecture",
+      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+      "source": "GitHub Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-11-05T20:23:21+00:00",
+      "fetched_at": "2026-11-05T20:24:46+00:00",
+      "summary": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "GitHub (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "328edb765bc615e3f67e"
+    },
+    {
       "title": "Accessibility statements now have a home on GitHub",
       "url": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
       "source": "GitHub Blog Atom",
@@ -4445,25 +4485,24 @@
   ],
   "new_findings": [
     {
-      "title": "最近の HTML の新機能の紹介（2026 年版）",
-      "url": "https://zenn.dev/socialplus/articles/50221eafb8a55a",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Inside GitHub’s new Git storage architecture",
+      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+      "source": "GitHub Blog Atom",
       "source_type": "rss",
-      "published_at": "2026-11-03T13:16:09+00:00",
-      "fetched_at": "2026-11-05T20:12:51+00:00",
-      "summary": "こんにちは、steshima です。 今回は、最近の HTML の新機能の中から、知っておくと役立ちそうなものや面白いものをいくつか紹介します。 関係のある機能は続けて並べているので、上から順に読むとつながりが分かりやすいと思います。 Popover API popover 属性を付けた要素を、ポップオーバーとして表示できる機能です...",
+      "published_at": "2026-11-05T20:23:21+00:00",
+      "fetched_at": "2026-11-05T20:24:46+00:00",
+      "summary": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "GitHub"
       ],
       "relevance_score": 4,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+      "relevance_reason": "GitHub (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "5ded09af04efd97e4d2f"
+      "id": "328edb765bc615e3f67e"
     }
   ],
   "source_errors": [],
