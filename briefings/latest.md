@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-05T12:19:44+00:00_
+_Generiert: 2026-11-05T12:30:35+00:00_
 
 ## Kurzlage
 
-71 neue relevante Treffer. Stärkstes Signal: „A rare strike in Taiwan exposes labor unrest beneath the global AI rush“ aus Rest of World Global Tech Feed (Score 23, observation).
+72 neue relevante Treffer. Stärkstes Signal: „A rare strike in Taiwan exposes labor unrest beneath the global AI rush“ aus Rest of World Global Tech Feed (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
