@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-05T11:49:48+00:00_
+_Generiert: 2026-11-05T11:55:11+00:00_
 
 ## Kurzlage
 
-60 neue relevante Treffer. Stärkstes Signal: „A rare strike in Taiwan exposes labor unrest beneath the global AI rush“ aus Rest of World Global Tech Feed (Score 23, observation).
+63 neue relevante Treffer. Stärkstes Signal: „A rare strike in Taiwan exposes labor unrest beneath the global AI rush“ aus Rest of World Global Tech Feed (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -213,6 +213,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); funding (+2.5); recent (+1.0)
   - Kurz: Southeast Asia’s tech startups have raised more funding in the first ten months of 2026 than almost anyone in the ecosystem would have forecast in January. Add up the monthly figures in Tracxn’s latest snapshot and the region has drawn about US$16.55 billion between January and October. October alone delivered US$3.68 billion across 14 rounds, […] The post US$16.5B and counting: Inside the lopsided year that rewrote…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **OpenSSH und Alpine Linux warnt vor nischigem, aber gravierendem Bug** — Score 7, observation — [Quelle](https://www.heise.de/news/OpenSSH-und-Alpine-Linux-warnt-vor-nischigem-aber-gravierendem-Bug-11513105.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-11-05T11:46:00.000+00:00`, fetched `2026-11-05T11:54:42+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: OpenSSH 10.6p2 umgeht einen Bug, der zwar schwerwiegend ist, aber eher wenige Setups betrifft – und wohl auch nicht in OpenSSH selbst liegt.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Jetzt patchen! Attacken auf Zyxel-Switches beobachtet** — Score 7, observation — [Quelle](https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Zyxel-Switches-beobachtet-11512953.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-11-05T08:37:00.000+00:00`, fetched `2026-11-05T08:48:09+00:00`
@@ -248,15 +257,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: HOME > ニュース > データ転送量が約4倍となる新規格「Bluetooth HDT」正式承認。ロスレスオーディオの標準化へ Bluetooth SIGは、米国時間2026年11月4日、Bluetooth技術の性能を飛躍的に引き上げるという新規格「Bluetooth 高データスループット（High Data Throughput、以下 Bluetooth HDT）」を正式承認したと発表し...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **floci-io/floci** — Score 5, observation — [Quelle](https://github.com/floci-io/floci)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-11-05T08:30:41+00:00`
-  - Treffer: APAC Trend Radar, GitHub Trending
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: Light, fluffy, and always free - The AWS Local Emulator alternative https://floci.io/floci/ Any Cloud. Locally. Light, fluffy, and always free No account. No auth token. No feature gates. Just docker compose up . Quick Start · Features · Services · SDKs · Testcontainers · Migration · Docs What is Floci? Floci is a free, open-source local AWS emulator for development, testing, and CI. It gives you AWS-shaped services…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
