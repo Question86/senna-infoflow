@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T23:39:43+00:00",
-  "run_id": "2026-11-05T23:39:43+00:00",
+  "generated_at": "2026-11-05T23:45:00+00:00",
+  "run_id": "2026-11-05T23:45:00+00:00",
   "date": "2026-11-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 105
+      "configured_public_sources_only": 106
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 105,
-    "displayed_findings": 105,
+    "today_file_total": 106,
+    "displayed_findings": 106,
     "high": 0,
     "medium": 49,
-    "observe": 56,
+    "observe": 57,
     "source_errors": 0
   },
   "sections": {
@@ -2046,6 +2046,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "5733516cd58e4cb69454"
+      },
+      {
+        "title": "第40回：解約するだけじゃダメ！？ マイナンバーカード付きスマホの持ち主が亡くなった時の、正しい処分法【天国へのプロトコル】",
+        "url": "https://internet.watch.impress.co.jp/docs/column/tengoku/2152866.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-05T23:00:29+00:00",
+        "fetched_at": "2026-11-05T23:44:30+00:00",
+        "summary": "第40回：解約するだけじゃダメ！？ マイナンバーカード付きスマホの持ち主が亡くなった時の、正しい処分法【天国へのプロトコル】",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a5481ff134541a9b9b83"
       },
       {
         "title": "冷凍庫や冷蔵庫をハックして温度を上げて食料などをダメにするようなサイバー攻撃が世界中で行われているが、何かの予行演習だったりするのか？",
@@ -4587,6 +4608,27 @@
       "id": "5733516cd58e4cb69454"
     },
     {
+      "title": "第40回：解約するだけじゃダメ！？ マイナンバーカード付きスマホの持ち主が亡くなった時の、正しい処分法【天国へのプロトコル】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/tengoku/2152866.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-05T23:00:29+00:00",
+      "fetched_at": "2026-11-05T23:44:30+00:00",
+      "summary": "第40回：解約するだけじゃダメ！？ マイナンバーカード付きスマホの持ち主が亡くなった時の、正しい処分法【天国へのプロトコル】",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a5481ff134541a9b9b83"
+    },
+    {
       "title": "冷凍庫や冷蔵庫をハックして温度を上げて食料などをダメにするようなサイバー攻撃が世界中で行われているが、何かの予行演習だったりするのか？",
       "url": "https://togetter.com/li/2766988",
       "source": "Hatena Bookmark Hotentry IT",
@@ -5109,24 +5151,25 @@
   ],
   "new_findings": [
     {
-      "title": "デジタルサービスの利用者体験を示す「国民向け行政サービスロードマップ」の最新版を公表しました（PDF形式）",
-      "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/5ecac8cc-50f1-4168-b989-2bcaabffe870/fe8bbfde/20261106_policies_priority_outline_01.pdf",
-      "source": "Japan Digital Agency News RSS",
+      "title": "第40回：解約するだけじゃダメ！？ マイナンバーカード付きスマホの持ち主が亡くなった時の、正しい処分法【天国へのプロトコル】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/tengoku/2152866.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-11-05T23:38:40+00:00",
-      "fetched_at": "2026-11-05T23:39:14+00:00",
-      "summary": "デジタルサービスの利用者体験を示す「国民向け行政サービスロードマップ」の最新版を公表しました（PDF形式）",
+      "published_at": "2026-11-05T23:00:29+00:00",
+      "fetched_at": "2026-11-05T23:44:30+00:00",
+      "summary": "第40回：解約するだけじゃダメ！？ マイナンバーカード付きスマホの持ち主が亡くなった時の、正しい処分法【天国へのプロトコル】",
       "matched_keywords": [
-        "APAC Trend Radar"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "4418af07b57230f0b65d"
+      "id": "a5481ff134541a9b9b83"
     }
   ],
   "source_errors": [],
