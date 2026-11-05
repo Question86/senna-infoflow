@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-05T04:02:52Z",
+  "generated_at": "2026-11-05T04:19:17Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Siemens製品に対するアップデート（2026年11月）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU98354779/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-05T09:00:00+09:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 139.09,
+      "age_days": 139.1,
       "topics": [
         "ai"
       ],
@@ -68,7 +68,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-11-05T03:15:21+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "macro",
@@ -93,11 +93,36 @@
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan"
     },
     {
+      "title": "The step zero problem of the startup ecosystem",
+      "url": "https://e27.co/the-step-zero-problem-of-the-startup-ecosystem-20261101/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-05T04:00:42+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: regional",
+        "high terms: 10"
+      ],
+      "summary": "Over the last decade, Southeast Asia has built an increasingly sophisticated infrastructure for startups, and countries such as Singapore and Vietnam are known for their reputation as regional startup hubs. Southeast Asia’s tech startup ecosystem was valued at US$454 billion in the first half of 2024, more than triple…"
+    },
+    {
       "title": "メーカー自身がバックドアを仕込み、犯罪集団に“販売” 乗っ取られたTV用端末130万台超、Googleが遮断 日本の警察庁も参加",
       "url": "https://www.itmedia.co.jp/pcuser/articles/2611/05/news045.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-04T22:58:52+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [],
       "dynamics_score": 13.0,
       "raw_band": "watch",
@@ -120,7 +145,7 @@
       "url": "https://e27.co/the-great-unsubscribe-why-shoppers-are-tuning-out-brand-messaging-and-how-retailers-can-stop-it-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T02:00:15+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "infra"
@@ -148,7 +173,7 @@
       "url": "https://qiita.com/Syoitu/items/9364a0a175893bb15219",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-04T12:39:35+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "ai"
       ],
@@ -174,7 +199,7 @@
       "url": "https://openai.com/index/introducing-images-2-6",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-04T00:00:00+00:00",
-      "age_days": 1.17,
+      "age_days": 1.18,
       "topics": [
         "ai"
       ],
@@ -200,7 +225,7 @@
       "url": "https://e27.co/ai-might-be-the-final-boss-for-your-best-ideas-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T01:00:27+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -226,7 +251,7 @@
       "url": "https://av.watch.impress.co.jp/docs/review/review/2152900.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-05T00:06:50+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -250,7 +275,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2153621.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-04T23:02:29+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -274,7 +299,7 @@
       "url": "https://e27.co/why-global-expansion-demands-a-different-mindset-today-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T03:00:58+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "macro"
@@ -296,31 +321,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "International expansion has always been regarded as the defining milestone for business success. The playbook was seemingly straightforward – identify promising markets, establish local presence and scale the international business as quickly as possible. The more borders a business crossed, the more successful it was…"
-    },
-    {
-      "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
-      "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 138.05,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1",
-        "aging penalty -16.0 for 138.1d old signal"
-      ],
-      "summary": ""
     }
   ],
   "read_order": [
@@ -332,9 +332,9 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 3,
+      "strong": 4,
       "watch": 1,
-      "quiet": 8
+      "quiet": 7
     }
   }
 }
