@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T23:45:00+00:00",
-  "run_id": "2026-11-05T23:45:00+00:00",
+  "generated_at": "2026-11-05T23:51:04+00:00",
+  "run_id": "2026-11-05T23:51:04+00:00",
   "date": "2026-11-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 106
+      "configured_public_sources_only": 107
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 106,
-    "displayed_findings": 106,
+    "today_file_total": 107,
+    "displayed_findings": 107,
     "high": 0,
     "medium": 49,
-    "observe": 57,
+    "observe": 58,
     "source_errors": 0
   },
   "sections": {
@@ -1986,6 +1986,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "38bd431d96ec0e586f5b"
+      },
+      {
+        "title": "Flipsnack grows product signups with conversion optimization",
+        "url": "https://openai.com/ads/customers/flipsnack",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-11-05T00:45:15+00:00",
+        "fetched_at": "2026-11-05T23:50:33+00:00",
+        "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+        "matched_keywords": [
+          "OpenAI"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "OpenAI (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d318e7707def31266654"
       },
       {
         "title": "デジタルサービスの利用者体験を示す「国民向け行政サービスロードマップ」の最新版を公表しました（PDF形式）",
@@ -4548,6 +4568,26 @@
       "id": "38bd431d96ec0e586f5b"
     },
     {
+      "title": "Flipsnack grows product signups with conversion optimization",
+      "url": "https://openai.com/ads/customers/flipsnack",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-11-05T00:45:15+00:00",
+      "fetched_at": "2026-11-05T23:50:33+00:00",
+      "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+      "matched_keywords": [
+        "OpenAI"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "OpenAI (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d318e7707def31266654"
+    },
+    {
       "title": "デジタルサービスの利用者体験を示す「国民向け行政サービスロードマップ」の最新版を公表しました（PDF形式）",
       "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/5ecac8cc-50f1-4168-b989-2bcaabffe870/fe8bbfde/20261106_policies_priority_outline_01.pdf",
       "source": "Japan Digital Agency News RSS",
@@ -5151,25 +5191,24 @@
   ],
   "new_findings": [
     {
-      "title": "第40回：解約するだけじゃダメ！？ マイナンバーカード付きスマホの持ち主が亡くなった時の、正しい処分法【天国へのプロトコル】",
-      "url": "https://internet.watch.impress.co.jp/docs/column/tengoku/2152866.html",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Flipsnack grows product signups with conversion optimization",
+      "url": "https://openai.com/ads/customers/flipsnack",
+      "source": "OpenAI News RSS",
       "source_type": "rss",
-      "published_at": "2026-11-05T23:00:29+00:00",
-      "fetched_at": "2026-11-05T23:44:30+00:00",
-      "summary": "第40回：解約するだけじゃダメ！？ マイナンバーカード付きスマホの持ち主が亡くなった時の、正しい処分法【天国へのプロトコル】",
+      "published_at": "2026-11-05T00:45:15+00:00",
+      "fetched_at": "2026-11-05T23:50:33+00:00",
+      "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "OpenAI"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 7,
+      "relevance_reason": "OpenAI (+6.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a5481ff134541a9b9b83"
+      "id": "d318e7707def31266654"
     }
   ],
   "source_errors": [],
