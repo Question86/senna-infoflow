@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-05T03:58:30+00:00",
+  "generated_at": "2026-11-05T04:08:55+00:00",
   "topics": {
     "ai": [
       {
@@ -54,16 +54,14 @@
         "url": "https://e27.co/why-global-expansion-demands-a-different-mindset-today-20261101/"
       }
     ],
-    "security": [
-      {
-        "title": "Siemens製品に対するアップデート（2026年11月）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-05T09:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU98354779/"
-      }
-    ],
     "general": [
+      {
+        "title": "The step zero problem of the startup ecosystem",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-05T04:00:42+00:00",
+        "relevance_score": 16,
+        "url": "https://e27.co/the-step-zero-problem-of-the-startup-ecosystem-20261101/"
+      },
       {
         "title": "【レビュー】 使わなくなったAndroidスマホが音楽プレーヤーに、無料アプリ「reTONE」使ってみた",
         "source": "Hatena Bookmark Hotentry IT",
@@ -84,6 +82,15 @@
         "published_at": "2026-11-04T22:58:52+00:00",
         "relevance_score": 5,
         "url": "https://www.itmedia.co.jp/pcuser/articles/2611/05/news045.html"
+      }
+    ],
+    "security": [
+      {
+        "title": "Siemens製品に対するアップデート（2026年11月）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-05T09:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU98354779/"
       }
     ],
     "economy": [
