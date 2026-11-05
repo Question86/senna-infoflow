@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-05T17:29:12+00:00",
+  "generated_at": "2026-11-05T17:35:30+00:00",
   "topics": {
     "ai": [
       {
@@ -68,11 +68,11 @@
         "url": "https://blog.mudatobunka.org/entry/2026/11/05/100000"
       },
       {
-        "title": "Nine in ten Singaporeans use AI. Only a third are comfortable with it",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-05T05:45:31+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/nine-in-ten-singaporeans-use-ai-only-a-third-are-comfortable-with-it-20261105/"
+        "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (30 octobre 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-10-30T00:00:00+00:00",
+        "relevance_score": 11,
+        "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1432/"
       }
     ],
     "security": [
@@ -335,6 +335,13 @@
         "published_at": null,
         "relevance_score": 13,
         "url": "https://github.com/NVIDIA/auto-ontology"
+      },
+      {
+        "title": "Secret scanning upgrades detectors, adds SpaceX as partner",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-11-05T15:48:50+00:00",
+        "relevance_score": 12,
+        "url": "https://github.blog/changelog/2026-11-05-secret-scanning-upgrades-detectors-adds-spacex-as-partner"
       },
       {
         "title": "Nine in ten Singaporeans use AI. Only a third are comfortable with it",
