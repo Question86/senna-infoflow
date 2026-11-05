@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-05T08:22:46Z",
+  "generated_at": "2026-11-05T08:47:07Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 26,
+    "dynamics": 29,
     "bands": {
-      "strong": 8,
+      "strong": 9,
       "watch": 3,
-      "quiet": 15
+      "quiet": 17
     },
     "bands_after_gate_recheck": {
-      "strong": 8,
+      "strong": 9,
       "watch": 3,
-      "quiet": 15
+      "quiet": 17
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://jvn.jp/jp/JVN55454512/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-05T14:00:00+09:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -46,7 +46,7 @@
       "url": "https://jvn.jp/vu/JVNVU98354779/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-05T09:00:00+09:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -66,11 +66,37 @@
       "summary": "Siemensから各製品向けのアドバイザリが公表されました。"
     },
     {
+      "title": "floci-io/floci",
+      "url": "https://github.com/floci-io/floci",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-11-05T08:30:41+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 25.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: local",
+        "high terms: rce, auth, container",
+        "security high-signal: rce, auth, container"
+      ],
+      "summary": "Light, fluffy, and always free - The AWS Local Emulator alternative https://floci.io/floci/ Any Cloud. Locally. Light, fluffy, and always free No account. No auth token. No feature gates. Just docker compose up . Quick Start · Features · Services · SDKs · Testcontainers · Migration · Docs What is Floci? Floci is a fre…"
+    },
+    {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 139.27,
+      "age_days": 139.28,
       "topics": [
         "ai"
       ],
@@ -99,7 +125,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-11-05T03:15:21+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "ai",
         "macro",
@@ -128,7 +154,7 @@
       "url": "https://e27.co/equal-spend-why-ai-budgets-need-a-security-twin-20261105/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T06:05:36+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "security"
@@ -155,7 +181,7 @@
       "url": "https://e27.co/the-step-zero-problem-of-the-startup-ecosystem-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T04:00:42+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -180,7 +206,7 @@
       "url": "https://e27.co/nine-in-ten-singaporeans-use-ai-only-a-third-are-comfortable-with-it-20261105/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T05:45:31+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -207,7 +233,7 @@
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-11-05T08:00:00+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "macro",
         "disaster"
@@ -232,7 +258,7 @@
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105~6495a0df6f.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-11-05T07:30:00+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "macro"
       ],
@@ -256,7 +282,7 @@
       "url": "https://www.itmedia.co.jp/pcuser/articles/2611/05/news045.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-04T22:58:52+00:00",
-      "age_days": 0.39,
+      "age_days": 0.41,
       "topics": [],
       "dynamics_score": 13.0,
       "raw_band": "watch",
@@ -279,7 +305,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462637",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-05T04:59:58.639+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -303,7 +329,7 @@
       "url": "https://www.digital.go.jp/councils/smartphone-mynumbercard/963f6b16-1056-4bcf-b22f-dbc11ceaf322",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-11-05T06:00:00+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -327,7 +353,7 @@
       "url": "https://e27.co/the-great-unsubscribe-why-shoppers-are-tuning-out-brand-messaging-and-how-retailers-can-stop-it-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T02:00:15+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "ai",
         "infra"
@@ -355,7 +381,7 @@
       "url": "https://e27.co/can-bitcoin-hold-us80000-after-a-us386m-short-squeeze-and-us1-16b-in-etf-outflows-20261105/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T04:12:58+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "macro"
       ],
@@ -379,7 +405,7 @@
       "url": "https://qiita.com/Syoitu/items/9364a0a175893bb15219",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-04T12:39:35+00:00",
-      "age_days": 0.82,
+      "age_days": 0.84,
       "topics": [
         "ai"
       ],
@@ -405,7 +431,7 @@
       "url": "https://openai.com/index/introducing-images-2-6",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-04T00:00:00+00:00",
-      "age_days": 1.35,
+      "age_days": 1.37,
       "topics": [
         "ai"
       ],
@@ -427,11 +453,36 @@
       "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API."
     },
     {
+      "title": "NVIDIA/auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-11-05T08:30:41+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. Auto Ontology Agents can retrieve documents and query databases, but reliability gates agentic ana…"
+    },
+    {
       "title": "US$16.5B and counting: Inside the lopsided year that rewrote SEA’s funding charts",
       "url": "https://e27.co/us16-5b-and-counting-inside-the-lopsided-year-that-rewrote-seas-funding-charts-20261105/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T04:35:58+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -457,7 +508,7 @@
       "url": "https://e27.co/ai-might-be-the-final-boss-for-your-best-ideas-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T01:00:27+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "ai"
       ],
@@ -483,7 +534,7 @@
       "url": "https://av.watch.impress.co.jp/docs/review/review/2152900.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-05T00:06:50+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "general"
       ],
@@ -507,7 +558,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2153621.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-04T23:02:29+00:00",
-      "age_days": 0.39,
+      "age_days": 0.41,
       "topics": [
         "general"
       ],
@@ -531,7 +582,7 @@
       "url": "https://e27.co/why-global-expansion-demands-a-different-mindset-today-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T03:00:58+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "ai",
         "macro"
@@ -555,11 +606,37 @@
       "summary": "International expansion has always been regarded as the defining milestone for business success. The playbook was seemingly straightforward – identify promising markets, establish local presence and scale the international business as quickly as possible. The more borders a business crossed, the more successful it was…"
     },
     {
+      "title": "Google’s US$15B Malaysia bet comes with a promise to pay its own power bill",
+      "url": "https://e27.co/googles-us15b-malaysia-bet-comes-with-a-promise-to-pay-its-own-power-bill-20261105/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-05T08:12:48+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 3.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Google will spend US$15 billion on Malaysian digital infrastructure across 2027 and 2028, a sum it unveiled on Wednesday with Prime Minister Anwar Ibrahim in the room. The package bundles new data centre campuses with skilling, water and clean energy commitments. The scale is the story. In 2024, Google pledged US$2 bi…"
+    },
+    {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 138.23,
+      "age_days": 138.25,
       "topics": [
         "general"
       ],
@@ -584,7 +661,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 138.23,
+      "age_days": 138.25,
       "topics": [
         "general"
       ],
@@ -609,7 +686,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 138.23,
+      "age_days": 138.25,
       "topics": [
         "ai"
       ],
@@ -636,7 +713,7 @@
       "url": "https://www.preferred.jp/ja/blog/tech/plamo-3-translate-weight-release",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-05T01:24:42+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -661,7 +738,7 @@
       "url": "https://blog.tinect.jp/?p=91573",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-04T23:22:25+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "ai"
       ],
