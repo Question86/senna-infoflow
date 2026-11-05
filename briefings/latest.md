@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-05T15:54:20+00:00_
+_Generiert: 2026-11-05T16:00:10+00:00_
 
 ## Kurzlage
 
-77 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+77 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,10 +29,8 @@ _Generiert: 2026-11-05T15:54:20+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-29`
   - Kurz: Known exploited vulnerability. Added 2026-10-29. Due 2026-11-01. GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound Vulnerability
-- **GDACS: Green flood alert in Bulgaria** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104267)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Bulgaria
+
+- Sensor-Hinweis: GDACS failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 
 ## Wirtschaft global
 
@@ -304,3 +302,8 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `twcert_security_news` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)
+- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)
