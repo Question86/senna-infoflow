@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-05T13:01:16+00:00_
+_Generiert: 2026-11-05T13:13:38+00:00_
 
 ## Kurzlage
 
-73 neue relevante Treffer. Stärkstes Signal: „A rare strike in Taiwan exposes labor unrest beneath the global AI rush“ aus Rest of World Global Tech Feed (Score 23, observation).
+74 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
+  - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
+  - Zeit: published `2026-11-05T13:13:28+00:00`, fetched `2026-11-05T13:13:13+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **A rare strike in Taiwan exposes labor unrest beneath the global AI rush** — Score 23, observation — [Quelle](https://restofworld.org/2026/taiwan-labor-strike-ai-profits/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
   - Zeit: published `2026-11-05T11:00:00+00:00`, fetched `2026-11-05T11:09:25+00:00`
@@ -21,15 +30,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: GitHub Actions (+5.0); AI/KI (+3.8); Macro/Policy (+6.2); APAC Trend Radar (+3.8); technology (+2.0); labor (+2.5); recent (+1.0); watchgraph modules elections_unrest (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: Micron Technology union representatives gesture during a protest outside of the Micron facility demanding greater profit shares and better bonuses, in Taoyuan on October 22, 2026. Eleven workers at a Micron Technology plant in Taiwan went on strike October 22 after their union and the US chip giant failed to agree on employee demands for a greater share of the company's profits, a union official said.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
-  - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-05T03:15:21+00:00`, fetched `2026-11-05T03:15:08+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
-  - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Equal spend: why AI budgets need a security twin** — Score 20, risk — [Quelle](https://e27.co/equal-spend-why-ai-budgets-need-a-security-twin-20261105/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-05T06:05:36+00:00`, fetched `2026-11-05T06:21:37+00:00`
@@ -131,6 +131,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. Auto Ontology Agents can retrieve documents and query databases, but reliability gates agentic analytics: a revenue metric answered faster is worth nothing if the number is wrong. Agents need a cont…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **自作AIエージェントの開発をやめた - 無駄と文化** — Score 11, observation — [Quelle](https://blog.mudatobunka.org/entry/2026/11/05/100000)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-05T09:16:13+00:00`, fetched `2026-11-05T13:13:13+00:00`
+  - Treffer: AI/KI, Hatena, hotentry, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: 今年の6月まで、データ分析用途の AI エージェント (以下、分析エージェント) をスクラッチで開発していた。 が、思うところがあり開発をスッパリとやめた。この記事でいろいろと振り返ってみようと思う。 3行まとめ 分析エージェントを開発するのはやめて、分析 MCP として作り直した AI エージェントの全てを開発する...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Nine in ten Singaporeans use AI. Only a third are comfortable with it** — Score 10, observation — [Quelle](https://e27.co/nine-in-ten-singaporeans-use-ai-only-a-third-are-comfortable-with-it-20261105/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -249,21 +258,16 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: マイナンバーカードの機能のスマートフォン搭載に関する検討会（第8回）の会議資料等を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **三井住友G保証会社 個人情報最大32万人分漏えい 住所や年収も | NHKニュース** — Score 5, observation — [Quelle](https://news.web.nhk/newsweb/na/nd-20261105de71024)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-05T08:11:57+00:00`, fetched `2026-11-05T10:48:32+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: カードローンなどの保証業務を行っているSMBCコンシューマーファイナンスは、システムが不正アクセスを受け、ローンを申し込んだ人の名前や住所のほか、年収なども含む個人情報が、最大32万人分、漏えいしたと…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `e27_asia_startups_feed` (rss): 403 Client Error: Forbidden for url: https://e27.co/feed/
