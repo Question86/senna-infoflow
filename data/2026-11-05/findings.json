@@ -394,6 +394,29 @@
     "id": "2a3f8bb7137b5bc28e52"
   },
   {
+    "title": "AIは開発者やプログラマーたちに長年にわたって蓄積されてきた技術的負債を返済することを強いている",
+    "url": "https://gigazine.net/news/20261106-ai-in-cybersecurity-php2shell-vulnerability/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-11-05T21:20:44+00:00",
+    "fetched_at": "2026-11-05T22:54:19+00:00",
+    "summary": "2026年10月21日に発見された深刻なサイバーセキュリティ脆弱性「PHP2Shell」はNASA・Wikipedia・ホワイトハウスといった名だたるウェブサイトに影響を与える可能性があったものの、悪用される前に修正パッチがリリースされたため大規模な被害は回避されました。しかし、PHP2Shellはいわば「炭鉱のカナリア」でありAI時代...",
+    "matched_keywords": [
+      "AI/KI",
+      "Hatena",
+      "hotentry",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "AI/KI (+3.0); Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "542637e05c0b742ab492"
+  },
+  {
     "title": "SHIRASAGIにおける複数の脆弱性",
     "url": "https://jvn.jp/jp/JVN55454512/",
     "source": "JVN Japan Vulnerability Notes",
@@ -1477,6 +1500,42 @@
       "PINS"
     ],
     "id": "1cee4a7b819df9a1cf8b"
+  },
+  {
+    "title": "M 4.6 - south of the Fiji Islands",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twcy",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-11-05T22:53:48.040+00:00",
+    "fetched_at": "2026-11-05T22:54:19+00:00",
+    "summary": "Time 2026-11-05 22:34:48 UTC 2026-11-05 22:34:48 UTC at epicenter Location 23.532°S 179.939°E Depth 523.45 km (325.25 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "b445b3542fe5da563e73"
   },
   {
     "title": "M 6.1 - Fiji region",

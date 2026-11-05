@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-05T22:48:56+00:00",
+  "generated_at": "2026-11-05T22:54:51+00:00",
   "topics": {
     "ai": [
       {
@@ -47,6 +47,13 @@
         "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure"
       },
       {
+        "title": "AIは開発者やプログラマーたちに長年にわたって蓄積されてきた技術的負債を返済することを強いている",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-05T21:20:44+00:00",
+        "relevance_score": 14,
+        "url": "https://gigazine.net/news/20261106-ai-in-cybersecurity-php2shell-vulnerability/"
+      },
+      {
         "title": "[NEU] [hoch] SEPPmail Secure E-Mail Gateway: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-05T11:24:56+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-09-10T10:10:12+00:00",
         "relevance_score": 13,
         "url": "https://githubnext.com/projects/chopin/"
-      },
-      {
-        "title": "NVIDIA/auto-ontology",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 13,
-        "url": "https://github.com/NVIDIA/auto-ontology"
       }
     ],
     "security": [
@@ -140,11 +140,11 @@
         "url": "https://openai.com/index/introducing-gpt-6-cyber"
       },
       {
-        "title": "SHIRASAGIにおける複数の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-05T14:00:00+09:00",
+        "title": "AIは開発者やプログラマーたちに長年にわたって蓄積されてきた技術的負債を返済することを強いている",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-05T21:20:44+00:00",
         "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN55454512/"
+        "url": "https://gigazine.net/news/20261106-ai-in-cybersecurity-php2shell-vulnerability/"
       }
     ],
     "economy": [
@@ -272,6 +272,13 @@
         "url": "https://japan.zdnet.com/article/35254318/"
       },
       {
+        "title": "M 4.6 - south of the Fiji Islands",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-11-05T22:53:48.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twcy"
+      },
+      {
         "title": "M 6.1 - Fiji region",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-11-05T17:38:27.040+00:00",
@@ -312,13 +319,6 @@
         "published_at": "2026-11-05T13:37:21+00:00",
         "relevance_score": 5,
         "url": "https://togetter.com/li/2766988"
-      },
-      {
-        "title": "*sshole · sshhole.com",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-05T12:50:42+00:00",
-        "relevance_score": 5,
-        "url": "https://sshhole.com/"
       }
     ],
     "github": [
