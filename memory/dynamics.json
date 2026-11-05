@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-05T06:36:35Z",
+  "generated_at": "2026-11-05T06:46:52Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 23,
@@ -70,7 +70,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 139.19,
+      "age_days": 139.2,
       "topics": [
         "ai"
       ],
@@ -99,7 +99,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-11-05T03:15:21+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "macro",
@@ -128,7 +128,7 @@
       "url": "https://e27.co/equal-spend-why-ai-budgets-need-a-security-twin-20261105/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T06:05:36+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "security"
@@ -155,7 +155,7 @@
       "url": "https://e27.co/the-step-zero-problem-of-the-startup-ecosystem-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T04:00:42+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -207,7 +207,7 @@
       "url": "https://www.itmedia.co.jp/pcuser/articles/2611/05/news045.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-04T22:58:52+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [],
       "dynamics_score": 13.0,
       "raw_band": "watch",
@@ -278,7 +278,7 @@
       "url": "https://e27.co/the-great-unsubscribe-why-shoppers-are-tuning-out-brand-messaging-and-how-retailers-can-stop-it-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T02:00:15+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "infra"
@@ -306,7 +306,7 @@
       "url": "https://e27.co/can-bitcoin-hold-us80000-after-a-us386m-short-squeeze-and-us1-16b-in-etf-outflows-20261105/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T04:12:58+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "macro"
       ],
@@ -330,7 +330,7 @@
       "url": "https://qiita.com/Syoitu/items/9364a0a175893bb15219",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-04T12:39:35+00:00",
-      "age_days": 0.75,
+      "age_days": 0.76,
       "topics": [
         "ai"
       ],
@@ -382,7 +382,7 @@
       "url": "https://e27.co/us16-5b-and-counting-inside-the-lopsided-year-that-rewrote-seas-funding-charts-20261105/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T04:35:58+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -408,7 +408,7 @@
       "url": "https://e27.co/ai-might-be-the-final-boss-for-your-best-ideas-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T01:00:27+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -434,7 +434,7 @@
       "url": "https://av.watch.impress.co.jp/docs/review/review/2152900.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-05T00:06:50+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -482,7 +482,7 @@
       "url": "https://e27.co/why-global-expansion-demands-a-different-mindset-today-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T03:00:58+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "macro"
@@ -587,7 +587,7 @@
       "url": "https://blog.tinect.jp/?p=91573",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-04T23:22:25+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
