@@ -177,6 +177,29 @@
     "id": "7a92e09f85a7dc4f52f8"
   },
   {
+    "title": "[UPDATE] [hoch] rsyslog: Schwachstelle ermöglicht Manipulation von Dateien",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4119",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-05T10:19:56+00:00",
+    "fetched_at": "2026-11-05T10:24:46+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in rsyslog ausnutzen, um Dateien zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2d18ac978e8507c7ec60"
+  },
+  {
     "title": "[UPDATE] [hoch] Moodle: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1353",
     "source": "BSI CERT-Bund Security Advisories",
@@ -512,6 +535,42 @@
       "PINS"
     ],
     "id": "1cee4a7b819df9a1cf8b"
+  },
+  {
+    "title": "M 4.8 - Sea of Okhotsk",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw7b",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-11-05T10:24:31.040+00:00",
+    "fetched_at": "2026-11-05T10:24:46+00:00",
+    "summary": "Time 2026-11-05 10:09:33 UTC 2026-11-05 10:09:33 UTC at epicenter Location 49.259°N 147.753°E Depth 554.42 km (344.50 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "0913af5f6f5d0334cf11"
   },
   {
     "title": "M 5.1 - 19 km NNW of Masumbwe, Tanzania",
