@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-05T15:19:38+00:00",
+  "generated_at": "2026-11-05T15:25:07+00:00",
   "topics": {
     "ai": [
       {
@@ -279,6 +279,13 @@
         "url": "https://www.digital.go.jp/councils/smartphone-mynumbercard/963f6b16-1056-4bcf-b22f-dbc11ceaf322"
       },
       {
+        "title": "ドコモからのお知らせ : 【お詫び】ドコモオンラインショップ、My docomoの緊急メンテナンス実施について/当社サーバーへの不正アクセスによるお客さま情報流出に関するお知らせ（第二報：11月5日 午後6時30分時点） | お知らせ | NTTドコモ",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-05T10:34:28+00:00",
+        "relevance_score": 5,
+        "url": "https://www.docomo.ne.jp/info/notice/page/261105_03_m.html"
+      },
+      {
         "title": "三井住友G保証会社 個人情報最大32万人分漏えい 住所や年収も | NHKニュース",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-11-05T08:11:57+00:00",
@@ -305,13 +312,6 @@
         "published_at": "2026-11-05T00:06:50+00:00",
         "relevance_score": 5,
         "url": "https://av.watch.impress.co.jp/docs/review/review/2152900.html"
-      },
-      {
-        "title": "日本の全法令が「Git」の履歴に ～改正で何が変わったのかが一目瞭然／「Git」の意外な弱点も？【やじうまの杜】",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-04T23:02:29+00:00",
-        "relevance_score": 5,
-        "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2153621.html"
       }
     ],
     "github": [
