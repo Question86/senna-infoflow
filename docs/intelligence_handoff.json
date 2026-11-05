@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-05T11:02:26Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “SHIRASAGIにおける複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
+  "generated_at": "2026-11-05T11:31:45Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Red Hat Enterprise Linux (tesseract): Mehrere Schwachstellen” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,40 +11,16 @@
   ],
   "top_dynamics": [
     {
-      "title": "SHIRASAGIにおける複数の脆弱性",
-      "url": "https://jvn.jp/jp/JVN55454512/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-11-05T14:00:00+09:00",
-      "age_days": 0.25,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: jvn, security"
-      ],
-      "summary": "SHIRASAGI Projectが提供するSHIRASAGIには、複数の脆弱性が存在します。"
-    },
-    {
-      "title": "[UPDATE] [hoch] rsyslog: Schwachstelle ermöglicht Manipulation von Dateien",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4119",
+      "title": "[NEU] [hoch] Red Hat Enterprise Linux (tesseract): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4345",
       "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-11-05T10:19:56+00:00",
-      "age_days": 0.03,
+      "published_at": "2026-11-05T11:19:56+00:00",
+      "age_days": 0.01,
       "topics": [
         "security"
       ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
@@ -54,21 +30,24 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
       ],
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in rsyslog ausnutzen, um Dateien zu manipulieren."
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode auszuführen, Daten zu manipulieren und offenzulegen oder einen Denial-of-Service-Zustand auszulösen."
     },
     {
-      "title": "[UPDATE] [hoch] Moodle: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1353",
+      "title": "[NEU] [hoch] SEPPmail Secure E-Mail Gateway: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4349",
       "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-11-05T10:09:57+00:00",
-      "age_days": 0.04,
+      "published_at": "2026-11-05T11:24:56+00:00",
+      "age_days": 0.0,
       "topics": [
+        "ai",
         "security"
       ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
@@ -78,21 +57,23 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
       ],
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Moodle ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen, Informationen offenzulegen, Sicherheitsmechanismen zu umgehen und um nicht näher spezifizierte Auswirkungen zu erzielen"
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in SEPPmail Secure E-Mail Gateway ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren und um Sicherheitsvorkehrungen zu umgehen."
     },
     {
-      "title": "[UPDATE] [niedrig] Golang Go: Schwachstelle ermöglicht Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0263",
+      "title": "[NEU] [hoch] Apache ActiveMQ: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4348",
       "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-11-05T10:09:56+00:00",
-      "age_days": 0.04,
+      "published_at": "2026-11-05T11:24:56+00:00",
+      "age_days": 0.0,
       "topics": [
         "security"
       ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
@@ -102,21 +83,23 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
+        "high terms: active",
+        "security high-signal: active",
+        "official security but no high-signal phrase: capped at strong"
       ],
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Golang Go ausnutzen, um Informationen offenzulegen."
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Apache ActiveMQ ausnutzen, um einen Denial of Service Angriff durchzuführen, Sicherheitsmaßnahmen zu umgehen und Daten zu manipulieren oder offenzulegen."
     },
     {
-      "title": "[UPDATE] [mittel] TianoCore EDK2: Schwachstelle ermöglicht Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0731",
+      "title": "[NEU] [mittel] Vercel Next.js: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4346",
       "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-11-05T10:09:56+00:00",
-      "age_days": 0.04,
+      "published_at": "2026-11-05T11:19:56+00:00",
+      "age_days": 0.01,
       "topics": [
         "security"
       ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
@@ -126,21 +109,23 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
+        "high terms: rce",
+        "security high-signal: rce",
+        "official security but no high-signal phrase: capped at strong"
       ],
-      "summary": "Ein Angreifer aus einem angrenzenden Netzwerk kann eine Schwachstelle in TianoCore EDK2 ausnutzen, um Informationen offenzulegen."
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Vercel Next.js ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren oder offenzulegen oder einen Denial-of-Service-Zustand auszulösen."
     },
     {
-      "title": "[UPDATE] [mittel] TianoCore EDK2: Schwachstelle ermöglicht Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3047",
+      "title": "[NEU] [hoch] OpenCTI: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4344",
       "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-11-05T10:09:56+00:00",
-      "age_days": 0.04,
+      "published_at": "2026-11-05T11:09:56+00:00",
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
@@ -150,21 +135,23 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
+        "high terms: angriffe, auth",
+        "security high-signal: angriffe, auth",
+        "official security but no high-signal phrase: capped at strong"
       ],
-      "summary": "Ein Angreifer aus einem angrenzenden Netzwerk kann eine Schwachstelle in TianoCore EDK2 ausnutzen, um einen Denial of Service Angriff durchzuführen."
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in OpenCTI ausnutzen, um seine Privilegien zu erhöhen oder Cross-Site-Scripting-Angriffe durchzuführen."
     },
     {
-      "title": "[UPDATE] [mittel] Golang Go: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0111",
+      "title": "[NEU] [hoch] IBM MQ: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4343",
       "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-11-05T10:09:56+00:00",
-      "age_days": 0.04,
+      "published_at": "2026-11-05T11:09:55+00:00",
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
@@ -174,21 +161,23 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
       ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Golang Go ausnutzen, um einen Denial of Service Angriff durchzuführen, Sicherheitsmaßnahmen zu umgehen und vertrauliche Informationen offenzulegen."
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM MQ ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen und um Daten zu manipulieren."
     },
     {
-      "title": "Siemens製品に対するアップデート（2026年11月）",
-      "url": "https://jvn.jp/vu/JVNVU98354779/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-11-05T09:00:00+09:00",
-      "age_days": 0.46,
+      "title": "[NEU] [hoch] apt: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4341",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-05T11:04:56+00:00",
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
@@ -198,16 +187,18 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "security high-signal: jvn, security"
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
       ],
-      "summary": "Siemensから各製品向けのアドバイザリが公表されました。"
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in apt ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen."
     },
     {
       "title": "[UPDATE] [hoch] Golang Go: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0283",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-05T10:09:56+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -233,7 +224,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4205",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-05T09:53:05+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -259,7 +250,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4317",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-05T09:14:57+00:00",
-      "age_days": 0.07,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "security"
@@ -282,11 +273,36 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Ruby on Rails ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Daten zu manipulieren, um falsche Informationen darzustellen, um einen Cross-Site Scripting Angriff durchzuführen und um Sich…"
     },
     {
+      "title": "[NEU] [hoch] Linux Kernel: Schwachstelle ermöglicht nicht spezifizierten Angriff",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4342",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-05T11:04:56+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen."
+    },
+    {
       "title": "[UPDATE] [hoch] Samsung Exynos: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4266",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-05T09:53:06+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
