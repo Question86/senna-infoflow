@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-05T07:32:05Z",
+  "generated_at": "2026-11-05T07:46:49Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “SHIRASAGIにおける複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/jp/JVN55454512/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-05T14:00:00+09:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/vu/JVNVU98354779/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-05T09:00:00+09:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -63,7 +63,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 139.23,
+      "age_days": 139.24,
       "topics": [
         "ai"
       ],
@@ -92,7 +92,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-11-05T03:15:21+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "macro",
@@ -121,7 +121,7 @@
       "url": "https://e27.co/equal-spend-why-ai-budgets-need-a-security-twin-20261105/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T06:05:36+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "security"
@@ -148,7 +148,7 @@
       "url": "https://e27.co/the-step-zero-problem-of-the-startup-ecosystem-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T04:00:42+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -173,7 +173,7 @@
       "url": "https://e27.co/nine-in-ten-singaporeans-use-ai-only-a-third-are-comfortable-with-it-20261105/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T05:45:31+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -196,11 +196,35 @@
       "summary": "Nine in ten Singapore internet users now reach for an AI tool every month. Barely a third say they are comfortable doing so. That gap between habit and confidence is the most telling finding in Digital 2027: Singapore, the annual report released today by creative agency We Are Social and media intelligence firm Meltwa…"
     },
     {
+      "title": "Piero Cipollone: Shaping the future of money",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105~6495a0df6f.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "published_at": "2026-11-05T07:30:00+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "Piero Cipollone: Shaping the future of money"
+    },
+    {
       "title": "メーカー自身がバックドアを仕込み、犯罪集団に“販売” 乗っ取られたTV用端末130万台超、Googleが遮断 日本の警察庁も参加",
       "url": "https://www.itmedia.co.jp/pcuser/articles/2611/05/news045.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-04T22:58:52+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [],
       "dynamics_score": 13.0,
       "raw_band": "watch",
@@ -223,7 +247,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462637",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-05T04:59:58.639+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -247,7 +271,7 @@
       "url": "https://www.digital.go.jp/councils/smartphone-mynumbercard/963f6b16-1056-4bcf-b22f-dbc11ceaf322",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-11-05T06:00:00+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -271,7 +295,7 @@
       "url": "https://e27.co/the-great-unsubscribe-why-shoppers-are-tuning-out-brand-messaging-and-how-retailers-can-stop-it-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T02:00:15+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai",
         "infra"
@@ -293,30 +317,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Modern retailers are used to disruption. They regularly have to navigate shifting algorithms, platform outages at odd hours, and ever tightening privacy rules with every legislative cycle. Yet a quieter threat is doing more damage than any of these, and most brands will not spot it on a dashboard until their customer…"
-    },
-    {
-      "title": "Can Bitcoin hold US$80,000 after a US$386M short squeeze and US$1.16B in ETF outflows?",
-      "url": "https://e27.co/can-bitcoin-hold-us80000-after-a-us386m-short-squeeze-and-us1-16b-in-etf-outflows-20261105/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-05T04:12:58+00:00",
-      "age_days": 0.14,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 9.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "I think this crypto advance deserves attention, but not full conviction. Bitcoin rose 4.77 per cent to US$80,721.27 in 24 hours and led a broad move that lifted the total crypto market 4.73 per cent to US$2.69T. The move showed an 87 per cent correlation with the S&P 500 and an 86 per cent correlation […] The post Can…"
     }
   ],
   "read_order": [
@@ -329,8 +329,8 @@
   "counts": {
     "bands_after_gate_recheck": {
       "strong": 7,
-      "watch": 2,
-      "quiet": 3
+      "watch": 3,
+      "quiet": 2
     }
   }
 }
