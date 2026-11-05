@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-05T22:10:01+00:00_
+_Generated: 2026-11-05T22:16:06+00:00_
 
 ## Status
 - status: `normal`
-- findings: `95`
+- findings: `96`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-11-05T22:10:01+00:00_
 - url: https://e27.co/the-frontier-ai-money-is-getting-picky-southeast-asias-ai-founders-should-price-that-in-now-20261105/
 - summary: For two years, the rules of AI fundraising were simple: whoever asked for the biggest number got it. Last week, that stopped being true at the very top of the market. OpenAI cut its fundraising target by US$10 billion to US$20 billion as falling tech stocks a…
 
-### 5. NVIDIA/auto-ontology
+### 5. Chopin
+- source: Hatena Bookmark Hotentry IT
+- score: `13`
+- published: `2026-09-10T10:10:12+00:00`
+- url: https://githubnext.com/projects/chopin/
+- summary: Chopin A real-time multiplayer, agentic planning environment What's it for? Exploring how we can make team planning with agents feel like a truly collaborative experience, with less cognitive load and more capacity for decision making and deep research Share…
+
+### 6. NVIDIA/auto-ontology
 - source: GitHub Trending RSS All Languages Daily
 - score: `13`
 - published: `None`
 - url: https://github.com/NVIDIA/auto-ontology
 - summary: Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. Auto Ontology Agents can retrieve docu…
 
-### 6. Secret scanning upgrades detectors, adds SpaceX as partner
+### 7. Secret scanning upgrades detectors, adds SpaceX as partner
 - source: GitHub Changelog Atom
 - score: `12`
 - published: `2026-11-05T15:48:50+00:00`
 - url: https://github.blog/changelog/2026-11-05-secret-scanning-upgrades-detectors-adds-spacex-as-partner
 - summary: This update expands secret scanning’s detection coverage: New partner: SpaceX is now a secret scanning partner. New detector: GitHub now detects starlink_public_api_v2_secret. Upgraded detectors: Alibaba, AWS, Google, OpenVSX, Pydantic Services,… The post Sec…
 
-### 7. Multiples vulnérabilités dans Roundcube (09 août 2024)
+### 8. Multiples vulnérabilités dans Roundcube (09 août 2024)
 - source: CERT-FR Alertes
 - score: `12`
 - published: `2024-08-09T00:00:00+00:00`
 - url: https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-010/
 - summary: Le 4 août 2024, Roundcube a publié des correctifs concernant les vulnérabilités critiques CVE-2024-42008 et CVE-2024-42009 affectant son serveur de courriel. Ces vulnérabilités permettent des injections de code indirectes à distance (XSS) qui peuvent, par exe…
-
-### 8. M 5.0 - 130 km NE of Thang, India
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-11-05T17:13:46.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw8p
-- summary: Time 2026-11-05 16:56:25 UTC 2026-11-05 16:56:25 UTC at epicenter Location 35.632°N 77.940°E Depth 76.94 km (47.81 mi)
 
 END OF DOCUMENT
