@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-05T10:02:47Z",
+  "generated_at": "2026-11-05T10:17:22Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 37,
+    "dynamics": 40,
     "bands": {
-      "krass": 3,
-      "strong": 9,
+      "krass": 4,
+      "strong": 14,
       "watch": 6,
-      "quiet": 19
+      "quiet": 16
     },
     "bands_after_gate_recheck": {
-      "strong": 12,
+      "strong": 18,
       "watch": 6,
-      "quiet": 19
+      "quiet": 16
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/jp/JVN55454512/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-05T14:00:00+09:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -43,11 +43,131 @@
       "summary": "SHIRASAGI Projectが提供するSHIRASAGIには、複数の脆弱性が存在します。"
     },
     {
+      "title": "[UPDATE] [hoch] Moodle: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1353",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-05T10:09:57+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Moodle ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen, Informationen offenzulegen, Sicherheitsmechanismen zu umgehen und um nicht näher spezifizierte Auswirkungen zu erzielen"
+    },
+    {
+      "title": "[UPDATE] [niedrig] Golang Go: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0263",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-05T10:09:56+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Golang Go ausnutzen, um Informationen offenzulegen."
+    },
+    {
+      "title": "[UPDATE] [mittel] TianoCore EDK2: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0731",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-05T10:09:56+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer aus einem angrenzenden Netzwerk kann eine Schwachstelle in TianoCore EDK2 ausnutzen, um Informationen offenzulegen."
+    },
+    {
+      "title": "[UPDATE] [mittel] TianoCore EDK2: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3047",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-05T10:09:56+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer aus einem angrenzenden Netzwerk kann eine Schwachstelle in TianoCore EDK2 ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
+      "title": "[UPDATE] [mittel] Golang Go: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0111",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-05T10:09:56+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Golang Go ausnutzen, um einen Denial of Service Angriff durchzuführen, Sicherheitsmaßnahmen zu umgehen und vertrauliche Informationen offenzulegen."
+    },
+    {
       "title": "Siemens製品に対するアップデート（2026年11月）",
       "url": "https://jvn.jp/vu/JVNVU98354779/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-05T09:00:00+09:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -71,7 +191,7 @@
       "url": "https://github.com/floci-io/floci",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-05T08:30:41+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -93,11 +213,37 @@
       "summary": "Light, fluffy, and always free - The AWS Local Emulator alternative https://floci.io/floci/ Any Cloud. Locally. Light, fluffy, and always free No account. No auth token. No feature gates. Just docker compose up . Quick Start · Features · Services · SDKs · Testcontainers · Migration · Docs What is Floci? Floci is a fre…"
     },
     {
+      "title": "[UPDATE] [hoch] Golang Go: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0283",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-05T10:09:56+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Golang Go ausnutzen, um Informationen offenzulegen, oder Code auszuführen."
+    },
+    {
       "title": "[UPDATE] [mittel] Asterisk: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4205",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-05T09:53:05+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -123,7 +269,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4317",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-05T09:14:57+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "security"
@@ -150,7 +296,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4266",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-05T09:53:06+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -175,7 +321,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 139.34,
+      "age_days": 139.35,
       "topics": [
         "ai"
       ],
@@ -204,7 +350,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-11-05T03:15:21+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "ai",
         "macro",
@@ -233,7 +379,7 @@
       "url": "https://e27.co/equal-spend-why-ai-budgets-need-a-security-twin-20261105/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T06:05:36+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai",
         "security"
@@ -260,7 +406,7 @@
       "url": "https://e27.co/the-step-zero-problem-of-the-startup-ecosystem-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T04:00:42+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -285,7 +431,7 @@
       "url": "https://e27.co/nine-in-ten-singaporeans-use-ai-only-a-third-are-comfortable-with-it-20261105/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T05:45:31+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -312,7 +458,7 @@
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-11-05T08:00:00+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "macro",
         "disaster"
@@ -337,7 +483,7 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Zyxel-Switches-beobachtet-11512953.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-05T08:37:00.000+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -361,7 +507,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw76",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-05T09:43:07.445+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -386,7 +532,7 @@
       "url": "https://e27.co/the-frontier-ai-money-is-getting-picky-southeast-asias-ai-founders-should-price-that-in-now-20261105/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T09:28:53+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "macro"
@@ -413,7 +559,7 @@
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105~6495a0df6f.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-11-05T07:30:00+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "macro"
       ],
@@ -437,7 +583,7 @@
       "url": "https://www.itmedia.co.jp/pcuser/articles/2611/05/news045.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-04T22:58:52+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [],
       "dynamics_score": 13.0,
       "raw_band": "watch",
@@ -460,7 +606,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462637",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-05T04:59:58.639+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -484,7 +630,7 @@
       "url": "https://www.digital.go.jp/councils/smartphone-mynumbercard/963f6b16-1056-4bcf-b22f-dbc11ceaf322",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-11-05T06:00:00+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -508,7 +654,7 @@
       "url": "https://e27.co/the-great-unsubscribe-why-shoppers-are-tuning-out-brand-messaging-and-how-retailers-can-stop-it-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T02:00:15+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "ai",
         "infra"
@@ -536,7 +682,7 @@
       "url": "https://e27.co/can-bitcoin-hold-us80000-after-a-us386m-short-squeeze-and-us1-16b-in-etf-outflows-20261105/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T04:12:58+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "macro"
       ],
@@ -560,7 +706,7 @@
       "url": "https://qiita.com/Syoitu/items/9364a0a175893bb15219",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-04T12:39:35+00:00",
-      "age_days": 0.89,
+      "age_days": 0.9,
       "topics": [
         "ai"
       ],
@@ -586,7 +732,7 @@
       "url": "https://openai.com/index/introducing-images-2-6",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-04T00:00:00+00:00",
-      "age_days": 1.42,
+      "age_days": 1.43,
       "topics": [
         "ai"
       ],
@@ -612,7 +758,7 @@
       "url": "https://github.com/NVIDIA/auto-ontology",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-05T08:30:41+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -637,7 +783,7 @@
       "url": "https://e27.co/us16-5b-and-counting-inside-the-lopsided-year-that-rewrote-seas-funding-charts-20261105/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T04:35:58+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -663,7 +809,7 @@
       "url": "https://e27.co/ai-might-be-the-final-boss-for-your-best-ideas-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T01:00:27+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "ai"
       ],
@@ -689,7 +835,7 @@
       "url": "https://www.phileweb.com/news/d-av/202611/05/66309.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-05T06:36:03+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -713,7 +859,7 @@
       "url": "https://piyolog.hatenadiary.jp/entry/2026/11/05/133509",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-05T04:48:15+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -737,7 +883,7 @@
       "url": "https://av.watch.impress.co.jp/docs/review/review/2152900.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-05T00:06:50+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "general"
       ],
@@ -761,7 +907,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2153621.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-04T23:02:29+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "general"
       ],
@@ -785,7 +931,7 @@
       "url": "https://e27.co/why-global-expansion-demands-a-different-mindset-today-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T03:00:58+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "ai",
         "macro"
@@ -813,7 +959,7 @@
       "url": "https://e27.co/googles-us15b-malaysia-bet-comes-with-a-promise-to-pay-its-own-power-bill-20261105/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-05T08:12:48+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -839,7 +985,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 138.3,
+      "age_days": 138.31,
       "topics": [
         "general"
       ],
@@ -864,7 +1010,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 138.3,
+      "age_days": 138.31,
       "topics": [
         "general"
       ],
@@ -883,83 +1029,6 @@
         "aging penalty -16.0 for 138.3d old signal"
       ],
       "summary": ""
-    },
-    {
-      "title": "電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題",
-      "url": "https://toyokeizai.net/articles/-/948348?display=b",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 138.3,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 138.3d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "PLaMo 3 Translate：世界最高クラスの翻訳特化LLMの重み公開と開発秘話｜株式会社Preferred Networks",
-      "url": "https://www.preferred.jp/ja/blog/tech/plamo-3-translate-weight-release",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-05T01:24:42+00:00",
-      "age_days": 0.36,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Read this article in English. 概要翻訳特化LLM PLaMo 3 Translateの重みをHugging Faceで公開しました。0.8B、2B、8B、31Bの4サイズのモデルを開発・公開しており、最小の0.8Bモデルでも、日英および日本語↔多言語で30倍以上大きな既存の翻訳特化LLMを上回る性能を達成しました。開発の鍵は、「トーナメント式データ合..."
-    },
-    {
-      "title": "AIと「聖杯」は似ている。",
-      "url": "https://blog.tinect.jp/?p=91573",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-04T23:22:25+00:00",
-      "age_days": 0.44,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "１．万能の願望器「聖杯」に願いをかけること 「聖杯」と言って連想される作品はさまざまだろう。年配の人なら『インディージョーンズ』を思い出そうが、私はアニメ／ゲーム『Fate』シリーズに登場する「聖杯」、特に『Fate/Zero』に登場する「聖杯」が真っ先に思い出される。 『Fate』シリーズでは、「聖杯戦争」と呼ば..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “SHIRASAGIにおける複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
