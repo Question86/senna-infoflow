@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-05T08:43:05+00:00",
+  "generated_at": "2026-11-05T08:48:39+00:00",
   "topics": {
     "ai": [
       {
@@ -96,6 +96,13 @@
         "published_at": "2026-11-05T09:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU98354779/"
+      },
+      {
+        "title": "Jetzt patchen! Attacken auf Zyxel-Switches beobachtet",
+        "source": "heise Security Alerts",
+        "published_at": "2026-11-05T08:37:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Zyxel-Switches-beobachtet-11512953.html"
       }
     ],
     "geopolitics": [
