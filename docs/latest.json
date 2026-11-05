@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T20:25:17+00:00",
-  "run_id": "2026-11-05T20:25:17+00:00",
+  "generated_at": "2026-11-05T20:30:53+00:00",
+  "run_id": "2026-11-05T20:30:53+00:00",
   "date": "2026-11-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 93,
     "displayed_findings": 93,
     "high": 0,
@@ -4483,28 +4483,7 @@
       "id": "5072f264cfccc9d93ee4"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Inside GitHub’s new Git storage architecture",
-      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
-      "source": "GitHub Blog Atom",
-      "source_type": "rss",
-      "published_at": "2026-11-05T20:23:21+00:00",
-      "fetched_at": "2026-11-05T20:24:46+00:00",
-      "summary": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "GitHub"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "GitHub (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "328edb765bc615e3f67e"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
