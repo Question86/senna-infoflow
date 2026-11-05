@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-05T06:00:33+00:00",
+  "generated_at": "2026-11-05T06:22:10+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-11-05T03:15:21+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+      },
+      {
+        "title": "Equal spend: why AI budgets need a security twin",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-05T06:05:36+00:00",
+        "relevance_score": 20,
+        "url": "https://e27.co/equal-spend-why-ai-budgets-need-a-security-twin-20261105/"
       },
       {
         "title": "Nine in ten Singaporeans use AI. Only a third are comfortable with it",
@@ -68,6 +75,29 @@
         "url": "https://e27.co/why-global-expansion-demands-a-different-mindset-today-20261101/"
       }
     ],
+    "security": [
+      {
+        "title": "Equal spend: why AI budgets need a security twin",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-05T06:05:36+00:00",
+        "relevance_score": 20,
+        "url": "https://e27.co/equal-spend-why-ai-budgets-need-a-security-twin-20261105/"
+      },
+      {
+        "title": "SHIRASAGIにおける複数の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-05T14:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN55454512/"
+      },
+      {
+        "title": "Siemens製品に対するアップデート（2026年11月）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-05T09:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU98354779/"
+      }
+    ],
     "general": [
       {
         "title": "The step zero problem of the startup ecosystem",
@@ -82,6 +112,13 @@
         "published_at": "2026-11-05T04:59:58.639+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462637"
+      },
+      {
+        "title": "マイナンバーカードの機能のスマートフォン搭載に関する検討会（第8回）の会議資料等を掲載しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-11-05T06:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/councils/smartphone-mynumbercard/963f6b16-1056-4bcf-b22f-dbc11ceaf322"
       },
       {
         "title": "【レビュー】 使わなくなったAndroidスマホが音楽プレーヤーに、無料アプリ「reTONE」使ってみた",
@@ -103,22 +140,6 @@
         "published_at": "2026-11-04T22:58:52+00:00",
         "relevance_score": 5,
         "url": "https://www.itmedia.co.jp/pcuser/articles/2611/05/news045.html"
-      }
-    ],
-    "security": [
-      {
-        "title": "SHIRASAGIにおける複数の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-05T14:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN55454512/"
-      },
-      {
-        "title": "Siemens製品に対するアップデート（2026年11月）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-05T09:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU98354779/"
       }
     ],
     "github": [

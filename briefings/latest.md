@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-05T06:00:33+00:00_
+_Generiert: 2026-11-05T06:22:10+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+19 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -57,6 +57,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Equal spend: why AI budgets need a security twin** — Score 20, risk — [Quelle](https://e27.co/equal-spend-why-ai-budgets-need-a-security-twin-20261105/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-05T06:05:36+00:00`, fetched `2026-11-05T06:21:37+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); AI Agents (+5.0); Security (+7.5); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: The last few weeks have had a pattern. Every week, another company announces an AI agent, an AI assistant or an AI workflow. Every week, another headline tells us something has been breached, leaked or drained. Those two streams of news are connected. On 30 October, Binance suffered the biggest theft in crypto history, with […] The post Equal spend: why AI budgets need a security twin appeared first on e27 .
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **The step zero problem of the startup ecosystem** — Score 16, observation — [Quelle](https://e27.co/the-step-zero-problem-of-the-startup-ecosystem-20261101/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -141,6 +150,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); funding (+2.5); recent (+1.0)
   - Kurz: Southeast Asia’s tech startups have raised more funding in the first ten months of 2026 than almost anyone in the ecosystem would have forecast in January. Add up the monthly figures in Tracxn’s latest snapshot and the region has drawn about US$16.55 billion between January and October. October alone delivered US$3.68 billion across 14 rounds, […] The post US$16.5B and counting: Inside the lopsided year that rewrote…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **マイナンバーカードの機能のスマートフォン搭載に関する検討会（第8回）の会議資料等を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/councils/smartphone-mynumbercard/963f6b16-1056-4bcf-b22f-dbc11ceaf322)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-11-05T06:00:00+00:00`, fetched `2026-11-05T06:21:37+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: マイナンバーカードの機能のスマートフォン搭載に関する検討会（第8回）の会議資料等を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **【レビュー】 使わなくなったAndroidスマホが音楽プレーヤーに、無料アプリ「reTONE」使ってみた** — Score 5, observation — [Quelle](https://av.watch.impress.co.jp/docs/review/review/2152900.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
