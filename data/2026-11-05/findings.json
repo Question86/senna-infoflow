@@ -1555,6 +1555,27 @@
     "id": "5733516cd58e4cb69454"
   },
   {
+    "title": "*sshole · sshhole.com",
+    "url": "https://sshhole.com/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-11-05T12:50:42+00:00",
+    "fetched_at": "2026-11-05T16:15:00+00:00",
+    "summary": "*sshole so openssh on musl linux (alpine, openwrt, buildroot, yocto, and a lot of the docker images you've pulled) has had a little problem since 2016. accounts that should never take a password at all (root, your key-only deploy user, ldap users, the default user on alpine's aws and azure images...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2b3932735b54b5570dd3"
+  },
+  {
     "title": "NTTドコモ、自社サーバーに不正アクセス。最大約30万件の利用者の情報流出",
     "url": "https://internet.watch.impress.co.jp/docs/news/2154115.html",
     "source": "Hatena Bookmark Hotentry IT",
@@ -1784,6 +1805,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "aab915513e0f8a572dec"
+  },
+  {
+    "title": "Accessibility statements now have a home on GitHub",
+    "url": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
+    "source": "GitHub Blog Atom",
+    "source_type": "rss",
+    "published_at": "2026-11-05T16:00:00+00:00",
+    "fetched_at": "2026-11-05T16:15:00+00:00",
+    "summary": "GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes. The post Accessibility statements now have a home on GitHub appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "GitHub (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "92ad744d2416a5746223"
   },
   {
     "title": "Can Bitcoin hold US$80,000 after a US$386M short squeeze and US$1.16B in ETF outflows?",
