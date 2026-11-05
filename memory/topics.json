@@ -1,18 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-05T03:01:08+00:00",
+  "generated_at": "2026-11-05T03:15:33+00:00",
   "topics": {
-    "security": [
-      {
-        "title": "Siemens製品に対するアップデート（2026年11月）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-05T09:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU98354779/"
-      }
-    ],
     "ai": [
+      {
+        "title": "Updates | ReliefWeb",
+        "source": "ReliefWeb Mindanao Recovery Watch",
+        "published_at": "2026-11-05T03:15:21+00:00",
+        "relevance_score": 23,
+        "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+      },
       {
         "title": "The Great Unsubscribe: Why shoppers are tuning out brand messaging, and how retailers can stop it",
         "source": "e27 Asia Startup and Tech Feed",
@@ -47,6 +45,15 @@
         "published_at": "2026-11-04T23:22:25+00:00",
         "relevance_score": 5,
         "url": "https://blog.tinect.jp/?p=91573"
+      }
+    ],
+    "security": [
+      {
+        "title": "Siemens製品に対するアップデート（2026年11月）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-05T09:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU98354779/"
       }
     ],
     "general": [
