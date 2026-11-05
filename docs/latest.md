@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-05T11:09:56+00:00_
+_Generiert: 2026-11-05T11:15:55+00:00_
 
 ## Kurzlage
 
-46 neue relevante Treffer. Stärkstes Signal: „A rare strike in Taiwan exposes labor unrest beneath the global AI rush“ aus Rest of World Global Tech Feed (Score 23, observation).
+48 neue relevante Treffer. Stärkstes Signal: „A rare strike in Taiwan exposes labor unrest beneath the global AI rush“ aus Rest of World Global Tech Feed (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -102,14 +102,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: SHIRASAGI Projectが提供するSHIRASAGIには、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[NEU] [hoch] apt: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4341)
+- **[NEU] [hoch] OpenCTI: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4344)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-11-05T11:04:56+00:00`, fetched `2026-11-05T11:09:25+00:00`
+  - Zeit: published `2026-11-05T11:09:56+00:00`, fetched `2026-11-05T11:15:20+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in apt ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen.
+  - Kurz: Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in OpenCTI ausnutzen, um seine Privilegien zu erhöhen oder Cross-Site-Scripting-Angriffe durchzuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Siemens製品に対するアップデート（2026年11月）** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU98354779/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`

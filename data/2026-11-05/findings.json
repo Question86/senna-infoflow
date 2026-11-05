@@ -276,6 +276,52 @@
     "id": "7a92e09f85a7dc4f52f8"
   },
   {
+    "title": "[NEU] [hoch] OpenCTI: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4344",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-05T11:09:56+00:00",
+    "fetched_at": "2026-11-05T11:15:20+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in OpenCTI ausnutzen, um seine Privilegien zu erhöhen oder Cross-Site-Scripting-Angriffe durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "25d740dc54f1c6d663f4"
+  },
+  {
+    "title": "[NEU] [hoch] IBM MQ: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4343",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-05T11:09:55+00:00",
+    "fetched_at": "2026-11-05T11:15:20+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM MQ ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen und um Daten zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7674640d2f92bb132759"
+  },
+  {
     "title": "[NEU] [hoch] apt: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4341",
     "source": "BSI CERT-Bund Security Advisories",
