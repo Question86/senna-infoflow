@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-06T02:45:03+00:00_
+_Generated: 2026-11-06T02:50:36+00:00_
 
 ## Status
 - status: `normal`
-- findings: `13`
+- findings: `15`
 
 ## Top Signals
 
@@ -43,18 +43,18 @@ _Generated: 2026-11-06T02:45:03+00:00_
 - url: https://www.itmedia.co.jp/news/article/2611/06/2000002931/
 - summary: 米OpenAIは11月5日（現地時間）、サイバーセキュリティに特化したAIモデル「GPT-6 Cyber」を発表した。汎用モデル「GPT-6 Astra」をベースに、脆弱性の発見や攻撃手法の検証などの能力を強化したモデルで、同社の防御者向けプログラム「Daybreak Red」の承認ユーザーに限定して提供する。 GPT-6 Astraは、9月に発表され...
 
-### 6. M 4.6 - 58 km WNW of Isangel, Vanuatu
+### 6. M 4.7 - 139 km SSE of False Pass, Alaska
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-11-06T02:46:31.121+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tweq
+- summary: ShakeMap - III Time 2026-11-06 02:35:25 UTC 2026-11-06 02:35:25 UTC at epicenter Location 53.635°N 162.950°W Depth 27.96 km (17.38 mi)
+
+### 7. M 4.6 - 58 km WNW of Isangel, Vanuatu
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-11-06T01:53:40.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tweb
 - summary: Time 2026-11-06 01:37:39 UTC 2026-11-06 01:37:39 UTC at epicenter Location 19.365°S 168.753°E Depth 83.27 km (51.74 mi)
-
-### 7. M 4.6 - 96 km NNW of Lae, Papua New Guinea
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-11-06T00:36:04.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000twdd
-- summary: Time 2026-11-06 00:02:25 UTC 2026-11-06 00:02:25 UTC at epicenter Location 5.917°S 146.662°E Depth 97.80 km (60.77 mi)
 
 END OF DOCUMENT
