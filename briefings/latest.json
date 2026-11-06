@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T23:37:27+00:00",
-  "run_id": "2026-11-06T23:37:27+00:00",
+  "generated_at": "2026-11-06T23:43:19+00:00",
+  "run_id": "2026-11-06T23:43:19+00:00",
   "date": "2026-11-06",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 68,
     "displayed_findings": 68,
     "high": 0,
@@ -3323,29 +3323,7 @@
       "id": "c4ea28aa3d99a7d5ac4e"
     }
   ],
-  "new_findings": [
-    {
-      "title": "GitHub Copilot weekly releases — November 2",
-      "url": "https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-11-06T21:00:26+00:00",
-      "fetched_at": "2026-11-06T23:36:56+00:00",
-      "summary": "This week, Copilot comes to JetBrains Air and Xcode’s coding assistant, with updates to help you manage pull requests, settings, and agent sessions. GitHub Copilot app Set up Agent Merge… The post GitHub Copilot weekly releases — November 2 appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Copilot",
-        "GitHub"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c0675d6b3bf2d82bd96e"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
