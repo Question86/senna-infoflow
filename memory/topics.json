@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-06T01:41:30+00:00",
+  "generated_at": "2026-11-06T01:51:58+00:00",
   "topics": {
     "security": [
       {
@@ -33,6 +33,13 @@
         "published_at": "2026-11-06T01:00:41+00:00",
         "relevance_score": 7,
         "url": "https://e27.co/taiwans-envoy-says-its-startups-are-capable-enough-to-go-global-with-singapore-as-the-first-step-20261105/"
+      },
+      {
+        "title": "ガバメントAI 源内に関する「行政実務用RAG」の解説動画を掲載しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-11-06T01:46:31+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/policies/genai/aff58345-cef0-433c-8b33-88217fe0b423"
       },
       {
         "title": "Usage metrics API adds code review details and addressed rate",

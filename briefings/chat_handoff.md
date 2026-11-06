@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-06T01:41:30+00:00_
+_Generated: 2026-11-06T01:51:58+00:00_
 
 ## Status
 - status: `normal`
-- findings: `8`
+- findings: `9`
 
 ## Top Signals
 
@@ -43,11 +43,11 @@ _Generated: 2026-11-06T01:41:30+00:00_
 - url: https://e27.co/taiwans-envoy-says-its-startups-are-capable-enough-to-go-global-with-singapore-as-the-first-step-20261105/
 - summary: SINGAPORE: The aisles around the Taiwan Pavilion at SWITCH 2026 were busy. At Booth Q01 of Sands Expo and Convention Centre, 33 Taiwanese startups spent three days, from 27 to 29 October, meeting visitors, investors and potential partners from across the regi…
 
-### 6. Usage metrics API adds code review details and addressed rate
-- source: GitHub Changelog Atom
-- score: `5`
-- published: `2026-11-06T00:19:07+00:00`
-- url: https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate
-- summary: The enterprise and organization repository-level Copilot usage metrics reports now show what happens to Copilot code review feedback. A new copilot_code_review object on each repos-1-day row reports how many Copilot-reviewed… The post Usage metrics API adds c…
+### 6. ガバメントAI 源内に関する「行政実務用RAG」の解説動画を掲載しました
+- source: Japan Digital Agency News RSS
+- score: `6`
+- published: `2026-11-06T01:46:31+00:00`
+- url: https://www.digital.go.jp/policies/genai/aff58345-cef0-433c-8b33-88217fe0b423
+- summary: ガバメントAI 源内に関する「行政実務用RAG」の解説動画を掲載しました
 
 END OF DOCUMENT

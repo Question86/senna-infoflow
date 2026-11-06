@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-06T01:41:30+00:00_
+_Generiert: 2026-11-06T01:51:58+00:00_
 
 ## Kurzlage
 
-8 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年11月05日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+9 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年11月05日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -96,6 +96,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: SINGAPORE: The aisles around the Taiwan Pavilion at SWITCH 2026 were busy. At Booth Q01 of Sands Expo and Convention Centre, 33 Taiwanese startups spent three days, from 27 to 29 October, meeting visitors, investors and potential partners from across the region. Among the visitors was Dr Tung Chen-yuan, Representative of the Taipei Representative Office […] The post Taiwan’s envoy says its startups are capable enoug…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ガバメントAI 源内に関する「行政実務用RAG」の解説動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/genai/aff58345-cef0-433c-8b33-88217fe0b423)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-11-06T01:46:31+00:00`, fetched `2026-11-06T01:51:27+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: ガバメントAI 源内に関する「行政実務用RAG」の解説動画を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Usage metrics API adds code review details and addressed rate** — Score 5, observation — [Quelle](https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate)
   - Quelle: GitHub Changelog Atom / `rss`

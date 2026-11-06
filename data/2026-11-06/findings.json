@@ -145,6 +145,26 @@
     "id": "1f862beabce72e011166"
   },
   {
+    "title": "ガバメントAI 源内に関する「行政実務用RAG」の解説動画を掲載しました",
+    "url": "https://www.digital.go.jp/policies/genai/aff58345-cef0-433c-8b33-88217fe0b423",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-11-06T01:46:31+00:00",
+    "fetched_at": "2026-11-06T01:51:27+00:00",
+    "summary": "ガバメントAI 源内に関する「行政実務用RAG」の解説動画を掲載しました",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2b014b768c0770995266"
+  },
+  {
     "title": "Usage metrics API adds code review details and addressed rate",
     "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate",
     "source": "GitHub Changelog Atom",
