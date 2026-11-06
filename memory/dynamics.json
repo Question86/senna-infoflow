@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-06T22:16:29Z",
+  "generated_at": "2026-11-06T22:32:10Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 11,
       "strong": 17,
-      "watch": 7,
-      "quiet": 5
+      "watch": 8,
+      "quiet": 4
     },
     "bands_after_gate_recheck": {
       "krass": 1,
       "strong": 27,
-      "watch": 7,
-      "quiet": 5
+      "watch": 8,
+      "quiet": 4
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4364",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-06T10:29:56+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "security"
       ],
@@ -49,7 +49,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4295",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-06T06:54:56+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "ai",
         "security",
@@ -77,7 +77,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1442/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-11-02T00:00:00+00:00",
-      "age_days": 4.93,
+      "age_days": 4.94,
       "topics": [
         "ai",
         "security"
@@ -104,7 +104,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4385",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-06T13:41:18+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -128,7 +128,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4384",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-06T13:41:17+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "security"
@@ -153,7 +153,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4383",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-06T13:41:17+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -177,7 +177,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4035",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-06T13:40:55+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -201,7 +201,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1612",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-06T12:46:41+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "security"
       ],
@@ -225,7 +225,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4267",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-06T10:57:20+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "security"
       ],
@@ -249,7 +249,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3992",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-06T10:56:24+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "security"
       ],
@@ -273,7 +273,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4365",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-06T08:04:56+00:00",
-      "age_days": 0.59,
+      "age_days": 0.6,
       "topics": [
         "security"
       ],
@@ -297,7 +297,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1446/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-11-03T00:00:00+00:00",
-      "age_days": 3.93,
+      "age_days": 3.94,
       "topics": [
         "ai",
         "security"
@@ -323,7 +323,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1443/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-11-03T00:00:00+00:00",
-      "age_days": 3.93,
+      "age_days": 3.94,
       "topics": [
         "ai",
         "security"
@@ -349,7 +349,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1444/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-11-03T00:00:00+00:00",
-      "age_days": 3.93,
+      "age_days": 3.94,
       "topics": [
         "security"
       ],
@@ -374,7 +374,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4381",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-06T13:40:56+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "security"
@@ -401,7 +401,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4382",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-06T13:40:56+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -427,7 +427,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4032",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-06T13:15:14+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -453,7 +453,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3371",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-06T12:50:07+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -479,7 +479,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3749",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-06T12:48:20+00:00",
-      "age_days": 0.39,
+      "age_days": 0.41,
       "topics": [
         "security"
       ],
@@ -505,7 +505,7 @@
       "url": "https://openai.com/index/australian-universities-ai-native-graduates",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-05T17:00:00+00:00",
-      "age_days": 1.22,
+      "age_days": 1.23,
       "topics": [
         "ai"
       ],
@@ -531,7 +531,7 @@
       "url": "https://jvn.jp/vu/JVNVU90841469/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-06T09:30:00+09:00",
-      "age_days": 0.91,
+      "age_days": 0.92,
       "topics": [
         "security"
       ],
@@ -556,7 +556,7 @@
       "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-06T00:00:00+00:00",
-      "age_days": 0.93,
+      "age_days": 0.94,
       "topics": [
         "ai"
       ],
@@ -583,7 +583,7 @@
       "url": "https://e27.co/i-automated-my-entire-life-with-ai-agents-then-a-2-am-voice-note-exposed-the-lie-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-06T02:00:47+00:00",
-      "age_days": 0.84,
+      "age_days": 0.86,
       "topics": [
         "ai"
       ],
@@ -610,7 +610,7 @@
       "url": "https://e27.co/start-with-the-problem-not-the-token-what-wall-streets-tokenisation-push-means-for-southeast-asian-founders-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-06T03:00:12+00:00",
-      "age_days": 0.8,
+      "age_days": 0.81,
       "topics": [
         "ai",
         "macro"
@@ -639,7 +639,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 140.85,
+      "age_days": 140.86,
       "topics": [
         "ai"
       ],
@@ -658,7 +658,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 140.8d old signal",
+        "aging penalty -8.0 for 140.9d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -668,7 +668,7 @@
       "url": "https://www.heise.de/news/Schadcode-Attacken-auf-Cisco-UCS-Central-Software-und-Unified-CM-moeglich-11515138.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-06T11:11:00.000+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "security"
       ],
@@ -693,7 +693,7 @@
       "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-306241-1032_bits.html",
       "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
       "published_at": "2026-11-06T12:00:00+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "security"
       ],
@@ -718,7 +718,7 @@
       "url": "https://e27.co/u-mobile-opens-its-5g-advanced-sandbox-to-cradles-startups-but-the-cheques-are-not-part-of-the-deal-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-06T09:56:48+00:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [
         "ai"
       ],
@@ -741,11 +741,37 @@
       "summary": "Malaysia’s second 5G operator wants startups to do something telcos across the region have struggled to make happen: build for its network before anyone has agreed to pay for the result. U Mobile said on Friday that its Enterprise Innovation Platform (EIP) is deepening its collaboration with Cradle Fund, the governmen…"
     },
     {
+      "title": "Beyond code generation: A developer’s guide to agentic engineering",
+      "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
+      "source": "GitHub Blog Atom",
+      "published_at": "2026-11-06T22:15:59+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: code",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A developer’s guide to agentic engineering appeared first on The GitHub Blog ."
+    },
+    {
       "title": "M 6.1 - 156 km SE of Hasaki, Japan",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twg9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-06T10:54:51.040+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "ai",
         "disaster"
@@ -773,7 +799,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tweq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-06T02:46:31.121+00:00",
-      "age_days": 0.81,
+      "age_days": 0.82,
       "topics": [
         "disaster"
       ],
@@ -797,7 +823,7 @@
       "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-06T00:08:31+00:00",
-      "age_days": 0.92,
+      "age_days": 0.93,
       "topics": [],
       "dynamics_score": 13.0,
       "raw_band": "watch",
@@ -820,7 +846,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002931/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-05T23:41:46+00:00",
-      "age_days": 0.94,
+      "age_days": 0.95,
       "topics": [
         "ai",
         "security"
@@ -845,7 +871,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twfu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-06T08:31:16.040+00:00",
-      "age_days": 0.57,
+      "age_days": 0.58,
       "topics": [
         "disaster"
       ],
@@ -869,7 +895,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tweb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-06T01:53:40.040+00:00",
-      "age_days": 0.85,
+      "age_days": 0.86,
       "topics": [
         "disaster"
       ],
@@ -893,7 +919,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twdd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-06T00:36:04.040+00:00",
-      "age_days": 0.9,
+      "age_days": 0.91,
       "topics": [
         "disaster"
       ],
@@ -917,7 +943,7 @@
       "url": "https://e27.co/singapore-tops-a-new-commonwealth-ai-readiness-index-but-australias-results-show-where-the-real-gap-lies-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-06T04:10:49+00:00",
-      "age_days": 0.75,
+      "age_days": 0.76,
       "topics": [
         "ai"
       ],
@@ -943,7 +969,7 @@
       "url": "https://openai.com/index/cultfit-builds-with-codex",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-05T20:00:00+00:00",
-      "age_days": 1.09,
+      "age_days": 1.11,
       "topics": [
         "ai",
         "macro"
@@ -970,7 +996,7 @@
       "url": "https://e27.co/bitcoin-pump-and-dump-the-us75000-support-zone-will-decide-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-06T06:46:47+00:00",
-      "age_days": 0.65,
+      "age_days": 0.66,
       "topics": [
         "macro"
       ],
@@ -994,7 +1020,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261106-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-11-06T01:56:21+00:00",
-      "age_days": 0.85,
+      "age_days": 0.86,
       "topics": [
         "general"
       ],
@@ -1012,30 +1038,6 @@
         "high terms: 10"
       ],
       "summary": "古川大臣記者会見（令和8年11月6日）動画を掲載しました"
-    },
-    {
-      "title": "自己回帰生成モデルの熱力学を構築 ―大規模言語モデルに内在する「世界モデル」の定量的理解に向けて―",
-      "url": "https://www.t.u-tokyo.ac.jp/press/pr2026-11-06-001",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-06T11:53:33+00:00",
-      "age_days": 0.43,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "発表のポイント ◆ 大規模言語モデルからカルマンフィルタまで、過去の出力履歴を用いて次の出力を生成する「自己回帰生成モデル」を統一的に扱う熱力学理論を構築しました。 ◆ 出力を生成する過程にどの程度「一方向性」があるかを表す量（エントロピー生成）を効率的に推定する方法を示し、それを大規模言語モデルの解..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [kritisch] SignalWire FreeSWITCH: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
