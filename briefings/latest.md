@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-06T21:16:19+00:00_
+_Generiert: 2026-11-06T21:22:08+00:00_
 
 ## Kurzlage
 
-63 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Barracuda Networks Email Security Gateway und Web Application Firewall: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 21, observation).
+63 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Barracuda Networks Email Security Gateway und Web Application Firewall: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 21, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -317,3 +317,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `github_search_japan_twitter_trend_rss_tools` (github_search): HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /search/repositories?q=twitter+trend+rss+japan+pushed%3A%3E2025-01-01+stars%3A%3E5&sort=updated&order=desc&per_page=6 (Caused by NameResolutionError("HTTPSConnection(host='api.github.com', port=443): Failed to resolve 'api.github.com' ([Errno -5] No address associated with hostname)"))
