@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T03:15:49+00:00",
-  "run_id": "2026-11-06T03:15:49+00:00",
+  "generated_at": "2026-11-06T03:23:23+00:00",
+  "run_id": "2026-11-06T03:23:23+00:00",
   "date": "2026-11-06",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 16
+      "configured_public_sources_only": 17
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 16,
-    "displayed_findings": 16,
+    "new_relevant_findings": 1,
+    "today_file_total": 17,
+    "displayed_findings": 17,
     "high": 0,
     "medium": 3,
-    "observe": 13,
+    "observe": 14,
     "source_errors": 0
   },
   "sections": {
@@ -338,6 +338,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "1f862beabce72e011166"
+      },
+      {
+        "title": "浦安市が「さくらのクラウド」採用、ガバメントクラウド移行で自治体初",
+        "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12156/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-05T20:28:37+00:00",
+        "fetched_at": "2026-11-06T03:22:52+00:00",
+        "summary": "千葉県浦安市はガバメントクラウドに移行する業務システムで、さくらインターネットの「さくらのクラウド」を採用する方針を固めた。2026年11月下旬にも契約を締結する。ガバメントクラウド提供事業者として認定された「さくらのクラウド」を採用する自治体は全国初となる。",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f9bf42443cf1992c8e55"
       },
       {
         "title": "古川大臣記者会見（令和8年11月6日）動画を掲載しました",
@@ -775,6 +796,27 @@
       "id": "1f862beabce72e011166"
     },
     {
+      "title": "浦安市が「さくらのクラウド」採用、ガバメントクラウド移行で自治体初",
+      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12156/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-05T20:28:37+00:00",
+      "fetched_at": "2026-11-06T03:22:52+00:00",
+      "summary": "千葉県浦安市はガバメントクラウドに移行する業務システムで、さくらインターネットの「さくらのクラウド」を採用する方針を固めた。2026年11月下旬にも契約を締結する。ガバメントクラウド提供事業者として認定された「さくらのクラウド」を採用する自治体は全国初となる。",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f9bf42443cf1992c8e55"
+    },
+    {
       "title": "古川大臣記者会見（令和8年11月6日）動画を掲載しました",
       "url": "https://www.digital.go.jp/speech/minister-261106-01",
       "source": "Japan Digital Agency News RSS",
@@ -899,7 +941,29 @@
       "id": "a63ff478938475f0c2c6"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "浦安市が「さくらのクラウド」採用、ガバメントクラウド移行で自治体初",
+      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12156/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-05T20:28:37+00:00",
+      "fetched_at": "2026-11-06T03:22:52+00:00",
+      "summary": "千葉県浦安市はガバメントクラウドに移行する業務システムで、さくらインターネットの「さくらのクラウド」を採用する方針を固めた。2026年11月下旬にも契約を締結する。ガバメントクラウド提供事業者として認定された「さくらのクラウド」を採用する自治体は全国初となる。",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f9bf42443cf1992c8e55"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
