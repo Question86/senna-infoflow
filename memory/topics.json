@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-06T01:27:01+00:00",
+  "generated_at": "2026-11-06T01:41:30+00:00",
   "topics": {
     "security": [
       {
@@ -49,6 +49,13 @@
         "published_at": "2026-11-06T00:36:04.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twdd"
+      },
+      {
+        "title": "ソニー、初代ウォークマン付属ヘッドフォンを再現。USB-C化した「MDR-3R」",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-06T00:14:47+00:00",
+        "relevance_score": 5,
+        "url": "https://av.watch.impress.co.jp/docs/news/2153686.html"
       }
     ],
     "github": [
