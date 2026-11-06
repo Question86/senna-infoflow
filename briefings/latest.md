@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-06T06:00:39+00:00_
+_Generiert: 2026-11-06T06:22:55+00:00_
 
 ## Kurzlage
 
-22 neue relevante Treffer. Stärkstes Signal: „I automated my entire life with AI agents. Then a 2 am voice note exposed the lie“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+22 neue relevante Treffer. Stärkstes Signal: „I automated my entire life with AI agents. Then a 2 am voice note exposed the lie“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -233,8 +233,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `e27_asia_startups_feed` (rss): HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)
-- `hn_release_security_burst` (hackernews): HTTPSConnectionPool(host='hn.algolia.com', port=443): Read timed out. (read timeout=8)
