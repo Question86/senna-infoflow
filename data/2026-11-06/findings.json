@@ -1,0 +1,24 @@
+[
+  {
+    "title": "OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表 Firefoxの未知の脆弱性81件を発見",
+    "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002931/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-11-05T23:41:46+00:00",
+    "fetched_at": "2026-11-06T00:01:51+00:00",
+    "summary": "米OpenAIは11月5日（現地時間）、サイバーセキュリティに特化したAIモデル「GPT-6 Cyber」を発表した。汎用モデル「GPT-6 Astra」をベースに、脆弱性の発見や攻撃手法の検証などの能力を強化したモデルで、同社の防御者向けプログラム「Daybreak Red」の承認ユーザーに限定して提供する。 GPT-6 Astraは、9月に発表され...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry",
+      "OpenAI"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a743225cc609cba8e7a2"
+  }
+]

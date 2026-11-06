@@ -1,67 +1,18 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-05T23:56:24+00:00_
+_Generated: 2026-11-06T00:02:24+00:00_
 
 ## Status
 - status: `normal`
-- findings: `107`
+- findings: `1`
 
 ## Top Signals
 
-### 1. Updates | ReliefWeb
-- source: ReliefWeb Mindanao Recovery Watch
-- score: `23`
-- published: `2026-11-05T13:13:28+00:00`
-- url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
-- summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
-
-### 2. A rare strike in Taiwan exposes labor unrest beneath the global AI rush
-- source: Rest of World Global Tech Feed
-- score: `23`
-- published: `2026-11-05T11:00:00+00:00`
-- url: https://restofworld.org/2026/taiwan-labor-strike-ai-profits/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
-- summary: Micron Technology union representatives gesture during a protest outside of the Micron facility demanding greater profit shares and better bonuses, in Taoyuan on October 22, 2026. Eleven workers at a Micron Technology plant in Taiwan went on strike October 22…
-
-### 3. Equal spend: why AI budgets need a security twin
-- source: e27 Asia Startup and Tech Feed
-- score: `20`
-- published: `2026-11-05T06:05:36+00:00`
-- url: https://e27.co/equal-spend-why-ai-budgets-need-a-security-twin-20261105/
-- summary: The last few weeks have had a pattern. Every week, another company announces an AI agent, an AI assistant or an AI workflow. Every week, another headline tells us something has been breached, leaked or drained. Those two streams of news are connected. On 30 O…
-
-### 4. The frontier AI money is getting picky. Southeast Asia’s AI founders should price that in now
-- source: e27 Asia Startup and Tech Feed
-- score: `19`
-- published: `2026-11-05T09:28:53+00:00`
-- url: https://e27.co/the-frontier-ai-money-is-getting-picky-southeast-asias-ai-founders-should-price-that-in-now-20261105/
-- summary: For two years, the rules of AI fundraising were simple: whoever asked for the biggest number got it. Last week, that stopped being true at the very top of the market. OpenAI cut its fundraising target by US$10 billion to US$20 billion as falling tech stocks a…
-
-### 5. Chopin
+### 1. OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表 Firefoxの未知の脆弱性81件を発見
 - source: Hatena Bookmark Hotentry IT
-- score: `13`
-- published: `2026-09-10T10:10:12+00:00`
-- url: https://githubnext.com/projects/chopin/
-- summary: Chopin A real-time multiplayer, agentic planning environment What's it for? Exploring how we can make team planning with agents feel like a truly collaborative experience, with less cognitive load and more capacity for decision making and deep research Share…
-
-### 6. NVIDIA/auto-ontology
-- source: GitHub Trending RSS All Languages Daily
-- score: `13`
-- published: `None`
-- url: https://github.com/NVIDIA/auto-ontology
-- summary: Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. Auto Ontology Agents can retrieve docu…
-
-### 7. Secret scanning upgrades detectors, adds SpaceX as partner
-- source: GitHub Changelog Atom
 - score: `12`
-- published: `2026-11-05T15:48:50+00:00`
-- url: https://github.blog/changelog/2026-11-05-secret-scanning-upgrades-detectors-adds-spacex-as-partner
-- summary: This update expands secret scanning’s detection coverage: New partner: SpaceX is now a secret scanning partner. New detector: GitHub now detects starlink_public_api_v2_secret. Upgraded detectors: Alibaba, AWS, Google, OpenVSX, Pydantic Services,… The post Sec…
-
-### 8. Multiples vulnérabilités dans Roundcube (09 août 2024)
-- source: CERT-FR Alertes
-- score: `12`
-- published: `2024-08-09T00:00:00+00:00`
-- url: https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-010/
-- summary: Le 4 août 2024, Roundcube a publié des correctifs concernant les vulnérabilités critiques CVE-2024-42008 et CVE-2024-42009 affectant son serveur de courriel. Ces vulnérabilités permettent des injections de code indirectes à distance (XSS) qui peuvent, par exe…
+- published: `2026-11-05T23:41:46+00:00`
+- url: https://www.itmedia.co.jp/news/article/2611/06/2000002931/
+- summary: 米OpenAIは11月5日（現地時間）、サイバーセキュリティに特化したAIモデル「GPT-6 Cyber」を発表した。汎用モデル「GPT-6 Astra」をベースに、脆弱性の発見や攻撃手法の検証などの能力を強化したモデルで、同社の防御者向けプログラム「Daybreak Red」の承認ユーザーに限定して提供する。 GPT-6 Astraは、9月に発表され...
 
 END OF DOCUMENT
