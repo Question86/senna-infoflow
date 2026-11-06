@@ -1,18 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-06T01:57:29+00:00",
+  "generated_at": "2026-11-06T02:07:07+00:00",
   "topics": {
-    "security": [
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月05日）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-06T09:30:00+09:00",
-        "relevance_score": 16,
-        "url": "https://jvn.jp/vu/JVNVU90841469/"
-      }
-    ],
     "ai": [
+      {
+        "title": "I automated my entire life with AI agents. Then a 2 am voice note exposed the lie",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-06T02:00:47+00:00",
+        "relevance_score": 19,
+        "url": "https://e27.co/i-automated-my-entire-life-with-ai-agents-then-a-2-am-voice-note-exposed-the-lie-20261101/"
+      },
       {
         "title": "Cult.fit builds operational muscle with Codex",
         "source": "OpenAI News RSS",
@@ -47,6 +45,15 @@
         "published_at": "2026-11-06T00:19:07+00:00",
         "relevance_score": 5,
         "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate"
+      }
+    ],
+    "security": [
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月05日）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-06T09:30:00+09:00",
+        "relevance_score": 16,
+        "url": "https://jvn.jp/vu/JVNVU90841469/"
       }
     ],
     "general": [
