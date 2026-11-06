@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-06T01:18:49Z",
+  "generated_at": "2026-11-06T01:32:06Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory（2026年11月05日）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU90841469/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-06T09:30:00+09:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 139.97,
+      "age_days": 139.98,
       "topics": [
         "ai"
       ],
@@ -69,7 +69,7 @@
       "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-06T00:08:31+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [],
       "dynamics_score": 13.0,
       "raw_band": "watch",
@@ -92,7 +92,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002931/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-05T23:41:46+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "security"
@@ -117,7 +117,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twdd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-06T00:36:04.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -141,7 +141,7 @@
       "url": "https://openai.com/index/cultfit-builds-with-codex",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-05T20:00:00+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai",
         "macro"
@@ -168,7 +168,7 @@
       "url": "https://e27.co/taiwans-envoy-says-its-startups-are-capable-enough-to-go-global-with-singapore-as-the-first-step-20261105/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-06T01:00:41+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai"
       ],
@@ -194,7 +194,7 @@
       "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-06T00:19:07+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "macro"
@@ -221,7 +221,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 138.94,
+      "age_days": 138.95,
       "topics": [
         "general"
       ],
@@ -246,7 +246,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 138.94,
+      "age_days": 138.95,
       "topics": [
         "general"
       ],
@@ -271,7 +271,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 138.94,
+      "age_days": 138.95,
       "topics": [
         "ai"
       ],
