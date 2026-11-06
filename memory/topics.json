@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-06T12:50:13+00:00",
+  "generated_at": "2026-11-06T12:55:28+00:00",
   "topics": {
     "ai": [
       {
@@ -89,6 +89,20 @@
         "published_at": "2026-11-06T09:30:00+09:00",
         "relevance_score": 16,
         "url": "https://jvn.jp/vu/JVNVU90841469/"
+      },
+      {
+        "title": "[UPDATE] [mittel] Keycloak: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-06T12:50:07+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3371"
+      },
+      {
+        "title": "[UPDATE] [mittel] Keycloak: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-06T12:48:20+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3749"
       },
       {
         "title": "[UPDATE] [hoch] Keycloak: Mehrere Schwachstellen",
