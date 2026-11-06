@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-06T04:07:35+00:00",
+  "generated_at": "2026-11-06T04:19:05+00:00",
   "topics": {
     "ai": [
       {
@@ -17,6 +17,13 @@
         "published_at": "2026-11-05T01:53:25+00:00",
         "relevance_score": 15,
         "url": "https://developers.freee.co.jp/entry/lean-formal-verification-ai-agent-guardrails"
+      },
+      {
+        "title": "Singapore tops a new Commonwealth AI readiness index, but Australia’s results show where the real gap lies",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-06T04:10:49+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/singapore-tops-a-new-commonwealth-ai-readiness-index-but-australias-results-show-where-the-real-gap-lies-20261106/"
       },
       {
         "title": "Cult.fit builds operational muscle with Codex",
@@ -66,13 +73,6 @@
         "published_at": "2026-11-06T01:46:31+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/policies/genai/aff58345-cef0-433c-8b33-88217fe0b423"
-      },
-      {
-        "title": "Usage metrics API adds code review details and addressed rate",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-11-06T00:19:07+00:00",
-        "relevance_score": 5,
-        "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate"
       }
     ],
     "security": [
@@ -105,6 +105,15 @@
         "published_at": "2026-11-06T00:08:31+00:00",
         "relevance_score": 5,
         "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "Singapore tops a new Commonwealth AI readiness index, but Australia’s results show where the real gap lies",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-06T04:10:49+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/singapore-tops-a-new-commonwealth-ai-readiness-index-but-australias-results-show-where-the-real-gap-lies-20261106/"
       }
     ],
     "economy": [

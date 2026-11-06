@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-06T04:07:35+00:00_
+_Generiert: 2026-11-06T04:19:05+00:00_
 
 ## Kurzlage
 
-19 neue relevante Treffer. Stärkstes Signal: „I automated my entire life with AI agents. Then a 2 am voice note exposed the lie“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
+20 neue relevante Treffer. Stärkstes Signal: „I automated my entire life with AI agents. Then a 2 am voice note exposed the lie“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -75,6 +75,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); developer (+2.5); GitHub (+2.0); agent (+2.0); recent (+1.0)
   - Kurz: こんにちは。エンジニアの kyasu です（GitHub / LinkedIn）。 業務ルールが十数条、数十条と増えると、AI エージェントは悪意なく判断を誤ります。同じ依頼を同じように出しても、1 回目は正しく返金したのに、2 回目は条件を一つ読み落とす。業務システムとしては、これが一番困ります。 そこで、業務ルールを Lean の...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Singapore tops a new Commonwealth AI readiness index, but Australia’s results show where the real gap lies** — Score 14, observation — [Quelle](https://e27.co/singapore-tops-a-new-commonwealth-ai-readiness-index-but-australias-results-show-where-the-real-gap-lies-20261106/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-06T04:10:49+00:00`, fetched `2026-11-06T04:18:38+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region australia: Australia (+2.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Young Singaporeans are the best prepared in the Commonwealth to ride the AI wave, according to a new index. The more useful lesson for Southeast Asia, however, sits with Australia, the country in third place: having the technology is the easy part. The Ayre Index, launched this week at the Commonwealth Heads of Government Meeting […] The post Singapore tops a new Commonwealth AI readiness index, but Australia’s resu…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Cult.fit builds operational muscle with Codex** — Score 14, observation — [Quelle](https://openai.com/index/cultfit-builds-with-codex)
   - Quelle: OpenAI News RSS / `rss`
