@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-06T10:53:51+00:00_
+_Generated: 2026-11-06T10:59:14+00:00_
 
 ## Status
 - status: `normal`
-- findings: `33`
+- findings: `35`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-11-06T10:53:51+00:00_
 - url: https://jvn.jp/vu/JVNVU90841469/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 4. 定理証明ガードレールで AI エージェントに業務ルールを守らせる - freee Developers Hub
-- source: Hatena Bookmark Hotentry IT
+### 4. M 6.1 - 156 km SE of Hasaki, Japan
+- source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
-- published: `2026-11-05T01:53:25+00:00`
-- url: https://developers.freee.co.jp/entry/lean-formal-verification-ai-agent-guardrails
-- summary: こんにちは。エンジニアの kyasu です（GitHub / LinkedIn）。 業務ルールが十数条、数十条と増えると、AI エージェントは悪意なく判断を誤ります。同じ依頼を同じように出しても、1 回目は正しく返金したのに、2 回目は条件を一つ読み落とす。業務システムとしては、これが一番困ります。 そこで、業務ルールを Lean の...
+- published: `2026-11-06T10:54:51.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000twg9
+- summary: Time 2026-11-06 10:39:24 UTC 2026-11-06 10:39:24 UTC at epicenter Location 34.924°N 142.243°E Depth 10.00 km (6.21 mi)
 
 ### 5. Australian universities are creating AI-native graduates
 - source: OpenAI News RSS
