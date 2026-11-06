@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-06T13:13:07+00:00",
+  "generated_at": "2026-11-06T13:18:26+00:00",
   "topics": {
     "ai": [
       {
@@ -91,6 +91,13 @@
         "url": "https://jvn.jp/vu/JVNVU90841469/"
       },
       {
+        "title": "[UPDATE] [hoch] GIMP: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-06T13:15:14+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4032"
+      },
+      {
         "title": "[UPDATE] [mittel] Keycloak: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-06T12:50:07+00:00",
@@ -138,13 +145,6 @@
         "published_at": "2026-11-06T08:04:56+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4365"
-      },
-      {
-        "title": "Schadcode-Attacken auf Cisco UCS Central Software und Unified CM möglich",
-        "source": "heise Security Alerts",
-        "published_at": "2026-11-06T11:11:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Schadcode-Attacken-auf-Cisco-UCS-Central-Software-und-Unified-CM-moeglich-11515138.html"
       }
     ],
     "general": [
