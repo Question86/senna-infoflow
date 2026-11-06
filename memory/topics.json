@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-06T07:58:06+00:00",
+  "generated_at": "2026-11-06T08:07:38+00:00",
   "topics": {
     "ai": [
       {
@@ -89,6 +89,13 @@
         "published_at": "2026-11-06T09:30:00+09:00",
         "relevance_score": 16,
         "url": "https://jvn.jp/vu/JVNVU90841469/"
+      },
+      {
+        "title": "[NEU] [hoch] OpenSSH: Schwachstelle ermöglicht Erlangen von Administratorrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-06T08:04:56+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4365"
       }
     ],
     "github": [
@@ -122,6 +129,13 @@
       }
     ],
     "geopolitics": [
+      {
+        "title": "[NEU] [hoch] OpenSSH: Schwachstelle ermöglicht Erlangen von Administratorrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-06T08:04:56+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4365"
+      },
       {
         "title": "Singapore tops a new Commonwealth AI readiness index, but Australia’s results show where the real gap lies",
         "source": "e27 Asia Startup and Tech Feed",
