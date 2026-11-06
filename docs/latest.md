@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-06T03:41:33+00:00_
+_Generiert: 2026-11-06T03:46:58+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „I automated my entire life with AI agents. Then a 2 am voice note exposed the lie“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
+19 neue relevante Treffer. Stärkstes Signal: „I automated my entire life with AI agents. Then a 2 am voice note exposed the lie“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
 
 ## Priorität Hoch
 
@@ -105,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-11-06 00:02:25 UTC 2026-11-06 00:02:25 UTC at epicenter Location 5.917°S 146.662°E Depth 97.80 km (60.77 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Malaysia carried Southeast Asia’s IPO market in 2026. The rest of the region went quiet** — Score 8, observation — [Quelle](https://e27.co/malaysia-carried-southeast-asias-ipo-market-in-2026-the-rest-of-the-region-went-quiet-20261106/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-06T03:41:07+00:00`, fetched `2026-11-06T03:46:27+00:00`
+  - Treffer: APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)
+  - Kurz: Strip Malaysia out of the numbers, and Southeast Asia’s public markets in 2026 look less like a listing venue and more like a waiting room. Southeast Asia recorded 56 initial public offerings (IPOs) raising US$3 billion in the first nine months of 2026, according to EY data released on Thursday. That is down from 76 […] The post Malaysia carried Southeast Asia’s IPO market in 2026. The rest of the region went quiet…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Taiwan’s envoy says its startups are capable enough to go global, with Singapore as the first step** — Score 7, observation — [Quelle](https://e27.co/taiwans-envoy-says-its-startups-are-capable-enough-to-go-global-with-singapore-as-the-first-step-20261105/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-06T01:00:41+00:00`, fetched `2026-11-06T01:14:26+00:00`
