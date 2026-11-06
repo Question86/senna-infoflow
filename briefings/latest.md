@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-06T13:00:53+00:00_
+_Generiert: 2026-11-06T13:13:07+00:00_
 
 ## Kurzlage
 
-43 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Barracuda Networks Email Security Gateway und Web Application Firewall: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 21, observation).
+44 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Barracuda Networks Email Security Gateway und Web Application Firewall: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 21, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -280,14 +280,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: ガバメントAI 源内に関する「行政実務用RAG」の解説動画を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **セキュリティ啓発団体に不正アクセス 個人情報最大1.5万件漏えいか** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2611/06/2000002978/)
+- **ドコモ不正アクセス、「料金プラン」などの情報も流出 29.5万件** — Score 5, observation — [Quelle](https://www.watch.impress.co.jp/docs/news/2154508.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-06T08:41:42+00:00`, fetched `2026-11-06T11:08:27+00:00`
+  - Zeit: published `2026-11-06T11:22:32+00:00`, fetched `2026-11-06T13:12:39+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 情報セキュリティの普及啓発に向けて活動する日本ネットワークセキュリティ協会（JNSA）は11月6日、同協会が運営する「情報セキュリティ理解度チェックサービス」が第三者による不正アクセスを受け、最大1万5128件の個人情報が漏えいした可能性があると発表した。利用者のIDやハッシュ化したパスワードなどが漏えいした...
+  - Kurz: ドコモ不正アクセス、「料金プラン」などの情報も流出 29.5万件
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
