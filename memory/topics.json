@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-06T03:36:00+00:00",
+  "generated_at": "2026-11-06T03:41:33+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-11-06T02:00:47+00:00",
         "relevance_score": 19,
         "url": "https://e27.co/i-automated-my-entire-life-with-ai-agents-then-a-2-am-voice-note-exposed-the-lie-20261101/"
+      },
+      {
+        "title": "定理証明ガードレールで AI エージェントに業務ルールを守らせる - freee Developers Hub",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-05T01:53:25+00:00",
+        "relevance_score": 15,
+        "url": "https://developers.freee.co.jp/entry/lean-formal-verification-ai-agent-guardrails"
       },
       {
         "title": "Cult.fit builds operational muscle with Codex",
@@ -68,6 +75,29 @@
         "published_at": "2026-11-06T09:30:00+09:00",
         "relevance_score": 16,
         "url": "https://jvn.jp/vu/JVNVU90841469/"
+      }
+    ],
+    "github": [
+      {
+        "title": "定理証明ガードレールで AI エージェントに業務ルールを守らせる - freee Developers Hub",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-05T01:53:25+00:00",
+        "relevance_score": 15,
+        "url": "https://developers.freee.co.jp/entry/lean-formal-verification-ai-agent-guardrails"
+      },
+      {
+        "title": "Usage metrics API adds code review details and addressed rate",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-11-06T00:19:07+00:00",
+        "relevance_score": 5,
+        "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate"
+      },
+      {
+        "title": "Usage metrics API flags telemetry and version gaps",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-11-06T00:08:31+00:00",
+        "relevance_score": 5,
+        "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps"
       }
     ],
     "economy": [
@@ -135,22 +165,6 @@
         "published_at": "2026-11-05T06:16:47+00:00",
         "relevance_score": 5,
         "url": "https://speakerdeck.com/3l4l5/techniques-for-habit-formation"
-      }
-    ],
-    "github": [
-      {
-        "title": "Usage metrics API adds code review details and addressed rate",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-11-06T00:19:07+00:00",
-        "relevance_score": 5,
-        "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate"
-      },
-      {
-        "title": "Usage metrics API flags telemetry and version gaps",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-11-06T00:08:31+00:00",
-        "relevance_score": 5,
-        "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps"
       }
     ]
   }

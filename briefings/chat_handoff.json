@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-06T03:36:00+00:00",
+  "generated_at": "2026-11-06T03:41:33+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 17,
-    "displayed_findings": 17,
+    "new_relevant_findings": 1,
+    "today_file_total": 18,
+    "displayed_findings": 18,
     "high": 0,
-    "medium": 3,
+    "medium": 4,
     "observe": 14
   },
   "source_errors_count": 0,
@@ -32,6 +32,16 @@
       "relevance_score": 16,
       "url": "https://jvn.jp/vu/JVNVU90841469/",
       "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+      "section": "medium"
+    },
+    {
+      "title": "定理証明ガードレールで AI エージェントに業務ルールを守らせる - freee Developers Hub",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-05T01:53:25+00:00",
+      "relevance_score": 15,
+      "url": "https://developers.freee.co.jp/entry/lean-formal-verification-ai-agent-guardrails",
+      "summary": "こんにちは。エンジニアの kyasu です（GitHub / LinkedIn）。 業務ルールが十数条、数十条と増えると、AI エージェントは悪意なく判断を誤ります。同じ依頼を同じように出しても、1 回目は正しく返金したのに、2 回目は条件を一つ読み落とす。業務システムとしては、これが一番困ります。 そこで、業務ルールを Lean の...",
       "section": "medium"
     },
     {

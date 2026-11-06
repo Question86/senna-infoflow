@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-06T03:36:00+00:00_
+_Generiert: 2026-11-06T03:41:33+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „I automated my entire life with AI agents. Then a 2 am voice note exposed the lie“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
+18 neue relevante Treffer. Stärkstes Signal: „I automated my entire life with AI agents. Then a 2 am voice note exposed the lie“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
 
 ## Priorität Hoch
 
@@ -30,6 +30,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **定理証明ガードレールで AI エージェントに業務ルールを守らせる - freee Developers Hub** — Score 15, observation — [Quelle](https://developers.freee.co.jp/entry/lean-formal-verification-ai-agent-guardrails)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-05T01:53:25+00:00`, fetched `2026-11-06T03:40:59+00:00`
+  - Treffer: agent, AI/KI, developer, GitHub, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); developer (+2.5); GitHub (+2.0); agent (+2.0); recent (+1.0)
+  - Kurz: こんにちは。エンジニアの kyasu です（GitHub / LinkedIn）。 業務ルールが十数条、数十条と増えると、AI エージェントは悪意なく判断を誤ります。同じ依頼を同じように出しても、1 回目は正しく返金したのに、2 回目は条件を一つ読み落とす。業務システムとしては、これが一番困ります。 そこで、業務ルールを Lean の...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Cult.fit builds operational muscle with Codex** — Score 14, observation — [Quelle](https://openai.com/index/cultfit-builds-with-codex)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-11-05T20:00:00+00:00`, fetched `2026-11-06T01:14:26+00:00`

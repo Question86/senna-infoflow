@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-06T03:36:00+00:00_
+_Generated: 2026-11-06T03:41:33+00:00_
 
 ## Status
 - status: `normal`
-- findings: `17`
+- findings: `18`
 
 ## Top Signals
 
@@ -22,35 +22,42 @@ _Generated: 2026-11-06T03:36:00+00:00_
 - url: https://jvn.jp/vu/JVNVU90841469/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 3. Cult.fit builds operational muscle with Codex
+### 3. 定理証明ガードレールで AI エージェントに業務ルールを守らせる - freee Developers Hub
+- source: Hatena Bookmark Hotentry IT
+- score: `15`
+- published: `2026-11-05T01:53:25+00:00`
+- url: https://developers.freee.co.jp/entry/lean-formal-verification-ai-agent-guardrails
+- summary: こんにちは。エンジニアの kyasu です（GitHub / LinkedIn）。 業務ルールが十数条、数十条と増えると、AI エージェントは悪意なく判断を誤ります。同じ依頼を同じように出しても、1 回目は正しく返金したのに、2 回目は条件を一つ読み落とす。業務システムとしては、これが一番困ります。 そこで、業務ルールを Lean の...
+
+### 4. Cult.fit builds operational muscle with Codex
 - source: OpenAI News RSS
 - score: `14`
 - published: `2026-11-05T20:00:00+00:00`
 - url: https://openai.com/index/cultfit-builds-with-codex
 - summary: Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.
 
-### 4. Australian universities are creating AI-native graduates
+### 5. Australian universities are creating AI-native graduates
 - source: OpenAI News RSS
 - score: `13`
 - published: `2026-11-05T17:00:00+00:00`
 - url: https://openai.com/index/australian-universities-ai-native-graduates
 - summary: Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.
 
-### 5. OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表 Firefoxの未知の脆弱性81件を発見
+### 6. OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表 Firefoxの未知の脆弱性81件を発見
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-11-05T23:41:46+00:00`
 - url: https://www.itmedia.co.jp/news/article/2611/06/2000002931/
 - summary: 米OpenAIは11月5日（現地時間）、サイバーセキュリティに特化したAIモデル「GPT-6 Cyber」を発表した。汎用モデル「GPT-6 Astra」をベースに、脆弱性の発見や攻撃手法の検証などの能力を強化したモデルで、同社の防御者向けプログラム「Daybreak Red」の承認ユーザーに限定して提供する。 GPT-6 Astraは、9月に発表され...
 
-### 6. Start with the problem, not the token: What Wall Street’s tokenisation push means for Southeast Asian founders
+### 7. Start with the problem, not the token: What Wall Street’s tokenisation push means for Southeast Asian founders
 - source: e27 Asia Startup and Tech Feed
 - score: `11`
 - published: `2026-11-06T03:00:12+00:00`
 - url: https://e27.co/start-with-the-problem-not-the-token-what-wall-streets-tokenisation-push-means-for-southeast-asian-founders-20261101/
 - summary: During five weeks in the United States, I spent much of my time in New York exploring the intersection of blockchain, finance, and emerging technology. I attended Avalanche Summit, spoke about stablecoins for emerging markets during UN Blockchain Week, and ob…
 
-### 7. M 4.7 - 139 km SSE of False Pass, Alaska
+### 8. M 4.7 - 139 km SSE of False Pass, Alaska
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-11-06T02:46:31.121+00:00`
