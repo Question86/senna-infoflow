@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-06T01:00:59+00:00_
+_Generiert: 2026-11-06T01:14:56+00:00_
 
 ## Kurzlage
 
-5 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年11月05日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+7 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年11月05日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 ## Priorität Hoch
 
@@ -21,6 +21,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Cult.fit builds operational muscle with Codex** — Score 14, observation — [Quelle](https://openai.com/index/cultfit-builds-with-codex)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-11-05T20:00:00+00:00`, fetched `2026-11-06T01:14:26+00:00`
+  - Treffer: OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0)
+  - Kurz: Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -42,6 +51,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-11-06 00:02:25 UTC 2026-11-06 00:02:25 UTC at epicenter Location 5.917°S 146.662°E Depth 97.80 km (60.77 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Taiwan’s envoy says its startups are capable enough to go global, with Singapore as the first step** — Score 7, observation — [Quelle](https://e27.co/taiwans-envoy-says-its-startups-are-capable-enough-to-go-global-with-singapore-as-the-first-step-20261105/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-06T01:00:41+00:00`, fetched `2026-11-06T01:14:26+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: SINGAPORE: The aisles around the Taiwan Pavilion at SWITCH 2026 were busy. At Booth Q01 of Sands Expo and Convention Centre, 33 Taiwanese startups spent three days, from 27 to 29 October, meeting visitors, investors and potential partners from across the region. Among the visitors was Dr Tung Chen-yuan, Representative of the Taipei Representative Office […] The post Taiwan’s envoy says its startups are capable enoug…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Usage metrics API adds code review details and addressed rate** — Score 5, observation — [Quelle](https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-11-06T00:19:07+00:00`, fetched `2026-11-06T00:33:28+00:00`
@@ -64,6 +82,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Empfehlungen
 
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 
