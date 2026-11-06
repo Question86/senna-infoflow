@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-06T17:11:44+00:00",
+  "generated_at": "2026-11-06T17:23:27+00:00",
   "topics": {
     "ai": [
       {
@@ -205,18 +205,18 @@
         "url": "https://www.digital.go.jp/speech/minister-261106-01"
       },
       {
+        "title": "[破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-06T16:49:21+00:00",
+        "relevance_score": 5,
+        "url": "https://zenn.dev/xin9le/articles/9a1cf8e10494d6"
+      },
+      {
         "title": "ドコモ不正アクセス、「料金プラン」などの情報も流出 29.5万件",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-11-06T11:22:32+00:00",
         "relevance_score": 5,
         "url": "https://www.watch.impress.co.jp/docs/news/2154508.html"
-      },
-      {
-        "title": "セキュリティ啓発団体に不正アクセス 個人情報最大1.5万件漏えいか",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-06T08:41:42+00:00",
-        "relevance_score": 5,
-        "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002978/"
       }
     ],
     "github": [
