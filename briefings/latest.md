@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-06T12:25:27+00:00_
+_Generiert: 2026-11-06T12:32:19+00:00_
 
 ## Kurzlage
 
@@ -33,10 +33,10 @@ _Generiert: 2026-11-06T12:25:27+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in France
-- **GDACS: Green earthquake (Magnitude 6.1M, Depth:10km) in Off East Coast Of Honshu, Japan 06/11/2026 10:39 UTC, [unknown].** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1575911)
+- **GDACS: Green earthquake (Magnitude 6.1M, Depth:29km) in Off East Coast Of Honshu, Japan 06/11/2026 10:39 UTC, [unknown].** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1575911)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.1M, Depth:10km) in Off East Coast Of Honshu, Japan 06/11/2026 10:39 UTC, [unknown].
+  - Kurz: Green earthquake (Magnitude 6.1M, Depth:29km) in Off East Coast Of Honshu, Japan 06/11/2026 10:39 UTC, [unknown].
 - **GDACS: Green notification for tropical cyclone THIRTYONE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001347)
   - Quelle: GDACS
   - Zeit: ``
