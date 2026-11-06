@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T08:07:38+00:00",
-  "run_id": "2026-11-06T08:07:38+00:00",
+  "generated_at": "2026-11-06T08:20:34+00:00",
+  "run_id": "2026-11-06T08:20:34+00:00",
   "date": "2026-11-06",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 27,
     "displayed_findings": 27,
     "high": 0,
@@ -1383,31 +1383,7 @@
       "id": "a63ff478938475f0c2c6"
     }
   ],
-  "new_findings": [
-    {
-      "title": "[NEU] [hoch] OpenSSH: Schwachstelle ermöglicht Erlangen von Administratorrechten",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4365",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-11-06T08:04:56+00:00",
-      "fetched_at": "2026-11-06T08:07:08+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in OpenSSH (in Kombination mit musl libc und ohne PAM) ausnutzen, um Administratorrechte zu erlangen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2663986c2170b28d117c"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
