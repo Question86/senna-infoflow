@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-06T23:26:45+00:00_
+_Generiert: 2026-11-06T23:37:27+00:00_
 
 ## Kurzlage
 
-67 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Barracuda Networks Email Security Gateway und Web Application Firewall: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 21, observation).
+68 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Barracuda Networks Email Security Gateway und Web Application Firewall: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 21, observation).
 
 ## Priorität Hoch
 
