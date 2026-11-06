@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-06T08:28:19+00:00_
+_Generiert: 2026-11-06T08:34:32+00:00_
 
 ## Kurzlage
 
-27 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Barracuda Networks Email Security Gateway und Web Application Firewall: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 21, observation).
+28 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Barracuda Networks Email Security Gateway und Web Application Firewall: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 21, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -164,6 +164,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: ShakeMap - III Time 2026-11-06 02:35:25 UTC 2026-11-06 02:35:25 UTC at epicenter Location 53.635°N 162.950°W Depth 27.96 km (17.38 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 4.5 - 87 km N of Isangel, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000twfu)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-06T08:31:16.040+00:00`, fetched `2026-11-06T08:34:03+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-11-06 08:14:08 UTC 2026-11-06 08:14:08 UTC at epicenter Location 18.754°S 169.264°E Depth 246.52 km (153.18 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.6 - 58 km WNW of Isangel, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tweb)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-06T01:53:40.040+00:00`, fetched `2026-11-06T01:57:00+00:00`
@@ -172,15 +181,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-11-06 01:37:39 UTC 2026-11-06 01:37:39 UTC at epicenter Location 19.365°S 168.753°E Depth 83.27 km (51.74 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.6 - 96 km NNW of Lae, Papua New Guinea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000twdd)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-11-06T00:36:04.040+00:00`, fetched `2026-11-06T00:47:56+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-11-06 00:02:25 UTC 2026-11-06 00:02:25 UTC at epicenter Location 5.917°S 146.662°E Depth 97.80 km (60.77 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **AI can help me think faster, but I still have to decide how I actually use AI in healthcare** — Score 8, observation — [Quelle](https://e27.co/ai-can-help-me-think-faster-but-i-still-have-to-decide-how-i-actually-use-ai-in-healthcare-20261101/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-06T08:28:19+00:00",
+  "generated_at": "2026-11-06T08:34:32+00:00",
   "topics": {
     "ai": [
       {
@@ -188,6 +188,13 @@
         "published_at": "2026-11-06T02:46:31.121+00:00",
         "relevance_score": 11,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tweq"
+      },
+      {
+        "title": "M 4.5 - 87 km N of Isangel, Vanuatu",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-11-06T08:31:16.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twfu"
       },
       {
         "title": "M 4.6 - 58 km WNW of Isangel, Vanuatu",
