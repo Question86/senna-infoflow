@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-06T09:19:08Z",
+  "generated_at": "2026-11-06T09:32:08Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 34,
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4295",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-06T06:54:56+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "security",
@@ -51,7 +51,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4365",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-06T08:04:56+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -75,7 +75,7 @@
       "url": "https://openai.com/index/australian-universities-ai-native-graduates",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-05T17:00:00+00:00",
-      "age_days": 0.68,
+      "age_days": 0.69,
       "topics": [
         "ai"
       ],
@@ -101,7 +101,7 @@
       "url": "https://jvn.jp/vu/JVNVU90841469/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-06T09:30:00+09:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "security"
       ],
@@ -126,7 +126,7 @@
       "url": "https://e27.co/i-automated-my-entire-life-with-ai-agents-then-a-2-am-voice-note-exposed-the-lie-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-06T02:00:47+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -153,7 +153,7 @@
       "url": "https://e27.co/start-with-the-problem-not-the-token-what-wall-streets-tokenisation-push-means-for-southeast-asian-founders-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-06T03:00:12+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "ai",
         "macro"
@@ -182,7 +182,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 140.31,
+      "age_days": 140.32,
       "topics": [
         "ai"
       ],
@@ -211,7 +211,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tweq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-06T02:46:31.121+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "disaster"
       ],
@@ -235,7 +235,7 @@
       "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-06T00:08:31+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [],
       "dynamics_score": 13.0,
       "raw_band": "watch",
@@ -258,7 +258,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002931/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-05T23:41:46+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "ai",
         "security"
@@ -283,7 +283,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twfu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-06T08:31:16.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -307,7 +307,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tweb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-06T01:53:40.040+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "disaster"
       ],
@@ -331,7 +331,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twdd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-06T00:36:04.040+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "disaster"
       ],
@@ -355,7 +355,7 @@
       "url": "https://e27.co/singapore-tops-a-new-commonwealth-ai-readiness-index-but-australias-results-show-where-the-real-gap-lies-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-06T04:10:49+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -381,7 +381,7 @@
       "url": "https://openai.com/index/cultfit-builds-with-codex",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-05T20:00:00+00:00",
-      "age_days": 0.55,
+      "age_days": 0.56,
       "topics": [
         "ai",
         "macro"
@@ -432,7 +432,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261106-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-11-06T01:56:21+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -456,7 +456,7 @@
       "url": "https://developers.freee.co.jp/entry/lean-formal-verification-ai-agent-guardrails",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-05T01:53:25+00:00",
-      "age_days": 1.31,
+      "age_days": 1.32,
       "topics": [
         "ai"
       ],
@@ -505,7 +505,7 @@
       "url": "https://github.com/Usagi-org/ai-goofish-monitor",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-06T07:57:33+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -530,7 +530,7 @@
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261106~356f2fc73a.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-11-06T09:00:00+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai",
         "macro"
@@ -557,7 +557,7 @@
       "url": "https://e27.co/ai-can-help-me-think-faster-but-i-still-have-to-decide-how-i-actually-use-ai-in-healthcare-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-06T04:30:10+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "ai"
       ],
@@ -583,7 +583,7 @@
       "url": "https://e27.co/malaysia-carried-southeast-asias-ipo-market-in-2026-the-rest-of-the-region-went-quiet-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-06T03:41:07+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai",
         "macro"
@@ -610,7 +610,7 @@
       "url": "https://togetter.com/li/2767231",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-06T02:34:22+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -634,7 +634,7 @@
       "url": "https://av.watch.impress.co.jp/docs/news/2153686.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-06T00:14:47+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "general"
       ],
@@ -658,7 +658,7 @@
       "url": "https://e27.co/ecosystem-roundup-sea-startups-raised-us16-5b-in-2026-but-four-months-did-most-of-it-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-06T08:34:30+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "macro"
@@ -685,7 +685,7 @@
       "url": "https://e27.co/the-business-judgment-gap-why-bumn-investment-decisions-need-a-different-risk-framework-in-indonesia-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-06T06:52:36+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -711,7 +711,7 @@
       "url": "https://e27.co/taiwans-envoy-says-its-startups-are-capable-enough-to-go-global-with-singapore-as-the-first-step-20261105/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-06T01:00:41+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -764,7 +764,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 139.27,
+      "age_days": 139.28,
       "topics": [
         "general"
       ],
@@ -789,7 +789,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 139.27,
+      "age_days": 139.28,
       "topics": [
         "general"
       ],
@@ -814,7 +814,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 139.27,
+      "age_days": 139.28,
       "topics": [
         "ai"
       ],
@@ -841,7 +841,7 @@
       "url": "https://www.digital.go.jp/policies/genai/aff58345-cef0-433c-8b33-88217fe0b423",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-11-06T01:46:31+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "ai"
       ],
@@ -866,7 +866,7 @@
       "url": "https://speakerdeck.com/3l4l5/techniques-for-habit-formation",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-05T06:16:47+00:00",
-      "age_days": 1.13,
+      "age_days": 1.14,
       "topics": [
         "ai"
       ],
