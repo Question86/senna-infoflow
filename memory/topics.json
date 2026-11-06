@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-06T11:15:37+00:00",
+  "generated_at": "2026-11-06T11:21:28+00:00",
   "topics": {
     "ai": [
       {
@@ -117,6 +117,13 @@
         "published_at": "2026-11-06T08:04:56+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4365"
+      },
+      {
+        "title": "Schadcode-Attacken auf Cisco UCS Central Software und Unified CM möglich",
+        "source": "heise Security Alerts",
+        "published_at": "2026-11-06T11:11:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Schadcode-Attacken-auf-Cisco-UCS-Central-Software-und-Unified-CM-moeglich-11515138.html"
       }
     ],
     "general": [
@@ -242,6 +249,13 @@
         "published_at": "2026-11-06T09:00:00+00:00",
         "relevance_score": 9,
         "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261106~356f2fc73a.en.html"
+      },
+      {
+        "title": "Schadcode-Attacken auf Cisco UCS Central Software und Unified CM möglich",
+        "source": "heise Security Alerts",
+        "published_at": "2026-11-06T11:11:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Schadcode-Attacken-auf-Cisco-UCS-Central-Software-und-Unified-CM-moeglich-11515138.html"
       },
       {
         "title": "U Mobile opens its 5G-Advanced sandbox to Cradle’s startups, but the cheques are not part of the deal",

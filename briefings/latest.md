@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-06T11:15:37+00:00_
+_Generiert: 2026-11-06T11:21:28+00:00_
 
 ## Kurzlage
 
-37 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Barracuda Networks Email Security Gateway und Web Application Firewall: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 21, observation).
+38 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Barracuda Networks Email Security Gateway und Web Application Firewall: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 21, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -235,6 +235,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)
   - Kurz: Strip Malaysia out of the numbers, and Southeast Asia’s public markets in 2026 look less like a listing venue and more like a waiting room. Southeast Asia recorded 56 initial public offerings (IPOs) raising US$3 billion in the first nine months of 2026, according to EY data released on Thursday. That is down from 76 […] The post Malaysia carried Southeast Asia’s IPO market in 2026. The rest of the region went quiet…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Schadcode-Attacken auf Cisco UCS Central Software und Unified CM möglich** — Score 7, observation — [Quelle](https://www.heise.de/news/Schadcode-Attacken-auf-Cisco-UCS-Central-Software-und-Unified-CM-moeglich-11515138.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-11-06T11:11:00.000+00:00`, fetched `2026-11-06T11:20:45+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Sicherheitsupdates schließen Lücken in Cisco UCS Central Software und Cisco Unified Communications Manager.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **浦安市が「さくらのクラウド」採用、ガバメントクラウド移行で自治体初** — Score 7, observation — [Quelle](https://xtech.nikkei.com/atcl/nxt/column/18/00001/12156/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-05T20:28:37+00:00`, fetched `2026-11-06T03:22:52+00:00`
@@ -279,15 +288,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: GitHub (+2.0); Copilot (+2.0); recent (+1.0)
   - Kurz: The enterprise and organization repository-level Copilot usage metrics reports now show what happens to Copilot code review feedback. A new copilot_code_review object on each repos-1-day row reports how many Copilot-reviewed… The post Usage metrics API adds code review details and addressed rate appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Usage metrics API flags telemetry and version gaps** — Score 5, observation — [Quelle](https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-11-06T00:08:31+00:00`, fetched `2026-11-06T00:33:28+00:00`
-  - Treffer: Copilot, GitHub
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub (+2.0); Copilot (+2.0); recent (+1.0)
-  - Kurz: The Copilot usage metrics API now shows which users are missing client telemetry or are running IDE or extension versions below the usage metrics minimums. New per-user fields appear in… The post Usage metrics API flags telemetry and version gaps appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
