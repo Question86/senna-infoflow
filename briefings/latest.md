@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-06T20:34:43+00:00_
+_Generiert: 2026-11-06T20:40:06+00:00_
 
 ## Kurzlage
 
@@ -9,6 +9,10 @@ _Generiert: 2026-11-06T20:34:43+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-19868 SonicWall SonicOS SSLVPN** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-11-06`
+  - Kurz: Known exploited vulnerability. Added 2026-11-06. Due 2026-11-20. SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability
 - **CISA KEV: CVE-2024-27834 Apple Multiple Products** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-11-04`
@@ -25,10 +29,6 @@ _Generiert: 2026-11-06T20:34:43+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-10-30`
   - Kurz: Known exploited vulnerability. Added 2026-10-30. Due 2026-11-02. Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability
-- **CISA KEV: CVE-2026-97229 GitLab Community Edition and Enterprise Edition** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-10-29`
-  - Kurz: Known exploited vulnerability. Added 2026-10-29. Due 2026-11-01. GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound Vulnerability
 - **GDACS: Green flood alert in France** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104270)
   - Quelle: GDACS
   - Zeit: ``
