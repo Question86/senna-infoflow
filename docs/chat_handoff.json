@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-06T19:10:35+00:00",
+  "generated_at": "2026-11-06T19:15:54+00:00",
   "status": "warning",
   "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 61,
-    "displayed_findings": 61,
+    "new_relevant_findings": 1,
+    "today_file_total": 62,
+    "displayed_findings": 62,
     "high": 0,
-    "medium": 23,
+    "medium": 24,
     "observe": 38
   },
   "source_errors_count": 1,
@@ -22,6 +22,16 @@
       "relevance_score": 21,
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4295",
       "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Barracuda Networks Email Security Gateway und Barracuda Networks Web Application Firewall ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen und die Authentifizie…",
+      "section": "medium"
+    },
+    {
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-11-06T00:00:00+00:00",
+      "relevance_score": 20,
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
       "section": "medium"
     },
     {
@@ -42,16 +52,6 @@
       "relevance_score": 18,
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1442/",
       "summary": "De multiples vulnérabilités ont été découvertes dans Ivanti Connect Secure. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un contournement de la politique de sécurité. Ivanti indique q…",
-      "section": "medium"
-    },
-    {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月05日）",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-11-06T09:30:00+09:00",
-      "relevance_score": 16,
-      "url": "https://jvn.jp/vu/JVNVU90841469/",
-      "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
       "section": "medium"
     },
     {
