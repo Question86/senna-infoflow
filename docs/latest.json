@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T13:42:22+00:00",
-  "run_id": "2026-11-06T13:42:22+00:00",
+  "generated_at": "2026-11-06T13:53:12+00:00",
+  "run_id": "2026-11-06T13:53:12+00:00",
   "date": "2026-11-06",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 54
+      "configured_public_sources_only": 56
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 54,
-    "displayed_findings": 54,
+    "new_relevant_findings": 2,
+    "today_file_total": 56,
+    "displayed_findings": 56,
     "high": 0,
-    "medium": 21,
+    "medium": 23,
     "observe": 33,
     "source_errors": 0
   },
@@ -222,6 +222,52 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3c655198c7aecac2f0d1"
+      },
+      {
+        "title": "[NEU] [mittel] Moodle: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4385",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-06T13:41:18+00:00",
+        "fetched_at": "2026-11-06T13:52:44+00:00",
+        "summary": "Ein Angreifer kann eine Schwachstelle in Moodle ausnutzen, um Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "df92bdc47a1ec1523871"
+      },
+      {
+        "title": "[NEU] [mittel] SmarterTools SmarterMail: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4384",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-06T13:41:17+00:00",
+        "fetched_at": "2026-11-06T13:52:44+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in SmarterTools SmarterMail ausnutzen, um Sicherheitsmaßnahmen zu umgehen und nicht näher spezifizierte Auswirkungen zu verursachen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b8820c54afb7bae3b4c7"
       },
       {
         "title": "[NEU] [mittel] IBM App Connect Enterprise: Schwachstelle ermöglicht Offenlegung von Informationen",
@@ -1546,6 +1592,52 @@
       "id": "3c655198c7aecac2f0d1"
     },
     {
+      "title": "[NEU] [mittel] Moodle: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4385",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-06T13:41:18+00:00",
+      "fetched_at": "2026-11-06T13:52:44+00:00",
+      "summary": "Ein Angreifer kann eine Schwachstelle in Moodle ausnutzen, um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "df92bdc47a1ec1523871"
+    },
+    {
+      "title": "[NEU] [mittel] SmarterTools SmarterMail: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4384",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-06T13:41:17+00:00",
+      "fetched_at": "2026-11-06T13:52:44+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in SmarterTools SmarterMail ausnutzen, um Sicherheitsmaßnahmen zu umgehen und nicht näher spezifizierte Auswirkungen zu verursachen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b8820c54afb7bae3b4c7"
+    },
+    {
       "title": "[NEU] [mittel] IBM App Connect Enterprise: Schwachstelle ermöglicht Offenlegung von Informationen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4383",
       "source": "BSI CERT-Bund Security Advisories",
@@ -2671,13 +2763,36 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [mittel] IBM App Connect Enterprise: Schwachstelle ermöglicht Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4383",
+      "title": "[NEU] [mittel] Moodle: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4385",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-06T13:41:18+00:00",
+      "fetched_at": "2026-11-06T13:52:44+00:00",
+      "summary": "Ein Angreifer kann eine Schwachstelle in Moodle ausnutzen, um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "df92bdc47a1ec1523871"
+    },
+    {
+      "title": "[NEU] [mittel] SmarterTools SmarterMail: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4384",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
       "published_at": "2026-11-06T13:41:17+00:00",
-      "fetched_at": "2026-11-06T13:41:52+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in IBM App Connect Enterprise ausnutzen, um Sicherheitsmaßnahmen zu umgehen und Informationen auszuspähen.",
+      "fetched_at": "2026-11-06T13:52:44+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in SmarterTools SmarterMail ausnutzen, um Sicherheitsmaßnahmen zu umgehen und nicht näher spezifizierte Auswirkungen zu verursachen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2691,76 +2806,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "3eb4a3bdac05057ef3d4"
-    },
-    {
-      "title": "[NEU] [hoch] Siemens SIMATIC IoT2050: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Ausführen von beliebigem Programmcode mit Administratorrechten",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4382",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-11-06T13:40:56+00:00",
-      "fetched_at": "2026-11-06T13:41:52+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Siemens SIMATIC IoT2050 Geräten ausnutzen, um Sicherheitsvorkehrungen zu umgehen und um beliebigen Programmcode mit Administratorrechten auszuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "efc5b2b4770dc3978711"
-    },
-    {
-      "title": "[NEU] [mittel] JetBrains CLion: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4381",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-11-06T13:40:56+00:00",
-      "fetched_at": "2026-11-06T13:41:52+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in JetBrains CLion ausnutzen, um beliebigen Programmcode auszuführen, und um Informationen offenzulegen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "fabeff1c94bdfb799fe4"
-    },
-    {
-      "title": "[UPDATE] [mittel] Checkmk: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4035",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-11-06T13:40:55+00:00",
-      "fetched_at": "2026-11-06T13:41:52+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Checkmk ausnutzen, um Informationen offenzulegen, und um Dateien zu manipulieren.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a642cbf3a9f41c946215"
+      "id": "b8820c54afb7bae3b4c7"
     }
   ],
   "source_errors": [],

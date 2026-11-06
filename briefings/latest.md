@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-06T13:42:22+00:00_
+_Generiert: 2026-11-06T13:53:12+00:00_
 
 ## Kurzlage
 
-54 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Barracuda Networks Email Security Gateway und Web Application Firewall: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 21, observation).
+56 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Barracuda Networks Email Security Gateway und Web Application Firewall: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 21, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -115,23 +115,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); developer (+2.5); GitHub (+2.0); agent (+2.0); recent (+1.0)
   - Kurz: こんにちは。エンジニアの kyasu です（GitHub / LinkedIn）。 業務ルールが十数条、数十条と増えると、AI エージェントは悪意なく判断を誤ります。同じ依頼を同じように出しても、1 回目は正しく返金したのに、2 回目は条件を一つ読み落とす。業務システムとしては、これが一番困ります。 そこで、業務ルールを Lean の...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[NEU] [mittel] IBM App Connect Enterprise: Schwachstelle ermöglicht Offenlegung von Informationen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4383)
+- **[NEU] [mittel] Moodle: Schwachstelle ermöglicht Offenlegung von Informationen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4385)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-11-06T13:41:17+00:00`, fetched `2026-11-06T13:41:52+00:00`
+  - Zeit: published `2026-11-06T13:41:18+00:00`, fetched `2026-11-06T13:52:44+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in IBM App Connect Enterprise ausnutzen, um Sicherheitsmaßnahmen zu umgehen und Informationen auszuspähen.
+  - Kurz: Ein Angreifer kann eine Schwachstelle in Moodle ausnutzen, um Informationen offenzulegen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[NEU] [mittel] JetBrains CLion: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4381)
+- **[NEU] [mittel] SmarterTools SmarterMail: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4384)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-11-06T13:40:56+00:00`, fetched `2026-11-06T13:41:52+00:00`
+  - Zeit: published `2026-11-06T13:41:17+00:00`, fetched `2026-11-06T13:52:44+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in JetBrains CLion ausnutzen, um beliebigen Programmcode auszuführen, und um Informationen offenzulegen.
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in SmarterTools SmarterMail ausnutzen, um Sicherheitsmaßnahmen zu umgehen und nicht näher spezifizierte Auswirkungen zu verursachen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Singapore tops a new Commonwealth AI readiness index, but Australia’s results show where the real gap lies** — Score 14, observation — [Quelle](https://e27.co/singapore-tops-a-new-commonwealth-ai-readiness-index-but-australias-results-show-where-the-real-gap-lies-20261106/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
