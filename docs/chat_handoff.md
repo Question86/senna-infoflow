@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-06T01:51:58+00:00_
+_Generated: 2026-11-06T01:57:29+00:00_
 
 ## Status
 - status: `normal`
-- findings: `9`
+- findings: `11`
 
 ## Top Signals
 
@@ -29,25 +29,25 @@ _Generated: 2026-11-06T01:51:58+00:00_
 - url: https://www.itmedia.co.jp/news/article/2611/06/2000002931/
 - summary: 米OpenAIは11月5日（現地時間）、サイバーセキュリティに特化したAIモデル「GPT-6 Cyber」を発表した。汎用モデル「GPT-6 Astra」をベースに、脆弱性の発見や攻撃手法の検証などの能力を強化したモデルで、同社の防御者向けプログラム「Daybreak Red」の承認ユーザーに限定して提供する。 GPT-6 Astraは、9月に発表され...
 
-### 4. M 4.6 - 96 km NNW of Lae, Papua New Guinea
+### 4. M 4.6 - 58 km WNW of Isangel, Vanuatu
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-11-06T01:53:40.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tweb
+- summary: Time 2026-11-06 01:37:39 UTC 2026-11-06 01:37:39 UTC at epicenter Location 19.365°S 168.753°E Depth 83.27 km (51.74 mi)
+
+### 5. M 4.6 - 96 km NNW of Lae, Papua New Guinea
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-11-06T00:36:04.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000twdd
 - summary: Time 2026-11-06 00:02:25 UTC 2026-11-06 00:02:25 UTC at epicenter Location 5.917°S 146.662°E Depth 97.80 km (60.77 mi)
 
-### 5. Taiwan’s envoy says its startups are capable enough to go global, with Singapore as the first step
+### 6. Taiwan’s envoy says its startups are capable enough to go global, with Singapore as the first step
 - source: e27 Asia Startup and Tech Feed
 - score: `7`
 - published: `2026-11-06T01:00:41+00:00`
 - url: https://e27.co/taiwans-envoy-says-its-startups-are-capable-enough-to-go-global-with-singapore-as-the-first-step-20261105/
 - summary: SINGAPORE: The aisles around the Taiwan Pavilion at SWITCH 2026 were busy. At Booth Q01 of Sands Expo and Convention Centre, 33 Taiwanese startups spent three days, from 27 to 29 October, meeting visitors, investors and potential partners from across the regi…
-
-### 6. ガバメントAI 源内に関する「行政実務用RAG」の解説動画を掲載しました
-- source: Japan Digital Agency News RSS
-- score: `6`
-- published: `2026-11-06T01:46:31+00:00`
-- url: https://www.digital.go.jp/policies/genai/aff58345-cef0-433c-8b33-88217fe0b423
-- summary: ガバメントAI 源内に関する「行政実務用RAG」の解説動画を掲載しました
 
 END OF DOCUMENT
