@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-06T06:43:09+00:00_
+_Generiert: 2026-11-06T06:48:24+00:00_
 
 ## Kurzlage
 
-22 neue relevante Treffer. Stärkstes Signal: „I automated my entire life with AI agents. Then a 2 am voice note exposed the lie“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
+23 neue relevante Treffer. Stärkstes Signal: „I automated my entire life with AI agents. Then a 2 am voice note exposed the lie“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
 
 ## Priorität Hoch
 
