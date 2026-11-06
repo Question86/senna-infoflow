@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T23:48:42+00:00",
-  "run_id": "2026-11-06T23:48:42+00:00",
+  "generated_at": "2026-11-06T23:54:15+00:00",
+  "run_id": "2026-11-06T23:54:15+00:00",
   "date": "2026-11-06",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 68
+      "configured_public_sources_only": 69
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 68,
-    "displayed_findings": 68,
+    "new_relevant_findings": 1,
+    "today_file_total": 69,
+    "displayed_findings": 69,
     "high": 0,
     "medium": 25,
-    "observe": 43,
+    "observe": 44,
     "source_errors": 0
   },
   "sections": {
@@ -1277,6 +1277,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "c0675d6b3bf2d82bd96e"
+      },
+      {
+        "title": "@GitHub in Slack and Teams is generally available and more",
+        "url": "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-11-06T20:31:08+00:00",
+        "fetched_at": "2026-11-06T23:53:46+00:00",
+        "summary": "Turn conversations into code with @GitHub in Slack and Teams! Investigate bugs, create issues, implement changes, and open pull requests—all without leaving your conversation. What’s new Build and review together… The post @GitHub in Slack and Teams is generally available and more appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "Copilot",
+          "GitHub"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "GitHub (+2.5); Copilot (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3ea66490cd467f712e99"
       },
       {
         "title": "Version 1.0: OpenSSH - Schwachstelle gefährdet Alpine Linux und weitere Produkte",
@@ -2926,6 +2947,27 @@
       "id": "c0675d6b3bf2d82bd96e"
     },
     {
+      "title": "@GitHub in Slack and Teams is generally available and more",
+      "url": "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-11-06T20:31:08+00:00",
+      "fetched_at": "2026-11-06T23:53:46+00:00",
+      "summary": "Turn conversations into code with @GitHub in Slack and Teams! Investigate bugs, create issues, implement changes, and open pull requests—all without leaving your conversation. What’s new Build and review together… The post @GitHub in Slack and Teams is generally available and more appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.5); Copilot (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3ea66490cd467f712e99"
+    },
+    {
       "title": "Version 1.0: OpenSSH - Schwachstelle gefährdet Alpine Linux und weitere Produkte",
       "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-306241-1032_bits.html",
       "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
@@ -3323,7 +3365,29 @@
       "id": "c4ea28aa3d99a7d5ac4e"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "@GitHub in Slack and Teams is generally available and more",
+      "url": "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-11-06T20:31:08+00:00",
+      "fetched_at": "2026-11-06T23:53:46+00:00",
+      "summary": "Turn conversations into code with @GitHub in Slack and Teams! Investigate bugs, create issues, implement changes, and open pull requests—all without leaving your conversation. What’s new Build and review together… The post @GitHub in Slack and Teams is generally available and more appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.5); Copilot (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3ea66490cd467f712e99"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
