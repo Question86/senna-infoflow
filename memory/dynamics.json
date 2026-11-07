@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-07T02:32:04Z",
+  "generated_at": "2026-11-07T02:46:21Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 10,
@@ -22,7 +22,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 141.02,
+      "age_days": 141.03,
       "topics": [
         "ai"
       ],
@@ -51,7 +51,7 @@
       "url": "https://ledge.ai/articles/nicam_claude_code_migration",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-06T19:26:50+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -77,7 +77,7 @@
       "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-07T00:27:19+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -101,7 +101,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN060JD0W6A101C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-06T22:57:15+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -127,7 +127,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOUB064NX0W6A101C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-06T09:39:24+00:00",
-      "age_days": 0.7,
+      "age_days": 0.71,
       "topics": [
         "ai"
       ],
@@ -153,7 +153,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 139.99,
+      "age_days": 140.0,
       "topics": [
         "general"
       ],
@@ -178,7 +178,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 139.99,
+      "age_days": 140.0,
       "topics": [
         "general"
       ],
@@ -203,7 +203,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 139.99,
+      "age_days": 140.0,
       "topics": [
         "ai"
       ],
@@ -230,7 +230,7 @@
       "url": "https://zenn.dev/anfangd/articles/aws-web-ingress-origin-protection",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-06T23:36:13+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -255,7 +255,7 @@
       "url": "https://posfie.com/@Acg3C2/p/NF0FdOe",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-06T11:09:56+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "ai"
       ],
