@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-07T03:46:28Z",
+  "generated_at": "2026-11-07T04:02:44Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 141.07,
+      "age_days": 141.09,
       "topics": [
         "ai"
       ],
@@ -44,7 +44,7 @@
       "url": "https://ledge.ai/articles/nicam_claude_code_migration",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-06T19:26:50+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -70,7 +70,7 @@
       "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-07T00:27:19+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -94,7 +94,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN060JD0W6A101C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-06T22:57:15+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "ai"
       ],
@@ -120,7 +120,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOUB064NX0W6A101C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-06T09:39:24+00:00",
-      "age_days": 0.75,
+      "age_days": 0.77,
       "topics": [
         "ai"
       ],
@@ -146,7 +146,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 140.04,
+      "age_days": 140.05,
       "topics": [
         "general"
       ],
@@ -162,7 +162,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 140.0d old signal"
+        "aging penalty -16.0 for 140.1d old signal"
       ],
       "summary": ""
     },
@@ -171,7 +171,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 140.04,
+      "age_days": 140.05,
       "topics": [
         "general"
       ],
@@ -187,7 +187,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 140.0d old signal"
+        "aging penalty -16.0 for 140.1d old signal"
       ],
       "summary": ""
     },
@@ -196,7 +196,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 140.04,
+      "age_days": 140.05,
       "topics": [
         "ai"
       ],
@@ -213,7 +213,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 140.0d old signal",
+        "aging penalty -16.0 for 140.1d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -223,7 +223,7 @@
       "url": "https://zenn.dev/anfangd/articles/aws-web-ingress-origin-protection",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-06T23:36:13+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -248,7 +248,7 @@
       "url": "https://posfie.com/@Acg3C2/p/NF0FdOe",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-06T11:09:56+00:00",
-      "age_days": 0.69,
+      "age_days": 0.7,
       "topics": [
         "ai"
       ],
