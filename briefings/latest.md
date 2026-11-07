@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-07T14:13:31+00:00_
+_Generiert: 2026-11-07T14:19:01+00:00_
 
 ## Kurzlage
 
@@ -45,10 +45,10 @@ _Generiert: 2026-11-07T14:13:31+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.1M, Depth:29km) in Off East Coast Of Honshu, Japan 06/11/2026 10:39 UTC, [unknown].
-- **GDACS: Green notification for tropical cyclone CEMPAKA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 172 .** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001347)
+- **GDACS: Green notification for tropical cyclone CEMPAKA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001347)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green notification for tropical cyclone CEMPAKA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 172 .
+  - Kurz: Green notification for tropical cyclone CEMPAKA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 
 ## Wirtschaft global
 
