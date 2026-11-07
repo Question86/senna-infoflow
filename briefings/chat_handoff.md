@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-07T06:49:09+00:00_
+_Generated: 2026-11-07T06:54:32+00:00_
 
 ## Status
 - status: `normal`
-- findings: `7`
+- findings: `8`
 
 ## Top Signals
 
@@ -43,11 +43,11 @@ _Generated: 2026-11-07T06:49:09+00:00_
 - url: https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates
 - summary: You can now manage GitHub Copilot code review settings through the REST and GraphQL APIs, from enterprise policy down to individual repositories. Copilot’s review overview comment is now more compact,… The post Copilot code review: API management and review o…
 
-### 6. AWSでWebリクエストを受ける8パターンと「オリジンを裸にしない」設定プラクティス
+### 6. 旦那のデスクトップPCがハッキングされてクレカ不正利用が判明、今朝マウスを触っていないのにポイントが勝手に動き、決済メールをチマチマ消す決定的瞬間を目撃したらしい
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
-- published: `2026-11-06T23:36:13+00:00`
-- url: https://zenn.dev/anfangd/articles/aws-web-ingress-origin-protection
-- summary: この記事は、Claude と一緒に AWS 公式ドキュメントを調べ、構成図を作りながら整理した内容をまとめたものです。各設定の根拠は、記事中のリンク先の公式ドキュメントで確認できます。 はじめに 先日、X（旧Twitter）でこんな趣旨の話題が流れてきました。 CloudFront + WAF → ALB の構成では、ALB の SG に CloudFront...
+- published: `2026-11-07T02:20:55+00:00`
+- url: https://togetter.com/li/2767610
+- summary: くろの @kuro3519 旦那のデスクトップPCがハッキングされ、クレカ不正利用判明 1000円台、2000円台のゲーム課金が数ヶ月前から複数あり、問合せ中だったが、ついに今朝マウス触ってないのにポイントが勝手に動き、決済メールをチマチマ消す決定的瞬間を目撃したらしい 即LAN抜いてカード止めて… 返金されるんかな… 2026-...
 
 END OF DOCUMENT
