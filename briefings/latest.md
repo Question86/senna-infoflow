@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-07T16:23:53+00:00_
+_Generiert: 2026-11-07T16:29:20+00:00_
 
 ## Kurzlage
 
@@ -52,7 +52,7 @@ _Generiert: 2026-11-07T16:23:53+00:00_
 - **USGS earthquake M5.5 - 10 km NW of Hamakita, Japan** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000twt0)
   - Quelle: USGS
   - Zeit: `2026-11-07T16:04:35+00:00`
-  - Kurz: M5.5 - 10 km NW of Hamakita, Japan. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M5.5 - 10 km NW of Hamakita, Japan. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
