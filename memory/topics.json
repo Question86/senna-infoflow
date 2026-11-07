@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-07T00:42:28+00:00",
+  "generated_at": "2026-11-07T00:55:15+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-11-06T22:57:15+00:00",
         "relevance_score": 10,
         "url": "https://www.nikkei.com/article/DGXZQOGN060JD0W6A101C2000000/"
+      },
+      {
+        "title": "「AIであってほしかった」近所の書店にいったらBLのエロ本が子供向けの本のすぐ近くに平積みされている。子供への性加害は辞めるべきだ。",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-06T11:09:56+00:00",
+        "relevance_score": 5,
+        "url": "https://posfie.com/@Acg3C2/p/NF0FdOe"
       }
     ],
     "github": [

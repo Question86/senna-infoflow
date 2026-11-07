@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-07T00:42:28+00:00_
+_Generiert: 2026-11-07T00:55:15+00:00_
 
 ## Kurzlage
 
-2 neue relevante Treffer. Stärkstes Signal: „AIネオクラウド「8割消滅」予測 債務膨張、民主旋風が追い打ち - 日本経済新聞“ aus Hatena Bookmark Hotentry IT (Score 10, observation).
+3 neue relevante Treffer. Stärkstes Signal: „AIネオクラウド「8割消滅」予測 債務膨張、民主旋風が追い打ち - 日本経済新聞“ aus Hatena Bookmark Hotentry IT (Score 10, observation).
 
 ## Priorität Hoch
 
@@ -33,6 +33,15 @@ Keine neuen mittleren Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: GitHub (+2.0); Copilot (+2.5); recent (+1.0)
   - Kurz: You can now manage GitHub Copilot code review settings through the REST and GraphQL APIs, from enterprise policy down to individual repositories. Copilot’s review overview comment is now more compact,… The post Copilot code review: API management and review overview updates appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **「AIであってほしかった」近所の書店にいったらBLのエロ本が子供向けの本のすぐ近くに平積みされている。子供への性加害は辞めるべきだ。** — Score 5, observation — [Quelle](https://posfie.com/@Acg3C2/p/NF0FdOe)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-06T11:09:56+00:00`, fetched `2026-11-07T00:54:48+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: きりつきセンセ @mugetsu_tenshin BLはゾーニングされてる！( ｰ`дｰ´)ｷﾘｯ って言うから見てきたよｗ 場所も書いてあげる。 宇都宮トナリエ5階落合書店。 右の棚全部BLだったwww ゾーニングは纏めておくってことじゃねーぞｗ 真裏の棚は参考書だ。 左の棚は一般少女漫画。 おっとこの店だけって論理は通用しないぜ？ お前...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-07T00:42:28+00:00_
+_Generated: 2026-11-07T00:55:15+00:00_
 
 ## Status
 - status: `normal`
-- findings: `2`
+- findings: `3`
 
 ## Top Signals
 
@@ -21,5 +21,12 @@ _Generated: 2026-11-07T00:42:28+00:00_
 - published: `2026-11-07T00:27:19+00:00`
 - url: https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates
 - summary: You can now manage GitHub Copilot code review settings through the REST and GraphQL APIs, from enterprise policy down to individual repositories. Copilot’s review overview comment is now more compact,… The post Copilot code review: API management and review o…
+
+### 3. 「AIであってほしかった」近所の書店にいったらBLのエロ本が子供向けの本のすぐ近くに平積みされている。子供への性加害は辞めるべきだ。
+- source: Hatena Bookmark Hotentry IT
+- score: `5`
+- published: `2026-11-06T11:09:56+00:00`
+- url: https://posfie.com/@Acg3C2/p/NF0FdOe
+- summary: きりつきセンセ @mugetsu_tenshin BLはゾーニングされてる！( ｰ`дｰ´)ｷﾘｯ って言うから見てきたよｗ 場所も書いてあげる。 宇都宮トナリエ5階落合書店。 右の棚全部BLだったwww ゾーニングは纏めておくってことじゃねーぞｗ 真裏の棚は参考書だ。 左の棚は一般少女漫画。 おっとこの店だけって論理は通用しないぜ？ お前...
 
 END OF DOCUMENT
