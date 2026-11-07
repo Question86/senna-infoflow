@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-07T02:00:12+00:00_
+_Generated: 2026-11-07T02:16:51+00:00_
 
 ## Status
 - status: `normal`
-- findings: `5`
+- findings: `6`
 
 ## Top Signals
 
@@ -36,11 +36,11 @@ _Generated: 2026-11-07T02:00:12+00:00_
 - url: https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates
 - summary: You can now manage GitHub Copilot code review settings through the REST and GraphQL APIs, from enterprise policy down to individual repositories. Copilot’s review overview comment is now more compact,… The post Copilot code review: API management and review o…
 
-### 5. 「AIであってほしかった」近所の書店にいったらBLのエロ本が子供向けの本のすぐ近くに平積みされている。子供への性加害は辞めるべきだ。
+### 5. AWSでWebリクエストを受ける8パターンと「オリジンを裸にしない」設定プラクティス
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
-- published: `2026-11-06T11:09:56+00:00`
-- url: https://posfie.com/@Acg3C2/p/NF0FdOe
-- summary: きりつきセンセ @mugetsu_tenshin BLはゾーニングされてる！( ｰ`дｰ´)ｷﾘｯ って言うから見てきたよｗ 場所も書いてあげる。 宇都宮トナリエ5階落合書店。 右の棚全部BLだったwww ゾーニングは纏めておくってことじゃねーぞｗ 真裏の棚は参考書だ。 左の棚は一般少女漫画。 おっとこの店だけって論理は通用しないぜ？ お前...
+- published: `2026-11-06T23:36:13+00:00`
+- url: https://zenn.dev/anfangd/articles/aws-web-ingress-origin-protection
+- summary: この記事は、Claude と一緒に AWS 公式ドキュメントを調べ、構成図を作りながら整理した内容をまとめたものです。各設定の根拠は、記事中のリンク先の公式ドキュメントで確認できます。 はじめに 先日、X（旧Twitter）でこんな趣旨の話題が流れてきました。 CloudFront + WAF → ALB の構成では、ALB の SG に CloudFront...
 
 END OF DOCUMENT
