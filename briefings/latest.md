@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-07T07:11:38+00:00_
+_Generiert: 2026-11-07T07:22:57+00:00_
 
 ## Kurzlage
 
@@ -33,6 +33,10 @@ _Generiert: 2026-11-07T07:11:38+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in France
+- **GDACS: Green notification for tropical cyclone 02-20262027-27. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001349)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green notification for tropical cyclone 02-20262027-27. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 - **GDACS: Green notification for tropical cyclone PENA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001348)
   - Quelle: GDACS
   - Zeit: ``
