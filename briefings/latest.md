@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-07T08:51:56+00:00_
+_Generiert: 2026-11-07T08:57:48+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „東大・国立環境研、20年以上開発されてきた大気モデルをClaude Codeで移植 実行速度1.71倍、進行を制約したのは人間のレビューと利用上限 | Ledge.ai“ aus Hatena Bookmark Hotentry IT (Score 15, observation).
+15 neue relevante Treffer. Stärkstes Signal: „東大・国立環境研、20年以上開発されてきた大気モデルをClaude Codeで移植 実行速度1.71倍、進行を制約したのは人間のレビューと利用上限 | Ledge.ai“ aus Hatena Bookmark Hotentry IT (Score 15, observation). 3 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -170,3 +170,9 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `bis_press_releases` (rss): HTTPSConnectionPool(host='www.bis.org', port=443): Max retries exceeded with url: /doclist/all_pressrels.rss (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.bis.org', port=443) at 0x7f310a2f7fd0>, 'Connection to www.bis.org timed out. (connect timeout=8)'))
+- `bis_central_bank_speeches` (rss): HTTPSConnectionPool(host='www.bis.org', port=443): Read timed out. (read timeout=8)
+- `bis_statistics` (rss): HTTPSConnectionPool(host='www.bis.org', port=443): Max retries exceeded with url: /doclist/all_statistics.rss (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.bis.org', port=443) at 0x7f310a0935d0>, 'Connection to www.bis.org timed out. (connect timeout=8)'))
