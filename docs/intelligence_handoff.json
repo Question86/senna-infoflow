@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-07T07:32:07Z",
+  "generated_at": "2026-11-07T07:46:38Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “毎朝のセキュリティ確認をAIに任せたら、判定の基準が「人が動く必要があるか」に変わった” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://zenn.dev/stock_inc/articles/ai-daily-security-check-criteria",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T00:36:39+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "ai",
         "security"
@@ -40,7 +40,7 @@
       "url": "https://github.com/rust-lang/rust",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-07T07:11:08+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai",
         "macro"
@@ -66,7 +66,7 @@
       "url": "https://github.com/mpv-player/mpv",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-07T07:11:08+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai"
       ],
@@ -94,7 +94,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 141.23,
+      "age_days": 141.24,
       "topics": [
         "ai"
       ],
@@ -123,7 +123,7 @@
       "url": "https://github.com/react/react",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-07T07:11:08+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai"
       ],
@@ -150,7 +150,7 @@
       "url": "https://ledge.ai/articles/nicam_claude_code_migration",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-06T19:26:50+00:00",
-      "age_days": 0.5,
+      "age_days": 0.51,
       "topics": [
         "ai"
       ],
@@ -176,7 +176,7 @@
       "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-07T00:27:19+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -200,7 +200,7 @@
       "url": "https://togetter.com/li/2767610",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T02:20:55+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -224,7 +224,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN060JD0W6A101C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-06T22:57:15+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "ai"
       ],
@@ -250,7 +250,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOUB064NX0W6A101C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-06T09:39:24+00:00",
-      "age_days": 0.91,
+      "age_days": 0.92,
       "topics": [
         "ai"
       ],
@@ -276,7 +276,7 @@
       "url": "https://github.com/rails/rails",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-07T07:11:08+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai"
       ],
@@ -302,7 +302,7 @@
       "url": "https://github.com/zed-industries/zed",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-07T07:11:08+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai"
       ],
