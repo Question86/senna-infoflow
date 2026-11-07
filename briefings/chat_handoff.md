@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-07T23:39:00+00:00_
+_Generated: 2026-11-07T23:44:11+00:00_
 
 ## Status
-- status: `warning`
-- findings: `32`
+- status: `normal`
+- findings: `33`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-11-07T23:39:00+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000twrq
 - summary: ShakeMap - IV DYFI? - II Time 2026-11-07 11:07:43 UTC 2026-11-07 11:07:43 UTC at epicenter Location 36.188°N 141.440°E Depth 31.75 km (19.73 mi)
 
-### 4. M 4.7 - 43 km ESE of Ambon, Indonesia
+### 4. M 4.9 - 41 km WSW of Gadung, Philippines
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
-- published: `2026-11-07T21:19:02.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000twu1
-- summary: Time 2026-11-07 20:55:38 UTC 2026-11-07 20:55:38 UTC at epicenter Location 3.905°S 128.512°E Depth 136.66 km (84.91 mi)
+- published: `2026-11-07T23:41:08.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000twur
+- summary: Time 2026-11-07 23:25:35 UTC 2026-11-07 23:25:35 UTC at epicenter Location 6.706°N 123.654°E Depth 607.01 km (377.18 mi)
 
 ### 5. ハーネスエンジニアリングを有名OSSはどう組んでいるのか？AIへの信頼で比べる5事例
 - source: Hatena Bookmark Hotentry IT
