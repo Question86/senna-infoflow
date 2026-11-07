@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-07T23:33:42+00:00_
+_Generated: 2026-11-07T23:39:00+00:00_
 
 ## Status
-- status: `normal`
-- findings: `31`
+- status: `warning`
+- findings: `32`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-11-07T23:33:42+00:00_
 - url: https://www.nikkei.com/article/DGXZQOUB064NX0W6A101C2000000/
 - summary: 日経平均株価は6日、前日比3643円安となり歴代3位の下げ幅を記録し、さながら株式市場の「ブラックフライデー」となった。東証プライム上場の98%が下落し悲観一色のなかでも「お値打ち銘柄」を拾おうとする動きが出始めた。代表は太陽誘電など人工知能（AI）関連銘柄の一部だ。「朝からひどく忙しかった。海外投資家から...
 
-### 8. M 4.5 - 65 km WSW of Masachapa, Nicaragua
+### 8. M 5.9 - central Mid-Atlantic Ridge
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
-- published: `2026-11-07T20:13:03.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000twtv
-- summary: Time 2026-11-07 19:55:10 UTC 2026-11-07 19:55:10 UTC at epicenter Location 11.526°N 87.054°W Depth 37.05 km (23.02 mi)
+- published: `2026-11-07T23:35:40.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000twun
+- summary: Time 2026-11-07 23:17:06 UTC 2026-11-07 23:17:06 UTC at epicenter Location 7.341°N 36.973°W Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT

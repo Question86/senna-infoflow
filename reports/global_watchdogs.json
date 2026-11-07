@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T23:33:47+00:00",
+  "generated_at": "2026-11-07T23:39:05+00:00",
   "sections": {
     "global_security": [
       {
@@ -121,6 +121,21 @@
         "url": "http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001347",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.9 - central Mid-Atlantic Ridge",
+        "summary": "M5.9 - central Mid-Atlantic Ridge. PAGER alert: none. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twun",
+        "published_at": "2026-11-07T23:17:06+00:00",
+        "metrics": {
+          "mag": 5.9,
+          "alert": "",
+          "sig": 536.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []
