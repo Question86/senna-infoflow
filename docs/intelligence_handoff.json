@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-07T11:32:06Z",
+  "generated_at": "2026-11-07T12:03:55Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “毎朝のセキュリティ確認をAIに任せたら、判定の基準が「人が動く必要があるか」に変わった” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://zenn.dev/stock_inc/articles/ai-daily-security-check-criteria",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T00:36:39+00:00",
-      "age_days": 0.46,
+      "age_days": 0.48,
       "topics": [
         "ai",
         "security"
@@ -40,7 +40,7 @@
       "url": "https://github.com/rust-lang/rust",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-07T07:11:08+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "macro"
@@ -66,7 +66,7 @@
       "url": "https://github.com/mpv-player/mpv",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-07T07:11:08+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -94,7 +94,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 141.4,
+      "age_days": 141.42,
       "topics": [
         "ai"
       ],
@@ -123,7 +123,7 @@
       "url": "https://github.com/react/react",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-07T07:11:08+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -146,11 +146,36 @@
       "summary": "The library for web and native user interfaces. https://react.dev React · React is a JavaScript library for building user interfaces. Declarative: React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right compo…"
     },
     {
+      "title": "M 4.9 - southern Mid-Atlantic Ridge",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twrt",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-07T11:55:28.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-11-07 11:35:38 UTC 2026-11-07 11:35:38 UTC at epicenter Location 18.248°S 12.945°W Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 4.6 - South Sandwich Islands region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twqw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-07T07:41:39.040+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -175,7 +200,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twrq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-07T11:28:07.636+00:00",
-      "age_days": 0.0,
+      "age_days": 0.02,
       "topics": [
         "ai",
         "disaster"
@@ -202,7 +227,7 @@
       "url": "https://ledge.ai/articles/nicam_claude_code_migration",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-06T19:26:50+00:00",
-      "age_days": 0.67,
+      "age_days": 0.69,
       "topics": [
         "ai"
       ],
@@ -228,7 +253,7 @@
       "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-07T00:27:19+00:00",
-      "age_days": 0.46,
+      "age_days": 0.48,
       "topics": [
         "general"
       ],
@@ -252,7 +277,7 @@
       "url": "https://news.web.nhk/newsweb/na/nd-20261107de72062",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T03:30:33+00:00",
-      "age_days": 0.33,
+      "age_days": 0.36,
       "topics": [
         "general"
       ],
@@ -276,7 +301,7 @@
       "url": "https://togetter.com/li/2767610",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T02:20:55+00:00",
-      "age_days": 0.38,
+      "age_days": 0.4,
       "topics": [
         "general"
       ],
@@ -294,32 +319,6 @@
         "high terms: 10"
       ],
       "summary": "くろの @kuro3519 旦那のデスクトップPCがハッキングされ、クレカ不正利用判明 1000円台、2000円台のゲーム課金が数ヶ月前から複数あり、問合せ中だったが、ついに今朝マウス触ってないのにポイントが勝手に動き、決済メールをチマチマ消す決定的瞬間を目撃したらしい 即LAN抜いてカード止めて… 返金されるんかな… 2026-..."
-    },
-    {
-      "title": "AIネオクラウド「8割消滅」予測 債務膨張、民主旋風が追い打ち - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOGN060JD0W6A101C2000000/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-06T22:57:15+00:00",
-      "age_days": 0.52,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "【シリコンバレー=伴正春】AI（人工知能）データセンターを手がける新興企業に懸念が強まっている。「ネオクラウド」などと呼ばれる米上場6社の負債は1年で8倍となった。米中間選挙で民主党が躍進し、建設延期で資金回収が遅れれば、信用不安が広がる恐れがある。決算、中間選挙に関する質問相次ぐ「進行中のプロジェク..."
     }
   ],
   "read_order": [
@@ -332,8 +331,8 @@
   "counts": {
     "bands_after_gate_recheck": {
       "strong": 4,
-      "watch": 4,
-      "quiet": 4
+      "watch": 5,
+      "quiet": 3
     }
   }
 }
