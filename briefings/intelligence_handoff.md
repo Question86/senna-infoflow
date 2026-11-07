@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-11-07T22:31:23Z_
+_Generated: 2026-11-07T23:02:13Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “毎朝のセキュリティ確認をAI�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-11-07T00:36:39+00:00` / age_days `0.91`
+- Published: `2026-11-07T00:36:39+00:00` / age_days `0.93`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “毎朝のセキュリティ確認をAI�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `25.0`
-- Published: `2026-11-07T07:11:08+00:00` / age_days `0.64`
+- Published: `2026-11-07T07:11:08+00:00` / age_days `0.66`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: critical, rce, code, security high-signal: critical, rce, code
@@ -32,17 +32,27 @@ Stärkste Dynamik nach Gate-Recheck: “毎朝のセキュリティ確認をAI�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-07T07:11:08+00:00` / age_days `0.64`
+- Published: `2026-11-07T07:11:08+00:00` / age_days `0.66`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, code, security high-signal: rce, code, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, krass gate recheck: needs multi-source, identity, or official high-signal phrase
 - Quelle: https://github.com/mpv-player/mpv
 
+### Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-11-07T13:18:14+00:00` / age_days `0.41`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: security high-signal: cve, security, cloud, krass gate recheck: needs multi-source, identity, or official high-signal phrase
+- Quelle: https://zenn.dev/tomipetit/articles/zero-wire-github-actions
+
 ### ハーネスエンジニアリングを有名OSSはどう組んでいるのか？AIへの信頼で比べる5事例
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-07T09:20:09+00:00` / age_days `0.55`
+- Published: `2026-11-07T09:20:09+00:00` / age_days `0.57`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -52,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “毎朝のセキュリティ確認をAI�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `141.86`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `141.88`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 141.9d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “毎朝のセキュリティ確認をAI�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.0`
-- Published: `2026-11-07T21:19:02.040+00:00` / age_days `0.05`
+- Published: `2026-11-07T21:19:02.040+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -72,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “毎朝のセキュリティ確認をAI�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.0`
-- Published: `2026-11-07T07:11:08+00:00` / age_days `0.64`
+- Published: `2026-11-07T07:11:08+00:00` / age_days `0.66`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: active, code, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “毎朝のセキュリティ確認をAI�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-11-07T10:00:45+00:00` / age_days `0.52`
+- Published: `2026-11-07T10:00:45+00:00` / age_days `0.54`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -92,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “毎朝のセキュリティ確認をAI�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-11-07T20:13:03.040+00:00` / age_days `0.1`
+- Published: `2026-11-07T20:13:03.040+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “毎朝のセキュリティ確認をAI�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-11-07T17:37:15.040+00:00` / age_days `0.2`
+- Published: `2026-11-07T17:37:15.040+00:00` / age_days `0.23`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “毎朝のセキュリティ確認をAI�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-11-07T11:55:28.040+00:00` / age_days `0.44`
+- Published: `2026-11-07T11:55:28.040+00:00` / age_days `0.46`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000twrt
-
-### M 4.6 - South Sandwich Islands region
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `17.0`
-- Published: `2026-11-07T07:41:39.040+00:00` / age_days `0.62`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake, high terms: 10
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000twqw
 
 END OF DOCUMENT
