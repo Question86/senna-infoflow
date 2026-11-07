@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-07T17:22:09+00:00_
+_Generiert: 2026-11-07T17:27:20+00:00_
 
 ## Kurzlage
 
-25 neue relevante Treffer. Stärkstes Signal: „ISUCON2026をClaude Codeが優勝したらしい｜laiso“ aus Hatena Bookmark Hotentry IT (Score 20, observation).
+26 neue relevante Treffer. Stärkstes Signal: „ISUCON2026をClaude Codeが優勝したらしい｜laiso“ aus Hatena Bookmark Hotentry IT (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -60,6 +60,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **ハーネスエンジニアリングを有名OSSはどう組んでいるのか？AIへの信頼で比べる5事例** — Score 13, observation — [Quelle](https://gibberishlab.com/blog/oss-ai-agent-harness-philosophy)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-07T09:20:09+00:00`, fetched `2026-11-07T17:26:51+00:00`
+  - Treffer: agent, AI/KI, Hatena, hotentry, Open Source
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Open Source (+3.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)
+  - Kurz: 信頼の厚さの評価はハーネスの設計から読み取った筆者の解釈で、プロジェクトの規模や開発文化の違いも影響しているはずです。各行の根拠はそれぞれの節で引用しています。 信頼が厚いZedとSentryは、ハーネスに書く量を最小限にして、残りをAIの判断に任せています。中間のOpenClawはAIを自走させる一方で、判断の仕方...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AIネオクラウド「8割消滅」予測 債務膨張、民主旋風が追い打ち - 日本経済新聞** — Score 10, observation — [Quelle](https://www.nikkei.com/article/DGXZQOGN060JD0W6A101C2000000/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-06T22:57:15+00:00`, fetched `2026-11-07T00:42:00+00:00`
@@ -140,15 +149,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: 🎥 Command line media player https://mpv.io mpv External links Overview System requirements Downloads Changelog Compilation Release cycle Bug reports Contributing License Contact External links Wiki User Scripts FAQ Manual Overview mpv is a free (as in freedom) media player for the command line. It supports a wide variety of media file formats, audio and video codecs, and subtitle types. There is a FAQ . Releases can…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **VoidでWebアプリを作ろう！** — Score 7, observation — [Quelle](https://void-workshop.yusuke.run/phpmatsuri)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-07T07:15:20+00:00`, fetched `2026-11-07T16:17:44+00:00`
-  - Treffer: developer, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); developer (+2.0); recent (+1.0)
-  - Kurz: # VoidでWebアプリを作ろう！ PHPMatsuri Reboot in Hackone Cloudflare / VoidZero - Developer Advocate / Yusuke Wada
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Copilot code review: API management and review overview updates** — Score 6, observation — [Quelle](https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates)
   - Quelle: GitHub Changelog Atom / `rss`

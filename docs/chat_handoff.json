@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-07T17:22:09+00:00",
+  "generated_at": "2026-11-07T17:27:20+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 25,
-    "displayed_findings": 25,
+    "new_relevant_findings": 1,
+    "today_file_total": 26,
+    "displayed_findings": 26,
     "high": 0,
     "medium": 5,
-    "observe": 20
+    "observe": 21
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -55,6 +55,16 @@
       "section": "medium"
     },
     {
+      "title": "ハーネスエンジニアリングを有名OSSはどう組んでいるのか？AIへの信頼で比べる5事例",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-07T09:20:09+00:00",
+      "relevance_score": 13,
+      "url": "https://gibberishlab.com/blog/oss-ai-agent-harness-philosophy",
+      "summary": "信頼の厚さの評価はハーネスの設計から読み取った筆者の解釈で、プロジェクトの規模や開発文化の違いも影響しているはずです。各行の根拠はそれぞれの節で引用しています。 信頼が厚いZedとSentryは、ハーネスに書く量を最小限にして、残りをAIの判断に任せています。中間のOpenClawはAIを自走させる一方で、判断の仕方...",
+      "section": "observe"
+    },
+    {
       "title": "AIネオクラウド「8割消滅」予測 債務膨張、民主旋風が追い打ち - 日本経済新聞",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 9,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twss",
       "summary": "Time 2026-11-07 15:22:50 UTC 2026-11-07 15:22:50 UTC at epicenter Location 19.740°S 14.647°E Depth 8.04 km (4.99 mi)",
-      "section": "observe"
-    },
-    {
-      "title": "Christine Lagarde: Interview with Yomiuri Shimbun",
-      "source": "ECB Press Releases Speeches Interviews",
-      "source_type": "rss",
-      "published_at": "2026-11-07T14:00:00+00:00",
-      "relevance_score": 9,
-      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html",
-      "summary": "Christine Lagarde: Interview with Yomiuri Shimbun",
       "section": "observe"
     }
   ],

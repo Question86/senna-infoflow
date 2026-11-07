@@ -168,6 +168,30 @@
     "id": "aa849a8e28dfe651c259"
   },
   {
+    "title": "ハーネスエンジニアリングを有名OSSはどう組んでいるのか？AIへの信頼で比べる5事例",
+    "url": "https://gibberishlab.com/blog/oss-ai-agent-harness-philosophy",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-11-07T09:20:09+00:00",
+    "fetched_at": "2026-11-07T17:26:51+00:00",
+    "summary": "信頼の厚さの評価はハーネスの設計から読み取った筆者の解釈で、プロジェクトの規模や開発文化の違いも影響しているはずです。各行の根拠はそれぞれの節で引用しています。 信頼が厚いZedとSentryは、ハーネスに書く量を最小限にして、残りをAIの判断に任せています。中間のOpenClawはAIを自走させる一方で、判断の仕方...",
+    "matched_keywords": [
+      "agent",
+      "AI/KI",
+      "Hatena",
+      "hotentry",
+      "Open Source"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "AI/KI (+3.0); Open Source (+3.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "00ab8dd72401c1435853"
+  },
+  {
     "title": "AIネオクラウド「8割消滅」予測 債務膨張、民主旋風が追い打ち - 日本経済新聞",
     "url": "https://www.nikkei.com/article/DGXZQOGN060JD0W6A101C2000000/",
     "source": "Hatena Bookmark Hotentry IT",

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-07T17:22:09+00:00",
+  "generated_at": "2026-11-07T17:27:20+00:00",
   "topics": {
     "ai": [
       {
@@ -24,6 +24,13 @@
         "published_at": "2026-11-07T00:36:39+00:00",
         "relevance_score": 14,
         "url": "https://zenn.dev/stock_inc/articles/ai-daily-security-check-criteria"
+      },
+      {
+        "title": "ハーネスエンジニアリングを有名OSSはどう組んでいるのか？AIへの信頼で比べる5事例",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-07T09:20:09+00:00",
+        "relevance_score": 13,
+        "url": "https://gibberishlab.com/blog/oss-ai-agent-harness-philosophy"
       },
       {
         "title": "AIネオクラウド「8割消滅」予測 債務膨張、民主旋風が追い打ち - 日本経済新聞",
@@ -66,13 +73,6 @@
         "published_at": "2026-11-07T10:23:56+00:00",
         "relevance_score": 5,
         "url": "https://www.pospome.work/entry/2026/11/07/192125"
-      },
-      {
-        "title": "「AIであってほしかった」近所の書店にいったらBLのエロ本が子供向けの本のすぐ近くに平積みされている。子供への性加害は辞めるべきだ。",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-06T11:09:56+00:00",
-        "relevance_score": 5,
-        "url": "https://posfie.com/@Acg3C2/p/NF0FdOe"
       }
     ],
     "general": [
