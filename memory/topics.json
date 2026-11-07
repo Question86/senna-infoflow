@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-07T07:00:18+00:00",
+  "generated_at": "2026-11-07T07:11:38+00:00",
   "topics": {
     "ai": [
       {
@@ -33,11 +33,46 @@
         "url": "https://www.nikkei.com/article/DGXZQOUB064NX0W6A101C2000000/"
       },
       {
+        "title": "rust-lang/rust",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 8,
+        "url": "https://github.com/rust-lang/rust"
+      },
+      {
+        "title": "rails/rails",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 8,
+        "url": "https://github.com/rails/rails"
+      },
+      {
+        "title": "mpv-player/mpv",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 8,
+        "url": "https://github.com/mpv-player/mpv"
+      },
+      {
         "title": "「AIであってほしかった」近所の書店にいったらBLのエロ本が子供向けの本のすぐ近くに平積みされている。子供への性加害は辞めるべきだ。",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-11-06T11:09:56+00:00",
         "relevance_score": 5,
         "url": "https://posfie.com/@Acg3C2/p/NF0FdOe"
+      },
+      {
+        "title": "zed-industries/zed",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 5,
+        "url": "https://github.com/zed-industries/zed"
+      },
+      {
+        "title": "react/react",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 5,
+        "url": "https://github.com/react/react"
       }
     ],
     "security": [
@@ -51,14 +86,65 @@
     ],
     "github": [
       {
+        "title": "rust-lang/rust",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 8,
+        "url": "https://github.com/rust-lang/rust"
+      },
+      {
+        "title": "rails/rails",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 8,
+        "url": "https://github.com/rails/rails"
+      },
+      {
+        "title": "mpv-player/mpv",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 8,
+        "url": "https://github.com/mpv-player/mpv"
+      },
+      {
         "title": "Copilot code review: API management and review overview updates",
         "source": "GitHub Changelog Atom",
         "published_at": "2026-11-07T00:27:19+00:00",
         "relevance_score": 6,
         "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates"
+      },
+      {
+        "title": "zed-industries/zed",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 5,
+        "url": "https://github.com/zed-industries/zed"
+      },
+      {
+        "title": "react/react",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 5,
+        "url": "https://github.com/react/react"
+      }
+    ],
+    "economy": [
+      {
+        "title": "rust-lang/rust",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 8,
+        "url": "https://github.com/rust-lang/rust"
       }
     ],
     "geopolitics": [
+      {
+        "title": "rust-lang/rust",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 8,
+        "url": "https://github.com/rust-lang/rust"
+      },
       {
         "title": "Copilot code review: API management and review overview updates",
         "source": "GitHub Changelog Atom",
