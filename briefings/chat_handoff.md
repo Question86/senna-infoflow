@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-07T23:44:11+00:00_
+_Generated: 2026-11-07T23:49:50+00:00_
 
 ## Status
 - status: `normal`
-- findings: `33`
+- findings: `34`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-11-07T23:44:11+00:00_
 - url: https://www.nikkei.com/article/DGXZQOUB064NX0W6A101C2000000/
 - summary: 日経平均株価は6日、前日比3643円安となり歴代3位の下げ幅を記録し、さながら株式市場の「ブラックフライデー」となった。東証プライム上場の98%が下落し悲観一色のなかでも「お値打ち銘柄」を拾おうとする動きが出始めた。代表は太陽誘電など人工知能（AI）関連銘柄の一部だ。「朝からひどく忙しかった。海外投資家から...
 
-### 8. M 5.9 - central Mid-Atlantic Ridge
+### 8. M 5.1 - 91 km ENE of Hihifo, Tonga
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
-- published: `2026-11-07T23:35:40.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000twun
-- summary: Time 2026-11-07 23:17:06 UTC 2026-11-07 23:17:06 UTC at epicenter Location 7.341°N 36.973°W Depth 10.00 km (6.21 mi)
+- published: `2026-11-07T23:44:30.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000twus
+- summary: Time 2026-11-07 23:27:09 UTC 2026-11-07 23:27:09 UTC at epicenter Location 15.684°S 172.985°W Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
