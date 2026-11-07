@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-07T11:16:33Z",
+  "generated_at": "2026-11-07T11:32:06Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 20,
+    "dynamics": 21,
     "bands": {
       "krass": 1,
       "strong": 3,
-      "watch": 3,
+      "watch": 4,
       "quiet": 13
     },
     "bands_after_gate_recheck": {
       "strong": 4,
-      "watch": 3,
+      "watch": 4,
       "quiet": 13
     }
   },
@@ -23,7 +23,7 @@
       "url": "https://zenn.dev/stock_inc/articles/ai-daily-security-check-criteria",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T00:36:39+00:00",
-      "age_days": 0.44,
+      "age_days": 0.46,
       "topics": [
         "ai",
         "security"
@@ -48,7 +48,7 @@
       "url": "https://github.com/rust-lang/rust",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-07T07:11:08+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "macro"
@@ -74,7 +74,7 @@
       "url": "https://github.com/mpv-player/mpv",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-07T07:11:08+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -102,7 +102,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 141.39,
+      "age_days": 141.4,
       "topics": [
         "ai"
       ],
@@ -131,7 +131,7 @@
       "url": "https://github.com/react/react",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-07T07:11:08+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -158,7 +158,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twqw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-07T07:41:39.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -179,11 +179,38 @@
       "summary": "Time 2026-11-07 07:14:10 UTC 2026-11-07 07:14:10 UTC at epicenter Location 57.958°S 25.802°W Depth 103.68 km (64.43 mi)"
     },
     {
+      "title": "M 5.5 - 74 km NE of Hasaki, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twrq",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-07T11:28:07.636+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai",
+        "disaster"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: earthquake",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "ShakeMap - IV DYFI? - II Time 2026-11-07 11:07:43 UTC 2026-11-07 11:07:43 UTC at epicenter Location 36.188°N 141.440°E Depth 31.75 km (19.73 mi)"
+    },
+    {
       "title": "東大・国立環境研、20年以上開発されてきた大気モデルをClaude Codeで移植 実行速度1.71倍、進行を制約したのは人間のレビューと利用上限 | Ledge.ai",
       "url": "https://ledge.ai/articles/nicam_claude_code_migration",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-06T19:26:50+00:00",
-      "age_days": 0.66,
+      "age_days": 0.67,
       "topics": [
         "ai"
       ],
@@ -209,7 +236,7 @@
       "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-07T00:27:19+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "general"
       ],
@@ -233,7 +260,7 @@
       "url": "https://news.web.nhk/newsweb/na/nd-20261107de72062",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T03:30:33+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -257,7 +284,7 @@
       "url": "https://togetter.com/li/2767610",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T02:20:55+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "general"
       ],
@@ -281,7 +308,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN060JD0W6A101C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-06T22:57:15+00:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [
         "ai"
       ],
@@ -307,7 +334,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOUB064NX0W6A101C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-06T09:39:24+00:00",
-      "age_days": 1.07,
+      "age_days": 1.08,
       "topics": [
         "ai"
       ],
@@ -333,7 +360,7 @@
       "url": "https://github.com/rails/rails",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-07T07:11:08+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -359,7 +386,7 @@
       "url": "https://newsdig.tbs.co.jp/articles/-/3068819",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T04:39:14+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -383,7 +410,7 @@
       "url": "https://github.com/zed-industries/zed",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-07T07:11:08+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -410,7 +437,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 140.35,
+      "age_days": 140.36,
       "topics": [
         "general"
       ],
@@ -435,7 +462,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 140.35,
+      "age_days": 140.36,
       "topics": [
         "general"
       ],
@@ -460,7 +487,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 140.35,
+      "age_days": 140.36,
       "topics": [
         "ai"
       ],
@@ -487,7 +514,7 @@
       "url": "https://zenn.dev/anfangd/articles/aws-web-ingress-origin-protection",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-06T23:36:13+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "ai"
       ],
@@ -512,7 +539,7 @@
       "url": "https://posfie.com/@Acg3C2/p/NF0FdOe",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-06T11:09:56+00:00",
-      "age_days": 1.0,
+      "age_days": 1.02,
       "topics": [
         "ai"
       ],
