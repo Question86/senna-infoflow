@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-07T13:16:49Z",
+  "generated_at": "2026-11-07T13:31:20Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “毎朝のセキュリティ確認をAIに任せたら、判定の基準が「人が動く必要があるか」に変わった” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://zenn.dev/stock_inc/articles/ai-daily-security-check-criteria",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T00:36:39+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "ai",
         "security"
@@ -40,7 +40,7 @@
       "url": "https://github.com/rust-lang/rust",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-07T07:11:08+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "ai",
         "macro"
@@ -66,7 +66,7 @@
       "url": "https://github.com/mpv-player/mpv",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-07T07:11:08+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -94,7 +94,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 141.47,
+      "age_days": 141.48,
       "topics": [
         "ai"
       ],
@@ -123,7 +123,7 @@
       "url": "https://github.com/react/react",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-07T07:11:08+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -150,7 +150,7 @@
       "url": "https://sizu.me/laiso/posts/k59is4cnd77f",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T10:00:45+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -176,7 +176,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twrt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-07T11:55:28.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -201,7 +201,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twqw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-07T07:41:39.040+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -226,7 +226,7 @@
       "url": "https://www.pospome.work/entry/2026/11/07/192125",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T10:23:56+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -252,7 +252,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twrq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-07T11:28:07.636+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "disaster"
@@ -279,7 +279,7 @@
       "url": "https://ledge.ai/articles/nicam_claude_code_migration",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-06T19:26:50+00:00",
-      "age_days": 0.74,
+      "age_days": 0.75,
       "topics": [
         "ai"
       ],
@@ -305,7 +305,7 @@
       "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-07T00:27:19+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "general"
       ],
