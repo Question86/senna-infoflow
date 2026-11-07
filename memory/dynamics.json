@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-07T06:47:10Z",
+  "generated_at": "2026-11-07T07:02:22Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 11,
+    "dynamics": 12,
     "bands": {
       "strong": 2,
       "watch": 1,
-      "quiet": 8
+      "quiet": 9
     },
     "bands_after_gate_recheck": {
       "strong": 2,
       "watch": 1,
-      "quiet": 8
+      "quiet": 9
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://zenn.dev/stock_inc/articles/ai-daily-security-check-criteria",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T00:36:39+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "ai",
         "security"
@@ -47,7 +47,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 141.2,
+      "age_days": 141.21,
       "topics": [
         "ai"
       ],
@@ -76,7 +76,7 @@
       "url": "https://ledge.ai/articles/nicam_claude_code_migration",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-06T19:26:50+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "ai"
       ],
@@ -102,7 +102,7 @@
       "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-07T00:27:19+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -122,11 +122,35 @@
       "summary": "You can now manage GitHub Copilot code review settings through the REST and GraphQL APIs, from enterprise policy down to individual repositories. Copilot’s review overview comment is now more compact,… The post Copilot code review: API management and review overview updates appeared first on The GitHub Blog ."
     },
     {
+      "title": "旦那のデスクトップPCがハッキングされてクレカ不正利用が判明、今朝マウスを触っていないのにポイントが勝手に動き、決済メールをチマチマ消す決定的瞬間を目撃したらしい",
+      "url": "https://togetter.com/li/2767610",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-07T02:20:55+00:00",
+      "age_days": 0.2,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "くろの @kuro3519 旦那のデスクトップPCがハッキングされ、クレカ不正利用判明 1000円台、2000円台のゲーム課金が数ヶ月前から複数あり、問合せ中だったが、ついに今朝マウス触ってないのにポイントが勝手に動き、決済メールをチマチマ消す決定的瞬間を目撃したらしい 即LAN抜いてカード止めて… 返金されるんかな… 2026-..."
+    },
+    {
       "title": "AIネオクラウド「8割消滅」予測 債務膨張、民主旋風が追い打ち - 日本経済新聞",
       "url": "https://www.nikkei.com/article/DGXZQOGN060JD0W6A101C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-06T22:57:15+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -152,7 +176,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOUB064NX0W6A101C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-06T09:39:24+00:00",
-      "age_days": 0.88,
+      "age_days": 0.89,
       "topics": [
         "ai"
       ],
@@ -178,7 +202,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 140.16,
+      "age_days": 140.18,
       "topics": [
         "general"
       ],
@@ -203,7 +227,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 140.16,
+      "age_days": 140.18,
       "topics": [
         "general"
       ],
@@ -228,7 +252,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 140.16,
+      "age_days": 140.18,
       "topics": [
         "ai"
       ],
@@ -255,7 +279,7 @@
       "url": "https://zenn.dev/anfangd/articles/aws-web-ingress-origin-protection",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-06T23:36:13+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -280,7 +304,7 @@
       "url": "https://posfie.com/@Acg3C2/p/NF0FdOe",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-06T11:09:56+00:00",
-      "age_days": 0.82,
+      "age_days": 0.83,
       "topics": [
         "ai"
       ],
