@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-08T14:58:32+00:00_
+_Generiert: 2026-11-08T15:06:21+00:00_
 
 ## Kurzlage
 
-25 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+25 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk). 3 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -182,3 +182,9 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `google_trends_japan_hot` (rss): 503 Server Error: Service Unavailable for url: https://trends.google.co.jp/trending/rss?geo=JP
+- `google_trends_korea_hot` (rss): 503 Server Error: Service Unavailable for url: https://trends.google.co.kr/trending/rss?geo=KR
+- `google_trends_vietnam_hot` (rss): HTTPSConnectionPool(host='trends.google.com.vn', port=443): Read timed out. (read timeout=8)
