@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-08T12:34:22+00:00_
+_Generiert: 2026-11-08T12:39:40+00:00_
 
 ## Kurzlage
 
-22 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+23 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -118,6 +118,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: Ole Lehmann @itsolelehmann we have a winner for the most absurd AI startup ever this Peter Thiel backed company uses AI robots to stab fish in the brain so they taste better and last up to 3x longer it's called Shinkei and it modernizes a centuries-old Japanese technique dozens of Michelin-star r...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **MCPはなぜ復権したのか：CLIが支持された理由と、流れを変えた仕様変更 | Hiraoku.dev** — Score 13, observation — [Quelle](https://hiraoku.dev/blog/mcp-cli-cloud/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-08T02:33:33+00:00`, fetched `2026-11-08T12:39:10+00:00`
+  - Treffer: agent, AI/KI, Hatena, hotentry, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: MCPAICLIAgentCloudMCPはなぜ復権したのか：CLIが支持された理由と、流れを変えた仕様変更なぜMCPへの批判が生まれ、CLIが支持されたのか。2026年7月28日版のステートレス化と、ツールの遅延読み込み・コード実行から、MCPの再評価を支えた変化を解説します。 Tech·Hiraoku·2026年11月7日·43 分で読めます いま、MCPはAI...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.7 - 46 km NW of Huara, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000twxf)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-08T12:27:11.041+00:00`, fetched `2026-11-08T12:27:42+00:00`
@@ -144,15 +153,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)
   - Kurz: 【図解あり】マルチエージェント設計「15のパターン」 GitHub、Google、Siemensの知見を一気に整理：AIエージェントの「暴走」を防ぐ6つの基本原則も AIエージェントの一般化に伴い、複数のAIエージェントを連携させるマルチエージェントシステムが注目されています。GitHub、Google、Siemensが紹介した15のデザインパ...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **NVIDIAがAI GPUの位置追跡を東南アジアのクラウド事業者に義務付け。GeForce RTX 5090も対象になる可能性も** — Score 8, observation — [Quelle](https://gazlog.jp/entry/nvidia-southeast-asia-location-tracking-for-gpu/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-07T21:13:41+00:00`, fetched `2026-11-08T00:50:52+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: AI GPUの中国への流出が問題になっているNVIDIAが、東南アジアでNVIDIA Cloud Partner（NCP）の認定を求める顧客に、GPUの位置を記録できるFleet Intelligenceへの登録を義務付けたとのことです。NCPになれば最新のAI GPUを優先して回してもらえるため、任意のはずの登録が事実上の条件になります。 NVIDIAが東南アジア...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **meta/astryx** — Score 8, opportunity — [Quelle](https://github.com/meta/astryx)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`

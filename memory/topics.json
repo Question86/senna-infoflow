@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-08T12:34:22+00:00",
+  "generated_at": "2026-11-08T12:39:40+00:00",
   "topics": {
     "ai": [
       {
@@ -31,6 +31,13 @@
         "published_at": "2026-11-08T10:45:23+00:00",
         "relevance_score": 13,
         "url": "https://posfie.com/@su_damari/p/xvcxjNy"
+      },
+      {
+        "title": "MCPはなぜ復権したのか：CLIが支持された理由と、流れを変えた仕様変更 | Hiraoku.dev",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-08T02:33:33+00:00",
+        "relevance_score": 13,
+        "url": "https://hiraoku.dev/blog/mcp-cli-cloud/"
       },
       {
         "title": "【図解あり】マルチエージェント設計「15のパターン」 GitHub、Google、Siemensの知見を一気に整理",
@@ -66,13 +73,6 @@
         "published_at": "2026-11-07T13:51:49+00:00",
         "relevance_score": 5,
         "url": "https://speakerdeck.com/nagisa53/aws-o-riyou-suru-ue-de-shi-te-okitai-namae-kaiketsu-no-hanashi-2026"
-      },
-      {
-        "title": "桜井政博氏、生成AIへの考えかたを示す。「いまのところは使っていない」し、「どこかへの搾取になってはいけない」。一方で現在の“大変すぎるゲーム開発”への懸念も【ファミ通40周年フェス】 | ゲーム・エンタメ最新情報のファミ通.com",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-07T09:49:08+00:00",
-        "relevance_score": 5,
-        "url": "https://www.famitsu.com/article/202611/93352"
       }
     ],
     "github": [
