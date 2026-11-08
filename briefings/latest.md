@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-08T21:21:39+00:00_
+_Generiert: 2026-11-08T21:27:22+00:00_
 
 ## Kurzlage
 
@@ -45,6 +45,8 @@ _Generiert: 2026-11-08T21:21:39+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone 02-20262027-27. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+
+- Sensor-Hinweis: USGS failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 ## Wirtschaft global
 
