@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-08T09:10:02+00:00",
+  "generated_at": "2026-11-08T09:16:22+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 15,
-    "displayed_findings": 15,
+    "new_relevant_findings": 1,
+    "today_file_total": 16,
+    "displayed_findings": 16,
     "high": 0,
     "medium": 4,
-    "observe": 11
+    "observe": 12
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -85,13 +85,13 @@
       "section": "observe"
     },
     {
-      "title": "リストラします。会社のMacBookは引き続き使えます",
+      "title": "Jw_cadを思わせる無料BIM「SumiCAD」登場！ 開発者の意外な正体とは | 建設ITブログ",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-11-07T22:20:32+00:00",
+      "published_at": "2026-11-08T04:37:22+00:00",
       "relevance_score": 5,
-      "url": "https://www.watch.impress.co.jp/docs/topic/watchplus/2154253.html",
-      "summary": "リストラします。会社のMacBookは引き続き使えます",
+      "url": "https://ken-it.world/it/2026/11/sumicad-free-bim.html",
+      "summary": "管理人のイエイリです。 木造住宅の設計でBIMソフトを使っていても、確認申請用の図面は結局、Jw_cadで仕上げる。そんな話をよく聞きます。 しかし、施主の要望で窓を一つ動かすだけでも、平面図や立面図、断面図をあちこち直すのは大変です。かといって、高価なBIMソフトを何本もそろえるのも、小規模な工務店には負担...",
       "section": "observe"
     }
   ],
