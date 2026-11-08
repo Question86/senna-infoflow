@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-11-08T06:34:01Z_
+_Generated: 2026-11-08T07:03:06Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “NVIDIAがAI GPUの位置追跡を東南�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `25.0`
-- Published: `2026-11-07T21:13:41+00:00` / age_days `0.39`
+- Published: `2026-11-07T21:13:41+00:00` / age_days `0.41`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “NVIDIAがAI GPUの位置追跡を東南�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `142.19`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `142.21`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 142.2d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “NVIDIAがAI GPUの位置追跡を東南�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-11-08T05:53:56+00:00` / age_days `0.03`
+- Published: `2026-11-08T05:53:56+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: earthquake, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -42,17 +42,27 @@ Stärkste Dynamik nach Gate-Recheck: “NVIDIAがAI GPUの位置追跡を東南�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-11-08T02:39:56.040+00:00` / age_days `0.16`
+- Published: `2026-11-08T02:39:56.040+00:00` / age_days `0.18`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000twvb
 
+### M 4.5 - 90 km NE of Punta Cana, Dominican Republic
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `12.0`
+- Published: `2026-11-08T06:39:09.040+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000twwc
+
 ### Sakutto - Local AI translation - Chrome Web Store
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-11-07T15:32:29+00:00` / age_days `0.63`
+- Published: `2026-11-07T15:32:29+00:00` / age_days `0.65`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: early terms: local, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “NVIDIAがAI GPUの位置追跡を東南�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-11-07T09:05:57+00:00` / age_days `0.89`
+- Published: `2026-11-07T09:05:57+00:00` / age_days `0.91`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -72,17 +82,27 @@ Stärkste Dynamik nach Gate-Recheck: “NVIDIAがAI GPUの位置追跡を東南�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-11-07T00:14:43+00:00` / age_days `1.26`
+- Published: `2026-11-07T00:14:43+00:00` / age_days `1.28`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
 - Quelle: https://anond.hatelabo.jp/20261107090533
 
+### ホテル川久に宿泊し、バブルの夢を偲ぶ - 生存記録
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `10.0`
+- Published: `2026-11-06T07:33:34+00:00` / age_days `1.98`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: high terms: 10
+- Quelle: https://hayasinonakanozou.hatenablog.com/entry/2026/11/03/111931
+
 ### 【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `141.16`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `141.18`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1, aging penalty -16.0 for 141.2d old signal
@@ -92,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “NVIDIAがAI GPUの位置追跡を東南�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `141.16`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `141.18`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1, aging penalty -16.0 for 141.2d old signal
@@ -102,30 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “NVIDIAがAI GPUの位置追跡を東南�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `141.16`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `141.18`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +1, single-source AI hype brake -8.0, aging penalty -16.0 for 141.2d old signal, single-source AI cap enforced after phrase recheck
 - Quelle: https://toyokeizai.net/articles/-/948348?display=b
-
-### AWSを利用する上で知っておきたい名前解決の話 2026
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `0`
-- Published: `2026-11-07T13:51:49+00:00` / age_days `0.7`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://speakerdeck.com/nagisa53/aws-o-riyou-suru-ue-de-shi-te-okitai-namae-kaiketsu-no-hanashi-2026
-
-### 桜井政博氏、生成AIへの考えかたを示す。「いまのところは使っていない」し、「どこかへの搾取になってはいけない」。一方で現在の“大変すぎるゲーム開発”への懸念も【ファミ通40周年フェス】 | ゲーム・エンタメ最新情報のファミ通.com
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `0`
-- Published: `2026-11-07T09:49:08+00:00` / age_days `0.86`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://www.famitsu.com/article/202611/93352
 
 END OF DOCUMENT
