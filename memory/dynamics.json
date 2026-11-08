@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-08T08:02:45Z",
+  "generated_at": "2026-11-08T08:19:17Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 19,
@@ -24,7 +24,7 @@
       "url": "https://gazlog.jp/entry/nvidia-southeast-asia-location-tracking-for-gpu/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T21:13:41+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "ai"
       ],
@@ -49,7 +49,7 @@
       "url": "https://github.com/vercel-labs/agent-browser",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-08T07:14:15+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "macro"
@@ -78,7 +78,7 @@
       "url": "https://github.com/meta/astryx",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-08T07:14:15+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -106,7 +106,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 142.25,
+      "age_days": 142.26,
       "topics": [
         "ai"
       ],
@@ -135,7 +135,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-11-08T05:53:56+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "macro",
@@ -164,7 +164,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twvb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-08T02:39:56.040+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -189,7 +189,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twwc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-08T06:39:09.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -213,7 +213,7 @@
       "url": "https://chromewebstore.google.com/detail/sakutto-local-ai-translat/mhlbjjijfkoghmcjndgdimhdlfkhadfl",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T15:32:29+00:00",
-      "age_days": 0.69,
+      "age_days": 0.7,
       "topics": [
         "ai"
       ],
@@ -239,7 +239,7 @@
       "url": "https://gigazine.net/news/20261107-harmony/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T09:05:57+00:00",
-      "age_days": 0.96,
+      "age_days": 0.97,
       "topics": [
         "general"
       ],
@@ -263,7 +263,7 @@
       "url": "https://anond.hatelabo.jp/20261107090533",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T00:14:43+00:00",
-      "age_days": 1.33,
+      "age_days": 1.34,
       "topics": [
         "general"
       ],
@@ -287,7 +287,7 @@
       "url": "https://hayasinonakanozou.hatenablog.com/entry/2026/11/03/111931",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-06T07:33:34+00:00",
-      "age_days": 2.02,
+      "age_days": 2.03,
       "topics": [
         "general"
       ],
@@ -311,7 +311,7 @@
       "url": "https://www.watch.impress.co.jp/docs/topic/watchplus/2154253.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T22:20:32+00:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "general"
       ],
@@ -335,7 +335,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 141.22,
+      "age_days": 141.23,
       "topics": [
         "general"
       ],
@@ -360,7 +360,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 141.22,
+      "age_days": 141.23,
       "topics": [
         "general"
       ],
@@ -385,7 +385,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 141.22,
+      "age_days": 141.23,
       "topics": [
         "ai"
       ],
@@ -412,7 +412,7 @@
       "url": "https://speakerdeck.com/nagisa53/aws-o-riyou-suru-ue-de-shi-te-okitai-namae-kaiketsu-no-hanashi-2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T13:51:49+00:00",
-      "age_days": 0.76,
+      "age_days": 0.77,
       "topics": [
         "ai"
       ],
@@ -437,7 +437,7 @@
       "url": "https://www.famitsu.com/article/202611/93352",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T09:49:08+00:00",
-      "age_days": 0.93,
+      "age_days": 0.94,
       "topics": [
         "ai"
       ],
@@ -462,7 +462,7 @@
       "url": "https://speakerdeck.com/takuros/jaws-festa-2026-public",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T02:15:16+00:00",
-      "age_days": 1.24,
+      "age_days": 1.25,
       "topics": [
         "ai"
       ],
@@ -487,7 +487,7 @@
       "url": "https://www.techno-edge.net/article/2026/11/06/5679.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T00:46:51+00:00",
-      "age_days": 1.3,
+      "age_days": 1.31,
       "topics": [
         "ai"
       ],
