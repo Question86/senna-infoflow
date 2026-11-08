@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-08T17:16:01+00:00_
+_Generiert: 2026-11-08T17:22:03+00:00_
 
 ## Kurzlage
 
-26 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+27 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -154,14 +154,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - IV Time 2026-11-08 11:58:32 UTC 2026-11-08 11:58:32 UTC at epicenter Location 19.681°S 70.060°W Depth 68.79 km (42.74 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.5 - 90 km NE of Punta Cana, Dominican Republic** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000twwc)
+- **M 4.8 - central Mid-Atlantic Ridge** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000twyc)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-11-08T06:39:09.040+00:00`, fetched `2026-11-08T06:40:24+00:00`
+  - Zeit: published `2026-11-08T17:20:59.040+00:00`, fetched `2026-11-08T17:21:35+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-11-08 06:30:19 UTC 2026-11-08 06:30:19 UTC at epicenter Location 19.205°N 67.852°W Depth 30.42 km (18.90 mi)
+  - Kurz: Time 2026-11-08 16:33:24 UTC 2026-11-08 16:33:24 UTC at epicenter Location 7.703°N 36.945°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **【図解あり】マルチエージェント設計「15のパターン」 GitHub、Google、Siemensの知見を一気に整理** — Score 8, observation — [Quelle](https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
