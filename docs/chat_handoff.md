@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-08T16:56:48+00:00_
+_Generated: 2026-11-08T17:10:54+00:00_
 
 ## Status
 - status: `normal`
-- findings: `25`
+- findings: `26`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-11-08T16:56:48+00:00_
 - url: https://github.com/vercel-labs/agent-browser
 - summary: Browser automation CLI for AI agents https://agent-browser.dev agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. agent-browser is a native Rust CLI that gives an AI agent a brow…
 
-### 3. M 4.7 - 137 km E of Miyako, Japan
+### 3. M 4.6 - 117 km NE of Tobelo, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-11-08T17:04:06.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000twyd
+- summary: Time 2026-11-08 16:45:12 UTC 2026-11-08 16:45:12 UTC at epicenter Location 2.550°N 128.676°E Depth 224.59 km (139.55 mi)
+
+### 4. M 4.7 - 137 km E of Miyako, Japan
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-11-08T09:52:58.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000twx1
 - summary: Time 2026-11-08 09:23:35 UTC 2026-11-08 09:23:35 UTC at epicenter Location 39.865°N 143.526°E Depth 10.00 km (6.21 mi)
-
-### 4. M 4.5 - 11 km W of Honmachi, Japan
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-11-08T02:39:56.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000twvb
-- summary: Time 2026-11-08 01:53:16 UTC 2026-11-08 01:53:16 UTC at epicenter Location 32.501°N 130.472°E Depth 10.00 km (6.21 mi)
 
 ### 5. 日本で言う「活け締め」をAIロボで自動化したらしいんだが、ビジネスの組み方賢すぎる.
 - source: Hatena Bookmark Hotentry IT
