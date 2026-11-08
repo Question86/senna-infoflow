@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-08T03:58:08+00:00_
+_Generiert: 2026-11-08T04:06:58+00:00_
 
 ## Kurzlage
 
-6 neue relevante Treffer. Stärkstes Signal: „M 4.5 - 11 km W of Honmachi, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+7 neue relevante Treffer. Stärkstes Signal: „M 4.5 - 11 km W of Honmachi, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 ## Priorität Hoch
 
