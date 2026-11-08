@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-08T11:30:34+00:00",
-  "run_id": "2026-11-08T11:30:34+00:00",
+  "generated_at": "2026-11-08T11:36:44+00:00",
+  "run_id": "2026-11-08T11:36:44+00:00",
   "date": "2026-11-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 18,
     "displayed_findings": 18,
     "high": 0,
@@ -989,29 +989,7 @@
       "id": "f65b628b477bc03596a6"
     }
   ],
-  "new_findings": [
-    {
-      "title": "警告:ジャンプルーキーはそのうちAI漫画で埋まる",
-      "url": "https://anond.hatelabo.jp/20261108174809",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-08T08:51:31+00:00",
-      "fetched_at": "2026-11-08T11:30:04+00:00",
-      "summary": "ジャンプ＋ならともかく、ジャンプルーキーを読んでいるのはよほどの漫画好き、もしくは漫画家志望者だろう。 ジャンプルーキーは投稿に制限や審査がほぼなく、下手だろうが未完成だろうが好きに投稿できる。 はっきり言えば玉石石石石石…混淆なのだが、その中からルーキー賞などを経て、ジャンプ＋の読み切りなどに頭角...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "050e65ca249aca09a99d"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
