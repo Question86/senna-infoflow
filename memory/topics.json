@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-08T07:04:39+00:00",
+  "generated_at": "2026-11-08T07:14:45+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-11-08T05:53:56+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+      },
+      {
+        "title": "vercel-labs/agent-browser",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 22,
+        "url": "https://github.com/vercel-labs/agent-browser"
       },
       {
         "title": "Sakutto - Local AI translation - Chrome Web Store",
@@ -24,6 +31,13 @@
         "published_at": "2026-11-07T21:13:41+00:00",
         "relevance_score": 8,
         "url": "https://gazlog.jp/entry/nvidia-southeast-asia-location-tracking-for-gpu/"
+      },
+      {
+        "title": "meta/astryx",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 8,
+        "url": "https://github.com/meta/astryx"
       },
       {
         "title": "AWSを利用する上で知っておきたい名前解決の話 2026",
@@ -52,6 +66,22 @@
         "published_at": "2026-11-07T00:46:51+00:00",
         "relevance_score": 5,
         "url": "https://www.techno-edge.net/article/2026/11/06/5679.html"
+      }
+    ],
+    "github": [
+      {
+        "title": "vercel-labs/agent-browser",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 22,
+        "url": "https://github.com/vercel-labs/agent-browser"
+      },
+      {
+        "title": "meta/astryx",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 8,
+        "url": "https://github.com/meta/astryx"
       }
     ],
     "general": [
