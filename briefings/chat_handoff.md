@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-08T07:42:57+00:00_
+_Generated: 2026-11-08T07:53:46+00:00_
 
 ## Status
 - status: `normal`
-- findings: `14`
+- findings: `15`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-11-08T07:42:57+00:00_
 - url: https://github.com/meta/astryx
 - summary: An open source design system that's fully customizable and agent ready http://astryx.atmeta.com Astryx An open source design system that's fully customizable and built for how we build now: by people and the agents working alongside them. Currently in Beta ·…
 
-### 8. AWSを利用する上で知っておきたい名前解決の話 2026
+### 8. リストラします。会社のMacBookは引き続き使えます
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
-- published: `2026-11-07T13:51:49+00:00`
-- url: https://speakerdeck.com/nagisa53/aws-o-riyou-suru-ue-de-shi-te-okitai-namae-kaiketsu-no-hanashi-2026
-- summary: JAWS FESTA 2026 in AKITA
+- published: `2026-11-07T22:20:32+00:00`
+- url: https://www.watch.impress.co.jp/docs/topic/watchplus/2154253.html
+- summary: リストラします。会社のMacBookは引き続き使えます
 
 END OF DOCUMENT
