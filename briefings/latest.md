@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-08T04:23:43+00:00_
+_Generiert: 2026-11-08T04:29:12+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „M 4.5 - 11 km W of Honmachi, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+7 neue relevante Treffer. Stärkstes Signal: „M 4.5 - 11 km W of Honmachi, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -118,7 +118,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `google_trends_thailand_hot` (rss): HTTPSConnectionPool(host='trends.google.co.th', port=443): Read timed out. (read timeout=8)
