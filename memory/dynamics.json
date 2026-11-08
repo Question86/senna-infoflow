@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-08T17:01:54Z",
+  "generated_at": "2026-11-08T17:31:59Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 29,
+    "dynamics": 31,
     "bands": {
       "extreme": 1,
       "krass": 1,
       "strong": 5,
-      "watch": 3,
+      "watch": 5,
       "quiet": 19
     },
     "bands_after_gate_recheck": {
       "strong": 7,
-      "watch": 3,
+      "watch": 5,
       "quiet": 19
     }
   },
@@ -24,7 +24,7 @@
       "url": "https://gazlog.jp/entry/nvidia-southeast-asia-location-tracking-for-gpu/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T21:13:41+00:00",
-      "age_days": 0.83,
+      "age_days": 0.85,
       "topics": [
         "ai"
       ],
@@ -49,7 +49,7 @@
       "url": "https://github.com/vercel-labs/agent-browser",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-08T07:14:15+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "ai",
         "macro"
@@ -78,7 +78,7 @@
       "url": "https://github.com/meta/astryx",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-08T07:14:15+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "ai"
       ],
@@ -106,7 +106,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 142.63,
+      "age_days": 142.65,
       "topics": [
         "ai"
       ],
@@ -135,7 +135,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-11-08T16:23:11+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "macro",
@@ -164,7 +164,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twx1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-08T09:52:58.040+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "disaster"
       ],
@@ -189,7 +189,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twvb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-08T02:39:56.040+00:00",
-      "age_days": 0.6,
+      "age_days": 0.62,
       "topics": [
         "disaster"
       ],
@@ -214,7 +214,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twxn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-08T12:51:23.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -235,11 +235,60 @@
       "summary": "Time 2026-11-08 12:29:17 UTC 2026-11-08 12:29:17 UTC at epicenter Location 27.690°S 64.443°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 4.6 - 117 km NE of Tobelo, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twyd",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-08T17:04:06.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "Time 2026-11-08 16:45:12 UTC 2026-11-08 16:45:12 UTC at epicenter Location 2.550°N 128.676°E Depth 224.59 km (139.55 mi)"
+    },
+    {
+      "title": "M 4.8 - central Mid-Atlantic Ridge",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twyc",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-08T17:20:59.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-11-08 16:33:24 UTC 2026-11-08 16:33:24 UTC at epicenter Location 7.703°N 36.945°W Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 4.7 - 46 km NW of Huara, Chile",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twxf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-08T12:27:11.041+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -263,7 +312,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twwc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-08T06:39:09.040+00:00",
-      "age_days": 0.43,
+      "age_days": 0.45,
       "topics": [
         "disaster"
       ],
@@ -287,7 +336,7 @@
       "url": "https://chromewebstore.google.com/detail/sakutto-local-ai-translat/mhlbjjijfkoghmcjndgdimhdlfkhadfl",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T15:32:29+00:00",
-      "age_days": 1.06,
+      "age_days": 1.08,
       "topics": [
         "ai"
       ],
@@ -313,7 +362,7 @@
       "url": "https://gigazine.net/news/20261107-harmony/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T09:05:57+00:00",
-      "age_days": 1.33,
+      "age_days": 1.35,
       "topics": [
         "general"
       ],
@@ -337,7 +386,7 @@
       "url": "https://anond.hatelabo.jp/20261107090533",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T00:14:43+00:00",
-      "age_days": 1.7,
+      "age_days": 1.72,
       "topics": [
         "general"
       ],
@@ -361,7 +410,7 @@
       "url": "https://hayasinonakanozou.hatenablog.com/entry/2026/11/03/111931",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-06T07:33:34+00:00",
-      "age_days": 2.39,
+      "age_days": 2.42,
       "topics": [
         "general"
       ],
@@ -385,7 +434,7 @@
       "url": "https://posfie.com/@su_damari/p/xvcxjNy",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T10:45:23+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -410,7 +459,7 @@
       "url": "https://hiraoku.dev/blog/mcp-cli-cloud/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T02:33:33+00:00",
-      "age_days": 0.6,
+      "age_days": 0.62,
       "topics": [
         "ai"
       ],
@@ -435,7 +484,7 @@
       "url": "https://news.ntv.co.jp/category/economy/4524fbcdecaf445bac0d956439508aca",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T06:29:39+00:00",
-      "age_days": 0.44,
+      "age_days": 0.46,
       "topics": [
         "general"
       ],
@@ -459,7 +508,7 @@
       "url": "https://ken-it.world/it/2026/11/sumicad-free-bim.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T04:37:22+00:00",
-      "age_days": 0.52,
+      "age_days": 0.54,
       "topics": [
         "general"
       ],
@@ -483,7 +532,7 @@
       "url": "https://note.com/npaka/n/nae09bd9ce37d",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T03:30:34+00:00",
-      "age_days": 0.56,
+      "age_days": 0.58,
       "topics": [
         "general"
       ],
@@ -507,7 +556,7 @@
       "url": "https://www.watch.impress.co.jp/docs/topic/watchplus/2154253.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T22:20:32+00:00",
-      "age_days": 0.78,
+      "age_days": 0.8,
       "topics": [
         "general"
       ],
@@ -531,7 +580,7 @@
       "url": "https://anond.hatelabo.jp/20261108174809",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T08:51:31+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -557,7 +606,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 141.59,
+      "age_days": 141.61,
       "topics": [
         "general"
       ],
@@ -582,7 +631,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 141.59,
+      "age_days": 141.61,
       "topics": [
         "general"
       ],
@@ -607,7 +656,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 141.59,
+      "age_days": 141.61,
       "topics": [
         "ai"
       ],
@@ -634,7 +683,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T06:14:17+00:00",
-      "age_days": 0.45,
+      "age_days": 0.47,
       "topics": [
         "ai"
       ],
@@ -659,7 +708,7 @@
       "url": "https://speakerdeck.com/nagisa53/aws-o-riyou-suru-ue-de-shi-te-okitai-namae-kaiketsu-no-hanashi-2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T13:51:49+00:00",
-      "age_days": 1.13,
+      "age_days": 1.15,
       "topics": [
         "ai"
       ],
@@ -684,7 +733,7 @@
       "url": "https://www.famitsu.com/article/202611/93352",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T09:49:08+00:00",
-      "age_days": 1.3,
+      "age_days": 1.32,
       "topics": [
         "ai"
       ],
@@ -709,7 +758,7 @@
       "url": "https://speakerdeck.com/takuros/jaws-festa-2026-public",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T02:15:16+00:00",
-      "age_days": 1.62,
+      "age_days": 1.64,
       "topics": [
         "ai"
       ],
@@ -734,7 +783,7 @@
       "url": "https://www.techno-edge.net/article/2026/11/06/5679.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T00:46:51+00:00",
-      "age_days": 1.68,
+      "age_days": 1.7,
       "topics": [
         "ai"
       ],
