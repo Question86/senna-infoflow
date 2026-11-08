@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-08T12:32:10Z",
+  "generated_at": "2026-11-08T12:46:52Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 25,
+    "dynamics": 27,
     "bands": {
       "extreme": 1,
       "krass": 1,
       "strong": 5,
       "watch": 2,
-      "quiet": 16
+      "quiet": 18
     },
     "bands_after_gate_recheck": {
       "strong": 7,
       "watch": 2,
-      "quiet": 16
+      "quiet": 18
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://gazlog.jp/entry/nvidia-southeast-asia-location-tracking-for-gpu/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T21:13:41+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "ai"
       ],
@@ -49,7 +49,7 @@
       "url": "https://github.com/vercel-labs/agent-browser",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-08T07:14:15+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai",
         "macro"
@@ -78,7 +78,7 @@
       "url": "https://github.com/meta/astryx",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-08T07:14:15+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -106,7 +106,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 142.44,
+      "age_days": 142.45,
       "topics": [
         "ai"
       ],
@@ -125,7 +125,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 142.4d old signal",
+        "aging penalty -8.0 for 142.5d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -135,7 +135,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-11-08T05:53:56+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "ai",
         "macro",
@@ -164,7 +164,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twx1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-08T09:52:58.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -189,7 +189,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twvb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-08T02:39:56.040+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "disaster"
       ],
@@ -214,7 +214,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twxf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-08T12:27:11.041+00:00",
-      "age_days": 0.0,
+      "age_days": 0.01,
       "topics": [
         "disaster"
       ],
@@ -238,7 +238,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twwc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-08T06:39:09.040+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
@@ -262,7 +262,7 @@
       "url": "https://chromewebstore.google.com/detail/sakutto-local-ai-translat/mhlbjjijfkoghmcjndgdimhdlfkhadfl",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T15:32:29+00:00",
-      "age_days": 0.87,
+      "age_days": 0.88,
       "topics": [
         "ai"
       ],
@@ -288,7 +288,7 @@
       "url": "https://gigazine.net/news/20261107-harmony/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T09:05:57+00:00",
-      "age_days": 1.14,
+      "age_days": 1.15,
       "topics": [
         "general"
       ],
@@ -312,7 +312,7 @@
       "url": "https://anond.hatelabo.jp/20261107090533",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T00:14:43+00:00",
-      "age_days": 1.51,
+      "age_days": 1.52,
       "topics": [
         "general"
       ],
@@ -336,7 +336,7 @@
       "url": "https://hayasinonakanozou.hatenablog.com/entry/2026/11/03/111931",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-06T07:33:34+00:00",
-      "age_days": 2.21,
+      "age_days": 2.22,
       "topics": [
         "general"
       ],
@@ -356,11 +356,61 @@
       "summary": "以前から一度泊まってみたいと憧れつつ、距離が遠いためになかなか思いきれなかったホテル川久に泊まってきた。同行者あり。 和歌山へ行くのは2015年10月以来。そのときは紀伊半島を海沿いに走って那智の滝まで向かった。埼玉からだと和歌山へのアクセスはほぼ飛行機一択。 飛行機に乗るのは2023年4月、高松からの帰り以..."
     },
     {
+      "title": "日本で言う「活け締め」をAIロボで自動化したらしいんだが、ビジネスの組み方賢すぎる.",
+      "url": "https://posfie.com/@su_damari/p/xvcxjNy",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-08T10:45:23+00:00",
+      "age_days": 0.08,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Ole Lehmann @itsolelehmann we have a winner for the most absurd AI startup ever this Peter Thiel backed company uses AI robots to stab fish in the brain so they taste better and last up to 3x longer it's called Shinkei and it modernizes a centuries-old Japanese technique dozens of Michelin-star r..."
+    },
+    {
+      "title": "MCPはなぜ復権したのか：CLIが支持された理由と、流れを変えた仕様変更 | Hiraoku.dev",
+      "url": "https://hiraoku.dev/blog/mcp-cli-cloud/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-08T02:33:33+00:00",
+      "age_days": 0.43,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "MCPAICLIAgentCloudMCPはなぜ復権したのか：CLIが支持された理由と、流れを変えた仕様変更なぜMCPへの批判が生まれ、CLIが支持されたのか。2026年7月28日版のステートレス化と、ツールの遅延読み込み・コード実行から、MCPの再評価を支えた変化を解説します。 Tech·Hiraoku·2026年11月7日·43 分で読めます いま、MCPはAI..."
+    },
+    {
       "title": "個人情報“手放す”企業続々 「持たないことが抜本的な解決に」 漏えいなくても運用変更も【#みんなのギモン】（2026年11月8日掲載）｜日テレNEWS NNN",
       "url": "https://news.ntv.co.jp/category/economy/4524fbcdecaf445bac0d956439508aca",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T06:29:39+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -384,7 +434,7 @@
       "url": "https://ken-it.world/it/2026/11/sumicad-free-bim.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T04:37:22+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "general"
       ],
@@ -408,7 +458,7 @@
       "url": "https://www.watch.impress.co.jp/docs/topic/watchplus/2154253.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T22:20:32+00:00",
-      "age_days": 0.59,
+      "age_days": 0.6,
       "topics": [
         "general"
       ],
@@ -432,7 +482,7 @@
       "url": "https://anond.hatelabo.jp/20261108174809",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T08:51:31+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -458,7 +508,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 141.4,
+      "age_days": 141.41,
       "topics": [
         "general"
       ],
@@ -483,7 +533,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 141.4,
+      "age_days": 141.41,
       "topics": [
         "general"
       ],
@@ -508,7 +558,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 141.4,
+      "age_days": 141.41,
       "topics": [
         "ai"
       ],
@@ -535,7 +585,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T06:14:17+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "ai"
       ],
@@ -560,7 +610,7 @@
       "url": "https://speakerdeck.com/nagisa53/aws-o-riyou-suru-ue-de-shi-te-okitai-namae-kaiketsu-no-hanashi-2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T13:51:49+00:00",
-      "age_days": 0.94,
+      "age_days": 0.95,
       "topics": [
         "ai"
       ],
@@ -585,7 +635,7 @@
       "url": "https://www.famitsu.com/article/202611/93352",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T09:49:08+00:00",
-      "age_days": 1.11,
+      "age_days": 1.12,
       "topics": [
         "ai"
       ],
@@ -610,7 +660,7 @@
       "url": "https://speakerdeck.com/takuros/jaws-festa-2026-public",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T02:15:16+00:00",
-      "age_days": 1.43,
+      "age_days": 1.44,
       "topics": [
         "ai"
       ],
@@ -635,7 +685,7 @@
       "url": "https://www.techno-edge.net/article/2026/11/06/5679.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-07T00:46:51+00:00",
-      "age_days": 1.49,
+      "age_days": 1.5,
       "topics": [
         "ai"
       ],
