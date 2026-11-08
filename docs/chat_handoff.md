@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-08T09:49:12+00:00_
+_Generated: 2026-11-08T09:54:49+00:00_
 
 ## Status
 - status: `normal`
-- findings: `16`
+- findings: `17`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-11-08T09:49:12+00:00_
 - url: https://github.com/vercel-labs/agent-browser
 - summary: Browser automation CLI for AI agents https://agent-browser.dev agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. agent-browser is a native Rust CLI that gives an AI agent a brow…
 
-### 3. M 4.5 - 11 km W of Honmachi, Japan
+### 3. M 4.7 - 137 km E of Miyako, Japan
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-11-08T09:52:58.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000twx1
+- summary: Time 2026-11-08 09:23:35 UTC 2026-11-08 09:23:35 UTC at epicenter Location 39.865°N 143.526°E Depth 10.00 km (6.21 mi)
+
+### 4. M 4.5 - 11 km W of Honmachi, Japan
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-11-08T02:39:56.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000twvb
 - summary: Time 2026-11-08 01:53:16 UTC 2026-11-08 01:53:16 UTC at epicenter Location 32.501°N 130.472°E Depth 10.00 km (6.21 mi)
-
-### 4. Sakutto - Local AI translation - Chrome Web Store
-- source: Hatena Bookmark Hotentry IT
-- score: `15`
-- published: `2026-11-07T15:32:29+00:00`
-- url: https://chromewebstore.google.com/detail/sakutto-local-ai-translat/mhlbjjijfkoghmcjndgdimhdlfkhadfl
-- summary: A local LLM translates pages on your device. Free, no account. Translate a whole page, selected text, or text you type. You can replace the page with the translation, or read the original and the translation side by side. No ads or analytics. Your page text i…
 
 ### 5. M 4.5 - 90 km NE of Punta Cana, Dominican Republic
 - source: USGS M4.5+ Earthquakes Past Hour
