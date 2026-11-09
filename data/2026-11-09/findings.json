@@ -1599,6 +1599,26 @@
     "id": "bf762cff112b73534780"
   },
   {
+    "title": "ChatGPT Enterprise now available in AWS Marketplace",
+    "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-11-09T19:00:00+00:00",
+    "fetched_at": "2026-11-09T19:07:01+00:00",
+    "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+    "matched_keywords": [
+      "OpenAI"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "cf343b766f6be5793c40"
+  },
+  {
     "title": "Safeguarding trust and monetary sovereignty in a digital payments era",
     "url": "https://www.bis.org/speeches/20261109-safeguarding-trust-and-monetary-sovereignty-digital-payments-era",
     "source": "BIS Central Bankers Speeches",

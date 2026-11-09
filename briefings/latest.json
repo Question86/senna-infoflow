@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09T18:58:59+00:00",
-  "run_id": "2026-11-09T18:58:59+00:00",
+  "generated_at": "2026-11-09T19:07:35+00:00",
+  "run_id": "2026-11-09T19:07:35+00:00",
   "date": "2026-11-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 84
+      "configured_public_sources_only": 85
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 84,
-    "displayed_findings": 84,
+    "new_relevant_findings": 1,
+    "today_file_total": 85,
+    "displayed_findings": 85,
     "high": 0,
     "medium": 41,
-    "observe": 43,
+    "observe": 44,
     "source_errors": 0
   },
   "sections": {
@@ -1629,6 +1629,26 @@
           "LOW"
         ],
         "id": "bf762cff112b73534780"
+      },
+      {
+        "title": "ChatGPT Enterprise now available in AWS Marketplace",
+        "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-11-09T19:00:00+00:00",
+        "fetched_at": "2026-11-09T19:07:01+00:00",
+        "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+        "matched_keywords": [
+          "OpenAI"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "cf343b766f6be5793c40"
       },
       {
         "title": "Safeguarding trust and monetary sovereignty in a digital payments era",
@@ -3737,6 +3757,26 @@
       "id": "bf762cff112b73534780"
     },
     {
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-11-09T19:00:00+00:00",
+      "fetched_at": "2026-11-09T19:07:01+00:00",
+      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "matched_keywords": [
+        "OpenAI"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cf343b766f6be5793c40"
+    },
+    {
       "title": "Safeguarding trust and monetary sovereignty in a digital payments era",
       "url": "https://www.bis.org/speeches/20261109-safeguarding-trust-and-monetary-sovereignty-digital-payments-era",
       "source": "BIS Central Bankers Speeches",
@@ -4241,7 +4281,28 @@
       "id": "ad57122a4e19bae0bbc2"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-11-09T19:00:00+00:00",
+      "fetched_at": "2026-11-09T19:07:01+00:00",
+      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "matched_keywords": [
+        "OpenAI"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cf343b766f6be5793c40"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
