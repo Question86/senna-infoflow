@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-09T10:00:28+00:00_
+_Generiert: 2026-11-09T10:13:38+00:00_
 
 ## Kurzlage
 
-29 neue relevante Treffer. Stärkstes Signal: „GitHub - google/elephant-goldfish-model: Open-source skills for designing and reviewing software with AI agents“ aus Hatena Bookmark Hotentry IT (Score 23, opportunity).
+31 neue relevante Treffer. Stärkstes Signal: „GitHub - google/elephant-goldfish-model: Open-source skills for designing and reviewing software with AI agents“ aus Hatena Bookmark Hotentry IT (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -38,6 +38,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-11-09 04:52:51 UTC 2026-11-09 04:52:51 UTC at epicenter Location 36.247°N 141.830°E Depth 24.17 km (15.02 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 5.2 - 162 km E of Masohi, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx32)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-09T10:04:08.040+00:00`, fetched `2026-11-09T10:13:07+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-11-09 09:48:27 UTC 2026-11-09 09:48:27 UTC at epicenter Location 3.055°S 130.410°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.6 - 69 km ESE of Takahagi, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1i)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -186,14 +195,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: SonicWall mahnt zum zügigen Update: Angreifer missbrauchen eine Sicherheitslücke im SSLVPN von SonicOS. Auch die CISA warnt.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **NVIDIA、フアンCEOへの中国スパイ工作疑惑で独立調査 本人は不倫認め謝罪** — Score 7, observation — [Quelle](https://www.itmedia.co.jp/news/article/2611/09/2000002998/)
+- **Macにはユーザーの人間関係をグラフ化する常駐プログラムが搭載されている** — Score 7, observation — [Quelle](https://gigazine.net/news/20261109-macos-personal-knowledge-graph/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-08T23:05:32+00:00`, fetched `2026-11-09T01:27:36+00:00`
+  - Zeit: published `2026-11-09T07:02:52+00:00`, fetched `2026-11-09T10:13:07+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region usa: New York (+2.0)
-  - Kurz: 米NVIDIAは11月8日（現地時間）、創業者でCEOのジェンスン・フアン氏が外国の情報機関による工作の標的になっていたとする報道を受け、取締役会が独立調査を開始すると発表した。 米New York Timesなどの報道によると、米情報当局は、フアン氏と親密な関係にあった中国人実業家アリス・フアン（Alice Huang、中国名はHua...
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region europe: NATO (+2.0)
+  - Kurz: 2022年10月にリリースされたmacOS Ventura(macOS 13)以降のmacOSには、「ユーザーが誰で、どういった知り合いを持っていて、どのような関係を築いているのか」といった情報をグラフ化するための2つのデーモン(常駐プログラム)が搭載されていることが明らかになりました。 Anatomy of Apple's Personal Knowledge Graph —...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

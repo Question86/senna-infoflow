@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-09T10:00:28+00:00_
+_Generated: 2026-11-09T10:13:38+00:00_
 
 ## Status
 - status: `normal`
-- findings: `29`
+- findings: `31`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-11-09T10:00:28+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1f
 - summary: PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-11-09 04:52:51 UTC 2026-11-09 04:52:51 UTC at epicenter Location 36.247°N 141.830°E Depth 24.17 km (15.02 mi)
 
-### 4. M 4.6 - 69 km ESE of Takahagi, Japan
+### 4. M 5.2 - 162 km E of Masohi, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
-- published: `2026-11-09T05:21:09.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1i
-- summary: Time 2026-11-09 05:01:53 UTC 2026-11-09 05:01:53 UTC at epicenter Location 36.494°N 141.449°E Depth 35.00 km (21.75 mi)
+- published: `2026-11-09T10:04:08.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx32
+- summary: Time 2026-11-09 09:48:27 UTC 2026-11-09 09:48:27 UTC at epicenter Location 3.055°S 130.410°E Depth 10.00 km (6.21 mi)
 
 ### 5. Why Southeast Asia’s healthtech startups struggle to attract investment despite the AI boom
 - source: e27 Asia Startup and Tech Feed
