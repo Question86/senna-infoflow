@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-09T11:47:07Z",
+  "generated_at": "2026-11-09T12:04:22Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 1,
-      "krass": 11,
+      "krass": 12,
       "strong": 15,
-      "watch": 13
+      "watch": 12
     },
     "bands_after_gate_recheck": {
       "krass": 2,
-      "strong": 25,
-      "watch": 13
+      "strong": 26,
+      "watch": 12
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4400",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T11:32:08+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai",
         "security"
@@ -49,7 +49,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4396",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T11:32:05+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai",
         "security"
@@ -75,7 +75,7 @@
       "url": "https://www.heise.de/news/Angriffswarnung-Luecke-in-SonicWall-SSLVPN-wird-attackiert-11516825.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-09T07:12:00.000+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "security",
@@ -102,7 +102,7 @@
       "url": "https://jvn.jp/jp/JVN76179675/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T15:00:00+09:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -126,7 +126,7 @@
       "url": "https://jvn.jp/jp/JVN89009783/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T14:00:00+09:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -150,7 +150,7 @@
       "url": "https://jvn.jp/jp/JVN56286875/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T12:00:00+09:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "security"
       ],
@@ -174,7 +174,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0427",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T11:37:06+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -198,7 +198,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2215",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T11:37:04+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -222,7 +222,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2083",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T11:37:04+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -246,7 +246,7 @@
       "url": "https://jvn.jp/vu/JVNVU92635551/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T11:30:00+09:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -270,7 +270,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4371",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T11:15:22+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -294,7 +294,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4375",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T11:15:22+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -318,7 +318,7 @@
       "url": "https://github.com/google/elephant-goldfish-model",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-28T01:38:06+00:00",
-      "age_days": 12.42,
+      "age_days": 12.43,
       "topics": [
         "ai",
         "macro"
@@ -347,7 +347,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4395",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T11:32:04+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -373,7 +373,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4397",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T11:32:06+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai",
         "security",
@@ -396,11 +396,37 @@
       "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in JetBrains PhpStorm ausnutzen, um Informationen offenzulegen und Dateien zu manipulieren."
     },
     {
+      "title": "[NEU] [hoch] IBM Tape Library: Schwachstelle ermöglicht Erlangen von Benutzerrechten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4407",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-09T11:47:00+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in IBM Tape Library ausnutzen, um Sicherheitsvorkehrungen zu umgehen und Benutzerrechte zu erlangen."
+    },
+    {
       "title": "[NEU] [niedrig] JetBrains You Track: Schwachstelle ermöglicht Darstellen falscher Informationen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4399",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T11:32:08+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai",
         "security"
@@ -427,7 +453,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4398",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T11:32:07+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai",
         "security"
@@ -454,7 +480,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4367",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T11:15:22+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -480,7 +506,7 @@
       "url": "https://jvn.jp/vu/JVNVU93403064/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T11:00:00+09:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -506,7 +532,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4377",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T10:42:02+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -532,7 +558,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4378",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T10:42:02+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "security"
@@ -559,7 +585,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4379",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T10:42:01+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "security"
@@ -586,7 +612,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 143.41,
+      "age_days": 143.42,
       "topics": [
         "ai"
       ],
@@ -615,7 +641,7 @@
       "url": "https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-11-09T08:30:00+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "security"
@@ -642,7 +668,7 @@
       "url": "https://www.heise.de/news/Notepad-Update-schliesst-Rechteausweitungsluecke-und-mehr-11517053.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-09T10:18:00.000+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -667,7 +693,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx34",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-09T10:14:17.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -692,7 +718,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx32",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-09T10:04:08.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -717,7 +743,7 @@
       "url": "https://www.heise.de/news/Qnap-NAS-Attackierte-Luecken-in-Plex-Media-Server-geschlossen-11516935.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-09T08:31:00.000+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "security"
@@ -742,7 +768,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1f",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-09T05:12:19.757+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "ai",
         "disaster"
@@ -770,7 +796,7 @@
       "url": "https://e27.co/almost-is-a-strategy-not-a-stall-20261105/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-09T04:00:50+00:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "macro"
       ],
@@ -794,7 +820,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx38",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-09T10:36:09.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -819,7 +845,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx16",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-09T03:48:18.714+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "disaster"
       ],
@@ -840,11 +866,35 @@
       "summary": "ShakeMap - VI Time 2026-11-09 03:35:01 UTC 2026-11-09 03:35:01 UTC at epicenter Location 10.896°S 165.618°E Depth 25.05 km (15.56 mi)"
     },
     {
+      "title": "M 4.7 - 271 km N of Tobelo, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx3c",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-09T11:46:31.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "Time 2026-11-09 11:25:07 UTC 2026-11-09 11:25:07 UTC at epicenter Location 4.174°N 127.780°E Depth 98.29 km (61.08 mi)"
+    },
+    {
       "title": "M 4.6 - 69 km ESE of Takahagi, Japan",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1i",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-09T05:21:09.040+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "disaster"
       ],
@@ -868,7 +918,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1p",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-09T05:35:46.040+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "disaster"
       ],
@@ -893,7 +943,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx0f",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-09T01:03:16.040+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "disaster"
       ],
@@ -918,7 +968,7 @@
       "url": "https://e27.co/hackers-drain-us4m-using-fake-wi-fi-at-major-crypto-conferences-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-09T04:30:10+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "ai",
         "disaster"
@@ -946,7 +996,7 @@
       "url": "https://shoei05.com/articles/3001/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T12:05:24+00:00",
-      "age_days": 0.99,
+      "age_days": 1.0,
       "topics": [
         "general"
       ],
@@ -970,7 +1020,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx2g",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-09T07:25:53.040+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -988,54 +1038,6 @@
         "early terms: earthquake"
       ],
       "summary": "Time 2026-11-09 07:04:13 UTC 2026-11-09 07:04:13 UTC at epicenter Location 55.834°N 160.975°E Depth 154.99 km (96.31 mi)"
-    },
-    {
-      "title": "M 4.9 - south of the Fiji Islands",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx0x",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-11-09T02:41:32.040+00:00",
-      "age_days": 0.38,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake"
-      ],
-      "summary": "Time 2026-11-09 02:21:57 UTC 2026-11-09 02:21:57 UTC at epicenter Location 25.186°S 176.996°W Depth 136.31 km (84.70 mi)"
-    },
-    {
-      "title": "Macにはユーザーの人間関係をグラフ化する常駐プログラムが搭載されている",
-      "url": "https://gigazine.net/news/20261109-macos-personal-knowledge-graph/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-09T07:02:52+00:00",
-      "age_days": 0.2,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "2022年10月にリリースされたmacOS Ventura(macOS 13)以降のmacOSには、「ユーザーが誰で、どういった知り合いを持っていて、どのような関係を築いているのか」といった情報をグラフ化するための2つのデーモン(常駐プログラム)が搭載されていることが明らかになりました。 Anatomy of Apple's Personal Knowledge Graph —..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] JetBrains CLion: Mehrere Schwachstellen ermöglichen Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
