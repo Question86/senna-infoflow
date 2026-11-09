@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-09T20:50:24+00:00_
+_Generiert: 2026-11-09T20:56:08+00:00_
 
 ## Kurzlage
 
-89 neue relevante Treffer. Stärkstes Signal: „GitHub - google/elephant-goldfish-model: Open-source skills for designing and reviewing software with AI agents“ aus Hatena Bookmark Hotentry IT (Score 23, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+90 neue relevante Treffer. Stärkstes Signal: „GitHub - google/elephant-goldfish-model: Open-source skills for designing and reviewing software with AI agents“ aus Hatena Bookmark Hotentry IT (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -74,6 +74,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: Silicon Valley (+2.0)
   - Kurz: Startups like MiniMax and Moonshot are setting up U.S. outposts, but massive pay gaps, weaker prestige, and national security tensions make luring talent away from OpenAI and Anthropic an uphill climb.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Secret scanning detects secrets in GitHub Actions workflow logs** — Score 21, observation — [Quelle](https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-11-09T09:01:37+00:00`, fetched `2026-11-09T20:55:38+00:00`
+  - Treffer: Actions, CodeQL/Dependabot, GitHub, GitHub Actions
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub Actions (+6.2); CodeQL/Dependabot (+8.8); GitHub (+2.5); Actions (+2.5); recent (+1.0)
+  - Kurz: GitHub secret scanning now detects secrets in GitHub Actions workflow logs, in addition to issues, wikis, discussions, and pull requests. Actions workflow log scanning is available in public preview. How… The post Secret scanning detects secrets in GitHub Actions workflow logs appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[NEU] [niedrig] JetBrains PhpStorm: Mehrere Schwachstellen** — Score 20, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4397)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
@@ -323,7 +332,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `hn_release_security_burst` (hackernews): HTTPSConnectionPool(host='hn.algolia.com', port=443): Read timed out. (read timeout=8)

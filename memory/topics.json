@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-09T20:50:24+00:00",
+  "generated_at": "2026-11-09T20:56:08+00:00",
   "topics": {
     "ai": [
       {
@@ -17,6 +17,13 @@
         "published_at": "2026-11-09T08:30:00+00:00",
         "relevance_score": 22,
         "url": "https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      },
+      {
+        "title": "Secret scanning detects secrets in GitHub Actions workflow logs",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-11-09T09:01:37+00:00",
+        "relevance_score": 21,
+        "url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs"
       },
       {
         "title": "[NEU] [niedrig] JetBrains PhpStorm: Mehrere Schwachstellen",
@@ -66,13 +73,6 @@
         "published_at": "2026-11-09T10:42:02+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4378"
-      },
-      {
-        "title": "[UPDATE] [hoch] JetBrains IntelliJ IDEA: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-09T10:42:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4379"
       }
     ],
     "github": [
@@ -82,6 +82,13 @@
         "published_at": "2026-10-28T01:38:06+00:00",
         "relevance_score": 23,
         "url": "https://github.com/google/elephant-goldfish-model"
+      },
+      {
+        "title": "Secret scanning detects secrets in GitHub Actions workflow logs",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-11-09T09:01:37+00:00",
+        "relevance_score": 21,
+        "url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs"
       },
       {
         "title": "日本の公開データ研究マップ（JapanStatsMAPs）を公開しました | 香田将英（shoei05）",

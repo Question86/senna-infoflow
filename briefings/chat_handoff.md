@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-09T20:50:24+00:00_
+_Generated: 2026-11-09T20:56:08+00:00_
 
 ## Status
-- status: `warning`
-- findings: `89`
+- status: `normal`
+- findings: `90`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-11-09T20:50:24+00:00_
 - url: https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
 - summary: Startups like MiniMax and Moonshot are setting up U.S. outposts, but massive pay gaps, weaker prestige, and national security tensions make luring talent away from OpenAI and Anthropic an uphill climb.
 
-### 3. [NEU] [niedrig] JetBrains PhpStorm: Mehrere Schwachstellen
+### 3. Secret scanning detects secrets in GitHub Actions workflow logs
+- source: GitHub Changelog Atom
+- score: `21`
+- published: `2026-11-09T09:01:37+00:00`
+- url: https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs
+- summary: GitHub secret scanning now detects secrets in GitHub Actions workflow logs, in addition to issues, wikis, discussions, and pull requests. Actions workflow log scanning is available in public preview. How… The post Secret scanning detects secrets in GitHub Act…
+
+### 4. [NEU] [niedrig] JetBrains PhpStorm: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `20`
 - published: `2026-11-09T11:32:06+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4397
 - summary: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in JetBrains PhpStorm ausnutzen, um Informationen offenzulegen und Dateien zu manipulieren.
-
-### 4. M 5.7 - 106 km ENE of Hasaki, Japan
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `19`
-- published: `2026-11-09T05:12:19.757+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1f
-- summary: PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-11-09 04:52:51 UTC 2026-11-09 04:52:51 UTC at epicenter Location 36.247°N 141.830°E Depth 24.17 km (15.02 mi)
 
 ### 5. Why Southeast Asia’s healthtech startups struggle to attract investment despite the AI boom
 - source: e27 Asia Startup and Tech Feed
