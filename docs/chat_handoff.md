@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-09T11:31:42+00:00_
+_Generated: 2026-11-09T11:37:39+00:00_
 
 ## Status
-- status: `warning`
-- findings: `42`
+- status: `normal`
+- findings: `48`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-11-09T11:31:42+00:00_
 - url: https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
 - summary: Startups like MiniMax and Moonshot are setting up U.S. outposts, but massive pay gaps, weaker prestige, and national security tensions make luring talent away from OpenAI and Anthropic an uphill climb.
 
-### 3. M 5.7 - 106 km ENE of Hasaki, Japan
+### 3. [NEU] [niedrig] JetBrains PhpStorm: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `20`
+- published: `2026-11-09T11:32:06+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4397
+- summary: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in JetBrains PhpStorm ausnutzen, um Informationen offenzulegen und Dateien zu manipulieren.
+
+### 4. M 5.7 - 106 km ENE of Hasaki, Japan
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `19`
 - published: `2026-11-09T05:12:19.757+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1f
 - summary: PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-11-09 04:52:51 UTC 2026-11-09 04:52:51 UTC at epicenter Location 36.247°N 141.830°E Depth 24.17 km (15.02 mi)
-
-### 4. M 4.8 - 183 km E of Masohi, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-11-09T10:14:17.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx34
-- summary: Time 2026-11-09 09:53:38 UTC 2026-11-09 09:53:38 UTC at epicenter Location 2.978°S 130.584°E Depth 10.00 km (6.21 mi)
 
 ### 5. Why Southeast Asia’s healthtech startups struggle to attract investment despite the AI boom
 - source: e27 Asia Startup and Tech Feed

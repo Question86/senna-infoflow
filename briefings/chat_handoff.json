@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-09T11:31:42+00:00",
-  "status": "warning",
-  "coverage_confidence": "limited",
+  "generated_at": "2026-11-09T11:37:39+00:00",
+  "status": "normal",
+  "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 42,
-    "displayed_findings": 42,
+    "new_relevant_findings": 6,
+    "today_file_total": 48,
+    "displayed_findings": 48,
     "high": 0,
-    "medium": 19,
+    "medium": 25,
     "observe": 23
   },
-  "source_errors_count": 2,
+  "source_errors_count": 0,
   "top_signals": [
     {
       "title": "GitHub - google/elephant-goldfish-model: Open-source skills for designing and reviewing software with AI agents",
@@ -35,6 +35,16 @@
       "section": "medium"
     },
     {
+      "title": "[NEU] [niedrig] JetBrains PhpStorm: Mehrere Schwachstellen",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-09T11:32:06+00:00",
+      "relevance_score": 20,
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4397",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in JetBrains PhpStorm ausnutzen, um Informationen offenzulegen und Dateien zu manipulieren.",
+      "section": "medium"
+    },
+    {
       "title": "M 5.7 - 106 km ENE of Hasaki, Japan",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
@@ -42,16 +52,6 @@
       "relevance_score": 19,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1f",
       "summary": "PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-11-09 04:52:51 UTC 2026-11-09 04:52:51 UTC at epicenter Location 36.247°N 141.830°E Depth 24.17 km (15.02 mi)",
-      "section": "medium"
-    },
-    {
-      "title": "M 4.8 - 183 km E of Masohi, Indonesia",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-11-09T10:14:17.040+00:00",
-      "relevance_score": 15,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx34",
-      "summary": "Time 2026-11-09 09:53:38 UTC 2026-11-09 09:53:38 UTC at epicenter Location 2.978°S 130.584°E Depth 10.00 km (6.21 mi)",
       "section": "medium"
     },
     {
