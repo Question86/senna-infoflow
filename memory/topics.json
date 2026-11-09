@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-09T12:41:36+00:00",
+  "generated_at": "2026-11-09T12:52:18+00:00",
   "topics": {
     "ai": [
       {
@@ -114,6 +114,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4397"
       },
       {
+        "title": "[NEU] [kritisch] Ruby: Mehrere Schwachstellen ermöglichen Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T12:42:01+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4416"
+      },
+      {
         "title": "[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-09T12:27:00+00:00",
@@ -126,6 +133,13 @@
         "published_at": "2026-11-09T11:32:04+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4395"
+      },
+      {
+        "title": "[NEU] [mittel] Apache Axis2: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T12:42:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4415"
       },
       {
         "title": "[NEU] [hoch] Apache Airflow: Mehrere Schwachstellen",
@@ -154,20 +168,6 @@
         "published_at": "2026-11-09T12:07:01+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4409"
-      },
-      {
-        "title": "[NEU] [hoch] IBM App Connect Enterprise: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-09T12:07:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4410"
-      },
-      {
-        "title": "[NEU] [hoch] GStreamer: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-09T12:07:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4408"
       }
     ],
     "security": [
@@ -184,6 +184,13 @@
         "published_at": "2026-11-09T11:32:06+00:00",
         "relevance_score": 20,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4397"
+      },
+      {
+        "title": "[NEU] [kritisch] Ruby: Mehrere Schwachstellen ermöglichen Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T12:42:01+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4416"
       },
       {
         "title": "[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen",
@@ -214,32 +221,25 @@
         "url": "https://jvn.jp/jp/JVN89009783/"
       },
       {
+        "title": "[UPDATE] [hoch] Squid: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T12:42:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3329"
+      },
+      {
+        "title": "[NEU] [mittel] Apache Axis2: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T12:42:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4415"
+      },
+      {
         "title": "[UPDATE] [hoch] GitLab: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-09T12:37:01+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4115"
-      },
-      {
-        "title": "[NEU] [hoch] Apache Airflow: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-09T12:22:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4401"
-      },
-      {
-        "title": "[NEU] [mittel] IBM QRadar SIEM (Log Source Management App): Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-09T12:22:00+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4413"
-      },
-      {
-        "title": "[NEU] [hoch] PJSIP: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-09T12:12:00+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4411"
       }
     ],
     "general": [
@@ -293,6 +293,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx16"
       },
       {
+        "title": "M 4.7 - 17 km NW of İmamoğlu, Turkey",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-11-09T12:48:06.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx3n"
+      },
+      {
         "title": "M 4.6 - 54 km S of Klyuchi, Russia",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-11-09T07:25:53.040+00:00",
@@ -305,13 +312,6 @@
         "published_at": "2026-11-09T05:35:46.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1p"
-      },
-      {
-        "title": "M 4.9 - south of the Fiji Islands",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-11-09T02:41:32.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx0x"
       }
     ],
     "economy": [
@@ -328,6 +328,27 @@
         "published_at": "2026-11-09T05:00:27+00:00",
         "relevance_score": 9,
         "url": "https://e27.co/entering-indonesia-the-tax-issues-startups-underestimate-20261106/"
+      },
+      {
+        "title": "Safeguarding trust and monetary sovereignty in a digital payments era",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-11-09T00:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.bis.org/speeches/20261109-safeguarding-trust-and-monetary-sovereignty-digital-payments-era"
+      },
+      {
+        "title": "Leading today, building for tomorrow",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-11-09T00:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.bis.org/speeches/20261109-leading-today-building-tomorrow"
+      },
+      {
+        "title": "Opening remarks - 2026 Market Practitioners Group Conference",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-11-09T00:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.bis.org/speeches/20261109-opening-remarks-2026-market-practitioners-group-conference"
       },
       {
         "title": "Integrated, open and resilient - Europe’s strengths in a fragmenting world",
