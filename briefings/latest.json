@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09T21:35:46+00:00",
-  "run_id": "2026-11-09T21:35:46+00:00",
+  "generated_at": "2026-11-09T21:41:48+00:00",
+  "run_id": "2026-11-09T21:41:48+00:00",
   "date": "2026-11-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 91
+      "configured_public_sources_only": 92
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 91,
-    "displayed_findings": 91,
+    "new_relevant_findings": 1,
+    "today_file_total": 92,
+    "displayed_findings": 92,
     "high": 0,
-    "medium": 42,
+    "medium": 43,
     "observe": 49,
     "source_errors": 0
   },
@@ -187,6 +187,29 @@
           "LOW"
         ],
         "id": "27992426da1b348e1539"
+      },
+      {
+        "title": "Krpano 360° の脆弱性 CVE-2020-24901 を悪用：検索結果を操作する大規模な XSS キャンペーン",
+        "url": "https://iototsecnews.jp/2025/02/28/over-350-high-profile-websites-hit-by-360xss-attack/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-09T18:48:54+00:00",
+        "fetched_at": "2026-11-09T21:41:17+00:00",
+        "summary": "Over 350 High-Profile Websites Hit by 360XSS Attack 2025/02/28 HackRead — 360XSS と呼ばれるキャンペーンは、Krpano の XSS の脆弱性を悪用することで検索結果を乗っ取り、政府／大学／報道などの 350 以上の Web サイトでスパム広告を配信するものだ。 仮想ツアー・フレームワーク Krpano 内の XSS 脆弱性を悪用す...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "Security",
+          "Webentwicklung"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+7.5); Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3b79acd94e9437d4fd09"
       },
       {
         "title": "[NEU] [kritisch] Ruby: Mehrere Schwachstellen ermöglichen Codeausführung",
@@ -2489,6 +2512,29 @@
       "id": "27992426da1b348e1539"
     },
     {
+      "title": "Krpano 360° の脆弱性 CVE-2020-24901 を悪用：検索結果を操作する大規模な XSS キャンペーン",
+      "url": "https://iototsecnews.jp/2025/02/28/over-350-high-profile-websites-hit-by-360xss-attack/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-09T18:48:54+00:00",
+      "fetched_at": "2026-11-09T21:41:17+00:00",
+      "summary": "Over 350 High-Profile Websites Hit by 360XSS Attack 2025/02/28 HackRead — 360XSS と呼ばれるキャンペーンは、Krpano の XSS の脆弱性を悪用することで検索結果を乗っ取り、政府／大学／報道などの 350 以上の Web サイトでスパム広告を配信するものだ。 仮想ツアー・フレームワーク Krpano 内の XSS 脆弱性を悪用す...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "Security",
+        "Webentwicklung"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+7.5); Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3b79acd94e9437d4fd09"
+    },
+    {
       "title": "[NEU] [kritisch] Ruby: Mehrere Schwachstellen ermöglichen Codeausführung",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4416",
       "source": "BSI CERT-Bund Security Advisories",
@@ -4625,7 +4671,31 @@
       "id": "ad57122a4e19bae0bbc2"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Krpano 360° の脆弱性 CVE-2020-24901 を悪用：検索結果を操作する大規模な XSS キャンペーン",
+      "url": "https://iototsecnews.jp/2025/02/28/over-350-high-profile-websites-hit-by-360xss-attack/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-09T18:48:54+00:00",
+      "fetched_at": "2026-11-09T21:41:17+00:00",
+      "summary": "Over 350 High-Profile Websites Hit by 360XSS Attack 2025/02/28 HackRead — 360XSS と呼ばれるキャンペーンは、Krpano の XSS の脆弱性を悪用することで検索結果を乗っ取り、政府／大学／報道などの 350 以上の Web サイトでスパム広告を配信するものだ。 仮想ツアー・フレームワーク Krpano 内の XSS 脆弱性を悪用す...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "Security",
+        "Webentwicklung"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+7.5); Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3b79acd94e9437d4fd09"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
