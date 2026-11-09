@@ -141,7 +141,7 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4416",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-09T12:42:01+00:00",
-        "age_days": 0.23,
+        "age_days": 0.24,
         "topics": [
           "security"
         ],
@@ -166,7 +166,7 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4395",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-09T11:32:04+00:00",
-        "age_days": 0.28,
+        "age_days": 0.29,
         "topics": [
           "security"
         ],
@@ -191,7 +191,7 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4397",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-09T11:32:06+00:00",
-        "age_days": 0.28,
+        "age_days": 0.29,
         "topics": [
           "ai",
           "security",
@@ -217,7 +217,7 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3329",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-09T12:42:01+00:00",
-        "age_days": 0.23,
+        "age_days": 0.24,
         "topics": [
           "security"
         ],
