@@ -50,6 +50,28 @@
     "id": "471a15c8127f1daebd08"
   },
   {
+    "title": "KUSANAGIにおけるHTTPヘッダーインジェクションの脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU92635551/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-11-09T11:30:00+09:00",
+    "fetched_at": "2026-11-09T02:37:20+00:00",
+    "summary": "GMOプライム・ストラテジー株式会社が提供するKUSANAGIには、HTTPヘッダーインジェクションの脆弱性が存在します。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1decbbd4086ee143a058"
+  },
+  {
     "title": "Webtop Media Transcoderにおける異なる領域間での不適切なリソースの移動の脆弱性",
     "url": "https://jvn.jp/vu/JVNVU93403064/",
     "source": "JVN Japan Vulnerability Notes",
@@ -218,6 +240,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "17673fdf9ac58c479fa1"
+  },
+  {
+    "title": "AIが「最安」を選び続ける世界は幸せなのか? Museと節約・買い物自動化の光と影【西田宗千佳のイマトミライ】",
+    "url": "https://www.watch.impress.co.jp/docs/series/nishida/2154614.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-11-08T23:24:01+00:00",
+    "fetched_at": "2026-11-09T02:37:20+00:00",
+    "summary": "AIが「最安」を選び続ける世界は幸せなのか? Museと節約・買い物自動化の光と影【西田宗千佳のイマトミライ】",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b0a01fbabe6e2ec2e9a6"
   },
   {
     "title": "コード非公開のWebサイト・アプリ・ゲームを解析し、AIが類似版を生成する無料ツール「Craft Anything」（生成AIクローズアップ） | テクノエッジ TechnoEdge",
