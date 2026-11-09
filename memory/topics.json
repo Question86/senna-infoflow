@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-09T11:26:32+00:00",
+  "generated_at": "2026-11-09T11:31:42+00:00",
   "topics": {
     "ai": [
       {
@@ -61,18 +61,18 @@
         "url": "https://www.itmedia.co.jp/aiplus/article/2611/09/2000002916/"
       },
       {
+        "title": "サカナAIが上場準備 スタートアップで国内最大級、生成AI専業初 - 日本経済新聞",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-09T08:10:58+00:00",
+        "relevance_score": 10,
+        "url": "https://www.nikkei.com/article/DGXZQOUC067MH0W6A101C2000000/"
+      },
+      {
         "title": "Entering Indonesia? The tax issues startups underestimate",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-11-09T05:00:27+00:00",
         "relevance_score": 9,
         "url": "https://e27.co/entering-indonesia-the-tax-issues-startups-underestimate-20261106/"
-      },
-      {
-        "title": "ソフトウェア産業が消滅する日──小さなローカルAIが暴く「プログラムを売る」という商売の終焉",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-09T03:53:21+00:00",
-        "relevance_score": 7,
-        "url": "https://wirelesswire.jp/2026/11/94903/"
       }
     ],
     "github": [
