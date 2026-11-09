@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-09T22:06:20+00:00",
+  "generated_at": "2026-11-09T22:12:59+00:00",
   "topics": {
     "ai": [
       {
@@ -47,6 +47,13 @@
         "url": "https://openai.com/index/introducing-control-room"
       },
       {
+        "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-11-09T13:00:00+00:00",
+        "relevance_score": 15,
+        "url": "https://openai.com/index/control-room"
+      },
+      {
         "title": "[NEU] [hoch] Apache Airflow: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-09T12:22:01+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-11-09T11:32:08+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4400"
-      },
-      {
-        "title": "[NEU] [mittel] JetBrains IntelliJ IDEA: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-09T11:32:07+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4398"
       }
     ],
     "github": [
@@ -228,6 +228,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4395"
       },
       {
+        "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-11-09T13:00:00+00:00",
+        "relevance_score": 15,
+        "url": "https://openai.com/index/control-room"
+      },
+      {
         "title": "SS1／SS1クラウドおよびそのODM製品rocoeyesにおける複数の脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-11-09T15:00:00+09:00",
@@ -240,13 +247,6 @@
         "published_at": "2026-11-09T14:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN89009783/"
-      },
-      {
-        "title": "[UPDATE] [hoch] Squid: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-09T12:42:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3329"
       }
     ],
     "economy": [

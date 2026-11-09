@@ -323,6 +323,28 @@
     "id": "f44b177e24caea12f338"
   },
   {
+    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+    "url": "https://openai.com/index/control-room",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-11-09T13:00:00+00:00",
+    "fetched_at": "2026-11-09T22:12:30+00:00",
+    "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+    "matched_keywords": [
+      "OpenAI",
+      "safety",
+      "Security"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "OpenAI (+6.0); Security (+6.0); safety (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5b516672dba2201bf177"
+  },
+  {
     "title": "M 4.7 - 271 km N of Tobelo, Indonesia",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx3c",
     "source": "USGS M4.5+ Earthquakes Past Hour",
