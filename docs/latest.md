@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-09T11:43:18+00:00_
+_Generiert: 2026-11-09T11:48:28+00:00_
 
 ## Kurzlage
 
-51 neue relevante Treffer. Stärkstes Signal: „GitHub - google/elephant-goldfish-model: Open-source skills for designing and reviewing software with AI agents“ aus Hatena Bookmark Hotentry IT (Score 23, opportunity).
+53 neue relevante Treffer. Stärkstes Signal: „GitHub - google/elephant-goldfish-model: Open-source skills for designing and reviewing software with AI agents“ aus Hatena Bookmark Hotentry IT (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -57,6 +57,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)
   - Kurz: Ein lokaler Angreifer kann eine Schwachstelle in PyTorch ausnutzen, um seine Privilegien zu erhöhen und beliebigen Programmcode mit den Rechten des Dienstes auszuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.7 - 271 km N of Tobelo, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx3c)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-09T11:46:31.040+00:00`, fetched `2026-11-09T11:48:01+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-11-09 11:25:07 UTC 2026-11-09 11:25:07 UTC at epicenter Location 4.174°N 127.780°E Depth 98.29 km (61.08 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.8 - 183 km E of Masohi, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx34)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-09T10:14:17.040+00:00`, fetched `2026-11-09T10:23:32+00:00`
@@ -65,15 +74,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-11-09 09:53:38 UTC 2026-11-09 09:53:38 UTC at epicenter Location 2.978°S 130.584°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.2 - 162 km E of Masohi, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx32)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-11-09T10:04:08.040+00:00`, fetched `2026-11-09T10:13:07+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-11-09 09:48:27 UTC 2026-11-09 09:48:27 UTC at epicenter Location 3.055°S 130.410°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **SS1／SS1クラウドおよびそのODM製品rocoeyesにおける複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN76179675/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
@@ -102,14 +102,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: パーティクルエフェクト編集ツールEffekseerには、入力データ検証不備の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [hoch] Mozilla Firefox, Firefox ESR und Thunderbird: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0427)
+- **[NEU] [hoch] IBM Tape Library: Schwachstelle ermöglicht Erlangen von Benutzerrechten** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4407)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-11-09T11:37:06+00:00`, fetched `2026-11-09T11:42:45+00:00`
+  - Zeit: published `2026-11-09T11:47:00+00:00`, fetched `2026-11-09T11:48:01+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Mozilla Firefox, Mozilla Firefox ESR und Mozilla Thunderbird ausnutzen, um falsche Informationen darzustellen oder nicht näher spezifizierte Auswirkungen zu verursachen
+  - Kurz: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in IBM Tape Library ausnutzen, um Sicherheitsvorkehrungen zu umgehen und Benutzerrechte zu erlangen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Hackers drain US$4M using fake Wi-Fi at major crypto conferences** — Score 14, mixed — [Quelle](https://e27.co/hackers-drain-us4m-using-fake-wi-fi-at-major-crypto-conferences-20261106/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
