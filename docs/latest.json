@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09T21:58:18+00:00",
-  "run_id": "2026-11-09T21:58:18+00:00",
+  "generated_at": "2026-11-09T22:06:20+00:00",
+  "run_id": "2026-11-09T22:06:20+00:00",
   "date": "2026-11-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 95
+      "configured_public_sources_only": 96
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 95,
-    "displayed_findings": 95,
+    "new_relevant_findings": 1,
+    "today_file_total": 96,
+    "displayed_findings": 96,
     "high": 0,
     "medium": 45,
-    "observe": 50,
+    "observe": 51,
     "source_errors": 0
   },
   "sections": {
@@ -2336,6 +2336,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "8e460e11fa500be44bf1"
+      },
+      {
+        "title": "ヤマハからついに! 小型でも“中身はガチHi-Fi”ストリーミングアンプ「WXA-70A」。机やTVで使ってみた[Sponsored]",
+        "url": "https://av.watch.impress.co.jp/docs/topic/special/2145430.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-09T01:21:28+00:00",
+        "fetched_at": "2026-11-09T22:05:50+00:00",
+        "summary": "ヤマハからついに! 小型でも“中身はガチHi-Fi”ストリーミングアンプ「WXA-70A」。机やTVで使ってみた[Sponsored]",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "312f3486b9e6cd587426"
       },
       {
         "title": "AIが「最安」を選び続ける世界は幸せなのか? Museと節約・買い物自動化の光と影【西田宗千佳のイマトミライ】",
@@ -4750,6 +4771,27 @@
       "id": "8e460e11fa500be44bf1"
     },
     {
+      "title": "ヤマハからついに! 小型でも“中身はガチHi-Fi”ストリーミングアンプ「WXA-70A」。机やTVで使ってみた[Sponsored]",
+      "url": "https://av.watch.impress.co.jp/docs/topic/special/2145430.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-09T01:21:28+00:00",
+      "fetched_at": "2026-11-09T22:05:50+00:00",
+      "summary": "ヤマハからついに! 小型でも“中身はガチHi-Fi”ストリーミングアンプ「WXA-70A」。机やTVで使ってみた[Sponsored]",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "312f3486b9e6cd587426"
+    },
+    {
       "title": "AIが「最安」を選び続ける世界は幸せなのか? Museと節約・買い物自動化の光と影【西田宗千佳のイマトミライ】",
       "url": "https://www.watch.impress.co.jp/docs/series/nishida/2154614.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4853,7 +4895,29 @@
       "id": "ad57122a4e19bae0bbc2"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "ヤマハからついに! 小型でも“中身はガチHi-Fi”ストリーミングアンプ「WXA-70A」。机やTVで使ってみた[Sponsored]",
+      "url": "https://av.watch.impress.co.jp/docs/topic/special/2145430.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-09T01:21:28+00:00",
+      "fetched_at": "2026-11-09T22:05:50+00:00",
+      "summary": "ヤマハからついに! 小型でも“中身はガチHi-Fi”ストリーミングアンプ「WXA-70A」。机やTVで使ってみた[Sponsored]",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "312f3486b9e6cd587426"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
