@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09T21:29:12+00:00",
-  "run_id": "2026-11-09T21:29:12+00:00",
+  "generated_at": "2026-11-09T21:35:46+00:00",
+  "run_id": "2026-11-09T21:35:46+00:00",
   "date": "2026-11-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 91,
     "displayed_findings": 91,
     "high": 0,
@@ -4625,29 +4625,7 @@
       "id": "ad57122a4e19bae0bbc2"
     }
   ],
-  "new_findings": [
-    {
-      "title": "【重要なお知らせ・増進会ホールディングス】Ｚ会グループにおけるシステムへの不正アクセスに関するご報告とお詫び - Ｚ会",
-      "url": "https://www.zkai.co.jp/post-121568/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-09T05:04:55+00:00",
-      "fetched_at": "2026-11-09T21:28:43+00:00",
-      "summary": "株式会社増進会ホールディングス 平素より、Ｚ会グループの各サービスをご利用いただき、誠にありがとうございます。 この度、当社グループの株式会社栄光および株式会社Ｚ会が運用するシステムにおいて、第三者による不正アクセスが発生いたしました。ご利用のお客様ならびに関係者の皆様に、多大なるご心配とご迷惑を...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5face52f0eeb364e57d8"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
