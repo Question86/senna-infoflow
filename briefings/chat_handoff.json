@@ -113,7 +113,7 @@
         "url": "https://github.com/google/elephant-goldfish-model",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-10-28T01:38:06+00:00",
-        "age_days": 12.69,
+        "age_days": 12.7,
         "topics": [
           "axiom",
           "ai",
@@ -141,7 +141,7 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4416",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-09T12:42:01+00:00",
-        "age_days": 0.22,
+        "age_days": 0.23,
         "topics": [
           "security"
         ],
@@ -166,7 +166,7 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4395",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-09T11:32:04+00:00",
-        "age_days": 0.27,
+        "age_days": 0.28,
         "topics": [
           "security"
         ],
@@ -191,7 +191,7 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4397",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-09T11:32:06+00:00",
-        "age_days": 0.27,
+        "age_days": 0.28,
         "topics": [
           "ai",
           "security",
@@ -217,7 +217,7 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3329",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-09T12:42:01+00:00",
-        "age_days": 0.22,
+        "age_days": 0.23,
         "topics": [
           "security"
         ],

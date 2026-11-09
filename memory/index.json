@@ -31,7 +31,7 @@
   ],
   "intelligence_layer": {
     "schema_version": 2,
-    "generated_at": "2026-11-09T18:04:36Z",
+    "generated_at": "2026-11-09T18:19:42Z",
     "dynamic_band_counts": {
       "extreme": 1,
       "krass": 22,
