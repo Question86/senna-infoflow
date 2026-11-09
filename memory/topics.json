@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-09T12:28:04+00:00",
+  "generated_at": "2026-11-09T12:36:08+00:00",
   "topics": {
     "ai": [
       {
@@ -114,6 +114,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4397"
       },
       {
+        "title": "[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T12:27:00+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4414"
+      },
+      {
         "title": "[NEU] [UNGEPATCHT] [hoch] PyTorch: Schwachstelle ermöglicht Privilegieneskalation",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-09T11:32:04+00:00",
@@ -161,13 +168,6 @@
         "published_at": "2026-11-09T12:07:01+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4408"
-      },
-      {
-        "title": "[NEU] [hoch] IBM Tape Library: Schwachstelle ermöglicht Erlangen von Benutzerrechten",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-09T11:47:00+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4407"
       }
     ],
     "security": [
@@ -184,6 +184,13 @@
         "published_at": "2026-11-09T11:32:06+00:00",
         "relevance_score": 20,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4397"
+      },
+      {
+        "title": "[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T12:27:00+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4414"
       },
       {
         "title": "[NEU] [UNGEPATCHT] [hoch] PyTorch: Schwachstelle ermöglicht Privilegieneskalation",
@@ -233,13 +240,6 @@
         "published_at": "2026-11-09T12:07:01+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4409"
-      },
-      {
-        "title": "[NEU] [hoch] IBM App Connect Enterprise: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-09T12:07:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4410"
       }
     ],
     "general": [
