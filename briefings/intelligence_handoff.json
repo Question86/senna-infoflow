@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-09T00:53:36Z",
+  "generated_at": "2026-11-09T01:02:37Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “GitHub - google/elephant-goldfish-model: Open-source skills for designing and reviewing software with AI agents” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/google/elephant-goldfish-model",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-28T01:38:06+00:00",
-      "age_days": 11.97,
+      "age_days": 11.98,
       "topics": [
         "ai",
         "macro"
@@ -44,7 +44,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 142.95,
+      "age_days": 142.96,
       "topics": [
         "ai"
       ],
@@ -73,7 +73,7 @@
       "url": "https://shoei05.com/articles/3001/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T12:05:24+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "general"
       ],
@@ -97,7 +97,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 141.92,
+      "age_days": 141.93,
       "topics": [
         "general"
       ],
@@ -122,7 +122,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 141.92,
+      "age_days": 141.93,
       "topics": [
         "general"
       ],
@@ -147,7 +147,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 141.92,
+      "age_days": 141.93,
       "topics": [
         "ai"
       ],
