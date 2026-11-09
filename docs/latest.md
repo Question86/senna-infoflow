@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-09T03:44:04+00:00_
+_Generiert: 2026-11-09T03:48:58+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „GitHub - google/elephant-goldfish-model: Open-source skills for designing and reviewing software with AI agents“ aus Hatena Bookmark Hotentry IT (Score 23, opportunity).
+15 neue relevante Treffer. Stärkstes Signal: „GitHub - google/elephant-goldfish-model: Open-source skills for designing and reviewing software with AI agents“ aus Hatena Bookmark Hotentry IT (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -78,6 +78,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 日本の公的統計を使った研究論文を探せるサイト「日本の公開データ研究マップ（JapanStatsMAPs）」を公開しました。データとコードはGitHubにあります。 2026年11月7日時点で1,269本の論文を収載し、テーマ、データ源、解析データの年、研究の型から探せます。この記事ではサイトの中身と使い方、分類の方法と注意点を紹...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 6.4 - 27 km SW of Lata, Solomon Islands** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx16)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-09T03:48:18.714+00:00`, fetched `2026-11-09T03:48:28+00:00`
+  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: ShakeMap - VI Time 2026-11-09 03:35:01 UTC 2026-11-09 03:35:01 UTC at epicenter Location 10.896°S 165.618°E Depth 25.05 km (15.56 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **ローカルLLM利用のクリニックを受診してみた PCマニアの院長が自力で構築、その導入効果は？** — Score 11, observation — [Quelle](https://www.itmedia.co.jp/aiplus/article/2611/09/2000002916/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-08T23:17:44+00:00`, fetched `2026-11-09T01:05:26+00:00`

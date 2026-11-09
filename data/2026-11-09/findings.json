@@ -185,6 +185,43 @@
     "id": "8760e92a1e5b2eaf671e"
   },
   {
+    "title": "M 6.4 - 27 km SW of Lata, Solomon Islands",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx16",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-11-09T03:48:18.714+00:00",
+    "fetched_at": "2026-11-09T03:48:28+00:00",
+    "summary": "ShakeMap - VI Time 2026-11-09 03:35:01 UTC 2026-11-09 03:35:01 UTC at epicenter Location 10.896°S 165.618°E Depth 25.05 km (15.56 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "ShakeMap",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake, ShakeMap"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "8631511092dce3383863"
+  },
+  {
     "title": "ローカルLLM利用のクリニックを受診してみた PCマニアの院長が自力で構築、その導入効果は？",
     "url": "https://www.itmedia.co.jp/aiplus/article/2611/09/2000002916/",
     "source": "Hatena Bookmark Hotentry IT",
