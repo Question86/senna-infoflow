@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-09T01:47:07Z",
+  "generated_at": "2026-11-09T02:03:46Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “GitHub - google/elephant-goldfish-model: Open-source skills for designing and reviewing software with AI agents” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/google/elephant-goldfish-model",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-28T01:38:06+00:00",
-      "age_days": 12.01,
+      "age_days": 12.02,
       "topics": [
         "ai",
         "macro"
@@ -44,7 +44,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 142.99,
+      "age_days": 143.0,
       "topics": [
         "ai"
       ],
@@ -73,7 +73,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx0f",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-09T01:03:16.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -98,7 +98,7 @@
       "url": "https://shoei05.com/articles/3001/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T12:05:24+00:00",
-      "age_days": 0.57,
+      "age_days": 0.58,
       "topics": [
         "general"
       ],
@@ -122,7 +122,7 @@
       "url": "https://e27.co/ai-became-my-extra-team-member-i-still-have-to-manage-it-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-09T01:00:54+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -148,7 +148,7 @@
       "url": "https://www.itmedia.co.jp/aiplus/article/2611/09/2000002916/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T23:17:44+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -173,7 +173,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 141.96,
+      "age_days": 141.97,
       "topics": [
         "general"
       ],
@@ -198,7 +198,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 141.96,
+      "age_days": 141.97,
       "topics": [
         "general"
       ],
@@ -223,7 +223,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 141.96,
+      "age_days": 141.97,
       "topics": [
         "ai"
       ],
@@ -250,7 +250,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002998/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T23:05:32+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -275,7 +275,7 @@
       "url": "https://www.techno-edge.net/article/2026/11/09/5686.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T22:49:48+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
