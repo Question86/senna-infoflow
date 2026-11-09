@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09T00:37:06+00:00",
-  "run_id": "2026-11-09T00:37:06+00:00",
+  "generated_at": "2026-11-09T00:52:21+00:00",
+  "run_id": "2026-11-09T00:52:21+00:00",
   "date": "2026-11-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 2
+      "configured_public_sources_only": 3
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 2,
-    "displayed_findings": 2,
+    "today_file_total": 3,
+    "displayed_findings": 3,
     "high": 0,
     "medium": 1,
-    "observe": 1,
+    "observe": 2,
     "source_errors": 0
   },
   "sections": {
@@ -103,6 +103,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "8760e92a1e5b2eaf671e"
+      },
+      {
+        "title": "コード非公開のWebサイト・アプリ・ゲームを解析し、AIが類似版を生成する無料ツール「Craft Anything」（生成AIクローズアップ） | テクノエッジ TechnoEdge",
+        "url": "https://www.techno-edge.net/article/2026/11/09/5686.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-08T22:49:48+00:00",
+        "fetched_at": "2026-11-09T00:51:54+00:00",
+        "summary": "Craft Anythingは、お手本にしたい対象を指定して、何を作りたいかを伝えるだけで、「調べる」（Study）、「作る」（Build）、「確認する」（Check）、「完成」（Ready）の4つのステップで新しいプロジェクトを自動生成してくれます。 単にAIがコードを書くだけでなく、完成したものを元の対象と実際に見比べ（ウェブサ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "754cc07a3f8b08bc47c5"
       }
     ]
   },
@@ -179,58 +200,50 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "8760e92a1e5b2eaf671e"
+    },
+    {
+      "title": "コード非公開のWebサイト・アプリ・ゲームを解析し、AIが類似版を生成する無料ツール「Craft Anything」（生成AIクローズアップ） | テクノエッジ TechnoEdge",
+      "url": "https://www.techno-edge.net/article/2026/11/09/5686.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-08T22:49:48+00:00",
+      "fetched_at": "2026-11-09T00:51:54+00:00",
+      "summary": "Craft Anythingは、お手本にしたい対象を指定して、何を作りたいかを伝えるだけで、「調べる」（Study）、「作る」（Build）、「確認する」（Check）、「完成」（Ready）の4つのステップで新しいプロジェクトを自動生成してくれます。 単にAIがコードを書くだけでなく、完成したものを元の対象と実際に見比べ（ウェブサ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "754cc07a3f8b08bc47c5"
     }
   ],
   "new_findings": [
     {
-      "title": "GitHub - google/elephant-goldfish-model: Open-source skills for designing and reviewing software with AI agents",
-      "url": "https://github.com/google/elephant-goldfish-model",
+      "title": "コード非公開のWebサイト・アプリ・ゲームを解析し、AIが類似版を生成する無料ツール「Craft Anything」（生成AIクローズアップ） | テクノエッジ TechnoEdge",
+      "url": "https://www.techno-edge.net/article/2026/11/09/5686.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-10-28T01:38:06+00:00",
-      "fetched_at": "2026-11-09T00:36:37+00:00",
-      "summary": "Design with an elephant. Review with a goldfish. Install · Quickstart · Documentation · Website Thousands of Google engineers use EGM, an open-source plugin, to draft specs with deep-context agents and stress-test them with zero-context subagents before writing code. Elephant holds your projec...",
+      "published_at": "2026-11-08T22:49:48+00:00",
+      "fetched_at": "2026-11-09T00:51:54+00:00",
+      "summary": "Craft Anythingは、お手本にしたい対象を指定して、何を作りたいかを伝えるだけで、「調べる」（Study）、「作る」（Build）、「確認する」（Check）、「完成」（Ready）の4つのステップで新しいプロジェクトを自動生成してくれます。 単にAIがコードを書くだけでなく、完成したものを元の対象と実際に見比べ（ウェブサ...",
       "matched_keywords": [
-        "agent",
-        "AI Agents",
-        "AI/KI",
-        "GitHub",
         "Hatena",
-        "hotentry",
-        "Watchgraph:ai_agents_workflow",
-        "Webentwicklung"
+        "hotentry"
       ],
-      "relevance_score": 23,
-      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); agent (+2.5); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: GOOGL (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: AI agents"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "471a15c8127f1daebd08"
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "754cc07a3f8b08bc47c5"
     }
   ],
   "source_errors": [],
