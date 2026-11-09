@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-09T21:41:48+00:00_
+_Generated: 2026-11-09T21:52:48+00:00_
 
 ## Status
 - status: `normal`
-- findings: `92`
+- findings: `95`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-11-09T21:41:48+00:00_
 - url: https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs
 - summary: GitHub secret scanning now detects secrets in GitHub Actions workflow logs, in addition to issues, wikis, discussions, and pull requests. Actions workflow log scanning is available in public preview. How… The post Secret scanning detects secrets in GitHub Act…
 
-### 4. [NEU] [niedrig] JetBrains PhpStorm: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `20`
-- published: `2026-11-09T11:32:06+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4397
-- summary: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in JetBrains PhpStorm ausnutzen, um Informationen offenzulegen und Dateien zu manipulieren.
+### 4. CodeRabbit scales agentic software development and ships 20x more
+- source: OpenAI News RSS
+- score: `21`
+- published: `2026-11-09T08:00:00+00:00`
+- url: https://openai.com/index/coderabbit-codex-daybreak
+- summary: CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.
 
 ### 5. Why Southeast Asia’s healthtech startups struggle to attract investment despite the AI boom
 - source: e27 Asia Startup and Tech Feed
