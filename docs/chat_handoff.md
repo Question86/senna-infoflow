@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-09T05:56:42+00:00_
+_Generated: 2026-11-09T06:02:39+00:00_
 
 ## Status
 - status: `normal`
-- findings: `23`
+- findings: `24`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-11-09T05:56:42+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1i
 - summary: Time 2026-11-09 05:01:53 UTC 2026-11-09 05:01:53 UTC at epicenter Location 36.494°N 141.449°E Depth 35.00 km (21.75 mi)
 
-### 4. WebSAM WinShareにおける複数の脆弱性
+### 4. SS1／SS1クラウドおよびそのODM製品rocoeyesにおける複数の脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
-- published: `2026-11-09T14:00:00+09:00`
-- url: https://jvn.jp/jp/JVN89009783/
-- summary: 日本電気株式会社が提供するWebSAM WinShareには、複数の脆弱性が存在します。
+- published: `2026-11-09T15:00:00+09:00`
+- url: https://jvn.jp/jp/JVN76179675/
+- summary: 株式会社ディー・オー・エスが提供するSS1／SS1クラウドおよび、株式会社ロココが提供するrocoeyesには複数の脆弱性が存在します。
 
 ### 5. Why Southeast Asia’s healthtech startups struggle to attract investment despite the AI boom
 - source: e27 Asia Startup and Tech Feed
