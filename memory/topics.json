@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-09T12:15:49+00:00",
+  "generated_at": "2026-11-09T12:28:04+00:00",
   "topics": {
     "ai": [
       {
@@ -24,6 +24,13 @@
         "published_at": "2026-11-09T11:32:06+00:00",
         "relevance_score": 20,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4397"
+      },
+      {
+        "title": "[NEU] [hoch] Apache Airflow: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T12:22:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4401"
       },
       {
         "title": "[NEU] [niedrig] JetBrains You Track: Schwachstelle ermöglicht Darstellen falscher Informationen",
@@ -66,13 +73,6 @@
         "published_at": "2026-11-09T10:42:01+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4379"
-      },
-      {
-        "title": "Hackers drain US$4M using fake Wi-Fi at major crypto conferences",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-09T04:30:10+00:00",
-        "relevance_score": 14,
-        "url": "https://e27.co/hackers-drain-us4m-using-fake-wi-fi-at-major-crypto-conferences-20261106/"
       }
     ],
     "github": [
@@ -121,6 +121,20 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4395"
       },
       {
+        "title": "[NEU] [hoch] Apache Airflow: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T12:22:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4401"
+      },
+      {
+        "title": "[NEU] [mittel] IBM QRadar SIEM (Log Source Management App): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T12:22:00+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4413"
+      },
+      {
         "title": "[NEU] [hoch] PJSIP: Mehrere Schwachstellen ermöglichen Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-09T12:12:00+00:00",
@@ -154,20 +168,6 @@
         "published_at": "2026-11-09T11:47:00+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4407"
-      },
-      {
-        "title": "[NEU] [niedrig] JetBrains You Track: Schwachstelle ermöglicht Darstellen falscher Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-09T11:32:08+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4399"
-      },
-      {
-        "title": "[NEU] [hoch] JetBrains CLion: Mehrere Schwachstellen ermöglichen Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-09T11:32:08+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4400"
       }
     ],
     "security": [
@@ -207,6 +207,20 @@
         "url": "https://jvn.jp/jp/JVN89009783/"
       },
       {
+        "title": "[NEU] [hoch] Apache Airflow: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T12:22:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4401"
+      },
+      {
+        "title": "[NEU] [mittel] IBM QRadar SIEM (Log Source Management App): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T12:22:00+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4413"
+      },
+      {
         "title": "[NEU] [hoch] PJSIP: Mehrere Schwachstellen ermöglichen Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-09T12:12:00+00:00",
@@ -226,20 +240,6 @@
         "published_at": "2026-11-09T12:07:01+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4410"
-      },
-      {
-        "title": "[NEU] [hoch] GStreamer: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-09T12:07:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4408"
-      },
-      {
-        "title": "Effekseerにおける入力データ検証不備の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-09T12:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN56286875/"
       }
     ],
     "general": [
