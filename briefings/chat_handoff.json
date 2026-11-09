@@ -100,5 +100,139 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “GitHub - google/elephant-goldfish-model: Open-source skills for designing and reviewing software with AI agents” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=48.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "GitHub - google/elephant-goldfish-model: Open-source skills for designing and reviewing software with AI agents",
+        "url": "https://github.com/google/elephant-goldfish-model",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-28T01:38:06+00:00",
+        "age_days": 12.22,
+        "topics": [
+          "axiom",
+          "ai",
+          "macro"
+        ],
+        "dynamics_score": 48.0,
+        "raw_band": "extreme",
+        "dynamic_band": "extreme",
+        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: rce, code",
+          "security high-signal: rce, code",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "Design with an elephant. Review with a goldfish. Install · Quickstart · Documentation · Website Thousands of Google engineers use EGM, an open-source plugin, to draft specs with deep-context agents and stress-test them with zero-context subagents before writing code. Elephant holds your projec..."
+      },
+      {
+        "title": "Webtop Media Transcoderにおける異なる領域間での不適切なリソースの移動の脆弱性",
+        "url": "https://jvn.jp/vu/JVNVU93403064/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-09T11:00:00+09:00",
+        "age_days": 0.2,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 31.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: code",
+          "security high-signal: code"
+        ],
+        "summary": "オープンウェーブメッセージング株式会社が提供するWebtop Media Transcoderには、異なる領域間での不適切なリソースの移動の脆弱性が存在します。"
+      },
+      {
+        "title": "SS1／SS1クラウドおよびそのODM製品rocoeyesにおける複数の脆弱性",
+        "url": "https://jvn.jp/jp/JVN76179675/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-09T15:00:00+09:00",
+        "age_days": 0.04,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 26.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "security high-signal: jvn, security"
+        ],
+        "summary": "株式会社ディー・オー・エスが提供するSS1／SS1クラウドおよび、株式会社ロココが提供するrocoeyesには複数の脆弱性が存在します。"
+      },
+      {
+        "title": "WebSAM WinShareにおける複数の脆弱性",
+        "url": "https://jvn.jp/jp/JVN89009783/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-09T14:00:00+09:00",
+        "age_days": 0.08,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 26.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "security high-signal: jvn, security"
+        ],
+        "summary": "日本電気株式会社が提供するWebSAM WinShareには、複数の脆弱性が存在します。"
+      },
+      {
+        "title": "Effekseerにおける入力データ検証不備の脆弱性",
+        "url": "https://jvn.jp/jp/JVN56286875/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-09T12:00:00+09:00",
+        "age_days": 0.16,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 26.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "security high-signal: jvn, security"
+        ],
+        "summary": "パーティクルエフェクト編集ツールEffekseerには、入力データ検証不備の脆弱性が存在します。"
+      }
+    ]
+  }
 }
