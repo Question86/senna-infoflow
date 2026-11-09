@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-09T13:06:08+00:00_
+_Generated: 2026-11-09T13:17:41+00:00_
 
 ## Status
 - status: `normal`
-- findings: `73`
+- findings: `74`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-11-09T13:06:08+00:00_
 - url: https://shoei05.com/articles/3001/
 - summary: 日本の公的統計を使った研究論文を探せるサイト「日本の公開データ研究マップ（JapanStatsMAPs）」を公開しました。データとコードはGitHubにあります。 2026年11月7日時点で1,269本の論文を収載し、テーマ、データ源、解析データの年、研究の型から探せます。この記事ではサイトの中身と使い方、分類の方法と注意点を紹...
 
-### 8. M 5.3 - 80 km ENE of Lagunas, Peru
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-11-09T10:36:09.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx38
-- summary: Time 2026-11-09 10:23:53 UTC 2026-11-09 10:23:53 UTC at epicenter Location 4.950°S 75.000°W Depth 11.49 km (7.14 mi)
+### 8. Message for the SEACEN masterclass - central bank communication
+- source: BIS Central Bankers Speeches
+- score: `12`
+- published: `2026-11-09T00:00:00+00:00`
+- url: https://www.bis.org/speeches/20261109-message-seacen-masterclass-central-bank-communication
+- summary: Message by Mr Eli M Remolona, Jr, Governor of Bangko Sentral ng Pilipinas (BSP, the central bank of the Philippines), for the SEACEN Masterclass “Central bank communication”, Makati City, 20 October 2026.
 
 END OF DOCUMENT

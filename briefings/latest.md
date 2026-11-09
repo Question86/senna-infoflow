@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-09T13:06:08+00:00_
+_Generiert: 2026-11-09T13:17:41+00:00_
 
 ## Kurzlage
 
-73 neue relevante Treffer. Stärkstes Signal: „GitHub - google/elephant-goldfish-model: Open-source skills for designing and reviewing software with AI agents“ aus Hatena Bookmark Hotentry IT (Score 23, opportunity).
+74 neue relevante Treffer. Stärkstes Signal: „GitHub - google/elephant-goldfish-model: Open-source skills for designing and reviewing software with AI agents“ aus Hatena Bookmark Hotentry IT (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -204,6 +204,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 日本の公的統計を使った研究論文を探せるサイト「日本の公開データ研究マップ（JapanStatsMAPs）」を公開しました。データとコードはGitHubにあります。 2026年11月7日時点で1,269本の論文を収載し、テーマ、データ源、解析データの年、研究の型から探せます。この記事ではサイトの中身と使い方、分類の方法と注意点を紹...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Message for the SEACEN masterclass - central bank communication** — Score 12, observation — [Quelle](https://www.bis.org/speeches/20261109-message-seacen-masterclass-central-bank-communication)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-11-09T00:00:00+00:00`, fetched `2026-11-09T13:17:01+00:00`
+  - Treffer: APAC Trend Radar, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)
+  - Kurz: Message by Mr Eli M Remolona, Jr, Governor of Bangko Sentral ng Pilipinas (BSP, the central bank of the Philippines), for the SEACEN Masterclass “Central bank communication”, Makati City, 20 October 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.3 - 80 km ENE of Lagunas, Peru** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx38)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-09T10:36:09.040+00:00`, fetched `2026-11-09T10:41:20+00:00`
@@ -276,15 +285,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)
   - Kurz: Speech by Mr Denis Beau, First Deputy Governor of the Bank of France, at the Hong Kong FinTech Week 2026, Hong Kong, 3 November 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Leading today, building for tomorrow** — Score 8, opportunity — [Quelle](https://www.bis.org/speeches/20261109-leading-today-building-tomorrow)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-11-09T00:00:00+00:00`, fetched `2026-11-09T12:51:47+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region india: India, Reserve Bank of India (+2.0)
-  - Kurz: Special address by Mr Swaminathan J, Deputy Governor of the Reserve Bank of India, at the Leadership Conference of Indian Bank, Chennai, 23 October 2026.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Notepad++: Update schließt Rechteausweitungslücke und mehr** — Score 7, observation — [Quelle](https://www.heise.de/news/Notepad-Update-schliesst-Rechteausweitungsluecke-und-mehr-11517053.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-11-09T10:18:00.000+00:00`, fetched `2026-11-09T10:23:32+00:00`
