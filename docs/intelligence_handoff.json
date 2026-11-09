@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-09T22:02:33Z",
+  "generated_at": "2026-11-09T22:16:59Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [kritisch] Ruby: Mehrere Schwachstellen ermöglichen Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4416",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T12:42:01+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4115",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T12:37:01+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -65,7 +65,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4401",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T12:22:01+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "ai",
         "security"
@@ -91,7 +91,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4409",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T12:07:01+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -116,7 +116,7 @@
       "url": "https://github.com/google/elephant-goldfish-model",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-28T01:38:06+00:00",
-      "age_days": 12.85,
+      "age_days": 12.86,
       "topics": [
         "ai",
         "macro"
@@ -145,7 +145,7 @@
       "url": "https://terminal2shell.com/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-09T15:06:09+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -173,7 +173,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4395",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T11:32:04+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -199,7 +199,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4397",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T11:32:06+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "ai",
         "security",
@@ -226,7 +226,7 @@
       "url": "https://openai.com/index/introducing-control-room",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-09T13:00:00+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "ai",
         "security"
@@ -252,7 +252,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3329",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T12:42:01+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -278,7 +278,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4413",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T12:22:00+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "security"
       ],
@@ -304,7 +304,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4410",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T12:07:01+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
