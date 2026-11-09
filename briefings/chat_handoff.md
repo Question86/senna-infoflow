@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-09T08:26:26+00:00_
+_Generated: 2026-11-09T08:32:19+00:00_
 
 ## Status
 - status: `normal`
-- findings: `26`
+- findings: `27`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-11-09T08:26:26+00:00_
 - url: https://github.com/google/elephant-goldfish-model
 - summary: Design with an elephant. Review with a goldfish. Install · Quickstart · Documentation · Website Thousands of Google engineers use EGM, an open-source plugin, to draft specs with deep-context agents and stress-test them with zero-context subagents before writi…
 
-### 2. M 5.7 - 106 km ENE of Hasaki, Japan
+### 2. Chinese AI firms want Silicon Valley’s top minds. Poaching them won’t be easy
+- source: Rest of World Global Tech Feed
+- score: `22`
+- published: `2026-11-09T08:30:00+00:00`
+- url: https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+- summary: Startups like MiniMax and Moonshot are setting up U.S. outposts, but massive pay gaps, weaker prestige, and national security tensions make luring talent away from OpenAI and Anthropic an uphill climb.
+
+### 3. M 5.7 - 106 km ENE of Hasaki, Japan
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `19`
 - published: `2026-11-09T05:12:19.757+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1f
 - summary: PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-11-09 04:52:51 UTC 2026-11-09 04:52:51 UTC at epicenter Location 36.247°N 141.830°E Depth 24.17 km (15.02 mi)
 
-### 3. M 4.6 - 69 km ESE of Takahagi, Japan
+### 4. M 4.6 - 69 km ESE of Takahagi, Japan
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-11-09T05:21:09.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1i
 - summary: Time 2026-11-09 05:01:53 UTC 2026-11-09 05:01:53 UTC at epicenter Location 36.494°N 141.449°E Depth 35.00 km (21.75 mi)
-
-### 4. SS1／SS1クラウドおよびそのODM製品rocoeyesにおける複数の脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-11-09T15:00:00+09:00`
-- url: https://jvn.jp/jp/JVN76179675/
-- summary: 株式会社ディー・オー・エスが提供するSS1／SS1クラウドおよび、株式会社ロココが提供するrocoeyesには複数の脆弱性が存在します。
 
 ### 5. Why Southeast Asia’s healthtech startups struggle to attract investment despite the AI boom
 - source: e27 Asia Startup and Tech Feed

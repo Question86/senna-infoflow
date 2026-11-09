@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-09T08:26:26+00:00",
+  "generated_at": "2026-11-09T08:32:19+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 26,
-    "displayed_findings": 26,
+    "new_relevant_findings": 1,
+    "today_file_total": 27,
+    "displayed_findings": 27,
     "high": 0,
-    "medium": 10,
+    "medium": 11,
     "observe": 16
   },
   "source_errors_count": 0,
@@ -22,6 +22,16 @@
       "relevance_score": 23,
       "url": "https://github.com/google/elephant-goldfish-model",
       "summary": "Design with an elephant. Review with a goldfish. Install · Quickstart · Documentation · Website Thousands of Google engineers use EGM, an open-source plugin, to draft specs with deep-context agents and stress-test them with zero-context subagents before writi…",
+      "section": "medium"
+    },
+    {
+      "title": "Chinese AI firms want Silicon Valley’s top minds. Poaching them won’t be easy",
+      "source": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-09T08:30:00+00:00",
+      "relevance_score": 22,
+      "url": "https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "summary": "Startups like MiniMax and Moonshot are setting up U.S. outposts, but massive pay gaps, weaker prestige, and national security tensions make luring talent away from OpenAI and Anthropic an uphill climb.",
       "section": "medium"
     },
     {
@@ -42,16 +52,6 @@
       "relevance_score": 15,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1i",
       "summary": "Time 2026-11-09 05:01:53 UTC 2026-11-09 05:01:53 UTC at epicenter Location 36.494°N 141.449°E Depth 35.00 km (21.75 mi)",
-      "section": "medium"
-    },
-    {
-      "title": "SS1／SS1クラウドおよびそのODM製品rocoeyesにおける複数の脆弱性",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-11-09T15:00:00+09:00",
-      "relevance_score": 14,
-      "url": "https://jvn.jp/jp/JVN76179675/",
-      "summary": "株式会社ディー・オー・エスが提供するSS1／SS1クラウドおよび、株式会社ロココが提供するrocoeyesには複数の脆弱性が存在します。",
       "section": "medium"
     },
     {

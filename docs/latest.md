@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-09T08:26:26+00:00_
+_Generiert: 2026-11-09T08:32:19+00:00_
 
 ## Kurzlage
 
-26 neue relevante Treffer. Stärkstes Signal: „GitHub - google/elephant-goldfish-model: Open-source skills for designing and reviewing software with AI agents“ aus Hatena Bookmark Hotentry IT (Score 23, opportunity).
+27 neue relevante Treffer. Stärkstes Signal: „GitHub - google/elephant-goldfish-model: Open-source skills for designing and reviewing software with AI agents“ aus Hatena Bookmark Hotentry IT (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -21,6 +21,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); agent (+2.5); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: GOOGL (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: Design with an elephant. Review with a goldfish. Install · Quickstart · Documentation · Website Thousands of Google engineers use EGM, an open-source plugin, to draft specs with deep-context agents and stress-test them with zero-context subagents before writing code. Elephant holds your projec...
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Chinese AI firms want Silicon Valley’s top minds. Poaching them won’t be easy** — Score 22, observation — [Quelle](https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-11-09T08:30:00+00:00`, fetched `2026-11-09T08:31:47+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, OpenAI, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: Silicon Valley (+2.0)
+  - Kurz: Startups like MiniMax and Moonshot are setting up U.S. outposts, but massive pay gaps, weaker prestige, and national security tensions make luring talent away from OpenAI and Anthropic an uphill climb.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.7 - 106 km ENE of Hasaki, Japan** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1f)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-09T05:12:19.757+00:00`, fetched `2026-11-09T05:14:27+00:00`
@@ -181,9 +190,9 @@ Keine neuen Hochprioritäts-Treffer.
 ## Empfehlungen
 
 - Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-09T08:26:26+00:00",
+  "generated_at": "2026-11-09T08:32:19+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-10-28T01:38:06+00:00",
         "relevance_score": 23,
         "url": "https://github.com/google/elephant-goldfish-model"
+      },
+      {
+        "title": "Chinese AI firms want Silicon Valley’s top minds. Poaching them won’t be easy",
+        "source": "Rest of World Global Tech Feed",
+        "published_at": "2026-11-09T08:30:00+00:00",
+        "relevance_score": 22,
+        "url": "https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
       },
       {
         "title": "Hackers drain US$4M using fake Wi-Fi at major crypto conferences",
@@ -66,13 +73,6 @@
         "published_at": "2026-11-08T06:33:31+00:00",
         "relevance_score": 5,
         "url": "https://note.com/ochyai/n/n7a1dbd68c8fa"
-      },
-      {
-        "title": "Software is collapsing into one input window, but code still has to check the model’s work",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-09T03:00:00+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/software-is-collapsing-into-one-input-window-but-code-still-has-to-check-the-models-work-20261104/"
       }
     ],
     "github": [
@@ -119,6 +119,57 @@
         "published_at": "2026-11-09T03:00:00+00:00",
         "relevance_score": 4,
         "url": "https://e27.co/software-is-collapsing-into-one-input-window-but-code-still-has-to-check-the-models-work-20261104/"
+      }
+    ],
+    "security": [
+      {
+        "title": "Chinese AI firms want Silicon Valley’s top minds. Poaching them won’t be easy",
+        "source": "Rest of World Global Tech Feed",
+        "published_at": "2026-11-09T08:30:00+00:00",
+        "relevance_score": 22,
+        "url": "https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      },
+      {
+        "title": "SS1／SS1クラウドおよびそのODM製品rocoeyesにおける複数の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-09T15:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN76179675/"
+      },
+      {
+        "title": "WebSAM WinShareにおける複数の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-09T14:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN89009783/"
+      },
+      {
+        "title": "Effekseerにおける入力データ検証不備の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-09T12:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN56286875/"
+      },
+      {
+        "title": "KUSANAGIにおけるHTTPヘッダーインジェクションの脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-09T11:30:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU92635551/"
+      },
+      {
+        "title": "Webtop Media Transcoderにおける異なる領域間での不適切なリソースの移動の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-09T11:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU93403064/"
+      },
+      {
+        "title": "Angriffswarnung: Lücke in SonicWall SSLVPN wird attackiert",
+        "source": "heise Security Alerts",
+        "published_at": "2026-11-09T07:12:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Angriffswarnung-Luecke-in-SonicWall-SSLVPN-wird-attackiert-11516825.html"
       }
     ],
     "general": [
@@ -177,50 +228,6 @@
         "published_at": "2026-11-08T23:05:32+00:00",
         "relevance_score": 7,
         "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002998/"
-      }
-    ],
-    "security": [
-      {
-        "title": "SS1／SS1クラウドおよびそのODM製品rocoeyesにおける複数の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-09T15:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN76179675/"
-      },
-      {
-        "title": "WebSAM WinShareにおける複数の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-09T14:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN89009783/"
-      },
-      {
-        "title": "Effekseerにおける入力データ検証不備の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-09T12:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN56286875/"
-      },
-      {
-        "title": "KUSANAGIにおけるHTTPヘッダーインジェクションの脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-09T11:30:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU92635551/"
-      },
-      {
-        "title": "Webtop Media Transcoderにおける異なる領域間での不適切なリソースの移動の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-09T11:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU93403064/"
-      },
-      {
-        "title": "Angriffswarnung: Lücke in SonicWall SSLVPN wird attackiert",
-        "source": "heise Security Alerts",
-        "published_at": "2026-11-09T07:12:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Angriffswarnung-Luecke-in-SonicWall-SSLVPN-wird-attackiert-11516825.html"
       }
     ],
     "economy": [
