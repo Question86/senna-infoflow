@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-09T14:36:54+00:00_
+_Generated: 2026-11-09T14:42:22+00:00_
 
 ## Status
 - status: `normal`
-- findings: `75`
+- findings: `76`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-11-09T14:36:54+00:00_
 - url: https://shoei05.com/articles/3001/
 - summary: 日本の公的統計を使った研究論文を探せるサイト「日本の公開データ研究マップ（JapanStatsMAPs）」を公開しました。データとコードはGitHubにあります。 2026年11月7日時点で1,269本の論文を収載し、テーマ、データ源、解析データの年、研究の型から探せます。この記事ではサイトの中身と使い方、分類の方法と注意点を紹...
 
-### 8. Message for the SEACEN masterclass - central bank communication
-- source: BIS Central Bankers Speeches
+### 8. Announcing 20260099 (MRO,liquidity providing), for 7 days deadline 09:30
+- source: ECB Open Market Operations and Communication
 - score: `12`
-- published: `2026-11-09T00:00:00+00:00`
-- url: https://www.bis.org/speeches/20261109-message-seacen-masterclass-central-bank-communication
-- summary: Message by Mr Eli M Remolona, Jr, Governor of Bangko Sentral ng Pilipinas (BSP, the central bank of the Philippines), for the SEACEN Masterclass “Central bank communication”, Makati City, 20 October 2026.
+- published: `2026-11-09T14:40:31+00:00`
+- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260099.en.html
+- summary: Announcing 20260099 (MRO,liquidity providing), for 7 days deadline 09:30
 
 END OF DOCUMENT

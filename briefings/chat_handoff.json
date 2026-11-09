@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-09T14:36:54+00:00",
+  "generated_at": "2026-11-09T14:42:22+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 75,
-    "displayed_findings": 75,
+    "new_relevant_findings": 1,
+    "today_file_total": 76,
+    "displayed_findings": 76,
     "high": 0,
     "medium": 41,
-    "observe": 34
+    "observe": 35
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -85,13 +85,13 @@
       "section": "observe"
     },
     {
-      "title": "Message for the SEACEN masterclass - central bank communication",
-      "source": "BIS Central Bankers Speeches",
+      "title": "Announcing 20260099 (MRO,liquidity providing), for 7 days deadline 09:30",
+      "source": "ECB Open Market Operations and Communication",
       "source_type": "rss",
-      "published_at": "2026-11-09T00:00:00+00:00",
+      "published_at": "2026-11-09T14:40:31+00:00",
       "relevance_score": 12,
-      "url": "https://www.bis.org/speeches/20261109-message-seacen-masterclass-central-bank-communication",
-      "summary": "Message by Mr Eli M Remolona, Jr, Governor of Bangko Sentral ng Pilipinas (BSP, the central bank of the Philippines), for the SEACEN Masterclass “Central bank communication”, Makati City, 20 October 2026.",
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260099.en.html",
+      "summary": "Announcing 20260099 (MRO,liquidity providing), for 7 days deadline 09:30",
       "section": "observe"
     }
   ],
