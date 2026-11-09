@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-09T00:00:47+00:00",
-  "run_id": "2026-11-09T00:00:47+00:00",
+  "generated_at": "2026-11-09T00:37:06+00:00",
+  "run_id": "2026-11-09T00:37:06+00:00",
   "date": "2026-11-09",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 1
+      "configured_public_sources_only": 2
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,16 +19,67 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 1,
-    "displayed_findings": 1,
+    "today_file_total": 2,
+    "displayed_findings": 2,
     "high": 0,
-    "medium": 0,
+    "medium": 1,
     "observe": 1,
-    "source_errors": 1
+    "source_errors": 0
   },
   "sections": {
     "high": [],
-    "medium": [],
+    "medium": [
+      {
+        "title": "GitHub - google/elephant-goldfish-model: Open-source skills for designing and reviewing software with AI agents",
+        "url": "https://github.com/google/elephant-goldfish-model",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-10-28T01:38:06+00:00",
+        "fetched_at": "2026-11-09T00:36:37+00:00",
+        "summary": "Design with an elephant. Review with a goldfish. Install · Quickstart · Documentation · Website Thousands of Google engineers use EGM, an open-source plugin, to draft specs with deep-context agents and stress-test them with zero-context subagents before writing code. Elephant holds your projec...",
+        "matched_keywords": [
+          "agent",
+          "AI Agents",
+          "AI/KI",
+          "GitHub",
+          "Hatena",
+          "hotentry",
+          "Watchgraph:ai_agents_workflow",
+          "Webentwicklung"
+        ],
+        "relevance_score": 23,
+        "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); agent (+2.5); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: GOOGL (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: AI agents"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "471a15c8127f1daebd08"
+      }
+    ],
     "observe": [
       {
         "title": "日本の公開データ研究マップ（JapanStatsMAPs）を公開しました | 香田将英（shoei05）",
@@ -57,6 +108,56 @@
   },
   "findings": [
     {
+      "title": "GitHub - google/elephant-goldfish-model: Open-source skills for designing and reviewing software with AI agents",
+      "url": "https://github.com/google/elephant-goldfish-model",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-10-28T01:38:06+00:00",
+      "fetched_at": "2026-11-09T00:36:37+00:00",
+      "summary": "Design with an elephant. Review with a goldfish. Install · Quickstart · Documentation · Website Thousands of Google engineers use EGM, an open-source plugin, to draft specs with deep-context agents and stress-test them with zero-context subagents before writing code. Elephant holds your projec...",
+      "matched_keywords": [
+        "agent",
+        "AI Agents",
+        "AI/KI",
+        "GitHub",
+        "Hatena",
+        "hotentry",
+        "Watchgraph:ai_agents_workflow",
+        "Webentwicklung"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); agent (+2.5); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: GOOGL (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: AI agents"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "471a15c8127f1daebd08"
+    },
+    {
       "title": "日本の公開データ研究マップ（JapanStatsMAPs）を公開しました | 香田将英（shoei05）",
       "url": "https://shoei05.com/articles/3001/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -82,37 +183,57 @@
   ],
   "new_findings": [
     {
-      "title": "日本の公開データ研究マップ（JapanStatsMAPs）を公開しました | 香田将英（shoei05）",
-      "url": "https://shoei05.com/articles/3001/",
+      "title": "GitHub - google/elephant-goldfish-model: Open-source skills for designing and reviewing software with AI agents",
+      "url": "https://github.com/google/elephant-goldfish-model",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-11-08T12:05:24+00:00",
-      "fetched_at": "2026-11-09T00:00:06+00:00",
-      "summary": "日本の公的統計を使った研究論文を探せるサイト「日本の公開データ研究マップ（JapanStatsMAPs）」を公開しました。データとコードはGitHubにあります。 2026年11月7日時点で1,269本の論文を収載し、テーマ、データ源、解析データの年、研究の型から探せます。この記事ではサイトの中身と使い方、分類の方法と注意点を紹...",
+      "published_at": "2026-10-28T01:38:06+00:00",
+      "fetched_at": "2026-11-09T00:36:37+00:00",
+      "summary": "Design with an elephant. Review with a goldfish. Install · Quickstart · Documentation · Website Thousands of Google engineers use EGM, an open-source plugin, to draft specs with deep-context agents and stress-test them with zero-context subagents before writing code. Elephant holds your projec...",
       "matched_keywords": [
-        "APAC Trend Radar",
+        "agent",
+        "AI Agents",
+        "AI/KI",
         "GitHub",
         "Hatena",
-        "hotentry"
+        "hotentry",
+        "Watchgraph:ai_agents_workflow",
+        "Webentwicklung"
       ],
-      "relevance_score": 13,
-      "relevance_reason": "APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8760e92a1e5b2eaf671e"
+      "relevance_score": 23,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); agent (+2.5); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: GOOGL (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: AI agents"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "471a15c8127f1daebd08"
     }
   ],
-  "source_errors": [
-    {
-      "source_id": "hn_release_security_burst",
-      "source_name": "Hacker News Release/Security Burst",
-      "source_type": "hackernews",
-      "error": "HTTPSConnectionPool(host='hn.algolia.com', port=443): Read timed out. (read timeout=8)"
-    }
-  ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
