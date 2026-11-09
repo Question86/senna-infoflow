@@ -376,6 +376,29 @@
     "id": "1482a64009e2abfb6ce6"
   },
   {
+    "title": "[UPDATE] [hoch] GitLab: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4115",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-09T12:37:01+00:00",
+    "fetched_at": "2026-11-09T12:41:07+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in GitLab ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, erweiterte Berechtigungen zu erlangen, Daten zu manipulieren oder Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "69c8531a9e99eef5f861"
+  },
+  {
     "title": "[NEU] [hoch] Apache Airflow: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4401",
     "source": "BSI CERT-Bund Security Advisories",
@@ -1467,6 +1490,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "df7e9fc9ffde0ddc287d"
+  },
+  {
+    "title": "Integrated, open and resilient - Europe’s strengths in a fragmenting world",
+    "url": "https://www.bis.org/speeches/20261109-integrated-open-and-resilient-europes-strengths-fragmenting-world",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-11-09T00:00:00+00:00",
+    "fetched_at": "2026-11-09T12:41:07+00:00",
+    "summary": "Speech by Mr Boris Vujčić, Vice-President of the European Central Bank, at the 5th Financial System Conference, organised by the Central Bank of Ireland, Dublin, 2 November 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6bb4ed5eb733a797ae88"
   },
   {
     "title": "【速報】ニトリ 最大3762万件の会員情報が流出の可能性 今月6日不正アクセスを確認 客の氏名、住所、電話番号など流出か カード情報やパスワード含まれず（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",

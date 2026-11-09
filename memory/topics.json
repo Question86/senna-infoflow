@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-09T12:36:08+00:00",
+  "generated_at": "2026-11-09T12:41:36+00:00",
   "topics": {
     "ai": [
       {
@@ -214,6 +214,13 @@
         "url": "https://jvn.jp/jp/JVN89009783/"
       },
       {
+        "title": "[UPDATE] [hoch] GitLab: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T12:37:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4115"
+      },
+      {
         "title": "[NEU] [hoch] Apache Airflow: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-09T12:22:01+00:00",
@@ -233,13 +240,6 @@
         "published_at": "2026-11-09T12:12:00+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4411"
-      },
-      {
-        "title": "[NEU] [mittel] Notepad++: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-09T12:07:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4409"
       }
     ],
     "general": [
@@ -328,6 +328,13 @@
         "published_at": "2026-11-09T05:00:27+00:00",
         "relevance_score": 9,
         "url": "https://e27.co/entering-indonesia-the-tax-issues-startups-underestimate-20261106/"
+      },
+      {
+        "title": "Integrated, open and resilient - Europe’s strengths in a fragmenting world",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-11-09T00:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.bis.org/speeches/20261109-integrated-open-and-resilient-europes-strengths-fragmenting-world"
       },
       {
         "title": "Bitcoin tests US$73,188: Can the 200-day line stop the slide?",
