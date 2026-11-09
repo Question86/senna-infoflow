@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09T01:22:36+00:00",
-  "run_id": "2026-11-09T01:22:36+00:00",
+  "generated_at": "2026-11-09T01:28:04+00:00",
+  "run_id": "2026-11-09T01:28:04+00:00",
   "date": "2026-11-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 6
+      "configured_public_sources_only": 7
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 6,
-    "displayed_findings": 6,
+    "new_relevant_findings": 1,
+    "today_file_total": 7,
+    "displayed_findings": 7,
     "high": 0,
     "medium": 1,
-    "observe": 5,
+    "observe": 6,
     "source_errors": 0
   },
   "sections": {
@@ -184,6 +184,27 @@
           "LOW"
         ],
         "id": "bf762cff112b73534780"
+      },
+      {
+        "title": "NVIDIA、フアンCEOへの中国スパイ工作疑惑で独立調査 本人は不倫認め謝罪",
+        "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002998/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-08T23:05:32+00:00",
+        "fetched_at": "2026-11-09T01:27:36+00:00",
+        "summary": "米NVIDIAは11月8日（現地時間）、創業者でCEOのジェンスン・フアン氏が外国の情報機関による工作の標的になっていたとする報道を受け、取締役会が独立調査を開始すると発表した。 米New York Timesなどの報道によると、米情報当局は、フアン氏と親密な関係にあった中国人実業家アリス・フアン（Alice Huang、中国名はHua...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region usa: New York (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "17673fdf9ac58c479fa1"
       },
       {
         "title": "コード非公開のWebサイト・アプリ・ゲームを解析し、AIが類似版を生成する無料ツール「Craft Anything」（生成AIクローズアップ） | テクノエッジ TechnoEdge",
@@ -364,6 +385,27 @@
       "id": "bf762cff112b73534780"
     },
     {
+      "title": "NVIDIA、フアンCEOへの中国スパイ工作疑惑で独立調査 本人は不倫認め謝罪",
+      "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002998/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-08T23:05:32+00:00",
+      "fetched_at": "2026-11-09T01:27:36+00:00",
+      "summary": "米NVIDIAは11月8日（現地時間）、創業者でCEOのジェンスン・フアン氏が外国の情報機関による工作の標的になっていたとする報道を受け、取締役会が独立調査を開始すると発表した。 米New York Timesなどの報道によると、米情報当局は、フアン氏と親密な関係にあった中国人実業家アリス・フアン（Alice Huang、中国名はHua...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region usa: New York (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "17673fdf9ac58c479fa1"
+    },
+    {
       "title": "コード非公開のWebサイト・アプリ・ゲームを解析し、AIが類似版を生成する無料ツール「Craft Anything」（生成AIクローズアップ） | テクノエッジ TechnoEdge",
       "url": "https://www.techno-edge.net/article/2026/11/09/5686.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -385,7 +427,29 @@
       "id": "754cc07a3f8b08bc47c5"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "NVIDIA、フアンCEOへの中国スパイ工作疑惑で独立調査 本人は不倫認め謝罪",
+      "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002998/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-08T23:05:32+00:00",
+      "fetched_at": "2026-11-09T01:27:36+00:00",
+      "summary": "米NVIDIAは11月8日（現地時間）、創業者でCEOのジェンスン・フアン氏が外国の情報機関による工作の標的になっていたとする報道を受け、取締役会が独立調査を開始すると発表した。 米New York Timesなどの報道によると、米情報当局は、フアン氏と親密な関係にあった中国人実業家アリス・フアン（Alice Huang、中国名はHua...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region usa: New York (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "17673fdf9ac58c479fa1"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
