@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-09T05:14:54+00:00",
+  "generated_at": "2026-11-09T05:22:13+00:00",
   "topics": {
     "ai": [
       {
@@ -114,6 +114,13 @@
         "published_at": "2026-11-09T05:12:19.757+00:00",
         "relevance_score": 19,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1f"
+      },
+      {
+        "title": "M 4.6 - 69 km ESE of Takahagi, Japan",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-11-09T05:21:09.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1i"
       },
       {
         "title": "M 6.4 - 27 km SW of Lata, Solomon Islands",

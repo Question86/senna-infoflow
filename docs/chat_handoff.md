@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-09T05:14:54+00:00_
+_Generated: 2026-11-09T05:22:13+00:00_
 
 ## Status
 - status: `normal`
-- findings: `20`
+- findings: `21`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-11-09T05:14:54+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1f
 - summary: PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-11-09 04:52:51 UTC 2026-11-09 04:52:51 UTC at epicenter Location 36.247°N 141.830°E Depth 24.17 km (15.02 mi)
 
-### 3. WebSAM WinShareにおける複数の脆弱性
+### 3. M 4.6 - 69 km ESE of Takahagi, Japan
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-11-09T05:21:09.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1i
+- summary: Time 2026-11-09 05:01:53 UTC 2026-11-09 05:01:53 UTC at epicenter Location 36.494°N 141.449°E Depth 35.00 km (21.75 mi)
+
+### 4. WebSAM WinShareにおける複数の脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-11-09T14:00:00+09:00`
 - url: https://jvn.jp/jp/JVN89009783/
 - summary: 日本電気株式会社が提供するWebSAM WinShareには、複数の脆弱性が存在します。
-
-### 4. Effekseerにおける入力データ検証不備の脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-11-09T12:00:00+09:00`
-- url: https://jvn.jp/jp/JVN56286875/
-- summary: パーティクルエフェクト編集ツールEffekseerには、入力データ検証不備の脆弱性が存在します。
 
 ### 5. Why Southeast Asia’s healthtech startups struggle to attract investment despite the AI boom
 - source: e27 Asia Startup and Tech Feed
