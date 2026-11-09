@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-09T04:26:05+00:00",
+  "generated_at": "2026-11-09T04:31:55+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-10-28T01:38:06+00:00",
         "relevance_score": 23,
         "url": "https://github.com/google/elephant-goldfish-model"
+      },
+      {
+        "title": "Hackers drain US$4M using fake Wi-Fi at major crypto conferences",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-09T04:30:10+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/hackers-drain-us4m-using-fake-wi-fi-at-major-crypto-conferences-20261106/"
       },
       {
         "title": "Why Southeast Asia’s healthtech startups struggle to attract investment despite the AI boom",
