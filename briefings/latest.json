@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-09T22:12:59+00:00",
-  "run_id": "2026-11-09T22:12:59+00:00",
+  "generated_at": "2026-11-09T22:18:59+00:00",
+  "run_id": "2026-11-09T22:18:59+00:00",
   "date": "2026-11-09",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 97
+      "configured_public_sources_only": 98
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,12 +19,12 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 97,
-    "displayed_findings": 97,
+    "today_file_total": 98,
+    "displayed_findings": 98,
     "high": 0,
     "medium": 46,
-    "observe": 51,
-    "source_errors": 0
+    "observe": 52,
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -1367,6 +1367,43 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "c7132f93c60feabeb988"
+      },
+      {
+        "title": "M 4.7 - 106 km W of Attu Station, Alaska",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx7h",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-11-09T22:17:27.040+00:00",
+        "fetched_at": "2026-11-09T22:18:23+00:00",
+        "summary": "ShakeMap - III Time 2026-11-09 22:03:07 UTC 2026-11-09 22:03:07 UTC at epicenter Location 52.729°N 171.615°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "cabb1423354c3f776f2d"
       },
       {
         "title": "M 4.9 - Mid-Indian Ridge",
@@ -3824,6 +3861,43 @@
       "id": "c7132f93c60feabeb988"
     },
     {
+      "title": "M 4.7 - 106 km W of Attu Station, Alaska",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx7h",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-09T22:17:27.040+00:00",
+      "fetched_at": "2026-11-09T22:18:23+00:00",
+      "summary": "ShakeMap - III Time 2026-11-09 22:03:07 UTC 2026-11-09 22:03:07 UTC at epicenter Location 52.729°N 171.615°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "cabb1423354c3f776f2d"
+    },
+    {
       "title": "M 4.9 - Mid-Indian Ridge",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx47",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -4941,29 +5015,51 @@
   ],
   "new_findings": [
     {
-      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "url": "https://openai.com/index/control-room",
-      "source": "OpenAI News RSS",
+      "title": "M 4.7 - 106 km W of Attu Station, Alaska",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx7h",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-11-09T13:00:00+00:00",
-      "fetched_at": "2026-11-09T22:12:30+00:00",
-      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "published_at": "2026-11-09T22:17:27.040+00:00",
+      "fetched_at": "2026-11-09T22:18:23+00:00",
+      "summary": "ShakeMap - III Time 2026-11-09 22:03:07 UTC 2026-11-09 22:03:07 UTC at epicenter Location 52.729°N 171.615°E Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
-        "OpenAI",
-        "safety",
-        "Security"
+        "Climate/Disaster Infrastructure",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 15,
-      "relevance_reason": "OpenAI (+6.0); Security (+6.0); safety (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5b516672dba2201bf177"
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "cabb1423354c3f776f2d"
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "twcert_tvn_vulnerability_notes",
+      "source_name": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f84d4ca2a90>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,

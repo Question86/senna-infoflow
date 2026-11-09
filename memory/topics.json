@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-09T22:12:59+00:00",
+  "generated_at": "2026-11-09T22:18:59+00:00",
   "topics": {
     "ai": [
       {
@@ -358,6 +358,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1i"
       },
       {
+        "title": "M 4.7 - 106 km W of Attu Station, Alaska",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-11-09T22:17:27.040+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx7h"
+      },
+      {
         "title": "M 4.9 - Mid-Indian Ridge",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-11-09T15:23:13.040+00:00",
@@ -384,13 +391,6 @@
         "published_at": "2026-11-09T19:55:08.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx6m"
-      },
-      {
-        "title": "M 4.6 - south of the Fiji Islands",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-11-09T19:26:54.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx6l"
       }
     ]
   }
