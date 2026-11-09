@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-09T05:32:12Z",
+  "generated_at": "2026-11-09T05:47:02Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 25,
+    "dynamics": 27,
     "bands": {
       "extreme": 1,
       "krass": 1,
       "strong": 4,
-      "watch": 8,
-      "quiet": 11
+      "watch": 9,
+      "quiet": 12
     },
     "bands_after_gate_recheck": {
       "strong": 6,
-      "watch": 8,
-      "quiet": 11
+      "watch": 9,
+      "quiet": 12
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://jvn.jp/jp/JVN89009783/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T14:00:00+09:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://jvn.jp/jp/JVN56286875/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T12:00:00+09:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -72,7 +72,7 @@
       "url": "https://jvn.jp/vu/JVNVU92635551/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T11:30:00+09:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -96,7 +96,7 @@
       "url": "https://github.com/google/elephant-goldfish-model",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-28T01:38:06+00:00",
-      "age_days": 12.16,
+      "age_days": 12.17,
       "topics": [
         "ai",
         "macro"
@@ -125,7 +125,7 @@
       "url": "https://jvn.jp/vu/JVNVU93403064/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T11:00:00+09:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -151,7 +151,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 143.15,
+      "age_days": 143.16,
       "topics": [
         "ai"
       ],
@@ -170,7 +170,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 143.1d old signal",
+        "aging penalty -8.0 for 143.2d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -180,7 +180,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1f",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-09T05:12:19.757+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai",
         "disaster"
@@ -208,7 +208,7 @@
       "url": "https://e27.co/almost-is-a-strategy-not-a-stall-20261105/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-09T04:00:50+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "macro"
       ],
@@ -232,7 +232,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx16",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-09T03:48:18.714+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -257,7 +257,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1i",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-09T05:21:09.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -277,11 +277,36 @@
       "summary": "Time 2026-11-09 05:01:53 UTC 2026-11-09 05:01:53 UTC at epicenter Location 36.494°N 141.449°E Depth 35.00 km (21.75 mi)"
     },
     {
+      "title": "M 4.8 - 26 km SW of Lata, Solomon Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1p",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-09T05:35:46.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-11-09 05:16:56 UTC 2026-11-09 05:16:56 UTC at epicenter Location 10.912°S 165.640°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 5.3 - south of the Fiji Islands",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx0f",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-09T01:03:16.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -306,7 +331,7 @@
       "url": "https://e27.co/hackers-drain-us4m-using-fake-wi-fi-at-major-crypto-conferences-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-09T04:30:10+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "disaster"
@@ -334,7 +359,7 @@
       "url": "https://shoei05.com/articles/3001/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T12:05:24+00:00",
-      "age_days": 0.73,
+      "age_days": 0.74,
       "topics": [
         "general"
       ],
@@ -358,7 +383,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx0x",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-09T02:41:32.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -382,7 +407,7 @@
       "url": "https://e27.co/why-southeast-asias-healthtech-startups-struggle-to-attract-investment-despite-the-ai-boom-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-09T02:00:40+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -408,7 +433,7 @@
       "url": "https://e27.co/ai-became-my-extra-team-member-i-still-have-to-manage-it-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-09T01:00:54+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -434,7 +459,7 @@
       "url": "https://e27.co/software-is-collapsing-into-one-input-window-but-code-still-has-to-check-the-models-work-20261104/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-09T03:00:00+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -458,7 +483,7 @@
       "url": "https://e27.co/entering-indonesia-the-tax-issues-startups-underestimate-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-09T05:00:27+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "macro"
@@ -485,7 +510,7 @@
       "url": "https://www.itmedia.co.jp/aiplus/article/2611/09/2000002916/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T23:17:44+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "ai"
       ],
@@ -510,7 +535,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 142.11,
+      "age_days": 142.12,
       "topics": [
         "general"
       ],
@@ -535,7 +560,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 142.11,
+      "age_days": 142.12,
       "topics": [
         "general"
       ],
@@ -560,7 +585,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 142.11,
+      "age_days": 142.12,
       "topics": [
         "ai"
       ],
@@ -587,7 +612,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002998/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T23:05:32+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -612,7 +637,7 @@
       "url": "https://www.watch.impress.co.jp/docs/series/nishida/2154614.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T23:24:01+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "ai"
       ],
@@ -637,7 +662,7 @@
       "url": "https://www.techno-edge.net/article/2026/11/09/5686.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T22:49:48+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -656,6 +681,31 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Craft Anythingは、お手本にしたい対象を指定して、何を作りたいかを伝えるだけで、「調べる」（Study）、「作る」（Build）、「確認する」（Check）、「完成」（Ready）の4つのステップで新しいプロジェクトを自動生成してくれます。 単にAIがコードを書くだけでなく、完成したものを元の対象と実際に見比べ（ウェブサ..."
+    },
+    {
+      "title": "超知能で人類はどういう手順で滅ぶと言われているのか，を並べてから，違和感を覚えなくなっていくだろう，と書いた自分の本を読み直す｜落合陽一",
+      "url": "https://note.com/ochyai/n/n7a1dbd68c8fa",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-08T06:33:31+00:00",
+      "age_days": 0.97,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "超知能で人類はどういう手順で滅ぶと言われているのか，を並べてから，違和感を覚えなくなっていくだろう，と書いた自分の本を読み直す どういう手順で，僕らは滅ぶことになっているのか落合陽一です．今日は，超知能で人類は滅ぶのか，という話をしたい． この手の話は，結論から入るとだいたい空中戦になる．滅ぶ，滅..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “WebSAM WinShareにおける複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
