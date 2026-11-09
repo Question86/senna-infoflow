@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-09T11:21:08+00:00_
+_Generiert: 2026-11-09T11:26:32+00:00_
 
 ## Kurzlage
 
-41 neue relevante Treffer. Stärkstes Signal: „GitHub - google/elephant-goldfish-model: Open-source skills for designing and reviewing software with AI agents“ aus Hatena Bookmark Hotentry IT (Score 23, opportunity).
+41 neue relevante Treffer. Stärkstes Signal: „GitHub - google/elephant-goldfish-model: Open-source skills for designing and reviewing software with AI agents“ aus Hatena Bookmark Hotentry IT (Score 23, opportunity). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -251,3 +251,8 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `twcert_security_news` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)
+- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)
