@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-09T11:59:30+00:00",
+  "generated_at": "2026-11-09T12:15:49+00:00",
   "topics": {
     "ai": [
       {
@@ -121,6 +121,34 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4395"
       },
       {
+        "title": "[NEU] [hoch] PJSIP: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T12:12:00+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4411"
+      },
+      {
+        "title": "[NEU] [mittel] Notepad++: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T12:07:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4409"
+      },
+      {
+        "title": "[NEU] [hoch] IBM App Connect Enterprise: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T12:07:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4410"
+      },
+      {
+        "title": "[NEU] [hoch] GStreamer: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T12:07:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4408"
+      },
+      {
         "title": "[NEU] [hoch] IBM Tape Library: Schwachstelle ermöglicht Erlangen von Benutzerrechten",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-09T11:47:00+00:00",
@@ -140,34 +168,6 @@
         "published_at": "2026-11-09T11:32:08+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4400"
-      },
-      {
-        "title": "[NEU] [mittel] JetBrains IntelliJ IDEA: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-09T11:32:07+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4398"
-      },
-      {
-        "title": "[NEU] [mittel] JetBrains PyCharm: Schwachstelle ermöglicht Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-09T11:32:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4396"
-      },
-      {
-        "title": "Entering Indonesia? The tax issues startups underestimate",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-09T05:00:27+00:00",
-        "relevance_score": 9,
-        "url": "https://e27.co/entering-indonesia-the-tax-issues-startups-underestimate-20261106/"
-      },
-      {
-        "title": "Angriffswarnung: Lücke in SonicWall SSLVPN wird attackiert",
-        "source": "heise Security Alerts",
-        "published_at": "2026-11-09T07:12:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Angriffswarnung-Luecke-in-SonicWall-SSLVPN-wird-attackiert-11516825.html"
       }
     ],
     "security": [
@@ -207,39 +207,39 @@
         "url": "https://jvn.jp/jp/JVN89009783/"
       },
       {
+        "title": "[NEU] [hoch] PJSIP: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T12:12:00+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4411"
+      },
+      {
+        "title": "[NEU] [mittel] Notepad++: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T12:07:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4409"
+      },
+      {
+        "title": "[NEU] [hoch] IBM App Connect Enterprise: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T12:07:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4410"
+      },
+      {
+        "title": "[NEU] [hoch] GStreamer: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T12:07:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4408"
+      },
+      {
         "title": "Effekseerにおける入力データ検証不備の脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-11-09T12:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN56286875/"
-      },
-      {
-        "title": "[NEU] [hoch] IBM Tape Library: Schwachstelle ermöglicht Erlangen von Benutzerrechten",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-09T11:47:00+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4407"
-      },
-      {
-        "title": "[UPDATE] [hoch] Mozilla Firefox, Firefox ESR und Thunderbird: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-09T11:37:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0427"
-      },
-      {
-        "title": "[UPDATE] [mittel] Ruby: Schwachstelle ermöglicht Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-09T11:37:04+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2215"
-      },
-      {
-        "title": "[UPDATE] [mittel] Ruby: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-09T11:37:04+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2083"
       }
     ],
     "general": [
@@ -328,6 +328,13 @@
         "published_at": "2026-11-09T05:00:27+00:00",
         "relevance_score": 9,
         "url": "https://e27.co/entering-indonesia-the-tax-issues-startups-underestimate-20261106/"
+      },
+      {
+        "title": "Bitcoin tests US$73,188: Can the 200-day line stop the slide?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-09T12:06:42+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/bitcoin-tests-us73188-can-the-200-day-line-stop-the-slide-20261109/"
       }
     ]
   }
