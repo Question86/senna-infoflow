@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-09T03:48:58+00:00_
+_Generiert: 2026-11-09T03:55:04+00:00_
 
 ## Kurzlage
 
@@ -32,7 +32,7 @@ _Generiert: 2026-11-09T03:48:58+00:00_
 - **USGS earthquake M6.4 - 27 km SW of Lata, Solomon Islands** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx16)
   - Quelle: USGS
   - Zeit: `2026-11-09T03:35:01+00:00`
-  - Kurz: M6.4 - 27 km SW of Lata, Solomon Islands. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M6.4 - 27 km SW of Lata, Solomon Islands. PAGER alert: green. Tsunami flag: 0.
 - **GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in Central Mid-Atlantic Ridge 07/11/2026 23:17 UTC, [unknown].** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1576162)
   - Quelle: GDACS
   - Zeit: ``
