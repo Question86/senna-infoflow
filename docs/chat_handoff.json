@@ -100,5 +100,143 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “GitHub - google/elephant-goldfish-model: Open-source skills for designing and reviewing software with AI agents” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=48.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "GitHub - google/elephant-goldfish-model: Open-source skills for designing and reviewing software with AI agents",
+        "url": "https://github.com/google/elephant-goldfish-model",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-28T01:38:06+00:00",
+        "age_days": 12.51,
+        "topics": [
+          "axiom",
+          "ai",
+          "macro"
+        ],
+        "dynamics_score": 48.0,
+        "raw_band": "extreme",
+        "dynamic_band": "extreme",
+        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: rce, code",
+          "security high-signal: rce, code",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "Design with an elephant. Review with a goldfish. Install · Quickstart · Documentation · Website Thousands of Google engineers use EGM, an open-source plugin, to draft specs with deep-context agents and stress-test them with zero-context subagents before writing code. Elephant holds your projec..."
+      },
+      {
+        "title": "[NEU] [kritisch] Ruby: Mehrere Schwachstellen ermöglichen Codeausführung",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4416",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T12:42:01+00:00",
+        "age_days": 0.05,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 33.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: kritisch, code",
+          "security high-signal: kritisch, code"
+        ],
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Ruby und Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode auszuführen."
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [hoch] PyTorch: Schwachstelle ermöglicht Privilegieneskalation",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4395",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T11:32:04+00:00",
+        "age_days": 0.09,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 33.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: code",
+          "security high-signal: code"
+        ],
+        "summary": "Ein lokaler Angreifer kann eine Schwachstelle in PyTorch ausnutzen, um seine Privilegien zu erhöhen und beliebigen Programmcode mit den Rechten des Dienstes auszuführen."
+      },
+      {
+        "title": "[NEU] [niedrig] JetBrains PhpStorm: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4397",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T11:32:06+00:00",
+        "age_days": 0.09,
+        "topics": [
+          "ai",
+          "security",
+          "disaster"
+        ],
+        "dynamics_score": 32.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "security high-signal: cert-bund, bsi, security, advisory"
+        ],
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in JetBrains PhpStorm ausnutzen, um Informationen offenzulegen und Dateien zu manipulieren."
+      },
+      {
+        "title": "[UPDATE] [hoch] Squid: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3329",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-09T12:42:01+00:00",
+        "age_days": 0.05,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 31.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: code",
+          "security high-signal: code"
+        ],
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Squid ausnutzen, um einen Denial of Service Angriff durchzuführen, um beliebigen Programmcode auszuführen und um Sicherheitsvorkehrungen zu umgehen."
+      }
+    ]
+  }
 }
