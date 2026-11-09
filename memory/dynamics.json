@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-09T11:02:43Z",
+  "generated_at": "2026-11-09T11:16:47Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -24,7 +24,7 @@
       "url": "https://www.heise.de/news/Angriffswarnung-Luecke-in-SonicWall-SSLVPN-wird-attackiert-11516825.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-09T07:12:00.000+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai",
         "security",
@@ -51,7 +51,7 @@
       "url": "https://jvn.jp/jp/JVN76179675/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T15:00:00+09:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -75,7 +75,7 @@
       "url": "https://jvn.jp/jp/JVN89009783/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T14:00:00+09:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -123,7 +123,7 @@
       "url": "https://jvn.jp/vu/JVNVU92635551/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T11:30:00+09:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -147,7 +147,7 @@
       "url": "https://github.com/google/elephant-goldfish-model",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-28T01:38:06+00:00",
-      "age_days": 12.39,
+      "age_days": 12.4,
       "topics": [
         "ai",
         "macro"
@@ -176,7 +176,7 @@
       "url": "https://jvn.jp/vu/JVNVU93403064/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T11:00:00+09:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -202,7 +202,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4377",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T10:42:02+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -228,7 +228,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4378",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T10:42:02+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai",
         "security"
@@ -255,7 +255,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4379",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T10:42:01+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai",
         "security"
@@ -282,7 +282,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 143.38,
+      "age_days": 143.39,
       "topics": [
         "ai"
       ],
@@ -311,7 +311,7 @@
       "url": "https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-11-09T08:30:00+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "security"
@@ -338,7 +338,7 @@
       "url": "https://www.heise.de/news/Notepad-Update-schliesst-Rechteausweitungsluecke-und-mehr-11517053.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-09T10:18:00.000+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -363,7 +363,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx34",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-09T10:14:17.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -388,7 +388,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx32",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-09T10:04:08.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -413,7 +413,7 @@
       "url": "https://www.heise.de/news/Qnap-NAS-Attackierte-Luecken-in-Plex-Media-Server-geschlossen-11516935.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-09T08:31:00.000+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "security"
@@ -438,7 +438,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1f",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-09T05:12:19.757+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "ai",
         "disaster"
@@ -466,7 +466,7 @@
       "url": "https://e27.co/almost-is-a-strategy-not-a-stall-20261105/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-09T04:00:50+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "macro"
       ],
@@ -490,7 +490,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx38",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-09T10:36:09.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -515,7 +515,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx16",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-09T03:48:18.714+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "disaster"
       ],
@@ -540,7 +540,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1i",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-09T05:21:09.040+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -564,7 +564,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1p",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-09T05:35:46.040+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -589,7 +589,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx0f",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-09T01:03:16.040+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "disaster"
       ],
@@ -614,7 +614,7 @@
       "url": "https://e27.co/hackers-drain-us4m-using-fake-wi-fi-at-major-crypto-conferences-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-09T04:30:10+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "ai",
         "disaster"
@@ -642,7 +642,7 @@
       "url": "https://shoei05.com/articles/3001/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T12:05:24+00:00",
-      "age_days": 0.96,
+      "age_days": 0.97,
       "topics": [
         "general"
       ],
@@ -666,7 +666,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx2g",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-09T07:25:53.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -690,7 +690,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx0x",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-09T02:41:32.040+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "disaster"
       ],
@@ -714,7 +714,7 @@
       "url": "https://gigazine.net/news/20261109-macos-personal-knowledge-graph/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-09T07:02:52+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -738,7 +738,7 @@
       "url": "https://e27.co/why-southeast-asias-healthtech-startups-struggle-to-attract-investment-despite-the-ai-boom-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-09T02:00:40+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "ai"
       ],
@@ -764,7 +764,7 @@
       "url": "https://e27.co/ai-became-my-extra-team-member-i-still-have-to-manage-it-20261102/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-09T01:00:54+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "ai"
       ],
@@ -814,7 +814,7 @@
       "url": "https://e27.co/entering-indonesia-the-tax-issues-startups-underestimate-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-09T05:00:27+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "ai",
         "macro"
@@ -841,7 +841,7 @@
       "url": "https://wirelesswire.jp/2026/11/94903/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-09T03:53:21+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -867,7 +867,7 @@
       "url": "https://www.itmedia.co.jp/aiplus/article/2611/09/2000002916/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T23:17:44+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "ai"
       ],
@@ -892,7 +892,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 142.34,
+      "age_days": 142.35,
       "topics": [
         "general"
       ],
@@ -908,7 +908,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 142.3d old signal"
+        "aging penalty -16.0 for 142.4d old signal"
       ],
       "summary": ""
     },
@@ -917,7 +917,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 142.34,
+      "age_days": 142.35,
       "topics": [
         "general"
       ],
@@ -933,7 +933,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 142.3d old signal"
+        "aging penalty -16.0 for 142.4d old signal"
       ],
       "summary": ""
     },
@@ -942,7 +942,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 142.34,
+      "age_days": 142.35,
       "topics": [
         "ai"
       ],
@@ -959,7 +959,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 142.3d old signal",
+        "aging penalty -16.0 for 142.4d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -969,7 +969,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002998/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T23:05:32+00:00",
-      "age_days": 0.5,
+      "age_days": 0.51,
       "topics": [
         "ai"
       ],
@@ -994,7 +994,7 @@
       "url": "https://togetter.com/li/2768439",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-09T06:10:18+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "ai"
       ],

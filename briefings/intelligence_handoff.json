@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-09T11:02:43Z",
+  "generated_at": "2026-11-09T11:16:47Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “SS1／SS1クラウドおよびそのODM製品rocoeyesにおける複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/jp/JVN76179675/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T15:00:00+09:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/jp/JVN89009783/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T14:00:00+09:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -87,7 +87,7 @@
       "url": "https://jvn.jp/vu/JVNVU92635551/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T11:30:00+09:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -111,7 +111,7 @@
       "url": "https://github.com/google/elephant-goldfish-model",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-28T01:38:06+00:00",
-      "age_days": 12.39,
+      "age_days": 12.4,
       "topics": [
         "ai",
         "macro"
@@ -140,7 +140,7 @@
       "url": "https://jvn.jp/vu/JVNVU93403064/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-09T11:00:00+09:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -166,7 +166,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4377",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T10:42:02+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -192,7 +192,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4378",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T10:42:02+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai",
         "security"
@@ -219,7 +219,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4379",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-09T10:42:01+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai",
         "security"
@@ -246,7 +246,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 143.38,
+      "age_days": 143.39,
       "topics": [
         "ai"
       ],
@@ -275,7 +275,7 @@
       "url": "https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-11-09T08:30:00+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "security"
@@ -302,7 +302,7 @@
       "url": "https://www.heise.de/news/Notepad-Update-schliesst-Rechteausweitungsluecke-und-mehr-11517053.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-09T10:18:00.000+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],

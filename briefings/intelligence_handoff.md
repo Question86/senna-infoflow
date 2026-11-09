@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-11-09T11:02:43Z_
+_Generated: 2026-11-09T11:16:47Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “SS1／SS1クラウドおよびそのODM�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-11-09T15:00:00+09:00` / age_days `0.21`
+- Published: `2026-11-09T15:00:00+09:00` / age_days `0.22`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “SS1／SS1クラウドおよびそのODM�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-11-09T14:00:00+09:00` / age_days `0.25`
+- Published: `2026-11-09T14:00:00+09:00` / age_days `0.26`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “SS1／SS1クラウドおよびそのODM�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-11-09T11:30:00+09:00` / age_days `0.36`
+- Published: `2026-11-09T11:30:00+09:00` / age_days `0.37`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “SS1／SS1クラウドおよびそのODM�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-10-28T01:38:06+00:00` / age_days `12.39`
+- Published: `2026-10-28T01:38:06+00:00` / age_days `12.4`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, code, security high-signal: rce, code, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, official security but no high-signal phrase: capped at strong
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “SS1／SS1クラウドおよびそのODM�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-09T11:00:00+09:00` / age_days `0.38`
+- Published: `2026-11-09T11:00:00+09:00` / age_days `0.39`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “SS1／SS1クラウドおよびそのODM�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-09T10:42:02+00:00` / age_days `0.01`
+- Published: `2026-11-09T10:42:02+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “SS1／SS1クラウドおよびそのODM�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-09T10:42:02+00:00` / age_days `0.01`
+- Published: `2026-11-09T10:42:02+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “SS1／SS1クラウドおよびそのODM�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-09T10:42:01+00:00` / age_days `0.01`
+- Published: `2026-11-09T10:42:01+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: angriffe, code, security high-signal: angriffe, code, official security but no high-signal phrase: capped at strong
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “SS1／SS1クラウドおよびそのODM�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `143.38`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `143.39`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 143.4d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “SS1／SS1クラウドおよびそのODM�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-11-09T08:30:00+00:00` / age_days `0.11`
+- Published: `2026-11-09T08:30:00+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “SS1／SS1クラウドおよびそのODM�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.0`
-- Published: `2026-11-09T10:18:00.000+00:00` / age_days `0.03`
+- Published: `2026-11-09T10:18:00.000+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 9.9, security high-signal: 9.9
