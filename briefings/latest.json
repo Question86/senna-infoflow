@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09T10:36:47+00:00",
-  "run_id": "2026-11-09T10:36:47+00:00",
+  "generated_at": "2026-11-09T10:41:47+00:00",
+  "run_id": "2026-11-09T10:41:47+00:00",
   "date": "2026-11-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 34
+      "configured_public_sources_only": 35
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 34,
-    "displayed_findings": 34,
+    "new_relevant_findings": 1,
+    "today_file_total": 35,
+    "displayed_findings": 35,
     "high": 0,
     "medium": 13,
-    "observe": 21,
+    "observe": 22,
     "source_errors": 0
   },
   "sections": {
@@ -501,6 +501,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "8760e92a1e5b2eaf671e"
+      },
+      {
+        "title": "M 5.3 - 80 km ENE of Lagunas, Peru",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx38",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-11-09T10:36:09.040+00:00",
+        "fetched_at": "2026-11-09T10:41:20+00:00",
+        "summary": "Time 2026-11-09 10:23:53 UTC 2026-11-09 10:23:53 UTC at epicenter Location 4.950°S 75.000°W Depth 11.49 km (7.14 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "7e58b313b3f39fb700ee"
       },
       {
         "title": "M 6.4 - 27 km SW of Lata, Solomon Islands",
@@ -1429,6 +1465,42 @@
       "id": "8760e92a1e5b2eaf671e"
     },
     {
+      "title": "M 5.3 - 80 km ENE of Lagunas, Peru",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx38",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-09T10:36:09.040+00:00",
+      "fetched_at": "2026-11-09T10:41:20+00:00",
+      "summary": "Time 2026-11-09 10:23:53 UTC 2026-11-09 10:23:53 UTC at epicenter Location 4.950°S 75.000°W Depth 11.49 km (7.14 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "7e58b313b3f39fb700ee"
+    },
+    {
       "title": "M 6.4 - 27 km SW of Lata, Solomon Islands",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx16",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1881,7 +1953,44 @@
       "id": "ad57122a4e19bae0bbc2"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "M 5.3 - 80 km ENE of Lagunas, Peru",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx38",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-09T10:36:09.040+00:00",
+      "fetched_at": "2026-11-09T10:41:20+00:00",
+      "summary": "Time 2026-11-09 10:23:53 UTC 2026-11-09 10:23:53 UTC at epicenter Location 4.950°S 75.000°W Depth 11.49 km (7.14 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "7e58b313b3f39fb700ee"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

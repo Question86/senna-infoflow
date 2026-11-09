@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-09T10:36:47+00:00_
+_Generiert: 2026-11-09T10:41:47+00:00_
 
 ## Kurzlage
 
-34 neue relevante Treffer. Stärkstes Signal: „GitHub - google/elephant-goldfish-model: Open-source skills for designing and reviewing software with AI agents“ aus Hatena Bookmark Hotentry IT (Score 23, opportunity).
+35 neue relevante Treffer. Stärkstes Signal: „GitHub - google/elephant-goldfish-model: Open-source skills for designing and reviewing software with AI agents“ aus Hatena Bookmark Hotentry IT (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -132,6 +132,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 日本の公的統計を使った研究論文を探せるサイト「日本の公開データ研究マップ（JapanStatsMAPs）」を公開しました。データとコードはGitHubにあります。 2026年11月7日時点で1,269本の論文を収載し、テーマ、データ源、解析データの年、研究の型から探せます。この記事ではサイトの中身と使い方、分類の方法と注意点を紹...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.3 - 80 km ENE of Lagunas, Peru** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx38)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-09T10:36:09.040+00:00`, fetched `2026-11-09T10:41:20+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-11-09 10:23:53 UTC 2026-11-09 10:23:53 UTC at epicenter Location 4.950°S 75.000°W Depth 11.49 km (7.14 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 6.4 - 27 km SW of Lata, Solomon Islands** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx16)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-09T03:48:18.714+00:00`, fetched `2026-11-09T03:48:28+00:00`
@@ -158,15 +167,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-11-09 07:04:13 UTC 2026-11-09 07:04:13 UTC at epicenter Location 55.834°N 160.975°E Depth 154.99 km (96.31 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.8 - 26 km SW of Lata, Solomon Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx1p)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-11-09T05:35:46.040+00:00`, fetched `2026-11-09T05:39:45+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-11-09 05:16:56 UTC 2026-11-09 05:16:56 UTC at epicenter Location 10.912°S 165.640°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Entering Indonesia? The tax issues startups underestimate** — Score 9, observation — [Quelle](https://e27.co/entering-indonesia-the-tax-issues-startups-underestimate-20261106/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`

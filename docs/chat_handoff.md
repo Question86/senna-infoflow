@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-09T10:36:47+00:00_
+_Generated: 2026-11-09T10:41:47+00:00_
 
 ## Status
 - status: `normal`
-- findings: `34`
+- findings: `35`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-11-09T10:36:47+00:00_
 - url: https://shoei05.com/articles/3001/
 - summary: 日本の公的統計を使った研究論文を探せるサイト「日本の公開データ研究マップ（JapanStatsMAPs）」を公開しました。データとコードはGitHubにあります。 2026年11月7日時点で1,269本の論文を収載し、テーマ、データ源、解析データの年、研究の型から探せます。この記事ではサイトの中身と使い方、分類の方法と注意点を紹...
 
-### 8. M 6.4 - 27 km SW of Lata, Solomon Islands
+### 8. M 5.3 - 80 km ENE of Lagunas, Peru
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
-- published: `2026-11-09T03:48:18.714+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx16
-- summary: ShakeMap - VI Time 2026-11-09 03:35:01 UTC 2026-11-09 03:35:01 UTC at epicenter Location 10.896°S 165.618°E Depth 25.05 km (15.56 mi)
+- published: `2026-11-09T10:36:09.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx38
+- summary: Time 2026-11-09 10:23:53 UTC 2026-11-09 10:23:53 UTC at epicenter Location 4.950°S 75.000°W Depth 11.49 km (7.14 mi)
 
 END OF DOCUMENT
