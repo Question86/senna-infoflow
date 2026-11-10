@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-10T19:37:33+00:00_
+_Generiert: 2026-11-10T19:42:30+00:00_
 
 ## Kurzlage
 
-88 neue relevante Treffer. Stärkstes Signal: „AquaBloom raises seed funding to turn Indonesia’s seaweed into climate armour for farmers“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
+88 neue relevante Treffer. Stärkstes Signal: „AquaBloom raises seed funding to turn Indonesia’s seaweed into climate armour for farmers“ aus e27 Asia Startup and Tech Feed (Score 23, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -344,3 +344,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `e27_asia_startups_feed` (rss): 500 Server Error: Internal Server Error for url: https://e27.co/index_wp.php/feed/
