@@ -1442,6 +1442,27 @@
     "id": "b054966db8e3c407109f"
   },
   {
+    "title": "A more informative GitHub dashboard",
+    "url": "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-11-10T10:34:35+00:00",
+    "fetched_at": "2026-11-10T19:53:28+00:00",
+    "summary": "Since the new dashboard experience became the default, we’ve heard from developers that it used too much space to show too little. Generous padding, wrapped titles, and a low default… The post A more informative GitHub dashboard appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Content-Chance",
+      "GitHub"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Content-Chance (+5.0); GitHub (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e7298ded62f88259d3c1"
+  },
+  {
     "title": "Introducing Businesses in ChatGPT",
     "url": "https://openai.com/index/introducing-businesses-chatgpt",
     "source": "OpenAI News RSS",

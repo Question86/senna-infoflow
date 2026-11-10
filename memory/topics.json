@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-10T19:42:30+00:00",
+  "generated_at": "2026-11-10T19:53:57+00:00",
   "topics": {
     "ai": [
       {
@@ -393,6 +393,13 @@
         "url": "https://www.bis.org/speeches/20261110-opening-remarks-monetary-policy-report-ipom-press-conference-third-quarter-2026"
       },
       {
+        "title": "A more informative GitHub dashboard",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-11-10T10:34:35+00:00",
+        "relevance_score": 8,
+        "url": "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard"
+      },
+      {
         "title": "garrytan/gbrain",
         "source": "GitHub Trending RSS All Languages Daily",
         "published_at": null,
@@ -426,13 +433,6 @@
         "published_at": null,
         "relevance_score": 5,
         "url": "https://github.com/google-deepmind/mujoco"
-      },
-      {
-        "title": "anthropics/claude-quickstarts",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 5,
-        "url": "https://github.com/anthropics/claude-quickstarts"
       }
     ]
   }
