@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-10T01:57:06+00:00_
+_Generiert: 2026-11-10T02:19:07+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „Before the licence: What Singapore’s regulated institutions ask a fintech partner first“ aus e27 Asia Startup and Tech Feed (Score 15, observation).
+15 neue relevante Treffer. Stärkstes Signal: „M 5.4 - Pulau Pulau Tanimbar, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -57,6 +57,24 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **M 5.4 - Pulau Pulau Tanimbar, Indonesia** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8d)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-10T02:17:25.529+00:00`, fetched `2026-11-10T02:18:41+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - IV Time 2026-11-10 01:53:24 UTC 2026-11-10 01:53:24 UTC at epicenter Location 7.874°S 130.294°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **When buyers ask an AI who to buy from, will it name you?** — Score 16, observation — [Quelle](https://e27.co/when-buyers-ask-an-ai-who-to-buy-from-will-it-name-you-20261106/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-10T02:00:04+00:00`, fetched `2026-11-10T02:18:41+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Public Health, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+6.2); Southeast Asia (+2.0); recent (+1.0)
+  - Kurz: Buyers across Southeast Asia now ask an AI assistant who to buy from, and get back a handful of names instead of a page of links. Here is what that changes for a small business, and the plain work that makes it easier for the assistant to name you. A search gave buyers ten links; […] The post When buyers ask an AI who to buy from, will it name you? appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Before the licence: What Singapore’s regulated institutions ask a fintech partner first** — Score 15, observation — [Quelle](https://e27.co/before-the-licence-what-singapores-regulated-institutions-ask-a-fintech-partner-first-20261106/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-10T01:00:41+00:00`, fetched `2026-11-10T01:07:06+00:00`
@@ -84,18 +102,27 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **The Megaspeed question: How a Singapore firm ended up in Nvidia’s biggest crisis** — Score 14, observation — [Quelle](https://e27.co/the-megaspeed-question-how-a-singapore-firm-ended-up-in-nvidias-biggest-crisis-20261109/)
+- **The DEFY framework: Where agentic AI actually earns its place in the marketing funnel** — Score 14, observation — [Quelle](https://e27.co/the-defy-framework-where-agentic-ai-actually-earns-its-place-in-the-marketing-funnel-20261109/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-10T01:00:38+00:00`, fetched `2026-11-10T01:07:06+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, founder
+  - Zeit: published `2026-11-10T02:15:05+00:00`, fetched `2026-11-10T02:18:41+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph region china_credible_only: China (+2.0)
-  - Kurz: Nvidia’s board has opened an independent investigation into whether founder and CEO Jensen Huang was the target of a foreign intelligence effort. The move pulls a Singapore-based chip buyer, and the region’s booming data-centre industry, into the middle of the US-China AI rivalry. The probe will be overseen by a committee of independent directors working […] The post The Megaspeed question: How a Singapore firm ende…
+  - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: Ask a room of marketing leaders whether AI has transformed their function and nearly every hand goes up. Ask what their agents did on their own last week and the room goes quiet. That gap is the headline of BCG’s CMO survey this year. Of the 300 CMOs it polled, 96 per cent describe an […] The post The DEFY framework: Where agentic AI actually earns its place in the marketing funnel appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
+- **M 4.9 - north of Franz Josef Land** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8i)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-10T02:16:29.040+00:00`, fetched `2026-11-10T02:18:41+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-11-10 02:00:03 UTC 2026-11-10 02:00:03 UTC at epicenter Location 86.724°N 65.294°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.0 - south of the Fiji Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx7v)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-10T00:04:59.040+00:00`, fetched `2026-11-10T00:31:59+00:00`
@@ -144,8 +171,8 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 
