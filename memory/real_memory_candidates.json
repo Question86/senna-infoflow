@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-11-10T02:03:16Z",
+  "generated_at": "2026-11-10T02:21:30Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -43,9 +43,9 @@
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     },
     {
-      "title": "sherlock-project/sherlock",
-      "band": "watch",
-      "reason": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm."
+      "title": "M 5.4 - Pulau Pulau Tanimbar, Indonesia",
+      "band": "strong",
+      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     }
   ]
 }
