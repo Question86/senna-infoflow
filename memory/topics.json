@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-10T14:38:42+00:00",
+  "generated_at": "2026-11-10T14:44:32+00:00",
   "topics": {
     "ai": [
       {
@@ -140,11 +140,11 @@
         "url": "https://e27.co/gcashs-record-quarter-shows-mynt-is-now-a-lender-that-happens-to-run-a-wallet-20261110/"
       },
       {
-        "title": "Introductory remarks - Official Monetary and Financial Institutions Forum (OMFIF)",
+        "title": "The future of FinTech",
         "source": "BIS Central Bankers Speeches",
         "published_at": "2026-11-10T00:00:00+00:00",
         "relevance_score": 6,
-        "url": "https://www.bis.org/speeches/20261110-introductory-remarks-official-monetary-and-financial-institutions-forum-omfif"
+        "url": "https://www.bis.org/speeches/20261110-future-fintech"
       }
     ],
     "security": [
