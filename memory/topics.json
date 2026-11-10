@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-10T03:12:18+00:00",
+  "generated_at": "2026-11-10T03:26:42+00:00",
   "topics": {
     "ai": [
       {
@@ -47,6 +47,13 @@
         "url": "https://e27.co/the-megaspeed-question-how-a-singapore-firm-ended-up-in-nvidias-biggest-crisis-20261109/"
       },
       {
+        "title": "Rediscovering client/server: The future of AI is distributed, not centralised",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-10T03:15:08+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/rediscovering-client-server-the-future-of-ai-is-distributed-not-centralised-20261109/"
+      },
+      {
         "title": "garrytan/gbrain",
         "source": "GitHub Trending RSS All Languages Daily",
         "published_at": null,
@@ -66,13 +73,6 @@
         "published_at": null,
         "relevance_score": 5,
         "url": "https://github.com/sherlock-project/sherlock"
-      },
-      {
-        "title": "google-deepmind/mujoco",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 5,
-        "url": "https://github.com/google-deepmind/mujoco"
       }
     ],
     "economy": [
@@ -189,6 +189,13 @@
       }
     ],
     "geopolitics": [
+      {
+        "title": "Rediscovering client/server: The future of AI is distributed, not centralised",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-10T03:15:08+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/rediscovering-client-server-the-future-of-ai-is-distributed-not-centralised-20261109/"
+      },
       {
         "title": "sherlock-project/sherlock",
         "source": "GitHub Trending RSS All Languages Daily",

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-10T03:12:18+00:00_
+_Generated: 2026-11-10T03:26:42+00:00_
 
 ## Status
 - status: `normal`
-- findings: `18`
+- findings: `19`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-11-10T03:12:18+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx7v
 - summary: Time 2026-11-09 23:45:21 UTC 2026-11-09 23:45:21 UTC at epicenter Location 24.482°S 177.280°W Depth 126.01 km (78.30 mi)
 
-### 7. Claude Fable 5.2へのプロンプト
+### 7. Rediscovering client/server: The future of AI is distributed, not centralised
+- source: e27 Asia Startup and Tech Feed
+- score: `8`
+- published: `2026-11-10T03:15:08+00:00`
+- url: https://e27.co/rediscovering-client-server-the-future-of-ai-is-distributed-not-centralised-20261109/
+- summary: For the past year, I have been using AI to write Python programs that run on an Ubuntu server. Along the way, I have had to dust off a few brain cells and relearn Linux commands I had not touched in years. There is something to be said for neuroplasticity: ap…
+
+### 8. Claude Fable 5.2へのプロンプト
 - source: Hatena Bookmark Hotentry IT
 - score: `8`
 - published: `2026-11-09T22:21:33+00:00`
 - url: https://platform.claude.com/docs/ja/build-with-claude/prompt-engineering/prompting-claude-fable-5-2
 - summary: Claude Fable 5.2およびClaude Mythos 5.2に固有のプロンプトパターン：エフォート、早期停止、承認、コードの所有権、進捗の更新、サブエージェント、蓄積する慎重さ、以前のモデル向けに書かれた指示、最終レポート、拒否について説明します。 このガイドでは、Claude Fable 5.2に固有のプロンプトパターンについて説...
-
-### 8. garrytan/gbrain
-- source: GitHub Trending RSS All Languages Daily
-- score: `8`
-- published: `None`
-- url: https://github.com/garrytan/gbrain
-- summary: Garry's Opinionated OpenClaw/Hermes Agent Brain Give the agent you already use a memory you control. GBrain stores explicit facts with their sources, supports corrections and withdrawal, and makes the same memory available across your agents. Start with keyle…
 
 END OF DOCUMENT
