@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T15:29:16+00:00",
-  "run_id": "2026-11-10T15:29:16+00:00",
+  "generated_at": "2026-11-10T15:35:57+00:00",
+  "run_id": "2026-11-10T15:35:57+00:00",
   "date": "2026-11-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 73,
     "displayed_findings": 73,
     "high": 0,
@@ -3625,28 +3625,7 @@
       "id": "01321a249df9c7720143"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Transmission and conduct of monetary policy in Switzerland",
-      "url": "https://www.bis.org/speeches/20261110-transmission-and-conduct-monetary-policy-switzerland",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-11-10T00:00:00+00:00",
-      "fetched_at": "2026-11-10T15:28:44+00:00",
-      "summary": "Speech by Mr Martin Schlegel, Chairman of the Governing Board of the Swiss National Bank, at the conference \"The SNB and its watchers\", Zurich, 5 November 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2daa2922c408716ec542"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
