@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-10T20:28:44+00:00_
+_Generiert: 2026-11-10T20:34:47+00:00_
 
 ## Kurzlage
 
-91 neue relevante Treffer. Stärkstes Signal: „AquaBloom raises seed funding to turn Indonesia’s seaweed into climate armour for farmers“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
+92 neue relevante Treffer. Stärkstes Signal: „AquaBloom raises seed funding to turn Indonesia’s seaweed into climate armour for farmers“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -150,6 +150,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Bowman, The U.S. Economy and Considerations for Monetary Policy** — Score 13, observation — [Quelle](https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm)
+  - Quelle: Federal Reserve Speeches and Testimony / `rss`
+  - Zeit: published `2026-11-10T20:30:00+00:00`, fetched `2026-11-10T20:34:18+00:00`
+  - Treffer: Macro/Policy, speech, testimony
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: Speech At the C. Peter McColough Series on International Economics Council on Foreign Relations, Washington, D.C.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.6 - 43 km S of Puerto San José, Guatemala** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txb8)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-10T15:21:34.310+00:00`, fetched `2026-11-10T15:23:00+00:00`
@@ -276,15 +285,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-11-10 19:54:18 UTC 2026-11-10 19:54:18 UTC at epicenter Location 13.935°S 165.517°E Depth 11.71 km (7.27 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Philip R. Lane: The science and practice of monetary policy communication: the ECB experience** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110_1~9725b7aa07.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-11-10T16:45:00+00:00`, fetched `2026-11-10T16:48:50+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Philip R. Lane: The science and practice of monetary policy communication: the ECB experience
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
