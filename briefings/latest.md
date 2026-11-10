@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-10T15:51:51+00:00_
+_Generiert: 2026-11-10T15:56:50+00:00_
 
 ## Kurzlage
 
-79 neue relevante Treffer. Stärkstes Signal: „AquaBloom raises seed funding to turn Indonesia’s seaweed into climate armour for farmers“ aus e27 Asia Startup and Tech Feed (Score 23, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+79 neue relevante Treffer. Stärkstes Signal: „AquaBloom raises seed funding to turn Indonesia’s seaweed into climate armour for farmers“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -45,10 +45,6 @@ _Generiert: 2026-11-10T15:51:51+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.7M, Depth:24.173km) in Japan 09/11/2026 04:52 UTC, 230 thousand in MMI IV.
-- **USGS earthquake M5.6 - 43 km S of Puerto San José, Guatemala** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txb8)
-  - Quelle: USGS
-  - Zeit: `2026-11-10T14:54:17+00:00`
-  - Kurz: M5.6 - 43 km S of Puerto San José, Guatemala. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -348,7 +344,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `e27_asia_startups_feed` (rss): 500 Server Error: Internal Server Error for url: https://e27.co/index_wp.php/feed/
