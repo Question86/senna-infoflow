@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-10T06:25:00Z",
+  "generated_at": "2026-11-10T06:36:11Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 33,
@@ -70,7 +70,7 @@
       "url": "https://github.com/garrytan/gbrain",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-10T01:07:06+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -124,7 +124,7 @@
       "url": "https://e27.co/ecosystem-roundup-nvidia-board-probes-jensen-huang-over-affair-with-megaspeed-exec-20261110/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T06:14:01+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai",
         "security",
@@ -152,7 +152,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8d",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-10T02:17:25.529+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -178,7 +178,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx96",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-10T05:53:57.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -203,7 +203,7 @@
       "url": "https://e27.co/your-ai-strategy-is-your-2015-strategy-only-cheaper-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T03:00:16+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "macro"
@@ -255,7 +255,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8i",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-10T02:16:29.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -280,7 +280,7 @@
       "url": "https://e27.co/one-founder-many-agents-the-philippiness-answer-to-a-vanishing-series-a-20261109/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T02:00:26+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -307,7 +307,7 @@
       "url": "https://e27.co/when-buyers-ask-an-ai-who-to-buy-from-will-it-name-you-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T02:00:04+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -333,7 +333,7 @@
       "url": "https://github.com/sherlock-project/sherlock",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-10T01:07:06+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -385,7 +385,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx7v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-10T00:04:59.040+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "disaster"
       ],
@@ -409,7 +409,7 @@
       "url": "https://e27.co/sionic-ai-brings-its-thai-reading-model-to-sea-with-banks-as-the-real-exam-20261110/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T04:42:11+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -435,7 +435,7 @@
       "url": "https://e27.co/the-defy-framework-where-agentic-ai-actually-earns-its-place-in-the-marketing-funnel-20261109/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T02:15:05+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "macro"
@@ -488,7 +488,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261110-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-11-10T02:59:49+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -512,7 +512,7 @@
       "url": "https://news.web.nhk/newsweb/na/nd-20261110de73285",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-10T04:44:53+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -560,7 +560,7 @@
       "url": "https://zenn.dev/oikon/articles/claude-code-recipe",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-10T03:58:52+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -586,7 +586,7 @@
       "url": "https://e27.co/the-hidden-costs-of-running-an-ai-video-production-business-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T04:30:58+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -612,7 +612,7 @@
       "url": "https://e27.co/rediscovering-client-server-the-future-of-ai-is-distributed-not-centralised-20261109/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T03:15:08+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -638,7 +638,7 @@
       "url": "https://e27.co/gcashs-record-quarter-shows-mynt-is-now-a-lender-that-happens-to-run-a-wallet-20261110/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T05:56:07+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "macro"
@@ -665,7 +665,7 @@
       "url": "https://japan.cnet.com/article/35254620/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-09T22:53:05+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "ai"
       ],
@@ -690,7 +690,7 @@
       "url": "https://www.tsukuba-sp.org/news/wghx7ljlx7/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-09T21:05:20+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "ai"
       ],
@@ -716,7 +716,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 143.15,
+      "age_days": 143.16,
       "topics": [
         "general"
       ],
@@ -732,7 +732,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 143.1d old signal"
+        "aging penalty -16.0 for 143.2d old signal"
       ],
       "summary": ""
     },
@@ -741,7 +741,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 143.15,
+      "age_days": 143.16,
       "topics": [
         "general"
       ],
@@ -757,7 +757,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 143.1d old signal"
+        "aging penalty -16.0 for 143.2d old signal"
       ],
       "summary": ""
     },
@@ -766,7 +766,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 143.15,
+      "age_days": 143.16,
       "topics": [
         "ai"
       ],
@@ -783,7 +783,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 143.1d old signal",
+        "aging penalty -16.0 for 143.2d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -818,7 +818,7 @@
       "url": "https://github.com/google-deepmind/mujoco",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-10T01:07:06+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai",
         "macro"
@@ -844,7 +844,7 @@
       "url": "https://github.com/anthropics/claude-quickstarts",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-10T01:07:06+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
