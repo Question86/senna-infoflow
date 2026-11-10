@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-10T15:00:16+00:00_
+_Generiert: 2026-11-10T15:11:54+00:00_
 
 ## Kurzlage
 
-66 neue relevante Treffer. Stärkstes Signal: „AquaBloom raises seed funding to turn Indonesia’s seaweed into climate armour for farmers“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
+69 neue relevante Treffer. Stärkstes Signal: „AquaBloom raises seed funding to turn Indonesia’s seaweed into climate armour for farmers“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -213,6 +213,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Announcing 20260100 (OT,liquidity providing), for 7 days deadline 09:45
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Welcome address - Fourth Women in Central Banking Workshop** — Score 12, observation — [Quelle](https://www.bis.org/speeches/20261110-welcome-address-fourth-women-central-banking-workshop)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-11-10T00:00:00+00:00`, fetched `2026-11-10T15:11:23+00:00`
+  - Treffer: banking, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); banking (+2.5); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: Welcome address by Ms Victoria Rodríguez Ceja, Governor of Bank of Mexico, at the Fourth Women in Central Banking Workshop, organised by Bank of Mexico, the Federal Reserve Bank of Dallas, Norges Bank (Central Bank of Norway) and Bank of Italy, Mexico City, 6 November 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Message for the European Chamber of Commerce Philippines Luncheon Meeting** — Score 12, observation — [Quelle](https://www.bis.org/speeches/20261110-message-european-chamber-commerce-philippines-luncheon-meeting)
   - Quelle: BIS Central Bankers Speeches / `rss`
   - Zeit: published `2026-11-10T00:00:00+00:00`, fetched `2026-11-10T13:52:00+00:00`
@@ -230,6 +239,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region canada: Canada, Bank of Canada (+2.0)
   - Kurz: Bank of Korea Governor Hyun Song Shin appointed Chair of the Bank for International Settlements (BIS) Committee on Payments and Market Infrastructures (CPMI) for a three-year term from 1 November. In addition, the Board of Directors has extended the term of Tiff Macklem, Governor of the Bank of Canada, as Chair of the Consultative Council for the Americas (CCA) until 31 March 2027.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Work at the Frontier: AI’s effect on freelance work** — Score 11, observation — [Quelle](https://openai.com/index/ai-effect-on-freelance-work)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-11-10T07:00:00+00:00`, fetched `2026-11-10T15:11:23+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)
+  - Kurz: New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Claude Codeで最近使っているTips【2026/11】** — Score 11, observation — [Quelle](https://zenn.dev/oikon/articles/claude-code-recipe)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -303,15 +321,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region australia: Australia, Canberra, Reserve Bank of Australia (+2.0)
   - Kurz: Text of the Sir Leslie Melville Lecture by Mr Andrew Hauser, Deputy Governor of the Reserve Bank of Australia, to the Australian National University, Canberra, 5 November 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Opening remarks - Monetary Policy Report (IPOM) press conference, third quarter of 2026** — Score 9, opportunity — [Quelle](https://www.bis.org/speeches/20261110-opening-remarks-monetary-policy-report-ipom-press-conference-third-quarter-2026)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-11-10T00:00:00+00:00`, fetched `2026-11-10T14:04:54+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region south_america: Argentina (+2.0)
-  - Kurz: Opening remarks by Mr Santiago Bausili, President of the Central Bank of Argentina, at the Monetary Policy Report (IPOM) press conference, together with Mr Vladimir Werning, Deputy Governor of the Central Bank of Argentina, Buenos Aires, 29 October 2026.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Piero Cipollone: Cash and the digital euro: two sides of the same coin** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-11-10T14:00:00+00:00`, fetched `2026-11-10T14:04:54+00:00`
@@ -320,15 +329,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Piero Cipollone: Cash and the digital euro: two sides of the same coin
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The hidden costs of running an AI video production business** — Score 8, observation — [Quelle](https://e27.co/the-hidden-costs-of-running-an-ai-video-production-business-20261106/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-10T04:30:58+00:00`, fetched `2026-11-10T04:37:46+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: A single AI production worker produced roughly two hours of AI-assisted drama in a week. The completed project was accepted by the client. Model usage, generation and related tools accounted for roughly 60 per cent of direct production costs; my own labour made up the rest. There was no team. One AI production worker adjusted […] The post The hidden costs of running an AI video production business appeared first on…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
