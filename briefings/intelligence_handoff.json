@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-10T09:32:18Z",
+  "generated_at": "2026-11-10T10:17:14Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “FrodoBots EarthRover Mini+における複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU96830794/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-10T09:30:15+09:00",
-      "age_days": 0.38,
+      "age_days": 0.41,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/vu/JVNVU98836795/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-10T09:30:00+09:00",
-      "age_days": 0.38,
+      "age_days": 0.41,
       "topics": [
         "security"
       ],
@@ -63,7 +63,7 @@
       "url": "https://github.com/garrytan/gbrain",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-10T01:07:06+00:00",
-      "age_days": 0.35,
+      "age_days": 0.38,
       "topics": [
         "ai"
       ],
@@ -88,7 +88,7 @@
       "url": "https://levtech.jp/media/detail_965/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-10T01:12:53+00:00",
-      "age_days": 0.35,
+      "age_days": 0.38,
       "topics": [
         "ai"
       ],
@@ -114,7 +114,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
       "source": "Federal Reserve Speeches and Testimony",
       "published_at": "2026-11-10T09:00:00+00:00",
-      "age_days": 0.02,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "macro"
@@ -142,7 +142,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 144.32,
+      "age_days": 144.35,
       "topics": [
         "ai"
       ],
@@ -171,7 +171,7 @@
       "url": "https://e27.co/ecosystem-roundup-nvidia-board-probes-jensen-huang-over-affair-with-megaspeed-exec-20261110/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T06:14:01+00:00",
-      "age_days": 0.14,
+      "age_days": 0.17,
       "topics": [
         "ai",
         "security",
@@ -199,7 +199,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8d",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-10T02:17:25.529+00:00",
-      "age_days": 0.3,
+      "age_days": 0.33,
       "topics": [
         "disaster"
       ],
@@ -221,11 +221,36 @@
       "summary": "PAGER - GREEN ShakeMap - IV Time 2026-11-10 01:53:24 UTC 2026-11-10 01:53:24 UTC at epicenter Location 7.874°S 130.294°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "Zahlreiche Sicherheitslücken bedrohen IBM App Connect Enterprise",
+      "url": "https://www.heise.de/news/Zahlreiche-Sicherheitsluecken-bedrohen-IBM-App-Connect-Enterprise-11518678.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-11-10T10:02:00.000+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce"
+      ],
+      "summary": "Patches schließen Schwachstellen in IBM App Connect Enterprise, der Log Source Management App for IBM QRadar SIEM und der TS4500 Tape Library."
+    },
+    {
       "title": "M 5.0 - 58 km NE of Fef, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx9z",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-10T08:53:21.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -246,36 +271,11 @@
       "summary": "Time 2026-11-10 08:34:07 UTC 2026-11-10 08:34:07 UTC at epicenter Location 0.493°S 132.859°E Depth 35.00 km (21.75 mi)"
     },
     {
-      "title": "M 4.9 - 78 km ESE of Hitachi, Japan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx96",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-11-10T05:53:57.040+00:00",
-      "age_days": 0.15,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-11-10 05:20:08 UTC 2026-11-10 05:20:08 UTC at epicenter Location 36.334°N 141.466°E Depth 35.00 km (21.75 mi)"
-    },
-    {
       "title": "Außer der Reihe: Sicherheitsupdates für fast alle Apple-Geräte",
       "url": "https://www.heise.de/news/Ausser-der-Reihe-Sicherheitsupdates-fuer-fast-alle-Apple-Geraete-11518098.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-10T09:12:00.000+00:00",
-      "age_days": 0.01,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -299,7 +299,7 @@
       "url": "https://www.heise.de/news/Chrome-Update-stopft-attackiertes-Sicherheitsleck-11518215.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-10T07:57:00.000+00:00",
-      "age_days": 0.07,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "security"
