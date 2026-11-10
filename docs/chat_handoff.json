@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-10T07:38:42+00:00",
+  "generated_at": "2026-11-10T07:44:36+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 31,
-    "displayed_findings": 31,
+    "today_file_total": 32,
+    "displayed_findings": 32,
     "high": 0,
-    "medium": 13,
+    "medium": 14,
     "observe": 18
   },
   "source_errors_count": 0,
@@ -45,13 +45,13 @@
       "section": "medium"
     },
     {
-      "title": "When buyers ask an AI who to buy from, will it name you?",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "退屈なCoding AgentはMuseにやらせよう",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-11-10T02:00:04+00:00",
-      "relevance_score": 16,
-      "url": "https://e27.co/when-buyers-ask-an-ai-who-to-buy-from-will-it-name-you-20261106/",
-      "summary": "Buyers across Southeast Asia now ask an AI assistant who to buy from, and get back a handful of names instead of a page of links. Here is what that changes for a small business, and the plain work that makes it easier for the assistant to name you. A search g…",
+      "published_at": "2026-11-10T04:12:04+00:00",
+      "relevance_score": 18,
+      "url": "https://zenn.dev/watany/articles/342b9815dd0553",
+      "summary": "はじめに 旧FacebookのMetaが開発したパーソナルAIエージェントのMuseがすごく良くて、意味不明なくらいずっと触ってる。紹介コード: 7L990R を入れるとトークンがもらえるのでよろしくね。 Museは触ると魅力がわかるタイプのプロダクトで、使ってないとClaudeやCodexで良いじゃん、なんで今更驚き屋してんの？って思わ...",
       "section": "medium"
     },
     {
