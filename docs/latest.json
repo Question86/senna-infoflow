@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T10:19:53+00:00",
-  "run_id": "2026-11-10T10:19:53+00:00",
+  "generated_at": "2026-11-10T10:25:25+00:00",
+  "run_id": "2026-11-10T10:25:25+00:00",
   "date": "2026-11-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 44,
     "displayed_findings": 44,
     "high": 0,
@@ -2359,32 +2359,7 @@
       "id": "01321a249df9c7720143"
     }
   ],
-  "new_findings": [
-    {
-      "title": "[UPDATE] [mittel] Red Hat Openshift Container Platform (ansible, aws-efs-csi-driver): Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4405",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-11-10T10:13:56+00:00",
-      "fetched_at": "2026-11-10T10:19:24+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Openshift Container Platform ausnutzen, um einen Denial of Service Angriff durchzuführen, beliebigen Code auszuführen und Daten zu manipulieren.",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 17,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "448e39d62f9bdd4c1fce"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
