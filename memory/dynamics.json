@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-10T17:32:13Z",
+  "generated_at": "2026-11-10T17:46:30Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -22,7 +22,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4444",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-10T13:12:29+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4405",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-10T10:13:56+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "ai",
         "security"
@@ -74,7 +74,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4449",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-10T13:12:31+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -98,7 +98,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4448",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-10T13:12:31+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -122,7 +122,7 @@
       "url": "https://jvn.jp/vu/JVNVU96830794/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-10T09:30:15+09:00",
-      "age_days": 0.71,
+      "age_days": 0.72,
       "topics": [
         "security"
       ],
@@ -146,7 +146,7 @@
       "url": "https://jvn.jp/vu/JVNVU98836795/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-10T09:30:00+09:00",
-      "age_days": 0.71,
+      "age_days": 0.72,
       "topics": [
         "security"
       ],
@@ -170,7 +170,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1463/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-11-05T00:00:00+00:00",
-      "age_days": 5.73,
+      "age_days": 5.74,
       "topics": [
         "ai",
         "security"
@@ -196,7 +196,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1462/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-11-05T00:00:00+00:00",
-      "age_days": 5.73,
+      "age_days": 5.74,
       "topics": [
         "ai",
         "security"
@@ -222,7 +222,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1461/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-11-04T00:00:00+00:00",
-      "age_days": 6.73,
+      "age_days": 6.74,
       "topics": [
         "ai",
         "security"
@@ -248,7 +248,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1459/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-11-04T00:00:00+00:00",
-      "age_days": 6.73,
+      "age_days": 6.74,
       "topics": [
         "ai",
         "security"
@@ -274,7 +274,7 @@
       "url": "https://github.com/garrytan/gbrain",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-10T01:07:06+00:00",
-      "age_days": 0.68,
+      "age_days": 0.69,
       "topics": [
         "ai"
       ],
@@ -299,7 +299,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4445",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-10T13:12:29+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -325,7 +325,7 @@
       "url": "https://levtech.jp/media/detail_965/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-10T01:12:53+00:00",
-      "age_days": 0.68,
+      "age_days": 0.69,
       "topics": [
         "ai"
       ],
@@ -351,7 +351,7 @@
       "url": "https://www.bis.org/speeches/20261110-danish-pension-system-long-term-perspective",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-11-10T00:00:00+00:00",
-      "age_days": 0.73,
+      "age_days": 0.74,
       "topics": [
         "macro"
       ],
@@ -379,7 +379,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4447",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-10T13:12:30+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -404,7 +404,7 @@
       "url": "https://www.bis.org/speeches/20261110-message-european-chamber-commerce-philippines-luncheon-meeting",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-11-10T00:00:00+00:00",
-      "age_days": 0.73,
+      "age_days": 0.74,
       "topics": [
         "macro"
       ],
@@ -430,7 +430,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4446",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-10T13:12:30+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -455,7 +455,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4173",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-10T13:07:32+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -480,7 +480,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
       "source": "Federal Reserve Speeches and Testimony",
       "published_at": "2026-11-10T09:00:00+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "macro"
@@ -508,7 +508,7 @@
       "url": "https://www.bis.org/speeches/20261110-navigating-stormy-waters-reflections-monetary-policy",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-11-10T00:00:00+00:00",
-      "age_days": 0.73,
+      "age_days": 0.74,
       "topics": [
         "ai",
         "macro",
@@ -537,7 +537,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 144.65,
+      "age_days": 144.66,
       "topics": [
         "ai"
       ],
@@ -556,7 +556,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 144.6d old signal",
+        "aging penalty -8.0 for 144.7d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -566,7 +566,7 @@
       "url": "https://e27.co/ecosystem-roundup-nvidia-board-probes-jensen-huang-over-affair-with-megaspeed-exec-20261110/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T06:14:01+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "ai",
         "security",
@@ -594,7 +594,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8d",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-10T02:17:25.529+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "disaster"
       ],
@@ -620,7 +620,7 @@
       "url": "https://www.heise.de/news/SAP-Patchday-bringt-Korrekturen-fuer-Codeschmuggel-Luecken-11519250.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-10T13:33:00.000+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -645,7 +645,7 @@
       "url": "https://www.heise.de/news/Microsoft-Paint-Codeschmuggel-Luecke-im-Malprogramm-11519162.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-10T12:58:00.000+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "security"
@@ -671,7 +671,7 @@
       "url": "https://www.heise.de/news/Angriffswarnung-fuer-GPUStack-FreeSwitch-OpenSSH-und-IBM-Aspera-Faspex-11518710.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-10T10:33:00.000+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -696,7 +696,7 @@
       "url": "https://www.heise.de/news/Zahlreiche-Sicherheitsluecken-bedrohen-IBM-App-Connect-Enterprise-11518678.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-10T10:02:00.000+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -721,7 +721,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txbi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-10T16:11:36.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -746,7 +746,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx9z",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-10T08:53:21.040+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "disaster"
       ],
@@ -771,7 +771,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx96",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-10T05:53:57.040+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "disaster"
       ],
@@ -796,7 +796,7 @@
       "url": "https://www.bis.org/speeches/20261110-trust-expectations-and-monetary-policy",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-11-10T00:00:00+00:00",
-      "age_days": 0.73,
+      "age_days": 0.74,
       "topics": [
         "macro"
       ],
@@ -822,7 +822,7 @@
       "url": "https://www.bis.org/speeches/20261110-opening-remarks-monetary-policy-report-ipom-press-conference-third-quarter-2026",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-11-10T00:00:00+00:00",
-      "age_days": 0.73,
+      "age_days": 0.74,
       "topics": [
         "ai",
         "macro"
@@ -850,7 +850,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txb8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-10T15:21:34.310+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -875,7 +875,7 @@
       "url": "https://www.bis.org/speeches/20261110-what-happens-economy-as-intelligence-gets-cheaper",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-11-10T00:00:00+00:00",
-      "age_days": 0.73,
+      "age_days": 0.74,
       "topics": [
         "macro"
       ],
@@ -901,7 +901,7 @@
       "url": "https://e27.co/aquabloom-raises-seed-funding-to-turn-indonesias-seaweed-into-climate-armour-for-farmers-20261110/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T09:19:50+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "ai",
         "macro"
@@ -928,7 +928,7 @@
       "url": "https://www.bis.org/speeches/20261110-transmission-and-conduct-monetary-policy-switzerland",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-11-10T00:00:00+00:00",
-      "age_days": 0.73,
+      "age_days": 0.74,
       "topics": [
         "ai",
         "macro"
@@ -956,7 +956,7 @@
       "url": "https://www.heise.de/news/Ausser-der-Reihe-Sicherheitsupdates-fuer-fast-alle-Apple-Geraete-11518098.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-10T09:12:00.000+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -980,7 +980,7 @@
       "url": "https://www.heise.de/news/Chrome-Update-stopft-attackiertes-Sicherheitsleck-11518215.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-10T07:57:00.000+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "ai",
         "security"
@@ -1005,7 +1005,7 @@
       "url": "https://e27.co/your-ai-strategy-is-your-2015-strategy-only-cheaper-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T03:00:16+00:00",
-      "age_days": 0.61,
+      "age_days": 0.62,
       "topics": [
         "ai",
         "macro"
@@ -1032,7 +1032,7 @@
       "url": "https://www.bis.org/speeches/20261110-we-have-kept-policy-rate-unchanged",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-11-10T00:00:00+00:00",
-      "age_days": 0.73,
+      "age_days": 0.74,
       "topics": [
         "macro"
       ],
