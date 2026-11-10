@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-10T09:15:32+00:00_
+_Generiert: 2026-11-10T09:22:57+00:00_
 
 ## Kurzlage
 
-39 neue relevante Treffer. Stärkstes Signal: „Your AI strategy is your 2015 strategy, only cheaper“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
+41 neue relevante Treffer. Stärkstes Signal: „AquaBloom raises seed funding to turn Indonesia’s seaweed into climate armour for farmers“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **AquaBloom raises seed funding to turn Indonesia’s seaweed into climate armour for farmers** — Score 23, observation — [Quelle](https://e27.co/aquabloom-raises-seed-funding-to-turn-indonesias-seaweed-into-climate-armour-for-farmers-20261110/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-10T09:19:50+00:00`, fetched `2026-11-10T09:22:27+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, funding, Markets/Capital Structure, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); Markets/Capital Structure (+6.0); funding (+2.5); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Along Indonesia’s coasts, smallholder farmers tie seaweed to lines strung across shallow water. A few hundred kilometres inland, other smallholders watch El Niño bake their rice paddies. Jakarta-based AquaBloom wants the first group’s harvest to rescue the second group’s yields, and it now has fresh capital to test whether that idea scales. The agri-biotech startup […] The post AquaBloom raises seed funding to turn…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Your AI strategy is your 2015 strategy, only cheaper** — Score 22, observation — [Quelle](https://e27.co/your-ai-strategy-is-your-2015-strategy-only-cheaper-20261106/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-10T03:00:16+00:00`, fetched `2026-11-10T03:11:43+00:00`
@@ -56,15 +65,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
   - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: META (+2.0)
   - Kurz: はじめに 旧FacebookのMetaが開発したパーソナルAIエージェントのMuseがすごく良くて、意味不明なくらいずっと触ってる。紹介コード: 7L990R を入れるとトークンがもらえるのでよろしくね。 Museは触ると魅力がわかるタイプのプロダクトで、使ってないとClaudeやCodexで良いじゃん、なんで今更驚き屋してんの？って思わ...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **When buyers ask an AI who to buy from, will it name you?** — Score 16, observation — [Quelle](https://e27.co/when-buyers-ask-an-ai-who-to-buy-from-will-it-name-you-20261106/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-10T02:00:04+00:00`, fetched `2026-11-10T02:18:41+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Public Health, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+6.2); Southeast Asia (+2.0); recent (+1.0)
-  - Kurz: Buyers across Southeast Asia now ask an AI assistant who to buy from, and get back a handful of names instead of a page of links. Here is what that changes for a small business, and the plain work that makes it easier for the assistant to name you. A search gave buyers ten links; […] The post When buyers ask an AI who to buy from, will it name you? appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.0 - 58 km NE of Fef, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx9z)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -213,6 +213,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Garry's Opinionated OpenClaw/Hermes Agent Brain Give the agent you already use a memory you control. GBrain stores explicit facts with their sources, supports corrections and withdrawal, and makes the same memory available across your agents. Start with keyless memory and keyword retrieval; add semantic search, synthesis, and background enrichment when you need them. GBrain is MIT-licensed and free to self-host; gbr…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Außer der Reihe: Sicherheitsupdates für fast alle Apple-Geräte** — Score 7, observation — [Quelle](https://www.heise.de/news/Ausser-der-Reihe-Sicherheitsupdates-fuer-fast-alle-Apple-Geraete-11518098.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-11-10T09:12:00.000+00:00`, fetched `2026-11-10T09:22:27+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Apple hat iOS 27.2.1, macOS 27.2.1 und diverse weitere Updates veröffentlicht. Gestopft werden unter anderem Lücken in Bluetooth und der Nachrichten-App.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Chrome-Update stopft attackiertes Sicherheitsleck** — Score 7, observation — [Quelle](https://www.heise.de/news/Chrome-Update-stopft-attackiertes-Sicherheitsleck-11518215.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-11-10T07:57:00.000+00:00`, fetched `2026-11-10T08:17:07+00:00`
@@ -239,15 +248,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 古川大臣記者会見（令和8年11月10日）動画を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **sherlock-project/sherlock** — Score 5, observation — [Quelle](https://github.com/sherlock-project/sherlock)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-11-10T01:07:06+00:00`
-  - Treffer: APAC Trend Radar, GitHub Trending
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: Hunt down social media accounts by username across social networks https://sherlockproject.xyz Hunt down social media accounts by username across 400+ social networks Installation • Usage • Contributing Installation Warning Packages for ParrotOS and Ubuntu 24.04, maintained by a third party, appear to be broken . Users of these systems should defer to uv / pipx / pip or Docker. Method Notes pipx install sherlock-pro…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
