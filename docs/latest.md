@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-10T02:59:29+00:00_
+_Generiert: 2026-11-10T03:12:18+00:00_
 
 ## Kurzlage
 
-16 neue relevante Treffer. Stärkstes Signal: „M 5.4 - Pulau Pulau Tanimbar, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+18 neue relevante Treffer. Stärkstes Signal: „Your AI strategy is your 2015 strategy, only cheaper“ aus e27 Asia Startup and Tech Feed (Score 22, observation).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Your AI strategy is your 2015 strategy, only cheaper** — Score 22, observation — [Quelle](https://e27.co/your-ai-strategy-is-your-2015-strategy-only-cheaper-20261106/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-10T03:00:16+00:00`, fetched `2026-11-10T03:11:43+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, Markets/Capital Structure
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.0); Markets/Capital Structure (+7.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Walk the halls of the Singapore Fintech Festival this November and every bank will have an AI story. Agentic this, generative that, a shiny assistant on every stand. Here is what almost nobody on stage will say out loud: most bank AI strategies in Asia-Pacific are the 2015 strategy with a lower cost base. The […] The post Your AI strategy is your 2015 strategy, only cheaper appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.4 - Pulau Pulau Tanimbar, Indonesia** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8d)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-10T02:17:25.529+00:00`, fetched `2026-11-10T02:18:41+00:00`
@@ -57,15 +66,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **The DEFY framework: Where agentic AI actually earns its place in the marketing funnel** — Score 14, observation — [Quelle](https://e27.co/the-defy-framework-where-agentic-ai-actually-earns-its-place-in-the-marketing-funnel-20261109/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-10T02:15:05+00:00`, fetched `2026-11-10T02:18:41+00:00`
-  - Treffer: AI Agents, AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Ask a room of marketing leaders whether AI has transformed their function and nearly every hand goes up. Ask what their agents did on their own last week and the room goes quiet. That gap is the headline of BCG’s CMO survey this year. Of the 300 CMOs it polled, 96 per cent describe an […] The post The DEFY framework: Where agentic AI actually earns its place in the marketing funnel appeared first on e27 .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -105,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Garry's Opinionated OpenClaw/Hermes Agent Brain Give the agent you already use a memory you control. GBrain stores explicit facts with their sources, supports corrections and withdrawal, and makes the same memory available across your agents. Start with keyless memory and keyword retrieval; add semantic search, synthesis, and background enrichment when you need them. GBrain is MIT-licensed and free to self-host; gbr…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **古川大臣記者会見（令和8年11月10日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-261110-01)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-11-10T02:59:49+00:00`, fetched `2026-11-10T03:11:43+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 古川大臣記者会見（令和8年11月10日）動画を掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **「つくばリポジトリ」含む全国800以上の機関リポジトリ、復旧の目途立たず | 筑波学生新聞** — Score 5, observation — [Quelle](https://www.tsukuba-sp.org/news/wghx7ljlx7/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-09T21:05:20+00:00`, fetched `2026-11-10T02:37:51+00:00`
@@ -135,8 +144,8 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
-- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 
