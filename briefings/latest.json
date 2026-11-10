@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T13:52:31+00:00",
-  "run_id": "2026-11-10T13:52:31+00:00",
+  "generated_at": "2026-11-10T13:57:45+00:00",
+  "run_id": "2026-11-10T13:57:45+00:00",
   "date": "2026-11-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 59,
     "displayed_findings": 59,
     "high": 0,
@@ -3021,50 +3021,7 @@
       "id": "01321a249df9c7720143"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Message for the European Chamber of Commerce Philippines Luncheon Meeting",
-      "url": "https://www.bis.org/speeches/20261110-message-european-chamber-commerce-philippines-luncheon-meeting",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-11-10T00:00:00+00:00",
-      "fetched_at": "2026-11-10T13:52:00+00:00",
-      "summary": "Message by Mr Eli M Remolona, Jr, Governor of Bangko Sentral ng Pilipinas (BSP, the central bank of the Philippines), for the European Chamber of Commerce Philippines Luncheon Meeting, Makati City, 3 November 2026.",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Macro/Policy"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f5a2fe84d472b3362edb"
-    },
-    {
-      "title": "【資料公開】「自分の仕事はここまで」はどこから来るのか",
-      "url": "https://www.ryuzee.com/contents/blog/14628",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-10T11:36:50+00:00",
-      "fetched_at": "2026-11-10T13:52:00+00:00",
-      "summary": "みなさんこんにちは。@ryuzeeです。 2026年10月22日に、あるお客様の社内イベントで「『自分の仕事はここまで』はどこから来るのか」というテーマで講演したので、資料を公開します（講演依頼はお気軽にどうぞ！）。 仕事柄いろいろな組織を見ていますが、「担当外のことには手を出さない」「チケットに書いてあるとおり...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d232d32c1455d576f5b1"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
