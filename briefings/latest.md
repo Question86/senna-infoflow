@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-10T19:53:57+00:00_
+_Generiert: 2026-11-10T19:59:25+00:00_
 
 ## Kurzlage
 
-89 neue relevante Treffer. Stärkstes Signal: „AquaBloom raises seed funding to turn Indonesia’s seaweed into climate armour for farmers“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
+90 neue relevante Treffer. Stärkstes Signal: „AquaBloom raises seed funding to turn Indonesia’s seaweed into climate armour for farmers“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -280,6 +280,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Oikonです。 気がつけば2026年も終わりが見えてきました。今年はありがたいことにClaude Codeの書籍を2冊出版させていただきました。 Claude Code実践入門 [生成AI深掘りガイド]（SBクリエイティブ） Claude Code実践レシピ集（技術評論社） 新刊のClaude Code実践レシピ集は、個人的に好きなClaude CodeのTipsをベース...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Gemini 4 Carbon in GitHub Copilot** — Score 11, observation — [Quelle](https://github.blog/changelog/2026-11-09-gemini-4-carbon-in-github-copilot)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-11-10T02:26:51+00:00`, fetched `2026-11-10T19:58:56+00:00`
+  - Treffer: AI Agents, Copilot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
+  - Kurz: Gemini 4 Carbon, Google’s latest model, is now generally available in GitHub Copilot. It is designed for complex coding, agentic, and reasoning tasks, with a focus on secure code generation… The post Gemini 4 Carbon in GitHub Copilot appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Closing the AI guidance gap in education** — Score 10, opportunity — [Quelle](https://openai.com/index/closing-ai-guidance-gap-education)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-11-10T09:00:00+00:00`, fetched `2026-11-10T08:37:56+00:00`
@@ -324,15 +333,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Philip R. Lane: The science and practice of monetary policy communication: the ECB experience
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Trust, expectations and monetary policy** — Score 9, observation — [Quelle](https://www.bis.org/speeches/20261110-trust-expectations-and-monetary-policy)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-11-10T00:00:00+00:00`, fetched `2026-11-10T14:59:42+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region australia: Australia, Canberra, Reserve Bank of Australia (+2.0)
-  - Kurz: Text of the Sir Leslie Melville Lecture by Mr Andrew Hauser, Deputy Governor of the Reserve Bank of Australia, to the Australian National University, Canberra, 5 November 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

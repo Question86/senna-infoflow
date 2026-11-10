@@ -1009,6 +1009,28 @@
     "id": "18cbcf90fbe0300969ce"
   },
   {
+    "title": "Gemini 4 Carbon in GitHub Copilot",
+    "url": "https://github.blog/changelog/2026-11-09-gemini-4-carbon-in-github-copilot",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-11-10T02:26:51+00:00",
+    "fetched_at": "2026-11-10T19:58:56+00:00",
+    "summary": "Gemini 4 Carbon, Google’s latest model, is now generally available in GitHub Copilot. It is designed for complex coding, agentic, and reasoning tasks, with a focus on secure code generation… The post Gemini 4 Carbon in GitHub Copilot appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "AI Agents",
+      "Copilot",
+      "GitHub"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "AI Agents (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a068effd6ac915c0c0ab"
+  },
+  {
     "title": "Closing the AI guidance gap in education",
     "url": "https://openai.com/index/closing-ai-guidance-gap-education",
     "source": "OpenAI News RSS",
