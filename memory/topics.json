@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-10T18:00:25+00:00",
+  "generated_at": "2026-11-10T18:13:37+00:00",
   "topics": {
     "ai": [
       {
@@ -398,6 +398,13 @@
         "published_at": null,
         "relevance_score": 8,
         "url": "https://github.com/garrytan/gbrain"
+      },
+      {
+        "title": "Git security vulnerabilities announced",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-11-10T18:00:00+00:00",
+        "relevance_score": 5,
+        "url": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/"
       },
       {
         "title": "C++ language server now auto-configures MSBuild builds",

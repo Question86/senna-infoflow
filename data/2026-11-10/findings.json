@@ -1923,6 +1923,27 @@
     "id": "d284021e7ab892848ce5"
   },
   {
+    "title": "Git security vulnerabilities announced",
+    "url": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
+    "source": "GitHub Blog Atom",
+    "source_type": "rss",
+    "published_at": "2026-11-10T18:00:00+00:00",
+    "fetched_at": "2026-11-10T18:13:03+00:00",
+    "summary": "Git is releasing updates addressing six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub",
+      "Security"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Security (+7.5); GitHub (+2.0); recent (+1.0); watchgraph demote clone (x0.45)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "20e3a902c470f9b5d82b"
+  },
+  {
     "title": "C++ language server now auto-configures MSBuild builds",
     "url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
     "source": "GitHub Changelog Atom",
