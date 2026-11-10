@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-10T10:17:14Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “FrodoBots EarthRover Mini+における複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
+  "generated_at": "2026-11-10T10:47:03Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] Red Hat Openshift Container Platform (ansible, aws-efs-csi-driver): Mehrere Schwachstellen” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,38 @@
   ],
   "top_dynamics": [
     {
+      "title": "[UPDATE] [mittel] Red Hat Openshift Container Platform (ansible, aws-efs-csi-driver): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4405",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-10T10:13:56+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: code, container",
+        "security high-signal: code, container",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Openshift Container Platform ausnutzen, um einen Denial of Service Angriff durchzuführen, beliebigen Code auszuführen und Daten zu manipulieren."
+    },
+    {
       "title": "FrodoBots EarthRover Mini+における複数の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU96830794/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-10T09:30:15+09:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -39,7 +66,7 @@
       "url": "https://jvn.jp/vu/JVNVU98836795/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-10T09:30:00+09:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -63,7 +90,7 @@
       "url": "https://github.com/garrytan/gbrain",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-10T01:07:06+00:00",
-      "age_days": 0.38,
+      "age_days": 0.4,
       "topics": [
         "ai"
       ],
@@ -88,7 +115,7 @@
       "url": "https://levtech.jp/media/detail_965/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-10T01:12:53+00:00",
-      "age_days": 0.38,
+      "age_days": 0.4,
       "topics": [
         "ai"
       ],
@@ -114,7 +141,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
       "source": "Federal Reserve Speeches and Testimony",
       "published_at": "2026-11-10T09:00:00+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "macro"
@@ -142,7 +169,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 144.35,
+      "age_days": 144.37,
       "topics": [
         "ai"
       ],
@@ -161,7 +188,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 144.3d old signal",
+        "aging penalty -8.0 for 144.4d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -171,7 +198,7 @@
       "url": "https://e27.co/ecosystem-roundup-nvidia-board-probes-jensen-huang-over-affair-with-megaspeed-exec-20261110/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-10T06:14:01+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "security",
@@ -195,37 +222,36 @@
       "summary": "Nvidia’s board has opened an independent investigation into Jensen Huang after the CEO admitted in a staff memo to an affair with Alice Huang, an executive at Singapore-based Megaspeed. A memo circulated among US policymakers earlier this year claimed China’s Ministry of State Security had recruited her to spy on him.…"
     },
     {
-      "title": "M 5.4 - Pulau Pulau Tanimbar, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8d",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-11-10T02:17:25.529+00:00",
-      "age_days": 0.33,
+      "title": "Angriffswarnung für GPUStack, FreeSwitch, OpenSSH und IBM Aspera Faspex",
+      "url": "https://www.heise.de/news/Angriffswarnung-fuer-GPUStack-FreeSwitch-OpenSSH-und-IBM-Aspera-Faspex-11518710.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-11-10T10:33:00.000+00:00",
+      "age_days": 0.01,
       "topics": [
-        "disaster"
+        "security"
       ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
+      "dynamics_score": 24.0,
+      "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "early terms: earthquake",
-        "high terms: 10",
-        "krass gate: single-source non-official/non-identity signal capped"
+        "high terms: angriffe, 10",
+        "security high-signal: angriffe, 10"
       ],
-      "summary": "PAGER - GREEN ShakeMap - IV Time 2026-11-10 01:53:24 UTC 2026-11-10 01:53:24 UTC at epicenter Location 7.874°S 130.294°E Depth 10.00 km (6.21 mi)"
+      "summary": "Die US-amerikanische IT-Sicherheitsbehörde CISA warnt vor Angriffen auf GPUStack, FreeSwitch, OpenSSH und IBM Aspera Faspex."
     },
     {
       "title": "Zahlreiche Sicherheitslücken bedrohen IBM App Connect Enterprise",
       "url": "https://www.heise.de/news/Zahlreiche-Sicherheitsluecken-bedrohen-IBM-App-Connect-Enterprise-11518678.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-10T10:02:00.000+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -246,36 +272,11 @@
       "summary": "Patches schließen Schwachstellen in IBM App Connect Enterprise, der Log Source Management App for IBM QRadar SIEM und der TS4500 Tape Library."
     },
     {
-      "title": "M 5.0 - 58 km NE of Fef, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx9z",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-11-10T08:53:21.040+00:00",
-      "age_days": 0.06,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-11-10 08:34:07 UTC 2026-11-10 08:34:07 UTC at epicenter Location 0.493°S 132.859°E Depth 35.00 km (21.75 mi)"
-    },
-    {
       "title": "Außer der Reihe: Sicherheitsupdates für fast alle Apple-Geräte",
       "url": "https://www.heise.de/news/Ausser-der-Reihe-Sicherheitsupdates-fuer-fast-alle-Apple-Geraete-11518098.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-10T09:12:00.000+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -299,7 +300,7 @@
       "url": "https://www.heise.de/news/Chrome-Update-stopft-attackiertes-Sicherheitsleck-11518215.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-10T07:57:00.000+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "security"
