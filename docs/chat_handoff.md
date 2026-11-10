@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-10T07:44:36+00:00_
+_Generated: 2026-11-10T07:49:55+00:00_
 
 ## Status
 - status: `normal`
-- findings: `32`
+- findings: `33`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-11-10T07:44:36+00:00_
 - url: https://japan.cnet.com/article/35254620/
 - summary: ソフトバンクの宮川潤一社長は11月9日の決算説明会で、子会社IDCフロンティアへのランサムウェア攻撃を謝罪し、AIを使ったサイバー攻撃への対応に追われている現状を明かした。自社システムを新しいAIモデルで再診断すると、新たに3万5000件の脆弱性が見つかったという。
 
-### 7. M 4.8 - northern Mid-Atlantic Ridge
+### 7. M 4.6 - 19 km SE of Joseph, Oregon
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-11-10T07:48:02.504+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/uw714136981
+- summary: DYFI? - III Time 2026-11-10 07:42:53 UTC 2026-11-10 07:42:53 UTC at epicenter Location 45.254°N 117.019°W Depth 20.82 km (12.94 mi)
+
+### 8. M 4.8 - northern Mid-Atlantic Ridge
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-11-10T07:34:00.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx9n
 - summary: Time 2026-11-10 06:43:11 UTC 2026-11-10 06:43:11 UTC at epicenter Location 34.877°N 35.075°W Depth 10.00 km (6.21 mi)
-
-### 8. M 5.2 - 19 km WSW of Lata, Solomon Islands
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-11-10T03:52:17.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8s
-- summary: Time 2026-11-10 03:37:46 UTC 2026-11-10 03:37:46 UTC at epicenter Location 10.782°S 165.624°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
