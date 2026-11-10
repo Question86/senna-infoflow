@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-10T16:38:08+00:00",
+  "generated_at": "2026-11-10T16:43:40+00:00",
   "topics": {
     "ai": [
       {
@@ -328,6 +328,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txb8"
       },
       {
+        "title": "M 4.8 - 20 km SSW of Lata, Solomon Islands",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-11-10T16:37:50.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txbj"
+      },
+      {
         "title": "M 4.8 - 34 km S of Puerto San José, Guatemala",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-11-10T15:45:55.040+00:00",
@@ -354,13 +361,6 @@
         "published_at": "2026-11-10T03:52:17.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8s"
-      },
-      {
-        "title": "M 4.9 - north of Franz Josef Land",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-11-10T02:16:29.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8i"
       }
     ],
     "github": [
