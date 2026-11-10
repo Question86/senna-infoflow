@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-10T15:11:54+00:00_
+_Generated: 2026-11-10T15:23:30+00:00_
 
 ## Status
 - status: `normal`
-- findings: `69`
+- findings: `72`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-11-10T15:11:54+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8d
 - summary: PAGER - GREEN ShakeMap - IV Time 2026-11-10 01:53:24 UTC 2026-11-10 01:53:24 UTC at epicenter Location 7.874°S 130.294°E Depth 10.00 km (6.21 mi)
 
-### 5. Dependabot alerts will pause on inactive repositories
+### 5. M 5.6 - 43 km S of Puerto San José, Guatemala
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-11-10T15:21:34.310+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000txb8
+- summary: PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-11-10 14:54:17 UTC 2026-11-10 14:54:17 UTC at epicenter Location 13.538°N 90.880°W Depth 35.00 km (21.75 mi)
+
+### 6. Dependabot alerts will pause on inactive repositories
 - source: GitHub Changelog Atom
 - score: `12`
 - published: `2026-11-10T14:20:05+00:00`
 - url: https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories
 - summary: Starting December 8, 2026, GitHub will turn off Dependabot alerts on most repositories with no activity in the past year. Their existing alerts are archived, not deleted, and you can… The post Dependabot alerts will pause on inactive repositories appeared fir…
 
-### 6. Announcing 20260100 (OT,liquidity providing), for 7 days deadline 09:45
+### 7. Announcing 20260100 (OT,liquidity providing), for 7 days deadline 09:45
 - source: ECB Open Market Operations and Communication
 - score: `12`
 - published: `2026-11-10T08:15:23+00:00`
 - url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260100.en.html
 - summary: Announcing 20260100 (OT,liquidity providing), for 7 days deadline 09:45
 
-### 7. Welcome address - Fourth Women in Central Banking Workshop
+### 8. Welcome address - Fourth Women in Central Banking Workshop
 - source: BIS Central Bankers Speeches
 - score: `12`
 - published: `2026-11-10T00:00:00+00:00`
 - url: https://www.bis.org/speeches/20261110-welcome-address-fourth-women-central-banking-workshop
 - summary: Welcome address by Ms Victoria Rodríguez Ceja, Governor of Bank of Mexico, at the Fourth Women in Central Banking Workshop, organised by Bank of Mexico, the Federal Reserve Bank of Dallas, Norges Bank (Central Bank of Norway) and Bank of Italy, Mexico City, 6…
-
-### 8. Message for the European Chamber of Commerce Philippines Luncheon Meeting
-- source: BIS Central Bankers Speeches
-- score: `12`
-- published: `2026-11-10T00:00:00+00:00`
-- url: https://www.bis.org/speeches/20261110-message-european-chamber-commerce-philippines-luncheon-meeting
-- summary: Message by Mr Eli M Remolona, Jr, Governor of Bangko Sentral ng Pilipinas (BSP, the central bank of the Philippines), for the European Chamber of Commerce Philippines Luncheon Meeting, Makati City, 3 November 2026.
 
 END OF DOCUMENT

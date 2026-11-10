@@ -749,6 +749,44 @@
     "id": "6bec4c941112c01c2e4e"
   },
   {
+    "title": "M 5.6 - 43 km S of Puerto San José, Guatemala",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txb8",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-11-10T15:21:34.310+00:00",
+    "fetched_at": "2026-11-10T15:23:00+00:00",
+    "summary": "PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-11-10 14:54:17 UTC 2026-11-10 14:54:17 UTC at epicenter Location 13.538°N 90.880°W Depth 35.00 km (21.75 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "PAGER",
+      "ShakeMap",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "994bacc0f0a574971eba"
+  },
+  {
     "title": "Dependabot alerts will pause on inactive repositories",
     "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
     "source": "GitHub Changelog Atom",
@@ -1245,6 +1283,26 @@
     "id": "2425f75a07a5d64a1743"
   },
   {
+    "title": "What happens to the economy as “intelligence” gets cheaper?",
+    "url": "https://www.bis.org/speeches/20261110-what-happens-economy-as-intelligence-gets-cheaper",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-11-10T00:00:00+00:00",
+    "fetched_at": "2026-11-10T15:23:00+00:00",
+    "summary": "Speech by Ms Sarah Hunter, Assistant Governor (Economic) of the Reserve Bank of Australia, at the UBS Australasia Conference, Sydney, 9 November 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region australia: Australia, Sydney, Reserve Bank of Australia (+2.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "27d8babd6d343a3301a7"
+  },
+  {
     "title": "Claude Fable 5.2へのプロンプト",
     "url": "https://platform.claude.com/docs/ja/build-with-claude/prompt-engineering/prompting-claude-fable-5-2",
     "source": "Hatena Bookmark Hotentry IT",
@@ -1447,6 +1505,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "ba54a69eb00a40ce58e3"
+  },
+  {
+    "title": "We have kept the policy rate unchanged",
+    "url": "https://www.bis.org/speeches/20261110-we-have-kept-policy-rate-unchanged",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-11-10T00:00:00+00:00",
+    "fetched_at": "2026-11-10T15:23:00+00:00",
+    "summary": "Introductory statement by Ms Ida Wolden Bache, Governor of Norges Bank (Central Bank of Norway), at the press conference following Norway's announcement of the policy rate, Oslo, 5 November 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "cf0c40bed04fae936084"
   },
   {
     "title": "The future of FinTech",

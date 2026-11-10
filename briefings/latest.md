@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-10T15:11:54+00:00_
+_Generiert: 2026-11-10T15:23:30+00:00_
 
 ## Kurzlage
 
-69 neue relevante Treffer. Stärkstes Signal: „AquaBloom raises seed funding to turn Indonesia’s seaweed into climate armour for farmers“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
+72 neue relevante Treffer. Stärkstes Signal: „AquaBloom raises seed funding to turn Indonesia’s seaweed into climate armour for farmers“ aus e27 Asia Startup and Tech Feed (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -41,6 +41,10 @@ _Generiert: 2026-11-10T15:11:54+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.7M, Depth:24.173km) in Japan 09/11/2026 04:52 UTC, 230 thousand in MMI IV.
+- **USGS earthquake M5.6 - 43 km S of Puerto San José, Guatemala** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txb8)
+  - Quelle: USGS
+  - Zeit: `2026-11-10T14:54:17+00:00`
+  - Kurz: M5.6 - 43 km S of Puerto San José, Guatemala. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -195,6 +199,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 5.6 - 43 km S of Puerto San José, Guatemala** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txb8)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-10T15:21:34.310+00:00`, fetched `2026-11-10T15:23:00+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-11-10 14:54:17 UTC 2026-11-10 14:54:17 UTC at epicenter Location 13.538°N 90.880°W Depth 35.00 km (21.75 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Dependabot alerts will pause on inactive repositories** — Score 12, observation — [Quelle](https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-11-10T14:20:05+00:00`, fetched `2026-11-10T14:54:27+00:00`
@@ -302,15 +315,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-11-10 06:43:11 UTC 2026-11-10 06:43:11 UTC at epicenter Location 34.877°N 35.075°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.2 - 19 km WSW of Lata, Solomon Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8s)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-11-10T03:52:17.040+00:00`, fetched `2026-11-10T03:54:13+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-11-10 03:37:46 UTC 2026-11-10 03:37:46 UTC at epicenter Location 10.782°S 165.624°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Trust, expectations and monetary policy** — Score 9, observation — [Quelle](https://www.bis.org/speeches/20261110-trust-expectations-and-monetary-policy)
   - Quelle: BIS Central Bankers Speeches / `rss`
