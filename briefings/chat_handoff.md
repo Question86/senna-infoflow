@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-10T03:26:42+00:00_
+_Generated: 2026-11-10T03:38:26+00:00_
 
 ## Status
 - status: `normal`
-- findings: `19`
+- findings: `20`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-11-10T03:26:42+00:00_
 - url: https://e27.co/before-the-licence-what-singapores-regulated-institutions-ask-a-fintech-partner-first-20261106/
 - summary: On 7 October the Monetary Authority of Singapore issued its Guidelines on Artificial Intelligence Risk Management, phased in over 2027 and 2028. On 3 November it announced that the Future of Finance Institute has started work, with a pillar called SafeFin.ai…
 
-### 5. M 4.9 - north of Franz Josef Land
+### 5. ソフトバンク社長「自社システムをGPT-6 Astraで診断したら3.5万件の追加脆弱性を発見」と明かす
+- source: Hatena Bookmark Hotentry IT
+- score: `10`
+- published: `2026-11-09T22:53:05+00:00`
+- url: https://japan.cnet.com/article/35254620/
+- summary: ソフトバンクの宮川潤一社長は11月9日の決算説明会で、子会社IDCフロンティアへのランサムウェア攻撃を謝罪し、AIを使ったサイバー攻撃への対応に追われている現状を明かした。自社システムを新しいAIモデルで再診断すると、新たに3万5000件の脆弱性が見つかったという。
+
+### 6. M 4.9 - north of Franz Josef Land
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-11-10T02:16:29.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8i
 - summary: Time 2026-11-10 02:00:03 UTC 2026-11-10 02:00:03 UTC at epicenter Location 86.724°N 65.294°E Depth 10.00 km (6.21 mi)
 
-### 6. M 5.0 - south of the Fiji Islands
+### 7. M 5.0 - south of the Fiji Islands
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-11-10T00:04:59.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx7v
 - summary: Time 2026-11-09 23:45:21 UTC 2026-11-09 23:45:21 UTC at epicenter Location 24.482°S 177.280°W Depth 126.01 km (78.30 mi)
 
-### 7. Rediscovering client/server: The future of AI is distributed, not centralised
+### 8. Rediscovering client/server: The future of AI is distributed, not centralised
 - source: e27 Asia Startup and Tech Feed
 - score: `8`
 - published: `2026-11-10T03:15:08+00:00`
 - url: https://e27.co/rediscovering-client-server-the-future-of-ai-is-distributed-not-centralised-20261109/
 - summary: For the past year, I have been using AI to write Python programs that run on an Ubuntu server. Along the way, I have had to dust off a few brain cells and relearn Linux commands I had not touched in years. There is something to be said for neuroplasticity: ap…
-
-### 8. Claude Fable 5.2へのプロンプト
-- source: Hatena Bookmark Hotentry IT
-- score: `8`
-- published: `2026-11-09T22:21:33+00:00`
-- url: https://platform.claude.com/docs/ja/build-with-claude/prompt-engineering/prompting-claude-fable-5-2
-- summary: Claude Fable 5.2およびClaude Mythos 5.2に固有のプロンプトパターン：エフォート、早期停止、承認、コードの所有権、進捗の更新、サブエージェント、蓄積する慎重さ、以前のモデル向けに書かれた指示、最終レポート、拒否について説明します。 このガイドでは、Claude Fable 5.2に固有のプロンプトパターンについて説...
 
 END OF DOCUMENT

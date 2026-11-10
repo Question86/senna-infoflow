@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-10T03:26:42+00:00",
+  "generated_at": "2026-11-10T03:38:26+00:00",
   "topics": {
     "ai": [
       {
@@ -47,6 +47,13 @@
         "url": "https://e27.co/the-megaspeed-question-how-a-singapore-firm-ended-up-in-nvidias-biggest-crisis-20261109/"
       },
       {
+        "title": "ソフトバンク社長「自社システムをGPT-6 Astraで診断したら3.5万件の追加脆弱性を発見」と明かす",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-09T22:53:05+00:00",
+        "relevance_score": 10,
+        "url": "https://japan.cnet.com/article/35254620/"
+      },
+      {
         "title": "Rediscovering client/server: The future of AI is distributed, not centralised",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-11-10T03:15:08+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-11-09T21:05:20+00:00",
         "relevance_score": 5,
         "url": "https://www.tsukuba-sp.org/news/wghx7ljlx7/"
-      },
-      {
-        "title": "sherlock-project/sherlock",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 5,
-        "url": "https://github.com/sherlock-project/sherlock"
       }
     ],
     "economy": [
