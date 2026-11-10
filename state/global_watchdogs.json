@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T15:23:33+00:00",
+  "generated_at": "2026-11-10T15:29:18+00:00",
   "sections": {
     "global_security": [
       {
@@ -79,6 +79,16 @@
         "summary": "Green flood alert in Argentina",
         "source": "GDACS",
         "url": "http://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104277",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.6M, Depth:35km) in Guatemala 10/11/2026 14:54 UTC, 570 thousand in MMI IV.",
+        "summary": "Green earthquake (Magnitude 5.6M, Depth:35km) in Guatemala 10/11/2026 14:54 UTC, 570 thousand in MMI IV.",
+        "source": "GDACS",
+        "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1576618",
         "published_at": "",
         "metrics": {}
       },
