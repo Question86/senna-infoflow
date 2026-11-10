@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-10T07:33:14+00:00",
+  "generated_at": "2026-11-10T07:38:42+00:00",
   "topics": {
     "ai": [
       {
@@ -172,6 +172,13 @@
         "published_at": "2026-11-10T05:53:57.040+00:00",
         "relevance_score": 15,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx96"
+      },
+      {
+        "title": "M 4.8 - northern Mid-Atlantic Ridge",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-11-10T07:34:00.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx9n"
       },
       {
         "title": "M 5.2 - 19 km WSW of Lata, Solomon Islands",
