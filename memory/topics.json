@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-10T02:26:56+00:00",
+  "generated_at": "2026-11-10T02:38:23+00:00",
   "topics": {
     "general": [
       {
@@ -75,6 +75,13 @@
         "published_at": null,
         "relevance_score": 8,
         "url": "https://github.com/garrytan/gbrain"
+      },
+      {
+        "title": "「つくばリポジトリ」含む全国800以上の機関リポジトリ、復旧の目途立たず | 筑波学生新聞",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-09T21:05:20+00:00",
+        "relevance_score": 5,
+        "url": "https://www.tsukuba-sp.org/news/wghx7ljlx7/"
       },
       {
         "title": "sherlock-project/sherlock",

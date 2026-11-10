@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-10T02:26:56+00:00_
+_Generiert: 2026-11-10T02:38:23+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „M 5.4 - Pulau Pulau Tanimbar, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+16 neue relevante Treffer. Stärkstes Signal: „M 5.4 - Pulau Pulau Tanimbar, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 ## Priorität Hoch
 
@@ -104,6 +104,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Garry's Opinionated OpenClaw/Hermes Agent Brain Give the agent you already use a memory you control. GBrain stores explicit facts with their sources, supports corrections and withdrawal, and makes the same memory available across your agents. Start with keyless memory and keyword retrieval; add semantic search, synthesis, and background enrichment when you need them. GBrain is MIT-licensed and free to self-host; gbr…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **「つくばリポジトリ」含む全国800以上の機関リポジトリ、復旧の目途立たず | 筑波学生新聞** — Score 5, observation — [Quelle](https://www.tsukuba-sp.org/news/wghx7ljlx7/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-09T21:05:20+00:00`, fetched `2026-11-10T02:37:51+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 筑波大学の研究論文や紀要、博士論文などを無償公開している学術機関リポジトリ「つくばリポジトリ」が利用できない状態が、今年10月28日から続いている。同サービスが稼働基盤として利用している国立情報学研究所（NII）とオープンアクセスリポジトリ推進協会の共用リポジトリ「JAIRO Cloud」において、登録データが改...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **sherlock-project/sherlock** — Score 5, observation — [Quelle](https://github.com/sherlock-project/sherlock)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
