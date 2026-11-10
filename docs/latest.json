@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T13:57:45+00:00",
-  "run_id": "2026-11-10T13:57:45+00:00",
+  "generated_at": "2026-11-10T14:05:24+00:00",
+  "run_id": "2026-11-10T14:05:24+00:00",
   "date": "2026-11-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 59
+      "configured_public_sources_only": 61
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 59,
-    "displayed_findings": 59,
+    "new_relevant_findings": 2,
+    "today_file_total": 61,
+    "displayed_findings": 61,
     "high": 0,
     "medium": 26,
-    "observe": 33,
+    "observe": 35,
     "source_errors": 0
   },
   "sections": {
@@ -1089,6 +1089,46 @@
           "LOW"
         ],
         "id": "818b4fc264fde5581a9d"
+      },
+      {
+        "title": "Opening remarks - Monetary Policy Report (IPOM) press conference, third quarter of 2026",
+        "url": "https://www.bis.org/speeches/20261110-opening-remarks-monetary-policy-report-ipom-press-conference-third-quarter-2026",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-11-10T00:00:00+00:00",
+        "fetched_at": "2026-11-10T14:04:54+00:00",
+        "summary": "Opening remarks by Mr Santiago Bausili, President of the Central Bank of Argentina, at the Monetary Policy Report (IPOM) press conference, together with Mr Vladimir Werning, Deputy Governor of the Central Bank of Argentina, Buenos Aires, 29 October 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region south_america: Argentina (+2.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6435d527fcf9d223b4f3"
+      },
+      {
+        "title": "Piero Cipollone: Cash and the digital euro: two sides of the same coin",
+        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html",
+        "source": "ECB Press Releases Speeches Interviews",
+        "source_type": "rss",
+        "published_at": "2026-11-10T14:00:00+00:00",
+        "fetched_at": "2026-11-10T14:04:54+00:00",
+        "summary": "Piero Cipollone: Cash and the digital euro: two sides of the same coin",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b054966db8e3c407109f"
       },
       {
         "title": "The hidden costs of running an AI video production business",
@@ -2587,6 +2627,46 @@
       "id": "818b4fc264fde5581a9d"
     },
     {
+      "title": "Opening remarks - Monetary Policy Report (IPOM) press conference, third quarter of 2026",
+      "url": "https://www.bis.org/speeches/20261110-opening-remarks-monetary-policy-report-ipom-press-conference-third-quarter-2026",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-11-10T00:00:00+00:00",
+      "fetched_at": "2026-11-10T14:04:54+00:00",
+      "summary": "Opening remarks by Mr Santiago Bausili, President of the Central Bank of Argentina, at the Monetary Policy Report (IPOM) press conference, together with Mr Vladimir Werning, Deputy Governor of the Central Bank of Argentina, Buenos Aires, 29 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region south_america: Argentina (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6435d527fcf9d223b4f3"
+    },
+    {
+      "title": "Piero Cipollone: Cash and the digital euro: two sides of the same coin",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-11-10T14:00:00+00:00",
+      "fetched_at": "2026-11-10T14:04:54+00:00",
+      "summary": "Piero Cipollone: Cash and the digital euro: two sides of the same coin",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b054966db8e3c407109f"
+    },
+    {
       "title": "The hidden costs of running an AI video production business",
       "url": "https://e27.co/the-hidden-costs-of-running-an-ai-video-production-business-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -3021,7 +3101,48 @@
       "id": "01321a249df9c7720143"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Opening remarks - Monetary Policy Report (IPOM) press conference, third quarter of 2026",
+      "url": "https://www.bis.org/speeches/20261110-opening-remarks-monetary-policy-report-ipom-press-conference-third-quarter-2026",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-11-10T00:00:00+00:00",
+      "fetched_at": "2026-11-10T14:04:54+00:00",
+      "summary": "Opening remarks by Mr Santiago Bausili, President of the Central Bank of Argentina, at the Monetary Policy Report (IPOM) press conference, together with Mr Vladimir Werning, Deputy Governor of the Central Bank of Argentina, Buenos Aires, 29 October 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region south_america: Argentina (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6435d527fcf9d223b4f3"
+    },
+    {
+      "title": "Piero Cipollone: Cash and the digital euro: two sides of the same coin",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-11-10T14:00:00+00:00",
+      "fetched_at": "2026-11-10T14:04:54+00:00",
+      "summary": "Piero Cipollone: Cash and the digital euro: two sides of the same coin",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b054966db8e3c407109f"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
