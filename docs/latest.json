@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T23:42:59+00:00",
-  "run_id": "2026-11-11T23:42:59+00:00",
+  "generated_at": "2026-11-11T23:48:59+00:00",
+  "run_id": "2026-11-11T23:48:59+00:00",
   "date": "2026-11-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 87,
     "displayed_findings": 87,
     "high": 0,
@@ -4421,30 +4421,7 @@
       "id": "87dc75ab24ae5a985594"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Modern Web Guidance 1.0: コーディング エージェントに欠けているウェブ プラットフォームの専門知識 | Blog | Chrome for Developers",
-      "url": "https://developer.chrome.com/blog/modern-web-guidance-v1?hl=ja",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-11T05:51:20+00:00",
-      "fetched_at": "2026-11-11T23:42:29+00:00",
-      "summary": "npx modern-web-guidance@latest update インストール手順の詳細やその他の情報については、Modern Web Guidance のドキュメントをご覧ください。また、こちらの動画で概要を簡単に確認することもできます。 デベロッパーと企業が Modern Web Guidance を使用すべき理由 コーディング エージェントが、開発者がかつてな...",
-      "matched_keywords": [
-        "developer",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); developer (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "034d8c59b7feec16e01f"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
