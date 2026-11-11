@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-11T19:29:13+00:00_
+_Generiert: 2026-11-11T19:35:07+00:00_
 
 ## Kurzlage
 
-75 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+76 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -195,6 +195,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-11-11 11:36:51 UTC 2026-11-11 11:36:51 UTC at epicenter Location 22.543°S 69.169°W Depth 91.31 km (56.74 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Z世代がAIブームから一斉に「ログアウト」し始めた深刻な理由 米国 | Forbes JAPAN 公式サイト（フォーブス ジャパン）** — Score 11, observation — [Quelle](https://forbesjapan.com/articles/detail/107841)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-11T11:13:29+00:00`, fetched `2026-11-11T19:34:39+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 企業と若者の間には、意識の大きな断絶がある。大半のテック企業、ブランド、そして取締役会がAI活用を極限まで推し進める一方で、若者たちはむしろログアウトしようとしている。ブランドや雇用主は、若者たちをAIブームに巻き込もうと苦心しているのだ。ギャラップの調査によると、Z世代は昨年と比べて明らかにAIへの期...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.7 - 130 km W of Tofino, Canada** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txfz)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-11T02:34:44.040+00:00`, fetched `2026-11-11T02:39:54+00:00`
@@ -267,15 +276,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-11-11 17:38:23 UTC 2026-11-11 17:38:23 UTC at epicenter Location 6.302°S 154.737°E Depth 71.55 km (44.46 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **【速報】政府、AI開発事業者に罰則検討** — Score 8, observation — [Quelle](https://www.47news.jp/15215659.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-11T09:55:01+00:00`, fetched `2026-11-11T12:31:37+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 政府が、高性能人工知能（AI）が引き起こすリスクに対処するため、サービス開発事業者への罰則を新設する方向で検討していることが11日、分かった。
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ChatGPT Plus for veterans and servicemembers** — Score 8, observation — [Quelle](https://openai.com/index/chatgpt-plus-for-veterans)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-11-11T08:00:00+00:00`, fetched `2026-11-11T05:44:08+00:00`
