@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-11T06:36:51Z",
+  "generated_at": "2026-11-11T06:46:34Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 36,
+    "dynamics": 37,
     "bands": {
       "extreme": 1,
       "krass": 5,
       "strong": 6,
-      "watch": 7,
+      "watch": 8,
       "quiet": 17
     },
     "bands_after_gate_recheck": {
       "krass": 1,
       "strong": 11,
-      "watch": 7,
+      "watch": 8,
       "quiet": 17
     }
   },
@@ -98,7 +98,7 @@
       "url": "https://jvn.jp/jp/JVN11786640/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-11T12:00:00+09:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -208,7 +208,7 @@
       "url": "https://e27.co/1-89-million-bpo-workers-53500-training-seats-the-philippiness-ai-maths-doesnt-add-up-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-11T04:08:03+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -234,7 +234,7 @@
       "url": "https://e27.co/what-happens-to-the-subscription-economy-when-ai-agents-review-every-payment-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-11T01:00:45+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -261,7 +261,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 145.19,
+      "age_days": 145.2,
       "topics": [
         "ai"
       ],
@@ -290,7 +290,7 @@
       "url": "https://jvn.jp/vu/JVNVU92618679/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-11T10:15:00+09:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -392,7 +392,7 @@
       "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-11T00:10:31+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [],
       "dynamics_score": 19.0,
       "raw_band": "watch",
@@ -416,7 +416,7 @@
       "url": "https://togetter.com/li/2769100",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-11T02:16:09+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -437,6 +437,31 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "キャリア女性のロールモデルと称してゴリラをお出ししないでほしい｜おたま 戦略コンサルからのスカウトに「今後出産も控えているためワークライフバランスを懸念している」と聞く人が聞けばほぼお断りみたいなことを言ったら、 「お子さんを2人抱えながら戦略コンサルでフルタイム稼働し… 1 user note（ノート） おたま..."
+    },
+    {
+      "title": "M 5.1 - Balleny Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txhi",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-11T06:38:53.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-11-11 06:21:45 UTC 2026-11-11 06:21:45 UTC at epicenter Location 62.428°S 155.021°E Depth 10.00 km (6.21 mi)"
     },
     {
       "title": "M 4.6 - 130 km ENE of Hasaki, Japan",
@@ -471,7 +496,7 @@
       "url": "https://e27.co/ai-is-a-tool-stop-treating-it-like-a-strategy-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-11T03:00:08+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "macro"
@@ -548,7 +573,7 @@
       "url": "https://e27.co/softbank-and-grab-put-us1-85b-down-on-a-5gw-ai-bet-in-malaysia-20261110/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-11T01:00:58+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -624,7 +649,7 @@
       "url": "https://e27.co/it-doesnt-matter-how-we-use-ai-we-are-all-in-trouble-20261109/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-11T02:00:11+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -650,7 +675,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/2155080.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-10T17:05:41+00:00",
-      "age_days": 0.56,
+      "age_days": 0.57,
       "topics": [
         "general"
       ],
@@ -777,7 +802,7 @@
       "url": "https://togetter.com/li/2769126",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-11T03:28:52+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -905,7 +930,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/11/2000002913/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-10T20:34:16+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "ai"
       ],
@@ -930,7 +955,7 @@
       "url": "https://e27.co/stablecoins-must-act-like-bank-money-to-win-apac-businesses-survey-suggests-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-11T03:09:46+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
