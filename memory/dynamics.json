@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-11T01:32:35Z",
+  "generated_at": "2026-11-11T01:47:00Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 11,
@@ -23,7 +23,7 @@
       "url": "https://e27.co/what-happens-to-the-subscription-economy-when-ai-agents-review-every-payment-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-11T01:00:45+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
@@ -50,7 +50,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 144.98,
+      "age_days": 144.99,
       "topics": [
         "ai"
       ],
@@ -79,7 +79,7 @@
       "url": "https://jvn.jp/vu/JVNVU92618679/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-11T10:15:00+09:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -105,7 +105,7 @@
       "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-11T00:10:31+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [],
       "dynamics_score": 19.0,
       "raw_band": "watch",
@@ -129,7 +129,7 @@
       "url": "https://e27.co/softbank-and-grab-put-us1-85b-down-on-a-5gw-ai-bet-in-malaysia-20261110/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-11T01:00:58+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
@@ -155,7 +155,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/2155080.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-10T17:05:41+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "general"
       ],
@@ -204,7 +204,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 143.95,
+      "age_days": 143.96,
       "topics": [
         "general"
       ],
@@ -220,7 +220,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 143.9d old signal"
+        "aging penalty -16.0 for 144.0d old signal"
       ],
       "summary": ""
     },
@@ -229,7 +229,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 143.95,
+      "age_days": 143.96,
       "topics": [
         "general"
       ],
@@ -245,7 +245,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 143.9d old signal"
+        "aging penalty -16.0 for 144.0d old signal"
       ],
       "summary": ""
     },
@@ -254,7 +254,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 143.95,
+      "age_days": 143.96,
       "topics": [
         "ai"
       ],
@@ -271,7 +271,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 143.9d old signal",
+        "aging penalty -16.0 for 144.0d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -281,7 +281,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/11/2000002913/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-10T20:34:16+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
