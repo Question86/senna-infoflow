@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-11T04:29:11+00:00_
+_Generiert: 2026-11-11T04:35:26+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+22 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -21,6 +21,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CodeQL/Dependabot (+7.0); Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: OpenSSL ProjectからOpenSSL Security Advisory [10th November 2026]が公開されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Singapore is paying startups to secure the AI agents it is racing to deploy** — Score 23, opportunity — [Quelle](https://e27.co/singapore-is-paying-startups-to-secure-the-ai-agents-it-is-racing-to-deploy-20261111/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-11T04:33:53+00:00`, fetched `2026-11-11T04:34:56+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, Security, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); Security (+6.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: Singapore’s cyber agency has a new worry list, and it reads like the agenda of every AI conference this year: agents talking to other agents, quantum computers that don’t yet exist, and small firms with nobody watching the network. On Tuesday, at CyberSG Innovation Day 2026, the Cyber Security Agency of Singapore (CSA) named 13 […] The post Singapore is paying startups to secure the AI agents it is racing to deploy…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **What happens to the subscription economy when AI agents review every payment?** — Score 17, opportunity — [Quelle](https://e27.co/what-happens-to-the-subscription-economy-when-ai-agents-review-every-payment-20261101/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-11T01:00:45+00:00`, fetched `2026-11-11T01:12:38+00:00`
@@ -48,6 +57,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Markets/Capital Structure (+7.5); recent (+1.0)
   - Kurz: There is a version of a Swiss army knife that does everything. It has a blade, a saw, scissors, a bottle opener, a USB drive, a laser pointer. When you reach for it, you are always holding something that can do something. But when you need to tighten a specific screw, the right tool is […] The post AI is a tool. Stop treating it like a strategy appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Sleipnir Mobile for iPhone / iPadにおける不適切な証明書検証の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU93068550/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-11-11T13:30:00+09:00`, fetched `2026-11-11T04:34:56+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: フェンリル株式会社が提供するSleipnir Mobile for iPhone / iPadおよびSleipnir Mobile for iPhone / iPad Black Editionには、不適切な証明書検証の脆弱性が存在します。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Movable Typeにおけるコードインジェクションの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN11786640/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-11-11T12:00:00+09:00`, fetched `2026-11-11T03:01:55+00:00`
@@ -96,6 +114,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); JPCERT (+2.0); recent (+1.0)
   - Kurz: Security Alert: Microsoft Releases November 2026 Security Updates
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Open code, unowned risk: The governance gap in business-critical email** — Score 10, risk — [Quelle](https://e27.co/governance-gap-in-business-critical-email-20261017-2/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-11T04:30:44+00:00`, fetched `2026-11-11T04:34:56+00:00`
+  - Treffer: APAC Trend Radar, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: Few organisations deliberately decide to run unsupported infrastructure. More often, a migration gets deferred, an upgrade slips behind other priorities, and a temporary decision becomes a permanent one. Over time, operational risk accumulates quietly until a vulnerability, outage or audit brings it into view. At that point, the issue is often described as a security […] The post Open code, unowned risk: The governa…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **1.89 million BPO workers, 53,500 training seats: The Philippines’s AI maths doesn’t add up** — Score 10, observation — [Quelle](https://e27.co/1-89-million-bpo-workers-53500-training-seats-the-philippiness-ai-maths-doesnt-add-up-20261111/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-11T04:08:03+00:00`, fetched `2026-11-11T04:14:35+00:00`
@@ -114,15 +141,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: As anticipated yesterday, Bitcoin fell below US$73,000 and touched a nearly three-month low after the October US CPI report came in hotter than forecast. Headline CPI rose 0.4 per cent month over month against a 0.3 per cent expectation, while core CPI rose 0.3 per cent against a 0.2 per cent expectation. Bitcoin was down […] The post CPI at 0.4% broke Bitcoin’s US$73,000 floor. What happens if the Fed goes bigger?…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **SoftBank and Grab put US$1.85B down on a 5GW AI bet in Malaysia** — Score 10, observation — [Quelle](https://e27.co/softbank-and-grab-put-us1-85b-down-on-a-5gw-ai-bet-in-malaysia-20261110/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-11T01:00:58+00:00`, fetched `2026-11-11T01:12:38+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)
-  - Kurz: Grab started life in Malaysia as a taxi-booking app. Fourteen years on, it is heading back to its birthplace with a far heavier load: AI data centres. SoftBank Group and Grab Holdings have signed joint development agreements with Petroleum Sarawak (PETROS), the Sarawak state oil and gas company, to build AI infrastructure across Sarawak and […] The post SoftBank and Grab put US$1.85B down on a 5GW AI bet in Malaysia…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **GitHub App support for Enterprise Copilot seat management** — Score 6, observation — [Quelle](https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-11-11T00:10:31+00:00`, fetched `2026-11-11T00:32:51+00:00`
@@ -132,6 +150,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: GitHub (+2.5); Copilot (+2.5); recent (+1.0)
   - Kurz: Enterprise GitHub Apps can now call the enterprise-level Copilot seat management APIs to control which users and enterprise teams are assigned Copilot seats. The Copilot seat management APIs are accessible… The post GitHub App support for Enterprise Copilot seat management appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **「AIで漏洩した？と思うくらいに同感同意」キャリア女性のロールモデルとして、メチャクチャ有能な働きマンを出されても困るという話に賛同が集まる** — Score 5, observation — [Quelle](https://togetter.com/li/2769100)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-11T02:16:09+00:00`, fetched `2026-11-11T04:34:56+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: キャリア女性のロールモデルと称してゴリラをお出ししないでほしい｜おたま 戦略コンサルからのスカウトに「今後出産も控えているためワークライフバランスを懸念している」と聞く人が聞けばほぼお断りみたいなことを言ったら、 「お子さんを2人抱えながら戦略コンサルでフルタイム稼働し… 1 user note（ノート） おたま...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **「盗撮」→「法律で規制」が話題のAI眼鏡 海外では大ヒットなのに、日本での普及は限定的 ビジネスでの活用事例を探る** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2611/11/2000002913/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-10T20:34:16+00:00`, fetched `2026-11-11T00:32:51+00:00`
@@ -140,15 +167,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: AI眼鏡で何ができるのか？ まず、AIグラスがどのように進化してきたのかを見てみよう。 AIグラスの先祖にあたるスマートグラスは、Googleが2013年に発売した「Google Glass」が草分けとされる。通常の眼鏡の外側にディスプレイが付いた構造で、一目で普通の眼鏡とは違うことが分かる。メモリは1GBでストレージは16GB。主...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AMD次世代CPUコア「Zen 6」公開！Zen 5の最適化版で効くのはL3キャッシュ** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/news/2155080.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-10T17:05:41+00:00`, fetched `2026-11-11T00:47:34+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: AMD次世代CPUコア「Zen 6」公開！Zen 5の最適化版で効くのはL3キャッシュ
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
