@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-11T05:17:33Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Sleipnir Mobile for iPhone / iPadにおける不適切な証明書検証の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
+  "generated_at": "2026-11-11T05:32:04Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Intel製品に対するアップデート（2026年11月）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,35 @@
   ],
   "top_dynamics": [
     {
+      "title": "Intel製品に対するアップデート（2026年11月）",
+      "url": "https://jvn.jp/vu/JVNVU93337738/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-11-11T14:15:00+09:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security"
+      ],
+      "summary": "Intelから各製品向けのアドバイザリが公表されました。"
+    },
+    {
       "title": "Sleipnir Mobile for iPhone / iPadにおける不適切な証明書検証の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU93068550/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-11T13:30:00+09:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -39,7 +63,7 @@
       "url": "https://jvn.jp/jp/JVN11786640/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-11T12:00:00+09:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -63,7 +87,7 @@
       "url": "https://e27.co/singapore-is-paying-startups-to-secure-the-ai-agents-it-is-racing-to-deploy-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-11T04:33:53+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "security",
@@ -93,7 +117,7 @@
       "url": "https://e27.co/governance-gap-in-business-critical-email-20261017-2/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-11T04:30:44+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "security",
@@ -123,7 +147,7 @@
       "url": "https://e27.co/1-89-million-bpo-workers-53500-training-seats-the-philippiness-ai-maths-doesnt-add-up-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-11T04:08:03+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -149,7 +173,7 @@
       "url": "https://e27.co/what-happens-to-the-subscription-economy-when-ai-agents-review-every-payment-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-11T01:00:45+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -176,7 +200,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 145.14,
+      "age_days": 145.15,
       "topics": [
         "ai"
       ],
@@ -205,7 +229,7 @@
       "url": "https://jvn.jp/vu/JVNVU92618679/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-11T10:15:00+09:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -231,7 +255,7 @@
       "url": "https://www.jpcert.or.jp/english/at/2026/at260035.html",
       "source": "JPCERT/CC English Alerts",
       "published_at": "2026-11-11T11:21+09:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -255,7 +279,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txfz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-11T02:34:44.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -280,7 +304,7 @@
       "url": "https://e27.co/3-ways-the-edge-grant-changes-how-a-sensible-sme-buys-software-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-11T04:00:59+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -301,30 +325,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "For years, the first question in almost every software conversation I had with a Singapore SME owner was the same: “Is it PSG pre-approved?” It was a sensible question. The Productivity Solutions Grant paid a large share of the cost of listed packages, so the list did a lot of the buying. If the vendor […] The post 3…"
-    },
-    {
-      "title": "GitHub App support for Enterprise Copilot seat management",
-      "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
-      "source": "GitHub Changelog Atom",
-      "published_at": "2026-11-11T00:10:31+00:00",
-      "age_days": 0.21,
-      "topics": [],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit"
-      ],
-      "summary": "Enterprise GitHub Apps can now call the enterprise-level Copilot seat management APIs to control which users and enterprise teams are assigned Copilot seats. The Copilot seat management APIs are accessible… The post GitHub App support for Enterprise Copilot seat management appeared first on The GitHub Blog ."
     }
   ],
   "read_order": [
@@ -336,8 +336,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 9,
-      "watch": 3
+      "strong": 10,
+      "watch": 2
     }
   }
 }
