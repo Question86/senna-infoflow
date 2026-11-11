@@ -290,6 +290,29 @@
     "id": "3659a6275f741b44740a"
   },
   {
+    "title": "[UPDATE] [mittel] Python: Schwachstelle ermöglicht Manipulation von Dateien",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4439",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-11T11:32:55+00:00",
+    "fetched_at": "2026-11-11T11:36:15+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Python ausnutzen, um Dateien zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8688bf9d9c20ec21c1cf"
+  },
+  {
     "title": "[UPDATE] [hoch] MIT Kerberos: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4435",
     "source": "BSI CERT-Bund Security Advisories",
@@ -913,6 +936,30 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "bc1c03ba3681e4a960e8"
+  },
+  {
+    "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (nodejs-nodemon): Mehrere Schwachstellen ermöglichen Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4438",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-11T11:32:55+00:00",
+    "fetched_at": "2026-11-11T11:36:15+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0); watchgraph demote demo (x0.45)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "304f3880e9017ab62eee"
   },
   {
     "title": "Angriffe auf Cisco BroadWorks, Barracuda ESG und weitere Produkte beobachtet",

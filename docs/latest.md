@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-11T11:29:57+00:00_
+_Generiert: 2026-11-11T11:36:48+00:00_
 
 ## Kurzlage
 
-48 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+50 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -93,14 +93,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: フェンリル株式会社が提供するSleipnir Mobile for iPhone / iPadおよびSleipnir Mobile for iPhone / iPad Black Editionには、不適切な証明書検証の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [hoch] MIT Kerberos: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4435)
+- **[UPDATE] [mittel] Python: Schwachstelle ermöglicht Manipulation von Dateien** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4439)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-11-11T11:22:00+00:00`, fetched `2026-11-11T11:29:28+00:00`
+  - Zeit: published `2026-11-11T11:32:55+00:00`, fetched `2026-11-11T11:36:15+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in MIT Kerberos ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Informationen auszulesen, Daten zu manipulieren, beliebigen Programmcode auszuführen oder einen Denial-of-Service-Zustand herbeizuführen.
+  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Python ausnutzen, um Dateien zu manipulieren.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
@@ -231,14 +231,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: The personal finance app for everyone (by everyone) https://sure.am Deutsch | Español | Français | 日本語 | 한국어 | Português | Русский | 中文 Sure: The personal finance app for everyone Get involved: Discord • Website • Issues Important This repository is a community fork of the now-abandoned Maybe Finance project. Learn more in their final release doc. Backstory The Maybe Finance (archived/abandoned repo) team spent most…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Angriffe auf Cisco BroadWorks, Barracuda ESG und weitere Produkte beobachtet** — Score 7, observation — [Quelle](https://www.heise.de/news/Angriffe-auf-Cisco-BroadWorks-Barracuda-ESG-und-weitere-Produkte-beobachtet-11520190.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-11-11T09:34:00.000+00:00`, fetched `2026-11-11T09:44:47+00:00`
-  - Treffer: Security
+- **[UPDATE] [mittel] Red Hat Enterprise Linux (nodejs-nodemon): Mehrere Schwachstellen ermöglichen Denial of Service** — Score 7, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4438)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-11-11T11:32:55+00:00`, fetched `2026-11-11T11:36:15+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Derzeit laufen Angriffe auf Cisco BroadWorks, Barracuda ESG, andere Barracuda-Netzwerkgeräte und weitere Produkte.
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0); watchgraph demote demo (x0.45)
+  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
