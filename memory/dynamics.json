@@ -1,28 +1,56 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-11T01:03:14Z",
+  "generated_at": "2026-11-11T01:16:58Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 8,
+    "dynamics": 10,
     "bands": {
+      "krass": 1,
       "strong": 1,
       "watch": 1,
-      "quiet": 6
+      "quiet": 7
     },
     "bands_after_gate_recheck": {
-      "strong": 1,
+      "strong": 2,
       "watch": 1,
-      "quiet": 6
+      "quiet": 7
     }
   },
   "top_dynamics": [
+    {
+      "title": "What happens to the subscription economy when AI agents review every payment?",
+      "url": "https://e27.co/what-happens-to-the-subscription-economy-when-ai-agents-review-every-payment-20261101/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-11T01:00:45+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Subscription businesses have spent the past two decades making revenue more predictable. Instead of selling a product once and persuading the customer to buy again, they persuade the customer to keep paying every month or every year. That creates an important advantage: once the subscription has started, continuing to…"
+    },
     {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 144.96,
+      "age_days": 144.97,
       "topics": [
         "ai"
       ],
@@ -51,7 +79,7 @@
       "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-11T00:10:31+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [],
       "dynamics_score": 19.0,
       "raw_band": "watch",
@@ -71,11 +99,37 @@
       "summary": "Enterprise GitHub Apps can now call the enterprise-level Copilot seat management APIs to control which users and enterprise teams are assigned Copilot seats. The Copilot seat management APIs are accessible… The post GitHub App support for Enterprise Copilot seat management appeared first on The GitHub Blog ."
     },
     {
+      "title": "SoftBank and Grab put US$1.85B down on a 5GW AI bet in Malaysia",
+      "url": "https://e27.co/softbank-and-grab-put-us1-85b-down-on-a-5gw-ai-bet-in-malaysia-20261110/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-11T01:00:58+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 7.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Grab started life in Malaysia as a taxi-booking app. Fourteen years on, it is heading back to its birthplace with a far heavier load: AI data centres. SoftBank Group and Grab Holdings have signed joint development agreements with Petroleum Sarawak (PETROS), the Sarawak state oil and gas company, to build AI infrastruc…"
+    },
+    {
       "title": "AMD次世代CPUコア「Zen 6」公開！Zen 5の最適化版で効くのはL3キャッシュ",
       "url": "https://pc.watch.impress.co.jp/docs/news/2155080.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-10T17:05:41+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "general"
       ],
@@ -124,7 +178,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 143.93,
+      "age_days": 143.94,
       "topics": [
         "general"
       ],
@@ -149,7 +203,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 143.93,
+      "age_days": 143.94,
       "topics": [
         "general"
       ],
@@ -174,7 +228,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 143.93,
+      "age_days": 143.94,
       "topics": [
         "ai"
       ],
@@ -201,7 +255,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/11/2000002913/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-10T20:34:16+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -222,5 +276,5 @@
       "summary": "AI眼鏡で何ができるのか？ まず、AIグラスがどのように進化してきたのかを見てみよう。 AIグラスの先祖にあたるスマートグラスは、Googleが2013年に発売した「Google Glass」が草分けとされる。通常の眼鏡の外側にディスプレイが付いた構造で、一目で普通の眼鏡とは違うことが分かる。メモリは1GBでストレージは16GB。主..."
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “What happens to the subscription economy when AI agents review every payment?” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
 }
