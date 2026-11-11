@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T08:45:25+00:00",
-  "run_id": "2026-11-11T08:45:25+00:00",
+  "generated_at": "2026-11-11T08:50:47+00:00",
+  "run_id": "2026-11-11T08:50:47+00:00",
   "date": "2026-11-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 38,
     "displayed_findings": 38,
     "high": 0,
@@ -1931,29 +1931,7 @@
       "id": "87dc75ab24ae5a985594"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Microsoft-Patchday: Attacken auf Outlook beobachtet",
-      "url": "https://www.heise.de/news/Microsoft-Patchday-Attacken-auf-Outlook-beobachtet-11520196.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-11-11T08:33:00.000+00:00",
-      "fetched_at": "2026-11-11T08:44:56+00:00",
-      "summary": "Aus Microsofts Security Update Guide geht hervor, dass die Entwickler knapp 1100 Sicherheitslücken in Office, Windows & Co. geschlossen haben.",
-      "matched_keywords": [
-        "Content-Chance",
-        "Security"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "Security (+6.0); Content-Chance (+5.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "42430730ee8db58915ae"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
