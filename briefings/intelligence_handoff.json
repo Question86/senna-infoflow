@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-11T00:51:35Z",
+  "generated_at": "2026-11-11T01:03:14Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 144.95,
+      "age_days": 144.96,
       "topics": [
         "ai"
       ],
@@ -44,7 +44,7 @@
       "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-11T00:10:31+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [],
       "dynamics_score": 19.0,
       "raw_band": "watch",
@@ -68,7 +68,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/2155080.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-10T17:05:41+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -117,7 +117,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 143.92,
+      "age_days": 143.93,
       "topics": [
         "general"
       ],
@@ -142,7 +142,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 143.92,
+      "age_days": 143.93,
       "topics": [
         "general"
       ],
@@ -167,7 +167,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 143.92,
+      "age_days": 143.93,
       "topics": [
         "ai"
       ],
@@ -194,7 +194,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/11/2000002913/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-10T20:34:16+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
