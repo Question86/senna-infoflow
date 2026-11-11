@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-11T14:23:59+00:00",
+  "generated_at": "2026-11-11T14:28:53+00:00",
   "topics": {
     "security": [
       {
@@ -17,6 +17,20 @@
         "published_at": "2026-11-11T04:33:53+00:00",
         "relevance_score": 23,
         "url": "https://e27.co/singapore-is-paying-startups-to-secure-the-ai-agents-it-is-racing-to-deploy-20261111/"
+      },
+      {
+        "title": "[NEU] [mittel] Ivanti Endpoint Manager Mobile: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-11T14:24:01+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4513"
+      },
+      {
+        "title": "[NEU] [hoch] Ivanti Endpoint Manager: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-11T14:24:00+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4512"
       },
       {
         "title": "[NEU] [hoch] Red Hat Enterprise Linux (python-jwcrypto, sos, hickory-resolver, libimobiledevice, gcc, python-oauthlib): Mehrere Schwachstellen",
@@ -47,32 +61,18 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4442"
       },
       {
-        "title": "[NEU] [mittel] IBM i: Schwachstelle ermöglicht nicht spezifizierten Angriff",
+        "title": "[NEU] [hoch] Mozilla Firefox und Thunderbird: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-11T14:22:44+00:00",
+        "published_at": "2026-11-11T14:24:01+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4474"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4515"
       },
       {
-        "title": "[NEU] [mittel] GitLab: Schwachstelle ermöglicht Codeausführung",
+        "title": "[NEU] [hoch] Intel PROSet Wireless WiFi Software: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-11T14:22:44+00:00",
+        "published_at": "2026-11-11T14:24:01+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4476"
-      },
-      {
-        "title": "[NEU] [mittel] Adobe Photoshop (2026 und 2027): Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-11T14:22:44+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4475"
-      },
-      {
-        "title": "[NEU] [hoch] AMD Prozessor und AMD Radeon: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-11T14:22:43+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4473"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4514"
       }
     ],
     "ai": [
@@ -186,11 +186,53 @@
     ],
     "geopolitics": [
       {
+        "title": "[NEU] [mittel] Ivanti Endpoint Manager Mobile: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-11T14:24:01+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4513"
+      },
+      {
+        "title": "[NEU] [hoch] Ivanti Endpoint Manager: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-11T14:24:00+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4512"
+      },
+      {
         "title": "[NEU] [hoch] Red Hat Enterprise Linux (python-jwcrypto, sos, hickory-resolver, libimobiledevice, gcc, python-oauthlib): Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-11T14:22:43+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4472"
+      },
+      {
+        "title": "[NEU] [hoch] Mozilla Firefox und Thunderbird: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-11T14:24:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4515"
+      },
+      {
+        "title": "[NEU] [hoch] Intel PROSet Wireless WiFi Software: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-11T14:24:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4514"
+      },
+      {
+        "title": "[NEU] [hoch] Xwayland und X.Org X Server: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-11T14:24:00+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4511"
+      },
+      {
+        "title": "[NEU] [mittel] AMI AptioV: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-11T14:23:59+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4510"
       },
       {
         "title": "[NEU] [mittel] IBM i: Schwachstelle ermöglicht nicht spezifizierten Angriff",
@@ -212,48 +254,6 @@
         "published_at": "2026-11-11T14:22:44+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4475"
-      },
-      {
-        "title": "[NEU] [hoch] AMD Prozessor und AMD Radeon: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-11T14:22:43+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4473"
-      },
-      {
-        "title": "[NEU] [mittel] AMD Prozessor: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-11T14:22:42+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4471"
-      },
-      {
-        "title": "SoftBank and Grab put US$1.85B down on a 5GW AI bet in Malaysia",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-11T01:00:58+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/softbank-and-grab-put-us1-85b-down-on-a-5gw-ai-bet-in-malaysia-20261110/"
-      },
-      {
-        "title": "we-promise/sure",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 8,
-        "url": "https://github.com/we-promise/sure"
-      },
-      {
-        "title": "Patchday Adobe: Kritische Lücken mit Höchstwertung bedrohen Connect",
-        "source": "heise Security Alerts",
-        "published_at": "2026-11-11T08:57:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Patchday-Adobe-Kritische-Luecken-mit-Hoechstwertung-bedrohen-Connect-11520346.html"
-      },
-      {
-        "title": "3 ways the EDGE Grant changes how a sensible SME buys software",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-11T04:00:59+00:00",
-        "relevance_score": 6,
-        "url": "https://e27.co/3-ways-the-edge-grant-changes-how-a-sensible-sme-buys-software-20261106/"
       }
     ],
     "general": [
