@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-11T11:42:08+00:00_
+_Generiert: 2026-11-11T11:53:39+00:00_
 
 ## Kurzlage
 
-50 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+51 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）“ aus JVN Japan Vulnerability Notes (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -177,6 +177,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); Content-Chance (+5.0); recent (+1.0)
   - Kurz: Aus Microsofts Security Update Guide geht hervor, dass die Entwickler knapp 1100 Sicherheitslücken in Office, Windows & Co. geschlossen haben.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.1 - 27 km WSW of Calama, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txis)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-11T11:52:25.040+00:00`, fetched `2026-11-11T11:53:02+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-11-11 11:36:51 UTC 2026-11-11 11:36:51 UTC at epicenter Location 22.543°S 69.169°W Depth 91.31 km (56.74 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.7 - 130 km W of Tofino, Canada** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txfz)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-11T02:34:44.040+00:00`, fetched `2026-11-11T02:39:54+00:00`
@@ -240,15 +249,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-11-11 08:37:15 UTC 2026-11-11 08:37:15 UTC at epicenter Location 12.842°N 143.332°E Depth 137.37 km (85.36 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.1 - Balleny Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txhi)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-11-11T06:38:53.040+00:00`, fetched `2026-11-11T06:42:31+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-11-11 06:21:45 UTC 2026-11-11 06:21:45 UTC at epicenter Location 62.428°S 155.021°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **ChatGPT Plus for veterans and servicemembers** — Score 8, observation — [Quelle](https://openai.com/index/chatgpt-plus-for-veterans)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-11-11T08:00:00+00:00`, fetched `2026-11-11T05:44:08+00:00`
@@ -295,3 +295,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f1f7fb79110>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
