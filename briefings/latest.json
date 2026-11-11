@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-11T22:07:50+00:00",
-  "run_id": "2026-11-11T22:07:50+00:00",
+  "generated_at": "2026-11-11T22:15:21+00:00",
+  "run_id": "2026-11-11T22:15:21+00:00",
   "date": "2026-11-11",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 79
+      "configured_public_sources_only": 80
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 79,
-    "displayed_findings": 79,
+    "new_relevant_findings": 1,
+    "today_file_total": 80,
+    "displayed_findings": 80,
     "high": 0,
     "medium": 32,
-    "observe": 47,
-    "source_errors": 0
+    "observe": 48,
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -1833,6 +1833,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "a22da6a3b979b2f5a15b"
+      },
+      {
+        "title": "SREのためのFinOps入門",
+        "url": "https://speakerdeck.com/muziyoshiz/introduction-to-finops-for-sres",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-11T10:50:37+00:00",
+        "fetched_at": "2026-11-11T22:14:44+00:00",
+        "summary": "2026年11月11日に開催された Tamachi.sre#7 の発表資料です。 Tamachi.sre#7 - connpass https://tamachi-sre.connpass.com/event/408227/ スライド内で紹介した過去の発表資料： SREとソフトウェア…",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4dc3d6cd14c974071caf"
       },
       {
         "title": "靖国神社に不正アクセス 約1万4500件の個人情報漏えい、パスワードが特定されるおそれも",
@@ -3829,6 +3850,27 @@
       "id": "a22da6a3b979b2f5a15b"
     },
     {
+      "title": "SREのためのFinOps入門",
+      "url": "https://speakerdeck.com/muziyoshiz/introduction-to-finops-for-sres",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-11T10:50:37+00:00",
+      "fetched_at": "2026-11-11T22:14:44+00:00",
+      "summary": "2026年11月11日に開催された Tamachi.sre#7 の発表資料です。 Tamachi.sre#7 - connpass https://tamachi-sre.connpass.com/event/408227/ スライド内で紹介した過去の発表資料： SREとソフトウェア…",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4dc3d6cd14c974071caf"
+    },
+    {
       "title": "靖国神社に不正アクセス 約1万4500件の個人情報漏えい、パスワードが特定されるおそれも",
       "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003119/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4017,8 +4059,37 @@
       "id": "87dc75ab24ae5a985594"
     }
   ],
-  "new_findings": [],
-  "source_errors": [],
+  "new_findings": [
+    {
+      "title": "SREのためのFinOps入門",
+      "url": "https://speakerdeck.com/muziyoshiz/introduction-to-finops-for-sres",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-11T10:50:37+00:00",
+      "fetched_at": "2026-11-11T22:14:44+00:00",
+      "summary": "2026年11月11日に開催された Tamachi.sre#7 の発表資料です。 Tamachi.sre#7 - connpass https://tamachi-sre.connpass.com/event/408227/ スライド内で紹介した過去の発表資料： SREとソフトウェア…",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4dc3d6cd14c974071caf"
+    }
+  ],
+  "source_errors": [
+    {
+      "source_id": "twcert_tvn_vulnerability_notes",
+      "source_name": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f0b11827410>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
