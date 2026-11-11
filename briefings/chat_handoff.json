@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-11T08:39:47+00:00",
+  "generated_at": "2026-11-11T08:45:25+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 37,
-    "displayed_findings": 37,
+    "new_relevant_findings": 1,
+    "today_file_total": 38,
+    "displayed_findings": 38,
     "high": 0,
     "medium": 10,
-    "observe": 27
+    "observe": 28
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -75,6 +75,16 @@
       "section": "observe"
     },
     {
+      "title": "Microsoft-Patchday: Attacken auf Outlook beobachtet",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-11-11T08:33:00.000+00:00",
+      "relevance_score": 12,
+      "url": "https://www.heise.de/news/Microsoft-Patchday-Attacken-auf-Outlook-beobachtet-11520196.html",
+      "summary": "Aus Microsofts Security Update Guide geht hervor, dass die Entwickler knapp 1100 Sicherheitslücken in Office, Windows & Co. geschlossen haben.",
+      "section": "observe"
+    },
+    {
       "title": "M 4.7 - 130 km W of Tofino, Canada",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 11,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txfz",
       "summary": "Time 2026-11-11 01:45:27 UTC 2026-11-11 01:45:27 UTC at epicenter Location 49.088°N 127.691°W Depth 10.00 km (6.21 mi)",
-      "section": "observe"
-    },
-    {
-      "title": "Claude Code ハーネス�Deep Dive – 君はどこまで制御する？ -",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-10T12:56:40+00:00",
-      "relevance_score": 11,
-      "url": "https://speakerdeck.com/takateeen_knj/20261110-claude-deepdive",
-      "summary": "ハーネスは大事。坂東は...",
       "section": "observe"
     }
   ],
