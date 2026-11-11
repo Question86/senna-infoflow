@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-11T06:01:04+00:00_
+_Generiert: 2026-11-11T06:21:43+00:00_
 
 ## Kurzlage
 
-28 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）“ aus JVN Japan Vulnerability Notes (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+29 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -204,6 +204,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5)
   - Kurz: More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **デジタル庁入札等監視委員会（第9回）の議事概要を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/procurement/bid-surveillance-commission/a9362957-7d08-4278-b57d-8a0787c3e679)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-11-11T06:00:00+00:00`, fetched `2026-11-11T06:21:14+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: デジタル庁入札等監視委員会（第9回）の議事概要を掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **GitHub App support for Enterprise Copilot seat management** — Score 6, observation — [Quelle](https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-11-11T00:10:31+00:00`, fetched `2026-11-11T00:32:51+00:00`
@@ -241,7 +250,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `hn_release_security_burst` (hackernews): HTTPSConnectionPool(host='hn.algolia.com', port=443): Read timed out. (read timeout=8)
