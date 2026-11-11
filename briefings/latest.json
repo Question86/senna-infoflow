@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T05:05:23+00:00",
-  "run_id": "2026-11-11T05:05:23+00:00",
+  "generated_at": "2026-11-11T05:15:10+00:00",
+  "run_id": "2026-11-11T05:15:10+00:00",
   "date": "2026-11-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 23,
     "displayed_findings": 23,
     "high": 0,
@@ -1175,29 +1175,7 @@
       "id": "87dc75ab24ae5a985594"
     }
   ],
-  "new_findings": [
-    {
-      "title": "The most expensive AI mistakes don’t look like mistakes",
-      "url": "https://e27.co/the-most-expensive-ai-mistakes-dont-look-like-mistakes-20261109/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-11T05:00:27+00:00",
-      "fetched_at": "2026-11-11T05:04:52+00:00",
-      "summary": "I saw this play out in an enterprise knowledge management workflow. AI had been used to turn years of internal documentation into a clean wiki article explaining the engineering setup behind a legacy product. The goal was simple. Give new engineers one reliable place to understand the product before they started working on it. The […] The post The most expensive AI mistakes don’t look like mistakes appeared first on…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "50d784b0568bc2ea9b4b"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
