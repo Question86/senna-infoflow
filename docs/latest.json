@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T23:10:23+00:00",
-  "run_id": "2026-11-11T23:10:23+00:00",
+  "generated_at": "2026-11-11T23:15:49+00:00",
+  "run_id": "2026-11-11T23:15:49+00:00",
   "date": "2026-11-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 84,
     "displayed_findings": 84,
     "high": 0,
@@ -4261,29 +4261,7 @@
       "id": "87dc75ab24ae5a985594"
     }
   ],
-  "new_findings": [
-    {
-      "title": "2026 年、すべての主要ブラウザで使えるようになった CSS 機能",
-      "url": "https://sterfield.co.jp/blog/blog-44/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-11T10:02:13+00:00",
-      "fetched_at": "2026-11-11T23:09:53+00:00",
-      "summary": "はじめに 2023 年に「2023 年の新しい CSS 機能」という記事を書きました。今回はその 2026 年版です。 2026 年は、Chrome・Firefox・Safari のすべてで使えるようになった CSS 機能がたくさんありました。その中には、これまで JavaScript を書かないとできなかったことが、CSS の数行でできるようになったものもありま...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "aeeec5a4ad661b8acbca"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
