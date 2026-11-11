@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-11T14:17:37+00:00",
+  "generated_at": "2026-11-11T14:23:59+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 58,
-    "displayed_findings": 58,
+    "new_relevant_findings": 6,
+    "today_file_total": 64,
+    "displayed_findings": 64,
     "high": 0,
-    "medium": 20,
+    "medium": 26,
     "observe": 38
   },
   "source_errors_count": 0,
@@ -45,13 +45,13 @@
       "section": "medium"
     },
     {
-      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (openEXR): Schwachstelle ermöglicht Codeausführung",
+      "title": "[NEU] [hoch] Red Hat Enterprise Linux (python-jwcrypto, sos, hickory-resolver, libimobiledevice, gcc, python-oauthlib): Mehrere Schwachstellen",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-11-11T12:59:27+00:00",
+      "published_at": "2026-11-11T14:22:43+00:00",
       "relevance_score": 16,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1440",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (openEXR) ausnutzen, um beliebigen Programmcode auszuführen.",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4472",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (python-jwcrypto, sos, hickory-resolver, libimobiledevice, gcc, python-oauthlib) ausnutzen, um einen Denial of Service Angriff durchzuführen, beliebigen Code auszuführen, Berechtigungen zu…",
       "section": "medium"
     },
     {

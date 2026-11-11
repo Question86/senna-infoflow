@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-11T14:17:37+00:00_
+_Generated: 2026-11-11T14:23:59+00:00_
 
 ## Status
 - status: `normal`
-- findings: `58`
+- findings: `64`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-11-11T14:17:37+00:00_
 - url: https://e27.co/what-happens-to-the-subscription-economy-when-ai-agents-review-every-payment-20261101/
 - summary: Subscription businesses have spent the past two decades making revenue more predictable. Instead of selling a product once and persuading the customer to buy again, they persuade the customer to keep paying every month or every year. That creates an important…
 
-### 4. [UPDATE] [hoch] Red Hat Enterprise Linux (openEXR): Schwachstelle ermöglicht Codeausführung
+### 4. [NEU] [hoch] Red Hat Enterprise Linux (python-jwcrypto, sos, hickory-resolver, libimobiledevice, gcc, python-oauthlib): Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-11-11T12:59:27+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1440
-- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (openEXR) ausnutzen, um beliebigen Programmcode auszuführen.
+- published: `2026-11-11T14:22:43+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4472
+- summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (python-jwcrypto, sos, hickory-resolver, libimobiledevice, gcc, python-oauthlib) ausnutzen, um einen Denial of Service Angriff durchzuführen, beliebigen Code auszuführen, Berechtigungen zu…
 
 ### 5. Copper is choking AI. Staera secures US$4.6M to swap it for light
 - source: e27 Asia Startup and Tech Feed
