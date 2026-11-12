@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-12T11:11:29+00:00",
+  "generated_at": "2026-11-12T11:23:22+00:00",
   "topics": {
     "security": [
       {
@@ -356,11 +356,11 @@
         "url": "https://www.bis.org/speeches/20261112-us-economy-and-considerations-monetary-policy"
       },
       {
-        "title": "One policy, many realities - why differences matter for monetary policy",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-11-12T00:00:00+00:00",
+        "title": "Monitoring-Software Checkmk: Updates schließen kritische Codeschmuggel-Lecks",
+        "source": "heise Security Alerts",
+        "published_at": "2026-11-12T11:16:00.000+00:00",
         "relevance_score": 7,
-        "url": "https://www.bis.org/speeches/20261112-one-policy-many-realities-why-differences-matter-monetary-policy"
+        "url": "https://www.heise.de/news/Monitoring-Software-Checkmk-Updates-schliessen-kritische-Codeschmuggel-Lecks-11522043.html"
       }
     ],
     "github": [
