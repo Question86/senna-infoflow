@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-11-12T07:31:57Z",
+  "generated_at": "2026-11-12T07:47:01Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -48,6 +48,11 @@
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     },
     {
+      "title": "The science and practice of monetary policy communication - the European Central Bank experience",
+      "band": "strong",
+      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
+    },
+    {
       "title": "The low-gear labour market",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
@@ -56,11 +61,6 @@
       "title": "One policy, many realities - why differences matter for monetary policy",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
-    },
-    {
-      "title": "Foundations for innovative and resilient capital markets",
-      "band": "watch",
-      "reason": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm."
     }
   ]
 }
