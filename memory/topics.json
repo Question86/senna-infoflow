@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-12T11:28:34+00:00",
+  "generated_at": "2026-11-12T11:34:39+00:00",
   "topics": {
     "security": [
       {
@@ -119,6 +119,13 @@
         "url": "https://openai.com/business/customer-stories/holidays-extras-codex"
       },
       {
+        "title": "Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-12T01:43:30+00:00",
+        "relevance_score": 11,
+        "url": "https://zenn.dev/ubie_dev/articles/45501469c9c044"
+      },
+      {
         "title": "Four hundred business cards. Zero customers",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-11-12T01:00:04+00:00",
@@ -138,13 +145,6 @@
         "published_at": "2026-11-12T04:00:37+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/europes-tokenisation-race-will-not-wait-for-a-2028-blueprint-20261106/"
-      },
-      {
-        "title": "GoogleChrome/modern-web-guidance-src",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 10,
-        "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
       }
     ],
     "economy": [
@@ -307,6 +307,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4516"
       },
       {
+        "title": "Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-12T01:43:30+00:00",
+        "relevance_score": 11,
+        "url": "https://zenn.dev/ubie_dev/articles/45501469c9c044"
+      },
+      {
         "title": "The science and practice of monetary policy communication - the European Central Bank experience",
         "source": "BIS Central Bankers Speeches",
         "published_at": "2026-11-12T00:00:00+00:00",
@@ -354,13 +361,6 @@
         "published_at": "2026-11-12T00:00:00+00:00",
         "relevance_score": 9,
         "url": "https://www.bis.org/speeches/20261112-us-economy-and-considerations-monetary-policy"
-      },
-      {
-        "title": "Monitoring-Software Checkmk: Updates schließen kritische Codeschmuggel-Lecks",
-        "source": "heise Security Alerts",
-        "published_at": "2026-11-12T11:16:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Monitoring-Software-Checkmk-Updates-schliessen-kritische-Codeschmuggel-Lecks-11522043.html"
       }
     ],
     "github": [
