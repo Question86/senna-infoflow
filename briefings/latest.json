@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T04:44:05+00:00",
-  "run_id": "2026-11-12T04:44:05+00:00",
+  "generated_at": "2026-11-12T04:50:33+00:00",
+  "run_id": "2026-11-12T04:50:33+00:00",
   "date": "2026-11-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 18,
     "displayed_findings": 18,
     "high": 0,
@@ -949,29 +949,7 @@
       "id": "439f06168d293d193f9b"
     }
   ],
-  "new_findings": [
-    {
-      "title": "SeaX Ventures bets US$1.65M on Skribe Medical’s AI heart patch for cancer patients",
-      "url": "https://e27.co/seax-ventures-bets-us1-65m-on-skribe-medicals-ai-heart-patch-for-cancer-patients-20261112/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-12T04:39:19+00:00",
-      "fetched_at": "2026-11-12T04:43:38+00:00",
-      "summary": "Surviving cancer can come with a cruel footnote. Some of the therapies that shrink tumours can quietly weaken the heart. Clinicians call it cancer therapy-related cardiac dysfunction (CTRCD), and catching it early usually means repeated echocardiograms, the heart ultrasounds that demand separate appointments, trained sonographers and, too often, a pause in treatment while oncologists wait […] The post SeaX Ventures…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f732fe26f21b523175db"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
