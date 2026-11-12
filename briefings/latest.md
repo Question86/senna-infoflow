@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-12T21:53:44+00:00_
+_Generiert: 2026-11-12T21:59:59+00:00_
 
 ## Kurzlage
 
@@ -29,18 +29,8 @@ _Generiert: 2026-11-12T21:53:44+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-11-10`
   - Kurz: Known exploited vulnerability. Added 2026-11-10. Due 2026-11-13. Barracuda Networks Email Security Gateway (ESG) Authentication Bypass Using an Alternate Path or Channel Vulnerability
-- **GDACS: Green flood alert in Myanmar** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104280)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Myanmar
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:59.652km) in Guatemala 10/11/2026 14:54 UTC, 1.2 million in MMI IV.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1576618)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:59.652km) in Guatemala 10/11/2026 14:54 UTC, 1.2 million in MMI IV.
-- **GDACS: Green earthquake (Magnitude 5.7M, Depth:24.173km) in Japan 09/11/2026 04:52 UTC, 230 thousand in MMI IV.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1576372)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.7M, Depth:24.173km) in Japan 09/11/2026 04:52 UTC, 230 thousand in MMI IV.
+
+- Sensor-Hinweis: GDACS failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 
 ## Wirtschaft global
 
