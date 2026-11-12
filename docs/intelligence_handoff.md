@@ -1,18 +1,28 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-11-12T03:02:43Z_
+_Generated: 2026-11-12T03:19:21Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年11月11日）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.
+Stärkste Dynamik nach Gate-Recheck: “SoftBank製Airターミナル6におけるOSコマンドインジェクションの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.
 
 ## Top Dynamics
+
+### SoftBank製Airターミナル6におけるOSコマンドインジェクションの脆弱性
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `26.0`
+- Published: `2026-11-12T12:00:00+09:00` / age_days `0.01`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: security high-signal: jvn, security
+- Quelle: https://jvn.jp/jp/JVN64740097/
 
 ### Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年11月11日）
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-11-12T09:00:00+09:00` / age_days `0.13`
+- Published: `2026-11-12T09:00:00+09:00` / age_days `0.14`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -22,17 +32,17 @@ Stärkste Dynamik nach Gate-Recheck: “Apache HTTP Server 2.4における複数
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `146.04`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `146.06`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 146.0d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
+- Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 146.1d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/
 
 ### Venture debt is reaching smaller startups. What founders should check before signing
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-11-12T02:00:09+00:00` / age_days `0.04`
+- Published: `2026-11-12T02:00:09+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -42,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “Apache HTTP Server 2.4における複数
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `12.0`
-- Published: `2026-11-12T02:00:16+00:00` / age_days `0.04`
+- Published: `2026-11-12T02:00:16+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -52,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “Apache HTTP Server 2.4における複数
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `12.0`
-- Published: `2026-11-12T01:33:09.040+00:00` / age_days `0.06`
+- Published: `2026-11-12T01:33:09.040+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “Apache HTTP Server 2.4における複数
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `8.0`
-- Published: `2026-11-12T01:00:04+00:00` / age_days `0.09`
+- Published: `2026-11-12T01:00:04+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -72,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “Apache HTTP Server 2.4における複数
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-11-11T21:01:40+00:00` / age_days `0.25`
+- Published: `2026-11-11T21:01:40+00:00` / age_days `0.26`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “Apache HTTP Server 2.4における複数
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `4.0`
-- Published: `2026-11-12T01:00:23+00:00` / age_days `0.08`
+- Published: `2026-11-12T01:00:23+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: early terms: local, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -92,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “Apache HTTP Server 2.4における複数
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `145.01`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `145.02`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1, aging penalty -16.0 for 145.0d old signal
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “Apache HTTP Server 2.4における複数
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `145.01`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `145.02`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1, aging penalty -16.0 for 145.0d old signal
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “Apache HTTP Server 2.4における複数
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `145.01`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `145.02`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +1, single-source AI hype brake -8.0, aging penalty -16.0 for 145.0d old signal, single-source AI cap enforced after phrase recheck
 - Quelle: https://toyokeizai.net/articles/-/948348?display=b
-
-### 【特集】 AIが“ダチ”になった。Meta「Muse」と過ごした2週間
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `0`
-- Published: `2026-11-11T21:15:31+00:00` / age_days `0.24`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://pc.watch.impress.co.jp/docs/topic/feature/2155692.html
 
 END OF DOCUMENT
