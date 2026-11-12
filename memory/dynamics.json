@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-12T07:02:38Z",
+  "generated_at": "2026-11-12T07:18:32Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 31,
+    "dynamics": 35,
     "bands": {
       "extreme": 1,
-      "strong": 4,
+      "strong": 6,
       "watch": 6,
-      "quiet": 20
+      "quiet": 22
     },
     "bands_after_gate_recheck": {
-      "strong": 5,
+      "strong": 7,
       "watch": 6,
-      "quiet": 20
+      "quiet": 22
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/jp/JVN64740097/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-12T12:00:00+09:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "security"
@@ -48,7 +48,7 @@
       "url": "https://jvn.jp/vu/JVNVU90805396/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-12T09:00:00+09:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -72,7 +72,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4516",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T06:12:05+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -96,7 +96,7 @@
       "url": "https://e27.co/ai-agents-can-hand-over-working-code-and-still-lose-the-decision-that-made-it-right-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-12T03:00:55+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "macro"
@@ -125,7 +125,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 146.21,
+      "age_days": 146.22,
       "topics": [
         "ai"
       ],
@@ -150,11 +150,65 @@
       "summary": ""
     },
     {
+      "title": "The low-gear labour market",
+      "url": "https://www.bis.org/speeches/20261112-low-gear-labour-market",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "age_days": 0.3,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Speech by Ms Clare Lombardelli, Deputy Governor for Monetary Policy of the Bank of England, at the Bank of England Watchers Conference, hosted by King’s Business School and Money, Macro and Finance Society, London, 10 November 2026."
+    },
+    {
+      "title": "One policy, many realities - why differences matter for monetary policy",
+      "url": "https://www.bis.org/speeches/20261112-one-policy-many-realities-why-differences-matter-monetary-policy",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "age_days": 0.3,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 20.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit"
+      ],
+      "summary": "Speech by Mr Olaf Sleijpen, President of De Nederlandsche Bank, at the opening of the 29th Annual Research Conference of De Nederlandsche Bank, Amsterdam, 10 November 2026."
+    },
+    {
       "title": "M 4.8 - 155 km E of Noda, Japan",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txqx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-12T04:28:21.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -178,7 +232,7 @@
       "url": "https://e27.co/your-finance-teams-chatgpt-habit-is-a-cross-border-data-transfer-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-12T04:30:26+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro"
@@ -205,7 +259,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txqr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-12T04:08:07.366+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -229,7 +283,7 @@
       "url": "https://e27.co/venture-debt-is-reaching-smaller-startups-what-founders-should-check-before-signing-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-12T02:00:09+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -253,7 +307,7 @@
       "url": "https://e27.co/beyond-gcash-and-maya-30-emerging-fintech-startups-rewiring-money-in-the-philippines-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-12T02:00:16+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -277,7 +331,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txqa",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-12T01:33:09.040+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -301,7 +355,7 @@
       "url": "https://e27.co/how-i-use-ai-in-venture-capital-20261109/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-12T05:00:44+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -327,7 +381,7 @@
       "url": "https://www.digital.go.jp/councils/local-governments-standardization-issues/2ca6b72e-057d-4a8d-95ef-a48dc7b80a94",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-11-12T06:00:00+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
@@ -347,11 +401,37 @@
       "summary": "地方公共団体情報システム標準化の課題の把握及び今後の推進方策に関する検討会（第1回）の概要を掲載しました"
     },
     {
+      "title": "Japan's current account surplus and corporate adjustment",
+      "url": "https://www.bis.org/speeches/20261112-japans-current-account-surplus-and-corporate-adjustment",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "age_days": 0.3,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 8.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Speech by Mr Kazuo Ueda, Governor of the Bank of Japan, at the 2026 Michel Camdessus Central Banking Lecture, International Monetary Fund, Washington DC, 6 November 2026."
+    },
+    {
       "title": "Four hundred business cards. Zero customers",
       "url": "https://e27.co/four-hundred-business-cards-zero-customers-20261110/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-12T01:00:04+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -373,11 +453,38 @@
       "summary": "The show is over. The founder sits on the hotel bed and counts the cards. Four hundred, give or take. A dozen promises to call next quarter. Several requests for samples. Everyone said the product was good. Not one conversation with someone who would actually use it. Who comes to the booth Importers. Distributors. Con…"
     },
     {
+      "title": "Cash and the digital euro - two sides of the same coin",
+      "url": "https://www.bis.org/speeches/20261112-cash-and-digital-euro-two-sides-same-coin",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "age_days": 0.3,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 8.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Introductory statement by Mr Piero Cipollone, Member of the Executive Board of the European Central Bank, at the Committee on Economic and Monetary Affairs of the European Parliament, Brussels, 10 November 2026."
+    },
+    {
       "title": "SeaX Ventures bets US$1.65M on Skribe Medical’s AI heart patch for cancer patients",
       "url": "https://e27.co/seax-ventures-bets-us1-65m-on-skribe-medicals-ai-heart-patch-for-cancer-patients-20261112/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-12T04:39:19+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "security",
@@ -403,7 +510,7 @@
       "url": "https://e27.co/europes-tokenisation-race-will-not-wait-for-a-2028-blueprint-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-12T04:00:37+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "macro"
@@ -430,7 +537,7 @@
       "url": "https://www.digital.go.jp/get-involved/procedure/98e55a91-a46b-4f92-ac1f-7079d9d43c15",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-11-12T06:00:00+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
@@ -454,7 +561,7 @@
       "url": "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-11T21:01:40+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "ai"
       ],
@@ -480,7 +587,7 @@
       "url": "https://koyasi777.com/mozkey/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-12T02:13:52+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "general"
       ],
@@ -504,7 +611,7 @@
       "url": "https://togetter.com/li/2769545",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-12T03:10:17+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -529,7 +636,7 @@
       "url": "https://e27.co/airwallexs-us1-5b-singapore-pledge-dwarfs-the-islands-entire-fintech-funding-haul-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-12T01:00:23+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -555,7 +662,7 @@
       "url": "https://e27.co/a-demo-a-uae-investor-and-a-government-lead-what-three-hong-kong-mobility-firms-won-at-sumw-20261112/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-12T05:19:43+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "macro"
       ],
@@ -579,7 +686,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 145.18,
+      "age_days": 145.19,
       "topics": [
         "general"
       ],
@@ -604,7 +711,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 145.18,
+      "age_days": 145.19,
       "topics": [
         "general"
       ],
@@ -629,7 +736,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 145.18,
+      "age_days": 145.19,
       "topics": [
         "ai"
       ],
@@ -656,7 +763,7 @@
       "url": "https://www.bis.org/speeches/20261112-opening-remarks-joint-central-bank-kuwait-and-global-finance-magazine-roundtable-discussion-kuwait-banks",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-11-12T00:00:00+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "ai",
         "macro"
@@ -682,7 +789,7 @@
       "url": "https://www.bis.org/speeches/20261112-central-bank-independence-todays-world",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-11-12T00:00:00+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "ai",
         "macro"
@@ -708,7 +815,7 @@
       "url": "https://news.web.nhk/newsweb/na/nd-20261111de74472",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-11T22:52:41+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "ai"
       ],
@@ -733,7 +840,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2155692.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-11T21:15:31+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "ai"
       ],
@@ -758,7 +865,7 @@
       "url": "https://e27.co/lunios-parent-bags-us12-5m-from-vertex-to-sell-asia-more-than-a-good-nights-sleep-20261112/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-12T05:45:35+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -783,7 +890,7 @@
       "url": "https://e27.co/is-short-covering-the-only-reason-bitcoin-moved-higher-20261112/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-12T04:35:31+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "macro"
