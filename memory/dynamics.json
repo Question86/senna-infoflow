@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-12T12:34:27Z",
+  "generated_at": "2026-11-12T12:46:43Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 2,
       "krass": 16,
-      "strong": 18,
-      "watch": 4
+      "strong": 19,
+      "watch": 3
     },
     "bands_after_gate_recheck": {
       "krass": 5,
-      "strong": 31,
-      "watch": 4
+      "strong": 32,
+      "watch": 3
     }
   },
   "top_dynamics": [
@@ -73,7 +73,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4526",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T12:07:01+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -98,7 +98,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4105",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T11:52:01+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -123,7 +123,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4453",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T09:20:17+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -148,7 +148,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4451",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T09:20:17+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security",
         "macro"
@@ -171,11 +171,35 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in BusyBox ausnutzen, um Informationen offenzulegen, beliebigen Code mit erhöhten Berechtigungen bis hin zu Root-Rechten auszuführen oder einen Denial-of-Service-Zustand zu verursachen."
     },
     {
+      "title": "[UPDATE] [mittel] QT: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4462",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-12T12:32:01+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in QT ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
       "title": "[NEU] [mittel] Apache Axis2: Schwachstelle ermöglicht Denial of Service",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4536",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T12:22:01+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -199,7 +223,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4535",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T12:22:00+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -247,7 +271,7 @@
       "url": "https://jvn.jp/jp/JVN64740097/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-12T12:00:00+09:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "ai",
         "security"
@@ -344,7 +368,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4452",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T09:20:17+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -368,7 +392,7 @@
       "url": "https://jvn.jp/vu/JVNVU90805396/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-12T09:00:00+09:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -392,7 +416,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1502",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T08:47:21+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -440,7 +464,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4481",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T09:20:16+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -494,7 +518,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4538",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T12:22:03+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -520,7 +544,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4537",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T12:22:01+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -649,7 +673,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4443",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T10:52:22+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -674,7 +698,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1481",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T08:47:20+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -699,7 +723,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1270",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T08:47:06+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -724,7 +748,7 @@
       "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-12T08:26:08+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -750,7 +774,7 @@
       "url": "https://e27.co/ai-agents-can-hand-over-working-code-and-still-lose-the-decision-that-made-it-right-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-12T03:00:55+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "ai",
         "macro"
@@ -779,7 +803,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 146.44,
+      "age_days": 146.45,
       "topics": [
         "ai"
       ],
@@ -798,7 +822,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 146.4d old signal",
+        "aging penalty -8.0 for 146.5d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -808,7 +832,7 @@
       "url": "https://www.bis.org/speeches/20261112-economic-outlook-and-some-thoughts-labor-market-dynamism",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-11-12T00:00:00+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "ai",
         "macro"
@@ -836,7 +860,7 @@
       "url": "https://www.heise.de/news/Monitoring-Software-Checkmk-Updates-schliessen-kritische-Codeschmuggel-Lecks-11522043.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-12T11:16:00.000+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -861,7 +885,7 @@
       "url": "https://www.bis.org/speeches/20261112-science-and-practice-monetary-policy-communication-european-central-bank-experience",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-11-12T00:00:00+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "ai",
         "macro"
@@ -889,7 +913,7 @@
       "url": "https://www.bis.org/speeches/20261112-low-gear-labour-market",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-11-12T00:00:00+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "ai",
         "macro"
@@ -917,7 +941,7 @@
       "url": "https://www.bis.org/speeches/20261112-one-policy-many-realities-why-differences-matter-monetary-policy",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-11-12T00:00:00+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "macro"
       ],
@@ -943,7 +967,7 @@
       "url": "https://www.bis.org/speeches/20261112-foundations-innovative-and-resilient-capital-markets",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-11-12T00:00:00+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "macro"
       ],
@@ -968,7 +992,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txqx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-12T04:28:21.040+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "disaster"
       ],
@@ -1013,31 +1037,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Last week I sat with the CEO and CFO of a finance company that is genuinely top of its game in this region. Sophisticated operators. Strong compliance culture on paper. 10 minutes into the conversation, it emerged that their team pastes customer records, financial statements, and internal strategy documents into consu…"
-    },
-    {
-      "title": "M 4.5 - off the coast of Oregon",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txrk",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-11-12T08:29:03.040+00:00",
-      "age_days": 0.17,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-11-12 08:17:28 UTC 2026-11-12 08:17:28 UTC at epicenter Location 44.454°N 129.621°W Depth 10.00 km (6.21 mi)"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [hoch] PTC FlexPLM: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
