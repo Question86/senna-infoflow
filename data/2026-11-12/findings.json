@@ -94,6 +94,30 @@
     "id": "c1558072e400bb466b61"
   },
   {
+    "title": "[NEU] [UNGEPATCHT] [mittel] GNU libc: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4521",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-12T11:42:01+00:00",
+    "fetched_at": "2026-11-12T11:45:07+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in GNU libc ausnutzen, um Daten zu manipulieren oder einen Denial-of-Service-Zustand zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Patch",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d7b3d9a4d0934e3ffd0d"
+  },
+  {
     "title": "[UPDATE] [mittel] OpenSSL: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4443",
     "source": "BSI CERT-Bund Security Advisories",
@@ -269,6 +293,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "ed1e20b5be21ed262267"
+  },
+  {
+    "title": "[NEU] [mittel] Devolutions Server: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4520",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-12T11:42:00+00:00",
+    "fetched_at": "2026-11-12T11:45:07+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Devolutions Server ausnutzen, um Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a15d89ae8cdf7c89a5de"
   },
   {
     "title": "[UPDATE] [hoch] git: Mehrere Schwachstellen",

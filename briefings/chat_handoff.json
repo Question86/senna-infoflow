@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-12T11:40:37+00:00",
+  "generated_at": "2026-11-12T11:45:43+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 57,
-    "displayed_findings": 57,
+    "new_relevant_findings": 2,
+    "today_file_total": 59,
+    "displayed_findings": 59,
     "high": 0,
-    "medium": 16,
+    "medium": 18,
     "observe": 41
   },
   "source_errors_count": 0,
@@ -45,13 +45,13 @@
       "section": "medium"
     },
     {
-      "title": "[UPDATE] [mittel] OpenSSL: Mehrere Schwachstellen",
+      "title": "[NEU] [UNGEPATCHT] [mittel] GNU libc: Mehrere Schwachstellen",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-11-12T10:52:22+00:00",
+      "published_at": "2026-11-12T11:42:01+00:00",
       "relevance_score": 16,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4443",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in OpenSSL ausnutzen, um Informationen auszulesen, Dateien zu manipulieren oder einen Denial-of-Service-Angriff durchzuführen, sowie um nicht näher spezifizierte Auswirkungen zu erzielen.",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4521",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in GNU libc ausnutzen, um Daten zu manipulieren oder einen Denial-of-Service-Zustand zu verursachen.",
       "section": "medium"
     },
     {
