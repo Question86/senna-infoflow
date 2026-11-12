@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-11-12T04:47:09Z_
+_Generated: 2026-11-12T05:18:07Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “SoftBank製Airターミナル6におけ�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-11-12T12:00:00+09:00` / age_days `0.07`
+- Published: `2026-11-12T12:00:00+09:00` / age_days `0.1`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “SoftBank製Airターミナル6におけ�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-11-12T09:00:00+09:00` / age_days `0.2`
+- Published: `2026-11-12T09:00:00+09:00` / age_days `0.22`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “SoftBank製Airターミナル6におけ�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-11-12T03:00:55+00:00` / age_days `0.07`
+- Published: `2026-11-12T03:00:55+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: early terms: local, high terms: code, 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “SoftBank製Airターミナル6におけ�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `146.12`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `146.14`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 146.1d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “SoftBank製Airターミナル6におけ�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.0`
-- Published: `2026-11-12T04:28:21.040+00:00` / age_days `0.01`
+- Published: `2026-11-12T04:28:21.040+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “SoftBank製Airターミナル6におけ�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-11-12T04:30:26+00:00` / age_days `0.01`
+- Published: `2026-11-12T04:30:26+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “SoftBank製Airターミナル6におけ�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.0`
-- Published: `2026-11-12T04:08:07.366+00:00` / age_days `0.03`
+- Published: `2026-11-12T04:08:07.366+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “SoftBank製Airターミナル6におけ�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-11-12T02:00:09+00:00` / age_days `0.12`
+- Published: `2026-11-12T02:00:09+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “SoftBank製Airターミナル6におけ�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `12.0`
-- Published: `2026-11-12T02:00:16+00:00` / age_days `0.12`
+- Published: `2026-11-12T02:00:16+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -102,30 +102,30 @@ Stärkste Dynamik nach Gate-Recheck: “SoftBank製Airターミナル6におけ�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `12.0`
-- Published: `2026-11-12T01:33:09.040+00:00` / age_days `0.13`
+- Published: `2026-11-12T01:33:09.040+00:00` / age_days `0.16`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000txqa
 
+### How I use AI in venture capital
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `10.0`
+- Published: `2026-11-12T05:00:44+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://e27.co/how-i-use-ai-in-venture-capital-20261109/
+
 ### Four hundred business cards. Zero customers
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `8.0`
-- Published: `2026-11-12T01:00:04+00:00` / age_days `0.16`
+- Published: `2026-11-12T01:00:04+00:00` / age_days `0.18`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://e27.co/four-hundred-business-cards-zero-customers-20261110/
-
-### SeaX Ventures bets US$1.65M on Skribe Medical’s AI heart patch for cancer patients
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `8.0`
-- Published: `2026-11-12T04:39:19+00:00` / age_days `0.01`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: no strong comparative reason
-- Quelle: https://e27.co/seax-ventures-bets-us1-65m-on-skribe-medicals-ai-heart-patch-for-cancer-patients-20261112/
 
 END OF DOCUMENT
