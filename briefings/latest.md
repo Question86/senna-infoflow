@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-12T17:12:48+00:00_
+_Generiert: 2026-11-12T17:23:40+00:00_
 
 ## Kurzlage
 
-91 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+92 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -231,6 +231,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); macro (+2.0); recent (+1.0); watchgraph region europe: London (+2.0); watchgraph region usa: Federal Reserve (+2.0)
   - Kurz: Speech by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at the Bank of England Watchers Conference, hosted by King’s Business School and Money, Macro and Finance Society, London, 10 November 2026.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **2026-020: Critical Vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway** — Score 11, risk — [Quelle](https://cert.europa.eu/publications/security-advisories/2026-020/)
+  - Quelle: CERT-EU Security Advisories / `rss`
+  - Zeit: published `2026-11-12T18:20:53+00:00`, fetched `2026-11-12T17:23:10+00:00`
+  - Treffer: CERT-EU, Security, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Webentwicklung (+3.0); CERT-EU (+2.0)
+  - Kurz: On 12 November 2026, the Cloud Software Group published security bulletins for its Citrix products addressing 28 memory flaws in Citrix NetScaler ADC and Citrix NetScaler Gateway. One of these vulnerabilities, CVE-2026-120868, affects every deployment, including those using the default configuration. The vendor bulletin describes the impact as unpredictable behaviour and denial of service. Citrix reports no exploita…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤** — Score 11, observation — [Quelle](https://zenn.dev/ubie_dev/articles/45501469c9c044)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-12T01:43:30+00:00`, fetched `2026-11-12T11:34:07+00:00`
@@ -294,15 +303,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: https://goo.gle/modern-web-guidance Modern Web Guidance (Source) This repo is the source repository for GoogleChrome/modern-web-guidance and includes the code and documentation for authoring, calibrating, and evaluating its contents. Modern Web Guidance is a set of skills that embed web platform expertise, best practices, and browser compatibility data directly into your coding agents. It helps to steer your coding…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.5 - off the coast of Oregon** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txrk)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-11-12T08:29:03.040+00:00`, fetched `2026-11-12T08:31:14+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-11-12 08:17:28 UTC 2026-11-12 08:17:28 UTC at epicenter Location 44.454°N 129.621°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen
 

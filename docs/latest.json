@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T17:12:48+00:00",
-  "run_id": "2026-11-12T17:12:48+00:00",
+  "generated_at": "2026-11-12T17:23:40+00:00",
+  "run_id": "2026-11-12T17:23:40+00:00",
   "date": "2026-11-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 91
+      "configured_public_sources_only": 92
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 91,
-    "displayed_findings": 91,
+    "new_relevant_findings": 1,
+    "today_file_total": 92,
+    "displayed_findings": 92,
     "high": 0,
     "medium": 38,
-    "observe": 53,
+    "observe": 54,
     "source_errors": 0
   },
   "sections": {
@@ -1180,6 +1180,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "d73cf3510aa83ea82313"
+      },
+      {
+        "title": "2026-020: Critical Vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway",
+        "url": "https://cert.europa.eu/publications/security-advisories/2026-020/",
+        "source": "CERT-EU Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-12T18:20:53+00:00",
+        "fetched_at": "2026-11-12T17:23:10+00:00",
+        "summary": "On 12 November 2026, the Cloud Software Group published security bulletins for its Citrix products addressing 28 memory flaws in Citrix NetScaler ADC and Citrix NetScaler Gateway. One of these vulnerabilities, CVE-2026-120868, affects every deployment, including those using the default configuration. The vendor bulletin describes the impact as unpredictable behaviour and denial of service. Citrix reports no exploita…",
+        "matched_keywords": [
+          "CERT-EU",
+          "Security",
+          "Webentwicklung"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Security (+6.0); Webentwicklung (+3.0); CERT-EU (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "28b4139e95f646e93b6a"
       },
       {
         "title": "Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤",
@@ -3428,6 +3450,28 @@
       "id": "d73cf3510aa83ea82313"
     },
     {
+      "title": "2026-020: Critical Vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway",
+      "url": "https://cert.europa.eu/publications/security-advisories/2026-020/",
+      "source": "CERT-EU Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-12T18:20:53+00:00",
+      "fetched_at": "2026-11-12T17:23:10+00:00",
+      "summary": "On 12 November 2026, the Cloud Software Group published security bulletins for its Citrix products addressing 28 memory flaws in Citrix NetScaler ADC and Citrix NetScaler Gateway. One of these vulnerabilities, CVE-2026-120868, affects every deployment, including those using the default configuration. The vendor bulletin describes the impact as unpredictable behaviour and denial of service. Citrix reports no exploita…",
+      "matched_keywords": [
+        "CERT-EU",
+        "Security",
+        "Webentwicklung"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Security (+6.0); Webentwicklung (+3.0); CERT-EU (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "28b4139e95f646e93b6a"
+    },
+    {
       "title": "Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤",
       "url": "https://zenn.dev/ubie_dev/articles/45501469c9c044",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4521,7 +4565,30 @@
       "id": "316db8dc6e1fd8245045"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "2026-020: Critical Vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway",
+      "url": "https://cert.europa.eu/publications/security-advisories/2026-020/",
+      "source": "CERT-EU Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-12T18:20:53+00:00",
+      "fetched_at": "2026-11-12T17:23:10+00:00",
+      "summary": "On 12 November 2026, the Cloud Software Group published security bulletins for its Citrix products addressing 28 memory flaws in Citrix NetScaler ADC and Citrix NetScaler Gateway. One of these vulnerabilities, CVE-2026-120868, affects every deployment, including those using the default configuration. The vendor bulletin describes the impact as unpredictable behaviour and denial of service. Citrix reports no exploita…",
+      "matched_keywords": [
+        "CERT-EU",
+        "Security",
+        "Webentwicklung"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Security (+6.0); Webentwicklung (+3.0); CERT-EU (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "28b4139e95f646e93b6a"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
