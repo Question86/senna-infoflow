@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-12T12:50:29+00:00_
+_Generiert: 2026-11-12T12:55:58+00:00_
 
 ## Kurzlage
 
-76 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [UNGEPATCHT] [hoch] BusyBox: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 21, observation).
+77 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [UNGEPATCHT] [hoch] BusyBox: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 21, observation).
 
 ## Priorität Hoch
 
