@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-12T14:54:52+00:00",
+  "generated_at": "2026-11-12T15:00:26+00:00",
   "topics": {
     "ai": [
       {
@@ -24,6 +24,13 @@
         "published_at": "2026-11-12T03:00:55+00:00",
         "relevance_score": 19,
         "url": "https://e27.co/ai-agents-can-hand-over-working-code-and-still-lose-the-decision-that-made-it-right-20261106/"
+      },
+      {
+        "title": "Barr, American Inequality and the Future of AI",
+        "source": "Federal Reserve Speeches and Testimony",
+        "published_at": "2026-11-12T15:00:00+00:00",
+        "relevance_score": 16,
+        "url": "https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm"
       },
       {
         "title": "SoftBank製Airターミナル6におけるOSコマンドインジェクションの脆弱性",
@@ -66,13 +73,6 @@
         "published_at": "2026-11-12T01:43:30+00:00",
         "relevance_score": 11,
         "url": "https://zenn.dev/ubie_dev/articles/45501469c9c044"
-      },
-      {
-        "title": "Four hundred business cards. Zero customers",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-12T01:00:04+00:00",
-        "relevance_score": 11,
-        "url": "https://e27.co/four-hundred-business-cards-zero-customers-20261110/"
       }
     ],
     "security": [

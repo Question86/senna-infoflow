@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-12T14:54:52+00:00_
+_Generiert: 2026-11-12T15:00:26+00:00_
 
 ## Kurzlage
 
-84 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+85 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -48,6 +48,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0)
   - Kurz: An AI agent can finish its task, hand over working code, and still leave the next agent with the wrong understanding of what to build. Consider a hypothetical mobile app team. The team decides that people must be able to record a workout without an account. One agent implements local storage. Another later adds synchronisation […] The post AI agents can hand over working code and still lose the decision that made it…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Barr, American Inequality and the Future of AI** — Score 16, observation — [Quelle](https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm)
+  - Quelle: Federal Reserve Speeches and Testimony / `rss`
+  - Zeit: published `2026-11-12T15:00:00+00:00`, fetched `2026-11-12T14:59:50+00:00`
+  - Treffer: AI/KI, Macro/Policy, speech, testimony
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: Speech At Yale University, New Haven, Connecticut
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[NEU] [hoch] Red Hat Enterprise Linux: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4542)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-11-12T12:57:01+00:00`, fetched `2026-11-12T13:00:41+00:00`
