@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-12T12:04:09Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Cisco Expressway: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
+  "generated_at": "2026-11-12T12:23:18Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Drupal Core und Erweiterungen: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,61 @@
   ],
   "top_dynamics": [
     {
+      "title": "[NEU] [hoch] Drupal Core und Erweiterungen: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4527",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-12T12:12:01+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe, code",
+        "security high-signal: angriffe, code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Drupal ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren und offenzulegen oder Cross-Site-Scripting-Angriffe durchzuführen."
+    },
+    {
+      "title": "[NEU] [mittel] Palo Alto Networks PAN-OS: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4526",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-12T12:07:01+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code, pan-os, palo",
+        "security high-signal: code, pan-os, palo, alto"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Palo Alto Networks PAN-OS ausnutzen, um Informationen offenzulegen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Daten zu manipulieren, um Sicherheitsvorkehrungen zu umgehen und um beliebigen Programmcode mit Administratorrechten aus…"
+    },
+    {
       "title": "[UPDATE] [hoch] Cisco Expressway: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4105",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T11:52:01+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -40,7 +90,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4453",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T09:20:17+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -65,7 +115,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4481",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T09:20:16+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -93,7 +143,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4522",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T11:57:01+00:00",
-      "age_days": 0.0,
+      "age_days": 0.02,
       "topics": [
         "ai",
         "security"
@@ -120,7 +170,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4455",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T10:17:01+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -146,7 +196,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4524",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T11:57:01+00:00",
-      "age_days": 0.0,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -171,7 +221,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4521",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T11:42:01+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -196,7 +246,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4443",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T10:52:22+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -221,7 +271,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1481",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T08:47:20+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -246,7 +296,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1270",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T08:47:06+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -265,61 +315,6 @@
         "official security but no high-signal phrase: capped at strong"
       ],
       "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen."
-    },
-    {
-      "title": "GoogleChrome/modern-web-guidance-src",
-      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-11-12T08:26:08+00:00",
-      "age_days": 0.15,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: rce, code, auth",
-        "security high-signal: rce, code, auth",
-        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
-      ],
-      "summary": "https://goo.gle/modern-web-guidance Modern Web Guidance (Source) This repo is the source repository for GoogleChrome/modern-web-guidance and includes the code and documentation for authoring, calibrating, and evaluating its contents. Modern Web Guidance is a set of skills that embed web platform expertise, best practi…"
-    },
-    {
-      "title": "AI agents can hand over working code and still lose the decision that made it right",
-      "url": "https://e27.co/ai-agents-can-hand-over-working-code-and-still-lose-the-decision-that-made-it-right-20261106/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-12T03:00:55+00:00",
-      "age_days": 0.38,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: local",
-        "high terms: code, 10",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "An AI agent can finish its task, hand over working code, and still leave the next agent with the wrong understanding of what to build. Consider a hypothetical mobile app team. The team decides that people must be able to record a workout without an account. One agent implements local storage. Another later adds synchr…"
     }
   ],
   "read_order": [
@@ -331,8 +326,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "krass": 2,
-      "strong": 10
+      "krass": 4,
+      "strong": 8
     }
   }
 }

@@ -100,5 +100,142 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “[UPDATE] [hoch] Microsoft Developer Tools: Mehrere Schwachstellen” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=41.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "[UPDATE] [hoch] Microsoft Developer Tools: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4481",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T09:20:16+00:00",
+        "age_days": 0.13,
+        "topics": [
+          "axiom",
+          "security"
+        ],
+        "dynamics_score": 41.0,
+        "raw_band": "extreme",
+        "dynamic_band": "extreme",
+        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: code, auth",
+          "security high-signal: code, auth",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Microsoft Azure, Microsoft Azure DevOps Server, Microsoft PowerShell, Microsoft ASP.NET, Microsoft .NET, Microsoft 365 Apps, Microsoft Visual Studio 2022, Microsoft Visual Studio 2026 und Microsoft Visual Studio Code ausnutzen, um seine Privilegi…"
+      },
+      {
+        "title": "[NEU] [hoch] Drupal Core und Erweiterungen: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4527",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T12:12:01+00:00",
+        "age_days": 0.01,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 31.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: angriffe, code",
+          "security high-signal: angriffe, code"
+        ],
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Drupal ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren und offenzulegen oder Cross-Site-Scripting-Angriffe durchzuführen."
+      },
+      {
+        "title": "[NEU] [mittel] Palo Alto Networks PAN-OS: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4526",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T12:07:01+00:00",
+        "age_days": 0.01,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 31.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: code, pan-os, palo",
+          "security high-signal: code, pan-os, palo, alto"
+        ],
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Palo Alto Networks PAN-OS ausnutzen, um Informationen offenzulegen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Daten zu manipulieren, um Sicherheitsvorkehrungen zu umgehen und um beliebigen Programmcode mit Administratorrechten aus…"
+      },
+      {
+        "title": "[NEU] [mittel] LiteLLM: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4522",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T11:57:01+00:00",
+        "age_days": 0.02,
+        "topics": [
+          "ai",
+          "security"
+        ],
+        "dynamics_score": 31.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: auth",
+          "security high-signal: auth"
+        ],
+        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in LiteLLM ausnutzen, um Informationen offenzulegen."
+      },
+      {
+        "title": "[UPDATE] [hoch] Cisco Expressway: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4105",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T11:52:01+00:00",
+        "age_days": 0.02,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 31.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: code, 10, root",
+          "security high-signal: code, 10, root"
+        ],
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Cisco Expressway ausnutzen, um beliebigen Code auszuführen – sogar mit Root-Rechten –, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand zu verursachen."
+      }
+    ]
+  }
 }
