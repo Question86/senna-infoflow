@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-12T20:43:27+00:00_
+_Generiert: 2026-11-12T20:48:55+00:00_
 
 ## Kurzlage
 
-97 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+98 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -195,6 +195,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); macro (+2.0); recent (+1.0); watchgraph region europe: London (+2.0); watchgraph region usa: Federal Reserve (+2.0)
   - Kurz: Speech by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at the Bank of England Watchers Conference, hosted by King’s Business School and Money, Macro and Finance Society, London, 10 November 2026.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **M 4.9 - 41 km N of Weining, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txvw)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-12T20:48:18.040+00:00`, fetched `2026-11-12T20:48:29+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-11-12 20:03:14 UTC 2026-11-12 20:03:14 UTC at epicenter Location 27.224°N 104.191°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **2026-020: Critical Vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway** — Score 11, risk — [Quelle](https://cert.europa.eu/publications/security-advisories/2026-020/)
   - Quelle: CERT-EU Security Advisories / `rss`
   - Zeit: published `2026-11-12T18:20:53+00:00`, fetched `2026-11-12T17:23:10+00:00`
@@ -248,15 +257,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
   - Kurz: De multiples vulnérabilités ont été découvertes dans Mozilla Firefox. Elles permettent à un attaquant de provoquer une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Multiples vulnérabilités dans les produits VMware (09 novembre 2026)** — Score 10, observation — [Quelle](https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1486/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-11-09T00:00:00+00:00`, fetched `2026-11-12T15:24:47+00:00`
-  - Treffer: avis, CERT-FR, sécurité, vulnérabilité, éditeur
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
