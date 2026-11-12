@@ -1,20 +1,18 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-12T15:17:16Z",
+  "generated_at": "2026-11-12T15:46:53Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 2,
-      "krass": 17,
-      "strong": 20,
-      "watch": 1
+      "krass": 19,
+      "strong": 19
     },
     "bands_after_gate_recheck": {
       "krass": 6,
-      "strong": 33,
-      "watch": 1
+      "strong": 34
     }
   },
   "top_dynamics": [
@@ -23,7 +21,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4542",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T12:57:01+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -48,7 +46,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4540",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T12:27:01+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -73,7 +71,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4527",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T12:12:01+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -98,7 +96,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4526",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T12:07:01+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -123,7 +121,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4105",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T11:52:01+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -148,7 +146,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4453",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T09:20:17+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -173,7 +171,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4451",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T09:20:17+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "security",
         "macro"
@@ -200,7 +198,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4541",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T12:52:00+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -224,7 +222,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4462",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T12:32:01+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -248,7 +246,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4536",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T12:22:01+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -272,7 +270,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4535",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T12:22:00+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -296,7 +294,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4528",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T12:12:01+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -320,7 +318,7 @@
       "url": "https://jvn.jp/jp/JVN64740097/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-12T12:00:00+09:00",
-      "age_days": 0.51,
+      "age_days": 0.53,
       "topics": [
         "ai",
         "security"
@@ -345,7 +343,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4523",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T11:57:01+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -369,7 +367,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4525",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T11:57:01+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -393,7 +391,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4520",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T11:42:00+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -417,7 +415,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4452",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T09:20:17+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -441,7 +439,7 @@
       "url": "https://jvn.jp/vu/JVNVU90805396/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-12T09:00:00+09:00",
-      "age_days": 0.64,
+      "age_days": 0.66,
       "topics": [
         "security"
       ],
@@ -465,7 +463,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1502",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T08:47:21+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -489,7 +487,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4516",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T06:12:05+00:00",
-      "age_days": 0.38,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -509,11 +507,88 @@
       "summary": "Ein entfernter Angreifer kann mehrere Schwachstellen in Contao ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Informationen zu erlangen, Dateien zu manipulieren oder Cross-site-scripting auszuführen."
     },
     {
+      "title": "Multiples vulnérabilités dans les produits Apple (10 novembre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1487/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-11-10T00:00:00+00:00",
+      "age_days": 2.66,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 25.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "security high-signal: 10"
+      ],
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité."
+    },
+    {
+      "title": "Multiples vulnérabilités dans le greffon OpenID Connect OpenID Provider (OIDC OP) pour Shibboleth (10 novembre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1491/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-11-10T00:00:00+00:00",
+      "age_days": 2.66,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 25.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "security high-signal: 10"
+      ],
+      "summary": "De multiples vulnérabilités ont été découvertes dans le greffon OpenID Connect OpenID Provider (OIDC OP) pour Shibboleth. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité."
+    },
+    {
+      "title": "Multiples vulnérabilités dans Roundcube (10 novembre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1489/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-11-10T00:00:00+00:00",
+      "age_days": 2.66,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 25.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code, 10",
+        "security high-signal: code, 10"
+      ],
+      "summary": "De multiples vulnérabilités ont été découvertes dans Roundcube. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une falsification de requêtes côté serveur (SSRF) et une injection de requêtes illégitimes par rebond (CSRF)."
+    },
+    {
       "title": "[UPDATE] [hoch] Microsoft Developer Tools: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4481",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T09:20:16+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -537,11 +612,37 @@
       "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Microsoft Azure, Microsoft Azure DevOps Server, Microsoft PowerShell, Microsoft ASP.NET, Microsoft .NET, Microsoft 365 Apps, Microsoft Visual Studio 2022, Microsoft Visual Studio 2026 und Microsoft Visual Studio Code ausnutzen, um seine Privilegi…"
     },
     {
+      "title": "Multiples vulnérabilités dans Google Chrome (10 novembre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1488/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-11-10T00:00:00+00:00",
+      "age_days": 2.66,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: active, 10",
+        "security high-signal: active, 10",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. Google indique que la vulnérabilité CVE-2026-125350 est activement exploitée."
+    },
+    {
       "title": "[NEU] [mittel] nginx-ui: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4539",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T12:27:01+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -567,7 +668,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4538",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T12:22:03+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -593,7 +694,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4537",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T12:22:01+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -619,7 +720,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4522",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T11:57:01+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "security"
@@ -646,7 +747,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4455",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T10:17:01+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -672,7 +773,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4524",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T11:57:01+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -697,7 +798,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4521",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T11:42:01+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -722,7 +823,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4443",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T10:52:22+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -747,7 +848,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1481",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T08:47:20+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -772,7 +873,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1270",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T08:47:06+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -793,11 +894,37 @@
       "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen."
     },
     {
+      "title": "Multiples vulnérabilités dans Mozilla Firefox (10 novembre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1490/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-11-10T00:00:00+00:00",
+      "age_days": 2.66,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "security high-signal: 10",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "De multiples vulnérabilités ont été découvertes dans Mozilla Firefox. Elles permettent à un attaquant de provoquer une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur."
+    },
+    {
       "title": "GoogleChrome/modern-web-guidance-src",
       "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-12T08:26:08+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -823,7 +950,7 @@
       "url": "https://e27.co/ai-agents-can-hand-over-working-code-and-still-lose-the-decision-that-made-it-right-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-12T03:00:55+00:00",
-      "age_days": 0.51,
+      "age_days": 0.53,
       "topics": [
         "ai",
         "macro"
@@ -852,7 +979,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 146.55,
+      "age_days": 146.58,
       "topics": [
         "ai"
       ],
@@ -881,7 +1008,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-11-12T13:48:29+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "macro",
@@ -904,136 +1031,6 @@
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan"
-    },
-    {
-      "title": "The economic outlook and some thoughts on labor market dynamism",
-      "url": "https://www.bis.org/speeches/20261112-economic-outlook-and-some-thoughts-labor-market-dynamism",
-      "source": "BIS Central Bankers Speeches",
-      "published_at": "2026-11-12T00:00:00+00:00",
-      "age_days": 0.64,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Speech by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at the Bank of England Watchers Conference, hosted by King’s Business School and Money, Macro and Finance Society, London, 10 November 2026."
-    },
-    {
-      "title": "Angreifer können Citrix NetScaler ADC und NetScaler Gateway lahmlegen",
-      "url": "https://www.heise.de/news/Angreifer-koennen-Citrix-NetScaler-ADC-und-NetScaler-Gateway-lahmlegen-11522940.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-11-12T14:24:00.000+00:00",
-      "age_days": 0.04,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: citrix",
-        "security high-signal: citrix"
-      ],
-      "summary": "Um mehrere Sicherheitslücken zu schließen, müssen Admins ihre Installation von Citrix NetScaler ADC und NetScaler Gateway auf den aktuellen Stand bringen."
-    },
-    {
-      "title": "Monitoring-Software Checkmk: Updates schließen kritische Codeschmuggel-Lecks",
-      "url": "https://www.heise.de/news/Monitoring-Software-Checkmk-Updates-schliessen-kritische-Codeschmuggel-Lecks-11522043.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-11-12T11:16:00.000+00:00",
-      "age_days": 0.17,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: kritisch, code",
-        "security high-signal: kritisch, code"
-      ],
-      "summary": "Updates für die Monitoring-Software Checkmk schließen kritische Sicherheitslücken. Angreifer können dadurch Schadcode einschleusen."
-    },
-    {
-      "title": "The science and practice of monetary policy communication - the European Central Bank experience",
-      "url": "https://www.bis.org/speeches/20261112-science-and-practice-monetary-policy-communication-european-central-bank-experience",
-      "source": "BIS Central Bankers Speeches",
-      "published_at": "2026-11-12T00:00:00+00:00",
-      "age_days": 0.64,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 24.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Keynote speech by Philip R Lane, Member of the Executive Board of the European Central Bank, at the Bank of England Watchers Conference, hosted by King’s Business School and Money, Macro and Finance Society, London, 10 November 2026."
-    },
-    {
-      "title": "Zoom für Windows: Angreifer können Rechte über das Netz ausweiten",
-      "url": "https://www.heise.de/news/Zoom-fuer-Windows-Angreifer-koennen-Rechte-ueber-das-Netz-ausweiten-11522500.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-11-12T14:47:00.000+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: security"
-      ],
-      "summary": "Mit aktualisierten Paketen beseitigt Zoom zwei gravierende Sicherheitslücken in der Windows-Version, die die Rechteausweitung ermöglichen."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Red Hat Enterprise Linux: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
