@@ -94,6 +94,30 @@
     "id": "c1558072e400bb466b61"
   },
   {
+    "title": "[NEU] [UNGEPATCHT] [hoch] PTC FlexPLM: Schwachstelle ermöglicht Codeausführung",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4540",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-12T12:27:01+00:00",
+    "fetched_at": "2026-11-12T12:30:54+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in PTC FlexPLM und PTC Windchill ausnutzen, um beliebigen Programmcode auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Patch",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d49d9b561d084ea70e36"
+  },
+  {
     "title": "[NEU] [UNGEPATCHT] [mittel] BusyBox: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4524",
     "source": "BSI CERT-Bund Security Advisories",
@@ -295,6 +319,121 @@
       "LOW"
     ],
     "id": "e2cb3a3e6eebf0a5fd8c"
+  },
+  {
+    "title": "[NEU] [mittel] nginx-ui: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4539",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-12T12:27:01+00:00",
+    "fetched_at": "2026-11-12T12:30:54+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in nginx-ui ausnutzen, um Sicherheitsvorkehrungen zu umgehen oder Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "abc54a787c9312359207"
+  },
+  {
+    "title": "[NEU] [mittel] OPNsense: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4538",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-12T12:22:03+00:00",
+    "fetched_at": "2026-11-12T12:30:54+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in OPNsense ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen, Sicherheitsvorkehrungen zu umgehen, einen Denial-of-Service-Zustand herbeizuführen oder Dateien zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9e1c2a1ca4bab87e28d6"
+  },
+  {
+    "title": "[NEU] [mittel] Extreme Networks ExtremeXOS: Schwachstelle ermöglicht Offenlegung von Informationen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4537",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-12T12:22:01+00:00",
+    "fetched_at": "2026-11-12T12:30:54+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Extreme Networks ExtremeXOS ausnutzen, um Sicherheitsvorkehrungen zu umgehen und Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d778a8fa47d8870dd827"
+  },
+  {
+    "title": "[NEU] [mittel] Apache Axis2: Schwachstelle ermöglicht Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4536",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-12T12:22:01+00:00",
+    "fetched_at": "2026-11-12T12:30:54+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Apache Axis2 ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1424464516d876d231a1"
+  },
+  {
+    "title": "[NEU] [mittel] Traefik: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4535",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-12T12:22:00+00:00",
+    "fetched_at": "2026-11-12T12:30:54+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Traefik ausnutzen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Daten zu manipulieren und um Sicherheitsvorkehrungen zu umgehen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "840e902f7d85a63de30f"
   },
   {
     "title": "[NEU] [hoch] rsyslog: Schwachstelle ermöglicht SQL-Injection",
@@ -1262,6 +1401,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "f732fe26f21b523175db"
+  },
+  {
+    "title": "AWS Emulator がリリースされたので試してみた | DevelopersIO",
+    "url": "https://dev.classmethod.jp/articles/aws-emulator-local-try/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-11-12T03:47:53+00:00",
+    "fetched_at": "2026-11-12T12:30:54+00:00",
+    "summary": "AWS が公開したローカル用エミュレータ AWS Emulator を Docker で起動し、S3・SQS・DynamoDB・Lambda の基本操作を試しました。起動にかかった時間は約0.26秒、アイドル時のメモリ使用量は約174MiB でした。 はじめに AWS は2026年11月11日に、ローカル用のエミュレータ AWS Emulator の提供開始を発表しました。 この...",
+    "matched_keywords": [
+      "developer",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); developer (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "fef01104a19a5d06dc06"
   },
   {
     "title": "Competitiveness and resilience in the financial sector - oxymoron or complementarity?",

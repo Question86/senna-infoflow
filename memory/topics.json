@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-12T12:20:09+00:00",
+  "generated_at": "2026-11-12T12:31:27+00:00",
   "topics": {
     "security": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-11-12T09:20:17+00:00",
         "relevance_score": 21,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4451"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [hoch] PTC FlexPLM: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T12:27:01+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4540"
       },
       {
         "title": "[NEU] [UNGEPATCHT] [mittel] BusyBox: Mehrere Schwachstellen",
@@ -54,25 +61,18 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1270"
       },
       {
-        "title": "[NEU] [hoch] rsyslog: Schwachstelle ermöglicht SQL-Injection",
+        "title": "[NEU] [mittel] nginx-ui: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T12:12:01+00:00",
+        "published_at": "2026-11-12T12:27:01+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4528"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4539"
       },
       {
-        "title": "[NEU] [hoch] Drupal Core und Erweiterungen: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] OPNsense: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T12:12:01+00:00",
+        "published_at": "2026-11-12T12:22:03+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4527"
-      },
-      {
-        "title": "[NEU] [mittel] Palo Alto Networks PAN-OS: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T12:07:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4526"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4538"
       }
     ],
     "ai": [
@@ -221,6 +221,13 @@
     ],
     "geopolitics": [
       {
+        "title": "[NEU] [UNGEPATCHT] [hoch] PTC FlexPLM: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T12:27:01+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4540"
+      },
+      {
         "title": "[NEU] [UNGEPATCHT] [mittel] BusyBox: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-12T11:57:01+00:00",
@@ -235,6 +242,41 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4521"
       },
       {
+        "title": "[NEU] [mittel] nginx-ui: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T12:27:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4539"
+      },
+      {
+        "title": "[NEU] [mittel] OPNsense: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T12:22:03+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4538"
+      },
+      {
+        "title": "[NEU] [mittel] Extreme Networks ExtremeXOS: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T12:22:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4537"
+      },
+      {
+        "title": "[NEU] [mittel] Apache Axis2: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T12:22:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4536"
+      },
+      {
+        "title": "[NEU] [mittel] Traefik: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T12:22:00+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4535"
+      },
+      {
         "title": "[NEU] [hoch] rsyslog: Schwachstelle ermöglicht SQL-Injection",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-12T12:12:01+00:00",
@@ -247,48 +289,6 @@
         "published_at": "2026-11-12T12:12:01+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4527"
-      },
-      {
-        "title": "[NEU] [mittel] Palo Alto Networks PAN-OS: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T12:07:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4526"
-      },
-      {
-        "title": "[NEU] [mittel] LiteLLM: Schwachstelle ermöglicht Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T11:57:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4522"
-      },
-      {
-        "title": "[NEU] [mittel] Laravel: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T11:57:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4523"
-      },
-      {
-        "title": "[NEU] [hoch] Node.js: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T11:57:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4525"
-      },
-      {
-        "title": "[NEU] [mittel] Devolutions Server: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T11:42:00+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4520"
-      },
-      {
-        "title": "Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年11月11日）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-12T09:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU90805396/"
       }
     ],
     "general": [
@@ -335,6 +335,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txqa"
       },
       {
+        "title": "AWS Emulator がリリースされたので試してみた | DevelopersIO",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-12T03:47:53+00:00",
+        "relevance_score": 8,
+        "url": "https://dev.classmethod.jp/articles/aws-emulator-local-try/"
+      },
+      {
         "title": "Manila has a Series B boom and a Series A funeral. Mynt’s record IPO won’t fix that",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-11-12T09:17:02+00:00",
@@ -354,13 +361,6 @@
         "published_at": "2026-11-12T08:34:31+00:00",
         "relevance_score": 5,
         "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003144/"
-      },
-      {
-        "title": "Mozkey（もずきー）| 書くことに集中できる、日本語入力。",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-12T02:13:52+00:00",
-        "relevance_score": 5,
-        "url": "https://koyasi777.com/mozkey/"
       }
     ],
     "github": [
