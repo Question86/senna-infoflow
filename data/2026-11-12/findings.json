@@ -297,6 +297,75 @@
     "id": "e2cb3a3e6eebf0a5fd8c"
   },
   {
+    "title": "[NEU] [hoch] rsyslog: Schwachstelle ermöglicht SQL-Injection",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4528",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-12T12:12:01+00:00",
+    "fetched_at": "2026-11-12T12:19:39+00:00",
+    "summary": "Ein Angreifer kann eine Schwachstelle in rsyslog ausnutzen, um SQL-Injection durchzuführen und Dateien zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "27b8c1e2471883930540"
+  },
+  {
+    "title": "[NEU] [hoch] Drupal Core und Erweiterungen: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4527",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-12T12:12:01+00:00",
+    "fetched_at": "2026-11-12T12:19:39+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Drupal ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren und offenzulegen oder Cross-Site-Scripting-Angriffe durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "503563f2ddd2492e5683"
+  },
+  {
+    "title": "[NEU] [mittel] Palo Alto Networks PAN-OS: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4526",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-12T12:07:01+00:00",
+    "fetched_at": "2026-11-12T12:19:39+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Palo Alto Networks PAN-OS ausnutzen, um Informationen offenzulegen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Daten zu manipulieren, um Sicherheitsvorkehrungen zu umgehen und um beliebigen Programmcode mit Administratorrechten auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6681e325ff524b4f8244"
+  },
+  {
     "title": "SoftBank製Airターミナル6におけるOSコマンドインジェクションの脆弱性",
     "url": "https://jvn.jp/jp/JVN64740097/",
     "source": "JVN Japan Vulnerability Notes",

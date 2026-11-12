@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-12T12:01:58+00:00",
+  "generated_at": "2026-11-12T12:20:09+00:00",
   "topics": {
     "security": [
       {
@@ -54,25 +54,25 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1270"
       },
       {
-        "title": "SoftBank製Airターミナル6におけるOSコマンドインジェクションの脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-12T12:00:00+09:00",
+        "title": "[NEU] [hoch] rsyslog: Schwachstelle ermöglicht SQL-Injection",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T12:12:01+00:00",
         "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN64740097/"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4528"
       },
       {
-        "title": "[NEU] [mittel] LiteLLM: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "title": "[NEU] [hoch] Drupal Core und Erweiterungen: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T11:57:01+00:00",
+        "published_at": "2026-11-12T12:12:01+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4522"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4527"
       },
       {
-        "title": "[NEU] [mittel] Laravel: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
+        "title": "[NEU] [mittel] Palo Alto Networks PAN-OS: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T11:57:01+00:00",
+        "published_at": "2026-11-12T12:07:01+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4523"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4526"
       }
     ],
     "ai": [
@@ -235,6 +235,27 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4521"
       },
       {
+        "title": "[NEU] [hoch] rsyslog: Schwachstelle ermöglicht SQL-Injection",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T12:12:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4528"
+      },
+      {
+        "title": "[NEU] [hoch] Drupal Core und Erweiterungen: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T12:12:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4527"
+      },
+      {
+        "title": "[NEU] [mittel] Palo Alto Networks PAN-OS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T12:07:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4526"
+      },
+      {
         "title": "[NEU] [mittel] LiteLLM: Schwachstelle ermöglicht Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-12T11:57:01+00:00",
@@ -268,27 +289,6 @@
         "published_at": "2026-11-12T09:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU90805396/"
-      },
-      {
-        "title": "[NEU] [hoch] Contao: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T06:12:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4516"
-      },
-      {
-        "title": "Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-12T01:43:30+00:00",
-        "relevance_score": 11,
-        "url": "https://zenn.dev/ubie_dev/articles/45501469c9c044"
-      },
-      {
-        "title": "The science and practice of monetary policy communication - the European Central Bank experience",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-11-12T00:00:00+00:00",
-        "relevance_score": 11,
-        "url": "https://www.bis.org/speeches/20261112-science-and-practice-monetary-policy-communication-european-central-bank-experience"
       }
     ],
     "general": [
