@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T09:28:16+00:00",
-  "run_id": "2026-11-12T09:28:16+00:00",
+  "generated_at": "2026-11-12T09:34:52+00:00",
+  "run_id": "2026-11-12T09:34:52+00:00",
   "date": "2026-11-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 50,
     "displayed_findings": 50,
     "high": 0,
@@ -2523,29 +2523,7 @@
       "id": "316db8dc6e1fd8245045"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AI支援型リバースエンジニアリング、早くも終焉？ AIが指示に従わなくなったとの報告が続々【やじうまWatch】",
-      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2155772.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-12T02:55:38+00:00",
-      "fetched_at": "2026-11-12T09:27:41+00:00",
-      "summary": "AI支援型リバースエンジニアリング、早くも終焉？ AIが指示に従わなくなったとの報告が続々【やじうまWatch】",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2c3d0fa4b3bb06c95dbf"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
