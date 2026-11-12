@@ -100,5 +100,140 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “GoogleChrome/modern-web-guidance-src” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=27.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "GoogleChrome/modern-web-guidance-src",
+        "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": "2026-11-12T08:26:08+00:00",
+        "age_days": 0.01,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 27.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: rce, code, auth",
+          "security high-signal: rce, code, auth"
+        ],
+        "summary": "https://goo.gle/modern-web-guidance Modern Web Guidance (Source) This repo is the source repository for GoogleChrome/modern-web-guidance and includes the code and documentation for authoring, calibrating, and evaluating its contents. Modern Web Guidance is a set of skills that embed web platform expertise, best practi…"
+      },
+      {
+        "title": "AI agents can hand over working code and still lose the decision that made it right",
+        "url": "https://e27.co/ai-agents-can-hand-over-working-code-and-still-lose-the-decision-that-made-it-right-20261106/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-12T03:00:55+00:00",
+        "age_days": 0.24,
+        "topics": [
+          "axiom",
+          "ai",
+          "macro"
+        ],
+        "dynamics_score": 35.0,
+        "raw_band": "extreme",
+        "dynamic_band": "extreme",
+        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: local",
+          "high terms: code, 10",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "An AI agent can finish its task, hand over working code, and still leave the next agent with the wrong understanding of what to build. Consider a hypothetical mobile app team. The team decides that people must be able to record a workout without an account. One agent implements local storage. Another later adds synchr…"
+      },
+      {
+        "title": "SoftBank製Airターミナル6におけるOSコマンドインジェクションの脆弱性",
+        "url": "https://jvn.jp/jp/JVN64740097/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-12T12:00:00+09:00",
+        "age_days": 0.24,
+        "topics": [
+          "ai",
+          "security"
+        ],
+        "dynamics_score": 26.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "security high-signal: jvn, security"
+        ],
+        "summary": "ソフトバンク株式会社が提供するAirターミナル6には、OSコマンドインジェクションの脆弱性が存在します。"
+      },
+      {
+        "title": "Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年11月11日）",
+        "url": "https://jvn.jp/vu/JVNVU90805396/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-11-12T09:00:00+09:00",
+        "age_days": 0.37,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 26.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "security high-signal: jvn, security"
+        ],
+        "summary": "The Apache Software Foundationから、Apache HTTP Server 2.4系における複数の脆弱性に対応したApache HTTP Server 2.4.71が公開されました。"
+      },
+      {
+        "title": "[NEU] [hoch] Contao: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4516",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T06:12:05+00:00",
+        "age_days": 0.11,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 26.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "security high-signal: cert-bund, bsi, security, advisory"
+        ],
+        "summary": "Ein entfernter Angreifer kann mehrere Schwachstellen in Contao ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Informationen zu erlangen, Dateien zu manipulieren oder Cross-site-scripting auszuführen."
+      }
+    ]
+  }
 }

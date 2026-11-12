@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-12T08:21:29Z",
+  "generated_at": "2026-11-12T08:46:38Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “SoftBank製Airターミナル6におけるOSコマンドインジェクションの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/jp/JVN64740097/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-12T12:00:00+09:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "ai",
         "security"
@@ -40,7 +40,7 @@
       "url": "https://jvn.jp/vu/JVNVU90805396/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-12T09:00:00+09:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -64,7 +64,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4516",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-12T06:12:05+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -84,11 +84,37 @@
       "summary": "Ein entfernter Angreifer kann mehrere Schwachstellen in Contao ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Informationen zu erlangen, Dateien zu manipulieren oder Cross-site-scripting auszuführen."
     },
     {
+      "title": "GoogleChrome/modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-11-12T08:26:08+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce, code, auth",
+        "security high-signal: rce, code, auth",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "https://goo.gle/modern-web-guidance Modern Web Guidance (Source) This repo is the source repository for GoogleChrome/modern-web-guidance and includes the code and documentation for authoring, calibrating, and evaluating its contents. Modern Web Guidance is a set of skills that embed web platform expertise, best practi…"
+    },
+    {
       "title": "AI agents can hand over working code and still lose the decision that made it right",
       "url": "https://e27.co/ai-agents-can-hand-over-working-code-and-still-lose-the-decision-that-made-it-right-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-12T03:00:55+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "ai",
         "macro"
@@ -117,7 +143,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 146.27,
+      "age_days": 146.28,
       "topics": [
         "ai"
       ],
@@ -146,7 +172,7 @@
       "url": "https://www.bis.org/speeches/20261112-economic-outlook-and-some-thoughts-labor-market-dynamism",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-11-12T00:00:00+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "macro"
@@ -174,7 +200,7 @@
       "url": "https://www.bis.org/speeches/20261112-science-and-practice-monetary-policy-communication-european-central-bank-experience",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-11-12T00:00:00+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "macro"
@@ -202,7 +228,7 @@
       "url": "https://www.bis.org/speeches/20261112-low-gear-labour-market",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-11-12T00:00:00+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "macro"
@@ -230,7 +256,7 @@
       "url": "https://www.bis.org/speeches/20261112-one-policy-many-realities-why-differences-matter-monetary-policy",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-11-12T00:00:00+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "macro"
       ],
@@ -256,7 +282,7 @@
       "url": "https://www.bis.org/speeches/20261112-foundations-innovative-and-resilient-capital-markets",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-11-12T00:00:00+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "macro"
       ],
@@ -281,7 +307,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txqx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-12T04:28:21.040+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -299,33 +325,6 @@
         "early terms: earthquake"
       ],
       "summary": "Time 2026-11-12 04:07:32 UTC 2026-11-12 04:07:32 UTC at epicenter Location 40.359°N 143.612°E Depth 33.04 km (20.53 mi)"
-    },
-    {
-      "title": "Your finance team’s ChatGPT habit is a cross-border data transfer",
-      "url": "https://e27.co/your-finance-teams-chatgpt-habit-is-a-cross-border-data-transfer-20261106/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-12T04:30:26+00:00",
-      "age_days": 0.16,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Last week I sat with the CEO and CFO of a finance company that is genuinely top of its game in this region. Sophisticated operators. Strong compliance culture on paper. 10 minutes into the conversation, it emerged that their team pastes customer records, financial statements, and internal strategy documents into consu…"
     }
   ],
   "read_order": [
@@ -337,8 +336,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 9,
-      "watch": 3
+      "strong": 10,
+      "watch": 2
     }
   }
 }
