@@ -1450,6 +1450,28 @@
     "id": "96f9579e294f3d7d3564"
   },
   {
+    "title": "WebサイトをAgent Readyにしよう",
+    "url": "https://unvalley.me/ja/blog/1793627906",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-11-12T09:11:18+00:00",
+    "fetched_at": "2026-11-12T14:17:42+00:00",
+    "summary": "AIエージェントがWebサイトを読むことが当たり前になりました。 僕は過去にあるWebサイトを公開していたのですが、その時Vibe Codingによる実装ミスをしていて完全にやらかしたことがあります。そんなことに懲りずに、この記事ではWebサイトをAgent Readyにしていきます。ここでいうAgent Readyは、「エージェントがWeb...",
+    "matched_keywords": [
+      "agent",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "008f2c7f0ba66e73d9d8"
+  },
+  {
     "title": "MetaのAIエージェント「Muse」に課金して使い倒した結果の、小ネタと生存戦略 - はげあたま.org",
     "url": "https://www.hageatama.org/20261112/1794464751",
     "source": "Hatena Bookmark Hotentry IT",
