@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-12T01:46:35+00:00_
+_Generiert: 2026-11-12T01:52:05+00:00_
 
 ## Kurzlage
 
-6 neue relevante Treffer. Stärkstes Signal: „Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年11月11日）“ aus JVN Japan Vulnerability Notes (Score 14, risk).
+6 neue relevante Treffer. Stärkstes Signal: „Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年11月11日）“ aus JVN Japan Vulnerability Notes (Score 14, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -77,3 +77,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f83cf80f210>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
