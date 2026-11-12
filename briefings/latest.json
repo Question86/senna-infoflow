@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T19:13:08+00:00",
-  "run_id": "2026-11-12T19:13:08+00:00",
+  "generated_at": "2026-11-12T19:24:12+00:00",
+  "run_id": "2026-11-12T19:24:12+00:00",
   "date": "2026-11-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 93
+      "configured_public_sources_only": 94
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 93,
-    "displayed_findings": 93,
+    "new_relevant_findings": 1,
+    "today_file_total": 94,
+    "displayed_findings": 94,
     "high": 0,
     "medium": 38,
-    "observe": 55,
+    "observe": 56,
     "source_errors": 0
   },
   "sections": {
@@ -2108,6 +2108,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "809bf64365a42011f70a"
+      },
+      {
+        "title": "NVIDIA Announces CEO Transition",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-12T14:14:39+00:00",
+        "fetched_at": "2026-11-12T19:23:42+00:00",
+        "summary": "Jensen Huang Resigns Colette Kress, Executive Vice President and Chief Financial Officer, Appointed Interim CEO Harvey C. Jones Appointed First-Ever Chair of the Board NVIDIA (NASDAQ: NVDA) Board of Directors announced today that Jensen Huang has resigned as President, Chief Executive Officer, an...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8e9a36541a3eeb634673"
       },
       {
         "title": "そのヤバいDockerイメージをいつまで使うのか - keroxpのScrapbox",
@@ -4398,6 +4419,27 @@
       "id": "809bf64365a42011f70a"
     },
     {
+      "title": "NVIDIA Announces CEO Transition",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-12T14:14:39+00:00",
+      "fetched_at": "2026-11-12T19:23:42+00:00",
+      "summary": "Jensen Huang Resigns Colette Kress, Executive Vice President and Chief Financial Officer, Appointed Interim CEO Harvey C. Jones Appointed First-Ever Chair of the Board NVIDIA (NASDAQ: NVDA) Board of Directors announced today that Jensen Huang has resigned as President, Chief Executive Officer, an...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8e9a36541a3eeb634673"
+    },
+    {
       "title": "そのヤバいDockerイメージをいつまで使うのか - keroxpのScrapbox",
       "url": "https://scrapbox.io/keroxp/%E3%81%9D%E3%81%AE%E3%83%A4%E3%83%90%E3%81%84Docker%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%82%92%E3%81%84%E3%81%A4%E3%81%BE%E3%81%A7%E4%BD%BF%E3%81%86%E3%81%AE%E3%81%8B",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4605,7 +4647,29 @@
       "id": "316db8dc6e1fd8245045"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "NVIDIA Announces CEO Transition",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-12T14:14:39+00:00",
+      "fetched_at": "2026-11-12T19:23:42+00:00",
+      "summary": "Jensen Huang Resigns Colette Kress, Executive Vice President and Chief Financial Officer, Appointed Interim CEO Harvey C. Jones Appointed First-Ever Chair of the Board NVIDIA (NASDAQ: NVDA) Board of Directors announced today that Jensen Huang has resigned as President, Chief Executive Officer, an...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8e9a36541a3eeb634673"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
