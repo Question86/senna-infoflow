@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-12T21:59:59+00:00_
+_Generiert: 2026-11-12T22:10:14+00:00_
 
 ## Kurzlage
 
-99 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+103 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -93,6 +93,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
   - Kurz: De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. Google indique que la vulnérabilité CVE-2026-125350 est activement exploitée.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Updates to the Data Download Program (DDP)** — Score 15, observation — [Quelle](http://www.federalreserve.gov/feeds/PRATES.html#3979)
+  - Quelle: Federal Reserve Policy Rates Feed / `rss`
+  - Zeit: published `2026-11-12T17:07:00-05:00`, fetched `2026-11-12T22:09:45+00:00`
+  - Treffer: Macro/Policy, policy rates, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); Public Health (+5.0); policy rates (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: As announced on July 16, today the Build Your Package function in the Data Download Program has been retired.As part of our continued efforts to streamline, the Board plans to remove the preformatted data package option on March 31, 2027, in preparation for the July 1, 2027, DDP page removal. Users who rely on preformatted data package can access expanded data retrieval functionality through the Federal Reserve Bank…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Updates to the Data Download Program (DDP)** — Score 15, observation — [Quelle](http://www.federalreserve.gov/feeds/H15.html#3979)
+  - Quelle: Federal Reserve Selected Interest Rates H.15 / `rss`
+  - Zeit: published `2026-11-12T17:07:00-05:00`, fetched `2026-11-12T22:09:45+00:00`
+  - Treffer: H.15, Macro/Policy, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); Public Health (+5.0); H.15 (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: As announced on July 16, today the Build Your Package function in the Data Download Program has been retired.As part of our continued efforts to streamline, the Board plans to remove the preformatted data package option on March 31, 2027, in preparation for the July 1, 2027, DDP page removal. Users who rely on preformatted data package can access expanded data retrieval functionality through the Federal Reserve Bank…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.8 - 155 km E of Noda, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txqx)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-12T04:28:21.040+00:00`, fetched `2026-11-12T04:38:14+00:00`

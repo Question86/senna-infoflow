@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-12T21:59:59+00:00",
+  "generated_at": "2026-11-12T22:10:14+00:00",
   "topics": {
     "ai": [
       {
@@ -163,6 +163,20 @@
         "url": "https://www.bis.org/speeches/20261112-japans-current-account-surplus-and-corporate-adjustment"
       },
       {
+        "title": "Updates to the Data Download Program (DDP)",
+        "source": "Federal Reserve Policy Rates Feed",
+        "published_at": "2026-11-12T17:07:00-05:00",
+        "relevance_score": 15,
+        "url": "http://www.federalreserve.gov/feeds/PRATES.html#3979"
+      },
+      {
+        "title": "Updates to the Data Download Program (DDP)",
+        "source": "Federal Reserve Selected Interest Rates H.15",
+        "published_at": "2026-11-12T17:07:00-05:00",
+        "relevance_score": 15,
+        "url": "http://www.federalreserve.gov/feeds/H15.html#3979"
+      },
+      {
         "title": "SoftBank製Airターミナル6におけるOSコマンドインジェクションの脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-11-12T12:00:00+09:00",
@@ -203,20 +217,6 @@
         "published_at": "2026-11-12T00:00:00+00:00",
         "relevance_score": 11,
         "url": "https://www.bis.org/speeches/20261112-cash-and-digital-euro-two-sides-same-coin"
-      },
-      {
-        "title": "Europe’s tokenisation race will not wait for a 2028 blueprint",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-12T04:00:37+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/europes-tokenisation-race-will-not-wait-for-a-2028-blueprint-20261106/"
-      },
-      {
-        "title": "The low-gear labour market",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-11-12T00:00:00+00:00",
-        "relevance_score": 10,
-        "url": "https://www.bis.org/speeches/20261112-low-gear-labour-market"
       }
     ],
     "geopolitics": [
@@ -256,6 +256,13 @@
         "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1488/"
       },
       {
+        "title": "Updates to the Data Download Program (DDP)",
+        "source": "Federal Reserve Policy Rates Feed",
+        "published_at": "2026-11-12T17:07:00-05:00",
+        "relevance_score": 15,
+        "url": "http://www.federalreserve.gov/feeds/PRATES.html#3979"
+      },
+      {
         "title": "[NEU] [hoch] Octopus Deploy: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-12T12:52:00+00:00",
@@ -282,13 +289,6 @@
         "published_at": "2026-11-12T12:22:01+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4537"
-      },
-      {
-        "title": "[NEU] [mittel] Apache Axis2: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T12:22:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4536"
       }
     ],
     "general": [

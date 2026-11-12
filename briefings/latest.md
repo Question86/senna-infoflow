@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-12T21:59:59+00:00_
+_Generiert: 2026-11-12T22:10:14+00:00_
 
 ## Kurzlage
 
-99 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+103 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,8 +29,18 @@ _Generiert: 2026-11-12T21:59:59+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-11-10`
   - Kurz: Known exploited vulnerability. Added 2026-11-10. Due 2026-11-13. Barracuda Networks Email Security Gateway (ESG) Authentication Bypass Using an Alternate Path or Channel Vulnerability
-
-- Sensor-Hinweis: GDACS failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+- **GDACS: Green flood alert in Myanmar** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104280)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Myanmar
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:59.652km) in Guatemala 10/11/2026 14:54 UTC, 1.2 million in MMI IV.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1576618)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:59.652km) in Guatemala 10/11/2026 14:54 UTC, 1.2 million in MMI IV.
+- **GDACS: Green earthquake (Magnitude 5.7M, Depth:24.173km) in Japan 09/11/2026 04:52 UTC, 230 thousand in MMI IV.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1576372)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.7M, Depth:24.173km) in Japan 09/11/2026 04:52 UTC, 230 thousand in MMI IV.
 
 ## Wirtschaft global
 
@@ -128,6 +138,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
   - Kurz: De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. Google indique que la vulnérabilité CVE-2026-125350 est activement exploitée.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Updates to the Data Download Program (DDP)** — Score 15, observation — [Quelle](http://www.federalreserve.gov/feeds/PRATES.html#3979)
+  - Quelle: Federal Reserve Policy Rates Feed / `rss`
+  - Zeit: published `2026-11-12T17:07:00-05:00`, fetched `2026-11-12T22:09:45+00:00`
+  - Treffer: Macro/Policy, policy rates, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); Public Health (+5.0); policy rates (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: As announced on July 16, today the Build Your Package function in the Data Download Program has been retired.As part of our continued efforts to streamline, the Board plans to remove the preformatted data package option on March 31, 2027, in preparation for the July 1, 2027, DDP page removal. Users who rely on preformatted data package can access expanded data retrieval functionality through the Federal Reserve Bank…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Updates to the Data Download Program (DDP)** — Score 15, observation — [Quelle](http://www.federalreserve.gov/feeds/H15.html#3979)
+  - Quelle: Federal Reserve Selected Interest Rates H.15 / `rss`
+  - Zeit: published `2026-11-12T17:07:00-05:00`, fetched `2026-11-12T22:09:45+00:00`
+  - Treffer: H.15, Macro/Policy, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); Public Health (+5.0); H.15 (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: As announced on July 16, today the Build Your Package function in the Data Download Program has been retired.As part of our continued efforts to streamline, the Board plans to remove the preformatted data package option on March 31, 2027, in preparation for the July 1, 2027, DDP page removal. Users who rely on preformatted data package can access expanded data retrieval functionality through the Federal Reserve Bank…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.8 - 155 km E of Noda, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txqx)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-12T04:28:21.040+00:00`, fetched `2026-11-12T04:38:14+00:00`
