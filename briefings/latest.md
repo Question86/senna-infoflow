@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-12T22:15:52+00:00_
+_Generiert: 2026-11-12T22:21:55+00:00_
 
 ## Kurzlage
 
-103 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+104 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -41,6 +41,10 @@ _Generiert: 2026-11-12T22:15:52+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.7M, Depth:24.173km) in Japan 09/11/2026 04:52 UTC, 230 thousand in MMI IV.
+- **USGS earthquake M5.8 - 148 km NW of Kavieng, Papua New Guinea** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txwp)
+  - Quelle: USGS
+  - Zeit: `2026-11-12T22:04:06+00:00`
+  - Kurz: M5.8 - 148 km NW of Kavieng, Papua New Guinea. PAGER alert: none. Tsunami flag: 0.
 
 ## Wirtschaft global
 
