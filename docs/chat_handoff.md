@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-12T00:27:50+00:00_
+_Generated: 2026-11-12T00:46:24+00:00_
 
 ## Status
 - status: `normal`
-- findings: `2`
+- findings: `3`
 
 ## Top Signals
 
@@ -15,7 +15,14 @@ _Generated: 2026-11-12T00:27:50+00:00_
 - url: https://jvn.jp/vu/JVNVU90805396/
 - summary: The Apache Software Foundationから、Apache HTTP Server 2.4系における複数の脆弱性に対応したApache HTTP Server 2.4.71が公開されました。
 
-### 2. 【特集】 AIが“ダチ”になった。Meta「Muse」と過ごした2週間
+### 2. AWS Emulator and the engineer's job when agents write the code
+- source: Hatena Bookmark Hotentry IT
+- score: `8`
+- published: `2026-11-11T21:01:40+00:00`
+- url: https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html
+- summary: AWS Emulator and the engineer's job when agents write the codeNovember 11, 2026 • 1671 words In 2004, barely a month into my new job at Amazon, I got the opportunity to pick an intern to join my team. I had an advantage over my colleagues: I had already heard…
+
+### 3. 【特集】 AIが“ダチ”になった。Meta「Muse」と過ごした2週間
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-11-11T21:15:31+00:00`
