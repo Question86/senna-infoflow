@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-12T22:55:05+00:00",
-  "status": "normal",
-  "coverage_confidence": "normal",
+  "generated_at": "2026-11-12T23:00:24+00:00",
+  "status": "warning",
+  "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 104,
-    "displayed_findings": 104,
+    "new_relevant_findings": 1,
+    "today_file_total": 105,
+    "displayed_findings": 105,
     "high": 0,
-    "medium": 40,
+    "medium": 41,
     "observe": 64
   },
-  "source_errors_count": 0,
+  "source_errors_count": 1,
   "top_signals": [
     {
       "title": "Updates | ReliefWeb",
@@ -35,6 +35,16 @@
       "section": "medium"
     },
     {
+      "title": "Build once, run on any agent: A practical guide to agent skills",
+      "source": "GitHub Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-11-12T22:54:52+00:00",
+      "relevance_score": 20,
+      "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
+      "summary": "Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. The post Build once, run on any agent: A practical guide to agent skills appeared f…",
+      "section": "medium"
+    },
+    {
       "title": "Your finance team’s ChatGPT habit is a cross-border data transfer",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -42,16 +52,6 @@
       "relevance_score": 20,
       "url": "https://e27.co/your-finance-teams-chatgpt-habit-is-a-cross-border-data-transfer-20261106/",
       "summary": "Last week I sat with the CEO and CFO of a finance company that is genuinely top of its game in this region. Sophisticated operators. Strong compliance culture on paper. 10 minutes into the conversation, it emerged that their team pastes customer records, fina…",
-      "section": "medium"
-    },
-    {
-      "title": "AI agents can hand over working code and still lose the decision that made it right",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-12T03:00:55+00:00",
-      "relevance_score": 19,
-      "url": "https://e27.co/ai-agents-can-hand-over-working-code-and-still-lose-the-decision-that-made-it-right-20261106/",
-      "summary": "An AI agent can finish its task, hand over working code, and still leave the next agent with the wrong understanding of what to build. Consider a hypothetical mobile app team. The team decides that people must be able to record a workout without an account. O…",
       "section": "medium"
     },
     {

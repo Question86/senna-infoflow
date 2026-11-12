@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-12T22:55:05+00:00",
+  "generated_at": "2026-11-12T23:00:24+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-11-12T22:15:42+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+      },
+      {
+        "title": "Build once, run on any agent: A practical guide to agent skills",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-11-12T22:54:52+00:00",
+        "relevance_score": 20,
+        "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/"
       },
       {
         "title": "Your finance team’s ChatGPT habit is a cross-border data transfer",
@@ -66,13 +73,6 @@
         "published_at": "2026-11-12T09:30:00+00:00",
         "relevance_score": 12,
         "url": "https://openai.com/business/customer-stories/holidays-extras-codex"
-      },
-      {
-        "title": "Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-12T01:43:30+00:00",
-        "relevance_score": 11,
-        "url": "https://zenn.dev/ubie_dev/articles/45501469c9c044"
       }
     ],
     "security": [
@@ -147,6 +147,129 @@
         "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1488/"
       }
     ],
+    "github": [
+      {
+        "title": "Build once, run on any agent: A practical guide to agent skills",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-11-12T22:54:52+00:00",
+        "relevance_score": 20,
+        "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/"
+      },
+      {
+        "title": "Secret scanning detects Cloudflare service tokens",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-11-12T14:38:25+00:00",
+        "relevance_score": 12,
+        "url": "https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare"
+      },
+      {
+        "title": "2026-020: Critical Vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway",
+        "source": "CERT-EU Security Advisories",
+        "published_at": "2026-11-12T18:20:53+00:00",
+        "relevance_score": 11,
+        "url": "https://cert.europa.eu/publications/security-advisories/2026-020/"
+      },
+      {
+        "title": "Actions for ARM32 Linux & Windows retirement",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-11-12T20:59:36+00:00",
+        "relevance_score": 10,
+        "url": "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement"
+      },
+      {
+        "title": "GoogleChrome/modern-web-guidance-src",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 10,
+        "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
+      },
+      {
+        "title": "shadcn/improve",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 5,
+        "url": "https://github.com/shadcn/improve"
+      },
+      {
+        "title": "Public monitoring alerts now have direct links",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-11-12T14:37:38+00:00",
+        "relevance_score": 3,
+        "url": "https://github.blog/changelog/2026-11-12-public-monitoring-alerts-now-have-direct-links"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "Build once, run on any agent: A practical guide to agent skills",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-11-12T22:54:52+00:00",
+        "relevance_score": 20,
+        "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/"
+      },
+      {
+        "title": "[NEU] [hoch] Red Hat Enterprise Linux: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T12:57:01+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4542"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [hoch] PTC FlexPLM: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T12:27:01+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4540"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] BusyBox: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T11:57:01+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4524"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] GNU libc: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T11:42:01+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4521"
+      },
+      {
+        "title": "Multiples vulnérabilités dans Google Chrome (10 novembre 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-11-10T00:00:00+00:00",
+        "relevance_score": 16,
+        "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1488/"
+      },
+      {
+        "title": "Updates to the Data Download Program (DDP)",
+        "source": "Federal Reserve Policy Rates Feed",
+        "published_at": "2026-11-12T17:07:00-05:00",
+        "relevance_score": 15,
+        "url": "http://www.federalreserve.gov/feeds/PRATES.html#3979"
+      },
+      {
+        "title": "[NEU] [hoch] Octopus Deploy: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T12:52:00+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4541"
+      },
+      {
+        "title": "[NEU] [mittel] nginx-ui: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T12:27:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4539"
+      },
+      {
+        "title": "[NEU] [mittel] OPNsense: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-12T12:22:03+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4538"
+      }
+    ],
     "economy": [
       {
         "title": "Your finance team’s ChatGPT habit is a cross-border data transfer",
@@ -219,78 +342,6 @@
         "url": "https://www.bis.org/speeches/20261112-cash-and-digital-euro-two-sides-same-coin"
       }
     ],
-    "geopolitics": [
-      {
-        "title": "[NEU] [hoch] Red Hat Enterprise Linux: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T12:57:01+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4542"
-      },
-      {
-        "title": "[NEU] [UNGEPATCHT] [hoch] PTC FlexPLM: Schwachstelle ermöglicht Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T12:27:01+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4540"
-      },
-      {
-        "title": "[NEU] [UNGEPATCHT] [mittel] BusyBox: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T11:57:01+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4524"
-      },
-      {
-        "title": "[NEU] [UNGEPATCHT] [mittel] GNU libc: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T11:42:01+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4521"
-      },
-      {
-        "title": "Multiples vulnérabilités dans Google Chrome (10 novembre 2026)",
-        "source": "CERT-FR Avis de sécurité",
-        "published_at": "2026-11-10T00:00:00+00:00",
-        "relevance_score": 16,
-        "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1488/"
-      },
-      {
-        "title": "Updates to the Data Download Program (DDP)",
-        "source": "Federal Reserve Policy Rates Feed",
-        "published_at": "2026-11-12T17:07:00-05:00",
-        "relevance_score": 15,
-        "url": "http://www.federalreserve.gov/feeds/PRATES.html#3979"
-      },
-      {
-        "title": "[NEU] [hoch] Octopus Deploy: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T12:52:00+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4541"
-      },
-      {
-        "title": "[NEU] [mittel] nginx-ui: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T12:27:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4539"
-      },
-      {
-        "title": "[NEU] [mittel] OPNsense: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T12:22:03+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4538"
-      },
-      {
-        "title": "[NEU] [mittel] Extreme Networks ExtremeXOS: Schwachstelle ermöglicht Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T12:22:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4537"
-      }
-    ],
     "general": [
       {
         "title": "M 4.8 - 155 km E of Noda, Japan",
@@ -361,50 +412,6 @@
         "published_at": "2026-11-12T03:47:53+00:00",
         "relevance_score": 8,
         "url": "https://dev.classmethod.jp/articles/aws-emulator-local-try/"
-      }
-    ],
-    "github": [
-      {
-        "title": "Secret scanning detects Cloudflare service tokens",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-11-12T14:38:25+00:00",
-        "relevance_score": 12,
-        "url": "https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare"
-      },
-      {
-        "title": "2026-020: Critical Vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway",
-        "source": "CERT-EU Security Advisories",
-        "published_at": "2026-11-12T18:20:53+00:00",
-        "relevance_score": 11,
-        "url": "https://cert.europa.eu/publications/security-advisories/2026-020/"
-      },
-      {
-        "title": "Actions for ARM32 Linux & Windows retirement",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-11-12T20:59:36+00:00",
-        "relevance_score": 10,
-        "url": "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement"
-      },
-      {
-        "title": "GoogleChrome/modern-web-guidance-src",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 10,
-        "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
-      },
-      {
-        "title": "shadcn/improve",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 5,
-        "url": "https://github.com/shadcn/improve"
-      },
-      {
-        "title": "Public monitoring alerts now have direct links",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-11-12T14:37:38+00:00",
-        "relevance_score": 3,
-        "url": "https://github.blog/changelog/2026-11-12-public-monitoring-alerts-now-have-direct-links"
       }
     ]
   }
