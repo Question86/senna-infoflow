@@ -1,5 +1,27 @@
 [
   {
+    "title": "SoftBank製Airターミナル6におけるOSコマンドインジェクションの脆弱性",
+    "url": "https://jvn.jp/jp/JVN64740097/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-11-12T12:00:00+09:00",
+    "fetched_at": "2026-11-12T03:14:41+00:00",
+    "summary": "ソフトバンク株式会社が提供するAirターミナル6には、OSコマンドインジェクションの脆弱性が存在します。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ed1e20b5be21ed262267"
+  },
+  {
     "title": "Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年11月11日）",
     "url": "https://jvn.jp/vu/JVNVU90805396/",
     "source": "JVN Japan Vulnerability Notes",
