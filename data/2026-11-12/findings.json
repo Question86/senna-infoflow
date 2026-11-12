@@ -1835,6 +1835,26 @@
     "id": "884b656bd186b680d248"
   },
   {
+    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+    "url": "https://openai.com/business/customer-stories/amplitude",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-11-12T20:00:00+00:00",
+    "fetched_at": "2026-11-12T23:59:08+00:00",
+    "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+    "matched_keywords": [
+      "OpenAI"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "031f5ef49c97b4ff21c0"
+  },
+  {
     "title": "Why Kerala’s grandparents may be its smartest startup bet",
     "url": "https://e27.co/why-keralas-grandparents-may-be-its-smartest-startup-bet-20261112/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -2344,6 +2364,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "809bf64365a42011f70a"
+  },
+  {
+    "title": "GitHub - tsukumijima/YacchoGPT: ヤッチョGPT: ヤオヨロ〜！雑談も調べ物も悩み相談もお任せあれ！✨",
+    "url": "https://github.com/tsukumijima/YacchoGPT",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-06-14T22:55:00+00:00",
+    "fetched_at": "2026-11-12T23:59:08+00:00",
+    "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert",
+    "matched_keywords": [
+      "GitHub",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f713c648c3018f87064e"
   },
   {
     "title": "Microsoft 365で大規模障害 「Outlook」でメールにアクセスできず、「Teams」など複数サービスに影響",

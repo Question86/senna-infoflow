@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-12T23:54:29+00:00",
+  "generated_at": "2026-11-12T23:59:39+00:00",
   "topics": {
     "ai": [
       {
@@ -182,6 +182,13 @@
         "published_at": null,
         "relevance_score": 10,
         "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
+      },
+      {
+        "title": "GitHub - tsukumijima/YacchoGPT: ヤッチョGPT: ヤオヨロ〜！雑談も調べ物も悩み相談もお任せあれ！✨",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-06-14T22:55:00+00:00",
+        "relevance_score": 6,
+        "url": "https://github.com/tsukumijima/YacchoGPT"
       },
       {
         "title": "shadcn/improve",
