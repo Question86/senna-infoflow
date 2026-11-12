@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T09:22:37+00:00",
-  "run_id": "2026-11-12T09:22:37+00:00",
+  "generated_at": "2026-11-12T09:28:16+00:00",
+  "run_id": "2026-11-12T09:28:16+00:00",
   "date": "2026-11-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 49
+      "configured_public_sources_only": 50
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 5,
-    "today_file_total": 49,
-    "displayed_findings": 49,
+    "new_relevant_findings": 1,
+    "today_file_total": 50,
+    "displayed_findings": 50,
     "high": 0,
     "medium": 14,
-    "observe": 35,
+    "observe": 36,
     "source_errors": 0
   },
   "sections": {
@@ -1109,6 +1109,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "809bf64365a42011f70a"
+      },
+      {
+        "title": "AI支援型リバースエンジニアリング、早くも終焉？ AIが指示に従わなくなったとの報告が続々【やじうまWatch】",
+        "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2155772.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-12T02:55:38+00:00",
+        "fetched_at": "2026-11-12T09:27:41+00:00",
+        "summary": "AI支援型リバースエンジニアリング、早くも終焉？ AIが指示に従わなくなったとの報告が続々【やじうまWatch】",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2c3d0fa4b3bb06c95dbf"
       },
       {
         "title": "Mozkey（もずきー）| 書くことに集中できる、日本語入力。",
@@ -2337,6 +2358,27 @@
       "id": "809bf64365a42011f70a"
     },
     {
+      "title": "AI支援型リバースエンジニアリング、早くも終焉？ AIが指示に従わなくなったとの報告が続々【やじうまWatch】",
+      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2155772.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-12T02:55:38+00:00",
+      "fetched_at": "2026-11-12T09:27:41+00:00",
+      "summary": "AI支援型リバースエンジニアリング、早くも終焉？ AIが指示に従わなくなったとの報告が続々【やじうまWatch】",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2c3d0fa4b3bb06c95dbf"
+    },
+    {
       "title": "Mozkey（もずきー）| 書くことに集中できる、日本語入力。",
       "url": "https://koyasi777.com/mozkey/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2483,141 +2525,25 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [UNGEPATCHT] [hoch] BusyBox: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4451",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "AI支援型リバースエンジニアリング、早くも終焉？ AIが指示に従わなくなったとの報告が続々【やじうまWatch】",
+      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2155772.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-11-12T09:20:17+00:00",
-      "fetched_at": "2026-11-12T09:22:10+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in BusyBox ausnutzen, um Informationen offenzulegen, beliebigen Code mit erhöhten Berechtigungen bis hin zu Root-Rechten auszuführen oder einen Denial-of-Service-Zustand zu verursachen.",
+      "published_at": "2026-11-12T02:55:38+00:00",
+      "fetched_at": "2026-11-12T09:27:41+00:00",
+      "summary": "AI支援型リバースエンジニアリング、早くも終焉？ AIが指示に従わなくなったとの報告が続々【やじうまWatch】",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Macro/Policy",
-        "Patch",
-        "Schwachstelle",
-        "Security"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 21,
-      "relevance_reason": "Security (+6.0); Macro/Policy (+5.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "529dffa90f52083eb9cc"
-    },
-    {
-      "title": "[UPDATE] [hoch] Microsoft Developer Tools: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4481",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-11-12T09:20:16+00:00",
-      "fetched_at": "2026-11-12T09:22:10+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Microsoft Azure, Microsoft Azure DevOps Server, Microsoft PowerShell, Microsoft ASP.NET, Microsoft .NET, Microsoft 365 Apps, Microsoft Visual Studio 2022, Microsoft Visual Studio 2026 und Microsoft Visual Studio Code ausnutzen, um seine Privilegien zu erhöhen, um Code auszuführen, um Informationen offenzulegen, um Sicherheitsmechanismen zu umge…",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Microsoft",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6e433ea5347869d771da"
-    },
-    {
-      "title": "[UPDATE] [mittel] AMD Prozessor Zen 5: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4452",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-11-12T09:20:17+00:00",
-      "fetched_at": "2026-11-12T09:22:10+00:00",
-      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in AMD Prozessor Zen 5 ausnutzen, um Informationen offenzulegen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4e7a6b885ad1394697ac"
-    },
-    {
-      "title": "[UPDATE] [hoch] Checkmk: Mehrere Schwachstellen ermöglichen Codeausführung",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4453",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-11-12T09:20:17+00:00",
-      "fetched_at": "2026-11-12T09:22:10+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Checkmk ausnutzen, um beliebigen Programmcode auszuführen und Dateien zu manipulieren.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c553ebf70036b44fc4d2"
-    },
-    {
-      "title": "Manila has a Series B boom and a Series A funeral. Mynt’s record IPO won’t fix that",
-      "url": "https://e27.co/manila-has-a-series-b-boom-and-a-series-a-funeral-mynts-record-ipo-wont-fix-that-20261112/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-12T09:17:02+00:00",
-      "fetched_at": "2026-11-12T09:22:10+00:00",
-      "summary": "Philippine venture capital in 2026 looks like a barbell: heavy plates at both ends and a thin steel bar in the middle. At one end sit grant-funded prototypes and university incubators. At the other are Series B and later rounds for companies that already make money. The stage in between, where a startup turns early […] The post Manila has a Series B boom and a Series A funeral. Mynt’s record IPO won’t fix that appea…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Watchgraph:capitals_power_centers"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "watchgraph_reasons": [
-        "capitals_power_centers: capital"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
-      ],
-      "id": "b6c954abef45aeb221dc"
+      "id": "2c3d0fa4b3bb06c95dbf"
     }
   ],
   "source_errors": [],
