@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-12T04:38:43+00:00_
+_Generiert: 2026-11-12T04:44:05+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „Your finance team’s ChatGPT habit is a cross-border data transfer“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
+18 neue relevante Treffer. Stärkstes Signal: „Your finance team’s ChatGPT habit is a cross-border data transfer“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
