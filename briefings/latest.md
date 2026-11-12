@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-12T07:27:51+00:00_
+_Generiert: 2026-11-12T07:38:36+00:00_
 
 ## Kurzlage
 
-33 neue relevante Treffer. Stärkstes Signal: „Your finance team’s ChatGPT habit is a cross-border data transfer“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
+34 neue relevante Treffer. Stärkstes Signal: „Your finance team’s ChatGPT habit is a cross-border data transfer“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,10 +29,10 @@ _Generiert: 2026-11-12T07:27:51+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-11-10`
   - Kurz: Known exploited vulnerability. Added 2026-11-10. Due 2026-11-13. Barracuda Networks Email Security Gateway (ESG) Authentication Bypass Using an Alternate Path or Channel Vulnerability
-- **GDACS: Green earthquake (Magnitude 6.4M, Depth:17km) in Solomon Is. 09/11/2026 03:34 UTC, 8 thousand in MMI VI.** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1576364)
+- **GDACS: Green flood alert in Myanmar** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104280)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.4M, Depth:17km) in Solomon Is. 09/11/2026 03:34 UTC, 8 thousand in MMI VI.
+  - Kurz: Green flood alert in Myanmar
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:59.652km) in Guatemala 10/11/2026 14:54 UTC, 1.2 million in MMI IV.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1576618)
   - Quelle: GDACS
   - Zeit: ``
