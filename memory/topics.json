@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-12T23:10:47+00:00",
+  "generated_at": "2026-11-12T23:15:51+00:00",
   "topics": {
     "ai": [
       {
@@ -47,6 +47,13 @@
         "url": "https://jvn.jp/jp/JVN64740097/"
       },
       {
+        "title": "Gondola doubles revenue as its team builds more with Codex",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-11-12T12:00:00+00:00",
+        "relevance_score": 14,
+        "url": "https://openai.com/business/customer-stories/gondola"
+      },
+      {
         "title": "[NEU] [mittel] LiteLLM: Schwachstelle ermöglicht Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-12T11:57:01+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-11-12T00:00:00+00:00",
         "relevance_score": 13,
         "url": "https://openai.com/index/children-first-declaration"
-      },
-      {
-        "title": "Holiday Extras is rethinking what it can build with Codex",
-        "source": "OpenAI News RSS",
-        "published_at": "2026-11-12T09:30:00+00:00",
-        "relevance_score": 12,
-        "url": "https://openai.com/business/customer-stories/holidays-extras-codex"
       }
     ],
     "security": [
