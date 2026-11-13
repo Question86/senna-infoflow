@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-13T01:18:33+00:00",
+  "generated_at": "2026-11-13T01:24:29+00:00",
   "topics": {
     "ai": [
       {
@@ -20,6 +20,13 @@
       }
     ],
     "general": [
+      {
+        "title": "Jensen Huang quits Nvidia, and Southeast Asia’s chip hubs inherit the fallout",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-13T01:22:19+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/jensen-huang-quits-nvidia-and-southeast-asias-chip-hubs-inherit-the-fallout-20261113/"
+      },
       {
         "title": "M 5.1 - 39 km S of Moíres, Greece",
         "source": "USGS M4.5+ Earthquakes Past Hour",
