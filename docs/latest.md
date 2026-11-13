@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-13T04:00:23+00:00_
+_Generiert: 2026-11-13T04:15:20+00:00_
 
 ## Kurzlage
 
-21 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+23 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -78,6 +78,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.5); recent (+1.0)
   - Kurz: For 33 years, Nvidia had one face, one voice and one leather jacket. On Thursday, it lost all three. Jensen Huang, who co-founded the chipmaker in 1993 and built it into one of the world’s most valuable companies, has resigned as president and CEO. According to a regulatory filing, Nvidia’s board accepted his resignation on […] The post Jensen Huang quits Nvidia, and Southeast Asia’s chip hubs inherit the fallout ap…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **The Philippines trusts AI more than anyone in ASEAN. Its rulebook hasn’t caught up** — Score 10, observation — [Quelle](https://e27.co/the-philippines-trusts-ai-more-than-anyone-in-asean-its-rulebook-hasnt-caught-up-20261113/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-13T04:09:27+00:00`, fetched `2026-11-13T04:14:50+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines, ASEAN (+2.0)
+  - Kurz: Picture a claims officer in Makati pasting a customer’s medical file into a free chatbot to draft a rejection letter before lunch. Upstairs, her CEO signs off on a market-entry plan stitched together by the same kind of tool. Nobody has told either of them what is allowed, because in most Philippine companies, nobody has […] The post The Philippines trusts AI more than anyone in ASEAN. Its rulebook hasn’t caught up…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.9 - Pagan region, Northern Mariana Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txxy)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-13T03:06:41.040+00:00`, fetched `2026-11-13T03:15:59+00:00`
@@ -131,15 +140,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: フィッシング攻撃を“遮断” 物理パスキー「YubiKey」日本で本格展開
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Fear is high and longs got flushed. Is US$70,000 the next line in the sand?** — Score 4, observation — [Quelle](https://e27.co/fear-is-high-and-longs-got-flushed-is-us70000-the-next-line-in-the-sand-20261113/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-13T02:34:00+00:00`, fetched `2026-11-13T02:38:49+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: My point of view is straightforward. The recent Bitcoin drop looks like a macro-led repricing with a leverage amplifier, not a Bitcoin-only failure. Bitcoin fell 3.45 per cent to US$71,425.63 in 24 hours and traded near a reported 12-week low. The broader crypto market fell 2.66 per cent to US$2.39 trillion. Bitcoin underperformed the wider […] The post Fear is high and longs got flushed. Is US$70,000 the next line…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.0 - 85 km W of Mwene-Ditu, Democratic Republic of the Congo** — Score 4, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txxl)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
