@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-13T07:11:16+00:00",
+  "generated_at": "2026-11-13T07:24:14+00:00",
   "topics": {
     "ai": [
       {
@@ -40,6 +40,13 @@
         "url": "https://e27.co/the-philippines-trusts-ai-more-than-anyone-in-asean-its-rulebook-hasnt-caught-up-20261113/"
       },
       {
+        "title": "Kerala’s moment: Five lessons from IvyCap’s Vikram Gupta on turning talent into scale",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-13T07:15:03+00:00",
+        "relevance_score": 9,
+        "url": "https://e27.co/keralas-moment-five-lessons-from-ivycaps-vikram-gupta-on-turning-talent-into-scale-20261113/"
+      },
+      {
         "title": "The Swift premium: What Singapore’s exclusive Eras Tour deal taught ASEAN about cultural economics",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-11-13T05:13:03+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-11-13T01:21:49+00:00",
         "relevance_score": 5,
         "url": "https://www.kobe-np.co.jp/news/society/202611/0021027302.shtml"
-      },
-      {
-        "title": "Fear is high and longs got flushed. Is US$70,000 the next line in the sand?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-13T02:34:00+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/fear-is-high-and-longs-got-flushed-is-us70000-the-next-line-in-the-sand-20261113/"
       }
     ],
     "security": [
@@ -228,6 +228,13 @@
         "published_at": "2026-11-13T03:00:20+00:00",
         "relevance_score": 13,
         "url": "https://e27.co/why-south-korea-and-southeast-asia-could-be-the-next-cross-border-ai-and-blockchain-corridor-20261101/"
+      },
+      {
+        "title": "Isabel Schnabel: Made in Europe",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-11-13T07:20:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html"
       },
       {
         "title": "Fear is high and longs got flushed. Is US$70,000 the next line in the sand?",

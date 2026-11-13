@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-13T07:11:16+00:00_
+_Generiert: 2026-11-13T07:24:14+00:00_
 
 ## Kurzlage
 
-33 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+35 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -168,6 +168,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-11-13 00:05:04 UTC 2026-11-13 00:05:04 UTC at epicenter Location 34.697°N 24.880°E Depth 43.36 km (26.94 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Isabel Schnabel: Made in Europe** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-11-13T07:20:00+00:00`, fetched `2026-11-13T07:23:43+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Isabel Schnabel: Made in Europe
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **インシデント調査報告書チェックリスト** — Score 7, observation — [Quelle](https://jpcertcc.github.io/ir_report_checklist/index.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-11T13:20:41+00:00`, fetched `2026-11-13T00:47:49+00:00`
