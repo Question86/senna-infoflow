@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-13T03:24:48+00:00_
+_Generiert: 2026-11-13T03:30:48+00:00_
 
 ## Kurzlage
 
-20 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+21 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -168,14 +168,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: １５日投開票の兵庫県尼崎市議補選（欠員１）で、生成人工知能（ＡＩ）で作成したとみられる人物の選挙ポスターが複数掲示されている。市選挙管理委員会によると、少なくとも１人の顔は「候補者と全く違う」。選挙ポスターを巡っては昨年５月、品位保持などを目的に改正公選法が施行されたが具体的な基準はない。顔を知...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AWSをローカルマシン上でエミュレートする、AWS公式の「AWSエミューレタ」正式リリース** — Score 5, observation — [Quelle](https://www.publickey1.jp/blog/26/awsawsaws_1.html)
+- **フィッシング攻撃を“遮断” 物理パスキー「YubiKey」日本で本格展開** — Score 5, observation — [Quelle](https://www.watch.impress.co.jp/docs/news/2156008.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-12T14:37:20+00:00`, fetched `2026-11-13T00:28:50+00:00`
+  - Zeit: published `2026-11-13T00:44:06+00:00`, fetched `2026-11-13T03:30:19+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Amazon Web Servicesは、ローカルマシン上でAWSのAPIをエミュレートする「AWSエミュレータ」の正式リリースを発表しました。 ダウンロードしてインストールすれば誰でも無料で利用でき、AWSアカウントも不要です。 Today we're launching AWS Emulator, a free local emulator of AWS services for building and testing...
+  - Kurz: フィッシング攻撃を“遮断” 物理パスキー「YubiKey」日本で本格展開
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Fear is high and longs got flushed. Is US$70,000 the next line in the sand?** — Score 4, observation — [Quelle](https://e27.co/fear-is-high-and-longs-got-flushed-is-us70000-the-next-line-in-the-sand-20261113/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
