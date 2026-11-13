@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-13T05:04:17+00:00_
+_Generated: 2026-11-13T05:15:03+00:00_
 
 ## Status
 - status: `normal`
-- findings: `25`
+- findings: `27`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-11-13T05:04:17+00:00_
 - url: https://e27.co/the-philippines-trusts-ai-more-than-anyone-in-asean-its-rulebook-hasnt-caught-up-20261113/
 - summary: Picture a claims officer in Makati pasting a customer’s medical file into a free chatbot to draft a rejection letter before lunch. Upstairs, her CEO signs off on a market-entry plan stitched together by the same kind of tool. Nobody has told either of them wh…
 
-### 8. M 4.9 - Pagan region, Northern Mariana Islands
-- source: USGS M4.5+ Earthquakes Past Hour
+### 8. The Swift premium: What Singapore’s exclusive Eras Tour deal taught ASEAN about cultural economics
+- source: e27 Asia Startup and Tech Feed
 - score: `9`
-- published: `2026-11-13T03:06:41.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000txxy
-- summary: Time 2026-11-13 02:55:03 UTC 2026-11-13 02:55:03 UTC at epicenter Location 18.893°N 145.603°E Depth 219.57 km (136.44 mi)
+- published: `2026-11-13T05:13:03+00:00`
+- url: https://e27.co/the-swift-premium-what-singapores-exclusive-eras-tour-deal-taught-asean-about-cultural-economics-20261109/
+- summary: When Singapore arranged exclusive Southeast Asian dates for Taylor Swift’s Eras Tour in March 2024, six shows, only stop in the region, the diplomatic and economic discussion that followed was one of the more publicly visible moments of ASEAN economic competi…
 
 END OF DOCUMENT

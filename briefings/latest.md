@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-13T05:04:17+00:00_
+_Generiert: 2026-11-13T05:15:03+00:00_
 
 ## Kurzlage
 
-25 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+27 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -93,6 +93,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Public Health (+5.0); Southeast Asia (+2.0); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Ask a Singapore founder who might buy their company and you usually get three names: the biggest local competitor, a supplier, maybe a customer. It is a sensible guess. On the data, it is also usually the wrong pond. At Ayebot we keep a register of potential acquirers for Southeast Asian companies. As at 19 […] The post Your buyer is probably not Singaporean: What 2,488 acquirers tell founders planning an exit appea…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.7 - 27 km NNE of Labuan Lombok, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000txy5)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-13T05:06:28.040+00:00`, fetched `2026-11-13T05:14:31+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-11-13 04:49:33 UTC 2026-11-13 04:49:33 UTC at epicenter Location 8.262°S 116.751°E Depth 9.63 km (5.98 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **JetBrains製YouTrackにおけるクロスサイトスクリプティングの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN76799957/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-11-13T12:00:00+09:00`, fetched `2026-11-13T03:00:27+00:00`
