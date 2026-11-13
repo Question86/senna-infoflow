@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-13T21:24:41+00:00",
-  "run_id": "2026-11-13T21:24:41+00:00",
+  "generated_at": "2026-11-13T21:30:48+00:00",
+  "run_id": "2026-11-13T21:30:48+00:00",
   "date": "2026-11-13",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 88
+      "configured_public_sources_only": 89
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 88,
-    "displayed_findings": 88,
+    "new_relevant_findings": 1,
+    "today_file_total": 89,
+    "displayed_findings": 89,
     "high": 0,
     "medium": 34,
-    "observe": 54,
-    "source_errors": 0
+    "observe": 55,
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -1953,6 +1953,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "34fbedd721427cff9417"
+      },
+      {
+        "title": "Fable 5.2は物理モデリング音源の実装も作曲もすごい - きしだのHatena",
+        "url": "https://nowokay.hatenablog.com/entry/2026/11/13/101644",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-13T14:22:52+00:00",
+        "fetched_at": "2026-11-13T21:30:09+00:00",
+        "summary": "Fable 5.2が出て今週いっぱいくらいPlusでも使えるのだけど、Fableじゃないとダメなことってなんだろなと思いつつ、楽器の物理シミュレーションがOpusはまだあまりうまくなかったなと、Fableさんに物理モデリング音源を作ってもらって曲もつくってもらったら、物理モデリングも結構できていたのだけど、曲がちゃんとして...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Hatena (+2.5); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c8f4617f3f12ccbbb929"
       },
       {
         "title": "マイクロソフト社の障害によりメール不着等となる事象について",
@@ -4288,6 +4309,27 @@
       "id": "34fbedd721427cff9417"
     },
     {
+      "title": "Fable 5.2は物理モデリング音源の実装も作曲もすごい - きしだのHatena",
+      "url": "https://nowokay.hatenablog.com/entry/2026/11/13/101644",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-13T14:22:52+00:00",
+      "fetched_at": "2026-11-13T21:30:09+00:00",
+      "summary": "Fable 5.2が出て今週いっぱいくらいPlusでも使えるのだけど、Fableじゃないとダメなことってなんだろなと思いつつ、楽器の物理シミュレーションがOpusはまだあまりうまくなかったなと、Fableさんに物理モデリング音源を作ってもらって曲もつくってもらったら、物理モデリングも結構できていたのだけど、曲がちゃんとして...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Hatena (+2.5); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c8f4617f3f12ccbbb929"
+    },
+    {
       "title": "マイクロソフト社の障害によりメール不着等となる事象について",
       "url": "https://www.digital.go.jp/press/61be1195-0d24-4020-addd-1d5c0e4013ff",
       "source": "Japan Digital Agency News RSS",
@@ -4695,8 +4737,37 @@
       "id": "bb6cab956849fcf5a732"
     }
   ],
-  "new_findings": [],
-  "source_errors": [],
+  "new_findings": [
+    {
+      "title": "Fable 5.2は物理モデリング音源の実装も作曲もすごい - きしだのHatena",
+      "url": "https://nowokay.hatenablog.com/entry/2026/11/13/101644",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-13T14:22:52+00:00",
+      "fetched_at": "2026-11-13T21:30:09+00:00",
+      "summary": "Fable 5.2が出て今週いっぱいくらいPlusでも使えるのだけど、Fableじゃないとダメなことってなんだろなと思いつつ、楽器の物理シミュレーションがOpusはまだあまりうまくなかったなと、Fableさんに物理モデリング音源を作ってもらって曲もつくってもらったら、物理モデリングも結構できていたのだけど、曲がちゃんとして...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Hatena (+2.5); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c8f4617f3f12ccbbb929"
+    }
+  ],
+  "source_errors": [
+    {
+      "source_id": "cert_eu_security_advisories",
+      "source_name": "CERT-EU Security Advisories",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='cert.europa.eu', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
