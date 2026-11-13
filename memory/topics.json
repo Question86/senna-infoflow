@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-13T09:23:37+00:00",
+  "generated_at": "2026-11-13T09:28:31+00:00",
   "topics": {
     "ai": [
       {
@@ -126,25 +126,25 @@
         "url": "https://jvn.jp/vu/JVNVU99429639/"
       },
       {
+        "title": "[UPDATE] [mittel] RPM: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Benutzerrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-13T09:22:02+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2980"
+      },
+      {
+        "title": "[UPDATE] [hoch] ffmpeg: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-13T09:22:02+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2939"
+      },
+      {
         "title": "[UPDATE] [niedrig] mutt: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-13T08:27:49+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1343"
-      },
-      {
-        "title": "[UPDATE] [hoch] Mozilla Thunderbird, Firefox ESR und Firefox: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-13T08:27:27+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1228"
-      },
-      {
-        "title": "[UPDATE] [mittel] QT: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-13T08:02:04+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4531"
       }
     ],
     "github": [
