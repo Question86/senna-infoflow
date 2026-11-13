@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-13T17:01:05+00:00",
-  "run_id": "2026-11-13T17:01:05+00:00",
+  "generated_at": "2026-11-13T17:12:21+00:00",
+  "run_id": "2026-11-13T17:12:21+00:00",
   "date": "2026-11-13",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 79
+      "configured_public_sources_only": 80
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 79,
-    "displayed_findings": 79,
+    "new_relevant_findings": 1,
+    "today_file_total": 80,
+    "displayed_findings": 80,
     "high": 0,
     "medium": 34,
-    "observe": 45,
-    "source_errors": 1
+    "observe": 46,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -940,6 +940,43 @@
       }
     ],
     "observe": [
+      {
+        "title": "M 5.8 - 79 km WSW of Changuillo, Peru",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty1a",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-11-13T17:07:48.457+00:00",
+        "fetched_at": "2026-11-13T17:11:52+00:00",
+        "summary": "ShakeMap - V Time 2026-11-13 16:43:02 UTC 2026-11-13 16:43:02 UTC at epicenter Location 14.993°S 75.881°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "5d0abdc81f90b948eadb"
+      },
       {
         "title": "Why South Korea and Southeast Asia could be the next cross-border AI and blockchain corridor",
         "url": "https://e27.co/why-south-korea-and-southeast-asia-could-be-the-next-cross-border-ai-and-blockchain-corridor-20261101/",
@@ -3008,6 +3045,43 @@
       "id": "bfc975c8bffdf7fec1f4"
     },
     {
+      "title": "M 5.8 - 79 km WSW of Changuillo, Peru",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty1a",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-13T17:07:48.457+00:00",
+      "fetched_at": "2026-11-13T17:11:52+00:00",
+      "summary": "ShakeMap - V Time 2026-11-13 16:43:02 UTC 2026-11-13 16:43:02 UTC at epicenter Location 14.993°S 75.881°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "5d0abdc81f90b948eadb"
+    },
+    {
       "title": "Why South Korea and Southeast Asia could be the next cross-border AI and blockchain corridor",
       "url": "https://e27.co/why-south-korea-and-southeast-asia-could-be-the-next-cross-border-ai-and-blockchain-corridor-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -4163,15 +4237,46 @@
       "id": "bb6cab956849fcf5a732"
     }
   ],
-  "new_findings": [],
-  "source_errors": [
+  "new_findings": [
     {
-      "source_id": "e27_asia_startups_feed",
-      "source_name": "e27 Asia Startup and Tech Feed",
+      "title": "M 5.8 - 79 km WSW of Changuillo, Peru",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty1a",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "error": "500 Server Error: Internal Server Error for url: https://e27.co/index_wp.php/feed/"
+      "published_at": "2026-11-13T17:07:48.457+00:00",
+      "fetched_at": "2026-11-13T17:11:52+00:00",
+      "summary": "ShakeMap - V Time 2026-11-13 16:43:02 UTC 2026-11-13 16:43:02 UTC at epicenter Location 14.993°S 75.881°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "5d0abdc81f90b948eadb"
     }
   ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
