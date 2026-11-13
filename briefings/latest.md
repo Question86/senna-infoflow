@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-13T03:16:30+00:00_
+_Generiert: 2026-11-13T03:24:48+00:00_
 
 ## Kurzlage
 
-19 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+20 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -158,6 +158,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 古川大臣記者会見（令和8年11月13日）動画を掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **AIが作成?画像は別人?選挙ポスター複数掲示 作成費に公費支出 尼崎市議補選、戸惑う有権者** — Score 5, observation — [Quelle](https://www.kobe-np.co.jp/news/society/202611/0021027302.shtml)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-13T01:21:49+00:00`, fetched `2026-11-13T03:24:20+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: １５日投開票の兵庫県尼崎市議補選（欠員１）で、生成人工知能（ＡＩ）で作成したとみられる人物の選挙ポスターが複数掲示されている。市選挙管理委員会によると、少なくとも１人の顔は「候補者と全く違う」。選挙ポスターを巡っては昨年５月、品位保持などを目的に改正公選法が施行されたが具体的な基準はない。顔を知...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AWSをローカルマシン上でエミュレートする、AWS公式の「AWSエミューレタ」正式リリース** — Score 5, observation — [Quelle](https://www.publickey1.jp/blog/26/awsawsaws_1.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
