@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-13T01:39:07+00:00",
+  "generated_at": "2026-11-13T01:44:27+00:00",
   "topics": {
     "ai": [
       {
@@ -33,6 +33,13 @@
         "published_at": "2026-11-13T00:20:00.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txx9"
+      },
+      {
+        "title": "古川大臣記者会見（令和8年11月13日）動画を掲載しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-11-13T01:41:56+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/speech/minister-261113-01"
       },
       {
         "title": "AWSをローカルマシン上でエミュレートする、AWS公式の「AWSエミューレタ」正式リリース",

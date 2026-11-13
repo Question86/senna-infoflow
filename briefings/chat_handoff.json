@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-13T01:39:07+00:00",
+  "generated_at": "2026-11-13T01:44:27+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 7,
-    "displayed_findings": 7,
+    "new_relevant_findings": 1,
+    "today_file_total": 8,
+    "displayed_findings": 8,
     "high": 0,
     "medium": 1,
-    "observe": 6
+    "observe": 7
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -55,13 +55,13 @@
       "section": "observe"
     },
     {
-      "title": "AWSをローカルマシン上でエミュレートする、AWS公式の「AWSエミューレタ」正式リリース",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "古川大臣記者会見（令和8年11月13日）動画を掲載しました",
+      "source": "Japan Digital Agency News RSS",
       "source_type": "rss",
-      "published_at": "2026-11-12T14:37:20+00:00",
-      "relevance_score": 5,
-      "url": "https://www.publickey1.jp/blog/26/awsawsaws_1.html",
-      "summary": "Amazon Web Servicesは、ローカルマシン上でAWSのAPIをエミュレートする「AWSエミュレータ」の正式リリースを発表しました。 ダウンロードしてインストールすれば誰でも無料で利用でき、AWSアカウントも不要です。 Today we're launching AWS Emulator, a free local emulator of AWS services for building and testing...",
+      "published_at": "2026-11-13T01:41:56+00:00",
+      "relevance_score": 6,
+      "url": "https://www.digital.go.jp/speech/minister-261113-01",
+      "summary": "古川大臣記者会見（令和8年11月13日）動画を掲載しました",
       "section": "observe"
     }
   ],

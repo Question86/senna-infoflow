@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-13T01:39:07+00:00_
+_Generated: 2026-11-13T01:44:27+00:00_
 
 ## Status
 - status: `normal`
-- findings: `7`
+- findings: `8`
 
 ## Top Signals
 
@@ -36,11 +36,11 @@ _Generated: 2026-11-13T01:39:07+00:00_
 - url: https://jpcertcc.github.io/ir_report_checklist/index.html
 - summary: レポーター向け インシデント調査報告書作成時のチェックリスト（レポーター向け） インシデント調査を担当する者が、報告書を作成する際に使用します。 ユーザーおよびレポーター向け インシデント調査報告書サンプル チェックリストの基準を、実際の報告書構成と記載例に落とし込んだサンプルです。 PDFを開く チェッ...
 
-### 5. AWSをローカルマシン上でエミュレートする、AWS公式の「AWSエミューレタ」正式リリース
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-11-12T14:37:20+00:00`
-- url: https://www.publickey1.jp/blog/26/awsawsaws_1.html
-- summary: Amazon Web Servicesは、ローカルマシン上でAWSのAPIをエミュレートする「AWSエミュレータ」の正式リリースを発表しました。 ダウンロードしてインストールすれば誰でも無料で利用でき、AWSアカウントも不要です。 Today we're launching AWS Emulator, a free local emulator of AWS services for building and testing...
+### 5. 古川大臣記者会見（令和8年11月13日）動画を掲載しました
+- source: Japan Digital Agency News RSS
+- score: `6`
+- published: `2026-11-13T01:41:56+00:00`
+- url: https://www.digital.go.jp/speech/minister-261113-01
+- summary: 古川大臣記者会見（令和8年11月13日）動画を掲載しました
 
 END OF DOCUMENT
