@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-13T05:17:38Z",
+  "generated_at": "2026-11-13T05:32:15Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 31,
+    "dynamics": 33,
     "bands": {
       "krass": 2,
       "strong": 10,
-      "watch": 4,
-      "quiet": 15
+      "watch": 5,
+      "quiet": 16
     },
     "bands_after_gate_recheck": {
       "strong": 12,
-      "watch": 4,
-      "quiet": 15
+      "watch": 5,
+      "quiet": 16
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/jp/JVN76799957/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-13T12:00:00+09:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "security"
@@ -48,7 +48,7 @@
       "url": "https://jvn.jp/vu/JVNVU92656681/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-13T11:00:30+09:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -72,7 +72,7 @@
       "url": "https://jvn.jp/vu/JVNVU95718857/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-13T11:00:20+09:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -96,7 +96,7 @@
       "url": "https://jvn.jp/vu/JVNVU98641453/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-13T11:00:10+09:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -120,7 +120,7 @@
       "url": "https://jvn.jp/vu/JVNVU99429639/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-13T11:00:00+09:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -144,7 +144,7 @@
       "url": "https://e27.co/ai-didnt-eliminate-our-work-it-changed-what-our-team-could-do-20261109/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-13T05:00:36+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai"
       ],
@@ -169,7 +169,7 @@
       "url": "https://jvn.jp/vu/JVNVU90821966/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-13T11:00:40+09:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -194,7 +194,7 @@
       "url": "https://e27.co/why-south-korea-and-southeast-asia-could-be-the-next-cross-border-ai-and-blockchain-corridor-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-13T03:00:20+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "macro"
@@ -223,7 +223,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 147.14,
+      "age_days": 147.15,
       "topics": [
         "ai"
       ],
@@ -252,7 +252,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-11-13T00:29:05+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "ai",
         "macro",
@@ -281,7 +281,7 @@
       "url": "https://zenn.dev/dress_code/articles/568fd547315abe",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-12T03:01:52+00:00",
-      "age_days": 1.09,
+      "age_days": 1.1,
       "topics": [
         "ai"
       ],
@@ -307,7 +307,7 @@
       "url": "https://e27.co/your-buyer-is-probably-not-singaporean-what-2488-acquirers-tell-founders-planning-an-exit-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-13T05:00:48+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "general"
       ],
@@ -332,7 +332,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txy5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-13T05:06:28.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -352,11 +352,35 @@
       "summary": "Time 2026-11-13 04:49:33 UTC 2026-11-13 04:49:33 UTC at epicenter Location 8.262°S 116.751°E Depth 9.63 km (5.98 mi)"
     },
     {
+      "title": "Build what matters or what gets funded? India’s VCs say the real gap sits in the founder’s head",
+      "url": "https://e27.co/build-what-matters-or-what-gets-funded-indias-vcs-say-the-real-gap-sits-in-the-founders-head-20261113/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-13T05:24:18+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "There is no spreadsheet for this. You cannot plug in a dozen parameters, hit enter and receive a verdict on whether a startup matters. That was the opening salvo at a Huddle Global 2026 panel provocatively titled “The VC Truth: Build What Matters, Not What Gets Funded”, where three Indian venture capitalists spent the…"
+    },
+    {
       "title": "M 4.9 - Pagan region, Northern Mariana Islands",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txxy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-13T03:06:41.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -380,7 +404,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txx9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-13T00:20:00.040+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -404,7 +428,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txxl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-13T01:27:29.040+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -429,7 +453,7 @@
       "url": "https://e27.co/why-femtech-adoption-in-southeast-asia-stops-at-the-clinic-door-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-13T04:00:02+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "macro"
       ],
@@ -449,11 +473,35 @@
       "summary": "Southeast Asia has roughly 350 million women, and they make most of the household’s health decisions. That alone makes women’s health a large consumer market rather than a vertical. But market size tells you little about behaviour, and behaviour is where the interesting signal is. FemTech Association Asia’s 2026 resea…"
     },
     {
+      "title": "2026年11月に発生したMicrosoft 365の接続障害についてまとめてみた - piyolog",
+      "url": "https://piyolog.hatenadiary.jp/entry/2026/11/13/114230",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-13T03:20:28+00:00",
+      "age_days": 0.09,
+      "topics": [
+        "infra"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: exchange"
+      ],
+      "summary": "2026年11月13日、Microsoftは、Exchange Onlineを中心に複数のMicrosoft 365サービスで接続障害が起きていると公表しました。ここでは関連する情報をまとめます。 Exchange Onlineの接続障害が複数サービスへ拡大 障害はExchange Onlineのメールボックスに接続できない問題として始まり、複数のMicrosoft 365サービスへ..."
+    },
+    {
       "title": "AWSをローカルマシン上でエミュレートする、AWS公式の「AWSエミューレタ」正式リリース",
       "url": "https://www.publickey1.jp/blog/26/awsawsaws_1.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-12T14:37:20+00:00",
-      "age_days": 0.61,
+      "age_days": 0.62,
       "topics": [
         "general"
       ],
@@ -477,7 +525,7 @@
       "url": "https://jpcertcc.github.io/ir_report_checklist/index.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-11T13:20:41+00:00",
-      "age_days": 1.66,
+      "age_days": 1.67,
       "topics": [
         "general"
       ],
@@ -501,7 +549,7 @@
       "url": "https://e27.co/the-swift-premium-what-singapores-exclusive-eras-tour-deal-taught-asean-about-cultural-economics-20261109/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-13T05:13:03+00:00",
-      "age_days": 0.0,
+      "age_days": 0.01,
       "topics": [
         "ai"
       ],
@@ -527,7 +575,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261113-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-11-13T01:41:56+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -551,7 +599,7 @@
       "url": "https://www.watch.impress.co.jp/docs/news/2156008.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-13T00:44:06+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -575,7 +623,7 @@
       "url": "https://e27.co/jensen-huang-quits-nvidia-and-southeast-asias-chip-hubs-inherit-the-fallout-20261113/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-13T01:22:19+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -600,7 +648,7 @@
       "url": "https://e27.co/the-ghost-in-the-middle-how-one-manager-upskilled-himself-out-of-the-room-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-13T02:00:40+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "infra"
@@ -628,7 +676,7 @@
       "url": "https://e27.co/the-philippines-trusts-ai-more-than-anyone-in-asean-its-rulebook-hasnt-caught-up-20261113/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-13T04:09:27+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "macro"
@@ -654,7 +702,7 @@
       "url": "https://www.kobe-np.co.jp/news/society/202611/0021027302.shtml",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-13T01:21:49+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -680,7 +728,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 146.1,
+      "age_days": 146.11,
       "topics": [
         "general"
       ],
@@ -705,7 +753,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 146.1,
+      "age_days": 146.11,
       "topics": [
         "general"
       ],
@@ -730,7 +778,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 146.1,
+      "age_days": 146.11,
       "topics": [
         "ai"
       ],
@@ -757,7 +805,7 @@
       "url": "https://e27.co/fear-is-high-and-longs-got-flushed-is-us70000-the-next-line-in-the-sand-20261113/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-13T02:34:00+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro"
@@ -783,7 +831,7 @@
       "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
       "source": "GitHub Blog Atom",
       "published_at": "2026-11-13T00:20:16+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
