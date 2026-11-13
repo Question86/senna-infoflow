@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-13T14:17:16+00:00_
+_Generiert: 2026-11-13T14:23:30+00:00_
 
 ## Kurzlage
 
-67 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+68 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -258,14 +258,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 【事前案内】アドレス・ベース・レジストリシステム更改における 町字データのCSVフォーマット変更について掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Microsoft 365の障害で上司が事業部の部長から「こうなる事を予想して事前に対処しておくのがシステム部だろうが！」と言われ、反抗して早退…連絡の受け手は必然的に私に** — Score 5, observation — [Quelle](https://togetter.com/li/2770045)
+- **マネックス証券、不正アクセスでメールアドレス最大113万件と本人確認書類1600件弱が漏洩のおそれ** — Score 5, observation — [Quelle](https://k-tai.watch.impress.co.jp/docs/news/2156449.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-13T09:58:17+00:00`, fetched `2026-11-13T11:05:58+00:00`
+  - Zeit: published `2026-11-13T12:34:09+00:00`, fetched `2026-11-13T14:23:01+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: まあゆ @ma_yu_69 上司が事業部の部長に「こうなる事（M365の障害）を予想して事前に対処しておくのがシステム部だろうが！！」って言われて「（システムを）分かんねぇくせに口出すな知ったかぶりが！！」って応酬して、そのまま早退してしまった午前11時47分 2026-11-13 12:20:34 まあゆ @ma_yu_69 その後、1時間後に...
+  - Kurz: マネックス証券、不正アクセスでメールアドレス最大113万件と本人確認書類1600件弱が漏洩のおそれ
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **pookjw/HermesEnabler** — Score 5, observation — [Quelle](https://github.com/pookjw/HermesEnabler)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
