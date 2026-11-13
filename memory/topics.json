@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-13T13:02:06+00:00",
+  "generated_at": "2026-11-13T13:13:26+00:00",
   "topics": {
     "ai": [
       {
@@ -98,6 +98,13 @@
         "url": "https://jvn.jp/vu/JVNVU90821966/"
       },
       {
+        "title": "[UPDATE] [hoch] expat: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-13T13:08:55+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3796"
+      },
+      {
         "title": "JetBrains製YouTrackにおけるクロスサイトスクリプティングの脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-11-13T12:00:00+09:00",
@@ -138,13 +145,6 @@
         "published_at": "2026-11-13T10:38:25+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3680"
-      },
-      {
-        "title": "[UPDATE] [mittel] expat: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-13T10:38:23+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3637"
       }
     ],
     "github": [
