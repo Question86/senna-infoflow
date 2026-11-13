@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-13T07:29:31+00:00",
-  "run_id": "2026-11-13T07:29:31+00:00",
+  "generated_at": "2026-11-13T07:36:57+00:00",
+  "run_id": "2026-11-13T07:36:57+00:00",
   "date": "2026-11-13",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
       "configured_public_sources_only": 36
     },
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 36,
     "displayed_findings": 36,
     "high": 0,
     "medium": 10,
     "observe": 26,
-    "source_errors": 1
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -1857,38 +1857,8 @@
       "id": "bb6cab956849fcf5a732"
     }
   ],
-  "new_findings": [
-    {
-      "title": "ぼくのClaude Codeの使い方",
-      "url": "https://speakerdeck.com/falken/boku-no-claude-code-no-tsukaikata",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-12T15:11:52+00:00",
-      "fetched_at": "2026-11-13T07:28:53+00:00",
-      "summary": "Sapporo Claude Code Meetup LT, 2026/11/12",
-      "matched_keywords": [
-        "AI Agents",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "af3ba1c09b1e52720020"
-    }
-  ],
-  "source_errors": [
-    {
-      "source_id": "twcert_tvn_vulnerability_notes",
-      "source_name": "TWCERT/CC TVN Vulnerability Notes RSS",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7fe5cf40e050>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))"
-    }
-  ],
+  "new_findings": [],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
