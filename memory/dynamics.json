@@ -1,30 +1,81 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-13T10:32:05Z",
+  "generated_at": "2026-11-13T10:47:08Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 7,
-      "strong": 16,
+      "krass": 9,
+      "strong": 18,
       "watch": 8,
-      "quiet": 9
+      "quiet": 5
     },
     "bands_after_gate_recheck": {
-      "krass": 1,
-      "strong": 22,
+      "krass": 3,
+      "strong": 24,
       "watch": 8,
-      "quiet": 9
+      "quiet": 5
     }
   },
   "top_dynamics": [
+    {
+      "title": "[UPDATE] [mittel] Nvidia GPU Display Treiber: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3680",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-13T10:38:25+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Nvidia Treiber ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren oder Denial-of-Service-Zustände zu verursachen."
+    },
+    {
+      "title": "[UPDATE] [mittel] RPM: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3643",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-13T10:38:23+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in RPM ausnutzen, um potenziell Code auszuführen, Daten zu manipulieren oder um einen Denial-of-Service-Zustand herbeizuführen."
+    },
     {
       "title": "[UPDATE] [mittel] CPython: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4460",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T10:13:27+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -49,7 +100,7 @@
       "url": "https://jvn.jp/jp/JVN76799957/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-13T12:00:00+09:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "ai",
         "security"
@@ -74,7 +125,7 @@
       "url": "https://jvn.jp/vu/JVNVU92656681/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-13T11:00:30+09:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -98,7 +149,7 @@
       "url": "https://jvn.jp/vu/JVNVU95718857/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-13T11:00:20+09:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -122,7 +173,7 @@
       "url": "https://jvn.jp/vu/JVNVU98641453/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-13T11:00:10+09:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -146,7 +197,7 @@
       "url": "https://jvn.jp/vu/JVNVU99429639/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-13T11:00:00+09:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -166,11 +217,35 @@
       "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
     },
     {
+      "title": "[UPDATE] [mittel] expat: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3637",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-13T10:38:23+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in expat ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
       "title": "[UPDATE] [niedrig] mutt: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1343",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T08:27:49+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -194,7 +269,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1228",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T08:27:27+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -218,7 +293,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4531",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T08:02:04+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -242,7 +317,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1405",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T08:02:03+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -266,7 +341,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3759",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T08:02:02+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -290,7 +365,7 @@
       "url": "https://e27.co/ai-didnt-eliminate-our-work-it-changed-what-our-team-could-do-20261109/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-13T05:00:36+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -315,7 +390,7 @@
       "url": "https://github.com/QwenLM/qwen-code",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-13T08:28:14+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -343,7 +418,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4517",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T10:13:28+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -369,7 +444,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2980",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T09:22:02+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -395,7 +470,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2939",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T09:22:02+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -421,7 +496,7 @@
       "url": "https://jvn.jp/vu/JVNVU90821966/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-13T11:00:40+09:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -446,7 +521,7 @@
       "url": "https://e27.co/why-south-korea-and-southeast-asia-could-be-the-next-cross-border-ai-and-blockchain-corridor-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-13T03:00:20+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "ai",
         "macro"
@@ -475,7 +550,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 147.36,
+      "age_days": 147.37,
       "topics": [
         "ai"
       ],
@@ -504,7 +579,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-11-13T10:29:47+00:00",
-      "age_days": 0.0,
+      "age_days": 0.01,
       "topics": [
         "ai",
         "macro",
@@ -533,7 +608,7 @@
       "url": "https://github.com/openai/codex-security",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-13T08:28:14+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "security",
@@ -558,11 +633,37 @@
       "summary": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security https://developers.openai.com/codex/security Codex Security Codex Security helps you find, investigate, and fix vulnerabilities in your code. Use its se…"
     },
     {
+      "title": "Version 1.0: Zero-Day Schwachstellen in Danfoss Controllern veröffentlicht",
+      "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-306525-1032_bits.html",
+      "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+      "published_at": "2026-11-13T10:00:00+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: zero-day, active, exploitation",
+        "security high-signal: zero-day, active, exploitation, rce",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "Version 1.0: Zero-Day Schwachstellen in Danfoss Controllern veröffentlicht"
+    },
+    {
       "title": "AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫",
       "url": "https://zenn.dev/dress_code/articles/568fd547315abe",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-12T03:01:52+00:00",
-      "age_days": 1.31,
+      "age_days": 1.32,
       "topics": [
         "ai"
       ],
@@ -588,7 +689,7 @@
       "url": "https://e27.co/your-buyer-is-probably-not-singaporean-what-2488-acquirers-tell-founders-planning-an-exit-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-13T05:00:48+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -613,7 +714,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txy5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-13T05:06:28.040+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -637,7 +738,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txz3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-13T10:21:18.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -662,7 +763,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txyr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-13T08:37:22.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -687,7 +788,7 @@
       "url": "https://ktlog.net/posts/claude-code-ai-ecosystem",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-13T05:21:58+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -713,7 +814,7 @@
       "url": "https://e27.co/build-what-matters-or-what-gets-funded-indias-vcs-say-the-real-gap-sits-in-the-founders-head-20261113/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-13T05:24:18+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -737,7 +838,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txxy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-13T03:06:41.040+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "disaster"
       ],
@@ -761,7 +862,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txx9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-13T00:20:00.040+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "disaster"
       ],
@@ -785,7 +886,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txxl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-13T01:27:29.040+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "disaster"
       ],
@@ -810,7 +911,7 @@
       "url": "https://e27.co/why-femtech-adoption-in-southeast-asia-stops-at-the-clinic-door-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-13T04:00:02+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "macro"
       ],
@@ -834,7 +935,7 @@
       "url": "https://piyolog.hatenadiary.jp/entry/2026/11/13/114230",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-13T03:20:28+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "infra"
       ],
@@ -858,7 +959,7 @@
       "url": "https://speakerdeck.com/falken/boku-no-claude-code-no-tsukaikata",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-12T15:11:52+00:00",
-      "age_days": 0.81,
+      "age_days": 0.82,
       "topics": [
         "ai"
       ],
@@ -884,7 +985,7 @@
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-11-13T07:20:00+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "macro"
       ],
@@ -908,7 +1009,7 @@
       "url": "https://www.publickey1.jp/blog/26/awsawsaws_1.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-12T14:37:20+00:00",
-      "age_days": 0.83,
+      "age_days": 0.84,
       "topics": [
         "general"
       ],
@@ -926,105 +1027,7 @@
         "early terms: local"
       ],
       "summary": "Amazon Web Servicesは、ローカルマシン上でAWSのAPIをエミュレートする「AWSエミュレータ」の正式リリースを発表しました。 ダウンロードしてインストールすれば誰でも無料で利用でき、AWSアカウントも不要です。 Today we're launching AWS Emulator, a free local emulator of AWS services for building and testing..."
-    },
-    {
-      "title": "インシデント調査報告書チェックリスト",
-      "url": "https://jpcertcc.github.io/ir_report_checklist/index.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-11T13:20:41+00:00",
-      "age_days": 1.88,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "レポーター向け インシデント調査報告書作成時のチェックリスト（レポーター向け） インシデント調査を担当する者が、報告書を作成する際に使用します。 ユーザーおよびレポーター向け インシデント調査報告書サンプル チェックリストの基準を、実際の報告書構成と記載例に落とし込んだサンプルです。 PDFを開く チェッ..."
-    },
-    {
-      "title": "The Swift premium: What Singapore’s exclusive Eras Tour deal taught ASEAN about cultural economics",
-      "url": "https://e27.co/the-swift-premium-what-singapores-exclusive-eras-tour-deal-taught-asean-about-cultural-economics-20261109/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-13T05:13:03+00:00",
-      "age_days": 0.22,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "When Singapore arranged exclusive Southeast Asian dates for Taylor Swift’s Eras Tour in March 2024, six shows, only stop in the region, the diplomatic and economic discussion that followed was one of the more publicly visible moments of ASEAN economic competition in recent memory. Thai officials publicly questioned th…"
-    },
-    {
-      "title": "マイクロソフト社の障害によりメール不着等となる事象について",
-      "url": "https://www.digital.go.jp/press/61be1195-0d24-4020-addd-1d5c0e4013ff",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-11-13T06:46:36+00:00",
-      "age_days": 0.16,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "マイクロソフト社の障害によりメール不着等となる事象について"
-    },
-    {
-      "title": "デジタル改革共創プラットフォームに係る資料や利用規約・プライバシーポリシーを更新しました",
-      "url": "https://www.digital.go.jp/get-involved/co-creation-platform",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-11-13T06:00:00+00:00",
-      "age_days": 0.19,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "デジタル改革共創プラットフォームに係る資料や利用規約・プライバシーポリシーを更新しました"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] CPython: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] Nvidia GPU Display Treiber: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
 }
