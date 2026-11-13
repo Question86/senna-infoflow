@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-12T23:59:39+00:00",
+  "generated_at": "2026-11-13T00:29:15+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 109,
-    "displayed_findings": 109,
+    "new_relevant_findings": 4,
+    "today_file_total": 4,
+    "displayed_findings": 4,
     "high": 0,
-    "medium": 42,
-    "observe": 67
+    "medium": 1,
+    "observe": 3
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -18,80 +18,40 @@
       "title": "Updates | ReliefWeb",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-12T23:53:33+00:00",
+      "published_at": "2026-11-13T00:29:05+00:00",
       "relevance_score": 23,
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "section": "medium"
     },
     {
-      "title": "[UPDATE] [UNGEPATCHT] [hoch] BusyBox: Mehrere Schwachstellen",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-11-12T09:20:17+00:00",
-      "relevance_score": 21,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4451",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in BusyBox ausnutzen, um Informationen offenzulegen, beliebigen Code mit erhöhten Berechtigungen bis hin zu Root-Rechten auszuführen oder einen Denial-of-Service-Zustand zu verursachen.",
-      "section": "medium"
-    },
-    {
-      "title": "Build once, run on any agent: A practical guide to agent skills",
-      "source": "GitHub Blog Atom",
-      "source_type": "rss",
-      "published_at": "2026-11-12T22:54:52+00:00",
-      "relevance_score": 20,
-      "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
-      "summary": "Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. The post Build once, run on any agent: A practical guide to agent skills appeared f…",
-      "section": "medium"
-    },
-    {
-      "title": "Your finance team’s ChatGPT habit is a cross-border data transfer",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-12T04:30:26+00:00",
-      "relevance_score": 20,
-      "url": "https://e27.co/your-finance-teams-chatgpt-habit-is-a-cross-border-data-transfer-20261106/",
-      "summary": "Last week I sat with the CEO and CFO of a finance company that is genuinely top of its game in this region. Sophisticated operators. Strong compliance culture on paper. 10 minutes into the conversation, it emerged that their team pastes customer records, fina…",
-      "section": "medium"
-    },
-    {
-      "title": "How I use AI in venture capital",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-12T05:00:44+00:00",
-      "relevance_score": 13,
-      "url": "https://e27.co/how-i-use-ai-in-venture-capital-20261109/",
-      "summary": "As a Venture Capital (“VC”) investor, making timely and data-driven investment decisions sits at the core of what we do. Yet, we often come across common problems within our investment process. These have traditionally created bottlenecks, inefficiencies and…",
-      "section": "observe"
-    },
-    {
-      "title": "M 5.4 - South Sandwich Islands region",
+      "title": "M 5.1 - 39 km S of Moíres, Greece",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-11-12T04:08:07.366+00:00",
-      "relevance_score": 13,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txqr",
-      "summary": "PAGER - GREEN ShakeMap - III Time 2026-11-12 03:45:56 UTC 2026-11-12 03:45:56 UTC at epicenter Location 59.033°S 26.029°W Depth 121.56 km (75.53 mi)",
+      "published_at": "2026-11-13T00:20:00.040+00:00",
+      "relevance_score": 9,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txx9",
+      "summary": "Time 2026-11-13 00:05:04 UTC 2026-11-13 00:05:04 UTC at epicenter Location 34.697°N 24.880°E Depth 43.36 km (26.94 mi)",
       "section": "observe"
     },
     {
-      "title": "Supporting research on AI and children’s safety",
-      "source": "OpenAI News RSS",
+      "title": "AWSをローカルマシン上でエミュレートする、AWS公式の「AWSエミューレタ」正式リリース",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-11-12T00:00:00+00:00",
-      "relevance_score": 13,
-      "url": "https://openai.com/index/children-first-declaration",
-      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "published_at": "2026-11-12T14:37:20+00:00",
+      "relevance_score": 5,
+      "url": "https://www.publickey1.jp/blog/26/awsawsaws_1.html",
+      "summary": "Amazon Web Servicesは、ローカルマシン上でAWSのAPIをエミュレートする「AWSエミュレータ」の正式リリースを発表しました。 ダウンロードしてインストールすれば誰でも無料で利用でき、AWSアカウントも不要です。 Today we're launching AWS Emulator, a free local emulator of AWS services for building and testing...",
       "section": "observe"
     },
     {
-      "title": "Secret scanning detects Cloudflare service tokens",
-      "source": "GitHub Changelog Atom",
+      "title": "GitHub availability report: October 2026",
+      "source": "GitHub Blog Atom",
       "source_type": "rss",
-      "published_at": "2026-11-12T14:38:25+00:00",
-      "relevance_score": 12,
-      "url": "https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare",
-      "summary": "Secret scanning now detects Cloudflare service tokens. Detectors added Secret scanning now automatically detects the following new secret type in your repositories. Provider Secret type Cloudflare cloudflare_access_service_token Partner secrets are… The post…",
+      "published_at": "2026-11-13T00:20:16+00:00",
+      "relevance_score": 4,
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
+      "summary": "In October, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: October 2026 appeared first on The GitHub Blog .",
       "section": "observe"
     }
   ],
@@ -100,141 +60,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “[UPDATE] [hoch] Microsoft Developer Tools: Mehrere Schwachstellen” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=41.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "[UPDATE] [hoch] Microsoft Developer Tools: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4481",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T09:20:16+00:00",
-        "age_days": 0.62,
-        "topics": [
-          "axiom",
-          "security"
-        ],
-        "dynamics_score": 41.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code, auth",
-          "security high-signal: code, auth",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Microsoft Azure, Microsoft Azure DevOps Server, Microsoft PowerShell, Microsoft ASP.NET, Microsoft .NET, Microsoft 365 Apps, Microsoft Visual Studio 2022, Microsoft Visual Studio 2026 und Microsoft Visual Studio Code ausnutzen, um seine Privilegi…"
-      },
-      {
-        "title": "[NEU] [hoch] Red Hat Enterprise Linux: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4542",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T12:57:01+00:00",
-        "age_days": 0.46,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um erweiterte Berechtigungen zu erlangen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren und offenzulegen sowie einen Denial-of-Service-Zustand auszulösen."
-      },
-      {
-        "title": "[NEU] [UNGEPATCHT] [hoch] PTC FlexPLM: Schwachstelle ermöglicht Codeausführung",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4540",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T12:27:01+00:00",
-        "age_days": 0.49,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in PTC FlexPLM und PTC Windchill ausnutzen, um beliebigen Programmcode auszuführen."
-      },
-      {
-        "title": "Multiples vulnérabilités dans Google Chrome (10 novembre 2026)",
-        "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1488/",
-        "source": "CERT-FR Avis de sécurité",
-        "published_at": "2026-11-10T00:00:00+00:00",
-        "age_days": 3.0,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: active, 10",
-          "security high-signal: active, 10"
-        ],
-        "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. Google indique que la vulnérabilité CVE-2026-125350 est activement exploitée."
-      },
-      {
-        "title": "[NEU] [mittel] nginx-ui: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4539",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-12T12:27:01+00:00",
-        "age_days": 0.49,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: auth",
-          "security high-signal: auth"
-        ],
-        "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in nginx-ui ausnutzen, um Sicherheitsvorkehrungen zu umgehen oder Informationen offenzulegen."
-      }
-    ]
-  }
+  ]
 }

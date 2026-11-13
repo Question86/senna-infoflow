@@ -1,67 +1,39 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-12T23:59:39+00:00_
+_Generated: 2026-11-13T00:29:15+00:00_
 
 ## Status
 - status: `normal`
-- findings: `109`
+- findings: `4`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-12T23:53:33+00:00`
+- published: `2026-11-13T00:29:05+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
-### 2. [UPDATE] [UNGEPATCHT] [hoch] BusyBox: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `21`
-- published: `2026-11-12T09:20:17+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4451
-- summary: Ein Angreifer kann mehrere Schwachstellen in BusyBox ausnutzen, um Informationen offenzulegen, beliebigen Code mit erhöhten Berechtigungen bis hin zu Root-Rechten auszuführen oder einen Denial-of-Service-Zustand zu verursachen.
-
-### 3. Build once, run on any agent: A practical guide to agent skills
-- source: GitHub Blog Atom
-- score: `20`
-- published: `2026-11-12T22:54:52+00:00`
-- url: https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/
-- summary: Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. The post Build once, run on any agent: A practical guide to agent skills appeared f…
-
-### 4. Your finance team’s ChatGPT habit is a cross-border data transfer
-- source: e27 Asia Startup and Tech Feed
-- score: `20`
-- published: `2026-11-12T04:30:26+00:00`
-- url: https://e27.co/your-finance-teams-chatgpt-habit-is-a-cross-border-data-transfer-20261106/
-- summary: Last week I sat with the CEO and CFO of a finance company that is genuinely top of its game in this region. Sophisticated operators. Strong compliance culture on paper. 10 minutes into the conversation, it emerged that their team pastes customer records, fina…
-
-### 5. How I use AI in venture capital
-- source: e27 Asia Startup and Tech Feed
-- score: `13`
-- published: `2026-11-12T05:00:44+00:00`
-- url: https://e27.co/how-i-use-ai-in-venture-capital-20261109/
-- summary: As a Venture Capital (“VC”) investor, making timely and data-driven investment decisions sits at the core of what we do. Yet, we often come across common problems within our investment process. These have traditionally created bottlenecks, inefficiencies and…
-
-### 6. M 5.4 - South Sandwich Islands region
+### 2. M 5.1 - 39 km S of Moíres, Greece
 - source: USGS M4.5+ Earthquakes Past Hour
-- score: `13`
-- published: `2026-11-12T04:08:07.366+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000txqr
-- summary: PAGER - GREEN ShakeMap - III Time 2026-11-12 03:45:56 UTC 2026-11-12 03:45:56 UTC at epicenter Location 59.033°S 26.029°W Depth 121.56 km (75.53 mi)
+- score: `9`
+- published: `2026-11-13T00:20:00.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000txx9
+- summary: Time 2026-11-13 00:05:04 UTC 2026-11-13 00:05:04 UTC at epicenter Location 34.697°N 24.880°E Depth 43.36 km (26.94 mi)
 
-### 7. Supporting research on AI and children’s safety
-- source: OpenAI News RSS
-- score: `13`
-- published: `2026-11-12T00:00:00+00:00`
-- url: https://openai.com/index/children-first-declaration
-- summary: OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.
+### 3. AWSをローカルマシン上でエミュレートする、AWS公式の「AWSエミューレタ」正式リリース
+- source: Hatena Bookmark Hotentry IT
+- score: `5`
+- published: `2026-11-12T14:37:20+00:00`
+- url: https://www.publickey1.jp/blog/26/awsawsaws_1.html
+- summary: Amazon Web Servicesは、ローカルマシン上でAWSのAPIをエミュレートする「AWSエミュレータ」の正式リリースを発表しました。 ダウンロードしてインストールすれば誰でも無料で利用でき、AWSアカウントも不要です。 Today we're launching AWS Emulator, a free local emulator of AWS services for building and testing...
 
-### 8. Secret scanning detects Cloudflare service tokens
-- source: GitHub Changelog Atom
-- score: `12`
-- published: `2026-11-12T14:38:25+00:00`
-- url: https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare
-- summary: Secret scanning now detects Cloudflare service tokens. Detectors added Secret scanning now automatically detects the following new secret type in your repositories. Provider Secret type Cloudflare cloudflare_access_service_token Partner secrets are… The post…
+### 4. GitHub availability report: October 2026
+- source: GitHub Blog Atom
+- score: `4`
+- published: `2026-11-13T00:20:16+00:00`
+- url: https://github.blog/news-insights/company-news/github-availability-report-october-2026/
+- summary: In October, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: October 2026 appeared first on The GitHub Blog .
 
 END OF DOCUMENT
