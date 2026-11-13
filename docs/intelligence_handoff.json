@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-13T14:32:05Z",
+  "generated_at": "2026-11-13T15:17:01Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] PostgreSQL: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4571",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T13:22:51+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3159",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T13:17:15+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -65,7 +65,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3680",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T10:38:25+00:00",
-      "age_days": 0.16,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "security"
@@ -91,7 +91,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3643",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T10:38:23+00:00",
-      "age_days": 0.16,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -116,7 +116,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4460",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T10:13:27+00:00",
-      "age_days": 0.18,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -141,7 +141,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4569",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T13:22:50+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -167,7 +167,7 @@
       "url": "https://github.com/QwenLM/qwen-code",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-13T08:28:14+00:00",
-      "age_days": 0.25,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -195,7 +195,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3796",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T13:08:55+00:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -221,7 +221,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4517",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T10:13:28+00:00",
-      "age_days": 0.18,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -247,7 +247,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2980",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T09:22:02+00:00",
-      "age_days": 0.22,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -273,7 +273,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2939",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T09:22:02+00:00",
-      "age_days": 0.22,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -295,12 +295,13 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in ffmpeg ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, um beliebigen Programmcode auszuführen, und um einen Denial of Service Angriff durchzuführen."
     },
     {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月12日）",
-      "url": "https://jvn.jp/vu/JVNVU90821966/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-11-13T11:00:40+09:00",
-      "age_days": 0.52,
+      "title": "Multiples vulnérabilités dans Apache HTTP Server (12 novembre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1500/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "age_days": 1.64,
       "topics": [
+        "ai",
         "security"
       ],
       "dynamics_score": 24.9,
@@ -314,10 +315,11 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "security high-signal: cisa, jvn, security, advisory",
-        "official security but no high-signal phrase: capped at strong"
+        "high terms: code",
+        "security high-signal: code",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
       ],
-      "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
+      "summary": "De multiples vulnérabilités ont été découvertes dans Apache HTTP Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et un problème de sécurité non spécifié par l'éditeur."
     }
   ],
   "read_order": [
