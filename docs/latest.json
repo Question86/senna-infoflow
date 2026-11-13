@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13T04:15:20+00:00",
-  "run_id": "2026-11-13T04:15:20+00:00",
+  "generated_at": "2026-11-13T04:23:01+00:00",
+  "run_id": "2026-11-13T04:23:01+00:00",
   "date": "2026-11-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 23,
     "displayed_findings": 23,
     "high": 0,
@@ -1197,50 +1197,7 @@
       "id": "bb6cab956849fcf5a732"
     }
   ],
-  "new_findings": [
-    {
-      "title": "The Philippines trusts AI more than anyone in ASEAN. Its rulebook hasn’t caught up",
-      "url": "https://e27.co/the-philippines-trusts-ai-more-than-anyone-in-asean-its-rulebook-hasnt-caught-up-20261113/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-13T04:09:27+00:00",
-      "fetched_at": "2026-11-13T04:14:50+00:00",
-      "summary": "Picture a claims officer in Makati pasting a customer’s medical file into a free chatbot to draft a rejection letter before lunch. Upstairs, her CEO signs off on a market-entry plan stitched together by the same kind of tool. Nobody has told either of them what is allowed, because in most Philippine companies, nobody has […] The post The Philippines trusts AI more than anyone in ASEAN. Its rulebook hasn’t caught up…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines, ASEAN (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "85734274104703d8c6b3"
-    },
-    {
-      "title": "Why femtech adoption in Southeast Asia stops at the clinic door",
-      "url": "https://e27.co/why-femtech-adoption-in-southeast-asia-stops-at-the-clinic-door-20261106/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-13T04:00:02+00:00",
-      "fetched_at": "2026-11-13T04:14:50+00:00",
-      "summary": "Southeast Asia has roughly 350 million women, and they make most of the household’s health decisions. That alone makes women’s health a large consumer market rather than a vertical. But market size tells you little about behaviour, and behaviour is where the interesting signal is. FemTech Association Asia’s 2026 research across six markets, run with […] The post Why femtech adoption in Southeast Asia stops at the cl…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Southeast Asia"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4acc30f1f5357f5e073e"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
