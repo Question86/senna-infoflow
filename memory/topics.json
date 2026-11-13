@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-13T20:54:05+00:00",
+  "generated_at": "2026-11-13T20:59:19+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-11-13T14:07:19+00:00",
+        "published_at": "2026-11-13T20:59:09+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -182,6 +182,13 @@
         "published_at": "2026-11-11T13:20:41+00:00",
         "relevance_score": 7,
         "url": "https://jpcertcc.github.io/ir_report_checklist/index.html"
+      },
+      {
+        "title": "Upcoming deprecation of selected GitHub Copilot models in December",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-11-13T20:40:05+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december"
       },
       {
         "title": "GitHub Enterprise Server support in the GitHub Copilot app",
