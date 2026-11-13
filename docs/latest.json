@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13T14:23:30+00:00",
-  "run_id": "2026-11-13T14:23:30+00:00",
+  "generated_at": "2026-11-13T14:28:31+00:00",
+  "run_id": "2026-11-13T14:28:31+00:00",
   "date": "2026-11-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 68,
     "displayed_findings": 68,
     "high": 0,
@@ -3539,29 +3539,7 @@
       "id": "bb6cab956849fcf5a732"
     }
   ],
-  "new_findings": [
-    {
-      "title": "マネックス証券、不正アクセスでメールアドレス最大113万件と本人確認書類1600件弱が漏洩のおそれ",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2156449.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-13T12:34:09+00:00",
-      "fetched_at": "2026-11-13T14:23:01+00:00",
-      "summary": "マネックス証券、不正アクセスでメールアドレス最大113万件と本人確認書類1600件弱が漏洩のおそれ",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3fad29568a3a68063f8b"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
