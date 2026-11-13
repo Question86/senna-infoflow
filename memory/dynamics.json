@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-13T16:47:01Z",
+  "generated_at": "2026-11-13T17:02:43Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -20,7 +20,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4571",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T13:22:51+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -45,7 +45,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3159",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T13:17:15+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -70,7 +70,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3680",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T10:38:25+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "ai",
         "security"
@@ -96,7 +96,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3643",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T10:38:23+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -121,7 +121,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4460",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T10:13:27+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -146,7 +146,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4570",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T13:22:51+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -170,7 +170,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4568",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T13:22:30+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -194,7 +194,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4567",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T13:22:30+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -218,7 +218,7 @@
       "url": "https://jvn.jp/jp/JVN76799957/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-13T12:00:00+09:00",
-      "age_days": 0.57,
+      "age_days": 0.59,
       "topics": [
         "ai",
         "security"
@@ -243,7 +243,7 @@
       "url": "https://jvn.jp/vu/JVNVU92656681/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-13T11:00:30+09:00",
-      "age_days": 0.62,
+      "age_days": 0.63,
       "topics": [
         "security"
       ],
@@ -267,7 +267,7 @@
       "url": "https://jvn.jp/vu/JVNVU95718857/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-13T11:00:20+09:00",
-      "age_days": 0.62,
+      "age_days": 0.63,
       "topics": [
         "security"
       ],
@@ -291,7 +291,7 @@
       "url": "https://jvn.jp/vu/JVNVU98641453/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-13T11:00:10+09:00",
-      "age_days": 0.62,
+      "age_days": 0.63,
       "topics": [
         "security"
       ],
@@ -315,7 +315,7 @@
       "url": "https://jvn.jp/vu/JVNVU99429639/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-13T11:00:00+09:00",
-      "age_days": 0.62,
+      "age_days": 0.63,
       "topics": [
         "security"
       ],
@@ -339,7 +339,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3637",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T10:38:23+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -363,7 +363,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1343",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T08:27:49+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -387,7 +387,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1228",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T08:27:27+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -411,7 +411,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4531",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T08:02:04+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "security"
       ],
@@ -435,7 +435,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1405",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T08:02:03+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "security"
       ],
@@ -459,7 +459,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3759",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T08:02:02+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "security"
       ],
@@ -483,7 +483,7 @@
       "url": "https://e27.co/ai-didnt-eliminate-our-work-it-changed-what-our-team-could-do-20261109/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-13T05:00:36+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "ai"
       ],
@@ -508,7 +508,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4569",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T13:22:50+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -534,7 +534,7 @@
       "url": "https://github.com/QwenLM/qwen-code",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-13T08:28:14+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -562,7 +562,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3796",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T13:08:55+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -588,7 +588,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4517",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T10:13:28+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -614,7 +614,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2980",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T09:22:02+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -640,7 +640,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2939",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-13T09:22:02+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -666,7 +666,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1500/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-11-12T00:00:00+00:00",
-      "age_days": 1.7,
+      "age_days": 1.71,
       "topics": [
         "ai",
         "security"
@@ -693,7 +693,7 @@
       "url": "https://jvn.jp/vu/JVNVU90821966/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-13T11:00:40+09:00",
-      "age_days": 0.62,
+      "age_days": 0.63,
       "topics": [
         "security"
       ],
@@ -718,7 +718,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1505/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-11-12T00:00:00+00:00",
-      "age_days": 1.7,
+      "age_days": 1.71,
       "topics": [
         "ai",
         "security"
@@ -745,7 +745,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1501/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-11-12T00:00:00+00:00",
-      "age_days": 1.7,
+      "age_days": 1.71,
       "topics": [
         "ai",
         "security"
@@ -772,7 +772,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1502/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-11-12T00:00:00+00:00",
-      "age_days": 1.7,
+      "age_days": 1.71,
       "topics": [
         "ai",
         "security"
@@ -799,7 +799,7 @@
       "url": "https://e27.co/why-south-korea-and-southeast-asia-could-be-the-next-cross-border-ai-and-blockchain-corridor-20261101/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-13T03:00:20+00:00",
-      "age_days": 0.57,
+      "age_days": 0.58,
       "topics": [
         "ai",
         "macro"
@@ -828,7 +828,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 147.62,
+      "age_days": 147.63,
       "topics": [
         "ai"
       ],
@@ -857,7 +857,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-11-13T14:07:19+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro",
@@ -886,7 +886,7 @@
       "url": "https://github.com/openai/codex-security",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-13T08:28:14+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "ai",
         "security",
@@ -915,7 +915,7 @@
       "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-306525-1032_bits.html",
       "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
       "published_at": "2026-11-13T10:00:00+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -941,7 +941,7 @@
       "url": "https://zenn.dev/dress_code/articles/568fd547315abe",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-12T03:01:52+00:00",
-      "age_days": 1.57,
+      "age_days": 1.58,
       "topics": [
         "ai"
       ],
@@ -967,7 +967,7 @@
       "url": "https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-11-13T16:24:10+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "security",
@@ -996,7 +996,7 @@
       "url": "https://openai.com/index/introducing-chatgpt-wallet",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-13T15:00:00+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -1023,7 +1023,7 @@
       "url": "https://e27.co/your-buyer-is-probably-not-singaporean-what-2488-acquirers-tell-founders-planning-an-exit-20261106/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-13T05:00:48+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "general"
       ],
