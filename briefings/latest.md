@@ -1,14 +1,22 @@
 # Senna Briefing
 
-_Generiert: 2026-11-13T17:28:24+00:00_
+_Generiert: 2026-11-13T18:31:34+00:00_
 
 ## Kurzlage
 
-80 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+81 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-114713 UnrealIRCd UnrealIRCd** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-11-13`
+  - Kurz: Known exploited vulnerability. Added 2026-11-13. Due 2026-11-16. UnrealIRCd Improper Neutralization of Delimiters Vulnerability
+- **CISA KEV: CVE-2026-123039 Check Point Multiple Products** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-11-13`
+  - Kurz: Known exploited vulnerability. Added 2026-11-13. Due 2026-11-16. Check Point Multiple Products Incorrect Permission Assignment for Critical Resource Vulnerability
 - **CISA KEV: CVE-2026-124194 Microsoft Office** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-11-10`
@@ -21,14 +29,6 @@ _Generiert: 2026-11-13T17:28:24+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-11-10`
   - Kurz: Known exploited vulnerability. Added 2026-11-10. Due 2026-11-24. Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability
-- **CISA KEV: CVE-2026-111560 Barracuda Networks Multiple Products** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-11-10`
-  - Kurz: Known exploited vulnerability. Added 2026-11-10. Due 2026-11-13. Barracuda Networks Multiple Products OS Command Injection Vulnerability
-- **CISA KEV: CVE-2026-116606 Barracuda Networks Barracuda Email Security Gateway (ESG)** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-11-10`
-  - Kurz: Known exploited vulnerability. Added 2026-11-10. Due 2026-11-13. Barracuda Networks Email Security Gateway (ESG) Authentication Bypass Using an Alternate Path or Channel Vulnerability
 - **GDACS: Green flood alert in Myanmar** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104280)
   - Quelle: GDACS
   - Zeit: ``
@@ -45,10 +45,6 @@ _Generiert: 2026-11-13T17:28:24+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:59.652km) in Guatemala 10/11/2026 14:54 UTC, 1.2 million in MMI IV.
-- **USGS earthquake M5.8 - 79 km WSW of Changuillo, Peru** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty1a)
-  - Quelle: USGS
-  - Zeit: `2026-11-13T16:43:02+00:00`
-  - Kurz: M5.8 - 79 km WSW of Changuillo, Peru. PAGER alert: none. Tsunami flag: 0.
 
 ## Wirtschaft global
 
