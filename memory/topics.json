@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-13T13:13:26+00:00",
+  "generated_at": "2026-11-13T13:24:29+00:00",
   "topics": {
     "ai": [
       {
@@ -98,6 +98,13 @@
         "url": "https://jvn.jp/vu/JVNVU90821966/"
       },
       {
+        "title": "[UPDATE] [hoch] RPM: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-13T13:17:15+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3159"
+      },
+      {
         "title": "[UPDATE] [hoch] expat: Schwachstelle ermöglicht Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-13T13:08:55+00:00",
@@ -138,13 +145,6 @@
         "published_at": "2026-11-13T11:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU99429639/"
-      },
-      {
-        "title": "[UPDATE] [mittel] Nvidia GPU Display Treiber: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-13T10:38:25+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3680"
       }
     ],
     "github": [
