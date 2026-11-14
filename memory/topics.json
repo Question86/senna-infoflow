@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-14T00:41:17+00:00",
+  "generated_at": "2026-11-14T00:55:45+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-11-14T00:20:00+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+      },
+      {
+        "title": "The Home Repo Pattern",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-12T12:22:50+00:00",
+        "relevance_score": 12,
+        "url": "https://www.aihero.dev/the-home-repo-pattern"
       },
       {
         "title": "人間＋AIを「チーム」としてプロセスを再設計する",
@@ -33,6 +40,15 @@
         "published_at": "2026-11-14T00:00:00+00:00",
         "relevance_score": 14,
         "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm"
+      }
+    ],
+    "github": [
+      {
+        "title": "The Home Repo Pattern",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-12T12:22:50+00:00",
+        "relevance_score": 12,
+        "url": "https://www.aihero.dev/the-home-repo-pattern"
       }
     ]
   }

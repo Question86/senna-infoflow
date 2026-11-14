@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14T00:41:17+00:00",
-  "run_id": "2026-11-14T00:41:17+00:00",
+  "generated_at": "2026-11-14T00:55:45+00:00",
+  "run_id": "2026-11-14T00:55:45+00:00",
   "date": "2026-11-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 4
+      "configured_public_sources_only": 5
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 4,
-    "displayed_findings": 4,
+    "new_relevant_findings": 1,
+    "today_file_total": 5,
+    "displayed_findings": 5,
     "high": 0,
     "medium": 2,
-    "observe": 2,
+    "observe": 3,
     "source_errors": 0
   },
   "sections": {
@@ -96,6 +96,29 @@
       }
     ],
     "observe": [
+      {
+        "title": "The Home Repo Pattern",
+        "url": "https://www.aihero.dev/the-home-repo-pattern",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-12T12:22:50+00:00",
+        "fetched_at": "2026-11-14T00:55:15+00:00",
+        "summary": "The Home Repo PatternOne repo for your skills, AGENTS.md and shared docs, with pointers to your other repos. A reference, with a setup prompt you can copy. A Home Repo is one repository that holds your skills, your AGENTS.md and your shared docs. You run your agent in the Home Repo. Its AGENTS.md...",
+        "matched_keywords": [
+          "agent",
+          "AI Agents",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "96e094b1671de0b30ee6"
+      },
       {
         "title": "人間＋AIを「チーム」としてプロセスを再設計する",
         "url": "https://speakerdeck.com/littlehands/ai-kudou-keiei-suraido-20261112-0eeda77b-3c60-4af9-b059-2eb1ff3ef2c1",
@@ -207,6 +230,29 @@
       "id": "d05ca11934fdf5abeb1b"
     },
     {
+      "title": "The Home Repo Pattern",
+      "url": "https://www.aihero.dev/the-home-repo-pattern",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-12T12:22:50+00:00",
+      "fetched_at": "2026-11-14T00:55:15+00:00",
+      "summary": "The Home Repo PatternOne repo for your skills, AGENTS.md and shared docs, with pointers to your other repos. A reference, with a setup prompt you can copy. A Home Repo is one repository that holds your skills, your AGENTS.md and your shared docs. You run your agent in the Home Repo. Its AGENTS.md...",
+      "matched_keywords": [
+        "agent",
+        "AI Agents",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "96e094b1671de0b30ee6"
+    },
+    {
       "title": "人間＋AIを「チーム」としてプロセスを再設計する",
       "url": "https://speakerdeck.com/littlehands/ai-kudou-keiei-suraido-20261112-0eeda77b-3c60-4af9-b059-2eb1ff3ef2c1",
       "source": "Hatena Bookmark Hotentry IT",
@@ -249,7 +295,31 @@
       "id": "1852f825332105c8497a"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "The Home Repo Pattern",
+      "url": "https://www.aihero.dev/the-home-repo-pattern",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-12T12:22:50+00:00",
+      "fetched_at": "2026-11-14T00:55:15+00:00",
+      "summary": "The Home Repo PatternOne repo for your skills, AGENTS.md and shared docs, with pointers to your other repos. A reference, with a setup prompt you can copy. A Home Repo is one repository that holds your skills, your AGENTS.md and your shared docs. You run your agent in the Home Repo. Its AGENTS.md...",
+      "matched_keywords": [
+        "agent",
+        "AI Agents",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "96e094b1671de0b30ee6"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

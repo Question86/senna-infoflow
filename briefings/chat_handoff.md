@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-14T00:41:17+00:00_
+_Generated: 2026-11-14T00:55:45+00:00_
 
 ## Status
 - status: `normal`
-- findings: `4`
+- findings: `5`
 
 ## Top Signals
 
@@ -22,14 +22,21 @@ _Generated: 2026-11-14T00:41:17+00:00_
 - url: https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm
 - summary: Speech At the University of California, San Diego Economic Roundtable, San Diego, California
 
-### 3. 人間＋AIを「チーム」としてプロセスを再設計する
+### 3. The Home Repo Pattern
+- source: Hatena Bookmark Hotentry IT
+- score: `12`
+- published: `2026-11-12T12:22:50+00:00`
+- url: https://www.aihero.dev/the-home-repo-pattern
+- summary: The Home Repo PatternOne repo for your skills, AGENTS.md and shared docs, with pointers to your other repos. A reference, with a setup prompt you can copy. A Home Repo is one repository that holds your skills, your AGENTS.md and your shared docs. You run your…
+
+### 4. 人間＋AIを「チーム」としてプロセスを再設計する
 - source: Hatena Bookmark Hotentry IT
 - score: `8`
 - published: `2026-11-13T14:24:54+00:00`
 - url: https://speakerdeck.com/littlehands/ai-kudou-keiei-suraido-20261112-0eeda77b-3c60-4af9-b059-2eb1ff3ef2c1
 - summary: 「AI駆動経営」勉強会 #4（2026/11/12）での登壇資料です。 https://aid.connpass.com/event/409635/ AIで何もかもが変わっていくように見えますが、仕事は「一人とAI」では閉じません。 組織開発のフレームワーク GRPI（Goals / Role…
 
-### 4. Shield helps technicians hand off legacy portal work with OpenAI
+### 5. Shield helps technicians hand off legacy portal work with OpenAI
 - source: OpenAI News RSS
 - score: `8`
 - published: `2026-11-13T08:00:00+00:00`

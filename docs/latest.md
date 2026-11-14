@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-14T00:41:17+00:00_
+_Generiert: 2026-11-14T00:55:45+00:00_
 
 ## Kurzlage
 
-4 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+5 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -33,6 +33,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **The Home Repo Pattern** — Score 12, observation — [Quelle](https://www.aihero.dev/the-home-repo-pattern)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-12T12:22:50+00:00`, fetched `2026-11-14T00:55:15+00:00`
+  - Treffer: agent, AI Agents, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)
+  - Kurz: The Home Repo PatternOne repo for your skills, AGENTS.md and shared docs, with pointers to your other repos. A reference, with a setup prompt you can copy. A Home Repo is one repository that holds your skills, your AGENTS.md and your shared docs. You run your agent in the Home Repo. Its AGENTS.md...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **人間＋AIを「チーム」としてプロセスを再設計する** — Score 8, observation — [Quelle](https://speakerdeck.com/littlehands/ai-kudou-keiei-suraido-20261112-0eeda77b-3c60-4af9-b059-2eb1ff3ef2c1)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-13T14:24:54+00:00`, fetched `2026-11-14T00:19:45+00:00`
