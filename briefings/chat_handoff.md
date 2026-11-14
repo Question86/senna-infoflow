@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-14T03:26:50+00:00_
+_Generated: 2026-11-14T03:38:29+00:00_
 
 ## Status
 - status: `normal`
-- findings: `11`
+- findings: `12`
 
 ## Top Signals
 
@@ -29,25 +29,25 @@ _Generated: 2026-11-14T03:26:50+00:00_
 - url: https://www.aihero.dev/the-home-repo-pattern
 - summary: The Home Repo PatternOne repo for your skills, AGENTS.md and shared docs, with pointers to your other repos. A reference, with a setup prompt you can copy. A Home Repo is one repository that holds your skills, your AGENTS.md and your shared docs. You run your…
 
-### 4. M 5.2 - off the west coast of northern Sumatra
+### 4. M 4.7 - 54 km NW of San Antonio de los Cobres, Argentina
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-11-14T03:32:26.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty6p
+- summary: Time 2026-11-14 03:18:26 UTC 2026-11-14 03:18:26 UTC at epicenter Location 23.944°S 66.764°W Depth 216.09 km (134.27 mi)
+
+### 5. M 5.2 - off the west coast of northern Sumatra
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-11-14T03:16:42.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty6n
 - summary: Time 2026-11-14 02:59:29 UTC 2026-11-14 02:59:29 UTC at epicenter Location 3.304°N 92.826°E Depth 10.00 km (6.21 mi)
 
-### 5. M 4.5 - Fiji region
+### 6. M 4.5 - Fiji region
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-11-14T02:38:35.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty6e
 - summary: Time 2026-11-14 02:21:07 UTC 2026-11-14 02:21:07 UTC at epicenter Location 19.580°S 177.739°W Depth 587.45 km (365.02 mi)
-
-### 6. 人間＋AIを「チーム」としてプロセスを再設計する
-- source: Hatena Bookmark Hotentry IT
-- score: `8`
-- published: `2026-11-13T14:24:54+00:00`
-- url: https://speakerdeck.com/littlehands/ai-kudou-keiei-suraido-20261112-0eeda77b-3c60-4af9-b059-2eb1ff3ef2c1
-- summary: 「AI駆動経営」勉強会 #4（2026/11/12）での登壇資料です。 https://aid.connpass.com/event/409635/ AIで何もかもが変わっていくように見えますが、仕事は「一人とAI」では閉じません。 組織開発のフレームワーク GRPI（Goals / Role…
 
 END OF DOCUMENT
