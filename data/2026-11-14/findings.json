@@ -42,6 +42,43 @@
     "id": "95ebfb55b34968819288"
   },
   {
+    "title": "M 5.2 - State of Yap, Federated States of Micronesia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty7d",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-11-14T07:08:03.040+00:00",
+    "fetched_at": "2026-11-14T07:12:31+00:00",
+    "summary": "Time 2026-11-14 06:52:26 UTC 2026-11-14 06:52:26 UTC at epicenter Location 9.703°N 147.363°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "GitHub Actions",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "GitHub Actions (+6.2); Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "c270a780d50b742949b5"
+  },
+  {
     "title": "Jefferson, New Technology, Old Questions: Productivity Puzzles and the Macroeconomy",
     "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
     "source": "Federal Reserve Speeches and Testimony",
