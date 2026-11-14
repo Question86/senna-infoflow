@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-14T00:20:00+00:00",
-    "fetched_at": "2026-11-14T00:19:45+00:00",
+    "published_at": "2026-11-14T01:01:06+00:00",
+    "fetched_at": "2026-11-14T01:00:51+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "1c1bda6a993e9314240b"
+    "id": "ae6831e9252ed69995f0"
   },
   {
     "title": "Jefferson, New Technology, Old Questions: Productivity Puzzles and the Macroeconomy",
@@ -128,5 +128,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "1852f825332105c8497a"
+  },
+  {
+    "title": "データセンターの排熱でエビ養殖、NTT系が実験 育ったら食べられる？ 担当者に聞いてみた",
+    "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003200/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-11-13T11:33:08+00:00",
+    "fetched_at": "2026-11-14T01:00:51+00:00",
+    "summary": "NTTドコモビジネスなど4社は11月13日、データセンターの排熱を活用してエビを養殖する実証実験を発表した。2026年度中に養殖に適した排熱の回収方法を模索し、2027年度には回収した熱を使ってクルマエビ科の一種「バナメイエビ」を育てる計画だ。なぜエビの養殖を選んだのか、育てたエビはどうするのか。担当者に話を聞...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e77c02a4bf024046d753"
   }
 ]

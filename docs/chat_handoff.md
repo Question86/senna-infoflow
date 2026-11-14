@@ -1,17 +1,17 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-14T00:55:45+00:00_
+_Generated: 2026-11-14T01:01:20+00:00_
 
 ## Status
 - status: `normal`
-- findings: `5`
+- findings: `6`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-14T00:20:00+00:00`
+- published: `2026-11-14T01:01:06+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -42,5 +42,12 @@ _Generated: 2026-11-14T00:55:45+00:00_
 - published: `2026-11-13T08:00:00+00:00`
 - url: https://openai.com/business/customer-stories/shield
 - summary: Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.
+
+### 6. データセンターの排熱でエビ養殖、NTT系が実験 育ったら食べられる？ 担当者に聞いてみた
+- source: Hatena Bookmark Hotentry IT
+- score: `5`
+- published: `2026-11-13T11:33:08+00:00`
+- url: https://www.itmedia.co.jp/news/article/2611/13/2000003200/
+- summary: NTTドコモビジネスなど4社は11月13日、データセンターの排熱を活用してエビを養殖する実証実験を発表した。2026年度中に養殖に適した排熱の回収方法を模索し、2027年度には回収した熱を使ってクルマエビ科の一種「バナメイエビ」を育てる計画だ。なぜエビの養殖を選んだのか、育てたエビはどうするのか。担当者に話を聞...
 
 END OF DOCUMENT
