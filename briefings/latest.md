@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-14T21:43:41+00:00_
+_Generiert: 2026-11-14T21:49:08+00:00_
 
 ## Kurzlage
 
-35 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+36 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -123,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - I Time 2026-11-14 09:26:13 UTC 2026-11-14 09:26:13 UTC at epicenter Location 30.122°N 42.635°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Building always-on agents** — Score 12, observation — [Quelle](https://claude.com/resources/articles/building-always-on-agents)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-14T00:52:42+00:00`, fetched `2026-11-14T21:48:43+00:00`
+  - Treffer: agent, Content-Chance, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)
+  - Kurz: Always-on agents run indefinitely, deciding how and when to act across many sessions. This guide walks through their core primitives and how they fit together. Over the past few months, we’ve seen a resurgence of always-on agents. Always-on agents are stateful and proactive, meaning they manage c...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Google、高速・高効率な「Gemini 4 Hydrogen」を発表 ～「Claude Sonnet 5.5」「GPT-6.1 Terra」のライバル／前世代「3.8 Flash」の2.5倍の速さでタスクを完了** — Score 12, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2156117.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-13T02:57:17+00:00`, fetched `2026-11-14T12:29:58+00:00`
@@ -159,15 +168,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-11-14 04:59:00 UTC 2026-11-14 04:59:00 UTC at epicenter Location 50.374°S 139.666°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **AIについての追記** — Score 10, observation — [Quelle](https://www.ms.u-tokyo.ac.jp/~konno/grad_ai.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-14T10:13:39+00:00`, fetched `2026-11-14T16:09:43+00:00`
-  - Treffer: APAC Trend Radar, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Tokyo (+2.0)
-  - Kurz: Associate Professor, Graduate School of Mathematical Sciences 私のところで大学院入学を希望する方へ―AIについての追記 この文章は2026年11月に書いています．この年は，AIが数学にもたらした影響がある閾値を超えた年として記憶されるでしょう．大学院教育にも当然多大な影響があります．学生さんから，AIについて...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Shield helps technicians hand off legacy portal work with OpenAI** — Score 8, observation — [Quelle](https://openai.com/business/customer-stories/shield)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-11-13T08:00:00+00:00`, fetched `2026-11-14T00:19:45+00:00`

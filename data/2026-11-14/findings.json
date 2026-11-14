@@ -226,6 +226,29 @@
     "id": "a431bbe2214bf75f3148"
   },
   {
+    "title": "Building always-on agents",
+    "url": "https://claude.com/resources/articles/building-always-on-agents",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-11-14T00:52:42+00:00",
+    "fetched_at": "2026-11-14T21:48:43+00:00",
+    "summary": "Always-on agents run indefinitely, deciding how and when to act across many sessions. This guide walks through their core primitives and how they fit together. Over the past few months, we’ve seen a resurgence of always-on agents. Always-on agents are stateful and proactive, meaning they manage c...",
+    "matched_keywords": [
+      "agent",
+      "Content-Chance",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "88c8ec06b0591e4a9850"
+  },
+  {
     "title": "Google、高速・高効率な「Gemini 4 Hydrogen」を発表 ～「Claude Sonnet 5.5」「GPT-6.1 Terra」のライバル／前世代「3.8 Flash」の2.5倍の速さでタスクを完了",
     "url": "https://forest.watch.impress.co.jp/docs/news/2156117.html",
     "source": "Hatena Bookmark Hotentry IT",
