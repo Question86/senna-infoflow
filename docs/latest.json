@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14T09:52:47+00:00",
-  "run_id": "2026-11-14T09:52:47+00:00",
+  "generated_at": "2026-11-14T09:58:06+00:00",
+  "run_id": "2026-11-14T09:58:06+00:00",
   "date": "2026-11-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-14T08:36:32+00:00",
-        "fetched_at": "2026-11-14T08:36:17+00:00",
+        "published_at": "2026-11-14T09:57:57+00:00",
+        "fetched_at": "2026-11-14T09:57:42+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "e4c5e88784c52414d98d"
+        "id": "123f8e1545d4b98e035b"
       },
       {
         "title": "M 5.2 - State of Yap, Federated States of Micronesia",
@@ -565,8 +565,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-14T08:36:32+00:00",
-      "fetched_at": "2026-11-14T08:36:17+00:00",
+      "published_at": "2026-11-14T09:57:57+00:00",
+      "fetched_at": "2026-11-14T09:57:42+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -600,7 +600,7 @@
         "HD",
         "LOW"
       ],
-      "id": "e4c5e88784c52414d98d"
+      "id": "123f8e1545d4b98e035b"
     },
     {
       "title": "M 5.2 - State of Yap, Federated States of Micronesia",
@@ -1089,28 +1089,32 @@
   ],
   "new_findings": [
     {
-      "title": "M 5.5 - northern Mid-Atlantic Ridge",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty84",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-11-14T09:48:57.409+00:00",
-      "fetched_at": "2026-11-14T09:52:16+00:00",
-      "summary": "PAGER - GREEN ShakeMap - I Time 2026-11-14 09:26:13 UTC 2026-11-14 09:26:13 UTC at epicenter Location 30.122°N 42.635°W Depth 10.00 km (6.21 mi)",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-11-14T09:57:57+00:00",
+      "fetched_at": "2026-11-14T09:57:42+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
+        "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
-        "PAGER",
-        "ShakeMap",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 13,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+        "earthquakes_tsunami: earthquake"
       ],
       "market_context": [
         "MUV2.DE",
@@ -1124,7 +1128,7 @@
         "HD",
         "LOW"
       ],
-      "id": "a431bbe2214bf75f3148"
+      "id": "123f8e1545d4b98e035b"
     }
   ],
   "source_errors": [],
