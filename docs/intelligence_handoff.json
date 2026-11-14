@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-14T15:02:23Z",
+  "generated_at": "2026-11-14T15:32:25Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 148.54,
+      "age_days": 148.57,
       "topics": [
         "ai"
       ],
@@ -34,7 +34,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 148.5d old signal",
+        "aging penalty -8.0 for 148.6d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -43,7 +43,7 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-11-14T14:33:32+00:00",
+      "published_at": "2026-11-14T15:10:44+00:00",
       "age_days": 0.02,
       "topics": [
         "ai",
@@ -69,11 +69,39 @@
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan"
     },
     {
+      "title": "Cognitoの自己サインアップが有効だと、誰でもAWSの一時認証情報を取得できる：AI攻撃ツールARTEXの事例と確認したい設定3点 | DevelopersIO",
+      "url": "https://dev.classmethod.jp/articles/cognito-self-signup-agentic-attack/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-14T12:48:25+00:00",
+      "age_days": 0.11,
+      "topics": [
+        "ai",
+        "security",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "どうも！オペ部の西村祐二です！ S3 にフロントエンドを置き、Amazon Cognito のユーザープールでログインさせ、ID プールで AWS の一時認証情報を渡す。AWS で SPA を作るときによく見る構成です。この構成が攻撃用の AI エージェントにどう使われたかを、Datadog Security Labs が2026年11月9日の記事「On the hunt fo..."
+    },
+    {
       "title": "M 5.2 - State of Yap, Federated States of Micronesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty7d",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T07:08:03.040+00:00",
-      "age_days": 0.33,
+      "age_days": 0.35,
       "topics": [
         "macro",
         "disaster"
@@ -99,7 +127,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty84",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T09:48:57.409+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -124,7 +152,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty7b",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T06:57:03.040+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "disaster"
       ],
@@ -149,7 +177,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty73",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T05:15:11.040+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "disaster"
       ],
@@ -174,7 +202,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty8u",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T13:07:55.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -199,7 +227,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty7h",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T07:29:49.040+00:00",
-      "age_days": 0.31,
+      "age_days": 0.34,
       "topics": [
         "disaster"
       ],
@@ -224,7 +252,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty6n",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T03:16:42.040+00:00",
-      "age_days": 0.49,
+      "age_days": 0.51,
       "topics": [
         "disaster"
       ],
@@ -249,7 +277,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
       "source": "Federal Reserve Speeches and Testimony",
       "published_at": "2026-11-14T00:00:00+00:00",
-      "age_days": 0.63,
+      "age_days": 0.65,
       "topics": [
         "macro"
       ],
@@ -273,7 +301,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty6p",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T03:32:26.040+00:00",
-      "age_days": 0.48,
+      "age_days": 0.5,
       "topics": [
         "disaster"
       ],
@@ -291,30 +319,6 @@
         "early terms: earthquake"
       ],
       "summary": "Time 2026-11-14 03:18:26 UTC 2026-11-14 03:18:26 UTC at epicenter Location 23.944°S 66.764°W Depth 216.09 km (134.27 mi)"
-    },
-    {
-      "title": "M 4.5 - Fiji region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty6e",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-11-14T02:38:35.040+00:00",
-      "age_days": 0.52,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake"
-      ],
-      "summary": "Time 2026-11-14 02:21:07 UTC 2026-11-14 02:21:07 UTC at epicenter Location 19.580°S 177.739°W Depth 587.45 km (365.02 mi)"
     }
   ],
   "read_order": [
@@ -326,8 +330,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 4,
-      "watch": 8
+      "strong": 5,
+      "watch": 7
     }
   }
 }
