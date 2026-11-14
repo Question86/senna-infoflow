@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-14T01:17:27Z",
+  "generated_at": "2026-11-14T01:32:20Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 10,
@@ -22,7 +22,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 147.97,
+      "age_days": 147.98,
       "topics": [
         "ai"
       ],
@@ -50,7 +50,7 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-11-14T01:01:06+00:00",
+      "published_at": "2026-11-14T01:23:43+00:00",
       "age_days": 0.01,
       "topics": [
         "ai",
@@ -80,7 +80,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
       "source": "Federal Reserve Speeches and Testimony",
       "published_at": "2026-11-14T00:00:00+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "macro"
       ],
@@ -104,7 +104,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003200/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-13T11:33:08+00:00",
-      "age_days": 0.57,
+      "age_days": 0.58,
       "topics": [
         "general"
       ],
@@ -128,7 +128,7 @@
       "url": "https://www.aihero.dev/the-home-repo-pattern",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-12T12:22:50+00:00",
-      "age_days": 1.54,
+      "age_days": 1.55,
       "topics": [
         "ai"
       ],
@@ -153,7 +153,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 146.94,
+      "age_days": 146.95,
       "topics": [
         "general"
       ],
@@ -178,7 +178,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 146.94,
+      "age_days": 146.95,
       "topics": [
         "general"
       ],
@@ -203,7 +203,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 146.94,
+      "age_days": 146.95,
       "topics": [
         "ai"
       ],
@@ -230,7 +230,7 @@
       "url": "https://speakerdeck.com/littlehands/ai-kudou-keiei-suraido-20261112-0eeda77b-3c60-4af9-b059-2eb1ff3ef2c1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-13T14:24:54+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "ai"
       ],
@@ -255,7 +255,7 @@
       "url": "https://openai.com/business/customer-stories/shield",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-13T08:00:00+00:00",
-      "age_days": 0.72,
+      "age_days": 0.73,
       "topics": [
         "ai"
       ],
