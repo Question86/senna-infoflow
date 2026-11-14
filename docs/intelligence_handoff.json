@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-14T23:16:58Z",
+  "generated_at": "2026-11-14T23:32:12Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “常時稼働エージェントの作り方（Claude公式ブログを資料化）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://speakerdeck.com/minorun365/jouji-kadou-ejento-no-tsukurikata",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T16:06:17+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -41,7 +41,7 @@
       "url": "https://claude.com/resources/articles/building-always-on-agents",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T00:52:42+00:00",
-      "age_days": 0.93,
+      "age_days": 0.94,
       "topics": [
         "ai"
       ],
@@ -67,7 +67,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 148.89,
+      "age_days": 148.9,
       "topics": [
         "ai"
       ],
@@ -95,8 +95,8 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-11-14T22:45:32+00:00",
-      "age_days": 0.02,
+      "published_at": "2026-11-14T23:18:40+00:00",
+      "age_days": 0.01,
       "topics": [
         "ai",
         "macro",
@@ -125,7 +125,7 @@
       "url": "https://dev.classmethod.jp/articles/cognito-self-signup-agentic-attack/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T12:48:25+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "ai",
         "security",
@@ -153,7 +153,7 @@
       "url": "https://github.com/libracoder/kiri",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-08T13:13:52+00:00",
-      "age_days": 6.42,
+      "age_days": 6.43,
       "topics": [
         "ai"
       ],
@@ -178,7 +178,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty7d",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T07:08:03.040+00:00",
-      "age_days": 0.67,
+      "age_days": 0.68,
       "topics": [
         "macro",
         "disaster"
@@ -204,7 +204,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty84",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T09:48:57.409+00:00",
-      "age_days": 0.56,
+      "age_days": 0.57,
       "topics": [
         "disaster"
       ],
@@ -229,7 +229,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty7b",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T06:57:03.040+00:00",
-      "age_days": 0.68,
+      "age_days": 0.69,
       "topics": [
         "disaster"
       ],
@@ -254,7 +254,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty73",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T05:15:11.040+00:00",
-      "age_days": 0.75,
+      "age_days": 0.76,
       "topics": [
         "disaster"
       ],
@@ -279,7 +279,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9l",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T16:24:10.040+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "disaster"
       ],
@@ -303,7 +303,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty8u",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T13:07:55.040+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "disaster"
       ],
