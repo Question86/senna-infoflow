@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14T21:49:08+00:00",
-  "run_id": "2026-11-14T21:49:08+00:00",
+  "generated_at": "2026-11-14T21:54:41+00:00",
+  "run_id": "2026-11-14T21:54:41+00:00",
   "date": "2026-11-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 36,
     "displayed_findings": 36,
     "high": 0,
@@ -1967,31 +1967,7 @@
       "id": "c32f528c9ed379063a18"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Building always-on agents",
-      "url": "https://claude.com/resources/articles/building-always-on-agents",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-14T00:52:42+00:00",
-      "fetched_at": "2026-11-14T21:48:43+00:00",
-      "summary": "Always-on agents run indefinitely, deciding how and when to act across many sessions. This guide walks through their core primitives and how they fit together. Over the past few months, we’ve seen a resurgence of always-on agents. Always-on agents are stateful and proactive, meaning they manage c...",
-      "matched_keywords": [
-        "agent",
-        "Content-Chance",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "88c8ec06b0591e4a9850"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
