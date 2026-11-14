@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-14T22:37:01+00:00",
+  "generated_at": "2026-11-14T22:42:18+00:00",
   "topics": {
     "ai": [
       {
@@ -200,6 +200,13 @@
         "published_at": "2026-11-13T13:23:56+00:00",
         "relevance_score": 7,
         "url": "https://speakerdeck.com/riyaamemiya/slides-export-013b776f-8661-4e92-bac0-1ac4285999f9"
+      },
+      {
+        "title": "GitHub - libracoder/kiri: A small, fast container runtime for macOS, Windows and Linux",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-08T13:13:52+00:00",
+        "relevance_score": 6,
+        "url": "https://github.com/libracoder/kiri"
       }
     ],
     "geopolitics": [
