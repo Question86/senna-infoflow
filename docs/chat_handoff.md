@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-14T22:21:25+00:00_
+_Generated: 2026-11-14T22:26:42+00:00_
 
 ## Status
 - status: `normal`
-- findings: `36`
+- findings: `37`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-11-14T22:21:25+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty84
 - summary: PAGER - GREEN ShakeMap - I Time 2026-11-14 09:26:13 UTC 2026-11-14 09:26:13 UTC at epicenter Location 30.122°N 42.635°W Depth 10.00 km (6.21 mi)
 
-### 6. Building always-on agents
+### 6. 常時稼働エージェントの作り方（Claude公式ブログを資料化）
+- source: Hatena Bookmark Hotentry IT
+- score: `12`
+- published: `2026-11-14T16:06:17+00:00`
+- url: https://speakerdeck.com/minorun365/jouji-kadou-ejento-no-tsukurikata
+- summary: 以下のURLを私のClaude Codeに渡して、スライドをポン出しする実験です。 https://claude.com/ja/resources/articles/building-always-on-agents
+
+### 7. Building always-on agents
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-11-14T00:52:42+00:00`
 - url: https://claude.com/resources/articles/building-always-on-agents
 - summary: Always-on agents run indefinitely, deciding how and when to act across many sessions. This guide walks through their core primitives and how they fit together. Over the past few months, we’ve seen a resurgence of always-on agents. Always-on agents are statefu…
 
-### 7. Google、高速・高効率な「Gemini 4 Hydrogen」を発表 ～「Claude Sonnet 5.5」「GPT-6.1 Terra」のライバル／前世代「3.8 Flash」の2.5倍の速さでタスクを完了
+### 8. Google、高速・高効率な「Gemini 4 Hydrogen」を発表 ～「Claude Sonnet 5.5」「GPT-6.1 Terra」のライバル／前世代「3.8 Flash」の2.5倍の速さでタスクを完了
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-11-13T02:57:17+00:00`
 - url: https://forest.watch.impress.co.jp/docs/news/2156117.html
 - summary: Google、高速・高効率な「Gemini 4 Hydrogen」を発表 ～「Claude Sonnet 5.5」「GPT-6.1 Terra」のライバル／前世代「3.8 Flash」の2.5倍の速さでタスクを完了
-
-### 8. The Home Repo Pattern
-- source: Hatena Bookmark Hotentry IT
-- score: `12`
-- published: `2026-11-12T12:22:50+00:00`
-- url: https://www.aihero.dev/the-home-repo-pattern
-- summary: The Home Repo PatternOne repo for your skills, AGENTS.md and shared docs, with pointers to your other repos. A reference, with a setup prompt you can copy. A Home Repo is one repository that holds your skills, your AGENTS.md and your shared docs. You run your…
 
 END OF DOCUMENT

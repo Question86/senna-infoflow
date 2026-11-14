@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-14T22:21:25+00:00",
+  "generated_at": "2026-11-14T22:26:42+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 36,
-    "displayed_findings": 36,
+    "new_relevant_findings": 1,
+    "today_file_total": 37,
+    "displayed_findings": 37,
     "high": 0,
     "medium": 6,
-    "observe": 30
+    "observe": 31
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -65,6 +65,16 @@
       "section": "observe"
     },
     {
+      "title": "常時稼働エージェントの作り方（Claude公式ブログを資料化）",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-14T16:06:17+00:00",
+      "relevance_score": 12,
+      "url": "https://speakerdeck.com/minorun365/jouji-kadou-ejento-no-tsukurikata",
+      "summary": "以下のURLを私のClaude Codeに渡して、スライドをポン出しする実験です。 https://claude.com/ja/resources/articles/building-always-on-agents",
+      "section": "observe"
+    },
+    {
       "title": "Building always-on agents",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 12,
       "url": "https://forest.watch.impress.co.jp/docs/news/2156117.html",
       "summary": "Google、高速・高効率な「Gemini 4 Hydrogen」を発表 ～「Claude Sonnet 5.5」「GPT-6.1 Terra」のライバル／前世代「3.8 Flash」の2.5倍の速さでタスクを完了",
-      "section": "observe"
-    },
-    {
-      "title": "The Home Repo Pattern",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-12T12:22:50+00:00",
-      "relevance_score": 12,
-      "url": "https://www.aihero.dev/the-home-repo-pattern",
-      "summary": "The Home Repo PatternOne repo for your skills, AGENTS.md and shared docs, with pointers to your other repos. A reference, with a setup prompt you can copy. A Home Repo is one repository that holds your skills, your AGENTS.md and your shared docs. You run your…",
       "section": "observe"
     }
   ],
