@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-14T09:32:01Z",
+  "generated_at": "2026-11-14T09:47:21Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 21,
@@ -22,7 +22,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 148.31,
+      "age_days": 148.33,
       "topics": [
         "ai"
       ],
@@ -51,7 +51,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-11-14T08:36:32+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "macro",
@@ -80,7 +80,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty7d",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T07:08:03.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "macro",
         "disaster"
@@ -106,7 +106,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty7b",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T06:57:03.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -131,7 +131,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty73",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T05:15:11.040+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -156,7 +156,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty7h",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T07:29:49.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -181,7 +181,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty6n",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T03:16:42.040+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "disaster"
       ],
@@ -206,7 +206,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
       "source": "Federal Reserve Speeches and Testimony",
       "published_at": "2026-11-14T00:00:00+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "macro"
       ],
@@ -230,7 +230,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty6p",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T03:32:26.040+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
@@ -254,7 +254,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty6e",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T02:38:35.040+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "disaster"
       ],
@@ -278,7 +278,7 @@
       "url": "https://github.com/backnotprop/plannotator",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-14T07:46:22+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -304,7 +304,7 @@
       "url": "https://togetter.com/li/2770247",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T01:06:19+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "general"
       ],
@@ -328,7 +328,7 @@
       "url": "https://www.47news.jp/15227159.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-13T15:36:10+00:00",
-      "age_days": 0.75,
+      "age_days": 0.76,
       "topics": [
         "general"
       ],
@@ -352,7 +352,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003200/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-13T11:33:08+00:00",
-      "age_days": 0.92,
+      "age_days": 0.93,
       "topics": [
         "general"
       ],
@@ -376,7 +376,7 @@
       "url": "https://www.aihero.dev/the-home-repo-pattern",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-12T12:22:50+00:00",
-      "age_days": 1.88,
+      "age_days": 1.89,
       "topics": [
         "ai"
       ],
@@ -401,7 +401,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 147.28,
+      "age_days": 147.29,
       "topics": [
         "general"
       ],
@@ -426,7 +426,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 147.28,
+      "age_days": 147.29,
       "topics": [
         "general"
       ],
@@ -451,7 +451,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 147.28,
+      "age_days": 147.29,
       "topics": [
         "ai"
       ],
@@ -478,7 +478,7 @@
       "url": "https://speakerdeck.com/littlehands/ai-kudou-keiei-suraido-20261112-0eeda77b-3c60-4af9-b059-2eb1ff3ef2c1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-13T14:24:54+00:00",
-      "age_days": 0.8,
+      "age_days": 0.81,
       "topics": [
         "ai"
       ],
@@ -503,7 +503,7 @@
       "url": "https://openai.com/business/customer-stories/shield",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-13T08:00:00+00:00",
-      "age_days": 1.06,
+      "age_days": 1.07,
       "topics": [
         "ai"
       ],
@@ -528,7 +528,7 @@
       "url": "https://e27.co/two-venices-one-problem-what-kerala-can-learn-from-macaos-tech-makeover-20261114/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-14T01:50:27+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "ai"
       ],
