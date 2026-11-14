@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-14T18:10:07+00:00",
+  "generated_at": "2026-11-14T18:24:11+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-11-14T18:03:12+00:00",
+        "published_at": "2026-11-14T18:24:01+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -128,6 +128,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty6p"
       },
       {
+        "title": "M 4.7 - 24 km S of Yacuiba, Bolivia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-11-14T18:18:57.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9z"
+      },
+      {
         "title": "M 4.5 - 137 km SE of Petropavlovsk-Kamchatsky, Russia",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-11-14T13:07:55.040+00:00",
@@ -147,13 +154,6 @@
         "published_at": "2026-11-14T03:16:42.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty6n"
-      },
-      {
-        "title": "M 4.5 - Fiji region",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-11-14T02:38:35.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty6e"
       }
     ],
     "economy": [
