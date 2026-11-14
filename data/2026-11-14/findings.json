@@ -88,6 +88,42 @@
     "id": "96e094b1671de0b30ee6"
   },
   {
+    "title": "M 4.5 - Fiji region",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty6e",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-11-14T02:38:35.040+00:00",
+    "fetched_at": "2026-11-14T02:43:02+00:00",
+    "summary": "Time 2026-11-14 02:21:07 UTC 2026-11-14 02:21:07 UTC at epicenter Location 19.580°S 177.739°W Depth 587.45 km (365.02 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "319bad65663ce4a35e25"
+  },
+  {
     "title": "人間＋AIを「チーム」としてプロセスを再設計する",
     "url": "https://speakerdeck.com/littlehands/ai-kudou-keiei-suraido-20261112-0eeda77b-3c60-4af9-b059-2eb1ff3ef2c1",
     "source": "Hatena Bookmark Hotentry IT",
