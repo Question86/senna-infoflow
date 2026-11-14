@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-14T01:51:23+00:00",
+  "generated_at": "2026-11-14T01:57:03+00:00",
   "topics": {
     "ai": [
       {
@@ -59,6 +59,13 @@
       }
     ],
     "general": [
+      {
+        "title": "【速報】マネックス証券、マイナカード画像漏えいか",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-13T15:36:10+00:00",
+        "relevance_score": 5,
+        "url": "https://www.47news.jp/15227159.html"
+      },
       {
         "title": "データセンターの排熱でエビ養殖、NTT系が実験 育ったら食べられる？ 担当者に聞いてみた",
         "source": "Hatena Bookmark Hotentry IT",

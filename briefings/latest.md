@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-14T01:51:23+00:00_
+_Generiert: 2026-11-14T01:57:03+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+8 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -42,7 +42,7 @@ _Generiert: 2026-11-14T01:51:23+00:00_
 
 - Kein aktives Signal aus den konfigurierten globalen Sensoren.
 
-- Sensor-Hinweis: Yahoo finance failed: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v7/finance/quote?symbols=BTC-USD,ETH-USD,GC%3DF,SI%3DF,GLD,SLV,SPY,QQQ,%5EGSPC,%5EIXIC,%5EDJI,%5EVIX,DX-Y.NYB,CL%3DF,COIN,MSTR,IBIT
+- Sensor-Hinweis: Yahoo finance failed: 401 Client Error: Unauthorized for url: https://query1.finance.yahoo.com/v7/finance/quote?symbols=BTC-USD,ETH-USD,GC%3DF,SI%3DF,GLD,SLV,SPY,QQQ,%5EGSPC,%5EIXIC,%5EDJI,%5EVIX,DX-Y.NYB,CL%3DF,COIN,MSTR,IBIT
 
 <!-- SENNA_GLOBAL_WATCHDOGS:END -->
 
@@ -101,14 +101,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); recent (+1.0)
   - Kurz: Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **データセンターの排熱でエビ養殖、NTT系が実験 育ったら食べられる？ 担当者に聞いてみた** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2611/13/2000003200/)
+- **【速報】マネックス証券、マイナカード画像漏えいか** — Score 5, observation — [Quelle](https://www.47news.jp/15227159.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-13T11:33:08+00:00`, fetched `2026-11-14T01:00:51+00:00`
+  - Zeit: published `2026-11-13T15:36:10+00:00`, fetched `2026-11-14T01:56:32+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: NTTドコモビジネスなど4社は11月13日、データセンターの排熱を活用してエビを養殖する実証実験を発表した。2026年度中に養殖に適した排熱の回収方法を模索し、2027年度には回収した熱を使ってクルマエビ科の一種「バナメイエビ」を育てる計画だ。なぜエビの養殖を選んだのか、育てたエビはどうするのか。担当者に話を聞...
+  - Kurz: マネックス証券は13日、委託先が運営・管理する口座開設システムが不正アクセスを受け、運転免許証やマイナンバーカードといった本人確認書類の画像1592件と、最大113万件のメールアドレスが漏えいした恐れがあると発表した。
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Two Venices, one problem: What Kerala can learn from Macao’s tech makeover** — Score 4, observation — [Quelle](https://e27.co/two-venices-one-problem-what-kerala-can-learn-from-macaos-tech-makeover-20261114/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
