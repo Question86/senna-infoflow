@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-14T17:02:16Z",
+  "generated_at": "2026-11-14T17:16:52Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 35,
+    "dynamics": 36,
     "bands": {
       "strong": 5,
       "watch": 9,
-      "quiet": 21
+      "quiet": 22
     },
     "bands_after_gate_recheck": {
       "strong": 5,
       "watch": 9,
-      "quiet": 21
+      "quiet": 22
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 148.63,
+      "age_days": 148.64,
       "topics": [
         "ai"
       ],
@@ -51,7 +51,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-11-14T16:55:14+00:00",
-      "age_days": 0.0,
+      "age_days": 0.02,
       "topics": [
         "ai",
         "macro",
@@ -80,7 +80,7 @@
       "url": "https://dev.classmethod.jp/articles/cognito-self-signup-agentic-attack/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T12:48:25+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "security",
@@ -108,7 +108,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty7d",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T07:08:03.040+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "macro",
         "disaster"
@@ -134,7 +134,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty84",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T09:48:57.409+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "disaster"
       ],
@@ -159,7 +159,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty7b",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T06:57:03.040+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "disaster"
       ],
@@ -184,7 +184,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty73",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T05:15:11.040+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "disaster"
       ],
@@ -209,7 +209,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9l",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T16:24:10.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -233,7 +233,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty8u",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T13:07:55.040+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -258,7 +258,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty7h",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T07:29:49.040+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "disaster"
       ],
@@ -283,7 +283,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty6n",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T03:16:42.040+00:00",
-      "age_days": 0.57,
+      "age_days": 0.58,
       "topics": [
         "disaster"
       ],
@@ -308,7 +308,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
       "source": "Federal Reserve Speeches and Testimony",
       "published_at": "2026-11-14T00:00:00+00:00",
-      "age_days": 0.71,
+      "age_days": 0.72,
       "topics": [
         "macro"
       ],
@@ -332,7 +332,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty6p",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T03:32:26.040+00:00",
-      "age_days": 0.56,
+      "age_days": 0.57,
       "topics": [
         "disaster"
       ],
@@ -356,7 +356,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty6e",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-14T02:38:35.040+00:00",
-      "age_days": 0.6,
+      "age_days": 0.61,
       "topics": [
         "disaster"
       ],
@@ -380,7 +380,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/14/2000003193/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-13T23:23:29+00:00",
-      "age_days": 0.74,
+      "age_days": 0.75,
       "topics": [
         "general"
       ],
@@ -404,7 +404,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOUB109MD0Q6A111C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-13T23:26:15+00:00",
-      "age_days": 0.73,
+      "age_days": 0.74,
       "topics": [
         "ai"
       ],
@@ -430,7 +430,7 @@
       "url": "https://gigazine.net/news/20261114-llm-fluency-credible/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-13T23:05:57+00:00",
-      "age_days": 0.75,
+      "age_days": 0.76,
       "topics": [
         "ai"
       ],
@@ -455,7 +455,7 @@
       "url": "https://github.com/backnotprop/plannotator",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-14T07:46:22+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "ai"
       ],
@@ -477,11 +477,35 @@
       "summary": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. https://plannotator.ai Everything you need to annotate and stay in the loop with your agents Inbox Surface • Artifacts • Code Review Annotate plans, spec…"
     },
     {
+      "title": "Qwen3.8 Flash Nextに混ざる中国語を、出力層の書き換えで消した: 27%→0%、他の重みは1バイトも変えずに",
+      "url": "https://zenn.dev/caphtech/articles/qwen38-zh-ban",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-14T10:07:16+00:00",
+      "age_days": 0.3,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "同じ問いに対する書き換えたモデルの答えでは、「誤って攻撃してしまう病気」「ビール: 最も注意」と書かれていました（サンプリングなので、文全体は元と同じではありません）。 測った条件 モデル: Qwen3.8-Flash-Next。mlx-serveの変換で作った4ビットのMLX版で、出力層だけ8ビットです。 問い: 医療の問い60問。JMML..."
+    },
+    {
       "title": "「なんでお前は重要なデータを任されるほど信用されてんの？」と上司に聞かれたセキュリティ担当者の回答、信頼に値する妙な説得力がある「情報って武器だなぁ」",
       "url": "https://togetter.com/li/2770282",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T03:49:42+00:00",
-      "age_days": 0.55,
+      "age_days": 0.56,
       "topics": [
         "general"
       ],
@@ -505,7 +529,7 @@
       "url": "https://togetter.com/li/2770247",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T01:06:19+00:00",
-      "age_days": 0.66,
+      "age_days": 0.67,
       "topics": [
         "general"
       ],
@@ -529,7 +553,7 @@
       "url": "https://qiita.com/yama3133/items/11a360fc97ed3ec09742",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-13T22:56:39+00:00",
-      "age_days": 0.75,
+      "age_days": 0.76,
       "topics": [
         "general"
       ],
@@ -553,7 +577,7 @@
       "url": "https://www.47news.jp/15227159.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-13T15:36:10+00:00",
-      "age_days": 1.06,
+      "age_days": 1.07,
       "topics": [
         "general"
       ],
@@ -577,7 +601,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003200/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-13T11:33:08+00:00",
-      "age_days": 1.23,
+      "age_days": 1.24,
       "topics": [
         "general"
       ],
@@ -601,7 +625,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2156117.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-13T02:57:17+00:00",
-      "age_days": 1.59,
+      "age_days": 1.6,
       "topics": [
         "ai"
       ],
@@ -626,7 +650,7 @@
       "url": "https://www.aihero.dev/the-home-repo-pattern",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-12T12:22:50+00:00",
-      "age_days": 2.19,
+      "age_days": 2.2,
       "topics": [
         "ai"
       ],
@@ -651,7 +675,7 @@
       "url": "https://www.ms.u-tokyo.ac.jp/~konno/grad_ai.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T10:13:39+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -676,7 +700,7 @@
       "url": "https://gigazine.net/news/20261114-developers-games-industry-using-generative-ai/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T04:02:46+00:00",
-      "age_days": 0.54,
+      "age_days": 0.55,
       "topics": [
         "ai"
       ],
@@ -701,7 +725,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 147.59,
+      "age_days": 147.6,
       "topics": [
         "general"
       ],
@@ -726,7 +750,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 147.59,
+      "age_days": 147.6,
       "topics": [
         "general"
       ],
@@ -751,7 +775,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 147.59,
+      "age_days": 147.6,
       "topics": [
         "ai"
       ],
@@ -778,7 +802,7 @@
       "url": "https://speakerdeck.com/littlehands/ai-kudou-keiei-suraido-20261112-0eeda77b-3c60-4af9-b059-2eb1ff3ef2c1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-13T14:24:54+00:00",
-      "age_days": 1.11,
+      "age_days": 1.12,
       "topics": [
         "ai"
       ],
@@ -803,7 +827,7 @@
       "url": "https://openai.com/business/customer-stories/shield",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-13T08:00:00+00:00",
-      "age_days": 1.38,
+      "age_days": 1.39,
       "topics": [
         "ai"
       ],
@@ -828,7 +852,7 @@
       "url": "https://speakerdeck.com/riyaamemiya/slides-export-013b776f-8661-4e92-bac0-1ac4285999f9",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-13T13:23:56+00:00",
-      "age_days": 1.15,
+      "age_days": 1.16,
       "topics": [
         "ai"
       ],
@@ -853,7 +877,7 @@
       "url": "https://theupdate.coffee/episodes/0J7UP7922ZXV6NBTt7w9Jl/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T07:45:30+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "ai"
       ],
@@ -878,7 +902,7 @@
       "url": "https://e27.co/two-venices-one-problem-what-kerala-can-learn-from-macaos-tech-makeover-20261114/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-14T01:50:27+00:00",
-      "age_days": 0.63,
+      "age_days": 0.64,
       "topics": [
         "ai"
       ],
