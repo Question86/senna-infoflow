@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T11:34:47+00:00",
-  "run_id": "2026-11-15T11:34:47+00:00",
+  "generated_at": "2026-11-15T11:39:43+00:00",
+  "run_id": "2026-11-15T11:39:43+00:00",
   "date": "2026-11-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 17,
     "displayed_findings": 17,
     "high": 0,
@@ -953,28 +953,7 @@
       "id": "97b6e7e3f6cf96bd4761"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Angreifer verketteten PHP2Shell mit Root-Lücke auf Check-Point-Gateways",
-      "url": "https://www.heise.de/news/Angreifer-verketteten-PHP2Shell-mit-Root-Luecke-auf-Check-Point-Gateways-11525531.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-11-15T11:25:00.000+00:00",
-      "fetched_at": "2026-11-15T11:34:18+00:00",
-      "summary": "Angreifer nutzten verkettete Lücken für Hintertüren auf Check-Point-Gateways. In einem Fall löschten sie Daten auf einem ESXi-Host. Patches sind verfügbar.",
-      "matched_keywords": [
-        "Security"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "90b409f19a211d3b95c1"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
