@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-15T21:45:43+00:00",
+  "generated_at": "2026-11-15T21:51:08+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 28,
-    "displayed_findings": 28,
+    "new_relevant_findings": 1,
+    "today_file_total": 29,
+    "displayed_findings": 29,
     "high": 0,
     "medium": 7,
-    "observe": 21
+    "observe": 22
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -75,6 +75,16 @@
       "section": "observe"
     },
     {
+      "title": "M 4.9 - 38 km S of Jurm, Afghanistan",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-15T21:48:40.040+00:00",
+      "relevance_score": 9,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyga",
+      "summary": "Time 2026-11-15 21:37:22 UTC 2026-11-15 21:37:22 UTC at epicenter Location 36.516°N 70.792°E Depth 197.00 km (122.41 mi)",
+      "section": "observe"
+    },
+    {
       "title": "M 5.0 - 74 km N of Pārūn, Afghanistan",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 9,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyfh",
       "summary": "Time 2026-11-15 17:48:36 UTC 2026-11-15 17:48:36 UTC at epicenter Location 36.095°N 70.950°E Depth 100.73 km (62.59 mi)",
-      "section": "observe"
-    },
-    {
-      "title": "M 4.7 - 92 km NW of Houma, Tonga",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-11-15T07:58:09.040+00:00",
-      "relevance_score": 9,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyd3",
-      "summary": "Time 2026-11-15 07:36:37 UTC 2026-11-15 07:36:37 UTC at epicenter Location 20.589°S 175.935°W Depth 177.52 km (110.31 mi)",
       "section": "observe"
     }
   ],
