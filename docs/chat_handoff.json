@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-15T22:23:52+00:00",
+  "generated_at": "2026-11-15T22:28:52+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 29,
-    "displayed_findings": 29,
+    "new_relevant_findings": 3,
+    "today_file_total": 31,
+    "displayed_findings": 31,
     "high": 0,
     "medium": 7,
-    "observe": 22
+    "observe": 24
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -18,7 +18,7 @@
       "title": "Updates | ReliefWeb",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-15T21:23:17+00:00",
+      "published_at": "2026-11-15T22:28:42+00:00",
       "relevance_score": 23,
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
@@ -75,6 +75,16 @@
       "section": "observe"
     },
     {
+      "title": "Our new blog for science",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-11-15T22:00:00+00:00",
+      "relevance_score": 10,
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+      "section": "observe"
+    },
+    {
       "title": "M 4.9 - 38 km S of Jurm, Afghanistan",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 9,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyga",
       "summary": "Time 2026-11-15 21:37:22 UTC 2026-11-15 21:37:22 UTC at epicenter Location 36.516°N 70.792°E Depth 197.00 km (122.41 mi)",
-      "section": "observe"
-    },
-    {
-      "title": "M 5.0 - 74 km N of Pārūn, Afghanistan",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-11-15T18:08:18.040+00:00",
-      "relevance_score": 9,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyfh",
-      "summary": "Time 2026-11-15 17:48:36 UTC 2026-11-15 17:48:36 UTC at epicenter Location 36.095°N 70.950°E Depth 100.73 km (62.59 mi)",
       "section": "observe"
     }
   ],
