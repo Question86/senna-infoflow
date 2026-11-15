@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-15T11:45:04+00:00",
+  "generated_at": "2026-11-15T11:51:42+00:00",
   "topics": {
     "ai": [
       {
@@ -31,6 +31,13 @@
         "published_at": null,
         "relevance_score": 20,
         "url": "https://github.com/tradermonty/claude-trading-skills"
+      },
+      {
+        "title": "AIが便利になればなるほど深刻になる「自動化の皮肉」に人間はどう対処すべきか",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-15T00:01:08+00:00",
+        "relevance_score": 8,
+        "url": "https://gigazine.net/news/20261115-ai-isnt-replacing-sres-its-deskilling/"
       },
       {
         "title": "マザーボードは、ほぼ壊れない ―組み立て2,400台とサポート43,000件で見えた、PCの故障の順序",
