@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-15T15:29:00+00:00",
+  "generated_at": "2026-11-15T15:35:14+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-11-15T15:20:49+00:00",
+        "published_at": "2026-11-15T15:28:37+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -188,6 +188,13 @@
         "published_at": "2026-11-14T15:38:44+00:00",
         "relevance_score": 11,
         "url": "https://aws.amazon.com/jp/blogs/news/practical-steps-to-minimize-key-exposure-using-aws-security-services/"
+      },
+      {
+        "title": "Angriffe auf UnrealIRCd: Sicherheitslücke ermöglicht Befehle mit Serverrechten",
+        "source": "heise Security Alerts",
+        "published_at": "2026-11-15T15:25:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Angriffe-auf-UnrealIRCd-Sicherheitsluecke-ermoeglicht-Befehle-mit-Serverrechten-11525565.html"
       },
       {
         "title": "Angreifer verketteten PHP2Shell mit Root-Lücke auf Check-Point-Gateways",

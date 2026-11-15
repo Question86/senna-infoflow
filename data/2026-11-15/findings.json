@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-15T15:20:49+00:00",
-    "fetched_at": "2026-11-15T15:22:59+00:00",
+    "published_at": "2026-11-15T15:28:37+00:00",
+    "fetched_at": "2026-11-15T15:34:49+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "e5874b15e8c3a7d47a24"
+    "id": "5b5459a12526a6816a82"
   },
   {
     "title": "個人開発で5週間150万DL、AIと爆速で作るCAD「SolidCraft」 - FabScene（ファブシーン）",
@@ -350,6 +350,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "6fe539485db1348eb330"
+  },
+  {
+    "title": "Angriffe auf UnrealIRCd: Sicherheitslücke ermöglicht Befehle mit Serverrechten",
+    "url": "https://www.heise.de/news/Angriffe-auf-UnrealIRCd-Sicherheitsluecke-ermoeglicht-Befehle-mit-Serverrechten-11525565.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-11-15T15:25:00.000+00:00",
+    "fetched_at": "2026-11-15T15:34:49+00:00",
+    "summary": "Der IRC-Server UnrealIRCd ist verwundbar und Angreifer nutzen derzeit eine Lücke aus. Ein Sicherheitspatch steht zum Download bereit.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "45ca908f6a267830b9b2"
   },
   {
     "title": "Angreifer verketteten PHP2Shell mit Root-Lücke auf Check-Point-Gateways",
