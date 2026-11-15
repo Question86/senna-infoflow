@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-15T06:35:42Z",
+  "generated_at": "2026-11-15T06:46:47Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 149.19,
+      "age_days": 149.2,
       "topics": [
         "ai"
       ],
@@ -44,7 +44,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-11-15T05:49:53+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "macro",
@@ -73,7 +73,7 @@
       "url": "https://fabscene.com/new/interview/solidcraft-open-source-cad-ai-1-5m-downloads-brennen-herbruck/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T23:49:57+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "ai",
         "macro"
@@ -100,7 +100,7 @@
       "url": "https://aws.amazon.com/jp/blogs/news/practical-steps-to-minimize-key-exposure-using-aws-security-services/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T15:38:44+00:00",
-      "age_days": 0.62,
+      "age_days": 0.63,
       "topics": [
         "security"
       ],
@@ -177,7 +177,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyca",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-15T05:31:02.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -202,7 +202,7 @@
       "url": "https://news.jp/i/1494496378441958289",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T02:57:16+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -250,7 +250,7 @@
       "url": "https://p2ptk.org/notes/5679",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-13T13:32:42+00:00",
-      "age_days": 1.71,
+      "age_days": 1.72,
       "topics": [
         "general"
       ],
