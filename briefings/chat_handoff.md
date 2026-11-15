@@ -1,6 +1,6 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-15T10:57:01+00:00_
+_Generated: 2026-11-15T11:11:41+00:00_
 
 ## Status
 - status: `normal`
@@ -11,7 +11,7 @@ _Generated: 2026-11-15T10:57:01+00:00_
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-15T09:23:51+00:00`
+- published: `2026-11-15T11:11:31+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
