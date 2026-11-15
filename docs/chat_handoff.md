@@ -1,14 +1,21 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-15T01:06:11+00:00_
+_Generated: 2026-11-15T01:15:26+00:00_
 
 ## Status
 - status: `normal`
-- findings: `1`
+- findings: `2`
 
 ## Top Signals
 
-### 1. 貧乏人向けの金貸しと、Appleの取り立てテクノロジー » p2ptk[.]org
+### 1. デスクトップアプリを自動操作できるAUVが良さげかも | kawarimidoll.com
+- source: Hatena Bookmark Hotentry IT
+- score: `20`
+- published: `2026-10-19T08:36:48+00:00`
+- url: https://kawarimidoll.com/posts/202610182/
+- summary: Programmable Computer Use, without agents. AUV turns app UI workflows into typed operations you can script, record, inspect, and replay. GitHub - moeru-ai/auv: 📱🐭 No we are not computer use, it's Application Use Via... a unified orchestration layer of OS auto…
+
+### 2. 貧乏人向けの金貸しと、Appleの取り立てテクノロジー » p2ptk[.]org
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-11-14T18:54:45+00:00`

@@ -1,15 +1,40 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-15T01:06:11+00:00",
+  "generated_at": "2026-11-15T01:15:26+00:00",
   "topics": {
+    "ai": [
+      {
+        "title": "デスクトップアプリを自動操作できるAUVが良さげかも | kawarimidoll.com",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-19T08:36:48+00:00",
+        "relevance_score": 20,
+        "url": "https://kawarimidoll.com/posts/202610182/"
+      }
+    ],
     "github": [
+      {
+        "title": "デスクトップアプリを自動操作できるAUVが良さげかも | kawarimidoll.com",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-19T08:36:48+00:00",
+        "relevance_score": 20,
+        "url": "https://kawarimidoll.com/posts/202610182/"
+      },
       {
         "title": "貧乏人向けの金貸しと、Appleの取り立てテクノロジー » p2ptk[.]org",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-11-14T18:54:45+00:00",
         "relevance_score": 5,
         "url": "https://p2ptk.org/monopoly/5681"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "デスクトップアプリを自動操作できるAUVが良さげかも | kawarimidoll.com",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-10-19T08:36:48+00:00",
+        "relevance_score": 20,
+        "url": "https://kawarimidoll.com/posts/202610182/"
       }
     ]
   }
