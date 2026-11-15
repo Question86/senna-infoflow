@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-15T14:41:26+00:00_
+_Generiert: 2026-11-15T14:52:05+00:00_
 
 ## Kurzlage
 
@@ -49,10 +49,6 @@ _Generiert: 2026-11-15T14:41:26+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in Peru 13/11/2026 16:43 UTC, 100 thousand in MMI IV.
-- **USGS earthquake M5.5 - 9 km E of Union, Philippines** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyek)
-  - Quelle: USGS
-  - Zeit: `2026-11-15T13:41:35+00:00`
-  - Kurz: M5.5 - 9 km E of Union, Philippines. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -71,7 +67,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-15T14:41:16+00:00`, fetched `2026-11-15T14:41:00+00:00`
+  - Zeit: published `2026-11-15T14:51:56+00:00`, fetched `2026-11-15T14:51:37+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
