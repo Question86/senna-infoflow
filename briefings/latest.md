@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-15T05:35:03+00:00_
+_Generiert: 2026-11-15T05:40:35+00:00_
 
 ## Kurzlage
 
@@ -44,7 +44,7 @@ _Generiert: 2026-11-15T05:35:03+00:00_
 - **USGS earthquake M5.5 - Fiji region** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyca)
   - Quelle: USGS
   - Zeit: `2026-11-15T05:15:02+00:00`
-  - Kurz: M5.5 - Fiji region. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M5.5 - Fiji region. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
