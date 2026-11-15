@@ -1,18 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-15T04:18:32Z",
+  "generated_at": "2026-11-15T04:47:00Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 11,
+    "dynamics": 12,
     "bands": {
       "krass": 1,
       "strong": 4,
+      "watch": 1,
       "quiet": 6
     },
     "bands_after_gate_recheck": {
       "strong": 4,
-      "watch": 1,
+      "watch": 2,
       "quiet": 6
     }
   },
@@ -22,7 +23,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 149.1,
+      "age_days": 149.12,
       "topics": [
         "ai"
       ],
@@ -50,8 +51,8 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-11-15T02:59:54+00:00",
-      "age_days": 0.05,
+      "published_at": "2026-11-15T04:37:44+00:00",
+      "age_days": 0.01,
       "topics": [
         "ai",
         "macro",
@@ -80,7 +81,7 @@
       "url": "https://fabscene.com/new/interview/solidcraft-open-source-cad-ai-1-5m-downloads-brennen-herbruck/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T23:49:57+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "ai",
         "macro"
@@ -107,7 +108,7 @@
       "url": "https://aws.amazon.com/jp/blogs/news/practical-steps-to-minimize-key-exposure-using-aws-security-services/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T15:38:44+00:00",
-      "age_days": 0.53,
+      "age_days": 0.55,
       "topics": [
         "security"
       ],
@@ -131,7 +132,7 @@
       "url": "https://kawarimidoll.com/posts/202610182/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-10-19T08:36:48+00:00",
-      "age_days": 26.82,
+      "age_days": 26.84,
       "topics": [
         "ai"
       ],
@@ -155,11 +156,36 @@
       "summary": "Programmable Computer Use, without agents. AUV turns app UI workflows into typed operations you can script, record, inspect, and replay. GitHub - moeru-ai/auv: 📱🐭 No we are not computer use, it's Application Use Via... a unified orchestration layer of OS automation, 0 token cost 📱🐭 No we are ..."
     },
     {
+      "title": "M 4.8 - 19 km NW of Albardón, Argentina",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tybx",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-15T04:16:58.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-11-15 03:59:59 UTC 2026-11-15 03:59:59 UTC at epicenter Location 31.322°S 68.682°W Depth 108.94 km (67.69 mi)"
+    },
+    {
       "title": "貧乏人向けの金貸しと、Appleの取り立てテクノロジー » p2ptk[.]org",
       "url": "https://p2ptk.org/monopoly/5681",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T18:54:45+00:00",
-      "age_days": 0.39,
+      "age_days": 0.41,
       "topics": [
         "general"
       ],
@@ -183,7 +209,7 @@
       "url": "https://p2ptk.org/notes/5679",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-13T13:32:42+00:00",
-      "age_days": 1.62,
+      "age_days": 1.63,
       "topics": [
         "general"
       ],
@@ -207,7 +233,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 148.06,
+      "age_days": 148.08,
       "topics": [
         "general"
       ],
@@ -232,7 +258,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 148.06,
+      "age_days": 148.08,
       "topics": [
         "general"
       ],
@@ -257,7 +283,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 148.06,
+      "age_days": 148.08,
       "topics": [
         "ai"
       ],
@@ -284,7 +310,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/15/2000003207/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-14T23:39:10+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "ai"
       ],
