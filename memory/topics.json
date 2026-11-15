@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-15T11:56:17+00:00",
+  "generated_at": "2026-11-15T12:01:18+00:00",
   "topics": {
     "ai": [
       {
@@ -151,6 +151,13 @@
         "published_at": "2026-11-14T23:39:10+00:00",
         "relevance_score": 5,
         "url": "https://www.itmedia.co.jp/news/article/2611/15/2000003207/"
+      },
+      {
+        "title": "自作フィードリーダーを作った - A Day in the Life",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-14T15:23:09+00:00",
+        "relevance_score": 5,
+        "url": "https://secon.dev/entry/2026/11/12/220000-my-own-feed-reader/"
       },
       {
         "title": "米国はトランピズムを「なかったこと」にはできない » p2ptk[.]org",

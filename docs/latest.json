@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T11:56:17+00:00",
-  "run_id": "2026-11-15T11:56:17+00:00",
+  "generated_at": "2026-11-15T12:01:18+00:00",
+  "run_id": "2026-11-15T12:01:18+00:00",
   "date": "2026-11-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 18
+      "configured_public_sources_only": 19
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 18,
-    "displayed_findings": 18,
+    "new_relevant_findings": 1,
+    "today_file_total": 19,
+    "displayed_findings": 19,
     "high": 0,
     "medium": 4,
-    "observe": 14,
+    "observe": 15,
     "source_errors": 0
   },
   "sections": {
@@ -469,6 +469,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "4d623407bce06714c253"
+      },
+      {
+        "title": "自作フィードリーダーを作った - A Day in the Life",
+        "url": "https://secon.dev/entry/2026/11/12/220000-my-own-feed-reader/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-14T15:23:09+00:00",
+        "fetched_at": "2026-11-15T12:00:44+00:00",
+        "summary": "みんな自作 FeedReader 作っているなぁ、でも今使っている Inoreader (今は亡き、安価な年額19.99USDの starter planを使い続けている) でいいや、と思っていたのだが、結局細かいあれこれをブラウザ拡張の Tampermonkey などでちまちま修正していて、ちょっと魔がさしたので作ってみた。 30行ぐらい雑な仕様を書いて Op...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "bb3272cb2d95a699963e"
       },
       {
         "title": "マザーボードは、ほぼ壊れない ―組み立て2,400台とサポート43,000件で見えた、PCの故障の順序",
@@ -955,6 +976,27 @@
       "id": "4d623407bce06714c253"
     },
     {
+      "title": "自作フィードリーダーを作った - A Day in the Life",
+      "url": "https://secon.dev/entry/2026/11/12/220000-my-own-feed-reader/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-14T15:23:09+00:00",
+      "fetched_at": "2026-11-15T12:00:44+00:00",
+      "summary": "みんな自作 FeedReader 作っているなぁ、でも今使っている Inoreader (今は亡き、安価な年額19.99USDの starter planを使い続けている) でいいや、と思っていたのだが、結局細かいあれこれをブラウザ拡張の Tampermonkey などでちまちま修正していて、ちょっと魔がさしたので作ってみた。 30行ぐらい雑な仕様を書いて Op...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bb3272cb2d95a699963e"
+    },
+    {
       "title": "マザーボードは、ほぼ壊れない ―組み立て2,400台とサポート43,000件で見えた、PCの故障の順序",
       "url": "https://clivelab.jp/blogs/news/motherboard-rarely-fails",
       "source": "Hatena Bookmark Hotentry IT",
@@ -997,7 +1039,29 @@
       "id": "97b6e7e3f6cf96bd4761"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "自作フィードリーダーを作った - A Day in the Life",
+      "url": "https://secon.dev/entry/2026/11/12/220000-my-own-feed-reader/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-14T15:23:09+00:00",
+      "fetched_at": "2026-11-15T12:00:44+00:00",
+      "summary": "みんな自作 FeedReader 作っているなぁ、でも今使っている Inoreader (今は亡き、安価な年額19.99USDの starter planを使い続けている) でいいや、と思っていたのだが、結局細かいあれこれをブラウザ拡張の Tampermonkey などでちまちま修正していて、ちょっと魔がさしたので作ってみた。 30行ぐらい雑な仕様を書いて Op...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bb3272cb2d95a699963e"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
