@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-16T02:44:10+00:00_
+_Generated: 2026-11-16T02:51:27+00:00_
 
 ## Status
 - status: `normal`
-- findings: `6`
+- findings: `7`
 
 ## Top Signals
 
@@ -36,11 +36,11 @@ _Generated: 2026-11-16T02:44:10+00:00_
 - url: https://e27.co/the-ai-draft-is-the-easy-part-the-source-check-is-the-job-20261111/
 - summary: In corporate communications, the first useful thing an AI assistant does is not write a finished announcement. It gives you a place to begin. It can turn a long technical brief into an organised list of claims, flag missing stakeholders, or reconstruct a scat…
 
-### 5. A drug does not treat a virtual model. It treats a real patient
+### 5. The US$65K illusion: Declining volume and extreme fear signal a fragile crypto market
 - source: e27 Asia Startup and Tech Feed
 - score: `7`
-- published: `2026-11-16T02:00:15+00:00`
-- url: https://e27.co/a-drug-does-not-treat-a-virtual-model-it-treats-a-real-patient-20261111/
-- summary: Artificial intelligence is changing how we evaluate medicines, predict outcomes and assess risks in clinical development. Virtual simulations can help researchers explore possibilities before a treatment reaches a patient. Predictive models can help identify…
+- published: `2026-11-16T02:46:47+00:00`
+- url: https://e27.co/the-us65k-illusion-declining-volume-and-extreme-fear-signal-a-fragile-crypto-market-20261116/
+- summary: Bitcoin currently sits at US$65250.47, reflecting a 1.78 per cent increase over the last 24 hours. The broader crypto sector capitalisation climbed 2.46 per cent to reach US$2.20T, while underlying market breadth registered a 2.23 per cent gain during the exa…
 
 END OF DOCUMENT

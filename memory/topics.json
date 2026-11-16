@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-16T02:44:10+00:00",
+  "generated_at": "2026-11-16T02:51:27+00:00",
   "topics": {
     "ai": [
       {
@@ -24,6 +24,13 @@
         "published_at": "2026-11-16T01:00:01+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/the-ai-draft-is-the-easy-part-the-source-check-is-the-job-20261111/"
+      },
+      {
+        "title": "The US$65K illusion: Declining volume and extreme fear signal a fragile crypto market",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-16T02:46:47+00:00",
+        "relevance_score": 7,
+        "url": "https://e27.co/the-us65k-illusion-declining-volume-and-extreme-fear-signal-a-fragile-crypto-market-20261116/"
       },
       {
         "title": "A drug does not treat a virtual model. It treats a real patient",
@@ -56,6 +63,13 @@
         "published_at": "2026-11-16T01:00:01+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/the-ai-draft-is-the-easy-part-the-source-check-is-the-job-20261111/"
+      },
+      {
+        "title": "The US$65K illusion: Declining volume and extreme fear signal a fragile crypto market",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-16T02:46:47+00:00",
+        "relevance_score": 7,
+        "url": "https://e27.co/the-us65k-illusion-declining-volume-and-extreme-fear-signal-a-fragile-crypto-market-20261116/"
       }
     ]
   }
