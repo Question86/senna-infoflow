@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-16T09:06:53+00:00_
+_Generated: 2026-11-16T09:23:28+00:00_
 
 ## Status
 - status: `normal`
-- findings: `26`
+- findings: `27`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-11-16T09:06:53+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyhr
 - summary: ShakeMap - III Time 2026-11-16 04:24:11 UTC 2026-11-16 04:24:11 UTC at epicenter Location 37.185°N 136.979°E Depth 286.10 km (177.77 mi)
 
-### 4. [UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen
+### 4. [UPDATE] [hoch] Red Hat Enterprise Linux (crun, xfsprogs, glib-networking): Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-11-16T08:47:01+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4518
-- summary: Ein Angreifer kann mehrere Schwachstellen in Google Chrome / Microsoft Edge ausnutzen, um möglicherweise beliebigen Code auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren, einen Denial-of-Servic…
+- published: `2026-11-16T09:12:00+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4549
+- summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen, Dateien zu manipulieren, Berechtigungen zu erweitern oder beliebigen Code auszuführen.
 
 ### 5. Is prompt engineering real AI development, or just good documentation?
 - source: e27 Asia Startup and Tech Feed
