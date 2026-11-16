@@ -193,6 +193,27 @@
     "id": "f26cdff67020346d5000"
   },
   {
+    "title": "ドコモでまたも通信障害、11月3度目",
+    "url": "https://k-tai.watch.impress.co.jp/docs/news/2156616.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-11-16T02:12:18+00:00",
+    "fetched_at": "2026-11-16T03:53:29+00:00",
+    "summary": "ドコモでまたも通信障害、11月3度目",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "02f02827de44572d78d0"
+  },
+  {
     "title": "Microsoft 365障害はなぜ長引いたのか？ 原因・タイムラインと「SLAクレジット」請求方法まとめ",
     "url": "https://www.itmedia.co.jp/pcuser/articles/2611/16/news045.html",
     "source": "Hatena Bookmark Hotentry IT",
