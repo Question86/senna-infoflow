@@ -253,6 +253,27 @@
     "id": "f26cdff67020346d5000"
   },
   {
+    "title": "パスワードより安全なはずが……パスキー対応103サイトを検証→全てに脆弱性 独大学の調査結果",
+    "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003199/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-11-16T03:03:29+00:00",
+    "fetched_at": "2026-11-16T04:50:55+00:00",
+    "summary": "2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shi...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "fcc88c61194e94b1fc0b"
+  },
+  {
     "title": "ドコモでまたも通信障害、11月3度目",
     "url": "https://k-tai.watch.impress.co.jp/docs/news/2156616.html",
     "source": "Hatena Bookmark Hotentry IT",

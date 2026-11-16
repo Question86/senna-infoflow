@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-16T04:37:47+00:00",
+  "generated_at": "2026-11-16T04:51:26+00:00",
   "topics": {
     "ai": [
       {
@@ -75,6 +75,13 @@
         "published_at": "2026-11-15T21:09:29+00:00",
         "relevance_score": 12,
         "url": "https://p2ptk.org/monopoly/5688"
+      },
+      {
+        "title": "パスワードより安全なはずが……パスキー対応103サイトを検証→全てに脆弱性 独大学の調査結果",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-16T03:03:29+00:00",
+        "relevance_score": 5,
+        "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003199/"
       },
       {
         "title": "Microsoft 365障害はなぜ長引いたのか？ 原因・タイムラインと「SLAクレジット」請求方法まとめ",
