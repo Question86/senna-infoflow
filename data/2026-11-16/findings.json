@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-16T02:37:19+00:00",
-    "fetched_at": "2026-11-16T02:37:05+00:00",
+    "published_at": "2026-11-16T04:13:02+00:00",
+    "fetched_at": "2026-11-16T04:12:47+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,29 @@
       "HD",
       "LOW"
     ],
-    "id": "ffd0dc6f7d6908bf1e8d"
+    "id": "292e983967a615f5d453"
+  },
+  {
+    "title": "Headlines that broke the script: The warning signs were inside the building — Part 1",
+    "url": "https://e27.co/headlines-that-broke-the-script-the-warning-signs-were-inside-the-building-part-1-20261111/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-11-16T04:00:24+00:00",
+    "fetched_at": "2026-11-16T04:12:47+00:00",
+    "summary": "The headlines OpenAI and Anthropic have been in lately range from okay, predictable to downright absurd. Chinese state hackers used Claude to spy. Fair. AI-powered cyber threats have been brewing for a while. OpenAI’s agents escaped a test and hacked Hugging Face. That’s bizarre. Claude filed a fake murder tip with the Philadelphia police. WTF! […] The post Headlines that broke the script: The warning signs were ins…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "OpenAI"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c6457b3c73768c6a3a3d"
   },
   {
     "title": "OpenAIもAnthropicも勧めるのになぜ流行らない？「AIへの指示は99%音声入力」のPdMに聞く活用術 - レバテックLAB",
