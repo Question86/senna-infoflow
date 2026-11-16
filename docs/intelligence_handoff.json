@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-16T07:28:23Z",
+  "generated_at": "2026-11-16T07:49:57Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 5.4 - 8 km SE of Anamizu, Japan” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyhr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-16T04:35:20.113+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -40,7 +40,7 @@
       "url": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T22:34:36+00:00",
-      "age_days": 0.37,
+      "age_days": 0.39,
       "topics": [
         "ai"
       ],
@@ -68,7 +68,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4461",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-16T07:02:01+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -93,7 +93,7 @@
       "url": "https://e27.co/the-ai-draft-is-the-easy-part-the-source-check-is-the-job-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T01:00:01+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "ai",
         "macro"
@@ -121,7 +121,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 150.23,
+      "age_days": 150.24,
       "topics": [
         "ai"
       ],
@@ -150,7 +150,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-11-16T05:25:08+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "macro",
@@ -179,7 +179,7 @@
       "url": "https://e27.co/the-hidden-economics-of-returns-in-southeast-asian-e-commerce-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T06:00:40+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "security",
@@ -208,7 +208,7 @@
       "url": "https://e27.co/headlines-that-broke-the-script-the-warning-signs-were-inside-the-building-part-1-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T04:00:24+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "security"
@@ -233,7 +233,7 @@
       "url": "https://www.itmedia.co.jp/pcuser/articles/2611/16/news045.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T21:12:32+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [],
       "dynamics_score": 13.0,
       "raw_band": "watch",
@@ -256,7 +256,7 @@
       "url": "https://p2ptk.org/monopoly/5688",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T21:09:29+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "general"
       ],
@@ -280,7 +280,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003199/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-16T03:03:29+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -304,7 +304,7 @@
       "url": "https://levtech.jp/media/detail_972/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-16T01:34:47+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
