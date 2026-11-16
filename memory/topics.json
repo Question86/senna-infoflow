@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-16T22:14:37+00:00",
+  "generated_at": "2026-11-16T22:19:44+00:00",
   "topics": {
     "ai": [
       {
@@ -170,6 +170,13 @@
         "url": "https://scrapbox.io/keroxp/Zed%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AA%E3%83%93%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC%E3%81%8CAI%E6%BF%80%E3%81%8A%E3%81%93%E3%81%AA%E4%BB%B6"
       },
       {
+        "title": "GitHub Copilot weekly releases — November 9",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-11-16T21:34:53+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9"
+      },
+      {
         "title": "GitHub Copilot models deprecated on November 16, 2026",
         "source": "GitHub Changelog Atom",
         "published_at": "2026-11-16T20:25:20+00:00",
@@ -235,6 +242,13 @@
         "url": "https://japan.cnet.com/article/35254951/"
       },
       {
+        "title": "M 4.6 - 146 km SSE of Isangel, Vanuatu",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-11-16T22:15:53.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyns"
+      },
+      {
         "title": "Vulnérabilité dans Sonicwall SonicOS (12 novembre 2026)",
         "source": "CERT-FR Avis de sécurité",
         "published_at": "2026-11-12T00:00:00+00:00",
@@ -254,13 +268,6 @@
         "published_at": "2026-11-16T07:27:36+00:00",
         "relevance_score": 5,
         "url": "https://efcl.info/2026/11/16/secretlint-v14/"
-      },
-      {
-        "title": "スパコン「富岳」に不正アクセス 理研が明らかに",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-16T04:49:20+00:00",
-        "relevance_score": 5,
-        "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003224/"
       }
     ],
     "geopolitics": [
