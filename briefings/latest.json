@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T11:14:35+00:00",
-  "run_id": "2026-11-16T11:14:35+00:00",
+  "generated_at": "2026-11-16T11:24:31+00:00",
+  "run_id": "2026-11-16T11:24:31+00:00",
   "date": "2026-11-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 34
+      "configured_public_sources_only": 35
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 34,
-    "displayed_findings": 34,
+    "today_file_total": 35,
+    "displayed_findings": 35,
     "high": 0,
     "medium": 11,
-    "observe": 23,
+    "observe": 24,
     "source_errors": 0
   },
   "sections": {
@@ -577,6 +577,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "ae2bbf1652ebb5befe46"
+      },
+      {
+        "title": "グーグルのAI認定講座、1万人に無料提供 「Google AI Pro」3カ月利用権も",
+        "url": "https://www.watch.impress.co.jp/docs/news/2156720.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-16T05:22:52+00:00",
+        "fetched_at": "2026-11-16T11:24:03+00:00",
+        "summary": "グーグルのAI認定講座、1万人に無料提供 「Google AI Pro」3カ月利用権も",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d3028c5c0143873bd82c"
       },
       {
         "title": "「最後かもしれないだろ？」 AI 以前の個人ゲーム開発者の、AI との折り合いのつけ方｜Tatsuya Koyama | ゲーム開発と絵と音楽",
@@ -1421,6 +1443,28 @@
       "id": "ae2bbf1652ebb5befe46"
     },
     {
+      "title": "グーグルのAI認定講座、1万人に無料提供 「Google AI Pro」3カ月利用権も",
+      "url": "https://www.watch.impress.co.jp/docs/news/2156720.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-16T05:22:52+00:00",
+      "fetched_at": "2026-11-16T11:24:03+00:00",
+      "summary": "グーグルのAI認定講座、1万人に無料提供 「Google AI Pro」3カ月利用権も",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d3028c5c0143873bd82c"
+    },
+    {
       "title": "「最後かもしれないだろ？」 AI 以前の個人ゲーム開発者の、AI との折り合いのつけ方｜Tatsuya Koyama | ゲーム開発と絵と音楽",
       "url": "https://note.com/tatsuya_koyama/n/nb7aa1ba71aba",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1715,25 +1759,26 @@
   ],
   "new_findings": [
     {
-      "title": "The small African lab sounding the alarm on AI bioweapons",
-      "url": "https://restofworld.org/2026/ghana-ai-lab-minohealth-bioweapons-threat-dna-synthesis-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "source": "Rest of World Global Tech Feed",
+      "title": "グーグルのAI認定講座、1万人に無料提供 「Google AI Pro」3カ月利用権も",
+      "url": "https://www.watch.impress.co.jp/docs/news/2156720.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-11-16T11:00:23+00:00",
-      "fetched_at": "2026-11-16T11:14:03+00:00",
-      "summary": "Photograph showing Georgina an AI Engineer building and working on the user interface of the new model Moremi.",
+      "published_at": "2026-11-16T05:22:52+00:00",
+      "fetched_at": "2026-11-16T11:24:03+00:00",
+      "summary": "グーグルのAI認定講座、1万人に無料提供 「Google AI Pro」3カ月利用権も",
       "matched_keywords": [
-        "Africa",
-        "AI/KI"
+        "AI/KI",
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "AI/KI (+3.8); Africa (+2.5); recent (+1.0)",
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "f56ed3b201de133920ab"
+      "id": "d3028c5c0143873bd82c"
     }
   ],
   "source_errors": [],
