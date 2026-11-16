@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-16T07:38:39+00:00",
+  "generated_at": "2026-11-16T07:56:50+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-11-16T05:25:08+00:00",
+        "published_at": "2026-11-16T07:56:41+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -82,6 +82,13 @@
         "published_at": "2026-11-16T04:35:20.113+00:00",
         "relevance_score": 17,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyhr"
+      },
+      {
+        "title": "M 5.0 - 68 km S of Sarangani, Philippines",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-11-16T07:55:37.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyil"
       },
       {
         "title": "かくしてGoogleは詐欺師の楽園と化した » p2ptk[.]org",
