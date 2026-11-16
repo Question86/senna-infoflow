@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T16:00:58+00:00",
-  "run_id": "2026-11-16T16:00:58+00:00",
+  "generated_at": "2026-11-16T16:15:27+00:00",
+  "run_id": "2026-11-16T16:15:27+00:00",
   "date": "2026-11-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 49
+      "configured_public_sources_only": 50
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 49,
-    "displayed_findings": 49,
+    "new_relevant_findings": 1,
+    "today_file_total": 50,
+    "displayed_findings": 50,
     "high": 0,
-    "medium": 12,
+    "medium": 13,
     "observe": 37,
     "source_errors": 0
   },
@@ -95,6 +95,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "0c06ccc27c41b33e0bcb"
+      },
+      {
+        "title": "Bulk start AI Scan for repositories",
+        "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-11-16T15:50:22+00:00",
+        "fetched_at": "2026-11-16T16:14:52+00:00",
+        "summary": "AI Scan for repositories finds security vulnerabilities on your repository’s default branch. It covers languages CodeQL doesn’t support and finds additional issues in languages CodeQL already analyzes. Findings appear in… The post Bulk start AI Scan for repositories appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "AI/KI",
+          "CodeQL/Dependabot",
+          "GitHub",
+          "Security"
+        ],
+        "relevance_score": 20,
+        "relevance_reason": "CodeQL/Dependabot (+7.0); AI/KI (+3.8); Security (+6.0); GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fc12196499a5cad4932d"
       },
       {
         "title": "ag-ui-protocol/ag-ui",
@@ -1273,6 +1296,29 @@
       "id": "0c06ccc27c41b33e0bcb"
     },
     {
+      "title": "Bulk start AI Scan for repositories",
+      "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-11-16T15:50:22+00:00",
+      "fetched_at": "2026-11-16T16:14:52+00:00",
+      "summary": "AI Scan for repositories finds security vulnerabilities on your repository’s default branch. It covers languages CodeQL doesn’t support and finds additional issues in languages CodeQL already analyzes. Findings appear in… The post Bulk start AI Scan for repositories appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "AI/KI",
+        "CodeQL/Dependabot",
+        "GitHub",
+        "Security"
+      ],
+      "relevance_score": 20,
+      "relevance_reason": "CodeQL/Dependabot (+7.0); AI/KI (+3.8); Security (+6.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fc12196499a5cad4932d"
+    },
+    {
       "title": "ag-ui-protocol/ag-ui",
       "url": "https://github.com/ag-ui-protocol/ag-ui",
       "source": "GitHub Trending RSS All Languages Daily",
@@ -2377,7 +2423,31 @@
       "id": "095f8fc68251cea4b687"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Bulk start AI Scan for repositories",
+      "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-11-16T15:50:22+00:00",
+      "fetched_at": "2026-11-16T16:14:52+00:00",
+      "summary": "AI Scan for repositories finds security vulnerabilities on your repository’s default branch. It covers languages CodeQL doesn’t support and finds additional issues in languages CodeQL already analyzes. Findings appear in… The post Bulk start AI Scan for repositories appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "AI/KI",
+        "CodeQL/Dependabot",
+        "GitHub",
+        "Security"
+      ],
+      "relevance_score": 20,
+      "relevance_reason": "CodeQL/Dependabot (+7.0); AI/KI (+3.8); Security (+6.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fc12196499a5cad4932d"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

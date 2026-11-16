@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-16T16:00:58+00:00",
+  "generated_at": "2026-11-16T16:15:27+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-11-16T09:55:46+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+      },
+      {
+        "title": "Bulk start AI Scan for repositories",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-11-16T15:50:22+00:00",
+        "relevance_score": 20,
+        "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories"
       },
       {
         "title": "ag-ui-protocol/ag-ui",
@@ -66,13 +73,6 @@
         "published_at": "2026-11-16T09:00:00+00:00",
         "relevance_score": 12,
         "url": "https://openai.com/index/lvmh-media-division-partnership"
-      },
-      {
-        "title": "The Philippines can’t win the AI arms race, so it is betting on Taglish",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-16T04:52:11+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/the-philippines-cant-win-the-ai-arms-race-so-it-is-betting-on-taglish-20261116/"
       }
     ],
     "security": [
@@ -82,6 +82,13 @@
         "published_at": "2026-11-16T09:28:39+00:00",
         "relevance_score": 22,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4532"
+      },
+      {
+        "title": "Bulk start AI Scan for repositories",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-11-16T15:50:22+00:00",
+        "relevance_score": 20,
+        "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories"
       },
       {
         "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (crun, xfsprogs, glib-networking): Mehrere Schwachstellen",
@@ -113,6 +120,13 @@
       }
     ],
     "github": [
+      {
+        "title": "Bulk start AI Scan for repositories",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-11-16T15:50:22+00:00",
+        "relevance_score": 20,
+        "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories"
+      },
       {
         "title": "ag-ui-protocol/ag-ui",
         "source": "GitHub Trending RSS All Languages Daily",
