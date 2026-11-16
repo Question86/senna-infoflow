@@ -1,15 +1,24 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-16T00:41:34+00:00",
+  "generated_at": "2026-11-16T00:58:23+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-11-16T00:41:23+00:00",
+        "published_at": "2026-11-16T00:58:14+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+      }
+    ],
+    "general": [
+      {
+        "title": "Microsoft 365障害はなぜ長引いたのか？ 原因・タイムラインと「SLAクレジット」請求方法まとめ",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-15T21:12:32+00:00",
+        "relevance_score": 5,
+        "url": "https://www.itmedia.co.jp/pcuser/articles/2611/16/news045.html"
       }
     ]
   }
