@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T03:53:57+00:00",
-  "run_id": "2026-11-16T03:53:57+00:00",
+  "generated_at": "2026-11-16T03:59:25+00:00",
+  "run_id": "2026-11-16T03:59:25+00:00",
   "date": "2026-11-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 10,
     "displayed_findings": 10,
     "high": 0,
@@ -545,29 +545,7 @@
       "id": "095f8fc68251cea4b687"
     }
   ],
-  "new_findings": [
-    {
-      "title": "ドコモでまたも通信障害、11月3度目",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2156616.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-16T02:12:18+00:00",
-      "fetched_at": "2026-11-16T03:53:29+00:00",
-      "summary": "ドコモでまたも通信障害、11月3度目",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "02f02827de44572d78d0"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
