@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-11-16T07:49:57Z_
+_Generated: 2026-11-16T08:11:04Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.4 - 8 km SE of Anamizu, Japan” —
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `25.0`
-- Published: `2026-11-16T04:35:20.113+00:00` / age_days `0.14`
+- Published: `2026-11-16T04:35:20.113+00:00` / age_days `0.15`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.4 - 8 km SE of Anamizu, Japan” —
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-11-15T22:34:36+00:00` / age_days `0.39`
+- Published: `2026-11-15T22:34:36+00:00` / age_days `0.4`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.4 - 8 km SE of Anamizu, Japan” —
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-16T07:02:01+00:00` / age_days `0.03`
+- Published: `2026-11-16T07:02:01+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory, official security but no high-signal phrase: capped at strong
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.4 - 8 km SE of Anamizu, Japan” —
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-16T01:00:01+00:00` / age_days `0.28`
+- Published: `2026-11-16T01:00:01+00:00` / age_days `0.3`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: chain, high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -52,17 +52,17 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.4 - 8 km SE of Anamizu, Japan” —
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `150.24`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `150.26`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 150.2d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
+- Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 150.3d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/
 
 ### Updates | ReliefWeb
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-11-16T05:25:08+00:00` / age_days `0.1`
+- Published: `2026-11-16T07:56:41+00:00` / age_days `0.01`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: earthquake, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -72,17 +72,27 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.4 - 8 km SE of Anamizu, Japan” —
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-11-16T06:00:40+00:00` / age_days `0.08`
+- Published: `2026-11-16T06:00:40+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: supply, chain, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://e27.co/the-hidden-economics-of-returns-in-southeast-asian-e-commerce-20261111/
 
+### M 5.0 - 68 km S of Sarangani, Philippines
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `23.0`
+- Published: `2026-11-16T07:55:37.040+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyil
+
 ### Headlines that broke the script: The warning signs were inside the building — Part 1
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `13.0`
-- Published: `2026-11-16T04:00:24+00:00` / age_days `0.16`
+- Published: `2026-11-16T04:00:24+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -92,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.4 - 8 km SE of Anamizu, Japan” —
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `13.0`
-- Published: `2026-11-15T21:12:32+00:00` / age_days `0.44`
+- Published: `2026-11-15T21:12:32+00:00` / age_days `0.46`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.4 - 8 km SE of Anamizu, Japan” —
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `12.0`
-- Published: `2026-11-15T21:09:29+00:00` / age_days `0.44`
+- Published: `2026-11-15T21:09:29+00:00` / age_days `0.46`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.4 - 8 km SE of Anamizu, Japan” —
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-11-16T03:03:29+00:00` / age_days `0.2`
+- Published: `2026-11-16T03:03:29+00:00` / age_days `0.21`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
 - Quelle: https://www.itmedia.co.jp/news/article/2611/16/2000003199/
-
-### OpenAIもAnthropicも勧めるのになぜ流行らない？「AIへの指示は99%音声入力」のPdMに聞く活用術 - レバテックLAB
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `9.0`
-- Published: `2026-11-16T01:34:47+00:00` / age_days `0.26`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://levtech.jp/media/detail_972/
 
 END OF DOCUMENT
