@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-16T07:56:50+00:00_
+_Generated: 2026-11-16T08:36:33+00:00_
 
 ## Status
 - status: `normal`
-- findings: `20`
+- findings: `24`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-16T07:56:41+00:00`
+- published: `2026-11-16T08:36:23+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
-### 2. M 5.4 - 8 km SE of Anamizu, Japan
+### 2. ag-ui-protocol/ag-ui
+- source: GitHub Trending RSS All Languages Daily
+- score: `19`
+- published: `None`
+- url: https://github.com/ag-ui-protocol/ag-ui
+- summary: AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. https://ag-ui.com AG-UI: The Agent-User Interaction Protocol AG-UI is an open, lightweight, event-based protocol that standardizes how AI agents connect to user-facing applic…
+
+### 3. M 5.4 - 8 km SE of Anamizu, Japan
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `17`
 - published: `2026-11-16T04:35:20.113+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyhr
 - summary: ShakeMap - III Time 2026-11-16 04:24:11 UTC 2026-11-16 04:24:11 UTC at epicenter Location 37.185°N 136.979°E Depth 286.10 km (177.77 mi)
 
-### 3. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen
+### 4. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-11-16T07:02:01+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4461
 - summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial-of-Service-Zustand zu verursachen oder nicht näher spezifizierte Auswirkungen auszulösen.
-
-### 4. M 5.0 - 68 km S of Sarangani, Philippines
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-11-16T07:55:37.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyil
-- summary: Time 2026-11-16 07:14:14 UTC 2026-11-16 07:14:14 UTC at epicenter Location 4.784°N 125.427°E Depth 10.00 km (6.21 mi)
 
 ### 5. Is prompt engineering real AI development, or just good documentation?
 - source: e27 Asia Startup and Tech Feed

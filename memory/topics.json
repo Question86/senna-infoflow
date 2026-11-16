@@ -1,15 +1,22 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-16T07:56:50+00:00",
+  "generated_at": "2026-11-16T08:36:33+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-11-16T07:56:41+00:00",
+        "published_at": "2026-11-16T08:36:23+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+      },
+      {
+        "title": "ag-ui-protocol/ag-ui",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 19,
+        "url": "https://github.com/ag-ui-protocol/ag-ui"
       },
       {
         "title": "The hidden economics of returns in Southeast Asian e-commerce",
@@ -61,18 +68,27 @@
         "url": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html"
       },
       {
-        "title": "What’s actually changing for Asia Pacific businesses in the age of AI",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-16T05:00:40+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/whats-actually-changing-for-asia-pacific-businesses-in-the-age-of-ai-20261111/"
+        "title": "「最後かもしれないだろ？」 AI 以前の個人ゲーム開発者の、AI との折り合いのつけ方｜Tatsuya Koyama | ゲーム開発と絵と音楽",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-16T01:58:19+00:00",
+        "relevance_score": 9,
+        "url": "https://note.com/tatsuya_koyama/n/nb7aa1ba71aba"
+      }
+    ],
+    "github": [
+      {
+        "title": "ag-ui-protocol/ag-ui",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 19,
+        "url": "https://github.com/ag-ui-protocol/ag-ui"
       },
       {
-        "title": "The AI draft is the easy part. The source check is the job",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-16T01:00:01+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/the-ai-draft-is-the-easy-part-the-source-check-is-the-job-20261111/"
+        "title": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-15T22:34:36+00:00",
+        "relevance_score": 10,
+        "url": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html"
       }
     ],
     "general": [
@@ -96,6 +112,13 @@
         "published_at": "2026-11-15T21:09:29+00:00",
         "relevance_score": 12,
         "url": "https://p2ptk.org/monopoly/5688"
+      },
+      {
+        "title": "デジタル庁の保有する個人情報に係る開示・訂正・利用停止請求手続きの「請求様式」「保有個人情報の開示の実施方法申出書」を更新しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-11-16T08:07:42+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/personal-information-protection"
       },
       {
         "title": "パスワードより安全なはずが……パスキー対応103サイトを検証→全てに脆弱性 独大学の調査結果",
@@ -135,15 +158,13 @@
         "published_at": "2026-11-16T04:00:24+00:00",
         "relevance_score": 13,
         "url": "https://e27.co/headlines-that-broke-the-script-the-warning-signs-were-inside-the-building-part-1-20261111/"
-      }
-    ],
-    "github": [
+      },
       {
-        "title": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-15T22:34:36+00:00",
+        "title": "Boris Vujčić: Risks and resilience in the euro area financial system",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-11-16T08:30:00+00:00",
         "relevance_score": 10,
-        "url": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html"
+        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html"
       }
     ],
     "economy": [
