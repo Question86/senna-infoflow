@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T01:21:08+00:00",
-  "run_id": "2026-11-16T01:21:08+00:00",
+  "generated_at": "2026-11-16T01:30:50+00:00",
+  "run_id": "2026-11-16T01:30:50+00:00",
   "date": "2026-11-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 4,
     "displayed_findings": 4,
     "high": 0,
@@ -247,30 +247,7 @@
       "id": "6cc31f79b3171b3350ef"
     }
   ],
-  "new_findings": [
-    {
-      "title": "かくしてGoogleは詐欺師の楽園と化した » p2ptk[.]org",
-      "url": "https://p2ptk.org/monopoly/5688",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-15T21:09:29+00:00",
-      "fetched_at": "2026-11-16T01:20:39+00:00",
-      "summary": "以下の文章は、コリイ・ドクトロウの「Google is a scammer’s paradise」という記事を翻訳したものである。 Pluralistic 「邪悪になるな」など忘れてしまえ。Googleの真のモットーは、下劣なスパイダーマン主義、「大いなる力には、何の責任も伴わない」だ。インターネットの事実上の支配者は、不在地主なのだ。 Google―...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry",
-        "Reputationsrisiko"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "Reputationsrisiko (+7.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4cbcadc1f1c756a66fcf"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
