@@ -316,6 +316,43 @@
     "id": "1233773e8c6b95b36c45"
   },
   {
+    "title": "M 6.6 - 151 km WSW of Tual, Indonesia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tymu",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-11-16T21:25:49.040+00:00",
+    "fetched_at": "2026-11-16T21:29:35+00:00",
+    "summary": "Time 2026-11-16 21:11:17 UTC 2026-11-16 21:11:17 UTC at epicenter Location 6.029°S 131.446°E Depth 35.00 km (21.75 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "96f9f2e41fcaacd797a4"
+  },
+  {
     "title": "Strengthening the fight against online child sexual abuse with new tools and support",
     "url": "https://openai.com/index/strengthening-online-child-safety",
     "source": "OpenAI News RSS",
