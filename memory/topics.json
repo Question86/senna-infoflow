@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-16T09:48:37+00:00",
+  "generated_at": "2026-11-16T09:55:56+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-11-16T08:36:23+00:00",
+        "published_at": "2026-11-16T09:55:46+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -40,6 +40,13 @@
         "url": "https://e27.co/headlines-that-broke-the-script-the-warning-signs-were-inside-the-building-part-1-20261111/"
       },
       {
+        "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-11-16T09:00:00+00:00",
+        "relevance_score": 12,
+        "url": "https://openai.com/index/lvmh-media-division-partnership"
+      },
+      {
         "title": "The Philippines can’t win the AI arms race, so it is betting on Taglish",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-11-16T04:52:11+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-11-15T22:34:36+00:00",
         "relevance_score": 10,
         "url": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html"
-      },
-      {
-        "title": "「最後かもしれないだろ？」 AI 以前の個人ゲーム開発者の、AI との折り合いのつけ方｜Tatsuya Koyama | ゲーム開発と絵と音楽",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-16T01:58:19+00:00",
-        "relevance_score": 9,
-        "url": "https://note.com/tatsuya_koyama/n/nb7aa1ba71aba"
       }
     ],
     "security": [
@@ -203,6 +203,13 @@
       }
     ],
     "economy": [
+      {
+        "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-11-16T09:00:00+00:00",
+        "relevance_score": 12,
+        "url": "https://openai.com/index/lvmh-media-division-partnership"
+      },
       {
         "title": "The AI draft is the easy part. The source check is the job",
         "source": "e27 Asia Startup and Tech Feed",

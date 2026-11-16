@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-16T08:36:23+00:00",
-    "fetched_at": "2026-11-16T08:36:08+00:00",
+    "published_at": "2026-11-16T09:55:46+00:00",
+    "fetched_at": "2026-11-16T09:55:31+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "a871e0b5611a9d77746f"
+    "id": "e0b5c3e86ac7f1821eb1"
   },
   {
     "title": "[UPDATE] [hoch] Red Hat Ansible Automation Platform (GitPython): Mehrere Schwachstellen",
@@ -326,6 +326,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "c6457b3c73768c6a3a3d"
+  },
+  {
+    "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+    "url": "https://openai.com/index/lvmh-media-division-partnership",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-11-16T09:00:00+00:00",
+    "fetched_at": "2026-11-16T09:55:31+00:00",
+    "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+    "matched_keywords": [
+      "AI/KI",
+      "OpenAI"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9ecaa1f177c5f2706ec9"
   },
   {
     "title": "The Philippines can’t win the AI arms race, so it is betting on Taglish",

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-16T09:48:37+00:00_
+_Generiert: 2026-11-16T09:55:56+00:00_
 
 ## Kurzlage
 
-29 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+30 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -63,7 +63,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-16T08:36:23+00:00`, fetched `2026-11-16T08:36:08+00:00`
+  - Zeit: published `2026-11-16T09:55:46+00:00`, fetched `2026-11-16T09:55:31+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -154,6 +154,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: The headlines OpenAI and Anthropic have been in lately range from okay, predictable to downright absurd. Chinese state hackers used Claude to spy. Fair. AI-powered cyber threats have been brewing for a while. OpenAI’s agents escaped a test and hacked Hugging Face. That’s bizarre. Claude filed a fake murder tip with the Philadelphia police. WTF! […] The post Headlines that broke the script: The warning signs were ins…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **LVMH’s Media Division announces strategic partnership with OpenAI** — Score 12, opportunity — [Quelle](https://openai.com/index/lvmh-media-division-partnership)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-11-16T09:00:00+00:00`, fetched `2026-11-16T09:55:31+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); recent (+1.0)
+  - Kurz: LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **The Philippines can’t win the AI arms race, so it is betting on Taglish** — Score 12, observation — [Quelle](https://e27.co/the-philippines-cant-win-the-ai-arms-race-so-it-is-betting-on-taglish-20261116/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-16T04:52:11+00:00`, fetched `2026-11-16T04:56:35+00:00`
