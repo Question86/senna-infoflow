@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-16T16:18:59Z",
+  "generated_at": "2026-11-16T16:47:05Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -9,14 +9,14 @@
       "extreme": 2,
       "krass": 9,
       "strong": 11,
-      "watch": 5,
-      "quiet": 13
+      "watch": 6,
+      "quiet": 12
     },
     "bands_after_gate_recheck": {
       "krass": 2,
       "strong": 20,
-      "watch": 5,
-      "quiet": 13
+      "watch": 6,
+      "quiet": 12
     }
   },
   "top_dynamics": [
@@ -25,7 +25,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4549",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-16T09:12:00+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "ai",
         "security"
@@ -51,7 +51,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4518",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-16T08:47:01+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -76,7 +76,7 @@
       "url": "https://www.heise.de/news/ConnectWise-ScreenConnect-Angreifer-installieren-Malware-ueber-RMM-Erweiterung-11526055.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-16T10:15:00.000+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -101,7 +101,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1509/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-11-12T00:00:00+00:00",
-      "age_days": 4.68,
+      "age_days": 4.7,
       "topics": [
         "ai",
         "security"
@@ -127,7 +127,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyhr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-16T04:35:20.113+00:00",
-      "age_days": 0.49,
+      "age_days": 0.51,
       "topics": [
         "disaster"
       ],
@@ -152,7 +152,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4532",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-16T09:28:39+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -180,7 +180,7 @@
       "url": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T22:34:36+00:00",
-      "age_days": 0.74,
+      "age_days": 0.76,
       "topics": [
         "ai"
       ],
@@ -208,7 +208,7 @@
       "url": "https://restofworld.org/2026/ghana-ai-lab-minohealth-bioweapons-threat-dna-synthesis-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-11-16T11:00:23+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -236,7 +236,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1510/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-11-12T00:00:00+00:00",
-      "age_days": 4.68,
+      "age_days": 4.7,
       "topics": [
         "security"
       ],
@@ -262,7 +262,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4461",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-16T07:02:01+00:00",
-      "age_days": 0.39,
+      "age_days": 0.41,
       "topics": [
         "security"
       ],
@@ -287,7 +287,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1511/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-11-12T00:00:00+00:00",
-      "age_days": 4.68,
+      "age_days": 4.7,
       "topics": [
         "ai",
         "security"
@@ -314,7 +314,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1512/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-11-12T00:00:00+00:00",
-      "age_days": 4.68,
+      "age_days": 4.7,
       "topics": [
         "ai",
         "security"
@@ -341,7 +341,7 @@
       "url": "https://e27.co/the-ai-draft-is-the-easy-part-the-source-check-is-the-job-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T01:00:01+00:00",
-      "age_days": 0.64,
+      "age_days": 0.66,
       "topics": [
         "ai",
         "macro"
@@ -369,7 +369,7 @@
       "url": "https://github.com/ag-ui-protocol/ag-ui",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-16T08:36:08+00:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -395,7 +395,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 150.6,
+      "age_days": 150.62,
       "topics": [
         "ai"
       ],
@@ -424,7 +424,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-11-16T09:55:46+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "ai",
         "macro",
@@ -453,7 +453,7 @@
       "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-16T15:50:22+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "security"
@@ -480,7 +480,7 @@
       "url": "https://e27.co/the-hidden-economics-of-returns-in-southeast-asian-e-commerce-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T06:00:40+00:00",
-      "age_days": 0.43,
+      "age_days": 0.45,
       "topics": [
         "ai",
         "security",
@@ -509,7 +509,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm",
       "source": "Federal Reserve Speeches and Testimony",
       "published_at": "2026-11-16T10:00:00+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "ai",
         "macro"
@@ -536,7 +536,7 @@
       "url": "https://openai.com/index/the-kings-trust-and-openai",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-16T00:00:00+00:00",
-      "age_days": 0.68,
+      "age_days": 0.7,
       "topics": [
         "ai"
       ],
@@ -562,7 +562,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyil",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-16T07:55:37.040+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "disaster"
       ],
@@ -587,7 +587,7 @@
       "url": "https://openai.com/index/lvmh-media-division-partnership",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-16T09:00:00+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "ai",
         "macro"
@@ -610,11 +610,36 @@
       "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT."
     },
     {
+      "title": "M 5.4 - 95 km WSW of Changuillo, Peru",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tykh",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-16T16:34:45.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-11-16 16:16:45 UTC 2026-11-16 16:16:45 UTC at epicenter Location 15.031°S 76.026°W Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "Announcing 20260101 (MRO,liquidity providing), for 7 days deadline 09:30",
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260101.en.html",
       "source": "ECB Open Market Operations and Communication",
       "published_at": "2026-11-16T14:40:27+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "macro"
       ],
@@ -638,7 +663,7 @@
       "url": "https://japan.cnet.com/article/35254951/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-16T07:53:04+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "general"
       ],
@@ -662,7 +687,7 @@
       "url": "https://e27.co/headlines-that-broke-the-script-the-warning-signs-were-inside-the-building-part-1-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T04:00:24+00:00",
-      "age_days": 0.51,
+      "age_days": 0.53,
       "topics": [
         "ai",
         "security"
@@ -687,7 +712,7 @@
       "url": "https://www.itmedia.co.jp/pcuser/articles/2611/16/news045.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T21:12:32+00:00",
-      "age_days": 0.8,
+      "age_days": 0.82,
       "topics": [],
       "dynamics_score": 13.0,
       "raw_band": "watch",
@@ -710,7 +735,7 @@
       "url": "https://p2ptk.org/monopoly/5688",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T21:09:29+00:00",
-      "age_days": 0.8,
+      "age_days": 0.82,
       "topics": [
         "general"
       ],
@@ -734,7 +759,7 @@
       "url": "https://e27.co/meta-wants-to-teach-singapores-small-businesses-ai-it-also-wants-them-on-whatsapp-20261116/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T11:01:26+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -759,7 +784,7 @@
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-11-16T08:30:00+00:00",
-      "age_days": 0.33,
+      "age_days": 0.35,
       "topics": [
         "macro"
       ],
@@ -783,7 +808,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003199/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-16T03:03:29+00:00",
-      "age_days": 0.55,
+      "age_days": 0.57,
       "topics": [
         "general"
       ],
@@ -807,7 +832,7 @@
       "url": "https://levtech.jp/media/detail_972/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-16T01:34:47+00:00",
-      "age_days": 0.61,
+      "age_days": 0.63,
       "topics": [
         "ai"
       ],
@@ -833,7 +858,7 @@
       "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261116_1~11dd7f62af.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-11-16T13:00:00+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "macro"
       ],
@@ -857,7 +882,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1507/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-11-12T00:00:00+00:00",
-      "age_days": 4.68,
+      "age_days": 4.7,
       "topics": [
         "security"
       ],
@@ -881,7 +906,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1508/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-11-12T00:00:00+00:00",
-      "age_days": 4.68,
+      "age_days": 4.7,
       "topics": [
         "ai",
         "security"
@@ -906,7 +931,7 @@
       "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-16T14:30:07+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -930,7 +955,7 @@
       "url": "https://www.digital.go.jp/personal-information-protection",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-11-16T08:07:42+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "general"
       ],
@@ -954,7 +979,7 @@
       "url": "https://e27.co/is-prompt-engineering-real-ai-development-or-just-good-documentation-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T06:00:03+00:00",
-      "age_days": 0.43,
+      "age_days": 0.45,
       "topics": [
         "ai"
       ],
@@ -979,7 +1004,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003224/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-16T04:49:20+00:00",
-      "age_days": 0.48,
+      "age_days": 0.5,
       "topics": [
         "general"
       ],
@@ -1003,7 +1028,7 @@
       "url": "https://e27.co/the-philippines-cant-win-the-ai-arms-race-so-it-is-betting-on-taglish-20261116/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T04:52:11+00:00",
-      "age_days": 0.48,
+      "age_days": 0.5,
       "topics": [
         "ai"
       ],
@@ -1022,32 +1047,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Ask a Manila contact-centre agent what a caller means by “Pakicheck naman po ang bill ko, may extra charge yata” and she will answer before the sentence ends. Ask a model trained mostly on Silicon Valley’s internet and you may get a polite reply to the wrong question. That gap, between the language Filipinos actually…"
-    },
-    {
-      "title": "ZedのコントリビューションポリシーがAI激おこな件 - keroxpのScrapbox",
-      "url": "https://scrapbox.io/keroxp/Zed%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AA%E3%83%93%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC%E3%81%8CAI%E6%BF%80%E3%81%8A%E3%81%93%E3%81%AA%E4%BB%B6",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-16T08:16:47+00:00",
-      "age_days": 0.33,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 4.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: code",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Zedという新進のコードエディタがあるkeroxp.icon そのOSSコントリビューションガイドラインが色々と今風に面白かったので紹介していく Zedとは Zed（ゼド）は高速動作とAI連携を売りにしたエディタである。その源流はあのAtomだ Atomは2014年にGithubの社内プロジェクトから始まり、2022年にVSCodeに押される形で開発が..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Red Hat Enterprise Linux (crun, xfsprogs, glib-networking): Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
