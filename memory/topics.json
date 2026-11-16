@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-16T08:36:33+00:00",
+  "generated_at": "2026-11-16T08:51:41+00:00",
   "topics": {
     "ai": [
       {
@@ -121,6 +121,13 @@
         "url": "https://www.digital.go.jp/personal-information-protection"
       },
       {
+        "title": "スパコン「富岳」に不正アクセス 理研が明らかに",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-16T04:49:20+00:00",
+        "relevance_score": 5,
+        "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003224/"
+      },
+      {
         "title": "パスワードより安全なはずが……パスキー対応103サイトを検証→全てに脆弱性 独大学の調査結果",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-11-16T03:03:29+00:00",
@@ -143,6 +150,13 @@
       }
     ],
     "security": [
+      {
+        "title": "[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-16T08:47:01+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4518"
+      },
       {
         "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
