@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-16T16:52:59+00:00",
-    "fetched_at": "2026-11-16T16:52:41+00:00",
+    "published_at": "2026-11-16T18:59:08+00:00",
+    "fetched_at": "2026-11-16T18:58:42+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "6dfe858a1c63be8cbb50"
+    "id": "b387c07d9f3b42bdb6a6"
   },
   {
     "title": "[UPDATE] [hoch] Red Hat Ansible Automation Platform (GitPython): Mehrere Schwachstellen",
