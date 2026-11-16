@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-16T00:58:23+00:00_
+_Generiert: 2026-11-16T01:09:33+00:00_
 
 ## Kurzlage
 
-2 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+3 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -73,6 +73,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **The AI draft is the easy part. The source check is the job** — Score 8, observation — [Quelle](https://e27.co/the-ai-draft-is-the-easy-part-the-source-check-is-the-job-20261111/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-16T01:00:01+00:00`, fetched `2026-11-16T01:09:04+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: In corporate communications, the first useful thing an AI assistant does is not write a finished announcement. It gives you a place to begin. It can turn a long technical brief into an organised list of claims, flag missing stakeholders, or reconstruct a scattered email chain into a timeline that people can check. That speed […] The post The AI draft is the easy part. The source check is the job appeared first on e2…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Microsoft 365障害はなぜ長引いたのか？ 原因・タイムラインと「SLAクレジット」請求方法まとめ** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/pcuser/articles/2611/16/news045.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-15T21:12:32+00:00`, fetched `2026-11-16T00:57:58+00:00`
