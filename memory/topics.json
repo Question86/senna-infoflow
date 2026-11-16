@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-16T23:48:43+00:00",
+  "generated_at": "2026-11-16T23:54:03+00:00",
   "topics": {
     "ai": [
       {
@@ -263,11 +263,11 @@
         "url": "https://www.digital.go.jp/personal-information-protection"
       },
       {
-        "title": "Node.jsとnpmをWebブラウザ上で実行可能にする「OpenVessel」、神戸ソフトがオープンソースで公開",
+        "title": "スーパーコンピューター「富岳」への不正アクセスについてまとめてみた - piyolog",
         "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-16T19:25:09+00:00",
+        "published_at": "2026-11-16T21:42:53+00:00",
         "relevance_score": 5,
-        "url": "https://www.publickey1.jp/blog/26/nodejsnpmwebopenvessel.html"
+        "url": "https://piyolog.hatenadiary.jp/entry/2026/11/17/030254"
       }
     ],
     "geopolitics": [
