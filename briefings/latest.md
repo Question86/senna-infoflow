@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-16T02:00:35+00:00_
+_Generiert: 2026-11-16T02:19:31+00:00_
 
 ## Kurzlage
 
-4 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+5 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -63,7 +63,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-16T01:43:45+00:00`, fetched `2026-11-16T01:43:29+00:00`
+  - Zeit: published `2026-11-16T02:19:21+00:00`, fetched `2026-11-16T02:19:06+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -91,6 +91,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: In corporate communications, the first useful thing an AI assistant does is not write a finished announcement. It gives you a place to begin. It can turn a long technical brief into an organised list of claims, flag missing stakeholders, or reconstruct a scattered email chain into a timeline that people can check. That speed […] The post The AI draft is the easy part. The source check is the job appeared first on e2…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **A drug does not treat a virtual model. It treats a real patient** — Score 7, observation — [Quelle](https://e27.co/a-drug-does-not-treat-a-virtual-model-it-treats-a-real-patient-20261111/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-16T02:00:15+00:00`, fetched `2026-11-16T02:19:06+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: Artificial intelligence is changing how we evaluate medicines, predict outcomes and assess risks in clinical development. Virtual simulations can help researchers explore possibilities before a treatment reaches a patient. Predictive models can help identify patterns that might otherwise be difficult to see. But there is a question that deserves more attention: how closely do our […] The post A drug does not treat a…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Microsoft 365障害はなぜ長引いたのか？ 原因・タイムラインと「SLAクレジット」請求方法まとめ** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/pcuser/articles/2611/16/news045.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-15T21:12:32+00:00`, fetched `2026-11-16T00:57:58+00:00`
@@ -108,7 +117,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `hn_release_security_burst` (hackernews): HTTPSConnectionPool(host='hn.algolia.com', port=443): Read timed out. (read timeout=8)

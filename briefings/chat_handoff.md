@@ -1,17 +1,17 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-16T02:00:35+00:00_
+_Generated: 2026-11-16T02:19:31+00:00_
 
 ## Status
-- status: `warning`
-- findings: `4`
+- status: `normal`
+- findings: `5`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-16T01:43:45+00:00`
+- published: `2026-11-16T02:19:21+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -29,7 +29,14 @@ _Generated: 2026-11-16T02:00:35+00:00_
 - url: https://e27.co/the-ai-draft-is-the-easy-part-the-source-check-is-the-job-20261111/
 - summary: In corporate communications, the first useful thing an AI assistant does is not write a finished announcement. It gives you a place to begin. It can turn a long technical brief into an organised list of claims, flag missing stakeholders, or reconstruct a scat…
 
-### 4. Microsoft 365障害はなぜ長引いたのか？ 原因・タイムラインと「SLAクレジット」請求方法まとめ
+### 4. A drug does not treat a virtual model. It treats a real patient
+- source: e27 Asia Startup and Tech Feed
+- score: `7`
+- published: `2026-11-16T02:00:15+00:00`
+- url: https://e27.co/a-drug-does-not-treat-a-virtual-model-it-treats-a-real-patient-20261111/
+- summary: Artificial intelligence is changing how we evaluate medicines, predict outcomes and assess risks in clinical development. Virtual simulations can help researchers explore possibilities before a treatment reaches a patient. Predictive models can help identify…
+
+### 5. Microsoft 365障害はなぜ長引いたのか？ 原因・タイムラインと「SLAクレジット」請求方法まとめ
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-11-15T21:12:32+00:00`
