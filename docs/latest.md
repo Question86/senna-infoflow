@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-16T01:09:33+00:00_
+_Generiert: 2026-11-16T01:21:08+00:00_
 
 ## Kurzlage
 
-3 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+4 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -24,6 +24,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **かくしてGoogleは詐欺師の楽園と化した » p2ptk[.]org** — Score 12, risk — [Quelle](https://p2ptk.org/monopoly/5688)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-15T21:09:29+00:00`, fetched `2026-11-16T01:20:39+00:00`
+  - Treffer: Hatena, hotentry, Reputationsrisiko
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Reputationsrisiko (+7.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 以下の文章は、コリイ・ドクトロウの「Google is a scammer’s paradise」という記事を翻訳したものである。 Pluralistic 「邪悪になるな」など忘れてしまえ。Googleの真のモットーは、下劣なスパイダーマン主義、「大いなる力には、何の責任も伴わない」だ。インターネットの事実上の支配者は、不在地主なのだ。 Google―...
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **The AI draft is the easy part. The source check is the job** — Score 8, observation — [Quelle](https://e27.co/the-ai-draft-is-the-easy-part-the-source-check-is-the-job-20261111/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-16T01:00:01+00:00`, fetched `2026-11-16T01:09:04+00:00`

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-16T01:09:33+00:00",
+  "generated_at": "2026-11-16T01:21:08+00:00",
   "topics": {
     "ai": [
       {
@@ -19,6 +19,22 @@
         "url": "https://e27.co/the-ai-draft-is-the-easy-part-the-source-check-is-the-job-20261111/"
       }
     ],
+    "general": [
+      {
+        "title": "かくしてGoogleは詐欺師の楽園と化した » p2ptk[.]org",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-15T21:09:29+00:00",
+        "relevance_score": 12,
+        "url": "https://p2ptk.org/monopoly/5688"
+      },
+      {
+        "title": "Microsoft 365障害はなぜ長引いたのか？ 原因・タイムラインと「SLAクレジット」請求方法まとめ",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-15T21:12:32+00:00",
+        "relevance_score": 5,
+        "url": "https://www.itmedia.co.jp/pcuser/articles/2611/16/news045.html"
+      }
+    ],
     "economy": [
       {
         "title": "The AI draft is the easy part. The source check is the job",
@@ -26,15 +42,6 @@
         "published_at": "2026-11-16T01:00:01+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/the-ai-draft-is-the-easy-part-the-source-check-is-the-job-20261111/"
-      }
-    ],
-    "general": [
-      {
-        "title": "Microsoft 365障害はなぜ長引いたのか？ 原因・タイムラインと「SLAクレジット」請求方法まとめ",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-15T21:12:32+00:00",
-        "relevance_score": 5,
-        "url": "https://www.itmedia.co.jp/pcuser/articles/2611/16/news045.html"
       }
     ]
   }
