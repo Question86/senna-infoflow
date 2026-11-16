@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-16T01:34:46Z",
+  "generated_at": "2026-11-16T01:47:20Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 8,
@@ -23,7 +23,7 @@
       "url": "https://e27.co/the-ai-draft-is-the-easy-part-the-source-check-is-the-job-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T01:00:01+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "macro"
@@ -51,7 +51,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 149.98,
+      "age_days": 149.99,
       "topics": [
         "ai"
       ],
@@ -79,8 +79,8 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-11-16T00:58:14+00:00",
-      "age_days": 0.03,
+      "published_at": "2026-11-16T01:43:45+00:00",
+      "age_days": 0.0,
       "topics": [
         "ai",
         "macro",
@@ -109,7 +109,7 @@
       "url": "https://www.itmedia.co.jp/pcuser/articles/2611/16/news045.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T21:12:32+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [],
       "dynamics_score": 13.0,
       "raw_band": "watch",
@@ -132,7 +132,7 @@
       "url": "https://p2ptk.org/monopoly/5688",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T21:09:29+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -156,7 +156,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 148.95,
+      "age_days": 148.96,
       "topics": [
         "general"
       ],
@@ -172,7 +172,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 148.9d old signal"
+        "aging penalty -16.0 for 149.0d old signal"
       ],
       "summary": ""
     },
@@ -181,7 +181,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 148.95,
+      "age_days": 148.96,
       "topics": [
         "general"
       ],
@@ -197,7 +197,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 148.9d old signal"
+        "aging penalty -16.0 for 149.0d old signal"
       ],
       "summary": ""
     },
@@ -206,7 +206,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 148.95,
+      "age_days": 148.96,
       "topics": [
         "ai"
       ],
@@ -223,7 +223,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 148.9d old signal",
+        "aging penalty -16.0 for 149.0d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
