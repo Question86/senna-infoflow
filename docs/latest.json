@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T05:16:55+00:00",
-  "run_id": "2026-11-16T05:16:55+00:00",
+  "generated_at": "2026-11-16T05:25:18+00:00",
+  "run_id": "2026-11-16T05:25:18+00:00",
   "date": "2026-11-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 1,
     "today_file_total": 16,
     "displayed_findings": 16,
     "high": 0,
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-16T04:56:50+00:00",
-        "fetched_at": "2026-11-16T04:56:35+00:00",
+        "published_at": "2026-11-16T05:25:08+00:00",
+        "fetched_at": "2026-11-16T05:24:49+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "a5ae6173bd1ab1f011f0"
+        "id": "2e7ddfef3f66c5eb87cd"
       },
       {
         "title": "M 5.4 - 8 km SE of Anamizu, Japan",
@@ -438,8 +438,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-16T04:56:50+00:00",
-      "fetched_at": "2026-11-16T04:56:35+00:00",
+      "published_at": "2026-11-16T05:25:08+00:00",
+      "fetched_at": "2026-11-16T05:24:49+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -473,7 +473,7 @@
         "HD",
         "LOW"
       ],
-      "id": "a5ae6173bd1ab1f011f0"
+      "id": "2e7ddfef3f66c5eb87cd"
     },
     {
       "title": "M 5.4 - 8 km SE of Anamizu, Japan",
@@ -835,46 +835,46 @@
   ],
   "new_findings": [
     {
-      "title": "Vucar raises pre-Series A to bring AI-priced auctions to Vietnam’s used-car trade",
-      "url": "https://e27.co/vucar-raises-pre-series-a-to-bring-ai-priced-auctions-to-vietnams-used-car-trade-20261116/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-16T05:13:30+00:00",
-      "fetched_at": "2026-11-16T05:16:26+00:00",
-      "summary": "Vucar, a Ho Chi Minh City-based used-car auction platform, has raised an undisclosed pre-Series A round led by OSK-SBI Venture Partners, with existing backers Monk’s Hill Ventures and Antler also joining. The deal, announced by OSK-SBI last Friday, comes a little over two years after Vucar’s US$1 million seed round, led by Monk’s Hill and […] The post Vucar raises pre-Series A to bring AI-priced auctions to Vietnam’…",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-11-16T05:25:08+00:00",
+      "fetched_at": "2026-11-16T05:24:49+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "eaac39a95b62ff536e7f"
-    },
-    {
-      "title": "What’s actually changing for Asia Pacific businesses in the age of AI",
-      "url": "https://e27.co/whats-actually-changing-for-asia-pacific-businesses-in-the-age-of-ai-20261111/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-16T05:00:40+00:00",
-      "fetched_at": "2026-11-16T05:16:26+00:00",
-      "summary": "Across Asia Pacific, the conversation around AI is shifting from possibility to reality. Headlines often focus on what technology can do, but the more useful question for businesses now is what AI is actually doing inside their operations, and what still needs fixing before it delivers at scale. Adoption has moved past the pilot stage. […] The post What’s actually changing for Asia Pacific businesses in the age of A…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a7e5633fc3644f657535"
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "2e7ddfef3f66c5eb87cd"
     }
   ],
   "source_errors": [],
