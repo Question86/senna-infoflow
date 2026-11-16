@@ -421,6 +421,28 @@
     "id": "8e30dba2b2e2f957d0d9"
   },
   {
+    "title": "Announcing 20260101 (MRO,liquidity providing), for 7 days deadline 09:30",
+    "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260101.en.html",
+    "source": "ECB Open Market Operations and Communication",
+    "source_type": "rss",
+    "published_at": "2026-11-16T14:40:27+00:00",
+    "fetched_at": "2026-11-16T14:49:02+00:00",
+    "summary": "Announcing 20260101 (MRO,liquidity providing), for 7 days deadline 09:30",
+    "matched_keywords": [
+      "liquidity",
+      "Macro/Policy",
+      "open market operations"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0ad39418e89c5ef340ea"
+  },
+  {
     "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
     "url": "https://openai.com/index/lvmh-media-division-partnership",
     "source": "OpenAI News RSS",
@@ -941,6 +963,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "f26cdff67020346d5000"
+  },
+  {
+    "title": "Take GitHub Mobile with you on iPhone Duo",
+    "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-11-16T14:30:07+00:00",
+    "fetched_at": "2026-11-16T14:49:02+00:00",
+    "summary": "GitHub Mobile now supports iPhone Duo, with a layout that adapts when unfolded and vertical tabs to help you move between key areas like Copilot, Pull Requests, Issues, and Notifications.… The post Take GitHub Mobile with you on iPhone Duo appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Copilot",
+      "GitHub"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "GitHub (+2.5); Copilot (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "101095d88123e3e772bd"
   },
   {
     "title": "デジタル庁の保有する個人情報に係る開示・訂正・利用停止請求手続きの「請求様式」「保有個人情報の開示の実施方法申出書」を更新しました",
