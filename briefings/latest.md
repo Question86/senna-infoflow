@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-16T22:30:37+00:00_
+_Generiert: 2026-11-16T22:37:36+00:00_
 
 ## Kurzlage
 
-65 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+66 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,10 +33,10 @@ _Generiert: 2026-11-16T22:30:37+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.6M, Depth:35km) in Indonesia 16/11/2026 21:11 UTC, 9 thousand in MMI&gt;=IV.
-- **USGS earthquake M6.6 - 151 km WSW of Tual, Indonesia** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tymu)
+- **USGS earthquake M6.6 - 148 km WSW of Tual, Indonesia** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tymu)
   - Quelle: USGS
-  - Zeit: `2026-11-16T21:11:17+00:00`
-  - Kurz: M6.6 - 151 km WSW of Tual, Indonesia. PAGER alert: green. Tsunami flag: 0.
+  - Zeit: `2026-11-16T21:11:20+00:00`
+  - Kurz: M6.6 - 148 km WSW of Tual, Indonesia. PAGER alert: green. Tsunami flag: 0.
 - **GDACS: Orange notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (20.826 million in Tropical Storm).** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001351)
   - Quelle: GDACS
   - Zeit: ``
