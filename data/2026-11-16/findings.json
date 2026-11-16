@@ -802,6 +802,49 @@
     "id": "eaac39a95b62ff536e7f"
   },
   {
+    "title": "GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった",
+    "url": "https://zenn.dev/kesin11/articles/20261114_github_issue_artifact",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-11-16T03:56:27+00:00",
+    "fetched_at": "2026-11-16T21:36:01+00:00",
+    "summary": "今年もGitHub Universeが開催され、多くの新機能が発表されました！ 一方、派手な発表の影に隠れてあまり目立っていませんが、普段使いしているIssueにも「Issue Artifact」という機能がPublic Previewとして追加されています。Issueに対してHTMLやMarkdownをArtifactとして添付し、Issue画面上の専用パネルでそのまま表...",
+    "matched_keywords": [
+      "GitHub",
+      "Hatena",
+      "hotentry",
+      "Watchgraph:sports_sf_tech_events"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0); watchgraph modules sports_sf_tech_events (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "sports_sf_tech_events"
+    ],
+    "watchgraph_reasons": [
+      "sports_sf_tech_events: GitHub Universe"
+    ],
+    "market_context": [
+      "DIS",
+      "CMCSA",
+      "ABNB",
+      "BKNG",
+      "DAL",
+      "UAL",
+      "TKO",
+      "FWONK",
+      "AAL",
+      "META",
+      "GOOGL",
+      "MSFT",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "8be51d26ba4d96977388"
+  },
+  {
     "title": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開",
     "url": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
     "source": "Hatena Bookmark Hotentry IT",

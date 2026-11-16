@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-16T21:30:03+00:00",
+  "generated_at": "2026-11-16T21:36:34+00:00",
   "topics": {
     "ai": [
       {
@@ -140,6 +140,13 @@
         "published_at": null,
         "relevance_score": 19,
         "url": "https://github.com/ag-ui-protocol/ag-ui"
+      },
+      {
+        "title": "GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-16T03:56:27+00:00",
+        "relevance_score": 10,
+        "url": "https://zenn.dev/kesin11/articles/20261114_github_issue_artifact"
       },
       {
         "title": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開",
