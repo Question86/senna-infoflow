@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-16T02:19:21+00:00",
-    "fetched_at": "2026-11-16T02:19:06+00:00",
+    "published_at": "2026-11-16T02:37:19+00:00",
+    "fetched_at": "2026-11-16T02:37:05+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,29 @@
       "HD",
       "LOW"
     ],
-    "id": "1dc8288aa83ecf0db48b"
+    "id": "ffd0dc6f7d6908bf1e8d"
+  },
+  {
+    "title": "OpenAIもAnthropicも勧めるのになぜ流行らない？「AIへの指示は99%音声入力」のPdMに聞く活用術 - レバテックLAB",
+    "url": "https://levtech.jp/media/detail_972/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-11-16T01:34:47+00:00",
+    "fetched_at": "2026-11-16T02:37:05+00:00",
+    "summary": "北國 悠人 プロダクトマネージャー。1991年生まれ。同志社大学在学中に起業を志し、卒業後は株式会社じげんに入社。その後ベルリンでスタートアップを共同創業し、プログラミング学習アプリを100カ国以上に展開。帰国後は株式会社ブレンドを共同創業し、ミールキット定期宅配サービス「TastyTable」を立ち上げ、2021年に...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry",
+      "OpenAI"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "081bb20107b3b7b312cf"
   },
   {
     "title": "かくしてGoogleは詐欺師の楽園と化した » p2ptk[.]org",

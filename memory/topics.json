@@ -1,15 +1,22 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-16T02:30:11+00:00",
+  "generated_at": "2026-11-16T02:37:29+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-11-16T02:19:21+00:00",
+        "published_at": "2026-11-16T02:37:19+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+      },
+      {
+        "title": "OpenAIもAnthropicも勧めるのになぜ流行らない？「AIへの指示は99%音声入力」のPdMに聞く活用術 - レバテックLAB",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-16T01:34:47+00:00",
+        "relevance_score": 12,
+        "url": "https://levtech.jp/media/detail_972/"
       },
       {
         "title": "The AI draft is the easy part. The source check is the job",
