@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T23:13:52+00:00",
-  "run_id": "2026-11-16T23:13:52+00:00",
+  "generated_at": "2026-11-16T23:20:15+00:00",
+  "run_id": "2026-11-16T23:20:15+00:00",
   "date": "2026-11-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 67,
     "displayed_findings": 67,
     "high": 0,
@@ -3275,30 +3275,7 @@
       "id": "c1e48ef922d7ef5a0e2f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Google、人間の関与なしに脆弱性を見つけて悪用するAIフレームワークを初めて観測 GTIGのAI脅威レポート",
-      "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003244/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-16T14:22:24+00:00",
-      "fetched_at": "2026-11-16T23:13:21+00:00",
-      "summary": "米GoogleのGoogle Threat Intelligence Group（GTIG）は11月16日（現地時間）、攻撃者によるAIの悪用状況をまとめた四半期レポート「GTIG AI Threat Tracker」の2026年第4四半期版を公開した。攻撃者がAIに手作業で指示を出す段階を越えて、複数のAIエージェントを組み合わせて攻撃を自律的に進める段階に移りつつあると...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "869636e23b8048ab1a87"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
