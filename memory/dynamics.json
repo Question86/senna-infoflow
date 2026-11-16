@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-16T14:37:40Z",
+  "generated_at": "2026-11-16T14:54:30Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -9,14 +9,14 @@
       "extreme": 2,
       "krass": 9,
       "strong": 10,
-      "watch": 4,
-      "quiet": 15
+      "watch": 5,
+      "quiet": 14
     },
     "bands_after_gate_recheck": {
       "krass": 2,
       "strong": 19,
-      "watch": 4,
-      "quiet": 15
+      "watch": 5,
+      "quiet": 14
     }
   },
   "top_dynamics": [
@@ -25,7 +25,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4549",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-16T09:12:00+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai",
         "security"
@@ -51,7 +51,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4518",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-16T08:47:01+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -76,7 +76,7 @@
       "url": "https://www.heise.de/news/ConnectWise-ScreenConnect-Angreifer-installieren-Malware-ueber-RMM-Erweiterung-11526055.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-16T10:15:00.000+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -101,7 +101,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1509/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-11-12T00:00:00+00:00",
-      "age_days": 4.61,
+      "age_days": 4.62,
       "topics": [
         "ai",
         "security"
@@ -127,7 +127,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyhr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-16T04:35:20.113+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "disaster"
       ],
@@ -152,7 +152,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4532",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-16T09:28:39+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -180,7 +180,7 @@
       "url": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T22:34:36+00:00",
-      "age_days": 0.67,
+      "age_days": 0.68,
       "topics": [
         "ai"
       ],
@@ -208,7 +208,7 @@
       "url": "https://restofworld.org/2026/ghana-ai-lab-minohealth-bioweapons-threat-dna-synthesis-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-11-16T11:00:23+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -236,7 +236,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1510/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-11-12T00:00:00+00:00",
-      "age_days": 4.61,
+      "age_days": 4.62,
       "topics": [
         "security"
       ],
@@ -262,7 +262,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4461",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-16T07:02:01+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -287,7 +287,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1511/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-11-12T00:00:00+00:00",
-      "age_days": 4.61,
+      "age_days": 4.62,
       "topics": [
         "ai",
         "security"
@@ -314,7 +314,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1512/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-11-12T00:00:00+00:00",
-      "age_days": 4.61,
+      "age_days": 4.62,
       "topics": [
         "ai",
         "security"
@@ -341,7 +341,7 @@
       "url": "https://e27.co/the-ai-draft-is-the-easy-part-the-source-check-is-the-job-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T01:00:01+00:00",
-      "age_days": 0.57,
+      "age_days": 0.58,
       "topics": [
         "ai",
         "macro"
@@ -369,7 +369,7 @@
       "url": "https://github.com/ag-ui-protocol/ag-ui",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-16T08:36:08+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -395,7 +395,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 150.53,
+      "age_days": 150.54,
       "topics": [
         "ai"
       ],
@@ -424,7 +424,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-11-16T09:55:46+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "ai",
         "macro",
@@ -453,7 +453,7 @@
       "url": "https://e27.co/the-hidden-economics-of-returns-in-southeast-asian-e-commerce-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T06:00:40+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "security",
@@ -482,7 +482,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm",
       "source": "Federal Reserve Speeches and Testimony",
       "published_at": "2026-11-16T10:00:00+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "macro"
@@ -509,7 +509,7 @@
       "url": "https://openai.com/index/the-kings-trust-and-openai",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-16T00:00:00+00:00",
-      "age_days": 0.61,
+      "age_days": 0.62,
       "topics": [
         "ai"
       ],
@@ -535,7 +535,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyil",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-16T07:55:37.040+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "disaster"
       ],
@@ -560,7 +560,7 @@
       "url": "https://openai.com/index/lvmh-media-division-partnership",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-16T09:00:00+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "ai",
         "macro"
@@ -583,11 +583,35 @@
       "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT."
     },
     {
+      "title": "Announcing 20260101 (MRO,liquidity providing), for 7 days deadline 09:30",
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260101.en.html",
+      "source": "ECB Open Market Operations and Communication",
+      "published_at": "2026-11-16T14:40:27+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "Announcing 20260101 (MRO,liquidity providing), for 7 days deadline 09:30"
+    },
+    {
       "title": "「年齢で断らない」賃貸アパート 全戸に見守りWi-Fi 電波の変化で安否を検知",
       "url": "https://japan.cnet.com/article/35254951/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-16T07:53:04+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -611,7 +635,7 @@
       "url": "https://e27.co/headlines-that-broke-the-script-the-warning-signs-were-inside-the-building-part-1-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T04:00:24+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "ai",
         "security"
@@ -636,7 +660,7 @@
       "url": "https://www.itmedia.co.jp/pcuser/articles/2611/16/news045.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T21:12:32+00:00",
-      "age_days": 0.73,
+      "age_days": 0.74,
       "topics": [],
       "dynamics_score": 13.0,
       "raw_band": "watch",
@@ -659,7 +683,7 @@
       "url": "https://p2ptk.org/monopoly/5688",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T21:09:29+00:00",
-      "age_days": 0.73,
+      "age_days": 0.74,
       "topics": [
         "general"
       ],
@@ -683,7 +707,7 @@
       "url": "https://e27.co/meta-wants-to-teach-singapores-small-businesses-ai-it-also-wants-them-on-whatsapp-20261116/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T11:01:26+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -708,7 +732,7 @@
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-11-16T08:30:00+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "macro"
       ],
@@ -732,7 +756,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003199/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-16T03:03:29+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "general"
       ],
@@ -756,7 +780,7 @@
       "url": "https://levtech.jp/media/detail_972/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-16T01:34:47+00:00",
-      "age_days": 0.54,
+      "age_days": 0.56,
       "topics": [
         "ai"
       ],
@@ -782,7 +806,7 @@
       "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261116_1~11dd7f62af.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-11-16T13:00:00+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "macro"
       ],
@@ -806,7 +830,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1507/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-11-12T00:00:00+00:00",
-      "age_days": 4.61,
+      "age_days": 4.62,
       "topics": [
         "security"
       ],
@@ -830,7 +854,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1508/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-11-12T00:00:00+00:00",
-      "age_days": 4.61,
+      "age_days": 4.62,
       "topics": [
         "ai",
         "security"
@@ -851,11 +875,35 @@
       "summary": "De multiples vulnérabilités ont été découvertes dans Xen. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité."
     },
     {
+      "title": "Take GitHub Mobile with you on iPhone Duo",
+      "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-11-16T14:30:07+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "GitHub Mobile now supports iPhone Duo, with a layout that adapts when unfolded and vertical tabs to help you move between key areas like Copilot, Pull Requests, Issues, and Notifications.… The post Take GitHub Mobile with you on iPhone Duo appeared first on The GitHub Blog ."
+    },
+    {
       "title": "デジタル庁の保有する個人情報に係る開示・訂正・利用停止請求手続きの「請求様式」「保有個人情報の開示の実施方法申出書」を更新しました",
       "url": "https://www.digital.go.jp/personal-information-protection",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-11-16T08:07:42+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -879,7 +927,7 @@
       "url": "https://e27.co/is-prompt-engineering-real-ai-development-or-just-good-documentation-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T06:00:03+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "ai"
       ],
@@ -904,7 +952,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003224/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-16T04:49:20+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "general"
       ],
@@ -928,7 +976,7 @@
       "url": "https://e27.co/the-philippines-cant-win-the-ai-arms-race-so-it-is-betting-on-taglish-20261116/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T04:52:11+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "ai"
       ],
@@ -953,7 +1001,7 @@
       "url": "https://scrapbox.io/keroxp/Zed%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AA%E3%83%93%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC%E3%81%8CAI%E6%BF%80%E3%81%8A%E3%81%93%E3%81%AA%E4%BB%B6",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-16T08:16:47+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -979,7 +1027,7 @@
       "url": "https://e27.co/set-access-before-you-connect-the-tool-not-after-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-16T03:00:38+00:00",
-      "age_days": 0.48,
+      "age_days": 0.5,
       "topics": [
         "general"
       ],
@@ -997,57 +1045,6 @@
         "no strong comparative reason"
       ],
       "summary": "One of the easiest mistakes small teams make with new tools is giving them too much access too early. It usually happens for a practical reason. Someone wants the workflow to work properly on the first try. They do not want permissions issues, broken connections, or missing context. So the fast option is to connect [……"
-    },
-    {
-      "title": "Vucar raises pre-Series A to bring AI-priced auctions to Vietnam’s used-car trade",
-      "url": "https://e27.co/vucar-raises-pre-series-a-to-bring-ai-priced-auctions-to-vietnams-used-car-trade-20261116/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-16T05:13:30+00:00",
-      "age_days": 0.39,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 2.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Vucar, a Ho Chi Minh City-based used-car auction platform, has raised an undisclosed pre-Series A round led by OSK-SBI Venture Partners, with existing backers Monk’s Hill Ventures and Antler also joining. The deal, announced by OSK-SBI last Friday, comes a little over two years after Vucar’s US$1 million seed round, l…"
-    },
-    {
-      "title": "もういい加減\"技術勉強会\"やめませんか？ - Qiita",
-      "url": "https://qiita.com/kotowazaman/items/9ee7c475a475e7527b0e",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-16T11:51:33+00:00",
-      "age_days": 0.12,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 2.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? 毎週水曜の15時、普段残業続きで目が真っ赤なメンバーが会議室に10人が集められる。 誰かがAIで作った綺麗なスライドを持ってきて、それを読み上げる。 「いまさら聞けないKubernet..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Red Hat Enterprise Linux (crun, xfsprogs, glib-networking): Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
