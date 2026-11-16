@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-16T04:23:04+00:00",
+  "generated_at": "2026-11-16T04:37:47+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-11-16T04:13:02+00:00",
+        "published_at": "2026-11-16T04:37:37+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -61,16 +61,14 @@
         "url": "https://k-tai.watch.impress.co.jp/docs/news/2156616.html"
       }
     ],
-    "geopolitics": [
-      {
-        "title": "Headlines that broke the script: The warning signs were inside the building — Part 1",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-16T04:00:24+00:00",
-        "relevance_score": 13,
-        "url": "https://e27.co/headlines-that-broke-the-script-the-warning-signs-were-inside-the-building-part-1-20261111/"
-      }
-    ],
     "general": [
+      {
+        "title": "M 5.4 - 8 km SE of Anamizu, Japan",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-11-16T04:35:20.113+00:00",
+        "relevance_score": 17,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyhr"
+      },
       {
         "title": "かくしてGoogleは詐欺師の楽園と化した » p2ptk[.]org",
         "source": "Hatena Bookmark Hotentry IT",
@@ -91,6 +89,15 @@
         "published_at": "2026-11-16T03:00:38+00:00",
         "relevance_score": 4,
         "url": "https://e27.co/set-access-before-you-connect-the-tool-not-after-20261111/"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "Headlines that broke the script: The warning signs were inside the building — Part 1",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-16T04:00:24+00:00",
+        "relevance_score": 13,
+        "url": "https://e27.co/headlines-that-broke-the-script-the-warning-signs-were-inside-the-building-part-1-20261111/"
       }
     ],
     "github": [
