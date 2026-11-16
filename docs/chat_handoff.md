@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-16T09:55:56+00:00_
+_Generated: 2026-11-16T10:01:12+00:00_
 
 ## Status
 - status: `normal`
-- findings: `30`
+- findings: `31`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-11-16T09:55:56+00:00_
 - url: https://github.com/ag-ui-protocol/ag-ui
 - summary: AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. https://ag-ui.com AG-UI: The Agent-User Interaction Protocol AG-UI is an open, lightweight, event-based protocol that standardizes how AI agents connect to user-facing applic…
 
-### 4. M 5.4 - 8 km SE of Anamizu, Japan
-- source: USGS M4.5+ Earthquakes Past Hour
+### 4. Barr, Some Potential Financial Stability Implications of Artificial Intelligence
+- source: Federal Reserve Speeches and Testimony
 - score: `17`
-- published: `2026-11-16T04:35:20.113+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyhr
-- summary: ShakeMap - III Time 2026-11-16 04:24:11 UTC 2026-11-16 04:24:11 UTC at epicenter Location 37.185°N 136.979°E Depth 286.10 km (177.77 mi)
+- published: `2026-11-16T10:00:00+00:00`
+- url: https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm
+- summary: Speech At the Seventh Annual Association for Computing Machinery International Conference on Artificial Intelligence in Finance, Milan, Italy
 
 ### 5. Is prompt engineering real AI development, or just good documentation?
 - source: e27 Asia Startup and Tech Feed

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-16T09:55:56+00:00",
+  "generated_at": "2026-11-16T10:01:12+00:00",
   "topics": {
     "ai": [
       {
@@ -17,6 +17,13 @@
         "published_at": null,
         "relevance_score": 19,
         "url": "https://github.com/ag-ui-protocol/ag-ui"
+      },
+      {
+        "title": "Barr, Some Potential Financial Stability Implications of Artificial Intelligence",
+        "source": "Federal Reserve Speeches and Testimony",
+        "published_at": "2026-11-16T10:00:00+00:00",
+        "relevance_score": 17,
+        "url": "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm"
       },
       {
         "title": "The hidden economics of returns in Southeast Asian e-commerce",
@@ -66,13 +73,6 @@
         "published_at": "2026-11-16T05:13:30+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/vucar-raises-pre-series-a-to-bring-ai-priced-auctions-to-vietnams-used-car-trade-20261116/"
-      },
-      {
-        "title": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-15T22:34:36+00:00",
-        "relevance_score": 10,
-        "url": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html"
       }
     ],
     "security": [

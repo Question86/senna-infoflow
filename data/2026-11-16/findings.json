@@ -115,6 +115,29 @@
     "id": "1ca9e1aed7b4a911cfae"
   },
   {
+    "title": "Barr, Some Potential Financial Stability Implications of Artificial Intelligence",
+    "url": "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm",
+    "source": "Federal Reserve Speeches and Testimony",
+    "source_type": "rss",
+    "published_at": "2026-11-16T10:00:00+00:00",
+    "fetched_at": "2026-11-16T10:00:36+00:00",
+    "summary": "Speech At the Seventh Annual Association for Computing Machinery International Conference on Artificial Intelligence in Finance, Milan, Italy",
+    "matched_keywords": [
+      "AI/KI",
+      "Macro/Policy",
+      "speech",
+      "testimony"
+    ],
+    "relevance_score": 17,
+    "relevance_reason": "AI/KI (+3.8); Macro/Policy (+6.2); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e810e5c06da7c086ebcc"
+  },
+  {
     "title": "M 5.4 - 8 km SE of Anamizu, Japan",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyhr",
     "source": "USGS M4.5+ Earthquakes Past Hour",
