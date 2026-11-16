@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-16T16:30:26+00:00_
+_Generiert: 2026-11-16T16:36:57+00:00_
 
 ## Kurzlage
 
-50 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+51 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -195,6 +195,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Reputationsrisiko (+7.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 以下の文章は、コリイ・ドクトロウの「Google is a scammer’s paradise」という記事を翻訳したものである。 Pluralistic 「邪悪になるな」など忘れてしまえ。Googleの真のモットーは、下劣なスパイダーマン主義、「大いなる力には、何の責任も伴わない」だ。インターネットの事実上の支配者は、不在地主なのだ。 Google―...
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 5.4 - 95 km WSW of Changuillo, Peru** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tykh)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-16T16:34:45.040+00:00`, fetched `2026-11-16T16:36:27+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-11-16 16:16:45 UTC 2026-11-16 16:16:45 UTC at epicenter Location 15.031°S 76.026°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Multiples vulnérabilités dans Microsoft Office (12 novembre 2026)** — Score 11, observation — [Quelle](https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1511/)
   - Quelle: CERT-FR Avis de sécurité / `rss`
   - Zeit: published `2026-11-12T00:00:00+00:00`, fetched `2026-11-16T14:33:50+00:00`
@@ -249,15 +258,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); recent (+1.0)
   - Kurz: IT-Forscher haben Angriffe auf eine Schwachstelle in ConnectWise ScreenConnect beobachtet. Bösartige Akteure installieren dadurch Malware.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **More ways to move care forward with ChatGPT for Healthcare** — Score 8, observation — [Quelle](https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-11-16T06:00:00+00:00`, fetched `2026-11-16T14:56:21+00:00`
-  - Treffer: OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+7.5); recent (+1.0)
-  - Kurz: Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
