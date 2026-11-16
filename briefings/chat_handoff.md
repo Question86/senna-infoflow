@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-16T09:23:28+00:00_
+_Generated: 2026-11-16T09:39:24+00:00_
 
 ## Status
 - status: `normal`
-- findings: `27`
+- findings: `29`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-11-16T09:23:28+00:00_
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
-### 2. ag-ui-protocol/ag-ui
+### 2. [UPDATE] [hoch] Red Hat Ansible Automation Platform (GitPython): Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `22`
+- published: `2026-11-16T09:28:39+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4532
+- summary: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Ansible Automation Platform ausnutzen, um beliebigen Programmcode auszuführen, sensible Inhalte lokaler Dateien offenzulegen und einen Denial-of-Service-Zustand auszulösen.
+
+### 3. ag-ui-protocol/ag-ui
 - source: GitHub Trending RSS All Languages Daily
 - score: `19`
 - published: `None`
 - url: https://github.com/ag-ui-protocol/ag-ui
 - summary: AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. https://ag-ui.com AG-UI: The Agent-User Interaction Protocol AG-UI is an open, lightweight, event-based protocol that standardizes how AI agents connect to user-facing applic…
 
-### 3. M 5.4 - 8 km SE of Anamizu, Japan
+### 4. M 5.4 - 8 km SE of Anamizu, Japan
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `17`
 - published: `2026-11-16T04:35:20.113+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyhr
 - summary: ShakeMap - III Time 2026-11-16 04:24:11 UTC 2026-11-16 04:24:11 UTC at epicenter Location 37.185°N 136.979°E Depth 286.10 km (177.77 mi)
-
-### 4. [UPDATE] [hoch] Red Hat Enterprise Linux (crun, xfsprogs, glib-networking): Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-11-16T09:12:00+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4549
-- summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen, Dateien zu manipulieren, Berechtigungen zu erweitern oder beliebigen Code auszuführen.
 
 ### 5. Is prompt engineering real AI development, or just good documentation?
 - source: e27 Asia Startup and Tech Feed
