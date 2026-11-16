@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T10:01:12+00:00",
-  "run_id": "2026-11-16T10:01:12+00:00",
+  "generated_at": "2026-11-16T10:16:53+00:00",
+  "run_id": "2026-11-16T10:16:53+00:00",
   "date": "2026-11-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 31,
     "displayed_findings": 31,
     "high": 0,
@@ -1585,31 +1585,7 @@
       "id": "095f8fc68251cea4b687"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Barr, Some Potential Financial Stability Implications of Artificial Intelligence",
-      "url": "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm",
-      "source": "Federal Reserve Speeches and Testimony",
-      "source_type": "rss",
-      "published_at": "2026-11-16T10:00:00+00:00",
-      "fetched_at": "2026-11-16T10:00:36+00:00",
-      "summary": "Speech At the Seventh Annual Association for Computing Machinery International Conference on Artificial Intelligence in Finance, Milan, Italy",
-      "matched_keywords": [
-        "AI/KI",
-        "Macro/Policy",
-        "speech",
-        "testimony"
-      ],
-      "relevance_score": 17,
-      "relevance_reason": "AI/KI (+3.8); Macro/Policy (+6.2); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e810e5c06da7c086ebcc"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
