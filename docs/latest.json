@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T20:40:30+00:00",
-  "run_id": "2026-11-16T20:40:30+00:00",
+  "generated_at": "2026-11-16T20:46:12+00:00",
+  "run_id": "2026-11-16T20:46:12+00:00",
   "date": "2026-11-16",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 58,
     "displayed_findings": 58,
     "high": 0,
@@ -2789,29 +2789,7 @@
       "id": "095f8fc68251cea4b687"
     }
   ],
-  "new_findings": [
-    {
-      "title": "GitHub Copilot models deprecated on November 16, 2026",
-      "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-11-16T20:25:20+00:00",
-      "fetched_at": "2026-11-16T20:39:56+00:00",
-      "summary": "As of today, November 16, 2026, we have deprecated the following models across most GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). Note… The post GitHub Copilot models deprecated on November 16, 2026 appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Copilot",
-        "GitHub"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ba4e30b9d430b53dedbc"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [
     {
       "source_id": "e27_asia_startups_feed",
