@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-16T14:54:30Z",
+  "generated_at": "2026-11-16T15:02:03Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Red Hat Enterprise Linux (crun, xfsprogs, glib-networking): Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -66,7 +66,7 @@
       "url": "https://www.heise.de/news/ConnectWise-ScreenConnect-Angreifer-installieren-Malware-ueber-RMM-Erweiterung-11526055.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-16T10:15:00.000+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -119,7 +119,7 @@
       "url": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-15T22:34:36+00:00",
-      "age_days": 0.68,
+      "age_days": 0.69,
       "topics": [
         "ai"
       ],
@@ -147,7 +147,7 @@
       "url": "https://restofworld.org/2026/ghana-ai-lab-minohealth-bioweapons-threat-dna-synthesis-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-11-16T11:00:23+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -175,7 +175,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1510/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-11-12T00:00:00+00:00",
-      "age_days": 4.62,
+      "age_days": 4.63,
       "topics": [
         "security"
       ],
@@ -226,7 +226,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1511/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-11-12T00:00:00+00:00",
-      "age_days": 4.62,
+      "age_days": 4.63,
       "topics": [
         "ai",
         "security"
@@ -253,7 +253,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1512/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-11-12T00:00:00+00:00",
-      "age_days": 4.62,
+      "age_days": 4.63,
       "topics": [
         "ai",
         "security"
@@ -308,7 +308,7 @@
       "url": "https://github.com/ag-ui-protocol/ag-ui",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-16T08:36:08+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "ai"
       ],
