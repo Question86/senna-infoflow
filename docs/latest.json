@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T04:57:00+00:00",
-  "run_id": "2026-11-16T04:57:00+00:00",
+  "generated_at": "2026-11-16T05:16:55+00:00",
+  "run_id": "2026-11-16T05:16:55+00:00",
   "date": "2026-11-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 14
+      "configured_public_sources_only": 16
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 14,
-    "displayed_findings": 14,
+    "today_file_total": 16,
+    "displayed_findings": 16,
     "high": 0,
     "medium": 2,
-    "observe": 12,
+    "observe": 14,
     "source_errors": 0
   },
   "sections": {
@@ -199,6 +199,27 @@
         "id": "4cbcadc1f1c756a66fcf"
       },
       {
+        "title": "Vucar raises pre-Series A to bring AI-priced auctions to Vietnam’s used-car trade",
+        "url": "https://e27.co/vucar-raises-pre-series-a-to-bring-ai-priced-auctions-to-vietnams-used-car-trade-20261116/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-16T05:13:30+00:00",
+        "fetched_at": "2026-11-16T05:16:26+00:00",
+        "summary": "Vucar, a Ho Chi Minh City-based used-car auction platform, has raised an undisclosed pre-Series A round led by OSK-SBI Venture Partners, with existing backers Monk’s Hill Ventures and Antler also joining. The deal, announced by OSK-SBI last Friday, comes a little over two years after Vucar’s US$1 million seed round, led by Monk’s Hill and […] The post Vucar raises pre-Series A to bring AI-priced auctions to Vietnam’…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "eaac39a95b62ff536e7f"
+      },
+      {
         "title": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開",
         "url": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
         "source": "Hatena Bookmark Hotentry IT",
@@ -220,6 +241,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "ae2bbf1652ebb5befe46"
+      },
+      {
+        "title": "What’s actually changing for Asia Pacific businesses in the age of AI",
+        "url": "https://e27.co/whats-actually-changing-for-asia-pacific-businesses-in-the-age-of-ai-20261111/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-16T05:00:40+00:00",
+        "fetched_at": "2026-11-16T05:16:26+00:00",
+        "summary": "Across Asia Pacific, the conversation around AI is shifting from possibility to reality. Headlines often focus on what technology can do, but the more useful question for businesses now is what AI is actually doing inside their operations, and what still needs fixing before it delivers at scale. Adoption has moved past the pilot stage. […] The post What’s actually changing for Asia Pacific businesses in the age of A…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a7e5633fc3644f657535"
       },
       {
         "title": "The AI draft is the easy part. The source check is the job",
@@ -559,6 +601,27 @@
       "id": "4cbcadc1f1c756a66fcf"
     },
     {
+      "title": "Vucar raises pre-Series A to bring AI-priced auctions to Vietnam’s used-car trade",
+      "url": "https://e27.co/vucar-raises-pre-series-a-to-bring-ai-priced-auctions-to-vietnams-used-car-trade-20261116/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-16T05:13:30+00:00",
+      "fetched_at": "2026-11-16T05:16:26+00:00",
+      "summary": "Vucar, a Ho Chi Minh City-based used-car auction platform, has raised an undisclosed pre-Series A round led by OSK-SBI Venture Partners, with existing backers Monk’s Hill Ventures and Antler also joining. The deal, announced by OSK-SBI last Friday, comes a little over two years after Vucar’s US$1 million seed round, led by Monk’s Hill and […] The post Vucar raises pre-Series A to bring AI-priced auctions to Vietnam’…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "eaac39a95b62ff536e7f"
+    },
+    {
       "title": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開",
       "url": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -580,6 +643,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "ae2bbf1652ebb5befe46"
+    },
+    {
+      "title": "What’s actually changing for Asia Pacific businesses in the age of AI",
+      "url": "https://e27.co/whats-actually-changing-for-asia-pacific-businesses-in-the-age-of-ai-20261111/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-16T05:00:40+00:00",
+      "fetched_at": "2026-11-16T05:16:26+00:00",
+      "summary": "Across Asia Pacific, the conversation around AI is shifting from possibility to reality. Headlines often focus on what technology can do, but the more useful question for businesses now is what AI is actually doing inside their operations, and what still needs fixing before it delivers at scale. Adoption has moved past the pilot stage. […] The post What’s actually changing for Asia Pacific businesses in the age of A…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a7e5633fc3644f657535"
     },
     {
       "title": "The AI draft is the easy part. The source check is the job",
@@ -751,67 +835,46 @@
   ],
   "new_findings": [
     {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-11-16T04:56:50+00:00",
-      "fetched_at": "2026-11-16T04:56:35+00:00",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "General Santos",
-        "Glan",
-        "recovery",
-        "relief",
-        "Sarangani",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "a5ae6173bd1ab1f011f0"
-    },
-    {
-      "title": "The Philippines can’t win the AI arms race, so it is betting on Taglish",
-      "url": "https://e27.co/the-philippines-cant-win-the-ai-arms-race-so-it-is-betting-on-taglish-20261116/",
+      "title": "Vucar raises pre-Series A to bring AI-priced auctions to Vietnam’s used-car trade",
+      "url": "https://e27.co/vucar-raises-pre-series-a-to-bring-ai-priced-auctions-to-vietnams-used-car-trade-20261116/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-11-16T04:52:11+00:00",
-      "fetched_at": "2026-11-16T04:56:35+00:00",
-      "summary": "Ask a Manila contact-centre agent what a caller means by “Pakicheck naman po ang bill ko, may extra charge yata” and she will answer before the sentence ends. Ask a model trained mostly on Silicon Valley’s internet and you may get a polite reply to the wrong question. That gap, between the language Filipinos actually […] The post The Philippines can’t win the AI arms race, so it is betting on Taglish appeared first…",
+      "published_at": "2026-11-16T05:13:30+00:00",
+      "fetched_at": "2026-11-16T05:16:26+00:00",
+      "summary": "Vucar, a Ho Chi Minh City-based used-car auction platform, has raised an undisclosed pre-Series A round led by OSK-SBI Venture Partners, with existing backers Monk’s Hill Ventures and Antler also joining. The deal, announced by OSK-SBI last Friday, comes a little over two years after Vucar’s US$1 million seed round, led by Monk’s Hill and […] The post Vucar raises pre-Series A to bring AI-priced auctions to Vietnam’…",
       "matched_keywords": [
         "AI/KI",
         "APAC Trend Radar"
       ],
-      "relevance_score": 12,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region usa: Silicon Valley (+2.0); watchgraph region southeast_asia: Philippines (+2.0)",
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "991c88bb4a48307ccf12"
+      "id": "eaac39a95b62ff536e7f"
+    },
+    {
+      "title": "What’s actually changing for Asia Pacific businesses in the age of AI",
+      "url": "https://e27.co/whats-actually-changing-for-asia-pacific-businesses-in-the-age-of-ai-20261111/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-16T05:00:40+00:00",
+      "fetched_at": "2026-11-16T05:16:26+00:00",
+      "summary": "Across Asia Pacific, the conversation around AI is shifting from possibility to reality. Headlines often focus on what technology can do, but the more useful question for businesses now is what AI is actually doing inside their operations, and what still needs fixing before it delivers at scale. Adoption has moved past the pilot stage. […] The post What’s actually changing for Asia Pacific businesses in the age of A…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a7e5633fc3644f657535"
     }
   ],
   "source_errors": [],
