@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-16T10:16:53+00:00",
+  "generated_at": "2026-11-16T10:27:10+00:00",
   "topics": {
     "ai": [
       {
@@ -103,6 +103,13 @@
         "published_at": "2026-11-16T07:02:01+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4461"
+      },
+      {
+        "title": "ConnectWise ScreenConnect: Angreifer installieren Malware über RMM+-Erweiterung",
+        "source": "heise Security Alerts",
+        "published_at": "2026-11-16T10:15:00.000+00:00",
+        "relevance_score": 8,
+        "url": "https://www.heise.de/news/ConnectWise-ScreenConnect-Angreifer-installieren-Malware-ueber-RMM-Erweiterung-11526055.html"
       }
     ],
     "github": [
@@ -200,6 +207,13 @@
         "published_at": "2026-11-16T08:30:00+00:00",
         "relevance_score": 10,
         "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html"
+      },
+      {
+        "title": "ConnectWise ScreenConnect: Angreifer installieren Malware über RMM+-Erweiterung",
+        "source": "heise Security Alerts",
+        "published_at": "2026-11-16T10:15:00.000+00:00",
+        "relevance_score": 8,
+        "url": "https://www.heise.de/news/ConnectWise-ScreenConnect-Angreifer-installieren-Malware-ueber-RMM-Erweiterung-11526055.html"
       }
     ],
     "economy": [
