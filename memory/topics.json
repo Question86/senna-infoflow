@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-16T14:49:31+00:00",
+  "generated_at": "2026-11-16T14:56:47+00:00",
   "topics": {
     "ai": [
       {
@@ -256,6 +256,13 @@
         "published_at": "2026-11-16T10:15:00.000+00:00",
         "relevance_score": 8,
         "url": "https://www.heise.de/news/ConnectWise-ScreenConnect-Angreifer-installieren-Malware-ueber-RMM-Erweiterung-11526055.html"
+      },
+      {
+        "title": "More ways to move care forward with ChatGPT for Healthcare",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-11-16T06:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare"
       },
       {
         "title": "Multiples vulnérabilités dans les processeurs Intel (12 novembre 2026)",
