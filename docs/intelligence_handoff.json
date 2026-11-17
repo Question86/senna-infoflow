@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-17T07:18:48Z",
+  "generated_at": "2026-11-17T07:32:33Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “プリザンターにおける複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/jp/JVN02242982/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-17T15:00:00+09:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/vu/JVNVU92504317/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-17T14:30:00+09:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -63,7 +63,7 @@
       "url": "https://jvn.jp/vu/JVNVU97628215/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-17T09:50:00+09:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -87,7 +87,7 @@
       "url": "https://openai.com/business/customer-stories/revolut",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-16T09:30:00+00:00",
-      "age_days": 0.91,
+      "age_days": 0.92,
       "topics": [
         "ai",
         "security"
@@ -114,7 +114,7 @@
       "url": "https://jvn.jp/vu/JVNVU93605944/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-17T10:15:00+09:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -140,7 +140,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4572",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-17T07:12:01+00:00",
-      "age_days": 0.0,
+      "age_days": 0.01,
       "topics": [
         "security"
       ],
@@ -166,7 +166,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4573",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-17T07:12:01+00:00",
-      "age_days": 0.0,
+      "age_days": 0.01,
       "topics": [
         "security"
       ],
@@ -191,7 +191,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 151.22,
+      "age_days": 151.23,
       "topics": [
         "ai"
       ],
@@ -219,8 +219,8 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-11-17T06:45:07+00:00",
-      "age_days": 0.02,
+      "published_at": "2026-11-17T07:22:56+00:00",
+      "age_days": 0.01,
       "topics": [
         "ai",
         "macro",
@@ -249,7 +249,7 @@
       "url": "https://e27.co/my-spam-folder-found-me-a-business-lead-heres-what-else-ai-took-off-my-plate-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-17T04:00:12+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "security",
@@ -277,7 +277,7 @@
       "url": "https://jvn.jp/vu/JVNVU91615135/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2025-07-22T12:15:00+09:00",
-      "age_days": 483.17,
+      "age_days": 483.18,
       "topics": [
         "security"
       ],
@@ -302,7 +302,7 @@
       "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-17T00:09:27+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
