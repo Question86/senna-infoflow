@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T03:34:39+00:00",
-  "run_id": "2026-11-17T03:34:39+00:00",
+  "generated_at": "2026-11-17T03:39:47+00:00",
+  "run_id": "2026-11-17T03:39:47+00:00",
   "date": "2026-11-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 16,
     "displayed_findings": 16,
     "high": 0,
@@ -793,30 +793,7 @@
       "id": "8d52a512e94f942d6646"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Lessons from building a multilingual AI learning platform in Southeast Asia",
-      "url": "https://e27.co/lessons-from-building-a-multilingual-ai-learning-platform-in-southeast-asia-20261111/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-17T03:30:31+00:00",
-      "fetched_at": "2026-11-17T03:34:09+00:00",
-      "summary": "Southeast Asia is one of the most multilingual regions in the world, and one of the most motivated to learn more languages. In Vietnam alone, students prepare for English exams, factory engineers study Japanese for jobs in Japan, and office workers take Chinese or Korean classes after hours because a new client or employer speaks […] The post Lessons from building a multilingual AI learning platform in Southeast Asi…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Southeast Asia"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region southeast_asia: Vietnam (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "abe7df74209f6f4facff"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
