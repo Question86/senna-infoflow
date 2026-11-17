@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-17T10:24:15+00:00_
+_Generiert: 2026-11-17T10:29:38+00:00_
 
 ## Kurzlage
 
-44 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+45 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -95,6 +95,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Supply Chain Security (+8.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: I run Qurious Works, a Singapore supply chain consultancy, and work as a fractional supply chain lead for SMEs and family businesses across Southeast Asia. I’m good at setting up structure and bad at keeping to it. Naming files. Keeping folders tidy. Reading the emails I never asked for. For years I did those badly, […] The post My spam folder found me a business lead. Here’s what else AI took off my plate appeared…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Ecosystem Roundup: US puts SEA’s chip hubs on licence after Nvidia-Megaspeed scandal** — Score 19, observation — [Quelle](https://e27.co/ecosystem-roundup-us-puts-seas-chip-hubs-on-licence-after-nvidia-megaspeed-scandal-20261117/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-17T10:01:47+00:00`, fetched `2026-11-17T10:29:07+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Security, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Security (+6.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region south_america: Brazil (+2.0); watchgraph region southeast_asia: Singapore, Indonesia, Thailand (+2.0)
+  - Kurz: Washington has ended Southeast Asia’s easy access to top-end AI silicon. On Monday, the US Commerce Department’s Bureau of Industry and Security issued an interim final rule that requires licences for advanced chips bound for Indonesia, Malaysia, Singapore, Thailand and Brazil, citing a higher-than-normal risk of diversion. Data-centre operators, foreign foundries and chip exporters must […] The post Ecosystem Round…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **99 Group’s founder steps back as a former banker takes the wheel of Southeast Asia’s leading proptech** — Score 16, observation — [Quelle](https://e27.co/99-groups-founder-steps-back-as-a-former-banker-takes-the-wheel-of-southeast-asias-leading-proptech-20261117/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-17T08:56:21+00:00`, fetched `2026-11-17T09:01:02+00:00`
@@ -121,15 +130,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
   - Kurz: Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Thailand’s AI-fuelled upgrade comes with a brutal 2027 maths problem** — Score 16, observation — [Quelle](https://e27.co/thailands-ai-fuelled-upgrade-comes-with-a-brutal-2027-maths-problem-20261117/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-17T03:17:24+00:00`, fetched `2026-11-17T03:27:52+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); Macro/Policy (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)
-  - Kurz: Thailand has found itself a growth engine. It just isn’t wired into most of the economy yet. UOB Global Economics and Markets Research on Monday raised its forecast for Thailand’s 2026 GDP growth to 2.5 per cent from 1.9 per cent, and its 2027 projection to 2.3 per cent from 2 per cent, after three […] The post Thailand’s AI-fuelled upgrade comes with a brutal 2027 maths problem appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **How Revolut raises ambition without lowering the bar** — Score 16, observation — [Quelle](https://openai.com/business/customer-stories/revolut)
   - Quelle: OpenAI News RSS / `rss`
@@ -332,7 +332,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `e27_asia_startups_feed` (rss): 500 Server Error: Internal Server Error for url: https://e27.co/index_wp.php/feed/
