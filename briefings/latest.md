@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-17T07:23:05+00:00_
+_Generiert: 2026-11-17T07:29:12+00:00_
 
 ## Kurzlage
 
@@ -33,6 +33,10 @@ _Generiert: 2026-11-17T07:23:05+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.6M, Depth:68km) in Indonesia 16/11/2026 21:11 UTC, 6 thousand in MMI V.
+- **GDACS: Green flood alert in South Africa** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104286)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in South Africa
 - **USGS earthquake M6.6 - 148 km WSW of Tual, Indonesia** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tymu)
   - Quelle: USGS
   - Zeit: `2026-11-16T21:11:20+00:00`
