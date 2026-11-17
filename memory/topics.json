@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-17T11:19:55+00:00",
+  "generated_at": "2026-11-17T11:25:22+00:00",
   "topics": {
     "ai": [
       {
@@ -140,11 +140,11 @@
         "url": "https://jvn.jp/vu/JVNVU92504317/"
       },
       {
-        "title": "[NEU] [mittel] LibreOffice: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] WP Royal Royal Elementor Addons: Schwachstelle ermöglicht Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-17T11:12:00+00:00",
+        "published_at": "2026-11-17T11:17:01+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4591"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4593"
       }
     ],
     "geopolitics": [
@@ -168,6 +168,13 @@
         "published_at": "2026-11-17T08:56:21+00:00",
         "relevance_score": 16,
         "url": "https://e27.co/99-groups-founder-steps-back-as-a-former-banker-takes-the-wheel-of-southeast-asias-leading-proptech-20261117/"
+      },
+      {
+        "title": "[NEU] [mittel] WP Royal Royal Elementor Addons: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-17T11:17:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4593"
       },
       {
         "title": "[NEU] [mittel] LibreOffice: Mehrere Schwachstellen",

@@ -446,6 +446,29 @@
     "id": "75a5e7b19447525c801e"
   },
   {
+    "title": "[NEU] [mittel] WP Royal Royal Elementor Addons: Schwachstelle ermöglicht Offenlegung von Informationen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4593",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-17T11:17:01+00:00",
+    "fetched_at": "2026-11-17T11:24:51+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in WP Royal Royal Elementor Addons ausnutzen, um Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7343baa6da355c39d759"
+  },
+  {
     "title": "[NEU] [mittel] LibreOffice: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4591",
     "source": "BSI CERT-Bund Security Advisories",
