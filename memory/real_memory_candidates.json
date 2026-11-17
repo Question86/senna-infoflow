@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-11-17T05:46:55Z",
+  "generated_at": "2026-11-17T06:04:31Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -28,6 +28,11 @@
       "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
     },
     {
+      "title": "プリザンターにおける複数の脆弱性",
+      "band": "strong",
+      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
+    },
+    {
       "title": "エレコム製無線LANルータにおけるOSコマンドインジェクションの脆弱性",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
@@ -46,11 +51,6 @@
       "title": "My spam folder found me a business lead. Here’s what else AI took off my plate",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
-    },
-    {
-      "title": "Control where GitHub Copilot customizations come from",
-      "band": "watch",
-      "reason": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm."
     }
   ]
 }

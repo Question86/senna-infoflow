@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-17T05:46:55Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “エレコム製無線LANルータにおけるOSコマンドインジェクションの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
+  "generated_at": "2026-11-17T06:04:31Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “プリザンターにおける複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,35 @@
   ],
   "top_dynamics": [
     {
+      "title": "プリザンターにおける複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN02242982/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-11-17T15:00:00+09:00",
+      "age_days": 0.0,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security"
+      ],
+      "summary": "株式会社インプリムが提供するプリザンターには、複数の脆弱性が存在します。"
+    },
+    {
       "title": "エレコム製無線LANルータにおけるOSコマンドインジェクションの脆弱性",
       "url": "https://jvn.jp/vu/JVNVU92504317/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-17T14:30:00+09:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -39,7 +63,7 @@
       "url": "https://jvn.jp/vu/JVNVU97628215/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-17T09:50:00+09:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -63,7 +87,7 @@
       "url": "https://jvn.jp/vu/JVNVU93605944/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-17T10:15:00+09:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -89,7 +113,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 151.16,
+      "age_days": 151.17,
       "topics": [
         "ai"
       ],
@@ -118,7 +142,7 @@
       "url": "https://e27.co/my-spam-folder-found-me-a-business-lead-heres-what-else-ai-took-off-my-plate-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-17T04:00:12+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "security",
@@ -142,11 +166,36 @@
       "summary": "I run Qurious Works, a Singapore supply chain consultancy, and work as a fractional supply chain lead for SMEs and family businesses across Southeast Asia. I’m good at setting up structure and bad at keeping to it. Naming files. Keeping folders tidy. Reading the emails I never asked for. For years I did those badly, […"
     },
     {
+      "title": "エレコム製無線LANルータにおける複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU91615135/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2025-07-22T12:15:00+09:00",
+      "age_days": 483.12,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security",
+        "aging penalty -8.0 for 483.1d old signal"
+      ],
+      "summary": "エレコム株式会社が提供する無線LANルータには、複数の脆弱性が存在します。"
+    },
+    {
       "title": "Dependabot alert dismissal requests now last one year",
       "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-17T00:09:27+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -170,7 +219,7 @@
       "url": "https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-16T19:48:33+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "macro"
       ],
@@ -195,7 +244,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyqi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-17T04:08:55.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -219,7 +268,7 @@
       "url": "https://e27.co/ai-marketing-research-is-moving-from-making-content-to-choosing-it-and-asian-labs-are-leading-20261116/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-17T04:00:00+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "macro"
@@ -246,7 +295,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyq5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-17T02:22:42.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "disaster"
@@ -268,58 +317,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Time 2026-11-17 02:00:17 UTC 2026-11-17 02:00:17 UTC at epicenter Location 11.529°S 162.550°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "Thailand’s AI-fuelled upgrade comes with a brutal 2027 maths problem",
-      "url": "https://e27.co/thailands-ai-fuelled-upgrade-comes-with-a-brutal-2027-maths-problem-20261117/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-17T03:17:24+00:00",
-      "age_days": 0.1,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 8.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Thailand has found itself a growth engine. It just isn’t wired into most of the economy yet. UOB Global Economics and Markets Research on Monday raised its forecast for Thailand’s 2026 GDP growth to 2.5 per cent from 1.9 per cent, and its 2027 projection to 2.3 per cent from 2 per cent, after three […] The post Thaila…"
-    },
-    {
-      "title": "Ex-Freepik Magnific opens Asian hubs as it chases studios, agencies and brands",
-      "url": "https://e27.co/ex-freepik-magnific-opens-asian-hubs-as-it-chases-studios-agencies-and-brands-20261117/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-17T03:48:37+00:00",
-      "age_days": 0.08,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 8.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Magnific wants a desk inside Asia’s creative industry, not just a login. The Málaga (Spain)-headquartered AI creative platform, which traded as Freepik until April, has opened offices in Shanghai and Singapore and plans to invest US$10 million in its Asia-Pacific expansion through the rest of 2026 and into early 2027.…"
     }
   ],
   "read_order": [
@@ -331,9 +328,9 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 5,
-      "watch": 3,
-      "quiet": 4
+      "strong": 6,
+      "watch": 4,
+      "quiet": 2
     }
   }
 }
