@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-17T01:27:50+00:00",
+  "generated_at": "2026-11-17T01:35:42+00:00",
   "topics": {
     "security": [
       {
@@ -58,6 +58,15 @@
         "published_at": "2026-11-17T00:30:00+00:00",
         "relevance_score": 8,
         "url": "https://www.digital.go.jp/councils/digital-talent-development-policy/e22fb804-ff1f-4e5f-9aa0-ee356ebf3967"
+      }
+    ],
+    "general": [
+      {
+        "title": "古川大臣記者会見（令和8年11月17日）動画を掲載しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-11-17T01:28:57+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/speech/minister-261117-01"
       }
     ],
     "economy": [
