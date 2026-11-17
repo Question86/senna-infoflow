@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-17T11:53:18+00:00",
+  "generated_at": "2026-11-17T11:58:22+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-11-17T10:41:29+00:00",
+        "published_at": "2026-11-17T11:58:12+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -184,6 +184,20 @@
         "url": "https://e27.co/99-groups-founder-steps-back-as-a-former-banker-takes-the-wheel-of-southeast-asias-leading-proptech-20261117/"
       },
       {
+        "title": "[NEU] [mittel] CODESYS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-17T11:52:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4604"
+      },
+      {
+        "title": "[NEU] [hoch] Joplin Server: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-17T11:52:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4605"
+      },
+      {
         "title": "[NEU] [mittel] Gogs: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-17T11:47:01+00:00",
@@ -203,20 +217,6 @@
         "published_at": "2026-11-17T11:42:01+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4601"
-      },
-      {
-        "title": "[NEU] [hoch] Zyxel Router: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-17T11:42:00+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4600"
-      },
-      {
-        "title": "[NEU] [hoch] IGEL UMS: Schwachstelle ermöglicht Erlangen von Administratorrechten",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-17T11:42:00+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4599"
       }
     ],
     "github": [

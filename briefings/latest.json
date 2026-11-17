@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T11:53:18+00:00",
-  "run_id": "2026-11-17T11:53:18+00:00",
+  "generated_at": "2026-11-17T11:58:22+00:00",
+  "run_id": "2026-11-17T11:58:22+00:00",
   "date": "2026-11-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 67
+      "configured_public_sources_only": 69
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 5,
-    "today_file_total": 67,
-    "displayed_findings": 67,
+    "new_relevant_findings": 3,
+    "today_file_total": 69,
+    "displayed_findings": 69,
     "high": 0,
-    "medium": 36,
+    "medium": 38,
     "observe": 31,
     "source_errors": 0
   },
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-17T10:41:29+00:00",
-        "fetched_at": "2026-11-17T10:41:14+00:00",
+        "published_at": "2026-11-17T11:58:12+00:00",
+        "fetched_at": "2026-11-17T11:57:58+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "742cc2e1986fe6092f3d"
+        "id": "4d23b39f03b82947a0f9"
       },
       {
         "title": "My spam folder found me a business lead. Here’s what else AI took off my plate",
@@ -521,6 +521,52 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "75a5e7b19447525c801e"
+      },
+      {
+        "title": "[NEU] [mittel] CODESYS: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4604",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-17T11:52:01+00:00",
+        "fetched_at": "2026-11-17T11:57:58+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in CODESYS ausnutzen, um beliebigen Programmcode auszuführen, um Sicherheitsvorkehrungen zu umgehen, und um Dateien zu manipulieren.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "da234d669fdc9d31e1ca"
+      },
+      {
+        "title": "[NEU] [hoch] Joplin Server: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4605",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-17T11:52:01+00:00",
+        "fetched_at": "2026-11-17T11:57:58+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Joplin Server ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5a98adf7ef5c4a1c7a56"
       },
       {
         "title": "[NEU] [mittel] Gogs: Mehrere Schwachstellen",
@@ -1646,8 +1692,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-17T10:41:29+00:00",
-      "fetched_at": "2026-11-17T10:41:14+00:00",
+      "published_at": "2026-11-17T11:58:12+00:00",
+      "fetched_at": "2026-11-17T11:57:58+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1681,7 +1727,7 @@
         "HD",
         "LOW"
       ],
-      "id": "742cc2e1986fe6092f3d"
+      "id": "4d23b39f03b82947a0f9"
     },
     {
       "title": "My spam folder found me a business lead. Here’s what else AI took off my plate",
@@ -2133,6 +2179,52 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "75a5e7b19447525c801e"
+    },
+    {
+      "title": "[NEU] [mittel] CODESYS: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4604",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-17T11:52:01+00:00",
+      "fetched_at": "2026-11-17T11:57:58+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in CODESYS ausnutzen, um beliebigen Programmcode auszuführen, um Sicherheitsvorkehrungen zu umgehen, und um Dateien zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "da234d669fdc9d31e1ca"
+    },
+    {
+      "title": "[NEU] [hoch] Joplin Server: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4605",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-17T11:52:01+00:00",
+      "fetched_at": "2026-11-17T11:57:58+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Joplin Server ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5a98adf7ef5c4a1c7a56"
     },
     {
       "title": "[NEU] [mittel] Gogs: Mehrere Schwachstellen",
@@ -3251,36 +3343,55 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [mittel] Gogs: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4603",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-11-17T11:47:01+00:00",
-      "fetched_at": "2026-11-17T11:52:49+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Gogs ausnutzen, um seine Berechtigungen zu erweitern und möglicherweise Administratorrechte zu erlangen, Daten zu manipulieren und offenzulegen, Benutzerkonten zu kapern oder einen Denial-of-Service-Angriff auszulösen.",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-11-17T11:58:12+00:00",
+      "fetched_at": "2026-11-17T11:57:58+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ba4778338e0cc9d4d0c9"
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "4d23b39f03b82947a0f9"
     },
     {
-      "title": "[NEU] [hoch] xwiki: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4602",
+      "title": "[NEU] [hoch] Joplin Server: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4605",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-11-17T11:47:00+00:00",
-      "fetched_at": "2026-11-17T11:52:49+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in xwiki ausnutzen, um Informationen offenzulegen oder beliebigen Programmcode auszuführen.",
+      "published_at": "2026-11-17T11:52:01+00:00",
+      "fetched_at": "2026-11-17T11:57:58+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Joplin Server ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -3294,16 +3405,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "0d1a87890ccaaa4aa1fe"
+      "id": "5a98adf7ef5c4a1c7a56"
     },
     {
-      "title": "[NEU] [hoch] Spotfire Server: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4601",
+      "title": "[NEU] [mittel] CODESYS: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4604",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-11-17T11:42:01+00:00",
-      "fetched_at": "2026-11-17T11:52:49+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Spotfire Server ausnutzen, um beliebigen Programmcode auszuführen, um Informationen offenzulegen, um falsche Informationen darzustellen, um einen SQL-Injection Angriff durchzuführen, um einen Cross-Site Scripting Angriff durchzuführen und um Sicherheitsvorkehrungen zu umgehen.",
+      "published_at": "2026-11-17T11:52:01+00:00",
+      "fetched_at": "2026-11-17T11:57:58+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in CODESYS ausnutzen, um beliebigen Programmcode auszuführen, um Sicherheitsvorkehrungen zu umgehen, und um Dateien zu manipulieren.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -3317,53 +3428,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "f179fd1ddf11ccfc1017"
-    },
-    {
-      "title": "[NEU] [hoch] Zyxel Router: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4600",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-11-17T11:42:00+00:00",
-      "fetched_at": "2026-11-17T11:52:49+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Zyxel Router ausnutzen, um einen Denial of Service Angriff durchzuführen, Berechtigungen zu erweitern oder beliebigen Code auszuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "276b7b0855e86401e990"
-    },
-    {
-      "title": "[NEU] [hoch] IGEL UMS: Schwachstelle ermöglicht Erlangen von Administratorrechten",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4599",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-11-17T11:42:00+00:00",
-      "fetched_at": "2026-11-17T11:52:49+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in IGEL UMS ausnutzen, um Sicherheitsvorkehrungen zu umgehen und Administratorrechte zu erlangen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ffb177bf8c0db1c3c9e2"
+      "id": "da234d669fdc9d31e1ca"
     }
   ],
   "source_errors": [],
