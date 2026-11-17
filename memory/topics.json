@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-17T11:58:22+00:00",
+  "generated_at": "2026-11-17T12:10:28+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-11-17T11:58:12+00:00",
+        "published_at": "2026-11-17T12:10:16+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -84,11 +84,25 @@
         "url": "https://e27.co/ecosystem-roundup-us-puts-seas-chip-hubs-on-licence-after-nvidia-megaspeed-scandal-20261117/"
       },
       {
+        "title": "[NEU] [mittel] Hitachi Virtual Storage Platform: Mehrere Schwachstellen ermöglichen Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-17T12:07:00+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4610"
+      },
+      {
         "title": "[UPDATE] [kritisch] Atlassian Confluence: Schwachstelle ermöglicht Codeausführung",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-17T10:42:01+00:00",
         "relevance_score": 17,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4427"
+      },
+      {
+        "title": "[NEU] [hoch] OpenSSL: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-17T11:57:01+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4607"
       },
       {
         "title": "[NEU] [hoch] Microsoft SharePoint: Mehrere Schwachstellen",
@@ -131,20 +145,6 @@
         "published_at": "2026-11-16T09:30:00+00:00",
         "relevance_score": 16,
         "url": "https://openai.com/business/customer-stories/revolut"
-      },
-      {
-        "title": "elementalsouls/Claude-BugHunter",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 16,
-        "url": "https://github.com/elementalsouls/Claude-BugHunter"
-      },
-      {
-        "title": "プリザンターにおける複数の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-17T15:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN02242982/"
       }
     ],
     "geopolitics": [
@@ -154,6 +154,20 @@
         "published_at": "2026-11-17T10:46:47+00:00",
         "relevance_score": 18,
         "url": "https://e27.co/iteratives-pivot-is-an-uncomfortable-verdict-on-southeast-asias-place-in-the-ai-race-20261117/"
+      },
+      {
+        "title": "[NEU] [mittel] Hitachi Virtual Storage Platform: Mehrere Schwachstellen ermöglichen Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-17T12:07:00+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4610"
+      },
+      {
+        "title": "[NEU] [hoch] OpenSSL: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-17T11:57:01+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4607"
       },
       {
         "title": "[NEU] [hoch] Microsoft SharePoint: Mehrere Schwachstellen",
@@ -184,39 +198,25 @@
         "url": "https://e27.co/99-groups-founder-steps-back-as-a-former-banker-takes-the-wheel-of-southeast-asias-leading-proptech-20261117/"
       },
       {
-        "title": "[NEU] [mittel] CODESYS: Mehrere Schwachstellen",
+        "title": "[NEU] [hoch] N-able N-Central: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-17T11:52:01+00:00",
+        "published_at": "2026-11-17T12:02:00+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4604"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4609"
       },
       {
-        "title": "[NEU] [hoch] Joplin Server: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
+        "title": "[NEU] [hoch] Mitel MiCollab: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-17T11:52:01+00:00",
+        "published_at": "2026-11-17T11:57:01+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4605"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4608"
       },
       {
-        "title": "[NEU] [mittel] Gogs: Mehrere Schwachstellen",
+        "title": "[NEU] [hoch] ONLYOFFICE Docs: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-17T11:47:01+00:00",
+        "published_at": "2026-11-17T11:57:00+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4603"
-      },
-      {
-        "title": "[NEU] [hoch] xwiki: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-17T11:47:00+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4602"
-      },
-      {
-        "title": "[NEU] [hoch] Spotfire Server: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-17T11:42:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4601"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4606"
       }
     ],
     "github": [
