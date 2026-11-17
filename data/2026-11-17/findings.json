@@ -150,5 +150,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "956d357dfb3e45418ef8"
+  },
+  {
+    "title": "Control where GitHub Copilot customizations come from",
+    "url": "https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-11-16T19:48:33+00:00",
+    "fetched_at": "2026-11-17T01:22:08+00:00",
+    "summary": "As an enterprise administrator, you can now require selected GitHub Copilot customizations to come from plugins or managed settings, rather than standalone user or project configuration. Combined with marketplace restrictions,… The post Control where GitHub Copilot customizations come from appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Copilot",
+      "GitHub"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f24b7947f94827206798"
   }
 ]

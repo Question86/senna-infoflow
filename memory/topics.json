@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-17T01:15:43+00:00",
+  "generated_at": "2026-11-17T01:22:40+00:00",
   "topics": {
     "security": [
       {
@@ -42,6 +42,13 @@
         "published_at": "2026-11-17T00:09:27+00:00",
         "relevance_score": 12,
         "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year"
+      },
+      {
+        "title": "Control where GitHub Copilot customizations come from",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-11-16T19:48:33+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from"
       }
     ],
     "geopolitics": [
@@ -51,6 +58,15 @@
         "published_at": "2026-11-17T00:30:00+00:00",
         "relevance_score": 8,
         "url": "https://www.digital.go.jp/councils/digital-talent-development-policy/e22fb804-ff1f-4e5f-9aa0-ee356ebf3967"
+      }
+    ],
+    "economy": [
+      {
+        "title": "Control where GitHub Copilot customizations come from",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-11-16T19:48:33+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from"
       }
     ]
   }

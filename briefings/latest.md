@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-17T01:15:43+00:00_
+_Generiert: 2026-11-17T01:22:40+00:00_
 
 ## Kurzlage
 
-6 neue relevante Treffer. Stärkstes Signal: „複数製品におけるmacOS（APFS）とのUnicode正規化不整合によるファイルアクセス制限回避の脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+7 neue relevante Treffer. Stärkstes Signal: „複数製品におけるmacOS（APFS）とのUnicode正規化不整合によるファイルアクセス制限回避の脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -130,6 +130,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); policy (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 今後のデジタル人材育成政策に関する検討会（第3回）の議事次第および資料を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Control where GitHub Copilot customizations come from** — Score 6, observation — [Quelle](https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-11-16T19:48:33+00:00`, fetched `2026-11-17T01:22:08+00:00`
+  - Treffer: Copilot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub (+2.5); Copilot (+2.5); recent (+1.0)
+  - Kurz: As an enterprise administrator, you can now require selected GitHub Copilot customizations to come from plugins or managed settings, rather than standalone user or project configuration. Combined with marketplace restrictions,… The post Control where GitHub Copilot customizations come from appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
@@ -138,8 +147,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `twcert_security_news` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)
-- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)
