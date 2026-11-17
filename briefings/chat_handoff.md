@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-17T05:30:51+00:00_
+_Generated: 2026-11-17T05:38:09+00:00_
 
 ## Status
 - status: `normal`
-- findings: `21`
+- findings: `22`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-11-17T05:30:51+00:00_
 - url: https://e27.co/lessons-from-building-a-multilingual-ai-learning-platform-in-southeast-asia-20261111/
 - summary: Southeast Asia is one of the most multilingual regions in the world, and one of the most motivated to learn more languages. In Vietnam alone, students prepare for English exams, factory engineers study Japanese for jobs in Japan, and office workers take Chine…
 
-### 4. 複数製品におけるmacOS（APFS）とのUnicode正規化不整合によるファイルアクセス制限回避の脆弱性
+### 4. エレコム製無線LANルータにおけるOSコマンドインジェクションの脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
-- published: `2026-11-17T10:15:00+09:00`
-- url: https://jvn.jp/vu/JVNVU93605944/
-- summary: CERT/CCから本件に関するアドバイザリが公表されました。
+- published: `2026-11-17T14:30:00+09:00`
+- url: https://jvn.jp/vu/JVNVU92504317/
+- summary: エレコム株式会社が提供する無線LANルータには、OSコマンドインジェクションの脆弱性が存在します。
 
 ### 5. Beyond the chatbot: How AI is reshaping customer service in Southeast Asia
 - source: e27 Asia Startup and Tech Feed
