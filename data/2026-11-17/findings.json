@@ -22,6 +22,49 @@
     "id": "678355937edcb3d85b8a"
   },
   {
+    "title": "AI is changing how we learn, work and invest. Venture capital must change too",
+    "url": "https://e27.co/ai-is-changing-how-we-learn-work-and-invest-venture-capital-must-change-too-20261111/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-11-17T01:00:17+00:00",
+    "fetched_at": "2026-11-17T01:00:26+00:00",
+    "summary": "I recently started one of my lectures at Nanyang Technological University (NTU) in Singapore by asking students to think about how education has changed over the past 30 years. When I was studying engineering at university, there was no internet. Information was difficult to access. We spent hours in libraries, reading textbooks, taking notes and […] The post AI is changing how we learn, work and invest. Venture cap…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "Watchgraph:capitals_power_centers"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "capitals_power_centers"
+    ],
+    "watchgraph_reasons": [
+      "capitals_power_centers: capital"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "e4339d92193b4e67259e"
+  },
+  {
     "title": "Dependabot alert dismissal requests now last one year",
     "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
     "source": "GitHub Changelog Atom",

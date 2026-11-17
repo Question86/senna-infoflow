@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-17T00:55:12+00:00_
+_Generiert: 2026-11-17T01:01:03+00:00_
 
 ## Kurzlage
 
-3 neue relevante Treffer. Stärkstes Signal: „富士電機製TELLUSにおける複数の脆弱性（2026年11月）“ aus JVN Japan Vulnerability Notes (Score 14, risk).
+4 neue relevante Treffer. Stärkstes Signal: „富士電機製TELLUSにおける複数の脆弱性（2026年11月）“ aus JVN Japan Vulnerability Notes (Score 14, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -85,6 +85,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **AI is changing how we learn, work and invest. Venture capital must change too** — Score 13, observation — [Quelle](https://e27.co/ai-is-changing-how-we-learn-work-and-invest-venture-capital-must-change-too-20261111/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-17T01:00:17+00:00`, fetched `2026-11-17T01:00:26+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: I recently started one of my lectures at Nanyang Technological University (NTU) in Singapore by asking students to think about how education has changed over the past 30 years. When I was studying engineering at university, there was no internet. Information was difficult to access. We spent hours in libraries, reading textbooks, taking notes and […] The post AI is changing how we learn, work and invest. Venture cap…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Dependabot alert dismissal requests now last one year** — Score 12, observation — [Quelle](https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-11-17T00:09:27+00:00`, fetched `2026-11-17T00:26:28+00:00`
@@ -111,3 +120,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `hn_release_security_burst` (hackernews): HTTPSConnectionPool(host='hn.algolia.com', port=443): Read timed out. (read timeout=8)

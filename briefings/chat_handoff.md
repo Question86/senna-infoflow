@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-17T00:55:12+00:00_
+_Generated: 2026-11-17T01:01:03+00:00_
 
 ## Status
-- status: `normal`
-- findings: `3`
+- status: `warning`
+- findings: `4`
 
 ## Top Signals
 
@@ -15,14 +15,21 @@ _Generated: 2026-11-17T00:55:12+00:00_
 - url: https://jvn.jp/vu/JVNVU97628215/
 - summary: 富士電機株式会社が提供するTELLUSには、複数の脆弱性が存在します。
 
-### 2. Dependabot alert dismissal requests now last one year
+### 2. AI is changing how we learn, work and invest. Venture capital must change too
+- source: e27 Asia Startup and Tech Feed
+- score: `13`
+- published: `2026-11-17T01:00:17+00:00`
+- url: https://e27.co/ai-is-changing-how-we-learn-work-and-invest-venture-capital-must-change-too-20261111/
+- summary: I recently started one of my lectures at Nanyang Technological University (NTU) in Singapore by asking students to think about how education has changed over the past 30 years. When I was studying engineering at university, there was no internet. Information…
+
+### 3. Dependabot alert dismissal requests now last one year
 - source: GitHub Changelog Atom
 - score: `12`
 - published: `2026-11-17T00:09:27+00:00`
 - url: https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year
 - summary: If you use delegated alert dismissal for Dependabot, dismissal requests now stay open for one year instead of one week. Reviewers have more time to respond before a request expires… The post Dependabot alert dismissal requests now last one year appeared first…
 
-### 3. 今後のデジタル人材育成政策に関する検討会（第3回）の議事次第および資料を掲載しました
+### 4. 今後のデジタル人材育成政策に関する検討会（第3回）の議事次第および資料を掲載しました
 - source: Japan Digital Agency News RSS
 - score: `8`
 - published: `2026-11-17T00:30:00+00:00`

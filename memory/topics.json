@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-17T00:55:12+00:00",
+  "generated_at": "2026-11-17T01:01:03+00:00",
   "topics": {
     "security": [
       {
@@ -10,6 +10,15 @@
         "published_at": "2026-11-17T09:50:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU97628215/"
+      }
+    ],
+    "ai": [
+      {
+        "title": "AI is changing how we learn, work and invest. Venture capital must change too",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-17T01:00:17+00:00",
+        "relevance_score": 13,
+        "url": "https://e27.co/ai-is-changing-how-we-learn-work-and-invest-venture-capital-must-change-too-20261111/"
       }
     ],
     "github": [
