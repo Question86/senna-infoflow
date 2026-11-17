@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-17T09:58:51+00:00",
+  "generated_at": "2026-11-17T10:09:03+00:00",
   "topics": {
     "ai": [
       {
@@ -280,6 +280,13 @@
       }
     ],
     "general": [
+      {
+        "title": "楽天証券に不正アクセス、最大1125万口座のログインIDなど漏えいのおそれ（CNET Japan） - Yahoo!ニュース",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-17T09:33:35+00:00",
+        "relevance_score": 11,
+        "url": "https://news.yahoo.co.jp/articles/141fe69b0f33952604cde710494bbdff584f269a"
+      },
       {
         "title": "Lauda, a Maruti relic and 13,500 lost kids: Kerala’s audacious bid to rewire motorsport’s money ladder",
         "source": "e27 Asia Startup and Tech Feed",
