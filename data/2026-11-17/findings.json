@@ -1,5 +1,27 @@
 [
   {
+    "title": "Thailand’s AI-fuelled upgrade comes with a brutal 2027 maths problem",
+    "url": "https://e27.co/thailands-ai-fuelled-upgrade-comes-with-a-brutal-2027-maths-problem-20261117/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-11-17T03:17:24+00:00",
+    "fetched_at": "2026-11-17T03:27:52+00:00",
+    "summary": "Thailand has found itself a growth engine. It just isn’t wired into most of the economy yet. UOB Global Economics and Markets Research on Monday raised its forecast for Thailand’s 2026 GDP growth to 2.5 per cent from 1.9 per cent, and its 2027 projection to 2.3 per cent from 2 per cent, after three […] The post Thailand’s AI-fuelled upgrade comes with a brutal 2027 maths problem appeared first on e27 .",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "Macro/Policy"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "AI/KI (+3.8); Macro/Policy (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2e1fac273563467258f3"
+  },
+  {
     "title": "複数製品におけるmacOS（APFS）とのUnicode正規化不整合によるファイルアクセス制限回避の脆弱性",
     "url": "https://jvn.jp/vu/JVNVU93605944/",
     "source": "JVN Japan Vulnerability Notes",
