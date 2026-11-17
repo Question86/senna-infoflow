@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-17T10:41:39+00:00",
+  "generated_at": "2026-11-17T10:46:54+00:00",
   "topics": {
     "ai": [
       {
@@ -84,6 +84,13 @@
         "url": "https://e27.co/ecosystem-roundup-us-puts-seas-chip-hubs-on-licence-after-nvidia-megaspeed-scandal-20261117/"
       },
       {
+        "title": "[UPDATE] [kritisch] Atlassian Confluence: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-17T10:42:01+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4427"
+      },
+      {
         "title": "[UPDATE] [hoch] Microsoft Windows: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-17T08:12:01+00:00",
@@ -138,13 +145,6 @@
         "published_at": "2026-11-17T09:50:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU97628215/"
-      },
-      {
-        "title": "[UPDATE] [hoch] OpenCTI: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-17T09:42:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2538"
       }
     ],
     "economy": [
