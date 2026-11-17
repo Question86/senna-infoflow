@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-17T11:04:28+00:00",
+  "generated_at": "2026-11-17T11:14:22+00:00",
   "topics": {
     "ai": [
       {
@@ -133,18 +133,18 @@
         "url": "https://jvn.jp/vu/JVNVU92504317/"
       },
       {
+        "title": "[UPDATE] [mittel] OpenSSH: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-17T11:07:33+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3785"
+      },
+      {
         "title": "複数製品におけるmacOS（APFS）とのUnicode正規化不整合によるファイルアクセス制限回避の脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-11-17T10:15:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU93605944/"
-      },
-      {
-        "title": "富士電機製TELLUSにおける複数の脆弱性（2026年11月）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-17T09:50:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU97628215/"
       }
     ],
     "geopolitics": [

@@ -422,6 +422,29 @@
     "id": "75a5e7b19447525c801e"
   },
   {
+    "title": "[UPDATE] [mittel] OpenSSH: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3785",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-17T11:07:33+00:00",
+    "fetched_at": "2026-11-17T11:13:53+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in OpenSSH ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um einen Denial of Service herbeizufürhen oder seine Rechte auszuweiten.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b230eb0f5a8bfca2e72a"
+  },
+  {
     "title": "複数製品におけるmacOS（APFS）とのUnicode正規化不整合によるファイルアクセス制限回避の脆弱性",
     "url": "https://jvn.jp/vu/JVNVU93605944/",
     "source": "JVN Japan Vulnerability Notes",
