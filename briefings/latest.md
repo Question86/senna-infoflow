@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-17T05:43:49+00:00_
+_Generiert: 2026-11-17T05:49:46+00:00_
 
 ## Kurzlage
 
-22 neue relevante Treffer. Stärkstes Signal: „My spam folder found me a business lead. Here’s what else AI took off my plate“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+23 neue relevante Treffer. Stärkstes Signal: „My spam folder found me a business lead. Here’s what else AI took off my plate“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -148,6 +148,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: I recently started one of my lectures at Nanyang Technological University (NTU) in Singapore by asking students to think about how education has changed over the past 30 years. When I was studying engineering at university, there was no internet. Information was difficult to access. We spent hours in libraries, reading textbooks, taking notes and […] The post AI is changing how we learn, work and invest. Venture cap…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **エレコム製無線LANルータにおける複数の脆弱性** — Score 13, risk — [Quelle](https://jvn.jp/vu/JVNVU91615135/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2025-07-22T12:15:00+09:00`, fetched `2026-11-17T05:49:18+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: エレコム株式会社が提供する無線LANルータには、複数の脆弱性が存在します。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **AI marketing research is moving from making content to choosing it, and Asian labs are leading** — Score 12, observation — [Quelle](https://e27.co/ai-marketing-research-is-moving-from-making-content-to-choosing-it-and-asian-labs-are-leading-20261116/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-17T04:00:00+00:00`, fetched `2026-11-17T04:00:28+00:00`
