@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-17T02:37:57+00:00",
-  "status": "warning",
-  "coverage_confidence": "limited",
+  "generated_at": "2026-11-17T02:43:17+00:00",
+  "status": "normal",
+  "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 10,
-    "displayed_findings": 10,
+    "new_relevant_findings": 2,
+    "today_file_total": 12,
+    "displayed_findings": 12,
     "high": 0,
     "medium": 2,
-    "observe": 8
+    "observe": 10
   },
-  "source_errors_count": 1,
+  "source_errors_count": 0,
   "top_signals": [
     {
       "title": "複数製品におけるmacOS（APFS）とのUnicode正規化不整合によるファイルアクセス制限回避の脆弱性",
@@ -65,13 +65,13 @@
       "section": "observe"
     },
     {
-      "title": "M 5.0 - 137 km SSE of Kirakira, Solomon Islands",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "Our event video edits went from 60 minutes to 15. The AI was the easy part",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-11-17T02:22:42.040+00:00",
-      "relevance_score": 9,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyq5",
-      "summary": "Time 2026-11-17 02:00:17 UTC 2026-11-17 02:00:17 UTC at epicenter Location 11.529°S 162.550°E Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-11-17T02:30:59+00:00",
+      "relevance_score": 10,
+      "url": "https://e27.co/our-event-video-edits-went-from-60-minutes-to-15-the-ai-was-the-easy-part-20261111/",
+      "summary": "On the first morning of AICON 2026 in Singapore, a speaker came off stage, a videographer pulled the card, and someone on our team pushed the footage into a Slack channel named for that session. Roughly 15 minutes later there was a cut highlight sitting there…",
       "section": "observe"
     }
   ],
