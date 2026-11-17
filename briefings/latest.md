@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-17T07:41:08+00:00_
+_Generiert: 2026-11-17T07:46:19+00:00_
 
 ## Kurzlage
 
@@ -37,6 +37,10 @@ _Generiert: 2026-11-17T07:41:08+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in South Africa
+- **GDACS: Green flood alert in Spain** — high — [Quelle](http://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104287)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Spain
 - **USGS earthquake M6.6 - 148 km WSW of Tual, Indonesia** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tymu)
   - Quelle: USGS
   - Zeit: `2026-11-16T21:11:20+00:00`
@@ -57,10 +61,6 @@ _Generiert: 2026-11-17T07:41:08+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:469.881km) in Fiji 15/11/2026 05:15 UTC, Few people affected in 100km.
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Northern Mid-Atlantic Ridge 14/11/2026 09:26 UTC, [unknown].** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577321)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Northern Mid-Atlantic Ridge 14/11/2026 09:26 UTC, [unknown].
 
 ## Wirtschaft global
 
