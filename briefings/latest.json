@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T10:09:03+00:00",
-  "run_id": "2026-11-17T10:09:03+00:00",
+  "generated_at": "2026-11-17T10:17:24+00:00",
+  "run_id": "2026-11-17T10:17:24+00:00",
   "date": "2026-11-17",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-17T09:58:42+00:00",
-        "fetched_at": "2026-11-17T09:58:26+00:00",
+        "published_at": "2026-11-17T10:17:15+00:00",
+        "fetched_at": "2026-11-17T10:16:59+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "aaffb417858d700e38d6"
+        "id": "52dd4cd2722b3c0e8c1a"
       },
       {
         "title": "My spam folder found me a business lead. Here’s what else AI took off my plate",
@@ -1092,8 +1092,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-17T09:58:42+00:00",
-      "fetched_at": "2026-11-17T09:58:26+00:00",
+      "published_at": "2026-11-17T10:17:15+00:00",
+      "fetched_at": "2026-11-17T10:16:59+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1127,7 +1127,7 @@
         "HD",
         "LOW"
       ],
-      "id": "aaffb417858d700e38d6"
+      "id": "52dd4cd2722b3c0e8c1a"
     },
     {
       "title": "My spam folder found me a business lead. Here’s what else AI took off my plate",
@@ -2143,26 +2143,46 @@
   ],
   "new_findings": [
     {
-      "title": "楽天証券に不正アクセス、最大1125万口座のログインIDなど漏えいのおそれ（CNET Japan） - Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/141fe69b0f33952604cde710494bbdff584f269a",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-17T09:33:35+00:00",
-      "fetched_at": "2026-11-17T10:08:29+00:00",
-      "summary": "楽天証券のスマートフォンアプリ「iSPEED」（CNET Japan） 楽天証券は11月17日、第三者による不正アクセスを受け、最大約447万口座分の氏名や住所、出金先口座情報などと、最大約1125万口座分のログインIDなどが外部に漏えいした可能性があると発表した。退会した顧客の情報も含まれる。 同社は11月16日、一部システム...",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-11-17T10:17:15+00:00",
+      "fetched_at": "2026-11-17T10:16:59+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
-        "Hatena",
-        "hotentry"
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4f1a41a43a19ec185e4d"
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "52dd4cd2722b3c0e8c1a"
     }
   ],
   "source_errors": [
@@ -2170,7 +2190,7 @@
       "source_id": "e27_asia_startups_feed",
       "source_name": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)"
+      "error": "500 Server Error: Internal Server Error for url: https://e27.co/index_wp.php/feed/"
     }
   ],
   "quality_gate": {
