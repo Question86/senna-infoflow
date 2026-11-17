@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-17T06:23:04+00:00_
+_Generated: 2026-11-17T06:36:08+00:00_
 
 ## Status
 - status: `normal`
-- findings: `26`
+- findings: `27`
 
 ## Top Signals
 
-### 1. My spam folder found me a business lead. Here’s what else AI took off my plate
+### 1. Updates | ReliefWeb
+- source: ReliefWeb Mindanao Recovery Watch
+- score: `23`
+- published: `2026-11-17T06:35:57+00:00`
+- url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
+- summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
+
+### 2. My spam folder found me a business lead. Here’s what else AI took off my plate
 - source: e27 Asia Startup and Tech Feed
 - score: `20`
 - published: `2026-11-17T04:00:12+00:00`
 - url: https://e27.co/my-spam-folder-found-me-a-business-lead-heres-what-else-ai-took-off-my-plate-20261111/
 - summary: I run Qurious Works, a Singapore supply chain consultancy, and work as a fractional supply chain lead for SMEs and family businesses across Southeast Asia. I’m good at setting up structure and bad at keeping to it. Naming files. Keeping folders tidy. Reading…
 
-### 2. Thailand’s AI-fuelled upgrade comes with a brutal 2027 maths problem
+### 3. Thailand’s AI-fuelled upgrade comes with a brutal 2027 maths problem
 - source: e27 Asia Startup and Tech Feed
 - score: `16`
 - published: `2026-11-17T03:17:24+00:00`
 - url: https://e27.co/thailands-ai-fuelled-upgrade-comes-with-a-brutal-2027-maths-problem-20261117/
 - summary: Thailand has found itself a growth engine. It just isn’t wired into most of the economy yet. UOB Global Economics and Markets Research on Monday raised its forecast for Thailand’s 2026 GDP growth to 2.5 per cent from 1.9 per cent, and its 2027 projection to 2…
 
-### 3. How Revolut raises ambition without lowering the bar
+### 4. How Revolut raises ambition without lowering the bar
 - source: OpenAI News RSS
 - score: `16`
 - published: `2026-11-16T09:30:00+00:00`
 - url: https://openai.com/business/customer-stories/revolut
 - summary: Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.
-
-### 4. Singapore’s 2026 funding boom is real. As a Southeast Asian story, it’s a mirage
-- source: e27 Asia Startup and Tech Feed
-- score: `15`
-- published: `2026-11-17T06:06:13+00:00`
-- url: https://e27.co/singapores-2026-funding-boom-is-real-as-a-southeast-asian-story-its-a-mirage-20261117/
-- summary: There was one sentence Southeast Asia’s startup press could have saved as a keyboard shortcut in 2026: Singapore took almost everything. In October, Singapore-based startups collected US$3.66 billion of the US$3.68 billion raised across the region, according…
 
 ### 5. Beyond the chatbot: How AI is reshaping customer service in Southeast Asia
 - source: e27 Asia Startup and Tech Feed

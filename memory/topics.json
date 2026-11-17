@@ -1,9 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-17T06:23:04+00:00",
+  "generated_at": "2026-11-17T06:36:08+00:00",
   "topics": {
     "ai": [
+      {
+        "title": "Updates | ReliefWeb",
+        "source": "ReliefWeb Mindanao Recovery Watch",
+        "published_at": "2026-11-17T06:35:57+00:00",
+        "relevance_score": 23,
+        "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+      },
       {
         "title": "My spam folder found me a business lead. Here’s what else AI took off my plate",
         "source": "e27 Asia Startup and Tech Feed",
@@ -66,13 +73,6 @@
         "published_at": "2026-11-17T03:48:37+00:00",
         "relevance_score": 11,
         "url": "https://e27.co/ex-freepik-magnific-opens-asian-hubs-as-it-chases-studios-agencies-and-brands-20261117/"
-      },
-      {
-        "title": "Our event video edits went from 60 minutes to 15. The AI was the easy part",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-17T02:30:59+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/our-event-video-edits-went-from-60-minutes-to-15-the-ai-was-the-easy-part-20261111/"
       }
     ],
     "economy": [
