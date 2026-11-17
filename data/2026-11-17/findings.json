@@ -2133,5 +2133,25 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "8d52a512e94f942d6646"
+  },
+  {
+    "title": "Building the Agent Host Protocol for sessions that continue across devices",
+    "url": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
+    "source": "GitHub Blog Atom",
+    "source_type": "rss",
+    "published_at": "2026-11-17T18:20:40+00:00",
+    "fetched_at": "2026-11-17T18:27:19+00:00",
+    "summary": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud. The post Building the Agent Host Protocol for sessions that continue across devices appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub"
+    ],
+    "relevance_score": 3,
+    "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9243c5489a04ab9be121"
   }
 ]
