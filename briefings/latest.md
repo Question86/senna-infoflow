@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-17T01:01:03+00:00_
+_Generiert: 2026-11-17T01:15:43+00:00_
 
 ## Kurzlage
 
-4 neue relevante Treffer. Stärkstes Signal: „富士電機製TELLUSにおける複数の脆弱性（2026年11月）“ aus JVN Japan Vulnerability Notes (Score 14, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+6 neue relevante Treffer. Stärkstes Signal: „複数製品におけるmacOS（APFS）とのUnicode正規化不整合によるファイルアクセス制限回避の脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -73,6 +73,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **複数製品におけるmacOS（APFS）とのUnicode正規化不整合によるファイルアクセス制限回避の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU93605944/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-11-17T10:15:00+09:00`, fetched `2026-11-17T01:14:57+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **富士電機製TELLUSにおける複数の脆弱性（2026年11月）** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU97628215/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-11-17T09:50:00+09:00`, fetched `2026-11-17T00:54:41+00:00`
@@ -85,6 +94,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Beyond the chatbot: How AI is reshaping customer service in Southeast Asia** — Score 13, observation — [Quelle](https://e27.co/beyond-the-chatbot-how-ai-is-reshaping-customer-service-in-southeast-asia-20261116/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-17T01:00:34+00:00`, fetched `2026-11-17T01:14:57+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Webentwicklung (+3.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
+  - Kurz: A football fan in Bangkok wants to know which streaming package carries tonight’s match. Kick-off is approaching, and the answer is buried somewhere on the provider’s website. For the customer, a delayed response is frustrating. For the streaming company, it could mean a missed subscription. Multiply that interaction by thousands of customers, several languages and […] The post Beyond the chatbot: How AI is reshapin…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AI is changing how we learn, work and invest. Venture capital must change too** — Score 13, observation — [Quelle](https://e27.co/ai-is-changing-how-we-learn-work-and-invest-venture-capital-must-change-too-20261111/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-17T01:00:17+00:00`, fetched `2026-11-17T01:00:26+00:00`
@@ -123,4 +141,5 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Quellenfehler
 
-- `hn_release_security_burst` (hackernews): HTTPSConnectionPool(host='hn.algolia.com', port=443): Read timed out. (read timeout=8)
+- `twcert_security_news` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)
+- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)

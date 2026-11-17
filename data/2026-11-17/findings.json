@@ -1,5 +1,27 @@
 [
   {
+    "title": "複数製品におけるmacOS（APFS）とのUnicode正規化不整合によるファイルアクセス制限回避の脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU93605944/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-11-17T10:15:00+09:00",
+    "fetched_at": "2026-11-17T01:14:57+00:00",
+    "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "74f5818a9d1f9658074d"
+  },
+  {
     "title": "富士電機製TELLUSにおける複数の脆弱性（2026年11月）",
     "url": "https://jvn.jp/vu/JVNVU97628215/",
     "source": "JVN Japan Vulnerability Notes",
@@ -20,6 +42,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "678355937edcb3d85b8a"
+  },
+  {
+    "title": "Beyond the chatbot: How AI is reshaping customer service in Southeast Asia",
+    "url": "https://e27.co/beyond-the-chatbot-how-ai-is-reshaping-customer-service-in-southeast-asia-20261116/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-11-17T01:00:34+00:00",
+    "fetched_at": "2026-11-17T01:14:57+00:00",
+    "summary": "A football fan in Bangkok wants to know which streaming package carries tonight’s match. Kick-off is approaching, and the answer is buried somewhere on the provider’s website. For the customer, a delayed response is frustrating. For the streaming company, it could mean a missed subscription. Multiply that interaction by thousands of customers, several languages and […] The post Beyond the chatbot: How AI is reshapin…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "Southeast Asia",
+      "Webentwicklung"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "AI/KI (+3.8); Webentwicklung (+3.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "806da65b1b6ca040ecb1"
   },
   {
     "title": "AI is changing how we learn, work and invest. Venture capital must change too",
