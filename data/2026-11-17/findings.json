@@ -1,5 +1,27 @@
 [
   {
+    "title": "富士電機製TELLUSにおける複数の脆弱性（2026年11月）",
+    "url": "https://jvn.jp/vu/JVNVU97628215/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-11-17T09:50:00+09:00",
+    "fetched_at": "2026-11-17T00:54:41+00:00",
+    "summary": "富士電機株式会社が提供するTELLUSには、複数の脆弱性が存在します。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "678355937edcb3d85b8a"
+  },
+  {
     "title": "Dependabot alert dismissal requests now last one year",
     "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
     "source": "GitHub Changelog Atom",

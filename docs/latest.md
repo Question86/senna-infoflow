@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-17T00:45:54+00:00_
+_Generiert: 2026-11-17T00:55:12+00:00_
 
 ## Kurzlage
 
-2 neue relevante Treffer. Stärkstes Signal: „Dependabot alert dismissal requests now last one year“ aus GitHub Changelog Atom (Score 12, observation).
+3 neue relevante Treffer. Stärkstes Signal: „富士電機製TELLUSにおける複数の脆弱性（2026年11月）“ aus JVN Japan Vulnerability Notes (Score 14, risk).
 
 ## Priorität Hoch
 
@@ -12,7 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
-Keine neuen mittleren Treffer.
+- **富士電機製TELLUSにおける複数の脆弱性（2026年11月）** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU97628215/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-11-17T09:50:00+09:00`, fetched `2026-11-17T00:54:41+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 富士電機株式会社が提供するTELLUSには、複数の脆弱性が存在します。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
@@ -37,7 +45,7 @@ Keine neuen mittleren Treffer.
 
 ## Empfehlungen
 
-- Keine direkte Handlung. Konfigurierte Quellen weiter prüfen.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 
