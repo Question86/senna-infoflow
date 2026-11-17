@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-17T10:46:54+00:00_
+_Generated: 2026-11-17T10:52:23+00:00_
 
 ## Status
 - status: `normal`
-- findings: `47`
+- findings: `50`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-11-17T10:46:54+00:00_
 - url: https://e27.co/ecosystem-roundup-us-puts-seas-chip-hubs-on-licence-after-nvidia-megaspeed-scandal-20261117/
 - summary: Washington has ended Southeast Asia’s easy access to top-end AI silicon. On Monday, the US Commerce Department’s Bureau of Industry and Security issued an interim final rule that requires licences for advanced chips bound for Indonesia, Malaysia, Singapore, T…
 
-### 4. [UPDATE] [kritisch] Atlassian Confluence: Schwachstelle ermöglicht Codeausführung
-- source: BSI CERT-Bund Security Advisories
-- score: `17`
-- published: `2026-11-17T10:42:01+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4427
-- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Atlassian Confluence ausnutzen, um beliebigen Programmcode auszuführen.
+### 4. Iterative’s pivot is an uncomfortable verdict on Southeast Asia’s place in the AI race
+- source: e27 Asia Startup and Tech Feed
+- score: `18`
+- published: `2026-11-17T10:46:47+00:00`
+- url: https://e27.co/iteratives-pivot-is-an-uncomfortable-verdict-on-southeast-asias-place-in-the-ai-race-20261117/
+- summary: For six years, Iterative sold itself on one promise: a Y Combinator-style accelerator built exclusively for Southeast Asia. That promise has now expired. The Singapore-based early-stage investor will not run a Winter 2027 batch of its core programme. In its p…
 
 ### 5. Beyond the chatbot: How AI is reshaping customer service in Southeast Asia
 - source: e27 Asia Startup and Tech Feed

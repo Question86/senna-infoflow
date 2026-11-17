@@ -88,6 +88,29 @@
     "id": "d872d9b675b985395ece"
   },
   {
+    "title": "Iterative’s pivot is an uncomfortable verdict on Southeast Asia’s place in the AI race",
+    "url": "https://e27.co/iteratives-pivot-is-an-uncomfortable-verdict-on-southeast-asias-place-in-the-ai-race-20261117/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-11-17T10:46:47+00:00",
+    "fetched_at": "2026-11-17T10:51:57+00:00",
+    "summary": "For six years, Iterative sold itself on one promise: a Y Combinator-style accelerator built exclusively for Southeast Asia. That promise has now expired. The Singapore-based early-stage investor will not run a Winter 2027 batch of its core programme. In its place comes a “SEA to SF” programme that takes regional founders to San Francisco for […] The post Iterative’s pivot is an uncomfortable verdict on Southeast Asi…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "founder",
+      "Southeast Asia"
+    ],
+    "relevance_score": 18,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.0); recent (+1.0); watchgraph region europe: NATO (+2.0); watchgraph region usa: San Francisco (+2.0); watchgraph region southeast_asia: Singapore (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f069d72b907d372f34fe"
+  },
+  {
     "title": "[UPDATE] [kritisch] Atlassian Confluence: Schwachstelle ermöglicht Codeausführung",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4427",
     "source": "BSI CERT-Bund Security Advisories",
@@ -626,6 +649,43 @@
     "id": "dc881361dd2417c3b601"
   },
   {
+    "title": "M 4.9 - 43 km NW of Oxford, New Zealand",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyrv",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-11-17T10:51:34.303+00:00",
+    "fetched_at": "2026-11-17T10:51:57+00:00",
+    "summary": "ShakeMap - V DYFI? - III Time 2026-11-17 10:30:48 UTC 2026-11-17 10:30:48 UTC at epicenter Location 43.023°S 171.805°E Depth 14.24 km (8.85 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "ShakeMap",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake, ShakeMap"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "aac7accd8ac96556bcfb"
+  },
+  {
     "title": "楽天証券に不正アクセス、最大1125万口座のログインIDなど漏えいのおそれ（CNET Japan） - Yahoo!ニュース",
     "url": "https://news.yahoo.co.jp/articles/141fe69b0f33952604cde710494bbdff584f269a",
     "source": "Hatena Bookmark Hotentry IT",
@@ -973,6 +1033,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "f24b7947f94827206798"
+  },
+  {
+    "title": "楽天証券に不正アクセス 最大1125万口座の情報漏えい可能性",
+    "url": "https://www.watch.impress.co.jp/docs/news/2157207.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-11-17T09:23:14+00:00",
+    "fetched_at": "2026-11-17T10:51:57+00:00",
+    "summary": "楽天証券に不正アクセス 最大1125万口座の情報漏えい可能性",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "83b5f9a9872f17ba17c4"
   },
   {
     "title": "当社お客様の情報漏えいの可能性に関するお詫びとお知らせ:楽天証券",
