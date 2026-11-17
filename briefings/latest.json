@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T02:49:03+00:00",
-  "run_id": "2026-11-17T02:49:03+00:00",
+  "generated_at": "2026-11-17T02:54:09+00:00",
+  "run_id": "2026-11-17T02:54:09+00:00",
   "date": "2026-11-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 13,
     "displayed_findings": 13,
     "high": 0,
@@ -663,31 +663,7 @@
       "id": "8d52a512e94f942d6646"
     }
   ],
-  "new_findings": [
-    {
-      "title": "QA生産性を爆上げさせるためのQA AIプラットフォーム構築",
-      "url": "https://zenn.dev/gatechnologies/articles/8bdea59269eb10",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-16T15:11:21+00:00",
-      "fetched_at": "2026-11-17T02:48:32+00:00",
-      "summary": "図にはありませんが、Issue単位の小さな改修のテスト設計を行うenhance-qaと、Skillを使うための環境を整えるenv-setupを合わせて、合計12個のSkillを実装しています。 個々のSkillの詳しい説明は割愛します。 2. 成果物をMarkdownにしてGitHubに集めた 当初は、計画書はConfluence、テストケースや実行結果はスプレッド...",
-      "matched_keywords": [
-        "GitHub",
-        "Hatena",
-        "hotentry",
-        "Webentwicklung"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f137fde87eb42aa158e4"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
