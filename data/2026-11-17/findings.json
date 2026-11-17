@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-17T06:45:07+00:00",
-    "fetched_at": "2026-11-17T06:44:52+00:00",
+    "published_at": "2026-11-17T07:22:56+00:00",
+    "fetched_at": "2026-11-17T07:22:42+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "5c6d8274559df1112dee"
+    "id": "237f8d2040cbefa2e11f"
   },
   {
     "title": "My spam folder found me a business lead. Here’s what else AI took off my plate",
@@ -376,6 +376,27 @@
       "EWZ"
     ],
     "id": "e4339d92193b4e67259e"
+  },
+  {
+    "title": "Strengthening NATO and allied cyber defenses with AI",
+    "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-11-17T00:00:00+00:00",
+    "fetched_at": "2026-11-17T07:22:42+00:00",
+    "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+    "matched_keywords": [
+      "AI/KI",
+      "OpenAI"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); recent (+1.0); watchgraph region europe: NATO (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0ff148a3815af869a130"
   },
   {
     "title": "エレコム製無線LANルータにおける複数の脆弱性",

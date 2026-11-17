@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-17T07:15:40+00:00_
+_Generiert: 2026-11-17T07:23:05+00:00_
 
 ## Kurzlage
 
-30 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+31 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -75,7 +75,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-17T06:45:07+00:00`, fetched `2026-11-17T06:44:52+00:00`
+  - Zeit: published `2026-11-17T07:22:56+00:00`, fetched `2026-11-17T07:22:42+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -183,6 +183,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: I recently started one of my lectures at Nanyang Technological University (NTU) in Singapore by asking students to think about how education has changed over the past 30 years. When I was studying engineering at university, there was no internet. Information was difficult to access. We spent hours in libraries, reading textbooks, taking notes and […] The post AI is changing how we learn, work and invest. Venture cap…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Strengthening NATO and allied cyber defenses with AI** — Score 13, observation — [Quelle](https://openai.com/index/strengthening-nato-allied-cyber-defences-ai)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-11-17T00:00:00+00:00`, fetched `2026-11-17T07:22:42+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); recent (+1.0); watchgraph region europe: NATO (+2.0)
+  - Kurz: How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **エレコム製無線LANルータにおける複数の脆弱性** — Score 13, risk — [Quelle](https://jvn.jp/vu/JVNVU91615135/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`

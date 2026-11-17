@@ -1,17 +1,17 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-17T07:15:40+00:00_
+_Generated: 2026-11-17T07:23:05+00:00_
 
 ## Status
 - status: `normal`
-- findings: `30`
+- findings: `31`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-17T06:45:07+00:00`
+- published: `2026-11-17T07:22:56+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -50,18 +50,18 @@ _Generated: 2026-11-17T07:15:40+00:00_
 - url: https://e27.co/ai-is-changing-how-we-learn-work-and-invest-venture-capital-must-change-too-20261111/
 - summary: I recently started one of my lectures at Nanyang Technological University (NTU) in Singapore by asking students to think about how education has changed over the past 30 years. When I was studying engineering at university, there was no internet. Information…
 
-### 7. エレコム製無線LANルータにおける複数の脆弱性
+### 7. Strengthening NATO and allied cyber defenses with AI
+- source: OpenAI News RSS
+- score: `13`
+- published: `2026-11-17T00:00:00+00:00`
+- url: https://openai.com/index/strengthening-nato-allied-cyber-defences-ai
+- summary: How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.
+
+### 8. エレコム製無線LANルータにおける複数の脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `13`
 - published: `2025-07-22T12:15:00+09:00`
 - url: https://jvn.jp/vu/JVNVU91615135/
 - summary: エレコム株式会社が提供する無線LANルータには、複数の脆弱性が存在します。
-
-### 8. AI marketing research is moving from making content to choosing it, and Asian labs are leading
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-11-17T04:00:00+00:00`
-- url: https://e27.co/ai-marketing-research-is-moving-from-making-content-to-choosing-it-and-asian-labs-are-leading-20261116/
-- summary: My ACM Multimedia calendar in Rio came colour-coded: must-see, recommended, if time. When I counted the must-sees, the pattern was hard to miss. Most came from Asian labs, from Singapore, Shenzhen, Hefei, Hong Kong and Taipei, plus the research arms of JD, Al…
 
 END OF DOCUMENT
