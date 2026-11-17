@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-17T02:59:32+00:00_
+_Generiert: 2026-11-17T03:12:28+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „複数製品におけるmacOS（APFS）とのUnicode正規化不整合によるファイルアクセス制限回避の脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
+14 neue relevante Treffer. Stärkstes Signal: „複数製品におけるmacOS（APFS）とのUnicode正規化不整合によるファイルアクセス制限回避の脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
 
 ## Priorität Hoch
 
