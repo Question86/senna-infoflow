@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T23:35:47+00:00",
-  "run_id": "2026-11-17T23:35:47+00:00",
+  "generated_at": "2026-11-17T23:41:32+00:00",
+  "run_id": "2026-11-17T23:41:32+00:00",
   "date": "2026-11-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 104,
     "displayed_findings": 104,
     "high": 0,
@@ -4981,30 +4981,7 @@
       "id": "9243c5489a04ab9be121"
     }
   ],
-  "new_findings": [
-    {
-      "title": "フロントエンドの logic と UI は、エージェントの責任範囲で分けられるのか",
-      "url": "https://zenn.dev/xtm_blog/articles/20261116-fd1702b0ba06cd",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-17T06:46:55+00:00",
-      "fetched_at": "2026-11-17T23:35:17+00:00",
-      "summary": "こんにちは、クロステック・マネジメント Foundation Dept. 所属の水本です。 Foundation Dept. では、要求仕様書を渡すと、設計から実装、テスト、PR 作成までを AI エージェントが完走する開発基盤を作っています。 エージェントに工程を自律的に回させるための実行の仕組みを、私たちはエージェントハーネスと呼んで...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b4692b0250854902ca6f"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
