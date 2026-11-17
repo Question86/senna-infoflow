@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-17T05:55:26+00:00_
+_Generiert: 2026-11-17T06:01:04+00:00_
 
 ## Kurzlage
 
-23 neue relevante Treffer. Stärkstes Signal: „My spam folder found me a business lead. Here’s what else AI took off my plate“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+24 neue relevante Treffer. Stärkstes Signal: „My spam folder found me a business lead. Here’s what else AI took off my plate“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -100,6 +100,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region southeast_asia: Vietnam (+2.0)
   - Kurz: Southeast Asia is one of the most multilingual regions in the world, and one of the most motivated to learn more languages. In Vietnam alone, students prepare for English exams, factory engineers study Japanese for jobs in Japan, and office workers take Chinese or Korean classes after hours because a new client or employer speaks […] The post Lessons from building a multilingual AI learning platform in Southeast Asi…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **プリザンターにおける複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN02242982/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-11-17T15:00:00+09:00`, fetched `2026-11-17T06:00:23+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 株式会社インプリムが提供するプリザンターには、複数の脆弱性が存在します。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **エレコム製無線LANルータにおけるOSコマンドインジェクションの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU92504317/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-11-17T14:30:00+09:00`, fetched `2026-11-17T05:37:37+00:00`
@@ -117,15 +126,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **富士電機製TELLUSにおける複数の脆弱性（2026年11月）** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU97628215/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-11-17T09:50:00+09:00`, fetched `2026-11-17T00:54:41+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 富士電機株式会社が提供するTELLUSには、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T05:55:26+00:00",
-  "run_id": "2026-11-17T05:55:26+00:00",
+  "generated_at": "2026-11-17T06:01:04+00:00",
+  "run_id": "2026-11-17T06:01:04+00:00",
   "date": "2026-11-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 23
+      "configured_public_sources_only": 24
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 23,
-    "displayed_findings": 23,
+    "new_relevant_findings": 1,
+    "today_file_total": 24,
+    "displayed_findings": 24,
     "high": 0,
-    "medium": 6,
+    "medium": 7,
     "observe": 17,
     "source_errors": 0
   },
@@ -95,6 +95,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "abe7df74209f6f4facff"
+      },
+      {
+        "title": "プリザンターにおける複数の脆弱性",
+        "url": "https://jvn.jp/jp/JVN02242982/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-11-17T15:00:00+09:00",
+        "fetched_at": "2026-11-17T06:00:23+00:00",
+        "summary": "株式会社インプリムが提供するプリザンターには、複数の脆弱性が存在します。",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6ddda1ceb33d8e2a44b1"
       },
       {
         "title": "エレコム製無線LANルータにおけるOSコマンドインジェクションの脆弱性",
@@ -647,6 +669,28 @@
       "id": "abe7df74209f6f4facff"
     },
     {
+      "title": "プリザンターにおける複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN02242982/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-11-17T15:00:00+09:00",
+      "fetched_at": "2026-11-17T06:00:23+00:00",
+      "summary": "株式会社インプリムが提供するプリザンターには、複数の脆弱性が存在します。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6ddda1ceb33d8e2a44b1"
+    },
+    {
       "title": "エレコム製無線LANルータにおけるOSコマンドインジェクションの脆弱性",
       "url": "https://jvn.jp/vu/JVNVU92504317/",
       "source": "JVN Japan Vulnerability Notes",
@@ -1125,7 +1169,30 @@
       "id": "8d52a512e94f942d6646"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "プリザンターにおける複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN02242982/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-11-17T15:00:00+09:00",
+      "fetched_at": "2026-11-17T06:00:23+00:00",
+      "summary": "株式会社インプリムが提供するプリザンターには、複数の脆弱性が存在します。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6ddda1ceb33d8e2a44b1"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
