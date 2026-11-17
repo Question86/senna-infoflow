@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-17T07:35:52+00:00",
+  "generated_at": "2026-11-17T07:41:08+00:00",
   "topics": {
     "ai": [
       {
@@ -237,6 +237,13 @@
         "published_at": "2026-11-17T02:22:42.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyq5"
+      },
+      {
+        "title": "位置情報「流出」のルート 売買されるあなたの居場所",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-16T18:59:13+00:00",
+        "relevance_score": 7,
+        "url": "https://vdata.nikkei.com/newsgraphics/location-data-leaks-route/"
       },
       {
         "title": "古川大臣記者会見（令和8年11月17日）動画を掲載しました",

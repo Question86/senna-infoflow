@@ -621,6 +621,27 @@
     "id": "956d357dfb3e45418ef8"
   },
   {
+    "title": "位置情報「流出」のルート 売買されるあなたの居場所",
+    "url": "https://vdata.nikkei.com/newsgraphics/location-data-leaks-route/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-11-16T18:59:13+00:00",
+    "fetched_at": "2026-11-17T07:40:41+00:00",
+    "summary": "個人のプライバシーに深く関わるスマートフォンの位置情報。日本国内のデータが「商品」として海外市場に流れている。アプリの裏側で起きる不透明な流出ルートに迫った。",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f2671d632ceaedf65ddd"
+  },
+  {
     "title": "Evaluating investment risks in southeast Asia data centres",
     "url": "https://e27.co/evaluating-investment-risks-in-southeast-asia-data-centres-20261111/",
     "source": "e27 Asia Startup and Tech Feed",
