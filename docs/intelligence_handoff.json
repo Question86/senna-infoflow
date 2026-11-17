@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-17T06:26:45Z",
+  "generated_at": "2026-11-17T06:39:24Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “プリザンターにおける複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/jp/JVN02242982/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-17T15:00:00+09:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/vu/JVNVU92504317/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-17T14:30:00+09:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -63,7 +63,7 @@
       "url": "https://jvn.jp/vu/JVNVU97628215/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-17T09:50:00+09:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -87,7 +87,7 @@
       "url": "https://openai.com/business/customer-stories/revolut",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-16T09:30:00+00:00",
-      "age_days": 0.87,
+      "age_days": 0.88,
       "topics": [
         "ai",
         "security"
@@ -114,7 +114,7 @@
       "url": "https://jvn.jp/vu/JVNVU93605944/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-17T10:15:00+09:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -140,7 +140,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 151.19,
+      "age_days": 151.2,
       "topics": [
         "ai"
       ],
@@ -165,11 +165,40 @@
       "summary": ""
     },
     {
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "published_at": "2026-11-17T06:35:57+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai",
+        "macro",
+        "disaster"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: earthquake",
+        "high terms: rce",
+        "security high-signal: rce",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan"
+    },
+    {
       "title": "My spam folder found me a business lead. Here’s what else AI took off my plate",
       "url": "https://e27.co/my-spam-folder-found-me-a-business-lead-heres-what-else-ai-took-off-my-plate-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-17T04:00:12+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "security",
@@ -197,7 +226,7 @@
       "url": "https://jvn.jp/vu/JVNVU91615135/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2025-07-22T12:15:00+09:00",
-      "age_days": 483.13,
+      "age_days": 483.14,
       "topics": [
         "security"
       ],
@@ -222,7 +251,7 @@
       "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-17T00:09:27+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -246,7 +275,7 @@
       "url": "https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-16T19:48:33+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "macro"
       ],
@@ -289,33 +318,6 @@
         "early terms: earthquake"
       ],
       "summary": "Time 2026-11-17 03:52:32 UTC 2026-11-17 03:52:32 UTC at epicenter Location 15.005°S 167.314°E Depth 126.96 km (78.89 mi)"
-    },
-    {
-      "title": "AI marketing research is moving from making content to choosing it, and Asian labs are leading",
-      "url": "https://e27.co/ai-marketing-research-is-moving-from-making-content-to-choosing-it-and-asian-labs-are-leading-20261116/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-17T04:00:00+00:00",
-      "age_days": 0.1,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 9.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: code",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "My ACM Multimedia calendar in Rio came colour-coded: must-see, recommended, if time. When I counted the must-sees, the pattern was hard to miss. Most came from Asian labs, from Singapore, Shenzhen, Hefei, Hong Kong and Taipei, plus the research arms of JD, Alibaba, Kuaishou, ByteDance, OPPO and Ant. A TechNode profile…"
     }
   ],
   "read_order": [
@@ -327,9 +329,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 7,
-      "watch": 4,
-      "quiet": 1
+      "strong": 8,
+      "watch": 4
     }
   }
 }
