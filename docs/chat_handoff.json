@@ -1,97 +1,27 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-16T23:59:25+00:00",
+  "generated_at": "2026-11-17T00:26:58+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 70,
-    "displayed_findings": 70,
+    "today_file_total": 1,
+    "displayed_findings": 1,
     "high": 0,
-    "medium": 15,
-    "observe": 55
+    "medium": 0,
+    "observe": 1
   },
   "source_errors_count": 0,
   "top_signals": [
     {
-      "title": "Updates | ReliefWeb",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-11-16T23:59:15+00:00",
-      "relevance_score": 23,
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
-      "section": "medium"
-    },
-    {
-      "title": "[UPDATE] [hoch] Red Hat Ansible Automation Platform (GitPython): Mehrere Schwachstellen",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-11-16T09:28:39+00:00",
-      "relevance_score": 22,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4532",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Ansible Automation Platform ausnutzen, um beliebigen Programmcode auszuführen, sensible Inhalte lokaler Dateien offenzulegen und einen Denial-of-Service-Zustand auszulösen.",
-      "section": "medium"
-    },
-    {
-      "title": "Bulk start AI Scan for repositories",
+      "title": "Dependabot alert dismissal requests now last one year",
       "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-11-16T15:50:22+00:00",
-      "relevance_score": 20,
-      "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
-      "summary": "AI Scan for repositories finds security vulnerabilities on your repository’s default branch. It covers languages CodeQL doesn’t support and finds additional issues in languages CodeQL already analyzes. Findings appear in… The post Bulk start AI Scan for repos…",
-      "section": "medium"
-    },
-    {
-      "title": "ag-ui-protocol/ag-ui",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "relevance_score": 19,
-      "url": "https://github.com/ag-ui-protocol/ag-ui",
-      "summary": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. https://ag-ui.com AG-UI: The Agent-User Interaction Protocol AG-UI is an open, lightweight, event-based protocol that standardizes how AI agents connect to user-facing applic…",
-      "section": "medium"
-    },
-    {
-      "title": "Is prompt engineering real AI development, or just good documentation?",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-16T06:00:03+00:00",
-      "relevance_score": 13,
-      "url": "https://e27.co/is-prompt-engineering-real-ai-development-or-just-good-documentation-20261111/",
-      "summary": "I’ve heard both answers from people I respect. One senior engineer told me prompt engineering is “writing a very long comment and hoping.” A teammate who ships LLM features for a living told me it’s the highest-leverage skill in AI development right now. Afte…",
-      "section": "observe"
-    },
-    {
-      "title": "Headlines that broke the script: The warning signs were inside the building — Part 1",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-16T04:00:24+00:00",
-      "relevance_score": 13,
-      "url": "https://e27.co/headlines-that-broke-the-script-the-warning-signs-were-inside-the-building-part-1-20261111/",
-      "summary": "The headlines OpenAI and Anthropic have been in lately range from okay, predictable to downright absurd. Chinese state hackers used Claude to spy. Fair. AI-powered cyber threats have been brewing for a while. OpenAI’s agents escaped a test and hacked Hugging…",
-      "section": "observe"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Microsoft Edge (12 novembre 2026)",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-11-12T00:00:00+00:00",
-      "relevance_score": 13,
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1510/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "section": "observe"
-    },
-    {
-      "title": "Warsh, Opening Remarks",
-      "source": "Federal Reserve Speeches and Testimony",
-      "source_type": "rss",
-      "published_at": "2026-11-16T17:00:00+00:00",
+      "published_at": "2026-11-17T00:09:27+00:00",
       "relevance_score": 12,
-      "url": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
-      "summary": "Speech At the Productivity and Jobs Task Force Conference, hosted by the Federal Reserve Board and the Federal Reserve Bank of San Francisco, San Francisco, California",
+      "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
+      "summary": "If you use delegated alert dismissal for Dependabot, dismissal requests now stay open for one year instead of one week. Reviewers have more time to respond before a request expires… The post Dependabot alert dismissal requests now last one year appeared first…",
       "section": "observe"
     }
   ],
@@ -100,146 +30,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “[UPDATE] [hoch] Red Hat Ansible Automation Platform (GitPython): Mehrere Schwachstellen” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=47.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "[UPDATE] [hoch] Red Hat Ansible Automation Platform (GitPython): Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4532",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-16T09:28:39+00:00",
-        "age_days": 0.61,
-        "topics": [
-          "axiom",
-          "security"
-        ],
-        "dynamics_score": 47.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Ansible Automation Platform ausnutzen, um beliebigen Programmcode auszuführen, sensible Inhalte lokaler Dateien offenzulegen und einen Denial-of-Service-Zustand auszulösen."
-      },
-      {
-        "title": "Warsh, Opening Remarks",
-        "url": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
-        "source": "Federal Reserve Speeches and Testimony",
-        "published_at": "2026-11-16T17:00:00+00:00",
-        "age_days": 0.3,
-        "topics": [
-          "axiom",
-          "macro"
-        ],
-        "dynamics_score": 37.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Speech At the Productivity and Jobs Task Force Conference, hosted by the Federal Reserve Board and the Federal Reserve Bank of San Francisco, San Francisco, California"
-      },
-      {
-        "title": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開",
-        "url": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-15T22:34:36+00:00",
-        "age_days": 1.06,
-        "topics": [
-          "axiom",
-          "ai"
-        ],
-        "dynamics_score": 35.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開 Cloudflareは、AIエージェントが操作することを想定した軽量のヘッドレスブラウザ「Kitesurf」をオープンソースで公開したと発表しました。 Kitesurf is now open source on GitHub under the Apache 2.0 lice..."
-      },
-      {
-        "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (crun, xfsprogs, glib-networking): Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4549",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-16T09:12:00+00:00",
-        "age_days": 0.62,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen, Dateien zu manipulieren, Berechtigungen zu erweitern oder beliebigen Code auszuführen."
-      },
-      {
-        "title": "[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4518",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-16T08:47:01+00:00",
-        "age_days": 0.64,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe, code",
-          "security high-signal: angriffe, code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome / Microsoft Edge ausnutzen, um möglicherweise beliebigen Code auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren, einen Denial-of-Service-Zustand auszulösen, Spoofing-Angriffe durchzuführen oder a…"
-      }
-    ]
-  }
+  ]
 }

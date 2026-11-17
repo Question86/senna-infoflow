@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-16T23:59:25+00:00_
+_Generiert: 2026-11-17T00:26:58+00:00_
 
 ## Kurzlage
 
-70 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+1 neue relevante Treffer. Stärkstes Signal: „Dependabot alert dismissal requests now last one year“ aus GitHub Changelog Atom (Score 12, observation).
 
 ## Priorität Hoch
 
@@ -12,277 +12,23 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
-- **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
-  - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-16T23:59:15+00:00`, fetched `2026-11-16T23:58:59+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
-  - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [hoch] Red Hat Ansible Automation Platform (GitPython): Mehrere Schwachstellen** — Score 22, opportunity — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4532)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-11-16T09:28:39+00:00`, fetched `2026-11-16T09:38:56+00:00`
-  - Treffer: APAC Trend Radar, Automatisierung, BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); Automatisierung (+5.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Ansible Automation Platform ausnutzen, um beliebigen Programmcode auszuführen, sensible Inhalte lokaler Dateien offenzulegen und einen Denial-of-Service-Zustand auszulösen.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Bulk start AI Scan for repositories** — Score 20, risk — [Quelle](https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-11-16T15:50:22+00:00`, fetched `2026-11-16T16:14:52+00:00`
-  - Treffer: AI/KI, CodeQL/Dependabot, GitHub, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CodeQL/Dependabot (+7.0); AI/KI (+3.8); Security (+6.0); GitHub (+2.0); recent (+1.0)
-  - Kurz: AI Scan for repositories finds security vulnerabilities on your repository’s default branch. It covers languages CodeQL doesn’t support and finds additional issues in languages CodeQL already analyzes. Findings appear in… The post Bulk start AI Scan for repositories appeared first on The GitHub Blog .
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **ag-ui-protocol/ag-ui** — Score 19, opportunity — [Quelle](https://github.com/ag-ui-protocol/ag-ui)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-11-16T08:36:08+00:00`
-  - Treffer: AI Agents, AI/KI, APAC Trend Radar, GitHub Trending, Watchgraph:ai_agents_workflow, Webentwicklung
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
-  - Kurz: AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. https://ag-ui.com AG-UI: The Agent-User Interaction Protocol AG-UI is an open, lightweight, event-based protocol that standardizes how AI agents connect to user-facing applications. Built for simplicity and flexibility, it enables seamless integration between AI agents, real time user context, and user interfaces. Join our Discord →…
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Meta wants to teach Singapore’s small businesses AI. It also wants them on WhatsApp** — Score 18, observation — [Quelle](https://e27.co/meta-wants-to-teach-singapores-small-businesses-ai-it-also-wants-them-on-whatsapp-20261116/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-16T11:01:26+00:00`, fetched `2026-11-16T11:01:24+00:00`
-  - Treffer: AI Agents, AI/KI, APAC Trend Radar, founder
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: SpeakEasy Lab is a two-person communication training business in Singapore, which means that when both founders are teaching, nobody is answering customers. Nobody human, at least. Routine enquiries that once waited an hour or more now get near-instant replies from Meta Business Agent, an AI agent running on WhatsApp and Messenger. The founders reckon it […] The post Meta wants to teach Singapore’s small businesses…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Barr, Some Potential Financial Stability Implications of Artificial Intelligence** — Score 17, opportunity — [Quelle](https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm)
-  - Quelle: Federal Reserve Speeches and Testimony / `rss`
-  - Zeit: published `2026-11-16T10:00:00+00:00`, fetched `2026-11-16T10:00:36+00:00`
-  - Treffer: AI/KI, Macro/Policy, speech, testimony
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); Macro/Policy (+6.2); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
-  - Kurz: Speech At the Seventh Annual Association for Computing Machinery International Conference on Artificial Intelligence in Finance, Milan, Italy
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **M 5.4 - 8 km SE of Anamizu, Japan** — Score 17, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyhr)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-11-16T04:35:20.113+00:00`, fetched `2026-11-16T04:37:22+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); ShakeMap (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: ShakeMap - III Time 2026-11-16 04:24:11 UTC 2026-11-16 04:24:11 UTC at epicenter Location 37.185°N 136.979°E Depth 286.10 km (177.77 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [hoch] Red Hat Enterprise Linux (crun, xfsprogs, glib-networking): Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4549)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-11-16T09:12:00+00:00`, fetched `2026-11-16T09:22:57+00:00`
-  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen, Dateien zu manipulieren, Berechtigungen zu erweitern oder beliebigen Code auszuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4518)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-11-16T08:47:01+00:00`, fetched `2026-11-16T08:51:09+00:00`
-  - Treffer: BSI, CERT-Bund, Microsoft, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Google Chrome / Microsoft Edge ausnutzen, um möglicherweise beliebigen Code auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren, einen Denial-of-Service-Zustand auszulösen, Spoofing-Angriffe durchzuführen oder andere, nicht näher spezifizierte Angriffe auszuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The King’s Trust and OpenAI launch £1m partnership** — Score 16, opportunity — [Quelle](https://openai.com/index/the-kings-trust-and-openai)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-11-16T00:00:00+00:00`, fetched `2026-11-16T11:55:38+00:00`
-  - Treffer: AI Agents, AI/KI, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); AI Agents (+5.0); recent (+1.0)
-  - Kurz: The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **M 6.6 - 151 km WSW of Tual, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tymu)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-11-16T21:25:49.040+00:00`, fetched `2026-11-16T21:29:35+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-11-16 21:11:17 UTC 2026-11-16 21:11:17 UTC at epicenter Location 6.029°S 131.446°E Depth 35.00 km (21.75 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Strengthening the fight against online child sexual abuse with new tools and support** — Score 15, mixed — [Quelle](https://openai.com/index/strengthening-online-child-safety)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-11-16T17:00:00+00:00`, fetched `2026-11-16T17:23:39+00:00`
-  - Treffer: OpenAI, safety, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+6.0); Security (+6.0); safety (+2.0); recent (+1.0)
-  - Kurz: New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.
-  - Handlung: Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
-- **M 5.0 - 68 km S of Sarangani, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyil)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-11-16T07:55:37.040+00:00`, fetched `2026-11-16T07:56:25+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-11-16 07:14:14 UTC 2026-11-16 07:14:14 UTC at epicenter Location 4.784°N 125.427°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **The hidden economics of returns in Southeast Asian e-commerce** — Score 14, risk — [Quelle](https://e27.co/the-hidden-economics-of-returns-in-southeast-asian-e-commerce-20261111/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-16T06:00:40+00:00`, fetched `2026-11-16T06:34:33+00:00`
-  - Treffer: APAC Trend Radar, Southeast Asia, Supply Chain Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Supply Chain Security (+8.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
-  - Kurz: A customer orders a product online, receives it and requests a refund. From the buyer’s perspective, the process may involve a few taps and a parcel handed to a courier. For the merchant, it can initiate a second supply chain involving transportation, inspection, reimbursement, inventory recovery and additional administrative work. This matters in Southeast Asia, […] The post The hidden economics of returns in South…
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+Keine neuen mittleren Treffer.
 
 ## Nur beobachten
 
-- **Is prompt engineering real AI development, or just good documentation?** — Score 13, observation — [Quelle](https://e27.co/is-prompt-engineering-real-ai-development-or-just-good-documentation-20261111/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-16T06:00:03+00:00`, fetched `2026-11-16T06:00:17+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Public Health
+- **Dependabot alert dismissal requests now last one year** — Score 12, observation — [Quelle](https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-11-17T00:09:27+00:00`, fetched `2026-11-17T00:26:28+00:00`
+  - Treffer: CodeQL/Dependabot, GitHub
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)
-  - Kurz: I’ve heard both answers from people I respect. One senior engineer told me prompt engineering is “writing a very long comment and hoping.” A teammate who ships LLM features for a living told me it’s the highest-leverage skill in AI development right now. After building a fair number of LLM-powered features, I think they’re both […] The post Is prompt engineering real AI development, or just good documentation? appea…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Headlines that broke the script: The warning signs were inside the building — Part 1** — Score 13, observation — [Quelle](https://e27.co/headlines-that-broke-the-script-the-warning-signs-were-inside-the-building-part-1-20261111/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-16T04:00:24+00:00`, fetched `2026-11-16T04:12:47+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: The headlines OpenAI and Anthropic have been in lately range from okay, predictable to downright absurd. Chinese state hackers used Claude to spy. Fair. AI-powered cyber threats have been brewing for a while. OpenAI’s agents escaped a test and hacked Hugging Face. That’s bizarre. Claude filed a fake murder tip with the Philadelphia police. WTF! […] The post Headlines that broke the script: The warning signs were ins…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Multiples vulnérabilités dans Microsoft Edge (12 novembre 2026)** — Score 13, observation — [Quelle](https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1510/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-11-12T00:00:00+00:00`, fetched `2026-11-16T14:33:50+00:00`
-  - Treffer: avis, CERT-FR, Microsoft, sécurité, vulnérabilité, éditeur
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0); Microsoft (+2.5)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Warsh, Opening Remarks** — Score 12, opportunity — [Quelle](https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm)
-  - Quelle: Federal Reserve Speeches and Testimony / `rss`
-  - Zeit: published `2026-11-16T17:00:00+00:00`, fetched `2026-11-16T17:06:12+00:00`
-  - Treffer: Macro/Policy, speech, testimony
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: San Francisco, Federal Reserve (+2.0)
-  - Kurz: Speech At the Productivity and Jobs Task Force Conference, hosted by the Federal Reserve Board and the Federal Reserve Bank of San Francisco, San Francisco, California
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Announcing 20260101 (MRO,liquidity providing), for 7 days deadline 09:30** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260101.en.html)
-  - Quelle: ECB Open Market Operations and Communication / `rss`
-  - Zeit: published `2026-11-16T14:40:27+00:00`, fetched `2026-11-16T14:49:02+00:00`
-  - Treffer: liquidity, Macro/Policy, open market operations
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Announcing 20260101 (MRO,liquidity providing), for 7 days deadline 09:30
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **LVMH’s Media Division announces strategic partnership with OpenAI** — Score 12, opportunity — [Quelle](https://openai.com/index/lvmh-media-division-partnership)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-11-16T09:00:00+00:00`, fetched `2026-11-16T09:55:31+00:00`
-  - Treffer: AI/KI, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); recent (+1.0)
-  - Kurz: LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **The Philippines can’t win the AI arms race, so it is betting on Taglish** — Score 12, observation — [Quelle](https://e27.co/the-philippines-cant-win-the-ai-arms-race-so-it-is-betting-on-taglish-20261116/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-16T04:52:11+00:00`, fetched `2026-11-16T04:56:35+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region usa: Silicon Valley (+2.0); watchgraph region southeast_asia: Philippines (+2.0)
-  - Kurz: Ask a Manila contact-centre agent what a caller means by “Pakicheck naman po ang bill ko, may extra charge yata” and she will answer before the sentence ends. Ask a model trained mostly on Silicon Valley’s internet and you may get a polite reply to the wrong question. That gap, between the language Filipinos actually […] The post The Philippines can’t win the AI arms race, so it is betting on Taglish appeared first…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **OpenAIもAnthropicも勧めるのになぜ流行らない？「AIへの指示は99%音声入力」のPdMに聞く活用術 - レバテックLAB** — Score 12, observation — [Quelle](https://levtech.jp/media/detail_972/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-16T01:34:47+00:00`, fetched `2026-11-16T02:37:05+00:00`
-  - Treffer: Hatena, hotentry, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 北國 悠人 プロダクトマネージャー。1991年生まれ。同志社大学在学中に起業を志し、卒業後は株式会社じげんに入社。その後ベルリンでスタートアップを共同創業し、プログラミング学習アプリを100カ国以上に展開。帰国後は株式会社ブレンドを共同創業し、ミールキット定期宅配サービス「TastyTable」を立ち上げ、2021年に...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **かくしてGoogleは詐欺師の楽園と化した » p2ptk[.]org** — Score 12, risk — [Quelle](https://p2ptk.org/monopoly/5688)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-15T21:09:29+00:00`, fetched `2026-11-16T01:20:39+00:00`
-  - Treffer: Hatena, hotentry, Reputationsrisiko
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Reputationsrisiko (+7.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 以下の文章は、コリイ・ドクトロウの「Google is a scammer’s paradise」という記事を翻訳したものである。 Pluralistic 「邪悪になるな」など忘れてしまえ。Googleの真のモットーは、下劣なスパイダーマン主義、「大いなる力には、何の責任も伴わない」だ。インターネットの事実上の支配者は、不在地主なのだ。 Google―...
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Broadening access to AI for scientists** — Score 11, observation — [Quelle](https://openai.com/index/expanding-chatgpt-for-academic-researchers)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-11-16T17:00:00+00:00`, fetched `2026-11-16T17:23:39+00:00`
-  - Treffer: AI/KI, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)
-  - Kurz: We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.4 - 95 km WSW of Changuillo, Peru** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tykh)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-11-16T16:34:45.040+00:00`, fetched `2026-11-16T16:36:27+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-11-16 16:16:45 UTC 2026-11-16 16:16:45 UTC at epicenter Location 15.031°S 76.026°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Multiples vulnérabilités dans Microsoft Office (12 novembre 2026)** — Score 11, observation — [Quelle](https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1511/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-11-12T00:00:00+00:00`, fetched `2026-11-16T14:33:50+00:00`
-  - Treffer: avis, CERT-FR, Microsoft, sécurité, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans Microsoft Office. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données. Microsoft indique que la vulnérabilité...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Multiples vulnérabilités dans Microsoft .Net (12 novembre 2026)** — Score 11, observation — [Quelle](https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1512/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-11-12T00:00:00+00:00`, fetched `2026-11-16T14:33:50+00:00`
-  - Treffer: avis, CERT-FR, Microsoft, sécurité, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans Microsoft .Net. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Boris Vujčić: Risks and resilience in the euro area financial system** — Score 10, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-11-16T08:30:00+00:00`, fetched `2026-11-16T08:36:08+00:00`
-  - Treffer: euro area, Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Boris Vujčić: Risks and resilience in the euro area financial system
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「年齢で断らない」賃貸アパート 全戸に見守りWi-Fi 電波の変化で安否を検知** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35254951/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-16T07:53:04+00:00`, fetched `2026-11-16T09:38:56+00:00`
-  - Treffer: APAC Trend Radar, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 同社は、年齢や一人暮らしを理由に賃貸住宅への入居を断られる人に、住まいの選択肢を増やすことを目指すという。建物は木造2階建てで、専有面積は20.58～22.63平方メートル。東武スカイツリーラインの大袋駅から徒歩10分に位置する。 家族は専用アプリで日々の活動状況を確認できる。管理会社のスタッフが月1回、1時間...
+  - Warum relevant: CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)
+  - Kurz: If you use delegated alert dismissal for Dependabot, dismissal requests now stay open for one year instead of one week. Reviewers have more time to respond before a request expires… The post Dependabot alert dismissal requests now last one year appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
-- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
+- Keine direkte Handlung. Konfigurierte Quellen weiter prüfen.
 
 ## Erinnerungskandidaten
 
