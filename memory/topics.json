@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-17T01:58:59+00:00",
+  "generated_at": "2026-11-17T02:13:38+00:00",
   "topics": {
     "security": [
       {
@@ -67,6 +67,13 @@
         "published_at": "2026-11-17T01:28:57+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/speech/minister-261117-01"
+      },
+      {
+        "title": "軽量なマイクロVMでネイティブよりアプリを高速起動できる「Hyperlight-Unikraft」登場",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-16T19:05:37+00:00",
+        "relevance_score": 5,
+        "url": "https://www.publickey1.jp/blog/26/vmhyperlight-unikraft.html"
       }
     ],
     "economy": [
