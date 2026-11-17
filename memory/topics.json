@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-17T04:00:59+00:00",
+  "generated_at": "2026-11-17T04:15:07+00:00",
   "topics": {
     "ai": [
       {
@@ -68,11 +68,11 @@
         "url": "https://zenn.dev/gatechnologies/articles/8bdea59269eb10"
       },
       {
-        "title": "Why does thin volume matter more than the daily price headline?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-17T02:38:41+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/why-does-thin-volume-matter-more-than-the-daily-price-headline-20261117/"
+        "title": "AIバブル崩壊間近な現状、AIが人類を滅ぼせるわけねーだろ - サッとぶ",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-16T12:26:07+00:00",
+        "relevance_score": 5,
+        "url": "https://kei-1010.hatenablog.com/entry/2026/11/16/120828"
       }
     ],
     "economy": [
@@ -152,6 +152,13 @@
       }
     ],
     "general": [
+      {
+        "title": "M 4.9 - 26 km E of Port-Olry, Vanuatu",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-11-17T04:08:55.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyqi"
+      },
       {
         "title": "M 5.0 - 137 km SSE of Kirakira, Solomon Islands",
         "source": "USGS M4.5+ Earthquakes Past Hour",
