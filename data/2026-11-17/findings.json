@@ -564,6 +564,29 @@
     "id": "75a5e7b19447525c801e"
   },
   {
+    "title": "Waller, Considerations at the Intersection of Payments and Tokenized Markets",
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20261117a.htm",
+    "source": "Federal Reserve Speeches and Testimony",
+    "source_type": "rss",
+    "published_at": "2026-11-17T14:10:00+00:00",
+    "fetched_at": "2026-11-17T14:12:24+00:00",
+    "summary": "Speech At “Navigating the Future of Banking and Payments,” The Clearing House Annual Conference 2026, New York, New York",
+    "matched_keywords": [
+      "banking",
+      "Macro/Policy",
+      "speech",
+      "testimony"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); banking (+2.0); recent (+1.0); watchgraph region usa: New York, Federal Reserve (+2.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e6ad382627a73c658216"
+  },
+  {
     "title": "[NEU] [kritisch] TYPO3 CMS Extension: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4611",
     "source": "BSI CERT-Bund Security Advisories",
