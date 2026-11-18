@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-18T02:10:18+00:00_
+_Generiert: 2026-11-18T02:30:29+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+11 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -23,7 +23,7 @@ Keine neuen Hochprioritäts-Treffer.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-18T02:10:06+00:00`, fetched `2026-11-18T02:09:48+00:00`
+  - Zeit: published `2026-11-18T02:30:17+00:00`, fetched `2026-11-18T02:29:52+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -96,14 +96,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: For most of human history, scientific progress has been limited by the amount of human attention available. A few decades ago, a scientist searching the literature could spend hours in a library scanning journal titles before deciding which papers justified the time needed to read them. Electronic databases and the internet transformed that process by […] The post AI will revolutionise science without requiring AI g…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ソフトウェアエンジニアの黄昏期をこう過ごそうと思う｜わかばめ** — Score 5, observation — [Quelle](https://note.com/wakabame/n/nc76b65a187bb)
+- **［速報］マイクロソフト、コーディング用AIモデルとして高性能かつ低価格「MAI Code 2」「MAI Code 2 Flash」発表** — Score 5, observation — [Quelle](https://www.publickey1.jp/blog/26/aimai_code_2mai_code_2_flash.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-17T13:10:43+00:00`, fetched `2026-11-18T00:51:36+00:00`
+  - Zeit: published `2026-11-17T23:16:58+00:00`, fetched `2026-11-18T02:29:52+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: コーディングエージェントが実用的なレベルに達し、私たちは抱えている仕事を圧倒的にこなせるようになった。一方で、ＡＩ自体のソフトウェアエンジニアリング能力が飛躍的に向上していることについて、職業上の危機感を覚えてしまう。上手くすれば相棒だが、ちょっとしたことで不倶戴天のライバルになりそうだ。 この記...
+  - Kurz: マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、同社が開発したコーディング用AIモデルのフラグシップで高性能かつ低価格を売り文句とする「MAI Code 2」と、さらに安価な「MAI Code 2 Flash」を発表しました。 競合と同等性能を低価格で提供 MAI Code 2とMAI Code 2 Flashは...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

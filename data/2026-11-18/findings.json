@@ -28,8 +28,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-18T02:10:06+00:00",
-    "fetched_at": "2026-11-18T02:09:48+00:00",
+    "published_at": "2026-11-18T02:30:17+00:00",
+    "fetched_at": "2026-11-18T02:29:52+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -63,7 +63,7 @@
       "HD",
       "LOW"
     ],
-    "id": "3df5c222ae881f32ffc3"
+    "id": "6d9117502c8c1090e026"
   },
   {
     "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月17日）",
@@ -231,6 +231,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "1629ce7cda6e5dab3153"
+  },
+  {
+    "title": "［速報］マイクロソフト、コーディング用AIモデルとして高性能かつ低価格「MAI Code 2」「MAI Code 2 Flash」発表",
+    "url": "https://www.publickey1.jp/blog/26/aimai_code_2mai_code_2_flash.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-11-17T23:16:58+00:00",
+    "fetched_at": "2026-11-18T02:29:52+00:00",
+    "summary": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、同社が開発したコーディング用AIモデルのフラグシップで高性能かつ低価格を売り文句とする「MAI Code 2」と、さらに安価な「MAI Code 2 Flash」を発表しました。 競合と同等性能を低価格で提供 MAI Code 2とMAI Code 2 Flashは...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "101962a13831580898e5"
   },
   {
     "title": "ソフトウェアエンジニアの黄昏期をこう過ごそうと思う｜わかばめ",
