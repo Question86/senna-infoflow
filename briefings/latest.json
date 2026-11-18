@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T04:16:38+00:00",
-  "run_id": "2026-11-18T04:16:38+00:00",
+  "generated_at": "2026-11-18T04:24:23+00:00",
+  "run_id": "2026-11-18T04:24:23+00:00",
   "date": "2026-11-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
+    "new_relevant_findings": 1,
     "today_file_total": 23,
     "displayed_findings": 23,
     "high": 0,
@@ -58,8 +58,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-18T04:16:27+00:00",
-        "fetched_at": "2026-11-18T04:16:08+00:00",
+        "published_at": "2026-11-18T04:24:10+00:00",
+        "fetched_at": "2026-11-18T04:23:52+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -93,7 +93,7 @@
           "HD",
           "LOW"
         ],
-        "id": "666ecb3883be337b6400"
+        "id": "66bfe4cf83b25f93a6fa"
       },
       {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月17日）",
@@ -635,8 +635,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T04:16:27+00:00",
-      "fetched_at": "2026-11-18T04:16:08+00:00",
+      "published_at": "2026-11-18T04:24:10+00:00",
+      "fetched_at": "2026-11-18T04:23:52+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -670,7 +670,7 @@
         "HD",
         "LOW"
       ],
-      "id": "666ecb3883be337b6400"
+      "id": "66bfe4cf83b25f93a6fa"
     },
     {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月17日）",
@@ -1185,8 +1185,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T04:16:27+00:00",
-      "fetched_at": "2026-11-18T04:16:08+00:00",
+      "published_at": "2026-11-18T04:24:10+00:00",
+      "fetched_at": "2026-11-18T04:23:52+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1220,69 +1220,7 @@
         "HD",
         "LOW"
       ],
-      "id": "666ecb3883be337b6400"
-    },
-    {
-      "title": "Why I filed a consumer complaint against 7 global AI giants over the ‘linguistic tax’",
-      "url": "https://e27.co/why-i-filed-a-consumer-complaint-against-7-global-ai-giants-over-the-linguistic-tax-20261111/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-18T04:00:26+00:00",
-      "fetched_at": "2026-11-18T04:16:08+00:00",
-      "summary": "When building production-grade enterprise artificial intelligence solutions in India, developers quickly confront an invisible financial penalty. Two users can submit the exact same prompt, identical in meaning and intent, to a commercial Large Language Model (LLM) API, yet one query will cost up to three times more to process than the other. The sole difference […] The post Why I filed a consumer complaint against…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region india: India (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9490462476774ed3fd7f"
-    },
-    {
-      "title": "Solana Foundation’s CoinGecko stake turns crypto’s scoreboard into a player",
-      "url": "https://e27.co/solana-foundations-coingecko-stake-turns-cryptos-scoreboard-into-a-player-20261118/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-18T04:10:18+00:00",
-      "fetched_at": "2026-11-18T04:16:08+00:00",
-      "summary": "For 12 years, CoinGecko has been crypto’s scoreboard: the place traders, developers and journalists checked to see which token was up, which exchange was padding its volumes and which “next big thing” had quietly gone to zero. On Tuesday, the scoreboard picked a team. At Solana’s Breakpoint conference in London, the Malaysia-born data platform announced […] The post Solana Foundation’s CoinGecko stake turns crypto’s…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region europe: London (+2.0); watchgraph region southeast_asia: Malaysia (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "07aa59bb205dead8ef6c"
-    },
-    {
-      "title": "楽天証券への不正アクセスについてまとめてみた - piyolog",
-      "url": "https://piyolog.hatenadiary.jp/entry/2026/11/18/100525",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-18T01:53:39+00:00",
-      "fetched_at": "2026-11-18T04:16:08+00:00",
-      "summary": "2026年11月17日、楽天証券は第三者による不正アクセスに伴い、保有する顧客情報の一部が漏えいした可能性があると公表しました。ここでは関連する情報をまとめます。 テスト環境から顧客情報漏えいのおそれ 楽天証券は11月16日に一部システムへの第三者による不正アクセスの可能性を検知し、該当箇所へのアクセスを遮断...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b4aa2ec58b2c8e4b598e"
+      "id": "66bfe4cf83b25f93a6fa"
     }
   ],
   "source_errors": [],
