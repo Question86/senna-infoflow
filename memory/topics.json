@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-18T06:17:35+00:00",
+  "generated_at": "2026-11-18T06:33:49+00:00",
   "topics": {
     "security": [
       {
@@ -44,7 +44,7 @@
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-11-18T06:17:24+00:00",
+        "published_at": "2026-11-18T06:27:21+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -68,6 +68,13 @@
         "published_at": "2026-11-18T05:00:06+00:00",
         "relevance_score": 15,
         "url": "https://e27.co/high-performing-teams-dont-avoid-conflict-they-know-how-to-lead-through-it-20261111/"
+      },
+      {
+        "title": "Singapore’s Botsync takes its Physical AI pitch to the US with US$11M in fresh funding",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-18T06:23:28+00:00",
+        "relevance_score": 13,
+        "url": "https://e27.co/singapores-botsync-takes-its-physical-ai-pitch-to-the-us-with-us11m-in-fresh-funding-20261118/"
       },
       {
         "title": "Why I filed a consumer complaint against 7 global AI giants over the ‘linguistic tax’",
@@ -103,13 +110,6 @@
         "published_at": "2026-11-18T05:00:57+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/ai-makes-video-production-faster-the-real-test-is-how-teams-handle-feedback-20261111/"
-      },
-      {
-        "title": "GITEX GLOBAL 2026: The race to bring AI out of the cloud and into the physical world",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-18T02:54:17+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/gitex-global-2026-the-race-to-bring-ai-out-of-the-cloud-and-into-the-physical-world-20261118/"
       }
     ],
     "geopolitics": [
@@ -119,6 +119,13 @@
         "published_at": "2026-11-18T04:36:31+00:00",
         "relevance_score": 23,
         "url": "https://e27.co/google-catches-ai-agents-hacking-with-no-human-in-the-loop-20261118/"
+      },
+      {
+        "title": "Singapore’s Botsync takes its Physical AI pitch to the US with US$11M in fresh funding",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-18T06:23:28+00:00",
+        "relevance_score": 13,
+        "url": "https://e27.co/singapores-botsync-takes-its-physical-ai-pitch-to-the-us-with-us11m-in-fresh-funding-20261118/"
       },
       {
         "title": "Singapore’s wealth onboarding problem isn’t the review, it’s the back and forth",
@@ -136,6 +143,13 @@
       }
     ],
     "general": [
+      {
+        "title": "M 5.9 - 85 km WNW of San Juan, Peru",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-11-18T06:31:46.897+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyy8"
+      },
       {
         "title": "M 4.8 - 67 km NNE of Ruteng, Indonesia",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -198,13 +212,6 @@
         "published_at": "2026-11-16T01:04:11+00:00",
         "relevance_score": 9,
         "url": "https://note.com/unsoluble_sugar/n/n58c97b4dee67"
-      },
-      {
-        "title": "Solana Foundation’s CoinGecko stake turns crypto’s scoreboard into a player",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-18T04:10:18+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/solana-foundations-coingecko-stake-turns-cryptos-scoreboard-into-a-player-20261118/"
       }
     ],
     "github": [
