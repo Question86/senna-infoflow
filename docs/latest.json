@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T05:17:04+00:00",
-  "run_id": "2026-11-18T05:17:04+00:00",
+  "generated_at": "2026-11-18T05:24:30+00:00",
+  "run_id": "2026-11-18T05:24:30+00:00",
   "date": "2026-11-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 1,
     "today_file_total": 30,
     "displayed_findings": 30,
     "high": 0,
@@ -58,8 +58,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-18T05:14:06+00:00",
-        "fetched_at": "2026-11-18T05:16:37+00:00",
+        "published_at": "2026-11-18T05:24:18+00:00",
+        "fetched_at": "2026-11-18T05:23:59+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -93,7 +93,7 @@
           "HD",
           "LOW"
         ],
-        "id": "de6d58eed6541849ae73"
+        "id": "cf5a78e424eef3223f83"
       },
       {
         "title": "Google catches AI agents hacking with no human in the loop",
@@ -842,8 +842,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T05:14:06+00:00",
-      "fetched_at": "2026-11-18T05:16:37+00:00",
+      "published_at": "2026-11-18T05:24:18+00:00",
+      "fetched_at": "2026-11-18T05:23:59+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -877,7 +877,7 @@
         "HD",
         "LOW"
       ],
-      "id": "de6d58eed6541849ae73"
+      "id": "cf5a78e424eef3223f83"
     },
     {
       "title": "Google catches AI agents hacking with no human in the loop",
@@ -1599,8 +1599,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T05:14:06+00:00",
-      "fetched_at": "2026-11-18T05:16:37+00:00",
+      "published_at": "2026-11-18T05:24:18+00:00",
+      "fetched_at": "2026-11-18T05:23:59+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1634,29 +1634,7 @@
         "HD",
         "LOW"
       ],
-      "id": "de6d58eed6541849ae73"
-    },
-    {
-      "title": "Singapore fintechs are pouring money into AI. The returns are not keeping up",
-      "url": "https://e27.co/singapore-fintechs-are-pouring-money-into-ai-the-returns-are-not-keeping-up-20261118/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-18T05:12:32+00:00",
-      "fetched_at": "2026-11-18T05:16:37+00:00",
-      "summary": "Walk into almost any Singapore fintech today and you will find AI somewhere: writing code, sorting support tickets, flagging suspect transactions. What you are far less likely to find is an AI agent trusted to approve a loan or move a client’s savings without a human hovering over the button. That is the uncomfortable split […] The post Singapore fintechs are pouring money into AI. The returns are not keeping up app…",
-      "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a2a2ccbebfa4915c0cf2"
+      "id": "cf5a78e424eef3223f83"
     }
   ],
   "source_errors": [],
