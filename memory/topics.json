@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-18T08:51:08+00:00",
+  "generated_at": "2026-11-18T08:56:13+00:00",
   "topics": {
     "security": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-11-18T09:00:15+09:00",
         "relevance_score": 23,
         "url": "https://jvn.jp/vu/JVNVU96847970/"
+      },
+      {
+        "title": "[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-18T08:52:01+00:00",
+        "relevance_score": 23,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4628"
       },
       {
         "title": "Google catches AI agents hacking with no human in the loop",
@@ -40,6 +47,20 @@
         "url": "https://jvn.jp/vu/JVNVU99608534/"
       },
       {
+        "title": "[NEU] [hoch] Oracle Siebel CRM: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-18T08:52:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4629"
+      },
+      {
+        "title": "[NEU] [hoch] Oracle VM VirtualBox: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-18T08:52:00+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4627"
+      },
+      {
         "title": "[UPDATE] [mittel] Kicad: Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-18T08:48:12+00:00",
@@ -52,30 +73,16 @@
         "published_at": "2026-11-18T08:48:11+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4533"
-      },
-      {
-        "title": "[NEU] [mittel] Oracle Financial Services Applications: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-18T08:37:00+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4619"
-      },
-      {
-        "title": "[NEU] [mittel] Oracle Construction and Engineering: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-18T08:27:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4615"
-      },
-      {
-        "title": "[NEU] [mittel] Oracle Commerce: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-18T08:27:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4617"
       }
     ],
     "ai": [
+      {
+        "title": "[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-18T08:52:01+00:00",
+        "relevance_score": 23,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4628"
+      },
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
@@ -89,6 +96,13 @@
         "published_at": "2026-11-18T04:36:31+00:00",
         "relevance_score": 23,
         "url": "https://e27.co/google-catches-ai-agents-hacking-with-no-human-in-the-loop-20261118/"
+      },
+      {
+        "title": "Cheques, bans and bell-ringing: 50 Asian AI companies that defined 2026",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-18T08:51:14+00:00",
+        "relevance_score": 18,
+        "url": "https://e27.co/cheques-bans-and-bell-ringing-50-asian-ai-companies-that-defined-2026-20261118/"
       },
       {
         "title": "Singapore fintechs are pouring money into AI. The returns are not keeping up",
@@ -131,29 +145,36 @@
         "published_at": "2026-11-18T03:00:44+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/singapores-wealth-onboarding-problem-isnt-the-review-its-the-back-and-forth-20261111/"
-      },
-      {
-        "title": "Google「Gemini Notebook」、業務ツールを生成できる新機能",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-17T07:22:06+00:00",
-        "relevance_score": 10,
-        "url": "https://japan.cnet.com/article/35254996/"
-      },
-      {
-        "title": "AI slop as a business and climate hazard, and a chance to lead",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-18T06:00:43+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/ai-slop-as-a-business-and-climate-hazard-and-a-chance-to-lead-20261111/"
       }
     ],
     "geopolitics": [
+      {
+        "title": "[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-18T08:52:01+00:00",
+        "relevance_score": 23,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4628"
+      },
       {
         "title": "Google catches AI agents hacking with no human in the loop",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-11-18T04:36:31+00:00",
         "relevance_score": 23,
         "url": "https://e27.co/google-catches-ai-agents-hacking-with-no-human-in-the-loop-20261118/"
+      },
+      {
+        "title": "[NEU] [hoch] Oracle Siebel CRM: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-18T08:52:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4629"
+      },
+      {
+        "title": "[NEU] [hoch] Oracle VM VirtualBox: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-18T08:52:00+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4627"
       },
       {
         "title": "[NEU] [mittel] Oracle Financial Services Applications: Mehrere Schwachstellen",
@@ -196,27 +217,22 @@
         "published_at": "2026-11-18T08:27:00+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4613"
-      },
+      }
+    ],
+    "github": [
       {
-        "title": "[NEU] [hoch] Oracle E-Business Suite: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-18T08:27:00+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4614"
-      },
-      {
-        "title": "[NEU] [hoch] Oracle Database Server: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-18T08:22:00+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4612"
-      },
-      {
-        "title": "Singapore’s Botsync takes its Physical AI pitch to the US with US$11M in fresh funding",
+        "title": "Cheques, bans and bell-ringing: 50 Asian AI companies that defined 2026",
         "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-18T06:23:28+00:00",
-        "relevance_score": 13,
-        "url": "https://e27.co/singapores-botsync-takes-its-physical-ai-pitch-to-the-us-with-us11m-in-fresh-funding-20261118/"
+        "published_at": "2026-11-18T08:51:14+00:00",
+        "relevance_score": 18,
+        "url": "https://e27.co/cheques-bans-and-bell-ringing-50-asian-ai-companies-that-defined-2026-20261118/"
+      },
+      {
+        "title": "Singapore’s wealth onboarding problem isn’t the review, it’s the back and forth",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-18T03:00:44+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/singapores-wealth-onboarding-problem-isnt-the-review-its-the-back-and-forth-20261111/"
       }
     ],
     "general": [
@@ -319,15 +335,6 @@
         "published_at": "2026-11-18T03:02:21+00:00",
         "relevance_score": 4,
         "url": "https://e27.co/92-of-tracked-whales-are-short-why-bitcoin-at-us64752-is-a-trap-for-both-sides-20261118/"
-      }
-    ],
-    "github": [
-      {
-        "title": "Singapore’s wealth onboarding problem isn’t the review, it’s the back and forth",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-18T03:00:44+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/singapores-wealth-onboarding-problem-isnt-the-review-its-the-back-and-forth-20261111/"
       }
     ]
   }
