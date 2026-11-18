@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-18T05:37:20+00:00_
+_Generated: 2026-11-18T05:42:14+00:00_
 
 ## Status
 - status: `normal`
-- findings: `30`
+- findings: `31`
 
 ## Top Signals
 
@@ -18,7 +18,7 @@ _Generated: 2026-11-18T05:37:20+00:00_
 ### 2. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-18T05:32:03+00:00`
+- published: `2026-11-18T05:41:57+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -57,11 +57,11 @@ _Generated: 2026-11-18T05:37:20+00:00_
 - url: https://japan.cnet.com/article/35254996/
 - summary: Googleは11月16日、AIノートツール「Gemini Notebook」で、手持ちの資料から、操作しながら学んだり情報を確認したりできるウェブサイトを生成する機能の提供を開始した。18歳以上を対象に、Google Workspaceの契約者を含むウェブ版の利用者へ世界各地で順次展開する。
 
-### 8. M 5.8 - 99 km ESE of Madang, Papua New Guinea
+### 8. M 5.2 - Galapagos Triple Junction region
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
-- published: `2026-11-18T03:55:54.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyx2
-- summary: Time 2026-11-18 03:42:34 UTC 2026-11-18 03:42:34 UTC at epicenter Location 5.701°S 146.548°E Depth 52.29 km (32.49 mi)
+- published: `2026-11-18T05:38:36.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyxz
+- summary: Time 2026-11-18 05:25:43 UTC 2026-11-18 05:25:43 UTC at epicenter Location 0.435°N 103.084°W Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT

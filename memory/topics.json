@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-18T05:37:20+00:00",
+  "generated_at": "2026-11-18T05:42:14+00:00",
   "topics": {
     "security": [
       {
@@ -44,7 +44,7 @@
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-11-18T05:32:03+00:00",
+        "published_at": "2026-11-18T05:41:57+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -158,6 +158,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tywx"
       },
       {
+        "title": "M 5.2 - Galapagos Triple Junction region",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-11-18T05:38:36.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyxz"
+      },
+      {
         "title": "M 5.8 - 99 km ESE of Madang, Papua New Guinea",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-11-18T03:55:54.040+00:00",
@@ -198,13 +205,6 @@
         "published_at": "2026-11-18T01:53:39+00:00",
         "relevance_score": 5,
         "url": "https://piyolog.hatenadiary.jp/entry/2026/11/18/100525"
-      },
-      {
-        "title": "日本郵便が挑む「住所の正規化」――日本国内の住所を7桁の英数字で表す「デジタルアドレス」で、表記揺れや記入の面倒を無くす【地図と位置情報】",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-17T23:00:37+00:00",
-        "relevance_score": 5,
-        "url": "https://internet.watch.impress.co.jp/docs/column/chizu3/2152316.html"
       }
     ],
     "github": [
