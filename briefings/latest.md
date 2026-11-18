@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-18T02:37:32+00:00_
+_Generiert: 2026-11-18T02:43:04+00:00_
 
 ## Kurzlage
 
@@ -57,10 +57,10 @@ _Generiert: 2026-11-18T02:37:32+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:469.881km) in Fiji 15/11/2026 05:15 UTC, Few people affected in 100km.
-- **USGS earthquake M5.9 - 151 km SSW of Merizo Village, Guam** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/pt26322050)
+- **USGS earthquake M5.8 - 150 km SW of Merizo Village, Guam** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tywi)
   - Quelle: USGS
-  - Zeit: `2026-11-18T02:22:58+00:00`
-  - Kurz: M5.9 - 151 km SSW of Merizo Village, Guam. PAGER alert: none. Tsunami flag: 0.
+  - Zeit: `2026-11-18T02:22:56+00:00`
+  - Kurz: M5.8 - 150 km SW of Merizo Village, Guam. PAGER alert: none. Tsunami flag: 0.
 
 ## Wirtschaft global
 
