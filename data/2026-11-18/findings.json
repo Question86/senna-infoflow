@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-18T09:01:42+00:00",
-    "fetched_at": "2026-11-18T09:01:25+00:00",
+    "published_at": "2026-11-18T09:14:37+00:00",
+    "fetched_at": "2026-11-18T09:14:20+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "2162a33784313a986dfd"
+    "id": "570d0cf45aa8059135b7"
   },
   {
     "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -825,6 +825,27 @@
     "id": "eca32901d88827ffcb74"
   },
   {
+    "title": "Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
+    "source": "ECB Press Releases Speeches Interviews",
+    "source_type": "rss",
+    "published_at": "2026-11-18T09:00:00+00:00",
+    "fetched_at": "2026-11-18T09:14:20+00:00",
+    "summary": "Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook",
+    "matched_keywords": [
+      "AI/KI",
+      "Macro/Policy"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "AI/KI (+3.8); Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2d5447938b1033c154c0"
+  },
+  {
     "title": "Singapore’s Botsync takes its Physical AI pitch to the US with US$11M in fresh funding",
     "url": "https://e27.co/singapores-botsync-takes-its-physical-ai-pitch-to-the-us-with-us11m-in-fresh-funding-20261118/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -845,6 +866,40 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "610558ebede6e3569e42"
+  },
+  {
+    "title": "2026-021: High Severity Vulnerability in Java SE and OpenJDK",
+    "url": "https://cert.europa.eu/publications/security-advisories/2026-021/",
+    "source": "CERT-EU Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-18T10:11:05+00:00",
+    "fetched_at": "2026-11-18T09:14:20+00:00",
+    "summary": "On 17 November 2026, Oracle and the OpenJDK project released fixes for CVE-2026-114938, a high severity vulnerability in OpenJDK which could lead, under certain circumstances, in unauthenticated Remote Code Execution (RCE). CERT-EU recommends updating vulnerable version of OpenJDK, prioritising internet facing applications.",
+    "matched_keywords": [
+      "CERT-EU",
+      "Security",
+      "Watchgraph:cyber_active_exploitation"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Security (+7.5); CERT-EU (+2.0); watchgraph modules cyber_active_exploitation (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "cyber_active_exploitation"
+    ],
+    "watchgraph_reasons": [
+      "cyber_active_exploitation: RCE"
+    ],
+    "market_context": [
+      "CRWD",
+      "PANW",
+      "FTNT",
+      "ZS",
+      "OKTA",
+      "NET",
+      "S"
+    ],
+    "id": "1f482317b5beb2d4e9e7"
   },
   {
     "title": "Announcing 20260102 (OT,liquidity providing), for 8 days deadline 09:45",
@@ -931,6 +986,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "4cda7d7553e423657437"
+  },
+  {
+    "title": "Boris Vujčić: Financial Stability Review - November 2026",
+    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261118~86f1e8147e.en.pdf",
+    "source": "ECB Press Releases Speeches Interviews",
+    "source_type": "rss",
+    "published_at": "2026-11-18T09:00:00+00:00",
+    "fetched_at": "2026-11-18T09:14:20+00:00",
+    "summary": "Boris Vujčić: Financial Stability Review - November 2026",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d7724a77365d2a564a7c"
   },
   {
     "title": "M 5.2 - Galapagos Triple Junction region",

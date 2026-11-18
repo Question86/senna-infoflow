@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-18T09:02:00+00:00_
+_Generiert: 2026-11-18T09:14:49+00:00_
 
 ## Kurzlage
 
-54 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+57 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -71,7 +71,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-18T09:01:42+00:00`, fetched `2026-11-18T09:01:25+00:00`
+  - Zeit: published `2026-11-18T09:14:37+00:00`, fetched `2026-11-18T09:14:20+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -198,6 +198,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook** — Score 13, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-11-18T09:00:00+00:00`, fetched `2026-11-18T09:14:20+00:00`
+  - Treffer: AI/KI, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Singapore’s Botsync takes its Physical AI pitch to the US with US$11M in fresh funding** — Score 13, observation — [Quelle](https://e27.co/singapores-botsync-takes-its-physical-ai-pitch-to-the-us-with-us11m-in-fresh-funding-20261118/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-18T06:23:28+00:00`, fetched `2026-11-18T06:33:13+00:00`
@@ -207,6 +216,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); funding (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: For most of its seven years, Botsync has been known for its heavy-duty robots that haul pallets around factory floors. Its new pitch is that the robots matter less than the software telling them what to do. The Singapore-headquartered robotics company has raised US$11 million in a round led by IvyCap Ventures, with participation from […] The post Singapore’s Botsync takes its Physical AI pitch to the US with US$11M…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **2026-021: High Severity Vulnerability in Java SE and OpenJDK** — Score 12, risk — [Quelle](https://cert.europa.eu/publications/security-advisories/2026-021/)
+  - Quelle: CERT-EU Security Advisories / `rss`
+  - Zeit: published `2026-11-18T10:11:05+00:00`, fetched `2026-11-18T09:14:20+00:00`
+  - Treffer: CERT-EU, Security, Watchgraph:cyber_active_exploitation
+  - Watchgraph: cyber_active_exploitation
+  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: Security (+7.5); CERT-EU (+2.0); watchgraph modules cyber_active_exploitation (+3.0)
+  - Kurz: On 17 November 2026, Oracle and the OpenJDK project released fixes for CVE-2026-114938, a high severity vulnerability in OpenJDK which could lead, under certain circumstances, in unauthenticated Remote Code Execution (RCE). CERT-EU recommends updating vulnerable version of OpenJDK, prioritising internet facing applications.
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Announcing 20260102 (OT,liquidity providing), for 8 days deadline 09:45** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260102.en.html)
   - Quelle: ECB Open Market Operations and Communication / `rss`
   - Zeit: published `2026-11-18T08:15:23+00:00`, fetched `2026-11-18T08:18:47+00:00`
@@ -242,6 +260,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: Googleは11月16日、AIノートツール「Gemini Notebook」で、手持ちの資料から、操作しながら学んだり情報を確認したりできるウェブサイトを生成する機能の提供を開始した。18歳以上を対象に、Google Workspaceの契約者を含むウェブ版の利用者へ世界各地で順次展開する。
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Boris Vujčić: Financial Stability Review - November 2026** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261118~86f1e8147e.en.pdf)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-11-18T09:00:00+00:00`, fetched `2026-11-18T09:14:20+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Boris Vujčić: Financial Stability Review - November 2026
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.2 - Galapagos Triple Junction region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyxz)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
