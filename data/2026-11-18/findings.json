@@ -2232,6 +2232,29 @@
     "id": "e9d56ecf1cae435a8345"
   },
   {
+    "title": "メインPCのローカルAIをVPN・ポート開放なしで外出先のHermes Agentから使えるように「Cloudflare Tunnel＋Access」を設定してみた",
+    "url": "https://gigazine.net/news/20261119-cloudflare-tunnel-local-ai/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-11-18T16:38:39+00:00",
+    "fetched_at": "2026-11-18T21:54:03+00:00",
+    "summary": "前回の記事ではGPUを搭載したWindows PCに「Ollama」と「Open WebUI」をインストールし、ブラウザからローカルAIを使える環境を構築しました。今回はこのローカルAIをほかのPCからも利用できるようにしていきます。 離れた場所にあるPC同士を接続する方法として前回の記事ではVPNを使用する予定にしていましたが、ユーザ...",
+    "matched_keywords": [
+      "agent",
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ee4c0b86f8780d60e407"
+  },
+  {
     "title": "Why I filed a consumer complaint against 7 global AI giants over the ‘linguistic tax’",
     "url": "https://e27.co/why-i-filed-a-consumer-complaint-against-7-global-ai-giants-over-the-linguistic-tax-20261111/",
     "source": "e27 Asia Startup and Tech Feed",
