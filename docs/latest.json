@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T22:45:31+00:00",
-  "run_id": "2026-11-18T22:45:31+00:00",
+  "generated_at": "2026-11-18T22:50:52+00:00",
+  "run_id": "2026-11-18T22:50:52+00:00",
   "date": "2026-11-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 1,
     "today_file_total": 139,
     "displayed_findings": 139,
     "high": 0,
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-18T22:40:37+00:00",
-        "fetched_at": "2026-11-18T22:45:00+00:00",
+        "published_at": "2026-11-18T22:48:47+00:00",
+        "fetched_at": "2026-11-18T22:50:25+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "261264120c094ccff96b"
+        "id": "5aa2b3763b549ae7fa3e"
       },
       {
         "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -3564,8 +3564,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T22:40:37+00:00",
-      "fetched_at": "2026-11-18T22:45:00+00:00",
+      "published_at": "2026-11-18T22:48:47+00:00",
+      "fetched_at": "2026-11-18T22:50:25+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -3599,7 +3599,7 @@
         "HD",
         "LOW"
       ],
-      "id": "261264120c094ccff96b"
+      "id": "5aa2b3763b549ae7fa3e"
     },
     {
       "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -7091,8 +7091,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T22:40:37+00:00",
-      "fetched_at": "2026-11-18T22:45:00+00:00",
+      "published_at": "2026-11-18T22:48:47+00:00",
+      "fetched_at": "2026-11-18T22:50:25+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -7126,54 +7126,7 @@
         "HD",
         "LOW"
       ],
-      "id": "261264120c094ccff96b"
-    },
-    {
-      "title": "Connect Supabase, Box, Calendly, and more to Copilot",
-      "url": "https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-11-18T22:04:50+00:00",
-      "fetched_at": "2026-11-18T22:45:00+00:00",
-      "summary": "You can now connect eight more services to Copilot using GitHub-verified MCP servers, or connectors, available in public preview. New services you can connect Box: Search and manage content, and… The post Connect Supabase, Box, Calendly, and more to Copilot appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "Copilot",
-        "GitHub",
-        "Watchgraph:ai_agents_workflow"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); GitHub (+2.0); Copilot (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: MCP, MCP server"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "e50d07dfdee656cb7b76"
+      "id": "5aa2b3763b549ae7fa3e"
     }
   ],
   "source_errors": [],
