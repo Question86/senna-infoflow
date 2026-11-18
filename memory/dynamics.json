@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-18T03:20:02Z",
+  "generated_at": "2026-11-18T03:32:02Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 21,
+    "dynamics": 22,
     "bands": {
       "krass": 2,
       "strong": 5,
       "watch": 3,
-      "quiet": 11
+      "quiet": 12
     },
     "bands_after_gate_recheck": {
       "strong": 7,
       "watch": 3,
-      "quiet": 11
+      "quiet": 12
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/jp/JVN19906678/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-18T12:00:00+09:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -71,7 +71,7 @@
       "url": "https://jvn.jp/vu/JVNVU99888632/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-18T09:00:00+09:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -96,7 +96,7 @@
       "url": "https://e27.co/singapores-wealth-onboarding-problem-isnt-the-review-its-the-back-and-forth-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-18T03:00:44+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai"
       ],
@@ -151,7 +151,7 @@
       "url": "https://jvn.jp/vu/JVNVU96847970/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-18T09:00:15+09:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -176,8 +176,8 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-11-18T03:11:59+00:00",
-      "age_days": 0.01,
+      "published_at": "2026-11-18T03:28:26+00:00",
+      "age_days": 0.0,
       "topics": [
         "ai",
         "macro",
@@ -206,7 +206,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tywi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-18T02:37:08.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -231,7 +231,7 @@
       "url": "https://e27.co/gitex-global-2026-the-race-to-bring-ai-out-of-the-cloud-and-into-the-physical-world-20261118/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-18T02:54:17+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
@@ -257,7 +257,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyw8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-18T01:14:41.502+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -281,7 +281,7 @@
       "url": "https://note.com/unsoluble_sugar/n/n58c97b4dee67",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-16T01:04:11+00:00",
-      "age_days": 2.09,
+      "age_days": 2.1,
       "topics": [
         "general"
       ],
@@ -331,7 +331,7 @@
       "url": "https://note.com/wakabame/n/nc76b65a187bb",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-17T13:10:43+00:00",
-      "age_days": 0.59,
+      "age_days": 0.6,
       "topics": [
         "general"
       ],
@@ -355,7 +355,7 @@
       "url": "https://e27.co/92-of-tracked-whales-are-short-why-bitcoin-at-us64752-is-a-trap-for-both-sides-20261118/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-18T03:02:21+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "macro"
       ],
@@ -379,7 +379,7 @@
       "url": "https://japan.cnet.com/article/35254996/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-17T07:22:06+00:00",
-      "age_days": 0.83,
+      "age_days": 0.84,
       "topics": [
         "ai"
       ],
@@ -404,7 +404,7 @@
       "url": "https://www.publickey1.jp/blog/26/aimai_code_2mai_code_2_flash.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-17T23:16:58+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -430,7 +430,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 151.02,
+      "age_days": 151.03,
       "topics": [
         "general"
       ],
@@ -455,7 +455,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 151.02,
+      "age_days": 151.03,
       "topics": [
         "general"
       ],
@@ -480,7 +480,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 151.02,
+      "age_days": 151.03,
       "topics": [
         "ai"
       ],
@@ -507,7 +507,7 @@
       "url": "https://e27.co/ai-will-revolutionise-science-without-requiring-ai-geniuses-20261116/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-18T01:00:36+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -532,7 +532,7 @@
       "url": "https://k-tai.watch.impress.co.jp/docs/news/2157313.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-18T01:35:05+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -551,6 +551,31 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "auから「INFOBAR ZERO」、通話・SMS専用で復活 12月25日発売"
+    },
+    {
+      "title": "部下がClaudeっぽいスライドしか出してこなくてウンザリしてる上司はこれを使わせなさい - Qiita",
+      "url": "https://qiita.com/nuco_d/items/b279477cbcdbe5921abd",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-17T05:33:02+00:00",
+      "age_days": 0.92,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "はじめに AIはプログラミングだけでなく、営業資料や発表資料まで作れるようになった。 部下に資料を頼むと、AIで作ったスライドが返ってくることも増えたのではないだろうか。 そして諸君は、そのスライドをひと目見てこう思ったはずだ。 「これ、生成AIで作ったでしょ？」 と。本記事では、AIのスライドがなぜ「Claude..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Androidアプリ「宮内庁参観音声ガイド- 宮内庁公式アプリ」における複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
