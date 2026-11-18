@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-18T22:34:35+00:00",
+  "generated_at": "2026-11-18T22:40:05+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-11-18T22:32:12+00:00",
+        "published_at": "2026-11-18T22:39:53+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -240,6 +240,13 @@
         "published_at": "2026-11-18T11:47:01+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4643"
+      },
+      {
+        "title": "Gemini 4 Neon in GitHub Copilot",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-11-18T21:49:21+00:00",
+        "relevance_score": 11,
+        "url": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot"
       },
       {
         "title": "Security risk assessments run automatically on GitHub Team",
