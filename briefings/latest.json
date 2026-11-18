@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T09:14:49+00:00",
-  "run_id": "2026-11-18T09:14:49+00:00",
+  "generated_at": "2026-11-18T09:22:38+00:00",
+  "run_id": "2026-11-18T09:22:38+00:00",
   "date": "2026-11-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 57
+      "configured_public_sources_only": 58
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 57,
-    "displayed_findings": 57,
+    "new_relevant_findings": 2,
+    "today_file_total": 58,
+    "displayed_findings": 58,
     "high": 0,
     "medium": 29,
-    "observe": 28,
+    "observe": 29,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-18T09:14:37+00:00",
-        "fetched_at": "2026-11-18T09:14:20+00:00",
+        "published_at": "2026-11-18T09:22:27+00:00",
+        "fetched_at": "2026-11-18T09:22:07+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "570d0cf45aa8059135b7"
+        "id": "64fc84db3c35b1b5d14e"
       },
       {
         "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -1331,6 +1331,26 @@
         "id": "1629ce7cda6e5dab3153"
       },
       {
+        "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+        "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-11-18T00:00:00+00:00",
+        "fetched_at": "2026-11-18T09:22:07+00:00",
+        "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+        "matched_keywords": [
+          "OpenAI"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7cf7734360e74bd55b95"
+      },
+      {
         "title": "N-able stopft attackierte Sicherheitslecks in N-central",
         "url": "https://www.heise.de/news/N-able-stopft-attackierte-Sicherheitslecks-in-N-central-11528739.html",
         "source": "heise Security Alerts",
@@ -1525,8 +1545,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T09:14:37+00:00",
-      "fetched_at": "2026-11-18T09:14:20+00:00",
+      "published_at": "2026-11-18T09:22:27+00:00",
+      "fetched_at": "2026-11-18T09:22:07+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1560,7 +1580,7 @@
         "HD",
         "LOW"
       ],
-      "id": "570d0cf45aa8059135b7"
+      "id": "64fc84db3c35b1b5d14e"
     },
     {
       "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -2820,6 +2840,26 @@
       "id": "1629ce7cda6e5dab3153"
     },
     {
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-11-18T00:00:00+00:00",
+      "fetched_at": "2026-11-18T09:22:07+00:00",
+      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "matched_keywords": [
+        "OpenAI"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7cf7734360e74bd55b95"
+    },
+    {
       "title": "N-able stopft attackierte Sicherheitslecks in N-central",
       "url": "https://www.heise.de/news/N-able-stopft-attackierte-Sicherheitslecks-in-N-central-11528739.html",
       "source": "heise Security Alerts",
@@ -3013,8 +3053,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T09:14:37+00:00",
-      "fetched_at": "2026-11-18T09:14:20+00:00",
+      "published_at": "2026-11-18T09:22:27+00:00",
+      "fetched_at": "2026-11-18T09:22:07+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -3048,82 +3088,27 @@
         "HD",
         "LOW"
       ],
-      "id": "570d0cf45aa8059135b7"
+      "id": "64fc84db3c35b1b5d14e"
     },
     {
-      "title": "Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "source": "OpenAI News RSS",
       "source_type": "rss",
-      "published_at": "2026-11-18T09:00:00+00:00",
-      "fetched_at": "2026-11-18T09:14:20+00:00",
-      "summary": "Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook",
+      "published_at": "2026-11-18T00:00:00+00:00",
+      "fetched_at": "2026-11-18T09:22:07+00:00",
+      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
       "matched_keywords": [
-        "AI/KI",
-        "Macro/Policy"
+        "OpenAI"
       ],
-      "relevance_score": 13,
-      "relevance_reason": "AI/KI (+3.8); Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 8,
+      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "2d5447938b1033c154c0"
-    },
-    {
-      "title": "2026-021: High Severity Vulnerability in Java SE and OpenJDK",
-      "url": "https://cert.europa.eu/publications/security-advisories/2026-021/",
-      "source": "CERT-EU Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-11-18T10:11:05+00:00",
-      "fetched_at": "2026-11-18T09:14:20+00:00",
-      "summary": "On 17 November 2026, Oracle and the OpenJDK project released fixes for CVE-2026-114938, a high severity vulnerability in OpenJDK which could lead, under certain circumstances, in unauthenticated Remote Code Execution (RCE). CERT-EU recommends updating vulnerable version of OpenJDK, prioritising internet facing applications.",
-      "matched_keywords": [
-        "CERT-EU",
-        "Security",
-        "Watchgraph:cyber_active_exploitation"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "Security (+7.5); CERT-EU (+2.0); watchgraph modules cyber_active_exploitation (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "cyber_active_exploitation"
-      ],
-      "watchgraph_reasons": [
-        "cyber_active_exploitation: RCE"
-      ],
-      "market_context": [
-        "CRWD",
-        "PANW",
-        "FTNT",
-        "ZS",
-        "OKTA",
-        "NET",
-        "S"
-      ],
-      "id": "1f482317b5beb2d4e9e7"
-    },
-    {
-      "title": "Boris Vujčić: Financial Stability Review - November 2026",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261118~86f1e8147e.en.pdf",
-      "source": "ECB Press Releases Speeches Interviews",
-      "source_type": "rss",
-      "published_at": "2026-11-18T09:00:00+00:00",
-      "fetched_at": "2026-11-18T09:14:20+00:00",
-      "summary": "Boris Vujčić: Financial Stability Review - November 2026",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d7724a77365d2a564a7c"
+      "id": "7cf7734360e74bd55b95"
     }
   ],
   "source_errors": [],

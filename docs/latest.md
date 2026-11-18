@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-18T09:14:49+00:00_
+_Generiert: 2026-11-18T09:22:38+00:00_
 
 ## Kurzlage
 
-57 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+58 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-18T09:14:37+00:00`, fetched `2026-11-18T09:14:20+00:00`
+  - Zeit: published `2026-11-18T09:22:27+00:00`, fetched `2026-11-18T09:22:07+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -249,6 +249,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Webentwicklung (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 仕組みを簡単に説明すると、WordPressはアクセスされるたびにサーバー側で処理を行ってページを表示しますが、静的サイトでは、あらかじめ作っておいたHTMLファイルをそのまま配信します。 毎回プログラムを動かす必要がないので、表示が速くなり、セキュリティ上のリスクも抑えられます。 サイトの置き場所には「Cloudf...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT** — Score 8, opportunity — [Quelle](https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-11-18T00:00:00+00:00`, fetched `2026-11-18T09:22:07+00:00`
+  - Treffer: OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); recent (+1.0)
+  - Kurz: Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **N-able stopft attackierte Sicherheitslecks in N-central** — Score 7, observation — [Quelle](https://www.heise.de/news/N-able-stopft-attackierte-Sicherheitslecks-in-N-central-11528739.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-11-18T07:48:00.000+00:00`, fetched `2026-11-18T07:56:33+00:00`
