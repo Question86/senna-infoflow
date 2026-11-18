@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T19:11:45+00:00",
-  "run_id": "2026-11-18T19:11:45+00:00",
+  "generated_at": "2026-11-18T19:22:48+00:00",
+  "run_id": "2026-11-18T19:22:48+00:00",
   "date": "2026-11-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 125
+      "configured_public_sources_only": 127
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 125,
-    "displayed_findings": 125,
+    "new_relevant_findings": 3,
+    "today_file_total": 127,
+    "displayed_findings": 127,
     "high": 0,
     "medium": 69,
-    "observe": 56,
+    "observe": 58,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-18T19:03:47+00:00",
-        "fetched_at": "2026-11-18T19:11:15+00:00",
+        "published_at": "2026-11-18T19:22:37+00:00",
+        "fetched_at": "2026-11-18T19:22:18+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "10dace3be4d074f9bf94"
+        "id": "7143705cf855def88b73"
       },
       {
         "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -2023,6 +2023,42 @@
         "id": "f2b0457bf19191a6854a"
       },
       {
+        "title": "M 4.5 - 23 km SSW of Ollagüe, Chile",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz33",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-11-18T19:12:25.040+00:00",
+        "fetched_at": "2026-11-18T19:22:18+00:00",
+        "summary": "Time 2026-11-18 18:46:53 UTC 2026-11-18 18:46:53 UTC at epicenter Location 21.411°S 68.368°W Depth 133.87 km (83.18 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "3191d2be1a65e2537cdb"
+      },
+      {
         "title": "Security risk assessments run automatically on GitHub Team",
         "url": "https://github.blog/changelog/2026-11-18-security-risk-assessments-run-automatically-on-github-team",
         "source": "GitHub Changelog Atom",
@@ -2900,6 +2936,27 @@
         "id": "38d361e739b965e72079"
       },
       {
+        "title": "Customize GitHub Copilot for your team",
+        "url": "https://github.blog/changelog/2026-11-18-customize-github-copilot-for-your-team",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-11-18T16:00:13+00:00",
+        "fetched_at": "2026-11-18T19:22:18+00:00",
+        "summary": "You can now share the GitHub Copilot plugins your team relies on without asking every member to repeat the same setup. Team customizations are generally available for organization teams. Team… The post Customize GitHub Copilot for your team appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "Copilot",
+          "GitHub"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3b9798590e489bb8a0fb"
+      },
+      {
         "title": "「ガチャを回すみたいに強盗する」裁判傍聴の民が実際に見てきたトクリュウの実態がしんどすぎる「普通に仕事しろ」",
         "url": "https://togetter.com/li/2772114",
         "source": "Hatena Bookmark Hotentry IT",
@@ -3179,8 +3236,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T19:03:47+00:00",
-      "fetched_at": "2026-11-18T19:11:15+00:00",
+      "published_at": "2026-11-18T19:22:37+00:00",
+      "fetched_at": "2026-11-18T19:22:18+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -3214,7 +3271,7 @@
         "HD",
         "LOW"
       ],
-      "id": "10dace3be4d074f9bf94"
+      "id": "7143705cf855def88b73"
     },
     {
       "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -5166,6 +5223,42 @@
       "id": "f2b0457bf19191a6854a"
     },
     {
+      "title": "M 4.5 - 23 km SSW of Ollagüe, Chile",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz33",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-18T19:12:25.040+00:00",
+      "fetched_at": "2026-11-18T19:22:18+00:00",
+      "summary": "Time 2026-11-18 18:46:53 UTC 2026-11-18 18:46:53 UTC at epicenter Location 21.411°S 68.368°W Depth 133.87 km (83.18 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "3191d2be1a65e2537cdb"
+    },
+    {
       "title": "Security risk assessments run automatically on GitHub Team",
       "url": "https://github.blog/changelog/2026-11-18-security-risk-assessments-run-automatically-on-github-team",
       "source": "GitHub Changelog Atom",
@@ -6043,6 +6136,27 @@
       "id": "38d361e739b965e72079"
     },
     {
+      "title": "Customize GitHub Copilot for your team",
+      "url": "https://github.blog/changelog/2026-11-18-customize-github-copilot-for-your-team",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-11-18T16:00:13+00:00",
+      "fetched_at": "2026-11-18T19:22:18+00:00",
+      "summary": "You can now share the GitHub Copilot plugins your team relies on without asking every member to repeat the same setup. Team customizations are generally available for organization teams. Team… The post Customize GitHub Copilot for your team appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3b9798590e489bb8a0fb"
+    },
+    {
       "title": "「ガチャを回すみたいに強盗する」裁判傍聴の民が実際に見てきたトクリュウの実態がしんどすぎる「普通に仕事しろ」",
       "url": "https://togetter.com/li/2772114",
       "source": "Hatena Bookmark Hotentry IT",
@@ -6321,8 +6435,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T19:03:47+00:00",
-      "fetched_at": "2026-11-18T19:11:15+00:00",
+      "published_at": "2026-11-18T19:22:37+00:00",
+      "fetched_at": "2026-11-18T19:22:18+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -6356,7 +6470,64 @@
         "HD",
         "LOW"
       ],
-      "id": "10dace3be4d074f9bf94"
+      "id": "7143705cf855def88b73"
+    },
+    {
+      "title": "M 4.5 - 23 km SSW of Ollagüe, Chile",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz33",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-18T19:12:25.040+00:00",
+      "fetched_at": "2026-11-18T19:22:18+00:00",
+      "summary": "Time 2026-11-18 18:46:53 UTC 2026-11-18 18:46:53 UTC at epicenter Location 21.411°S 68.368°W Depth 133.87 km (83.18 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "3191d2be1a65e2537cdb"
+    },
+    {
+      "title": "Customize GitHub Copilot for your team",
+      "url": "https://github.blog/changelog/2026-11-18-customize-github-copilot-for-your-team",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-11-18T16:00:13+00:00",
+      "fetched_at": "2026-11-18T19:22:18+00:00",
+      "summary": "You can now share the GitHub Copilot plugins your team relies on without asking every member to repeat the same setup. Team customizations are generally available for organization teams. Team… The post Customize GitHub Copilot for your team appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3b9798590e489bb8a0fb"
     }
   ],
   "source_errors": [],
