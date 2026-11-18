@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T08:45:10+00:00",
-  "run_id": "2026-11-18T08:45:10+00:00",
+  "generated_at": "2026-11-18T08:51:08+00:00",
+  "run_id": "2026-11-18T08:51:08+00:00",
   "date": "2026-11-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 47
+      "configured_public_sources_only": 49
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 47,
-    "displayed_findings": 47,
+    "new_relevant_findings": 3,
+    "today_file_total": 49,
+    "displayed_findings": 49,
     "high": 0,
-    "medium": 22,
+    "medium": 24,
     "observe": 25,
     "source_errors": 0
   },
@@ -58,8 +58,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-18T08:39:39+00:00",
-        "fetched_at": "2026-11-18T08:44:42+00:00",
+        "published_at": "2026-11-18T08:50:56+00:00",
+        "fetched_at": "2026-11-18T08:50:39+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -93,7 +93,7 @@
           "HD",
           "LOW"
         ],
-        "id": "dbad54ed268dd59bee60"
+        "id": "38917bea4681c77958e1"
       },
       {
         "title": "Google catches AI agents hacking with no human in the loop",
@@ -438,6 +438,52 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "35532ad99aa43c778e08"
+      },
+      {
+        "title": "[UPDATE] [mittel] Kicad: Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4580",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-18T08:48:12+00:00",
+        "fetched_at": "2026-11-18T08:50:39+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Kicad ausnutzen, um beliebigen Programmcode auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e3248402ccd28395c253"
+      },
+      {
+        "title": "[UPDATE] [hoch] Roundcube: Schwachstelle ermöglicht Manipulation von Dateien",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4533",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-18T08:48:11+00:00",
+        "fetched_at": "2026-11-18T08:50:39+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Roundcube ausnutzen, um Dateien zu manipulieren oder Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fc124fc9e48b2d698628"
       },
       {
         "title": "[NEU] [mittel] Oracle Financial Services Applications: Mehrere Schwachstellen",
@@ -1266,8 +1312,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T08:39:39+00:00",
-      "fetched_at": "2026-11-18T08:44:42+00:00",
+      "published_at": "2026-11-18T08:50:56+00:00",
+      "fetched_at": "2026-11-18T08:50:39+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1301,7 +1347,7 @@
         "HD",
         "LOW"
       ],
-      "id": "dbad54ed268dd59bee60"
+      "id": "38917bea4681c77958e1"
     },
     {
       "title": "Google catches AI agents hacking with no human in the loop",
@@ -1646,6 +1692,52 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "35532ad99aa43c778e08"
+    },
+    {
+      "title": "[UPDATE] [mittel] Kicad: Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4580",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-18T08:48:12+00:00",
+      "fetched_at": "2026-11-18T08:50:39+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Kicad ausnutzen, um beliebigen Programmcode auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e3248402ccd28395c253"
+    },
+    {
+      "title": "[UPDATE] [hoch] Roundcube: Schwachstelle ermöglicht Manipulation von Dateien",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4533",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-18T08:48:11+00:00",
+      "fetched_at": "2026-11-18T08:50:39+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Roundcube ausnutzen, um Dateien zu manipulieren oder Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fc124fc9e48b2d698628"
     },
     {
       "title": "[NEU] [mittel] Oracle Financial Services Applications: Mehrere Schwachstellen",
@@ -2447,8 +2539,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T08:39:39+00:00",
-      "fetched_at": "2026-11-18T08:44:42+00:00",
+      "published_at": "2026-11-18T08:50:56+00:00",
+      "fetched_at": "2026-11-18T08:50:39+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2482,16 +2574,16 @@
         "HD",
         "LOW"
       ],
-      "id": "dbad54ed268dd59bee60"
+      "id": "38917bea4681c77958e1"
     },
     {
-      "title": "[NEU] [mittel] Oracle Financial Services Applications: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4619",
+      "title": "[UPDATE] [mittel] Kicad: Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4580",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-11-18T08:37:00+00:00",
-      "fetched_at": "2026-11-18T08:44:42+00:00",
-      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Financial Services Applications ausnutzen, um die Vertraulichkeit und Integrität zu gefährden.",
+      "published_at": "2026-11-18T08:48:12+00:00",
+      "fetched_at": "2026-11-18T08:50:39+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Kicad ausnutzen, um beliebigen Programmcode auszuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2505,7 +2597,30 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "b798ac62364812f4de4d"
+      "id": "e3248402ccd28395c253"
+    },
+    {
+      "title": "[UPDATE] [hoch] Roundcube: Schwachstelle ermöglicht Manipulation von Dateien",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4533",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-18T08:48:11+00:00",
+      "fetched_at": "2026-11-18T08:50:39+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Roundcube ausnutzen, um Dateien zu manipulieren oder Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fc124fc9e48b2d698628"
     }
   ],
   "source_errors": [],
