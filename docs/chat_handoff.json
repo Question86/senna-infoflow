@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-18T01:05:09+00:00",
+  "generated_at": "2026-11-18T01:16:25+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 7,
-    "displayed_findings": 7,
+    "today_file_total": 8,
+    "displayed_findings": 8,
     "high": 0,
     "medium": 3,
-    "observe": 4
+    "observe": 5
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -28,7 +28,7 @@
       "title": "Updates | ReliefWeb",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T01:02:39+00:00",
+      "published_at": "2026-11-18T01:16:14+00:00",
       "relevance_score": 23,
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
@@ -55,6 +55,16 @@
       "section": "observe"
     },
     {
+      "title": "M 5.3 - 16 km W of Nereju Mic, Romania",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-18T01:14:41.502+00:00",
+      "relevance_score": 9,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyw8",
+      "summary": "DYFI? - IV Time 2026-11-18 00:48:56 UTC 2026-11-18 00:48:56 UTC at epicenter Location 45.680°N 26.489°E Depth 130.76 km (81.25 mi)",
+      "section": "observe"
+    },
+    {
       "title": "14年間使ってきたWordPressをやめて、個人ブログを作り直した話｜星影｜Tech Hunter",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
@@ -72,16 +82,6 @@
       "relevance_score": 8,
       "url": "https://e27.co/ai-will-revolutionise-science-without-requiring-ai-geniuses-20261116/",
       "summary": "For most of human history, scientific progress has been limited by the amount of human attention available. A few decades ago, a scientist searching the literature could spend hours in a library scanning journal titles before deciding which papers justified t…",
-      "section": "observe"
-    },
-    {
-      "title": "ソフトウェアエンジニアの黄昏期をこう過ごそうと思う｜わかばめ",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-17T13:10:43+00:00",
-      "relevance_score": 5,
-      "url": "https://note.com/wakabame/n/nc76b65a187bb",
-      "summary": "コーディングエージェントが実用的なレベルに達し、私たちは抱えている仕事を圧倒的にこなせるようになった。一方で、ＡＩ自体のソフトウェアエンジニアリング能力が飛躍的に向上していることについて、職業上の危機感を覚えてしまう。上手くすれば相棒だが、ちょっとしたことで不倶戴天のライバルになりそうだ。 この記...",
       "section": "observe"
     }
   ],
