@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-18T17:57:06+00:00_
+_Generiert: 2026-11-18T18:15:32+00:00_
 
 ## Kurzlage
 
-117 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+122 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -71,7 +71,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-18T17:46:18+00:00`, fetched `2026-11-18T17:46:01+00:00`
+  - Zeit: published `2026-11-18T18:12:50+00:00`, fetched `2026-11-18T18:15:04+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -195,6 +195,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 宮内庁が提供するAndroidアプリ「宮内庁参観音声ガイド- 宮内庁公式アプリ」には、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[MàJ] Vulnérabilités affectant OpenPrinting CUPS (27 septembre 2024)** — Score 14, observation — [Quelle](https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-012/)
+  - Quelle: CERT-FR Alertes / `rss`
+  - Zeit: published `2024-09-27T00:00:00+00:00`, fetched `2026-11-18T18:15:04+00:00`
+  - Treffer: alerte, attaque, CERT-FR, Security, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); CERT-FR (+2.0); alerte (+2.0); attaque (+2.0); vulnérabilité (+2.5)
+  - Kurz: **[Mise à jour du 10 octobre 2024]** Le 28 septembre 2024, Elastic Security Labs a publié des règles de détection au format propriétaire de l'éditeur (cf. section Documentation), qui sont confirmées par les analyses du CERT-FR pour la détection des attaques connues. **[Publication initiale]** De...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -233,6 +242,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Announcing 20260102 (OT,liquidity providing), for 8 days deadline 09:45
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Inside the Codex sandbox** — Score 12, observation — [Quelle](https://openai.com/index/inside-the-codex-sandbox)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-11-18T08:00:00+00:00`, fetched `2026-11-18T18:15:04+00:00`
+  - Treffer: OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Advancing chip design with OpenAI models** — Score 12, observation — [Quelle](https://openai.com/index/advancing-chip-design-with-our-models)
   - Quelle: OpenAI News RSS / `rss`
@@ -306,6 +324,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Singapore is racing to cut onboarding times for the ultra-wealthy. But the clients it most wants to win are often the ones getting stuck in the queue. In October 2025, Bank of Singapore rolled out an AI tool that, the bank says, cut the time to produce a source of wealth report from ten days […] The post Singapore’s wealth onboarding problem isn’t the review, it’s the back and forth appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **The Silent Consensus** — Score 10, observation — [Quelle](https://openai.com/index/the-silent-consensus)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-11-18T00:00:00+00:00`, fetched `2026-11-18T18:15:04+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)
+  - Kurz: Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Google「Gemini Notebook」、業務ツールを生成できる新機能** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35254996/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-17T07:22:06+00:00`, fetched `2026-11-18T00:35:58+00:00`
@@ -315,24 +342,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: Googleは11月16日、AIノートツール「Gemini Notebook」で、手持ちの資料から、操作しながら学んだり情報を確認したりできるウェブサイトを生成する機能の提供を開始した。18歳以上を対象に、Google Workspaceの契約者を含むウェブ版の利用者へ世界各地で順次展開する。
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Multiples vulnérabilités dans VMware Tanzu Greenplum (13 novembre 2026)** — Score 10, observation — [Quelle](https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1527/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-11-13T00:00:00+00:00`, fetched `2026-11-18T13:49:17+00:00`
-  - Treffer: avis, CERT-FR, sécurité, vulnérabilité, éditeur
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans VMware Tanzu Greenplum. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.3 - 149 km SSW of Merizo Village, Guam** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz1a)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-11-18T16:23:05.040+00:00`, fetched `2026-11-18T16:25:55+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-11-18 16:06:51 UTC 2026-11-18 16:06:51 UTC at epicenter Location 12.092°N 143.993°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen
 
