@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T21:26:01+00:00",
-  "run_id": "2026-11-18T21:26:01+00:00",
+  "generated_at": "2026-11-18T21:30:59+00:00",
+  "run_id": "2026-11-18T21:30:59+00:00",
   "date": "2026-11-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 1,
     "today_file_total": 132,
     "displayed_findings": 132,
     "high": 0,
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-18T21:23:12+00:00",
-        "fetched_at": "2026-11-18T21:25:32+00:00",
+        "published_at": "2026-11-18T21:23:56+00:00",
+        "fetched_at": "2026-11-18T21:30:33+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "b2c6740a9e8bc949243e"
+        "id": "638ad443acd3ef6b04a5"
       },
       {
         "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -3357,8 +3357,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T21:23:12+00:00",
-      "fetched_at": "2026-11-18T21:25:32+00:00",
+      "published_at": "2026-11-18T21:23:56+00:00",
+      "fetched_at": "2026-11-18T21:30:33+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -3392,7 +3392,7 @@
         "HD",
         "LOW"
       ],
-      "id": "b2c6740a9e8bc949243e"
+      "id": "638ad443acd3ef6b04a5"
     },
     {
       "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -6677,8 +6677,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T21:23:12+00:00",
-      "fetched_at": "2026-11-18T21:25:32+00:00",
+      "published_at": "2026-11-18T21:23:56+00:00",
+      "fetched_at": "2026-11-18T21:30:33+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -6712,29 +6712,7 @@
         "HD",
         "LOW"
       ],
-      "id": "b2c6740a9e8bc949243e"
-    },
-    {
-      "title": "XユーザーのSatoki@Kn0wl3dg3さん: 「弊社は世界中で使われているNGINXの最新版に、ログインなしでサーバーを乗っ取れる深刻な脆弱性「NGINX2Shell」を発見しました。@OpenAI との協力のもと、発見から報告まで一緒に進めていました。ちなみに、とあるバグバウンティイベントではこれが$300,000らしい💸 #NGINX2Shell」 / X",
-      "url": "https://x.com/satoki00/status/2123071303657910632",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-18T15:28:20+00:00",
-      "fetched_at": "2026-11-18T21:25:32+00:00",
-      "summary": "XユーザーのSatoki@Kn0wl3dg3さん: 「弊社は世界中で使われているNGINXの最新版に、ログインなしでサーバーを乗っ取れる深刻な脆弱性「NGINX2Shell」を発見しました。@OpenAI との協力のもと、発見から報告まで一緒に進めていました。ちなみに、とあるバグバウンティイベントではこれが$300,000らしい💸 #NGINX2Shell」 / X",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry",
-        "OpenAI"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1ac8620b32671ce3e274"
+      "id": "638ad443acd3ef6b04a5"
     }
   ],
   "source_errors": [],
