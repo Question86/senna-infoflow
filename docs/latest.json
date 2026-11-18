@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T05:59:34+00:00",
-  "run_id": "2026-11-18T05:59:34+00:00",
+  "generated_at": "2026-11-18T06:17:35+00:00",
+  "run_id": "2026-11-18T06:17:35+00:00",
   "date": "2026-11-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 32
+      "configured_public_sources_only": 34
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 32,
-    "displayed_findings": 32,
+    "new_relevant_findings": 3,
+    "today_file_total": 34,
+    "displayed_findings": 34,
     "high": 0,
-    "medium": 11,
-    "observe": 21,
+    "medium": 12,
+    "observe": 22,
     "source_errors": 0
   },
   "sections": {
@@ -58,8 +58,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-18T05:48:12+00:00",
-        "fetched_at": "2026-11-18T05:53:23+00:00",
+        "published_at": "2026-11-18T06:17:24+00:00",
+        "fetched_at": "2026-11-18T06:17:05+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -93,7 +93,7 @@
           "HD",
           "LOW"
         ],
-        "id": "fd8c76e7b444f373fd91"
+        "id": "e4829dc5b2fcbdb4384e"
       },
       {
         "title": "Google catches AI agents hacking with no human in the loop",
@@ -186,6 +186,43 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "a2a2ccbebfa4915c0cf2"
+      },
+      {
+        "title": "M 4.8 - 67 km NNE of Ruteng, Indonesia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyy2",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-11-18T05:59:49.040+00:00",
+        "fetched_at": "2026-11-18T06:17:05+00:00",
+        "summary": "Time 2026-11-18 05:24:55 UTC 2026-11-18 05:24:55 UTC at epicenter Location 8.030°S 120.649°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "2bc5f17b5e2ddce824ab"
       },
       {
         "title": "High performing teams don’t avoid conflict. They know how to lead through it",
@@ -597,6 +634,27 @@
         "id": "5a6417c03bc8dac7ceeb"
       },
       {
+        "title": "AI slop as a business and climate hazard, and a chance to lead",
+        "url": "https://e27.co/ai-slop-as-a-business-and-climate-hazard-and-a-chance-to-lead-20261111/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-18T06:00:43+00:00",
+        "fetched_at": "2026-11-18T06:17:05+00:00",
+        "summary": "AI slop is emblematic of AI/LLM shortcomings and wasted money, time, and human potential. AI slop exists because human slop existed. LLMs were trained on the kind of trite, rehashed, insubstantial drivel that fills so many corporate documents, social media platforms, and so-called thought leadership. But AI slop, unlike human slop, is harmful beyond being […] The post AI slop as a business and climate hazard, and a…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "04c5248a3607d9c611b3"
+      },
+      {
         "title": "AI makes video production faster. The real test is how teams handle feedback",
         "url": "https://e27.co/ai-makes-video-production-faster-the-real-test-is-how-teams-handle-feedback-20261111/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -899,8 +957,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T05:48:12+00:00",
-      "fetched_at": "2026-11-18T05:53:23+00:00",
+      "published_at": "2026-11-18T06:17:24+00:00",
+      "fetched_at": "2026-11-18T06:17:05+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -934,7 +992,7 @@
         "HD",
         "LOW"
       ],
-      "id": "fd8c76e7b444f373fd91"
+      "id": "e4829dc5b2fcbdb4384e"
     },
     {
       "title": "Google catches AI agents hacking with no human in the loop",
@@ -1027,6 +1085,43 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "a2a2ccbebfa4915c0cf2"
+    },
+    {
+      "title": "M 4.8 - 67 km NNE of Ruteng, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyy2",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-18T05:59:49.040+00:00",
+      "fetched_at": "2026-11-18T06:17:05+00:00",
+      "summary": "Time 2026-11-18 05:24:55 UTC 2026-11-18 05:24:55 UTC at epicenter Location 8.030°S 120.649°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "2bc5f17b5e2ddce824ab"
     },
     {
       "title": "High performing teams don’t avoid conflict. They know how to lead through it",
@@ -1436,6 +1531,27 @@
       "id": "5a6417c03bc8dac7ceeb"
     },
     {
+      "title": "AI slop as a business and climate hazard, and a chance to lead",
+      "url": "https://e27.co/ai-slop-as-a-business-and-climate-hazard-and-a-chance-to-lead-20261111/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-18T06:00:43+00:00",
+      "fetched_at": "2026-11-18T06:17:05+00:00",
+      "summary": "AI slop is emblematic of AI/LLM shortcomings and wasted money, time, and human potential. AI slop exists because human slop existed. LLMs were trained on the kind of trite, rehashed, insubstantial drivel that fills so many corporate documents, social media platforms, and so-called thought leadership. But AI slop, unlike human slop, is harmful beyond being […] The post AI slop as a business and climate hazard, and a…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "04c5248a3607d9c611b3"
+    },
+    {
       "title": "AI makes video production faster. The real test is how teams handle feedback",
       "url": "https://e27.co/ai-makes-video-production-faster-the-real-test-is-how-teams-handle-feedback-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1707,7 +1823,108 @@
       "id": "6cd25081985a524ca73b"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-11-18T06:17:24+00:00",
+      "fetched_at": "2026-11-18T06:17:05+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "e4829dc5b2fcbdb4384e"
+    },
+    {
+      "title": "M 4.8 - 67 km NNE of Ruteng, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyy2",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-11-18T05:59:49.040+00:00",
+      "fetched_at": "2026-11-18T06:17:05+00:00",
+      "summary": "Time 2026-11-18 05:24:55 UTC 2026-11-18 05:24:55 UTC at epicenter Location 8.030°S 120.649°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "2bc5f17b5e2ddce824ab"
+    },
+    {
+      "title": "AI slop as a business and climate hazard, and a chance to lead",
+      "url": "https://e27.co/ai-slop-as-a-business-and-climate-hazard-and-a-chance-to-lead-20261111/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-18T06:00:43+00:00",
+      "fetched_at": "2026-11-18T06:17:05+00:00",
+      "summary": "AI slop is emblematic of AI/LLM shortcomings and wasted money, time, and human potential. AI slop exists because human slop existed. LLMs were trained on the kind of trite, rehashed, insubstantial drivel that fills so many corporate documents, social media platforms, and so-called thought leadership. But AI slop, unlike human slop, is harmful beyond being […] The post AI slop as a business and climate hazard, and a…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "04c5248a3607d9c611b3"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
