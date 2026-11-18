@@ -28,8 +28,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-18T08:19:05+00:00",
-    "fetched_at": "2026-11-18T08:18:47+00:00",
+    "published_at": "2026-11-18T08:22:38+00:00",
+    "fetched_at": "2026-11-18T08:27:19+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -63,7 +63,7 @@
       "HD",
       "LOW"
     ],
-    "id": "458585153c170221f41c"
+    "id": "e5a8f0665e601f4e7038"
   },
   {
     "title": "Google catches AI agents hacking with no human in the loop",
@@ -408,6 +408,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "35532ad99aa43c778e08"
+  },
+  {
+    "title": "[NEU] [hoch] Oracle Database Server: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4612",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-18T08:22:00+00:00",
+    "fetched_at": "2026-11-18T08:27:19+00:00",
+    "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Database Server ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2493aea451584af2f6a7"
   },
   {
     "title": "[UPDATE] [hoch] SmarterTools SmarterMail: Mehrere Schwachstellen",
