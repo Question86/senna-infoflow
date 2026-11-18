@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-18T03:50:59+00:00_
+_Generated: 2026-11-18T03:56:38+00:00_
 
 ## Status
 - status: `normal`
-- findings: `19`
+- findings: `20`
 
 ## Top Signals
 
@@ -18,7 +18,7 @@ _Generated: 2026-11-18T03:50:59+00:00_
 ### 2. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-18T03:45:37+00:00`
+- published: `2026-11-18T03:50:49+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -50,18 +50,18 @@ _Generated: 2026-11-18T03:50:59+00:00_
 - url: https://japan.cnet.com/article/35254996/
 - summary: Googleは11月16日、AIノートツール「Gemini Notebook」で、手持ちの資料から、操作しながら学んだり情報を確認したりできるウェブサイトを生成する機能の提供を開始した。18歳以上を対象に、Google Workspaceの契約者を含むウェブ版の利用者へ世界各地で順次展開する。
 
-### 7. M 5.8 - 150 km SW of Merizo Village, Guam
+### 7. M 5.8 - 99 km ESE of Madang, Papua New Guinea
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-11-18T03:55:54.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyx2
+- summary: Time 2026-11-18 03:42:34 UTC 2026-11-18 03:42:34 UTC at epicenter Location 5.701°S 146.548°E Depth 52.29 km (32.49 mi)
+
+### 8. M 5.8 - 150 km SW of Merizo Village, Guam
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-11-18T02:37:08.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tywi
 - summary: Time 2026-11-18 02:22:56 UTC 2026-11-18 02:22:56 UTC at epicenter Location 12.139°N 143.887°E Depth 10.00 km (6.21 mi)
-
-### 8. M 5.3 - 16 km W of Nereju Mic, Romania
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-11-18T01:14:41.502+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyw8
-- summary: DYFI? - IV Time 2026-11-18 00:48:56 UTC 2026-11-18 00:48:56 UTC at epicenter Location 45.680°N 26.489°E Depth 130.76 km (81.25 mi)
 
 END OF DOCUMENT
