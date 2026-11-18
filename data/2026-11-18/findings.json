@@ -28,8 +28,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-18T07:46:25+00:00",
-    "fetched_at": "2026-11-18T07:46:07+00:00",
+    "published_at": "2026-11-18T07:46:12+00:00",
+    "fetched_at": "2026-11-18T07:51:12+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -63,7 +63,7 @@
       "HD",
       "LOW"
     ],
-    "id": "f28ab2f380cafb818025"
+    "id": "dbafdda546f58152f089"
   },
   {
     "title": "Google catches AI agents hacking with no human in the loop",
