@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-18T16:21:24+00:00",
+  "generated_at": "2026-11-18T16:26:42+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-11-18T16:15:46+00:00",
+        "published_at": "2026-11-18T16:20:17+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -358,6 +358,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyza"
       },
       {
+        "title": "M 5.3 - 149 km SSW of Merizo Village, Guam",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-11-18T16:23:05.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz1a"
+      },
+      {
         "title": "M 5.2 - Galapagos Triple Junction region",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-11-18T05:38:36.040+00:00",
@@ -377,13 +384,6 @@
         "published_at": "2026-11-18T02:37:08.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tywi"
-      },
-      {
-        "title": "M 5.3 - 16 km W of Nereju Mic, Romania",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-11-18T01:14:41.502+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyw8"
       }
     ]
   }
