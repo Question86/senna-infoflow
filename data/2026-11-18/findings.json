@@ -2437,6 +2437,27 @@
     "id": "2039749fddb659d3548d"
   },
   {
+    "title": "MUJI Card発行のクレディセゾン、カード番号削除を2度依頼 無印は実行せず",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12190/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-11-18T14:15:39+00:00",
+    "fetched_at": "2026-11-18T14:49:04+00:00",
+    "summary": "「無印良品」を展開する良品計画から、同社ブランドで発行する「MUJI Card」のクレジットカード番号全桁が約109万件漏洩した恐れがある事案について、新たな事実が分かった。MUJI Cardを発行するクレディセゾンが良品計画に対し、2020年と2021年の2度にわたりカード番号の削除を依頼していた。2026年11月18日、クレディ...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "313fa2297220d25c9c65"
+  },
+  {
     "title": "Microsoft SharePoint: Angreifer können Code einschleusen und ausführen",
     "url": "https://www.heise.de/news/Microsoft-SharePoint-Angreifer-koennen-Code-einschleusen-und-ausfuehren-11529556.html",
     "source": "heise Security Alerts",
