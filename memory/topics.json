@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-18T07:51:42+00:00",
+  "generated_at": "2026-11-18T07:57:00+00:00",
   "topics": {
     "security": [
       {
@@ -45,13 +45,20 @@
         "published_at": "2026-11-18T07:42:01+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3070"
+      },
+      {
+        "title": "N-able stopft attackierte Sicherheitslecks in N-central",
+        "source": "heise Security Alerts",
+        "published_at": "2026-11-18T07:48:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/N-able-stopft-attackierte-Sicherheitslecks-in-N-central-11528739.html"
       }
     ],
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-11-18T07:46:12+00:00",
+        "published_at": "2026-11-18T07:56:49+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },

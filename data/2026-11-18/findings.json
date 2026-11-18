@@ -28,8 +28,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-18T07:46:12+00:00",
-    "fetched_at": "2026-11-18T07:51:12+00:00",
+    "published_at": "2026-11-18T07:56:49+00:00",
+    "fetched_at": "2026-11-18T07:56:33+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -63,7 +63,7 @@
       "HD",
       "LOW"
     ],
-    "id": "dbafdda546f58152f089"
+    "id": "85f8377c0e929baaa73b"
   },
   {
     "title": "Google catches AI agents hacking with no human in the loop",
@@ -808,6 +808,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "1629ce7cda6e5dab3153"
+  },
+  {
+    "title": "N-able stopft attackierte Sicherheitslecks in N-central",
+    "url": "https://www.heise.de/news/N-able-stopft-attackierte-Sicherheitslecks-in-N-central-11528739.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-11-18T07:48:00.000+00:00",
+    "fetched_at": "2026-11-18T07:56:33+00:00",
+    "summary": "Am Wochenende wurden Angriffe auf Lücken in der Fernüberwachung N-central bekannt. Nun stehen Updates bereit, die sie schließen.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "38d361e739b965e72079"
   },
   {
     "title": "Suicaペンギンの後継キャラは紫のB案に 愛称募集を開始",

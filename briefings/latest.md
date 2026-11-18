@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-18T07:51:42+00:00_
+_Generiert: 2026-11-18T07:57:00+00:00_
 
 ## Kurzlage
 
-37 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+38 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -84,7 +84,7 @@ Keine neuen Hochprioritäts-Treffer.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-18T07:46:12+00:00`, fetched `2026-11-18T07:51:12+00:00`
+  - Zeit: published `2026-11-18T07:56:49+00:00`, fetched `2026-11-18T07:56:33+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -246,6 +246,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Webentwicklung (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 仕組みを簡単に説明すると、WordPressはアクセスされるたびにサーバー側で処理を行ってページを表示しますが、静的サイトでは、あらかじめ作っておいたHTMLファイルをそのまま配信します。 毎回プログラムを動かす必要がないので、表示が速くなり、セキュリティ上のリスクも抑えられます。 サイトの置き場所には「Cloudf...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **N-able stopft attackierte Sicherheitslecks in N-central** — Score 7, observation — [Quelle](https://www.heise.de/news/N-able-stopft-attackierte-Sicherheitslecks-in-N-central-11528739.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-11-18T07:48:00.000+00:00`, fetched `2026-11-18T07:56:33+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Am Wochenende wurden Angriffe auf Lücken in der Fernüberwachung N-central bekannt. Nun stehen Updates bereit, die sie schließen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Suicaペンギンの後継キャラは紫のB案に 愛称募集を開始** — Score 5, observation — [Quelle](https://www.watch.impress.co.jp/docs/news/2157432.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
