@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T01:35:20+00:00",
-  "run_id": "2026-11-18T01:35:20+00:00",
+  "generated_at": "2026-11-18T01:42:18+00:00",
+  "run_id": "2026-11-18T01:42:18+00:00",
   "date": "2026-11-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 1,
     "today_file_total": 9,
     "displayed_findings": 9,
     "high": 0,
@@ -58,8 +58,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-18T01:35:07+00:00",
-        "fetched_at": "2026-11-18T01:34:48+00:00",
+        "published_at": "2026-11-18T01:34:56+00:00",
+        "fetched_at": "2026-11-18T01:41:49+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -93,7 +93,7 @@
           "HD",
           "LOW"
         ],
-        "id": "20786707d0eb53eb2101"
+        "id": "7b1903b5b661d77539f2"
       },
       {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月17日）",
@@ -296,8 +296,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T01:35:07+00:00",
-      "fetched_at": "2026-11-18T01:34:48+00:00",
+      "published_at": "2026-11-18T01:34:56+00:00",
+      "fetched_at": "2026-11-18T01:41:49+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -331,7 +331,7 @@
         "HD",
         "LOW"
       ],
-      "id": "20786707d0eb53eb2101"
+      "id": "7b1903b5b661d77539f2"
     },
     {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月17日）",
@@ -507,8 +507,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T01:35:07+00:00",
-      "fetched_at": "2026-11-18T01:34:48+00:00",
+      "published_at": "2026-11-18T01:34:56+00:00",
+      "fetched_at": "2026-11-18T01:41:49+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -542,29 +542,7 @@
         "HD",
         "LOW"
       ],
-      "id": "20786707d0eb53eb2101"
-    },
-    {
-      "title": "複数のJava実行環境におけるヒープベースのバッファオーバーフローの脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU99608534/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-11-18T10:30:00+09:00",
-      "fetched_at": "2026-11-18T01:34:48+00:00",
-      "summary": "複数のJava実行環境にはヒープベースのバッファオーバーフローの脆弱性（CVE-2026-114938）が存在します。 本脆弱性の発見者は本件を「Java4Shell」と呼称し、Base64デコード処理を高速化するための最適化処理に原因があると指摘しています。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "35532ad99aa43c778e08"
+      "id": "7b1903b5b661d77539f2"
     }
   ],
   "source_errors": [],
