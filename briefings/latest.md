@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-18T00:57:15+00:00_
+_Generiert: 2026-11-18T01:05:09+00:00_
 
 ## Kurzlage
 
-6 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+7 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -84,7 +84,7 @@ Keine neuen Hochprioritäts-Treffer.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-18T00:51:57+00:00`, fetched `2026-11-18T00:51:36+00:00`
+  - Zeit: published `2026-11-18T01:02:39+00:00`, fetched `2026-11-18T01:04:39+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -120,6 +120,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Webentwicklung (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 仕組みを簡単に説明すると、WordPressはアクセスされるたびにサーバー側で処理を行ってページを表示しますが、静的サイトでは、あらかじめ作っておいたHTMLファイルをそのまま配信します。 毎回プログラムを動かす必要がないので、表示が速くなり、セキュリティ上のリスクも抑えられます。 サイトの置き場所には「Cloudf...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **AI will revolutionise science without requiring AI geniuses** — Score 8, observation — [Quelle](https://e27.co/ai-will-revolutionise-science-without-requiring-ai-geniuses-20261116/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-18T01:00:36+00:00`, fetched `2026-11-18T01:04:39+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: For most of human history, scientific progress has been limited by the amount of human attention available. A few decades ago, a scientist searching the literature could spend hours in a library scanning journal titles before deciding which papers justified the time needed to read them. Electronic databases and the internet transformed that process by […] The post AI will revolutionise science without requiring AI g…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ソフトウェアエンジニアの黄昏期をこう過ごそうと思う｜わかばめ** — Score 5, observation — [Quelle](https://note.com/wakabame/n/nc76b65a187bb)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

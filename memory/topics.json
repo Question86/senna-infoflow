@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-18T00:57:15+00:00",
+  "generated_at": "2026-11-18T01:05:09+00:00",
   "topics": {
     "security": [
       {
@@ -23,7 +23,7 @@
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-11-18T00:51:57+00:00",
+        "published_at": "2026-11-18T01:02:39+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -33,6 +33,13 @@
         "published_at": "2026-11-17T07:22:06+00:00",
         "relevance_score": 10,
         "url": "https://japan.cnet.com/article/35254996/"
+      },
+      {
+        "title": "AI will revolutionise science without requiring AI geniuses",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-18T01:00:36+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/ai-will-revolutionise-science-without-requiring-ai-geniuses-20261116/"
       }
     ],
     "general": [
