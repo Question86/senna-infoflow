@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-18T19:44:48+00:00_
+_Generiert: 2026-11-18T19:50:34+00:00_
 
 ## Kurzlage
 
-128 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+129 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -213,6 +213,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); CERT-FR (+2.0); alerte (+2.0); vulnérabilité (+2.5)
   - Kurz: Le 22 août 2024, Sonicwall a publié un correctif concernant la vulnérabilité critique CVE-2024-40766 affectant les pare-feux Sonicwall génération 5, 6 et 7. Cette vulnérabilité, de type contrôle d'accès défaillant, permet à un attaquant de provoquer un déni de service à distance, une atteinte à...
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **WordPress-Update schließt zig Lücken** — Score 11, observation — [Quelle](https://www.heise.de/news/WordPress-Update-schliesst-zig-Luecken-11530196.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-11-18T19:38:00.000+00:00`, fetched `2026-11-18T19:50:06+00:00`
+  - Treffer: Security, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Webentwicklung (+3.8); recent (+1.0)
+  - Kurz: WordPress bekämpft mit einem Zwischenupdate zahlreiche Bugs. Bitte unverzüglich updaten.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.5 - 23 km SSW of Ollagüe, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz33)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-18T19:12:25.040+00:00`, fetched `2026-11-18T19:22:18+00:00`
@@ -275,15 +284,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Singapore is racing to cut onboarding times for the ultra-wealthy. But the clients it most wants to win are often the ones getting stuck in the queue. In October 2025, Bank of Singapore rolled out an AI tool that, the bank says, cut the time to produce a source of wealth report from ten days […] The post Singapore’s wealth onboarding problem isn’t the review, it’s the back and forth appeared first on e27 .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The Silent Consensus** — Score 10, observation — [Quelle](https://openai.com/index/the-silent-consensus)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-11-18T00:00:00+00:00`, fetched `2026-11-18T18:15:04+00:00`
-  - Treffer: AI/KI, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)
-  - Kurz: Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

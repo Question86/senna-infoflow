@@ -1991,6 +1991,27 @@
     "id": "f2b0457bf19191a6854a"
   },
   {
+    "title": "WordPress-Update schließt zig Lücken",
+    "url": "https://www.heise.de/news/WordPress-Update-schliesst-zig-Luecken-11530196.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-11-18T19:38:00.000+00:00",
+    "fetched_at": "2026-11-18T19:50:06+00:00",
+    "summary": "WordPress bekämpft mit einem Zwischenupdate zahlreiche Bugs. Bitte unverzüglich updaten.",
+    "matched_keywords": [
+      "Security",
+      "Webentwicklung"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Security (+6.0); Webentwicklung (+3.8); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "966af48af6ce46b5a55a"
+  },
+  {
     "title": "M 4.5 - 23 km SSW of Ollagüe, Chile",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz33",
     "source": "USGS M4.5+ Earthquakes Past Hour",

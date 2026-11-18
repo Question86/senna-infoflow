@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T19:44:48+00:00",
-  "run_id": "2026-11-18T19:44:48+00:00",
+  "generated_at": "2026-11-18T19:50:34+00:00",
+  "run_id": "2026-11-18T19:50:34+00:00",
   "date": "2026-11-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 128
+      "configured_public_sources_only": 129
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 128,
-    "displayed_findings": 128,
+    "today_file_total": 129,
+    "displayed_findings": 129,
     "high": 0,
     "medium": 69,
-    "observe": 59,
+    "observe": 60,
     "source_errors": 0
   },
   "sections": {
@@ -2021,6 +2021,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "f2b0457bf19191a6854a"
+      },
+      {
+        "title": "WordPress-Update schließt zig Lücken",
+        "url": "https://www.heise.de/news/WordPress-Update-schliesst-zig-Luecken-11530196.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-11-18T19:38:00.000+00:00",
+        "fetched_at": "2026-11-18T19:50:06+00:00",
+        "summary": "WordPress bekämpft mit einem Zwischenupdate zahlreiche Bugs. Bitte unverzüglich updaten.",
+        "matched_keywords": [
+          "Security",
+          "Webentwicklung"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Security (+6.0); Webentwicklung (+3.8); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "966af48af6ce46b5a55a"
       },
       {
         "title": "M 4.5 - 23 km SSW of Ollagüe, Chile",
@@ -5259,6 +5280,27 @@
       "id": "f2b0457bf19191a6854a"
     },
     {
+      "title": "WordPress-Update schließt zig Lücken",
+      "url": "https://www.heise.de/news/WordPress-Update-schliesst-zig-Luecken-11530196.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-11-18T19:38:00.000+00:00",
+      "fetched_at": "2026-11-18T19:50:06+00:00",
+      "summary": "WordPress bekämpft mit einem Zwischenupdate zahlreiche Bugs. Bitte unverzüglich updaten.",
+      "matched_keywords": [
+        "Security",
+        "Webentwicklung"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Security (+6.0); Webentwicklung (+3.8); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "966af48af6ce46b5a55a"
+    },
+    {
       "title": "M 4.5 - 23 km SSW of Ollagüe, Chile",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz33",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -6503,46 +6545,25 @@
   ],
   "new_findings": [
     {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-11-18T19:44:37+00:00",
-      "fetched_at": "2026-11-18T19:44:16+00:00",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "title": "WordPress-Update schließt zig Lücken",
+      "url": "https://www.heise.de/news/WordPress-Update-schliesst-zig-Luecken-11530196.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-11-18T19:38:00.000+00:00",
+      "fetched_at": "2026-11-18T19:50:06+00:00",
+      "summary": "WordPress bekämpft mit einem Zwischenupdate zahlreiche Bugs. Bitte unverzüglich updaten.",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "General Santos",
-        "Glan",
-        "recovery",
-        "relief",
-        "Sarangani",
-        "Watchgraph:earthquakes_tsunami"
+        "Security",
+        "Webentwicklung"
       ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "39cba57957e977689dee"
+      "relevance_score": 11,
+      "relevance_reason": "Security (+6.0); Webentwicklung (+3.8); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "966af48af6ce46b5a55a"
     }
   ],
   "source_errors": [],
