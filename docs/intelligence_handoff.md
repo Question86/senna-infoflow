@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-11-18T00:38:49Z_
+_Generated: 2026-11-18T00:54:18Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-18T09:00:00+09:00` / age_days `0.03`
+- Published: `2026-11-18T09:00:00+09:00` / age_days `0.04`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cisa, jvn, security, advisory, official security but no high-signal phrase: capped at strong
@@ -22,17 +22,17 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `151.94`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `151.96`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 151.9d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
+- Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 152.0d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/
 
 ### OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-11-18T09:00:15+09:00` / age_days `0.03`
+- Published: `2026-11-18T09:00:15+09:00` / age_days `0.04`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -42,17 +42,37 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-11-18T00:36:14+00:00` / age_days `0.0`
+- Published: `2026-11-18T00:51:57+00:00` / age_days `0.0`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: earthquake, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 
+### 14年間使ってきたWordPressをやめて、個人ブログを作り直した話｜星影｜Tech Hunter
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `9.0`
+- Published: `2026-11-16T01:04:11+00:00` / age_days `1.99`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: no strong comparative reason
+- Quelle: https://note.com/unsoluble_sugar/n/n58c97b4dee67
+
+### ソフトウェアエンジニアの黄昏期をこう過ごそうと思う｜わかばめ
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `5.0`
+- Published: `2026-11-17T13:10:43+00:00` / age_days `0.49`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: no strong comparative reason
+- Quelle: https://note.com/wakabame/n/nc76b65a187bb
+
 ### Google「Gemini Notebook」、業務ツールを生成できる新機能
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `2.0`
-- Published: `2026-11-17T07:22:06+00:00` / age_days `0.72`
+- Published: `2026-11-17T07:22:06+00:00` / age_days `0.73`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -62,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `150.91`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `150.92`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1, aging penalty -16.0 for 150.9d old signal
@@ -72,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `150.91`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `150.92`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1, aging penalty -16.0 for 150.9d old signal
@@ -82,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `150.91`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `150.92`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +1, single-source AI hype brake -8.0, aging penalty -16.0 for 150.9d old signal, single-source AI cap enforced after phrase recheck
