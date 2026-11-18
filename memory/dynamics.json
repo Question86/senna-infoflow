@@ -1,29 +1,53 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-18T01:32:10Z",
+  "generated_at": "2026-11-18T01:47:21Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 12,
+    "dynamics": 13,
     "bands": {
       "krass": 1,
-      "strong": 3,
+      "strong": 4,
       "watch": 1,
       "quiet": 7
     },
     "bands_after_gate_recheck": {
-      "strong": 4,
+      "strong": 5,
       "watch": 1,
       "quiet": 7
     }
   },
   "top_dynamics": [
     {
+      "title": "複数のJava実行環境におけるヒープベースのバッファオーバーフローの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU99608534/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-11-18T10:30:00+09:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, cve, security"
+      ],
+      "summary": "複数のJava実行環境にはヒープベースのバッファオーバーフローの脆弱性（CVE-2026-114938）が存在します。 本脆弱性の発見者は本件を「Java4Shell」と呼称し、Base64デコード処理を高速化するための最適化処理に原因があると指摘しています。"
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月17日）",
       "url": "https://jvn.jp/vu/JVNVU99888632/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-18T09:00:00+09:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -48,7 +72,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 151.98,
+      "age_days": 151.99,
       "topics": [
         "ai"
       ],
@@ -77,7 +101,7 @@
       "url": "https://jvn.jp/vu/JVNVU96847970/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-18T09:00:15+09:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -102,8 +126,8 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-11-18T01:27:35+00:00",
-      "age_days": 0.0,
+      "published_at": "2026-11-18T01:34:56+00:00",
+      "age_days": 0.01,
       "topics": [
         "ai",
         "macro",
@@ -132,7 +156,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyw8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-18T01:14:41.502+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -156,7 +180,7 @@
       "url": "https://note.com/unsoluble_sugar/n/n58c97b4dee67",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-16T01:04:11+00:00",
-      "age_days": 2.02,
+      "age_days": 2.03,
       "topics": [
         "general"
       ],
@@ -180,7 +204,7 @@
       "url": "https://note.com/wakabame/n/nc76b65a187bb",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-17T13:10:43+00:00",
-      "age_days": 0.51,
+      "age_days": 0.53,
       "topics": [
         "general"
       ],
@@ -204,7 +228,7 @@
       "url": "https://japan.cnet.com/article/35254996/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-17T07:22:06+00:00",
-      "age_days": 0.76,
+      "age_days": 0.77,
       "topics": [
         "ai"
       ],
@@ -229,7 +253,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 150.95,
+      "age_days": 150.96,
       "topics": [
         "general"
       ],
@@ -245,7 +269,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 150.9d old signal"
+        "aging penalty -16.0 for 151.0d old signal"
       ],
       "summary": ""
     },
@@ -254,7 +278,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 150.95,
+      "age_days": 150.96,
       "topics": [
         "general"
       ],
@@ -270,7 +294,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 150.9d old signal"
+        "aging penalty -16.0 for 151.0d old signal"
       ],
       "summary": ""
     },
@@ -279,7 +303,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 150.95,
+      "age_days": 150.96,
       "topics": [
         "ai"
       ],
@@ -296,7 +320,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 150.9d old signal",
+        "aging penalty -16.0 for 151.0d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -306,7 +330,7 @@
       "url": "https://e27.co/ai-will-revolutionise-science-without-requiring-ai-geniuses-20261116/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-18T01:00:36+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
@@ -327,5 +351,5 @@
       "summary": "For most of human history, scientific progress has been limited by the amount of human attention available. A few decades ago, a scientist searching the literature could spend hours in a library scanning journal titles before deciding which papers justified the time needed to read them. Electronic databases and the in…"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory（2026年11月17日）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “複数のJava実行環境におけるヒープベースのバッファオーバーフローの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
 }
