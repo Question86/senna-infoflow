@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-18T10:49:21+00:00",
-    "fetched_at": "2026-11-18T10:54:49+00:00",
+    "published_at": "2026-11-18T10:55:07+00:00",
+    "fetched_at": "2026-11-18T11:00:14+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "f839ac6855a55f19ee9b"
+    "id": "afc579d9c04e3188a6e9"
   },
   {
     "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
