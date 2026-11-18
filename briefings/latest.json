@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-18T12:09:07+00:00",
-  "run_id": "2026-11-18T12:09:07+00:00",
+  "generated_at": "2026-11-18T12:22:38+00:00",
+  "run_id": "2026-11-18T12:22:38+00:00",
   "date": "2026-11-18",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 92
+      "configured_public_sources_only": 97
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 6,
-    "today_file_total": 92,
-    "displayed_findings": 92,
+    "new_relevant_findings": 5,
+    "today_file_total": 97,
+    "displayed_findings": 97,
     "high": 0,
-    "medium": 60,
+    "medium": 65,
     "observe": 32,
-    "source_errors": 0
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -318,6 +318,54 @@
           "LOW"
         ],
         "id": "59a359e4da0daca42e1f"
+      },
+      {
+        "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4655",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-18T12:12:01+00:00",
+        "fetched_at": "2026-11-18T12:22:03+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff oder nicht spezifierte Angriffe durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "151f0b195f99a2e946de"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] GNU libc: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4653",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-18T12:07:00+00:00",
+        "fetched_at": "2026-11-18T12:22:03+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in GNU libc ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Patch",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5fe0da92a073f0538201"
       },
       {
         "title": "[NEU] [UNGEPATCHT] [mittel] poppler: Mehrere Schwachstellen",
@@ -807,6 +855,75 @@
           "LOW"
         ],
         "id": "d0666620c44c7714d3c8"
+      },
+      {
+        "title": "[NEU] [mittel] Octopus Deploy: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4656",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-18T12:12:01+00:00",
+        "fetched_at": "2026-11-18T12:22:03+00:00",
+        "summary": "Ein Angreifer kann eine Schwachstelle in Octopus Deploy ausnutzen, um Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6942e784f9190354a9ce"
+      },
+      {
+        "title": "[NEU] [hoch] Oracle Java und GraalVM: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4624",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-18T12:07:01+00:00",
+        "fetched_at": "2026-11-18T12:22:03+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Oracle Java und GraalVM ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden, sowie um unter bestimmten Bedingungen beliebigen Code auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "033a875ea4dc0812f180"
+      },
+      {
+        "title": "[NEU] [hoch] Mozilla Firefox: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4654",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-18T12:07:01+00:00",
+        "fetched_at": "2026-11-18T12:22:03+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Mozilla Firefox ausnutzen, um Berechtigungen zu erweitern oder andere, nicht spezifizierte Angriffe durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "aab2cc6ef273845fbe45"
       },
       {
         "title": "[NEU] [hoch] GNU Emacs: Schwachstelle ermöglicht Codeausführung",
@@ -2647,6 +2764,54 @@
       "id": "59a359e4da0daca42e1f"
     },
     {
+      "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4655",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-18T12:12:01+00:00",
+      "fetched_at": "2026-11-18T12:22:03+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff oder nicht spezifierte Angriffe durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "151f0b195f99a2e946de"
+    },
+    {
+      "title": "[NEU] [UNGEPATCHT] [mittel] GNU libc: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4653",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-18T12:07:00+00:00",
+      "fetched_at": "2026-11-18T12:22:03+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in GNU libc ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Patch",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5fe0da92a073f0538201"
+    },
+    {
       "title": "[NEU] [UNGEPATCHT] [mittel] poppler: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4647",
       "source": "BSI CERT-Bund Security Advisories",
@@ -3134,6 +3299,75 @@
         "LOW"
       ],
       "id": "d0666620c44c7714d3c8"
+    },
+    {
+      "title": "[NEU] [mittel] Octopus Deploy: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4656",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-18T12:12:01+00:00",
+      "fetched_at": "2026-11-18T12:22:03+00:00",
+      "summary": "Ein Angreifer kann eine Schwachstelle in Octopus Deploy ausnutzen, um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6942e784f9190354a9ce"
+    },
+    {
+      "title": "[NEU] [hoch] Oracle Java und GraalVM: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4624",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-18T12:07:01+00:00",
+      "fetched_at": "2026-11-18T12:22:03+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Oracle Java und GraalVM ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden, sowie um unter bestimmten Bedingungen beliebigen Code auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "033a875ea4dc0812f180"
+    },
+    {
+      "title": "[NEU] [hoch] Mozilla Firefox: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4654",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-18T12:07:01+00:00",
+      "fetched_at": "2026-11-18T12:22:03+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Mozilla Firefox ausnutzen, um Berechtigungen zu erweitern oder andere, nicht spezifizierte Angriffe durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "aab2cc6ef273845fbe45"
     },
     {
       "title": "[NEU] [hoch] GNU Emacs: Schwachstelle ermöglicht Codeausführung",
@@ -4681,79 +4915,61 @@
   ],
   "new_findings": [
     {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-11-18T12:08:54+00:00",
-      "fetched_at": "2026-11-18T12:08:35+00:00",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "General Santos",
-        "Glan",
-        "recovery",
-        "relief",
-        "Sarangani",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "02f87423d306c468a296"
-    },
-    {
-      "title": "[NEU] [hoch] Snipe-IT: Schwachstelle ermöglicht Erlangen von Benutzerrechten",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4649",
+      "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4655",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-11-18T11:57:01+00:00",
-      "fetched_at": "2026-11-18T12:08:35+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Snipe-IT ausnutzen, um Benutzerrechte bis hin zu Superuser-Rechte zu erlangen.",
+      "published_at": "2026-11-18T12:12:01+00:00",
+      "fetched_at": "2026-11-18T12:22:03+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff oder nicht spezifierte Angriffe durchzuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
-        "Macro/Policy",
+        "Linux",
         "Schwachstelle",
         "Security"
       ],
-      "relevance_score": 20,
-      "relevance_reason": "Security (+6.0); Macro/Policy (+5.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph region south_america: Peru (+2.0)",
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "cf108db3389796cd8e59"
+      "id": "151f0b195f99a2e946de"
     },
     {
-      "title": "[NEU] [hoch] GNU Emacs: Schwachstelle ermöglicht Codeausführung",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4652",
+      "title": "[NEU] [UNGEPATCHT] [mittel] GNU libc: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4653",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-11-18T12:02:01+00:00",
-      "fetched_at": "2026-11-18T12:08:35+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in GNU Emacs ausnutzen, um beliebigen Programmcode auszuführen.",
+      "published_at": "2026-11-18T12:07:00+00:00",
+      "fetched_at": "2026-11-18T12:22:03+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in GNU libc ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Patch",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5fe0da92a073f0538201"
+    },
+    {
+      "title": "[NEU] [mittel] Octopus Deploy: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4656",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-18T12:12:01+00:00",
+      "fetched_at": "2026-11-18T12:22:03+00:00",
+      "summary": "Ein Angreifer kann eine Schwachstelle in Octopus Deploy ausnutzen, um Informationen offenzulegen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -4767,16 +4983,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "364e4a33f420495ccd5a"
+      "id": "6942e784f9190354a9ce"
     },
     {
-      "title": "[NEU] [mittel] vllm: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4651",
+      "title": "[NEU] [hoch] Oracle Java und GraalVM: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4624",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-11-18T12:02:00+00:00",
-      "fetched_at": "2026-11-18T12:08:35+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in vllm ausnutzen, um Sicherheitsvorkehrungen zu umgehen und Dateien zu manipulieren.",
+      "published_at": "2026-11-18T12:07:01+00:00",
+      "fetched_at": "2026-11-18T12:22:03+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Oracle Java und GraalVM ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden, sowie um unter bestimmten Bedingungen beliebigen Code auszuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -4790,16 +5006,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "9ae84b291b84e99894bc"
+      "id": "033a875ea4dc0812f180"
     },
     {
-      "title": "[NEU] [hoch] Eclipse Mosquitto: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4650",
+      "title": "[NEU] [hoch] Mozilla Firefox: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4654",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-11-18T11:57:01+00:00",
-      "fetched_at": "2026-11-18T12:08:35+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Eclipse Mosquitto ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren oder einen Denial-of-Service-Zustand zu verursachen.",
+      "published_at": "2026-11-18T12:07:01+00:00",
+      "fetched_at": "2026-11-18T12:22:03+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Mozilla Firefox ausnutzen, um Berechtigungen zu erweitern oder andere, nicht spezifizierte Angriffe durchzuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -4813,33 +5029,17 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "72a4deb66cfcde705d4c"
-    },
-    {
-      "title": "[NEU] [mittel] Bruno: Schwachstelle ermöglicht Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4648",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-11-18T11:57:00+00:00",
-      "fetched_at": "2026-11-18T12:08:35+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Bruno ausnutzen, um Informationen offenzulegen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "fb2c286aa89c9d36ddf1"
+      "id": "aab2cc6ef273845fbe45"
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "reliefweb_mindanao_recovery_watch",
+      "source_name": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "error": "HTTPSConnectionPool(host='reliefweb.int', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,

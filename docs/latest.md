@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-18T12:09:07+00:00_
+_Generiert: 2026-11-18T12:22:38+00:00_
 
 ## Kurzlage
 
-92 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+97 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -84,14 +84,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region europe: NATO (+2.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - II Time 2026-11-18 09:37:00 UTC 2026-11-18 09:37:00 UTC at epicenter Location 38.719°N 137.873°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[NEU] [UNGEPATCHT] [mittel] poppler: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4647)
+- **[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4655)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-11-18T11:52:01+00:00`, fetched `2026-11-18T11:57:40+00:00`
-  - Treffer: BSI, CERT-Bund, Patch, Schwachstelle, Security
+  - Zeit: published `2026-11-18T12:12:01+00:00`, fetched `2026-11-18T12:22:03+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in poppler ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren, Cross-Site-Scripting-Angriffe durchzuführen, einen Denial-of-Service-Zustand zu verursachen oder möglicherweise den Speicher zu beschädigen.
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff oder nicht spezifierte Angriffe durchzuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年11月17日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU99888632/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
@@ -286,3 +286,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `reliefweb_mindanao_recovery_watch` (webpage_check): HTTPSConnectionPool(host='reliefweb.int', port=443): Read timed out. (read timeout=8)
