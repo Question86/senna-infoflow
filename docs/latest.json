@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T23:12:18+00:00",
-  "run_id": "2026-11-18T23:12:18+00:00",
+  "generated_at": "2026-11-18T23:23:29+00:00",
+  "run_id": "2026-11-18T23:23:29+00:00",
   "date": "2026-11-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 1,
     "today_file_total": 141,
     "displayed_findings": 141,
     "high": 0,
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-18T23:12:07+00:00",
-        "fetched_at": "2026-11-18T23:11:48+00:00",
+        "published_at": "2026-11-18T23:23:17+00:00",
+        "fetched_at": "2026-11-18T23:22:58+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "2d405216e58b9287f1d9"
+        "id": "0908007bebdcefa5bbac"
       },
       {
         "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -3606,8 +3606,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T23:12:07+00:00",
-      "fetched_at": "2026-11-18T23:11:48+00:00",
+      "published_at": "2026-11-18T23:23:17+00:00",
+      "fetched_at": "2026-11-18T23:22:58+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -3641,7 +3641,7 @@
         "HD",
         "LOW"
       ],
-      "id": "2d405216e58b9287f1d9"
+      "id": "0908007bebdcefa5bbac"
     },
     {
       "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -7175,8 +7175,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T23:12:07+00:00",
-      "fetched_at": "2026-11-18T23:11:48+00:00",
+      "published_at": "2026-11-18T23:23:17+00:00",
+      "fetched_at": "2026-11-18T23:22:58+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -7210,28 +7210,7 @@
         "HD",
         "LOW"
       ],
-      "id": "2d405216e58b9287f1d9"
-    },
-    {
-      "title": "マイクロソフト、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始",
-      "url": "https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-18T14:07:11+00:00",
-      "fetched_at": "2026-11-18T23:11:48+00:00",
-      "summary": "マイクロソフト、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始 マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIによるサイバー攻撃に対抗するためのAIエージェントによる新サービス「Microsoft Perception」の提供開始を発...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ae2ed51e8f9a9f07f185"
+      "id": "0908007bebdcefa5bbac"
     }
   ],
   "source_errors": [],
