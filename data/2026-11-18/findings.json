@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-18T11:56:34+00:00",
-    "fetched_at": "2026-11-18T11:57:40+00:00",
+    "published_at": "2026-11-18T12:08:54+00:00",
+    "fetched_at": "2026-11-18T12:08:35+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "9109451a63fa3e492c1a"
+    "id": "02f87423d306c468a296"
   },
   {
     "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -135,6 +135,30 @@
       "PINS"
     ],
     "id": "7986436b4bcca49b3c8d"
+  },
+  {
+    "title": "[NEU] [hoch] Snipe-IT: Schwachstelle ermöglicht Erlangen von Benutzerrechten",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4649",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-18T11:57:01+00:00",
+    "fetched_at": "2026-11-18T12:08:35+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Snipe-IT ausnutzen, um Benutzerrechte bis hin zu Superuser-Rechte zu erlangen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Macro/Policy",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 20,
+    "relevance_reason": "Security (+6.0); Macro/Policy (+5.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph region south_america: Peru (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "cf108db3389796cd8e59"
   },
   {
     "title": "Tencent/LoopForge",
@@ -755,6 +779,52 @@
     "id": "d0666620c44c7714d3c8"
   },
   {
+    "title": "[NEU] [hoch] GNU Emacs: Schwachstelle ermöglicht Codeausführung",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4652",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-18T12:02:01+00:00",
+    "fetched_at": "2026-11-18T12:08:35+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in GNU Emacs ausnutzen, um beliebigen Programmcode auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "364e4a33f420495ccd5a"
+  },
+  {
+    "title": "[NEU] [mittel] vllm: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4651",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-18T12:02:00+00:00",
+    "fetched_at": "2026-11-18T12:08:35+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in vllm ausnutzen, um Sicherheitsvorkehrungen zu umgehen und Dateien zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9ae84b291b84e99894bc"
+  },
+  {
     "title": "Androidアプリ「宮内庁参観音声ガイド- 宮内庁公式アプリ」における複数の脆弱性",
     "url": "https://jvn.jp/jp/JVN19906678/",
     "source": "JVN Japan Vulnerability Notes",
@@ -775,6 +845,52 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "4c6f8a8d20c9a504b797"
+  },
+  {
+    "title": "[NEU] [hoch] Eclipse Mosquitto: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4650",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-18T11:57:01+00:00",
+    "fetched_at": "2026-11-18T12:08:35+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Eclipse Mosquitto ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren oder einen Denial-of-Service-Zustand zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "72a4deb66cfcde705d4c"
+  },
+  {
+    "title": "[NEU] [mittel] Bruno: Schwachstelle ermöglicht Offenlegung von Informationen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4648",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-18T11:57:00+00:00",
+    "fetched_at": "2026-11-18T12:08:35+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Bruno ausnutzen, um Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "fb2c286aa89c9d36ddf1"
   },
   {
     "title": "[NEU] [mittel] rsyslog: Mehrere Schwachstellen",
