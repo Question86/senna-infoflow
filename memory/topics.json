@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-18T02:30:29+00:00",
+  "generated_at": "2026-11-18T02:37:32+00:00",
   "topics": {
     "security": [
       {
@@ -30,7 +30,7 @@
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-11-18T02:30:17+00:00",
+        "published_at": "2026-11-18T02:36:24+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -56,6 +56,13 @@
         "url": "https://e27.co/ai-will-revolutionise-science-without-requiring-ai-geniuses-20261116/"
       },
       {
+        "title": "auから「INFOBAR ZERO」、通話・SMS専用で復活 12月25日発売",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-18T01:35:05+00:00",
+        "relevance_score": 5,
+        "url": "https://k-tai.watch.impress.co.jp/docs/news/2157313.html"
+      },
+      {
         "title": "［速報］マイクロソフト、コーディング用AIモデルとして高性能かつ低価格「MAI Code 2」「MAI Code 2 Flash」発表",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-11-17T23:16:58+00:00",
@@ -64,6 +71,13 @@
       }
     ],
     "general": [
+      {
+        "title": "M 5.8 - 150 km SW of Merizo Village, Guam",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-11-18T02:37:08.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tywi"
+      },
       {
         "title": "M 5.3 - 16 km W of Nereju Mic, Romania",
         "source": "USGS M4.5+ Earthquakes Past Hour",
