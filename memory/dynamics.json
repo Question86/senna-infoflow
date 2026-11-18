@@ -1,27 +1,52 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-18T11:31:59Z",
+  "generated_at": "2026-11-18T11:47:05Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 27,
+      "krass": 28,
       "extreme": 1,
-      "strong": 12
+      "strong": 11
     },
     "bands_after_gate_recheck": {
-      "krass": 4,
-      "strong": 36
+      "krass": 5,
+      "strong": 35
     }
   },
   "top_dynamics": [
+    {
+      "title": "[NEU] [hoch] FreeBSD OS: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4639",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-18T11:32:01+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code, root",
+        "security high-signal: code, root"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in FreeBSD OS ausnutzen, um Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren, einen Denial-of-Service-Zustand zu verursachen, Berechtigungen zu erweitern – einschließlich auf Root-Rechte – und möglicherweise beliebigen Code im Ker…"
+    },
     {
       "title": "[UPDATE] [niedrig] vim: Schwachstelle ermöglicht Codeausführung",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1335",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T10:02:01+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -46,7 +71,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1962",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T10:02:01+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -71,7 +96,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0940",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T10:02:01+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -96,7 +121,7 @@
       "url": "https://cert.europa.eu/publications/security-advisories/2026-021/",
       "source": "CERT-EU Security Advisories",
       "published_at": "2026-11-18T10:11:05+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "security"
@@ -122,7 +147,7 @@
       "url": "https://jvn.jp/jp/JVN19906678/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-18T12:00:00+09:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -146,7 +171,7 @@
       "url": "https://jvn.jp/vu/JVNVU99608534/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-18T10:30:00+09:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -170,7 +195,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2659",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T10:07:00+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -194,7 +219,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0551",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T10:02:01+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -218,7 +243,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4533",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T08:48:11+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -242,7 +267,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4615",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T08:27:01+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -266,7 +291,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4456",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T11:18:50+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -292,7 +317,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4490",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T11:18:49+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -318,7 +343,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4494",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T11:18:48+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -344,7 +369,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2022-0187",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T10:42:01+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security",
         "macro"
@@ -371,7 +396,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4631",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T10:42:01+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security",
         "macro"
@@ -398,7 +423,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4630",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T10:42:00+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security",
         "macro"
@@ -425,7 +450,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4629",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T08:52:01+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -451,7 +476,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4627",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T08:52:00+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -477,7 +502,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4580",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T08:48:12+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "security"
@@ -504,7 +529,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4619",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T08:37:00+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -530,7 +555,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4617",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T08:27:01+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -556,7 +581,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4618",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T08:27:01+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -582,7 +607,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4616",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T08:27:01+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -608,7 +633,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4613",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T08:27:00+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -634,7 +659,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4614",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T08:27:00+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -660,7 +685,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4612",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T08:22:00+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -686,7 +711,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3070",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T07:42:01+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai",
         "security"
@@ -713,7 +738,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4491",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T11:18:48+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -738,7 +763,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4632",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T10:57:00+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -763,7 +788,7 @@
       "url": "https://jvn.jp/vu/JVNVU99888632/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-18T09:00:00+09:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "security"
       ],
@@ -788,7 +813,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4498",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T11:18:47+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -813,7 +838,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3363",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T10:02:01+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -838,7 +863,7 @@
       "url": "https://e27.co/singapores-wealth-onboarding-problem-isnt-the-review-its-the-back-and-forth-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-18T03:00:44+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "ai"
       ],
@@ -864,7 +889,7 @@
       "url": "https://github.com/Tencent/LoopForge",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-18T09:01:25+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro"
@@ -893,7 +918,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 152.4,
+      "age_days": 152.41,
       "topics": [
         "ai"
       ],
@@ -921,8 +946,8 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-11-18T11:27:46+00:00",
-      "age_days": 0.0,
+      "published_at": "2026-11-18T11:35:07+00:00",
+      "age_days": 0.01,
       "topics": [
         "ai",
         "macro",
@@ -951,7 +976,7 @@
       "url": "https://jvn.jp/vu/JVNVU96847970/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-18T09:00:15+09:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "security"
       ],
@@ -977,7 +1002,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4628",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-18T08:52:01+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "security",
@@ -1007,7 +1032,7 @@
       "url": "https://e27.co/google-catches-ai-agents-hacking-with-no-human-in-the-loop-20261118/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-18T04:36:31+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "ai",
         "security",
@@ -1029,33 +1054,7 @@
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": "The hacker hunched over a keyboard is becoming a supervisor. According to Google, more and more of the actual break-in work is now being done by software agents that scan, exploit and adjust on their own. In its latest AI Threat Tracker, published early this week, Google Threat Intelligence Group (GTIG) and its incide…"
-    },
-    {
-      "title": "N-able stopft attackierte Sicherheitslecks in N-central",
-      "url": "https://www.heise.de/news/N-able-stopft-attackierte-Sicherheitslecks-in-N-central-11528739.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-11-18T07:48:00.000+00:00",
-      "age_days": 0.16,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 24.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: angriffe",
-        "security high-signal: angriffe"
-      ],
-      "summary": "Am Wochenende wurden Angriffe auf Lücken in der Fernüberwachung N-central bekannt. Nun stehen Updates bereit, die sie schließen."
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [niedrig] vim: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] FreeBSD OS: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
 }
