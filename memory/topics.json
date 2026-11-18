@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-18T04:53:28+00:00",
+  "generated_at": "2026-11-18T04:58:38+00:00",
   "topics": {
     "security": [
       {
@@ -137,6 +137,13 @@
     ],
     "general": [
       {
+        "title": "M 5.8 - 40 km N of Ruteng, Indonesia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-11-18T04:57:04.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyxi"
+      },
+      {
         "title": "M 5.2 - 54 km NNE of Ruteng, Indonesia",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-11-18T04:35:38.040+00:00",
@@ -198,13 +205,6 @@
         "published_at": "2026-11-17T23:00:37+00:00",
         "relevance_score": 5,
         "url": "https://internet.watch.impress.co.jp/docs/column/chizu3/2152316.html"
-      },
-      {
-        "title": "ソフトウェアエンジニアの黄昏期をこう過ごそうと思う｜わかばめ",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-11-17T13:10:43+00:00",
-        "relevance_score": 5,
-        "url": "https://note.com/wakabame/n/nc76b65a187bb"
       }
     ],
     "github": [
