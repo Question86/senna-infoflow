@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-11-18T02:47:18Z",
+  "generated_at": "2026-11-18T03:03:41Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -46,6 +46,11 @@
       "title": "Updates | ReliefWeb",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
+    },
+    {
+      "title": "GITEX GLOBAL 2026: The race to bring AI out of the cloud and into the physical world",
+      "band": "watch",
+      "reason": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm."
     }
   ]
 }
