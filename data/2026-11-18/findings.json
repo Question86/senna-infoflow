@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-18T23:40:44+00:00",
-    "fetched_at": "2026-11-18T23:40:42+00:00",
+    "published_at": "2026-11-18T23:56:56+00:00",
+    "fetched_at": "2026-11-18T23:56:39+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "f9cb4b91834b5fa828ec"
+    "id": "7293f1d86d904e81d49b"
   },
   {
     "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -2838,6 +2838,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "961848188573b25dd753"
+  },
+  {
+    "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+    "url": "https://openai.com/business/customer-stories/sumitomo-life",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-11-18T08:00:00+00:00",
+    "fetched_at": "2026-11-18T23:56:39+00:00",
+    "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+    "matched_keywords": [
+      "OpenAI"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1dda89b2c7917c4ca05f"
   },
   {
     "title": "AI slop as a business and climate hazard, and a chance to lead",
