@@ -28,8 +28,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-18T07:39:36+00:00",
-    "fetched_at": "2026-11-18T07:40:13+00:00",
+    "published_at": "2026-11-18T07:46:25+00:00",
+    "fetched_at": "2026-11-18T07:46:07+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -63,7 +63,7 @@
       "HD",
       "LOW"
     ],
-    "id": "9007cda63c43b3c1790d"
+    "id": "f28ab2f380cafb818025"
   },
   {
     "title": "Google catches AI agents hacking with no human in the loop",
@@ -408,6 +408,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "35532ad99aa43c778e08"
+  },
+  {
+    "title": "[UPDATE] [hoch] SmarterTools SmarterMail: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3070",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-18T07:42:01+00:00",
+    "fetched_at": "2026-11-18T07:46:07+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in SmarterTools SmarterMail ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Berechtigungen zu erweitern, Cross-Site-Scripting-Angriffe durchzuführen, vertrauliche Informationen offenzulegen, Benutzerkonten aufzulisten oder andere, nicht näher spezifizierte Angriffe durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "eca32901d88827ffcb74"
   },
   {
     "title": "Singapore’s Botsync takes its Physical AI pitch to the US with US$11M in fresh funding",
