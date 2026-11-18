@@ -2461,6 +2461,26 @@
     "id": "5a6417c03bc8dac7ceeb"
   },
   {
+    "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
+    "source": "Federal Reserve Monetary Policy Press Releases",
+    "source_type": "rss",
+    "published_at": "2026-11-18T19:00:00+00:00",
+    "fetched_at": "2026-11-18T19:03:28+00:00",
+    "summary": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "961848188573b25dd753"
+  },
+  {
     "title": "AI slop as a business and climate hazard, and a chance to lead",
     "url": "https://e27.co/ai-slop-as-a-business-and-climate-hazard-and-a-chance-to-lead-20261111/",
     "source": "e27 Asia Startup and Tech Feed",
