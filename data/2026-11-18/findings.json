@@ -28,8 +28,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-18T04:29:56+00:00",
-    "fetched_at": "2026-11-18T04:36:25+00:00",
+    "published_at": "2026-11-18T04:39:52+00:00",
+    "fetched_at": "2026-11-18T04:41:45+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -63,7 +63,54 @@
       "HD",
       "LOW"
     ],
-    "id": "1c9d8ab6b7a9051a0579"
+    "id": "167933f8fe3f32c1e668"
+  },
+  {
+    "title": "Google catches AI agents hacking with no human in the loop",
+    "url": "https://e27.co/google-catches-ai-agents-hacking-with-no-human-in-the-loop-20261118/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-11-18T04:36:31+00:00",
+    "fetched_at": "2026-11-18T04:41:45+00:00",
+    "summary": "The hacker hunched over a keyboard is becoming a supervisor. According to Google, more and more of the actual break-in work is now being done by software agents that scan, exploit and adjust on their own. In its latest AI Threat Tracker, published early this week, Google Threat Intelligence Group (GTIG) and its incident response […] The post Google catches AI agents hacking with no human in the loop appeared first o…",
+    "matched_keywords": [
+      "AI Agents",
+      "AI/KI",
+      "APAC Trend Radar",
+      "Security",
+      "Watchgraph:ai_agents_workflow"
+    ],
+    "relevance_score": 23,
+    "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: GOOGL (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+    "risk_or_opportunity": "mixed",
+    "recommended_action": "Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.",
+    "watchgraph_modules": [
+      "ai_agents_workflow"
+    ],
+    "watchgraph_reasons": [
+      "ai_agents_workflow: AI agents"
+    ],
+    "market_context": [
+      "NVDA",
+      "AMD",
+      "TSM",
+      "ASML",
+      "AVGO",
+      "MU",
+      "005930.KS",
+      "000660.KS",
+      "8035.T",
+      "MSFT",
+      "GTLB",
+      "FROG",
+      "TEAM",
+      "META",
+      "GOOGL",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "7986436b4bcca49b3c8d"
   },
   {
     "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月17日）",

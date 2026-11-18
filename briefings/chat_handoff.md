@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-18T04:36:55+00:00_
+_Generated: 2026-11-18T04:42:16+00:00_
 
 ## Status
 - status: `normal`
-- findings: `24`
+- findings: `25`
 
 ## Top Signals
 
@@ -18,23 +18,23 @@ _Generated: 2026-11-18T04:36:55+00:00_
 ### 2. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-18T04:29:56+00:00`
+- published: `2026-11-18T04:39:52+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
-### 3. CISA ICS Advisory / ICS Medical Advisory（2026年11月17日）
+### 3. Google catches AI agents hacking with no human in the loop
+- source: e27 Asia Startup and Tech Feed
+- score: `23`
+- published: `2026-11-18T04:36:31+00:00`
+- url: https://e27.co/google-catches-ai-agents-hacking-with-no-human-in-the-loop-20261118/
+- summary: The hacker hunched over a keyboard is becoming a supervisor. According to Google, more and more of the actual break-in work is now being done by software agents that scan, exploit and adjust on their own. In its latest AI Threat Tracker, published early this…
+
+### 4. CISA ICS Advisory / ICS Medical Advisory（2026年11月17日）
 - source: JVN Japan Vulnerability Notes
 - score: `16`
 - published: `2026-11-18T09:00:00+09:00`
 - url: https://jvn.jp/vu/JVNVU99888632/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
-
-### 4. M 5.2 - 54 km NNE of Ruteng, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-11-18T04:35:38.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyxc
-- summary: Time 2026-11-18 04:21:35 UTC 2026-11-18 04:21:35 UTC at epicenter Location 8.151°S 120.649°E Depth 10.00 km (6.21 mi)
 
 ### 5. Why I filed a consumer complaint against 7 global AI giants over the ‘linguistic tax’
 - source: e27 Asia Startup and Tech Feed
