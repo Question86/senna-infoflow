@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-18T08:22:02Z",
+  "generated_at": "2026-11-18T08:32:19Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 3,
+      "krass": 4,
       "strong": 12,
       "watch": 9,
-      "quiet": 16
+      "quiet": 15
     },
     "bands_after_gate_recheck": {
-      "strong": 15,
+      "strong": 16,
       "watch": 9,
-      "quiet": 16
+      "quiet": 15
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/jp/JVN19906678/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-18T12:00:00+09:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -67,6 +67,32 @@
       "summary": "複数のJava実行環境にはヒープベースのバッファオーバーフローの脆弱性（CVE-2026-114938）が存在します。 本脆弱性の発見者は本件を「Java4Shell」と呼称し、Base64デコード処理を高速化するための最適化処理に原因があると指摘しています。"
     },
     {
+      "title": "[NEU] [hoch] Oracle Database Server: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4612",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-18T08:22:00+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Database Server ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden."
+    },
+    {
       "title": "[UPDATE] [hoch] SmarterTools SmarterMail: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3070",
       "source": "BSI CERT-Bund Security Advisories",
@@ -98,7 +124,7 @@
       "url": "https://jvn.jp/vu/JVNVU99888632/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-18T09:00:00+09:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -123,7 +149,7 @@
       "url": "https://e27.co/singapores-wealth-onboarding-problem-isnt-the-review-its-the-back-and-forth-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-18T03:00:44+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -178,7 +204,7 @@
       "url": "https://jvn.jp/vu/JVNVU96847970/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-18T09:00:15+09:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -203,8 +229,8 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-11-18T08:19:05+00:00",
-      "age_days": 0.0,
+      "published_at": "2026-11-18T08:22:38+00:00",
+      "age_days": 0.01,
       "topics": [
         "ai",
         "macro",
@@ -261,7 +287,7 @@
       "url": "https://www.heise.de/news/N-able-stopft-attackierte-Sicherheitslecks-in-N-central-11528739.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-18T07:48:00.000+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "security"
@@ -287,7 +313,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyy2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-18T05:59:49.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -312,7 +338,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyxi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-18T04:57:04.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -362,7 +388,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tywx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-18T03:42:34.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -387,7 +413,7 @@
       "url": "https://e27.co/solana-foundations-coingecko-stake-turns-cryptos-scoreboard-into-a-player-20261118/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-18T04:10:18+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "infra"
       ],
@@ -437,7 +463,7 @@
       "url": "https://e27.co/why-i-filed-a-consumer-complaint-against-7-global-ai-giants-over-the-linguistic-tax-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-18T04:00:26+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -463,7 +489,7 @@
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260102.en.html",
       "source": "ECB Open Market Operations and Communication",
       "published_at": "2026-11-18T08:15:23+00:00",
-      "age_days": 0.0,
+      "age_days": 0.01,
       "topics": [
         "macro"
       ],
@@ -487,7 +513,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyxz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-18T05:38:36.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -512,7 +538,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tywi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-18T02:37:08.040+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -563,7 +589,7 @@
       "url": "https://e27.co/singapore-fintechs-are-pouring-money-into-ai-the-returns-are-not-keeping-up-20261118/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-18T05:12:32+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -589,7 +615,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyx2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-18T03:55:54.040+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -637,7 +663,7 @@
       "url": "https://piyolog.hatenadiary.jp/entry/2026/11/18/100525",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-18T01:53:39+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -661,7 +687,7 @@
       "url": "https://note.com/unsoluble_sugar/n/n58c97b4dee67",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-16T01:04:11+00:00",
-      "age_days": 2.3,
+      "age_days": 2.31,
       "topics": [
         "general"
       ],
@@ -685,7 +711,7 @@
       "url": "https://e27.co/high-performing-teams-dont-avoid-conflict-they-know-how-to-lead-through-it-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-18T05:00:06+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -710,7 +736,7 @@
       "url": "https://e27.co/singapores-botsync-takes-its-physical-ai-pitch-to-the-us-with-us11m-in-fresh-funding-20261118/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-18T06:23:28+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -785,7 +811,7 @@
       "url": "https://internet.watch.impress.co.jp/docs/column/chizu3/2152316.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-17T23:00:37+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "general"
       ],
@@ -809,7 +835,7 @@
       "url": "https://note.com/wakabame/n/nc76b65a187bb",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-17T13:10:43+00:00",
-      "age_days": 0.8,
+      "age_days": 0.81,
       "topics": [
         "general"
       ],
@@ -833,7 +859,7 @@
       "url": "https://e27.co/92-of-tracked-whales-are-short-why-bitcoin-at-us64752-is-a-trap-for-both-sides-20261118/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-18T03:02:21+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "macro"
       ],
@@ -857,7 +883,7 @@
       "url": "https://japan.cnet.com/article/35254996/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-17T07:22:06+00:00",
-      "age_days": 1.04,
+      "age_days": 1.05,
       "topics": [
         "ai"
       ],
@@ -882,7 +908,7 @@
       "url": "https://www.publickey1.jp/blog/26/aimai_code_2mai_code_2_flash.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-17T23:16:58+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "ai"
       ],
@@ -908,7 +934,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 151.23,
+      "age_days": 151.24,
       "topics": [
         "general"
       ],
@@ -933,7 +959,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 151.23,
+      "age_days": 151.24,
       "topics": [
         "general"
       ],
@@ -958,7 +984,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 151.23,
+      "age_days": 151.24,
       "topics": [
         "ai"
       ],
@@ -985,7 +1011,7 @@
       "url": "https://e27.co/ai-slop-as-a-business-and-climate-hazard-and-a-chance-to-lead-20261111/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-18T06:00:43+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "macro"
@@ -1005,31 +1031,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "AI slop is emblematic of AI/LLM shortcomings and wasted money, time, and human potential. AI slop exists because human slop existed. LLMs were trained on the kind of trite, rehashed, insubstantial drivel that fills so many corporate documents, social media platforms, and so-called thought leadership. But AI slop, unli…"
-    },
-    {
-      "title": "AI makes video production faster. The real test is how teams handle feedback",
-      "url": "https://e27.co/ai-makes-video-production-faster-the-real-test-is-how-teams-handle-feedback-20261111/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-18T05:00:57+00:00",
-      "age_days": 0.14,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "AI video tools are making it easier to create images and turn them into moving footage. But in commercial production, generating a shot is only one step. The real challenge is turning a creative brief into a finished video while responding to changing feedback and working within a tight deadline. I experienced this wh…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Androidアプリ「宮内庁参観音声ガイド- 宮内庁公式アプリ」における複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
