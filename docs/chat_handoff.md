@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-18T04:30:18+00:00_
+_Generated: 2026-11-18T04:36:55+00:00_
 
 ## Status
 - status: `normal`
-- findings: `23`
+- findings: `24`
 
 ## Top Signals
 
@@ -18,7 +18,7 @@ _Generated: 2026-11-18T04:30:18+00:00_
 ### 2. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-18T04:24:10+00:00`
+- published: `2026-11-18T04:29:56+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -29,12 +29,12 @@ _Generated: 2026-11-18T04:30:18+00:00_
 - url: https://jvn.jp/vu/JVNVU99888632/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 4. M 4.8 - 134 km ENE of Nabire, Indonesia
+### 4. M 5.2 - 54 km NNE of Ruteng, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
-- published: `2026-11-18T03:42:34.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tywx
-- summary: Time 2026-11-18 03:23:58 UTC 2026-11-18 03:23:58 UTC at epicenter Location 2.991°S 136.658°E Depth 10.00 km (6.21 mi)
+- published: `2026-11-18T04:35:38.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyxc
+- summary: Time 2026-11-18 04:21:35 UTC 2026-11-18 04:21:35 UTC at epicenter Location 8.151°S 120.649°E Depth 10.00 km (6.21 mi)
 
 ### 5. Why I filed a consumer complaint against 7 global AI giants over the ‘linguistic tax’
 - source: e27 Asia Startup and Tech Feed
