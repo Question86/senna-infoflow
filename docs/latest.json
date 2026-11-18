@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T11:00:51+00:00",
-  "run_id": "2026-11-18T11:00:51+00:00",
+  "generated_at": "2026-11-18T11:13:13+00:00",
+  "run_id": "2026-11-18T11:13:13+00:00",
   "date": "2026-11-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 70
+      "configured_public_sources_only": 71
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 70,
-    "displayed_findings": 70,
+    "new_relevant_findings": 2,
+    "today_file_total": 71,
+    "displayed_findings": 71,
     "high": 0,
-    "medium": 40,
+    "medium": 41,
     "observe": 30,
     "source_errors": 0
   },
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-18T10:55:07+00:00",
-        "fetched_at": "2026-11-18T11:00:14+00:00",
+        "published_at": "2026-11-18T11:12:59+00:00",
+        "fetched_at": "2026-11-18T11:12:42+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "afc579d9c04e3188a6e9"
+        "id": "8ac0fa1b0215ebc59f7a"
       },
       {
         "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -294,6 +294,30 @@
           "LOW"
         ],
         "id": "59a359e4da0daca42e1f"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [hoch] Flowise: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4632",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-11-18T10:57:00+00:00",
+        "fetched_at": "2026-11-18T11:12:42+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Flowise ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Dateien zu manipulieren und Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Patch",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2b5819d5f031d9312e98"
       },
       {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月17日）",
@@ -1833,8 +1857,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T10:55:07+00:00",
-      "fetched_at": "2026-11-18T11:00:14+00:00",
+      "published_at": "2026-11-18T11:12:59+00:00",
+      "fetched_at": "2026-11-18T11:12:42+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1868,7 +1892,7 @@
         "HD",
         "LOW"
       ],
-      "id": "afc579d9c04e3188a6e9"
+      "id": "8ac0fa1b0215ebc59f7a"
     },
     {
       "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -2093,6 +2117,30 @@
         "LOW"
       ],
       "id": "59a359e4da0daca42e1f"
+    },
+    {
+      "title": "[NEU] [UNGEPATCHT] [hoch] Flowise: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4632",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-18T10:57:00+00:00",
+      "fetched_at": "2026-11-18T11:12:42+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Flowise ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Dateien zu manipulieren und Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Patch",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2b5819d5f031d9312e98"
     },
     {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月17日）",
@@ -3629,8 +3677,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T10:55:07+00:00",
-      "fetched_at": "2026-11-18T11:00:14+00:00",
+      "published_at": "2026-11-18T11:12:59+00:00",
+      "fetched_at": "2026-11-18T11:12:42+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -3664,7 +3712,31 @@
         "HD",
         "LOW"
       ],
-      "id": "afc579d9c04e3188a6e9"
+      "id": "8ac0fa1b0215ebc59f7a"
+    },
+    {
+      "title": "[NEU] [UNGEPATCHT] [hoch] Flowise: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4632",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-11-18T10:57:00+00:00",
+      "fetched_at": "2026-11-18T11:12:42+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Flowise ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Dateien zu manipulieren und Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Patch",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2b5819d5f031d9312e98"
     }
   ],
   "source_errors": [],
