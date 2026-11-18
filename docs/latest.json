@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T11:36:21+00:00",
-  "run_id": "2026-11-18T11:36:21+00:00",
+  "generated_at": "2026-11-18T11:41:39+00:00",
+  "run_id": "2026-11-18T11:41:39+00:00",
   "date": "2026-11-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 1,
     "today_file_total": 77,
     "displayed_findings": 77,
     "high": 0,
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-18T11:35:49+00:00",
-        "fetched_at": "2026-11-18T11:35:51+00:00",
+        "published_at": "2026-11-18T11:35:07+00:00",
+        "fetched_at": "2026-11-18T11:41:14+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "b51605186c44377159d8"
+        "id": "6a60693a1cc2f7b58da0"
       },
       {
         "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -1999,8 +1999,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T11:35:49+00:00",
-      "fetched_at": "2026-11-18T11:35:51+00:00",
+      "published_at": "2026-11-18T11:35:07+00:00",
+      "fetched_at": "2026-11-18T11:41:14+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2034,7 +2034,7 @@
         "HD",
         "LOW"
       ],
-      "id": "b51605186c44377159d8"
+      "id": "6a60693a1cc2f7b58da0"
     },
     {
       "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -3961,8 +3961,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T11:35:49+00:00",
-      "fetched_at": "2026-11-18T11:35:51+00:00",
+      "published_at": "2026-11-18T11:35:07+00:00",
+      "fetched_at": "2026-11-18T11:41:14+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -3996,30 +3996,7 @@
         "HD",
         "LOW"
       ],
-      "id": "b51605186c44377159d8"
-    },
-    {
-      "title": "[NEU] [hoch] FreeBSD OS: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4639",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-11-18T11:32:01+00:00",
-      "fetched_at": "2026-11-18T11:35:51+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in FreeBSD OS ausnutzen, um Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren, einen Denial-of-Service-Zustand zu verursachen, Berechtigungen zu erweitern – einschließlich auf Root-Rechte – und möglicherweise beliebigen Code im Kernel oder mit Root-Rechten auszuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7389f4893e6bf3b05e4b"
+      "id": "6a60693a1cc2f7b58da0"
     }
   ],
   "source_errors": [],
