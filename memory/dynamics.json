@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-18T02:22:12Z",
+  "generated_at": "2026-11-18T02:32:11Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 14,
+    "dynamics": 15,
     "bands": {
       "krass": 1,
       "strong": 4,
       "watch": 1,
-      "quiet": 8
+      "quiet": 9
     },
     "bands_after_gate_recheck": {
       "strong": 5,
       "watch": 1,
-      "quiet": 8
+      "quiet": 9
     }
   },
   "top_dynamics": [
@@ -47,7 +47,7 @@
       "url": "https://jvn.jp/vu/JVNVU99888632/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-18T09:00:00+09:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -101,7 +101,7 @@
       "url": "https://jvn.jp/vu/JVNVU96847970/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-18T09:00:15+09:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -126,8 +126,8 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-11-18T02:10:06+00:00",
-      "age_days": 0.01,
+      "published_at": "2026-11-18T02:30:17+00:00",
+      "age_days": 0.0,
       "topics": [
         "ai",
         "macro",
@@ -180,7 +180,7 @@
       "url": "https://note.com/unsoluble_sugar/n/n58c97b4dee67",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-16T01:04:11+00:00",
-      "age_days": 2.05,
+      "age_days": 2.06,
       "topics": [
         "general"
       ],
@@ -230,7 +230,7 @@
       "url": "https://note.com/wakabame/n/nc76b65a187bb",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-17T13:10:43+00:00",
-      "age_days": 0.55,
+      "age_days": 0.56,
       "topics": [
         "general"
       ],
@@ -254,7 +254,7 @@
       "url": "https://japan.cnet.com/article/35254996/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-17T07:22:06+00:00",
-      "age_days": 0.79,
+      "age_days": 0.8,
       "topics": [
         "ai"
       ],
@@ -275,11 +275,37 @@
       "summary": "Googleは11月16日、AIノートツール「Gemini Notebook」で、手持ちの資料から、操作しながら学んだり情報を確認したりできるウェブサイトを生成する機能の提供を開始した。18歳以上を対象に、Google Workspaceの契約者を含むウェブ版の利用者へ世界各地で順次展開する。"
     },
     {
+      "title": "［速報］マイクロソフト、コーディング用AIモデルとして高性能かつ低価格「MAI Code 2」「MAI Code 2 Flash」発表",
+      "url": "https://www.publickey1.jp/blog/26/aimai_code_2mai_code_2_flash.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-17T23:16:58+00:00",
+      "age_days": 0.14,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 2.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: code",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、同社が開発したコーディング用AIモデルのフラグシップで高性能かつ低価格を売り文句とする「MAI Code 2」と、さらに安価な「MAI Code 2 Flash」を発表しました。 競合と同等性能を低価格で提供 MAI Code 2とMAI Code 2 Flashは..."
+    },
+    {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 150.98,
+      "age_days": 150.99,
       "topics": [
         "general"
       ],
@@ -304,7 +330,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 150.98,
+      "age_days": 150.99,
       "topics": [
         "general"
       ],
@@ -329,7 +355,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 150.98,
+      "age_days": 150.99,
       "topics": [
         "ai"
       ],
