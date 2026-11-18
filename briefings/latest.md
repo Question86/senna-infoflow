@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-18T19:34:14+00:00_
+_Generiert: 2026-11-18T19:39:20+00:00_
 
 ## Kurzlage
 
-127 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+128 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,6 +33,10 @@ _Generiert: 2026-11-18T19:34:14+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.6M, Depth:68km) in Indonesia 16/11/2026 21:11 UTC, 6 thousand in MMI V.
+- **USGS earthquake M6.1 - Pacific-Antarctic Ridge** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz37)
+  - Quelle: USGS
+  - Zeit: `2026-11-18T19:14:23+00:00`
+  - Kurz: M6.1 - Pacific-Antarctic Ridge. PAGER alert: none. Tsunami flag: 0.
 - **GDACS: Green earthquake (Magnitude 5.9M, Depth:21.895km) in Peru 18/11/2026 06:07 UTC, 40 thousand in MMI IV.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577946)
   - Quelle: GDACS
   - Zeit: ``
