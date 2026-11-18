@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-18T12:22:38+00:00",
+  "generated_at": "2026-11-18T12:32:45+00:00",
   "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
   "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 5,
+    "new_relevant_findings": 1,
     "today_file_total": 97,
     "displayed_findings": 97,
     "high": 0,
@@ -15,10 +15,10 @@
   },
   "source_errors": [
     {
-      "source_id": "reliefweb_mindanao_recovery_watch",
-      "source_name": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "error": "HTTPSConnectionPool(host='reliefweb.int', port=443): Read timed out. (read timeout=8)"
+      "source_id": "e27_asia_startups_feed",
+      "source_name": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "error": "403 Client Error: Forbidden for url: https://e27.co/index_wp.php/feed/"
     }
   ],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
