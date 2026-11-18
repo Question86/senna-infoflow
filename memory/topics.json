@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-18T03:56:38+00:00",
+  "generated_at": "2026-11-18T04:16:38+00:00",
   "topics": {
     "security": [
       {
@@ -37,9 +37,16 @@
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-11-18T03:50:49+00:00",
+        "published_at": "2026-11-18T04:16:27+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+      },
+      {
+        "title": "Why I filed a consumer complaint against 7 global AI giants over the ‘linguistic tax’",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-18T04:00:26+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/why-i-filed-a-consumer-complaint-against-7-global-ai-giants-over-the-linguistic-tax-20261111/"
       },
       {
         "title": "Singapore’s wealth onboarding problem isn’t the review, it’s the back and forth",
@@ -133,6 +140,20 @@
         "published_at": "2026-11-16T01:04:11+00:00",
         "relevance_score": 9,
         "url": "https://note.com/unsoluble_sugar/n/n58c97b4dee67"
+      },
+      {
+        "title": "Solana Foundation’s CoinGecko stake turns crypto’s scoreboard into a player",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-18T04:10:18+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/solana-foundations-coingecko-stake-turns-cryptos-scoreboard-into-a-player-20261118/"
+      },
+      {
+        "title": "楽天証券への不正アクセスについてまとめてみた - piyolog",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-18T01:53:39+00:00",
+        "relevance_score": 5,
+        "url": "https://piyolog.hatenadiary.jp/entry/2026/11/18/100525"
       },
       {
         "title": "ソフトウェアエンジニアの黄昏期をこう過ごそうと思う｜わかばめ",
