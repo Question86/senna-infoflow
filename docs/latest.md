@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-18T16:56:04+00:00_
+_Generiert: 2026-11-18T17:01:06+00:00_
 
 ## Kurzlage
 
-112 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+113 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-18T16:49:43+00:00`, fetched `2026-11-18T16:55:37+00:00`
+  - Zeit: published `2026-11-18T16:55:53+00:00`, fetched `2026-11-18T17:00:27+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -186,6 +186,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); CERT-FR (+2.0); alerte (+2.0); vulnérabilité (+2.5)
   - Kurz: Le 22 août 2024, Sonicwall a publié un correctif concernant la vulnérabilité critique CVE-2024-40766 affectant les pare-feux Sonicwall génération 5, 6 et 7. Cette vulnérabilité, de type contrôle d'accès défaillant, permet à un attaquant de provoquer un déni de service à distance, une atteinte à...
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Security risk assessments run automatically on GitHub Team** — Score 11, risk — [Quelle](https://github.blog/changelog/2026-11-18-security-risk-assessments-run-automatically-on-github-team)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-11-18T16:54:26+00:00`, fetched `2026-11-18T17:00:27+00:00`
+  - Treffer: GitHub, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); GitHub (+2.5); recent (+1.0)
+  - Kurz: GitHub security risk assessments now run automatically for organizations on GitHub Team. Organization admins and security managers can review findings from the free assessments to identify exposed credentials and code… The post Security risk assessments run automatically on GitHub Team appeared first on The GitHub Blog .
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Version 1.0: OpenJDK - Kritische Schwachstelle "Java4Shell" gefährdet Java-Anwendungen** — Score 11, observation — [Quelle](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-306673-1032_bits.html)
   - Quelle: BSI CERT-Bund Cyber-Sicherheitswarnungen / `rss`
   - Zeit: published `2026-11-18T12:00:00+00:00`, fetched `2026-11-18T11:52:27+00:00`
@@ -267,15 +276,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-11-18 05:25:43 UTC 2026-11-18 05:25:43 UTC at epicenter Location 0.435°N 103.084°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **14年間使ってきたWordPressをやめて、個人ブログを作り直した話｜星影｜Tech Hunter** — Score 9, observation — [Quelle](https://note.com/unsoluble_sugar/n/n58c97b4dee67)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-16T01:04:11+00:00`, fetched `2026-11-18T00:51:36+00:00`
-  - Treffer: Hatena, hotentry, Webentwicklung
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Webentwicklung (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 仕組みを簡単に説明すると、WordPressはアクセスされるたびにサーバー側で処理を行ってページを表示しますが、静的サイトでは、あらかじめ作っておいたHTMLファイルをそのまま配信します。 毎回プログラムを動かす必要がないので、表示が速くなり、セキュリティ上のリスクも抑えられます。 サイトの置き場所には「Cloudf...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
@@ -286,3 +286,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `cert_eu_security_advisories` (rss): HTTPSConnectionPool(host='cert.europa.eu', port=443): Read timed out. (read timeout=8)

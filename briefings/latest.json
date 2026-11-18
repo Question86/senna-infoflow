@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-18T16:56:04+00:00",
-  "run_id": "2026-11-18T16:56:04+00:00",
+  "generated_at": "2026-11-18T17:01:06+00:00",
+  "run_id": "2026-11-18T17:01:06+00:00",
   "date": "2026-11-18",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 112
+      "configured_public_sources_only": 113
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 112,
-    "displayed_findings": 112,
+    "new_relevant_findings": 2,
+    "today_file_total": 113,
+    "displayed_findings": 113,
     "high": 0,
     "medium": 66,
-    "observe": 46,
-    "source_errors": 0
+    "observe": 47,
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-18T16:49:43+00:00",
-        "fetched_at": "2026-11-18T16:55:37+00:00",
+        "published_at": "2026-11-18T16:55:53+00:00",
+        "fetched_at": "2026-11-18T17:00:27+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "21f6d88094a66c84933d"
+        "id": "9d5114050241a1ae8b8b"
       },
       {
         "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -1853,6 +1853,27 @@
         "id": "f2b0457bf19191a6854a"
       },
       {
+        "title": "Security risk assessments run automatically on GitHub Team",
+        "url": "https://github.blog/changelog/2026-11-18-security-risk-assessments-run-automatically-on-github-team",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-11-18T16:54:26+00:00",
+        "fetched_at": "2026-11-18T17:00:27+00:00",
+        "summary": "GitHub security risk assessments now run automatically for organizations on GitHub Team. Organization admins and security managers can review findings from the free assessments to identify exposed credentials and code… The post Security risk assessments run automatically on GitHub Team appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub",
+          "Security"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Security (+7.5); GitHub (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b91084ec51930119d57e"
+      },
+      {
         "title": "Version 1.0: OpenJDK - Kritische Schwachstelle \"Java4Shell\" gefährdet Java-Anwendungen",
         "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-306673-1032_bits.html",
         "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
@@ -2824,8 +2845,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T16:49:43+00:00",
-      "fetched_at": "2026-11-18T16:55:37+00:00",
+      "published_at": "2026-11-18T16:55:53+00:00",
+      "fetched_at": "2026-11-18T17:00:27+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2859,7 +2880,7 @@
         "HD",
         "LOW"
       ],
-      "id": "21f6d88094a66c84933d"
+      "id": "9d5114050241a1ae8b8b"
     },
     {
       "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
@@ -4641,6 +4662,27 @@
       "id": "f2b0457bf19191a6854a"
     },
     {
+      "title": "Security risk assessments run automatically on GitHub Team",
+      "url": "https://github.blog/changelog/2026-11-18-security-risk-assessments-run-automatically-on-github-team",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-11-18T16:54:26+00:00",
+      "fetched_at": "2026-11-18T17:00:27+00:00",
+      "summary": "GitHub security risk assessments now run automatically for organizations on GitHub Team. Organization admins and security managers can review findings from the free assessments to identify exposed credentials and code… The post Security risk assessments run automatically on GitHub Team appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub",
+        "Security"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Security (+7.5); GitHub (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b91084ec51930119d57e"
+    },
+    {
       "title": "Version 1.0: OpenJDK - Kritische Schwachstelle \"Java4Shell\" gefährdet Java-Anwendungen",
       "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-306673-1032_bits.html",
       "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
@@ -5611,8 +5653,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-18T16:49:43+00:00",
-      "fetched_at": "2026-11-18T16:55:37+00:00",
+      "published_at": "2026-11-18T16:55:53+00:00",
+      "fetched_at": "2026-11-18T17:00:27+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -5646,10 +5688,38 @@
         "HD",
         "LOW"
       ],
-      "id": "21f6d88094a66c84933d"
+      "id": "9d5114050241a1ae8b8b"
+    },
+    {
+      "title": "Security risk assessments run automatically on GitHub Team",
+      "url": "https://github.blog/changelog/2026-11-18-security-risk-assessments-run-automatically-on-github-team",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-11-18T16:54:26+00:00",
+      "fetched_at": "2026-11-18T17:00:27+00:00",
+      "summary": "GitHub security risk assessments now run automatically for organizations on GitHub Team. Organization admins and security managers can review findings from the free assessments to identify exposed credentials and code… The post Security risk assessments run automatically on GitHub Team appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub",
+        "Security"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Security (+7.5); GitHub (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b91084ec51930119d57e"
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "cert_eu_security_advisories",
+      "source_name": "CERT-EU Security Advisories",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='cert.europa.eu', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
