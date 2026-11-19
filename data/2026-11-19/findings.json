@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-19T12:22:28+00:00",
-    "fetched_at": "2026-11-19T12:22:23+00:00",
+    "published_at": "2026-11-19T12:32:41+00:00",
+    "fetched_at": "2026-11-19T12:32:25+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "e9f311e555219a6153ff"
+    "id": "1fd2dea2a65bebe49f69"
   },
   {
     "title": "414,000 ‘AI agents’ tried to log in. None of them were agents",
@@ -217,6 +217,75 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "b080f8e81d70f3084156"
+  },
+  {
+    "title": "[NEU] [mittel] Laravel: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4683",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-19T12:27:01+00:00",
+    "fetched_at": "2026-11-19T12:32:25+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Laravel ausnutzen, um Informationen offenzulegen, um einen Denial of Service Angriff durchzuführen, um Dateien zu manipulieren, um einen Cross-Site Scripting Angriff durchzuführen, um einen SQL-Injection Angriff durchzuführen und um Sicherheitsvorkehrungen zu umgehen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8d96e1bb45a4b643998e"
+  },
+  {
+    "title": "[NEU] [hoch] Ruby: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4668",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-19T12:27:01+00:00",
+    "fetched_at": "2026-11-19T12:32:25+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Ruby ausnutzen, um beliebigen Programmcode auszuführen, einen Denial-of-Service-Zustand auszulösen, vertrauliche Informationen offenzulegen oder eine Speicherbeschädigung herbeizuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "351da71bea3fe5416403"
+  },
+  {
+    "title": "[NEU] [hoch] GnuTLS: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4682",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-19T12:27:00+00:00",
+    "fetched_at": "2026-11-19T12:32:25+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in GnuTLS ausnutzen, um einen Denial-of-Service-Zustand zu verursachen, Zertifikatsvalidierungsbeschränkungen zu umgehen oder einen nicht spezifizierten Angriff durch Speicherbeschädigung durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "11ef3ef65b58de9dcbb1"
   },
   {
     "title": "[NEU] [mittel] systemd: Mehrere Schwachstellen",
@@ -744,6 +813,27 @@
     "id": "8120603694882a89559c"
   },
   {
+    "title": "Some potential financial stability implications of Artificial Intelligence",
+    "url": "https://www.bis.org/speeches/20261119-some-potential-financial-stability-implications-artificial-intelligence",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-11-19T00:00:00+00:00",
+    "fetched_at": "2026-11-19T12:32:25+00:00",
+    "summary": "Speech by Mr Michael S Barr, Member of the Board of Governors of the Federal Reserve System, at the Seventh Annual Association for Computing Machinery International Conference on “Artificial Intelligence in finance”, Milan, 16 November 2026.",
+    "matched_keywords": [
+      "AI/KI",
+      "Macro/Policy"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "AI/KI (+3.8); Macro/Policy (+6.2); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a25bdaeac547aaee8ae0"
+  },
+  {
     "title": "Economic activity, prices, and monetary policy in Japan",
     "url": "https://www.bis.org/speeches/20261119-economic-activity-prices-and-monetary-policy-japan",
     "source": "BIS Central Bankers Speeches",
@@ -884,6 +974,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "9d22869f743277824680"
+  },
+  {
+    "title": "複雑な立体形状や皮膚上に直接形成可能なナノメッシュ皮膚センサの開発に成功 ―次世代ヘルスケアやヒューマン・マシン・インターフェース応用に期待―",
+    "url": "https://www.t.u-tokyo.ac.jp/press/pr2026-11-19-001",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-11-19T07:06:05+00:00",
+    "fetched_at": "2026-11-19T12:32:25+00:00",
+    "summary": "複雑な立体形状や皮膚上に直接形成可能なナノメッシュ皮膚センサの開発に成功 ―次世代ヘルスケアやヒューマン・マシン・インターフェース応用に期待― 発表のポイント ◆ 導電性のナノファイバーを皮膚上に直接紡糸することで、指先などの複雑な立体曲面にも密着するナノメッシュ皮膚センサの開発に成功しました。 ◆ 開発...",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Tokyo (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "003f9197a0637154a2d7"
   },
   {
     "title": "Is the Anthropic IPO a sentiment barometer rather than a crypto crash trigger?",
