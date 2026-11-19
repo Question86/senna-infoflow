@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-19T23:46:18+00:00",
-    "fetched_at": "2026-11-19T23:48:44+00:00",
+    "published_at": "2026-11-19T23:59:05+00:00",
+    "fetched_at": "2026-11-19T23:58:48+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "e623595fb06d67795c40"
+    "id": "73205fe2149154d8e5ec"
   },
   {
     "title": "414,000 ‘AI agents’ tried to log in. None of them were agents",
@@ -2244,6 +2244,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "2ac5cbc8549d9db76c2f"
+  },
+  {
+    "title": "マウスやキーボードの電池残量がタスクバーで確認できる「BatteryHub」",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2158043.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-11-19T21:48:20+00:00",
+    "fetched_at": "2026-11-19T23:58:48+00:00",
+    "summary": "マウスやキーボードの電池残量がタスクバーで確認できる「BatteryHub」",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "153a3c21dd5a37ffc992"
   },
   {
     "title": "11月に修正されたPHPの脆弱性についてまとめてみた - piyolog",
