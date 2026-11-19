@@ -1,24 +1,34 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-19T11:13:01+00:00",
+  "generated_at": "2026-11-19T11:24:32+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 47,
-    "displayed_findings": 47,
+    "new_relevant_findings": 3,
+    "today_file_total": 49,
+    "displayed_findings": 49,
     "high": 0,
-    "medium": 14,
+    "medium": 16,
     "observe": 33
   },
   "source_errors_count": 0,
   "top_signals": [
     {
+      "title": "414,000 ‘AI agents’ tried to log in. None of them were agents",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-19T11:22:59+00:00",
+      "relevance_score": 23,
+      "url": "https://e27.co/414000-ai-agents-tried-to-log-in-none-of-them-were-agents-20261119/",
+      "summary": "Last month, 414,210 visitors to an online marketplace introduced themselves as a widely used consumer AI agent. Every one of them went straight to the sign-in page. Every one of them failed. They were not agents. They were credential-stuffing bots wearing an…",
+      "section": "medium"
+    },
+    {
       "title": "Updates | ReliefWeb",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T11:05:24+00:00",
+      "published_at": "2026-11-19T11:17:59+00:00",
       "relevance_score": 23,
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
@@ -42,16 +52,6 @@
       "relevance_score": 15,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxb",
       "summary": "Time 2026-11-19 01:34:52 UTC 2026-11-19 01:34:52 UTC at epicenter Location 0.523°N 96.530°E Depth 37.00 km (22.99 mi)",
-      "section": "medium"
-    },
-    {
-      "title": "ブラウザ拡張機能「Win Bird 授業支援」におけるクロスサイトスクリプティングの脆弱性",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-11-19T14:00:00+09:00",
-      "relevance_score": 14,
-      "url": "https://jvn.jp/jp/JVN29068051/",
-      "summary": "ウィンバード株式会社が提供するブラウザ拡張機能「Win Bird 授業支援」には、クロスサイトスクリプティングの脆弱性が存在します。",
       "section": "medium"
     },
     {
@@ -100,141 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “[UPDATE] [kritisch] Synology DiskStation Manager: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "[UPDATE] [kritisch] Synology DiskStation Manager: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3378",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-19T11:02:01+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: kritisch, code",
-          "security high-signal: kritisch, code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen im Synology DiskStation Manager ausnutzen, um beliebigen Code auszuführen, Administrator-Sitzungen zu übernehmen und um Informationen offenzulegen oder zu manipulieren."
-      },
-      {
-        "title": "[NEU] [hoch] JetBrains TeamCity: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4661",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-19T10:17:00+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in JetBrains TeamCity ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Dateien zu manipulieren, Informationen offenzulegen, einen Denial-of-Service-Zustand zu verursachen, Rechte auf die eines Systemadministrators zu erweitern oder beliebigen Programmcode auszuführen."
-      },
-      {
-        "title": "[NEU] [hoch] OpenVPN: Schwachstelle ermöglicht Codeausführung",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4659",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-19T10:02:01+00:00",
-        "age_days": 0.05,
-        "topics": [
-          "security",
-          "infra"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code, vpn",
-          "security high-signal: code, vpn"
-        ],
-        "summary": "Ein lokaler Angreifer kann eine Schwachstelle in OpenVPN ausnutzen, um beliebigen Programmcode auszuführen."
-      },
-      {
-        "title": "[UPDATE] [hoch] Red Hat OpenStack: Schwachstelle ermöglicht Umgehung von Sicherheitsmaßnahmen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4544",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-19T09:22:48+00:00",
-        "age_days": 0.08,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: auth",
-          "security high-signal: auth"
-        ],
-        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Red Hat OpenStack ausnutzen, um Sicherheitsmaßnahmen zu umgehen."
-      },
-      {
-        "title": "[NEU] [hoch] NGINX: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4658",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-19T08:02:01+00:00",
-        "age_days": 0.14,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in NGINX und NGINX NGINX Plus ausnutzen, um beliebigen Programmcode mit den Rechten des Dienstes auszuführen, um Sicherheitsmechanismen zu umgehen und um einen Denial of Service herbeizuführen."
-      }
-    ]
-  }
+  ]
 }

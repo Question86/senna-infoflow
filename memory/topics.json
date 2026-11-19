@@ -1,15 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-19T11:13:01+00:00",
+  "generated_at": "2026-11-19T11:24:32+00:00",
   "topics": {
     "ai": [
       {
+        "title": "414,000 ‘AI agents’ tried to log in. None of them were agents",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-19T11:22:59+00:00",
+        "relevance_score": 23,
+        "url": "https://e27.co/414000-ai-agents-tried-to-log-in-none-of-them-were-agents-20261119/"
+      },
+      {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-11-19T11:05:24+00:00",
+        "published_at": "2026-11-19T11:17:59+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
+      },
+      {
+        "title": "[UPDATE] [mittel] LiteLLM: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-19T11:12:00+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1408"
       },
       {
         "title": "[NEU] [hoch] JetBrains TeamCity: Mehrere Schwachstellen",
@@ -59,23 +73,16 @@
         "published_at": "2026-11-19T04:23:51+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/is-the-anthropic-ipo-a-sentiment-barometer-rather-than-a-crypto-crash-trigger-20261119/"
-      },
-      {
-        "title": "New technology, old questions: productivity puzzles and the macroeconomy",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-11-19T00:00:00+00:00",
-        "relevance_score": 10,
-        "url": "https://www.bis.org/speeches/20261119-new-technology-old-questions-productivity-puzzles-and-macroeconomy"
-      },
-      {
-        "title": "NVIDIA/SkillEvaluator",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 9,
-        "url": "https://github.com/NVIDIA/SkillEvaluator"
       }
     ],
     "security": [
+      {
+        "title": "414,000 ‘AI agents’ tried to log in. None of them were agents",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-19T11:22:59+00:00",
+        "relevance_score": 23,
+        "url": "https://e27.co/414000-ai-agents-tried-to-log-in-none-of-them-were-agents-20261119/"
+      },
       {
         "title": "[NEU] [mittel] OpenSSL: Mehrere Schwachstellen ermöglichen Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
@@ -96,6 +103,13 @@
         "published_at": "2026-11-19T12:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN28897261/"
+      },
+      {
+        "title": "[UPDATE] [mittel] LiteLLM: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-19T11:12:00+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1408"
       },
       {
         "title": "[UPDATE] [kritisch] Synology DiskStation Manager: Mehrere Schwachstellen",
@@ -131,20 +145,78 @@
         "published_at": "2026-11-19T10:02:01+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4659"
+      }
+    ],
+    "economy": [
+      {
+        "title": "414,000 ‘AI agents’ tried to log in. None of them were agents",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-19T11:22:59+00:00",
+        "relevance_score": 23,
+        "url": "https://e27.co/414000-ai-agents-tried-to-log-in-none-of-them-were-agents-20261119/"
       },
       {
-        "title": "[UPDATE] [hoch] Red Hat OpenStack: Schwachstelle ermöglicht Umgehung von Sicherheitsmaßnahmen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-19T09:22:48+00:00",
+        "title": "After Megaspeed, Indonesia pays the compliance bill for Asia’s AI chip race",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-19T05:59:40+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4544"
+        "url": "https://e27.co/after-megaspeed-indonesia-pays-the-compliance-bill-for-asias-ai-chip-race-20261119/"
       },
       {
-        "title": "[NEU] [hoch] NGINX: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-19T08:02:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4658"
+        "title": "Economic activity, prices, and monetary policy in Japan",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-11-19T00:00:00+00:00",
+        "relevance_score": 13,
+        "url": "https://www.bis.org/speeches/20261119-economic-activity-prices-and-monetary-policy-japan"
+      },
+      {
+        "title": "Is the Anthropic IPO a sentiment barometer rather than a crypto crash trigger?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-19T04:23:51+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/is-the-anthropic-ipo-a-sentiment-barometer-rather-than-a-crypto-crash-trigger-20261119/"
+      },
+      {
+        "title": "New technology, old questions: productivity puzzles and the macroeconomy",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-11-19T00:00:00+00:00",
+        "relevance_score": 10,
+        "url": "https://www.bis.org/speeches/20261119-new-technology-old-questions-productivity-puzzles-and-macroeconomy"
+      },
+      {
+        "title": "Canadia Impact Fund makes its first French bet with career guidance startup Choose and Connect",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-19T04:04:43+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/canadia-impact-fund-makes-its-first-french-bet-with-career-guidance-startup-choose-and-connect-20261119/"
+      },
+      {
+        "title": "Before you add AI to your product, fix how work moves inside the company",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-19T02:00:20+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/before-you-add-ai-to-your-product-fix-how-work-moves-inside-the-company-20261112/"
+      },
+      {
+        "title": "The Deutsche Bundesbank's 2026 Financial Stability Review",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-11-19T00:00:00+00:00",
+        "relevance_score": 7,
+        "url": "https://www.bis.org/speeches/20261119-deutsche-bundesbanks-2026-financial-stability-review"
+      },
+      {
+        "title": "Navigating new economic realities - Europe’s outlook in a changing global landscape",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-11-19T00:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.bis.org/speeches/20261119-navigating-new-economic-realities-europes-outlook-changing-global-landscape"
+      },
+      {
+        "title": "Industrial policy - redux or renewal?",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-11-19T00:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.bis.org/speeches/20261119-industrial-policy-redux-or-renewal"
       }
     ],
     "geopolitics": [
@@ -289,78 +361,6 @@
         "published_at": "2026-11-18T23:15:44+00:00",
         "relevance_score": 5,
         "url": "https://forest.watch.impress.co.jp/docs/news/2157690.html"
-      }
-    ],
-    "economy": [
-      {
-        "title": "After Megaspeed, Indonesia pays the compliance bill for Asia’s AI chip race",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-19T05:59:40+00:00",
-        "relevance_score": 14,
-        "url": "https://e27.co/after-megaspeed-indonesia-pays-the-compliance-bill-for-asias-ai-chip-race-20261119/"
-      },
-      {
-        "title": "Economic activity, prices, and monetary policy in Japan",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-11-19T00:00:00+00:00",
-        "relevance_score": 13,
-        "url": "https://www.bis.org/speeches/20261119-economic-activity-prices-and-monetary-policy-japan"
-      },
-      {
-        "title": "Is the Anthropic IPO a sentiment barometer rather than a crypto crash trigger?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-19T04:23:51+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/is-the-anthropic-ipo-a-sentiment-barometer-rather-than-a-crypto-crash-trigger-20261119/"
-      },
-      {
-        "title": "New technology, old questions: productivity puzzles and the macroeconomy",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-11-19T00:00:00+00:00",
-        "relevance_score": 10,
-        "url": "https://www.bis.org/speeches/20261119-new-technology-old-questions-productivity-puzzles-and-macroeconomy"
-      },
-      {
-        "title": "Canadia Impact Fund makes its first French bet with career guidance startup Choose and Connect",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-19T04:04:43+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/canadia-impact-fund-makes-its-first-french-bet-with-career-guidance-startup-choose-and-connect-20261119/"
-      },
-      {
-        "title": "Before you add AI to your product, fix how work moves inside the company",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-19T02:00:20+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/before-you-add-ai-to-your-product-fix-how-work-moves-inside-the-company-20261112/"
-      },
-      {
-        "title": "The Deutsche Bundesbank's 2026 Financial Stability Review",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-11-19T00:00:00+00:00",
-        "relevance_score": 7,
-        "url": "https://www.bis.org/speeches/20261119-deutsche-bundesbanks-2026-financial-stability-review"
-      },
-      {
-        "title": "Navigating new economic realities - Europe’s outlook in a changing global landscape",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-11-19T00:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.bis.org/speeches/20261119-navigating-new-economic-realities-europes-outlook-changing-global-landscape"
-      },
-      {
-        "title": "Industrial policy - redux or renewal?",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-11-19T00:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.bis.org/speeches/20261119-industrial-policy-redux-or-renewal"
-      },
-      {
-        "title": "Can sustainable finance save the planet?",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-11-19T00:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.bis.org/speeches/20261119-can-sustainable-finance-save-planet"
       }
     ],
     "github": [
