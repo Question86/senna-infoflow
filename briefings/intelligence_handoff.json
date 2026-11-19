@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-19T06:04:16Z",
+  "generated_at": "2026-11-19T06:27:19Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “ブラウザ拡張機能「Win Bird 授業支援」におけるクロスサイトスクリプティングの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/jp/JVN29068051/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-19T14:00:00+09:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/jp/JVN28897261/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-19T12:00:00+09:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -63,7 +63,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 153.17,
+      "age_days": 153.19,
       "topics": [
         "ai"
       ],
@@ -92,7 +92,7 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "published_at": "2026-11-19T05:55:41+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai",
         "macro",
@@ -121,7 +121,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-19T01:47:36.040+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -141,11 +141,36 @@
       "summary": "Time 2026-11-19 01:34:52 UTC 2026-11-19 01:34:52 UTC at epicenter Location 0.523°N 96.530°E Depth 37.00 km (22.99 mi)"
     },
     {
+      "title": "M 4.8 - 23 km SSE of Guayaquil, Ecuador",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uby4",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-19T06:21:58.594+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 9.8"
+      ],
+      "summary": "DYFI? - IV Time 2026-11-19 05:49:26 UTC 2026-11-19 05:49:26 UTC at epicenter Location 2.402°S 79.820°W Depth 69.49 km (43.18 mi)"
+    },
+    {
       "title": "If nobody knows you, nobody owes you their trust: How founders can build it anyway",
       "url": "https://e27.co/if-nobody-knows-you-nobody-owes-you-their-trust-how-founders-can-build-it-anyway-20261116/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-19T05:30:54+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
@@ -169,7 +194,7 @@
       "url": "https://e27.co/the-crypto-hype-cycle-is-dead-here-are-the-4-narratives-replacing-it-20261112/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-19T01:00:22+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -195,7 +220,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003316/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-19T00:18:40+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -219,7 +244,7 @@
       "url": "https://note.com/y_hirano/n/nc986ab18b90e",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-18T19:58:08+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "general"
       ],
@@ -243,7 +268,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-19T02:30:01.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "disaster"
@@ -271,7 +296,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxa",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-19T01:48:46.040+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "disaster"
@@ -293,32 +318,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Time 2026-11-19 01:29:33 UTC 2026-11-19 01:29:33 UTC at epicenter Location 5.484°S 35.140°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "After Megaspeed, Indonesia pays the compliance bill for Asia’s AI chip race",
-      "url": "https://e27.co/after-megaspeed-indonesia-pays-the-compliance-bill-for-asias-ai-chip-race-20261119/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-19T05:59:40+00:00",
-      "age_days": 0.0,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "For two years, Indonesia has pitched itself as the place where Asia’s AI workloads would live: a huge domestic digital market, surplus power and a government eager to cut ribbons on hyperscale campuses. Washington has just added a line to that brochure: terms and conditions apply. In a note published on Tuesday, Mayba…"
     }
   ],
   "read_order": [
@@ -331,8 +330,8 @@
   "counts": {
     "bands_after_gate_recheck": {
       "strong": 4,
-      "watch": 3,
-      "quiet": 5
+      "watch": 4,
+      "quiet": 4
     }
   }
 }
