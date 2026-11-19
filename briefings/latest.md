@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-19T12:57:06+00:00_
+_Generiert: 2026-11-19T13:14:35+00:00_
 
 ## Kurzlage
 
-74 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+76 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -71,7 +71,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-19T12:54:13+00:00`, fetched `2026-11-19T12:56:38+00:00`
+  - Zeit: published `2026-11-19T13:13:13+00:00`, fetched `2026-11-19T13:14:06+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -207,6 +207,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan, Bank of Japan (+2.0)
   - Kurz: Speech by Mr Toichiro Asada, Member of the Policy Board of the Bank of Japan, at a meeting with local leaders, Nagasaki, 12 November 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Version 1.0: NGINX - Mehrere kritische Schwachstellen "NGINX2Root" bedrohen Webserver** — Score 12, observation — [Quelle](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-306805-1032_bits.html)
+  - Quelle: BSI CERT-Bund Cyber-Sicherheitswarnungen / `rss`
+  - Zeit: published `2026-11-19T13:00:00+00:00`, fetched `2026-11-19T13:14:06+00:00`
+  - Treffer: BSI, CERT-Bund, Cyber-Sicherheitswarnung, kritisch, kritische Schwachstelle
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); kritisch (+2.5); kritische Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Version 1.0: NGINX - Mehrere kritische Schwachstellen "NGINX2Root" bedrohen Webserver
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Your brand ranks on Google, so why doesn’t ChatGPT recommend it?** — Score 12, observation — [Quelle](https://e27.co/your-brand-ranks-on-google-so-why-doesnt-chatgpt-recommend-it-20261116/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-19T05:00:53+00:00`, fetched `2026-11-19T05:02:07+00:00`
@@ -296,15 +305,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 教師のためのAI入門
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Angriffe auf Lücken in Apache Axis und Roller, LiteLLM, Synology und mehr** — Score 7, observation — [Quelle](https://www.heise.de/news/Angriffe-auf-Luecken-in-Apache-Axis-und-Roller-LiteLLM-Synology-und-mehr-11530429.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-11-19T09:47:00.000+00:00`, fetched `2026-11-19T09:57:18+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Admins müssen den Update-Stand prüfen: Bösartige Akteure haben es auf Sicherheitslücken in Apache Axis und Roller, LiteLLM, Synology und mehr abgesehen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
