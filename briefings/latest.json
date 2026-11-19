@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-19T09:02:43+00:00",
-  "run_id": "2026-11-19T09:02:43+00:00",
+  "generated_at": "2026-11-19T09:15:33+00:00",
+  "run_id": "2026-11-19T09:15:33+00:00",
   "date": "2026-11-19",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 29
+      "configured_public_sources_only": 30
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,12 +19,12 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 29,
-    "displayed_findings": 29,
+    "today_file_total": 30,
+    "displayed_findings": 30,
     "high": 0,
     "medium": 7,
-    "observe": 22,
-    "source_errors": 0
+    "observe": 23,
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -612,6 +612,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "76abb94c52505d6c7673"
+      },
+      {
+        "title": "「10年前にこれ描いてるのすごい」人間とAIが共存する近未来医療SFマンガ『AIの遺電子』全巻99円セール中→なお作者は困惑「僕、作者！！実入りはどうなるの！！？」",
+        "url": "https://togetter.com/li/2772319",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-19T05:30:10+00:00",
+        "fetched_at": "2026-11-19T09:14:57+00:00",
+        "summary": "山田胡瓜・漫画家 @kyuukanba AIの遺電子全巻99円って安すぎるでしょ！！！ 僕、作者！！！ 実入りはどうなるの！！！？ ⋯どうなるかよく分からんけど、 マジで今の時代にピッタリな漫画だからぜひこの機会に買ってください。 x.com/zoknd/status/2… 2026-11-19 00:14:15 きんどう｜新刊セールまとめ @zoknd 秋田書店木...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d2db678c08a39d433d7d"
       },
       {
         "title": "六花亭、カード番号全桁＋セキュリティコード約8000件流出か 決済画面のプログラム改ざん",
@@ -1364,6 +1385,27 @@
       "id": "76abb94c52505d6c7673"
     },
     {
+      "title": "「10年前にこれ描いてるのすごい」人間とAIが共存する近未来医療SFマンガ『AIの遺電子』全巻99円セール中→なお作者は困惑「僕、作者！！実入りはどうなるの！！？」",
+      "url": "https://togetter.com/li/2772319",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-19T05:30:10+00:00",
+      "fetched_at": "2026-11-19T09:14:57+00:00",
+      "summary": "山田胡瓜・漫画家 @kyuukanba AIの遺電子全巻99円って安すぎるでしょ！！！ 僕、作者！！！ 実入りはどうなるの！！！？ ⋯どうなるかよく分からんけど、 マジで今の時代にピッタリな漫画だからぜひこの機会に買ってください。 x.com/zoknd/status/2… 2026-11-19 00:14:15 きんどう｜新刊セールまとめ @zoknd 秋田書店木...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d2db678c08a39d433d7d"
+    },
+    {
       "title": "六花亭、カード番号全桁＋セキュリティコード約8000件流出か 決済画面のプログラム改ざん",
       "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003316/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1531,29 +1573,35 @@
   ],
   "new_findings": [
     {
-      "title": "Euro area monthly balance of payments: September 2026",
-      "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp261119~9319ec6fea.en.html",
-      "source": "ECB Statistical Press Releases",
+      "title": "「10年前にこれ描いてるのすごい」人間とAIが共存する近未来医療SFマンガ『AIの遺電子』全巻99円セール中→なお作者は困惑「僕、作者！！実入りはどうなるの！！？」",
+      "url": "https://togetter.com/li/2772319",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-11-19T09:00:00+00:00",
-      "fetched_at": "2026-11-19T09:02:11+00:00",
-      "summary": "Euro area monthly balance of payments: September 2026",
+      "published_at": "2026-11-19T05:30:10+00:00",
+      "fetched_at": "2026-11-19T09:14:57+00:00",
+      "summary": "山田胡瓜・漫画家 @kyuukanba AIの遺電子全巻99円って安すぎるでしょ！！！ 僕、作者！！！ 実入りはどうなるの！！！？ ⋯どうなるかよく分からんけど、 マジで今の時代にピッタリな漫画だからぜひこの機会に買ってください。 x.com/zoknd/status/2… 2026-11-19 00:14:15 きんどう｜新刊セールまとめ @zoknd 秋田書店木...",
       "matched_keywords": [
-        "balance of payments",
-        "euro area",
-        "Macro/Policy"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 13,
-      "relevance_reason": "Macro/Policy (+5.0); balance of payments (+2.5); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "507e332cb2269ac99a3b"
+      "id": "d2db678c08a39d433d7d"
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "reliefweb_mindanao_recovery_watch",
+      "source_name": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "error": "HTTPSConnectionPool(host='reliefweb.int', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
