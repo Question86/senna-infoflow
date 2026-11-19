@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T15:24:58+00:00",
-  "run_id": "2026-11-19T15:24:58+00:00",
+  "generated_at": "2026-11-19T15:30:12+00:00",
+  "run_id": "2026-11-19T15:30:12+00:00",
   "date": "2026-11-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 83
+      "configured_public_sources_only": 84
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 83,
-    "displayed_findings": 83,
+    "today_file_total": 84,
+    "displayed_findings": 84,
     "high": 0,
     "medium": 37,
-    "observe": 46,
+    "observe": 47,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-19T15:22:31+00:00",
-        "fetched_at": "2026-11-19T15:24:28+00:00",
+        "published_at": "2026-11-19T15:29:36+00:00",
+        "fetched_at": "2026-11-19T15:29:42+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "bd39a3613995d53c3938"
+        "id": "67fee7508108cb4dfad9"
       },
       {
         "title": "414,000 ‘AI agents’ tried to log in. None of them were agents",
@@ -1830,6 +1830,27 @@
         "id": "2ac5cbc8549d9db76c2f"
       },
       {
+        "title": "ソフトウェアダークファクトリー | 技術評論社",
+        "url": "https://gihyo.jp/book/2026/978-4-297-16073-9",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-19T11:56:11+00:00",
+        "fetched_at": "2026-11-19T15:29:42+00:00",
+        "summary": "概要 「ダークファクトリー」とは、人間を排除した無人工場ではありません。AIコーディングの普及に伴い増幅する「あいまいな仕様」「弱い権限設計」「薄いテスト」「壊れやすい運用」といったリスクに対し、人間の判断・業務知識・失敗の教訓をシステム構造に埋め込むことで、AIや複数チームが動いても安全に変更を生み...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b1736b2fa9372e59aea8"
+      },
+      {
         "title": "美少女ゲーム「NIKKE」経由でマルウェア感染 北海道2自治体、委託先が認める",
         "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003351/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -2064,8 +2085,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T15:22:31+00:00",
-      "fetched_at": "2026-11-19T15:24:28+00:00",
+      "published_at": "2026-11-19T15:29:36+00:00",
+      "fetched_at": "2026-11-19T15:29:42+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2099,7 +2120,7 @@
         "HD",
         "LOW"
       ],
-      "id": "bd39a3613995d53c3938"
+      "id": "67fee7508108cb4dfad9"
     },
     {
       "title": "414,000 ‘AI agents’ tried to log in. None of them were agents",
@@ -3858,6 +3879,27 @@
       "id": "2ac5cbc8549d9db76c2f"
     },
     {
+      "title": "ソフトウェアダークファクトリー | 技術評論社",
+      "url": "https://gihyo.jp/book/2026/978-4-297-16073-9",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-19T11:56:11+00:00",
+      "fetched_at": "2026-11-19T15:29:42+00:00",
+      "summary": "概要 「ダークファクトリー」とは、人間を排除した無人工場ではありません。AIコーディングの普及に伴い増幅する「あいまいな仕様」「弱い権限設計」「薄いテスト」「壊れやすい運用」といったリスクに対し、人間の判断・業務知識・失敗の教訓をシステム構造に埋め込むことで、AIや複数チームが動いても安全に変更を生み...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b1736b2fa9372e59aea8"
+    },
+    {
       "title": "美少女ゲーム「NIKKE」経由でマルウェア感染 北海道2自治体、委託先が認める",
       "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003351/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4091,8 +4133,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T15:22:31+00:00",
-      "fetched_at": "2026-11-19T15:24:28+00:00",
+      "published_at": "2026-11-19T15:29:36+00:00",
+      "fetched_at": "2026-11-19T15:29:42+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -4126,50 +4168,28 @@
         "HD",
         "LOW"
       ],
-      "id": "bd39a3613995d53c3938"
+      "id": "67fee7508108cb4dfad9"
     },
     {
-      "title": "Economic activity, prices, and monetary policy in Japan - Japan's money and capital market transformation - will a paradigm shift occur?",
-      "url": "https://www.bis.org/speeches/20261119-economic-activity-prices-and-monetary-policy-japan-japans-money-and-capital-market-transformation-will-paradigm-shift",
-      "source": "BIS Central Bankers Speeches",
+      "title": "ソフトウェアダークファクトリー | 技術評論社",
+      "url": "https://gihyo.jp/book/2026/978-4-297-16073-9",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-11-19T00:00:00+00:00",
-      "fetched_at": "2026-11-19T15:24:28+00:00",
-      "summary": "Speech by Mr Hajime Takata, Member of the Policy Board of the Bank of Japan, at a meeting held by the Tokushima Association of Corporate Executives, Tokyo, 16 November 2026.",
+      "published_at": "2026-11-19T11:56:11+00:00",
+      "fetched_at": "2026-11-19T15:29:42+00:00",
+      "summary": "概要 「ダークファクトリー」とは、人間を排除した無人工場ではありません。AIコーディングの普及に伴い増幅する「あいまいな仕様」「弱い権限設計」「薄いテスト」「壊れやすい運用」といったリスクに対し、人間の判断・業務知識・失敗の教訓をシステム構造に埋め込むことで、AIや複数チームが動いても安全に変更を生み...",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Macro/Policy",
-        "Watchgraph:capitals_power_centers"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "Macro/Policy (+6.2); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan, Tokyo, Bank of Japan (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "watchgraph_reasons": [
-        "capitals_power_centers: capital"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
-      ],
-      "id": "dcc49f286df2d7d07d73"
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b1736b2fa9372e59aea8"
     }
   ],
   "source_errors": [],
