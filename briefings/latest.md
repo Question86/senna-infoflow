@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-19T09:36:06+00:00_
+_Generiert: 2026-11-19T09:41:19+00:00_
 
 ## Kurzlage
 
-33 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+34 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -75,7 +75,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-19T09:29:40+00:00`, fetched `2026-11-19T09:35:35+00:00`
+  - Zeit: published `2026-11-19T09:37:17+00:00`, fetched `2026-11-19T09:40:49+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -247,6 +247,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 教師のためのAI入門
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **The Deutsche Bundesbank's 2026 Financial Stability Review** — Score 7, opportunity — [Quelle](https://www.bis.org/speeches/20261119-deutsche-bundesbanks-2026-financial-stability-review)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-11-19T00:00:00+00:00`, fetched `2026-11-19T09:40:49+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0)
+  - Kurz: Introductory statement by Mr Michael Theurer, Member of the Executive Board of the Deutsche Bundesbank, at the press conference on the publication of the Deutsche Bundesbank's 2026 Financial Stability Review, Frankfurt am Main, 12 November 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **「10年前にこれ描いてるのすごい」人間とAIが共存する近未来医療SFマンガ『AIの遺電子』全巻99円セール中→なお作者は困惑「僕、作者！！実入りはどうなるの！！？」** — Score 5, observation — [Quelle](https://togetter.com/li/2772319)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-19T05:30:10+00:00`, fetched `2026-11-19T09:14:57+00:00`

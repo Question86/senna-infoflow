@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T09:36:06+00:00",
-  "run_id": "2026-11-19T09:36:06+00:00",
+  "generated_at": "2026-11-19T09:41:19+00:00",
+  "run_id": "2026-11-19T09:41:19+00:00",
   "date": "2026-11-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 33
+      "configured_public_sources_only": 34
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 33,
-    "displayed_findings": 33,
+    "today_file_total": 34,
+    "displayed_findings": 34,
     "high": 0,
     "medium": 8,
-    "observe": 25,
+    "observe": 26,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-19T09:29:40+00:00",
-        "fetched_at": "2026-11-19T09:35:35+00:00",
+        "published_at": "2026-11-19T09:37:17+00:00",
+        "fetched_at": "2026-11-19T09:40:49+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "04e7e15631f1876819d3"
+        "id": "3a363d825808d7f8de83"
       },
       {
         "title": "M 5.2 - 141 km W of Teluk Dalam, Indonesia",
@@ -679,6 +679,26 @@
         "id": "76abb94c52505d6c7673"
       },
       {
+        "title": "The Deutsche Bundesbank's 2026 Financial Stability Review",
+        "url": "https://www.bis.org/speeches/20261119-deutsche-bundesbanks-2026-financial-stability-review",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-11-19T00:00:00+00:00",
+        "fetched_at": "2026-11-19T09:40:49+00:00",
+        "summary": "Introductory statement by Mr Michael Theurer, Member of the Executive Board of the Deutsche Bundesbank, at the press conference on the publication of the Deutsche Bundesbank's 2026 Financial Stability Review, Frankfurt am Main, 12 November 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Macro/Policy (+6.2); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6a0528e0568f293d4f81"
+      },
+      {
         "title": "「10年前にこれ描いてるのすごい」人間とAIが共存する近未来医療SFマンガ『AIの遺電子』全巻99円セール中→なお作者は困惑「僕、作者！！実入りはどうなるの！！？」",
         "url": "https://togetter.com/li/2772319",
         "source": "Hatena Bookmark Hotentry IT",
@@ -872,8 +892,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T09:29:40+00:00",
-      "fetched_at": "2026-11-19T09:35:35+00:00",
+      "published_at": "2026-11-19T09:37:17+00:00",
+      "fetched_at": "2026-11-19T09:40:49+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -907,7 +927,7 @@
         "HD",
         "LOW"
       ],
-      "id": "04e7e15631f1876819d3"
+      "id": "3a363d825808d7f8de83"
     },
     {
       "title": "M 5.2 - 141 km W of Teluk Dalam, Indonesia",
@@ -1515,6 +1535,26 @@
       "id": "76abb94c52505d6c7673"
     },
     {
+      "title": "The Deutsche Bundesbank's 2026 Financial Stability Review",
+      "url": "https://www.bis.org/speeches/20261119-deutsche-bundesbanks-2026-financial-stability-review",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-11-19T00:00:00+00:00",
+      "fetched_at": "2026-11-19T09:40:49+00:00",
+      "summary": "Introductory statement by Mr Michael Theurer, Member of the Executive Board of the Deutsche Bundesbank, at the press conference on the publication of the Deutsche Bundesbank's 2026 Financial Stability Review, Frankfurt am Main, 12 November 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6a0528e0568f293d4f81"
+    },
+    {
       "title": "「10年前にこれ描いてるのすごい」人間とAIが共存する近未来医療SFマンガ『AIの遺電子』全巻99円セール中→なお作者は困惑「僕、作者！！実入りはどうなるの！！？」",
       "url": "https://togetter.com/li/2772319",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1707,8 +1747,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T09:29:40+00:00",
-      "fetched_at": "2026-11-19T09:35:35+00:00",
+      "published_at": "2026-11-19T09:37:17+00:00",
+      "fetched_at": "2026-11-19T09:40:49+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1742,28 +1782,27 @@
         "HD",
         "LOW"
       ],
-      "id": "04e7e15631f1876819d3"
+      "id": "3a363d825808d7f8de83"
     },
     {
-      "title": "New technology, old questions: productivity puzzles and the macroeconomy",
-      "url": "https://www.bis.org/speeches/20261119-new-technology-old-questions-productivity-puzzles-and-macroeconomy",
+      "title": "The Deutsche Bundesbank's 2026 Financial Stability Review",
+      "url": "https://www.bis.org/speeches/20261119-deutsche-bundesbanks-2026-financial-stability-review",
       "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
       "published_at": "2026-11-19T00:00:00+00:00",
-      "fetched_at": "2026-11-19T09:35:35+00:00",
-      "summary": "Speech by Mr Philip N Jefferson, Vice Chair of the Board of Governors of the Federal Reserve System, at the University of California, San Diego Economic Roundtable, San Diego, California, 13 November 2026.",
+      "fetched_at": "2026-11-19T09:40:49+00:00",
+      "summary": "Introductory statement by Mr Michael Theurer, Member of the Executive Board of the Deutsche Bundesbank, at the press conference on the publication of the Deutsche Bundesbank's 2026 Financial Stability Review, Frankfurt am Main, 12 November 2026.",
       "matched_keywords": [
-        "macro",
         "Macro/Policy"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "Macro/Policy (+5.0); macro (+2.5); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 7,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "047a369b59541864d162"
+      "id": "6a0528e0568f293d4f81"
     }
   ],
   "source_errors": [],
