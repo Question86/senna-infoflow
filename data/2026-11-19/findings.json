@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-19T04:38:08+00:00",
-    "fetched_at": "2026-11-19T04:39:25+00:00",
+    "published_at": "2026-11-19T04:51:32+00:00",
+    "fetched_at": "2026-11-19T04:50:55+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "aa4266f182e2608499e8"
+    "id": "08c8ffd1025781950189"
   },
   {
     "title": "M 5.2 - 141 km W of Teluk Dalam, Indonesia",
@@ -300,6 +300,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "eb2680bb69c36fadb10c"
+  },
+  {
+    "title": "The fastest raise in Singapore may still be a resignation letter",
+    "url": "https://e27.co/the-fastest-raise-in-singapore-may-still-be-a-resignation-letter-20261119/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-11-19T04:45:32+00:00",
+    "fetched_at": "2026-11-19T04:50:55+00:00",
+    "summary": "Staying loyal to an employer in Singapore seems to come at a price. Employees promoted into a role earn about 9 per cent less than people hired into the same role from outside, at the same employer and experience level, according to a new report from HR and payroll platform Omni HR. The Singapore and […] The post The fastest raise in Singapore may still be a resignation letter appeared first on e27 .",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "76abb94c52505d6c7673"
   },
   {
     "title": "六花亭、カード番号全桁＋セキュリティコード約8000件流出か 決済画面のプログラム改ざん",
