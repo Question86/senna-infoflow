@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-19T17:38:44+00:00_
+_Generiert: 2026-11-19T17:43:46+00:00_
 
 ## Kurzlage
 
-92 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+93 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -67,7 +67,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-19T17:33:30+00:00`, fetched `2026-11-19T17:38:07+00:00`
+  - Zeit: published `2026-11-19T17:38:32+00:00`, fetched `2026-11-19T17:43:14+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -239,6 +239,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); kritisch (+2.5); kritische Schwachstelle (+2.5); recent (+1.0)
   - Kurz: Version 1.0: NGINX - Mehrere kritische Schwachstellen "NGINX2Root" bedrohen Webserver
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **How OpenAI’s Performance Factory keeps ChatGPT fast** — Score 12, observation — [Quelle](https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-11-19T08:00:00+00:00`, fetched `2026-11-19T17:43:14+00:00`
+  - Treffer: OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Your brand ranks on Google, so why doesn’t ChatGPT recommend it?** — Score 12, observation — [Quelle](https://e27.co/your-brand-ranks-on-google-so-why-doesnt-chatgpt-recommend-it-20261116/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-19T05:00:53+00:00`, fetched `2026-11-19T05:02:07+00:00`
@@ -311,15 +320,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
   - Kurz: De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Elles permettent à un attaquant de provoquer un déni de service à distance et un problème de sécurité non spécifié par l'éditeur.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.0 - 31 km WSW of Rabaul, Papua New Guinea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubz1)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-11-19T11:07:50.040+00:00`, fetched `2026-11-19T11:12:28+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-11-19 10:53:07 UTC 2026-11-19 10:53:07 UTC at epicenter Location 4.297°S 151.895°E Depth 194.80 km (121.04 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen
 
