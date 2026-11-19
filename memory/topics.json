@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-19T11:52:42+00:00",
+  "generated_at": "2026-11-19T11:57:57+00:00",
   "topics": {
     "ai": [
       {
@@ -105,6 +105,13 @@
         "url": "https://jvn.jp/jp/JVN28897261/"
       },
       {
+        "title": "[UPDATE] [hoch] IBM QRadar SIEM Komponente: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-19T11:52:07+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1905"
+      },
+      {
         "title": "[UPDATE] [mittel] LiteLLM: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-19T11:12:00+00:00",
@@ -138,13 +145,6 @@
         "published_at": "2026-11-19T10:17:00+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4661"
-      },
-      {
-        "title": "[NEU] [hoch] OpenVPN: Schwachstelle ermöglicht Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-19T10:02:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4659"
       }
     ],
     "economy": [
