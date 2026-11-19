@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-19T05:21:48+00:00",
+  "generated_at": "2026-11-19T05:27:31+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-11-19T05:14:43+00:00",
+        "published_at": "2026-11-19T05:26:43+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -103,6 +103,13 @@
         "published_at": "2026-11-19T00:18:40+00:00",
         "relevance_score": 5,
         "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003316/"
+      },
+      {
+        "title": "Instagramを一から構築してるんだけど、完全に端末を切り離して一切情報入れてないのに妻のアカウントに自分のアカウントが出てきて早速バレた「Wi-Fiも繋いでないんやぞ」",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-18T23:53:56+00:00",
+        "relevance_score": 5,
+        "url": "https://togetter.com/li/2772266"
       },
       {
         "title": "「PHP」に再び“致命的”な脆弱性、日本時間19日夜にセキュリティリリースへ／サポート中の全バージョンが対象",

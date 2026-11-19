@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-19T05:21:48+00:00_
+_Generiert: 2026-11-19T05:27:31+00:00_
 
 ## Kurzlage
 
-20 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+21 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -75,7 +75,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-19T05:14:43+00:00`, fetched `2026-11-19T05:14:24+00:00`
+  - Zeit: published `2026-11-19T05:26:43+00:00`, fetched `2026-11-19T05:26:59+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -166,6 +166,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 流出した可能性があるのは、10月21日午後9時から11月18日午前11時までの間に決済画面で入力された顧客のクレジットカード番号（全桁）、カード名義人、有効期限、セキュリティコード。 改ざんは11月18日に判明。ただちにサイトを停止した。その他のプログラムやサーバ内の情報に影響が及んでいないかも含めて、詳細な調...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Instagramを一から構築してるんだけど、完全に端末を切り離して一切情報入れてないのに妻のアカウントに自分のアカウントが出てきて早速バレた「Wi-Fiも繋いでないんやぞ」** — Score 5, observation — [Quelle](https://togetter.com/li/2772266)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-18T23:53:56+00:00`, fetched `2026-11-19T05:26:59+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: Instagramを一から構築してるんだけど、完全に端末を切り離して一切情報入れてないのに妻のアカウントに自分のアカウントが出てきて早速バレた「Wi-Fiも繋いでないんやぞ」
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **「PHP」に再び“致命的”な脆弱性、日本時間19日夜にセキュリティリリースへ／サポート中の全バージョンが対象** — Score 5, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2157690.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-18T23:15:44+00:00`, fetched `2026-11-19T00:07:13+00:00`
@@ -174,15 +183,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 「PHP」に再び“致命的”な脆弱性、日本時間19日夜にセキュリティリリースへ／サポート中の全バージョンが対象
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **【特集】 Museに「僕と“家の鍵”を交換してザウルス開発者になってよ」と頼んでみた** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/topic/feature/2157654.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-11-18T21:50:43+00:00`, fetched `2026-11-19T03:37:48+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 【特集】 Museに「僕と“家の鍵”を交換してザウルス開発者になってよ」と頼んでみた
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Wait for pull request events with GitHub CLI** — Score 4, observation — [Quelle](https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli)
   - Quelle: GitHub Changelog Atom / `rss`
