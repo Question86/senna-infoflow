@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T16:09:12+00:00",
-  "run_id": "2026-11-19T16:09:12+00:00",
+  "generated_at": "2026-11-19T16:18:53+00:00",
+  "run_id": "2026-11-19T16:18:53+00:00",
   "date": "2026-11-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
+    "new_relevant_findings": 1,
     "today_file_total": 92,
     "displayed_findings": 92,
     "high": 0,
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-19T16:02:56+00:00",
-        "fetched_at": "2026-11-19T16:08:42+00:00",
+        "published_at": "2026-11-19T16:18:42+00:00",
+        "fetched_at": "2026-11-19T16:18:25+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "604d281e23ad23e34230"
+        "id": "cec73d6f36cbc5f36608"
       },
       {
         "title": "414,000 ‘AI agents’ tried to log in. None of them were agents",
@@ -2268,8 +2268,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T16:02:56+00:00",
-      "fetched_at": "2026-11-19T16:08:42+00:00",
+      "published_at": "2026-11-19T16:18:42+00:00",
+      "fetched_at": "2026-11-19T16:18:25+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2303,7 +2303,7 @@
         "HD",
         "LOW"
       ],
-      "id": "604d281e23ad23e34230"
+      "id": "cec73d6f36cbc5f36608"
     },
     {
       "title": "414,000 ‘AI agents’ tried to log in. None of them were agents",
@@ -4499,8 +4499,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T16:02:56+00:00",
-      "fetched_at": "2026-11-19T16:08:42+00:00",
+      "published_at": "2026-11-19T16:18:42+00:00",
+      "fetched_at": "2026-11-19T16:18:25+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -4534,49 +4534,7 @@
         "HD",
         "LOW"
       ],
-      "id": "604d281e23ad23e34230"
-    },
-    {
-      "title": "The best things in open source are built together",
-      "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
-      "source": "GitHub Blog Atom",
-      "source_type": "rss",
-      "published_at": "2026-11-19T16:00:00+00:00",
-      "fetched_at": "2026-11-19T16:08:42+00:00",
-      "summary": "Introducing Replica and the Open Source Accessibility Framework, new open source projects for collaboration and inclusion. The post The best things in open source are built together appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "GitHub",
-        "Open Source"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Open Source (+3.8); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "225bd622f345ab481c3e"
-    },
-    {
-      "title": "「ほぼ全人類が永久に失業する」Anthropic研究者がAIの未来を予測",
-      "url": "https://ascii.jp/elem/000/004/452/4452982/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-19T09:44:51+00:00",
-      "fetched_at": "2026-11-19T16:08:42+00:00",
-      "summary": "Anthropicの研究者Tao Lin氏が、人間の雇用の将来について厳しい見通しを示した。非営利団体Palisade Researchが11月16日に公開したインタビューで「地球上のほぼすべての人間が、永久に雇用されなくなる可能性が非常に高い」と発言し、注目を集めている。 Tao Lin氏はインタビューのなかで、人間の最も優れた専門家にほ...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "bd9cc4751dfe55a28684"
+      "id": "cec73d6f36cbc5f36608"
     }
   ],
   "source_errors": [],
