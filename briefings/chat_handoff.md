@@ -1,67 +1,25 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-18T23:57:06+00:00_
+_Generated: 2026-11-19T00:07:42+00:00_
 
 ## Status
 - status: `normal`
-- findings: `145`
+- findings: `2`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-18T23:56:56+00:00`
+- published: `2026-11-19T00:04:09+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
-### 2. OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）
-- source: JVN Japan Vulnerability Notes
-- score: `23`
-- published: `2026-11-18T09:00:15+09:00`
-- url: https://jvn.jp/vu/JVNVU96847970/
-- summary: OpenSSL ProjectからOpenSSL Security Advisory [17th November 2026]が公開されました。
-
-### 3. [NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `23`
-- published: `2026-11-18T08:52:01+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4628
-- summary: Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Supply Chain ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.
-
-### 4. Google catches AI agents hacking with no human in the loop
-- source: e27 Asia Startup and Tech Feed
-- score: `23`
-- published: `2026-11-18T04:36:31+00:00`
-- url: https://e27.co/google-catches-ai-agents-hacking-with-no-human-in-the-loop-20261118/
-- summary: The hacker hunched over a keyboard is becoming a supervisor. According to Google, more and more of the actual break-in work is now being done by software agents that scan, exploit and adjust on their own. In its latest AI Threat Tracker, published early this…
-
-### 5. Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook
-- source: ECB Press Releases Speeches Interviews
-- score: `13`
-- published: `2026-11-18T09:00:00+00:00`
-- url: https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html
-- summary: Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook
-
-### 6. Singapore’s Botsync takes its Physical AI pitch to the US with US$11M in fresh funding
-- source: e27 Asia Startup and Tech Feed
-- score: `13`
-- published: `2026-11-18T06:23:28+00:00`
-- url: https://e27.co/singapores-botsync-takes-its-physical-ai-pitch-to-the-us-with-us11m-in-fresh-funding-20261118/
-- summary: For most of its seven years, Botsync has been known for its heavy-duty robots that haul pallets around factory floors. Its new pitch is that the robots matter less than the software telling them what to do. The Singapore-headquartered robotics company has rai…
-
-### 7. XユーザーのSatoki@Kn0wl3dg3さん: 「弊社は世界中で使われているNGINXの最新版に、ログインなしでサーバーを乗っ取れる深刻な脆弱性「NGINX2Shell」を発見しました。@OpenAI との協力のもと、発見から報告まで一緒に進めていました。ちなみに、とあるバグバウンティイベントではこれが$300,000らしい💸 #NGINX2Shell…
+### 2. 「PHP」に再び“致命的”な脆弱性、日本時間19日夜にセキュリティリリースへ／サポート中の全バージョンが対象
 - source: Hatena Bookmark Hotentry IT
-- score: `12`
-- published: `2026-11-18T15:28:20+00:00`
-- url: https://x.com/satoki00/status/2123071303657910632
-- summary: XユーザーのSatoki@Kn0wl3dg3さん: 「弊社は世界中で使われているNGINXの最新版に、ログインなしでサーバーを乗っ取れる深刻な脆弱性「NGINX2Shell」を発見しました。@OpenAI との協力のもと、発見から報告まで一緒に進めていました。ちなみに、とあるバグバウンティイベントではこれが$300,000らしい💸 #NGINX2Shell」 / X
-
-### 8. 2026-021: High Severity Vulnerability in Java SE and OpenJDK
-- source: CERT-EU Security Advisories
-- score: `12`
-- published: `2026-11-18T10:11:05+00:00`
-- url: https://cert.europa.eu/publications/security-advisories/2026-021/
-- summary: On 17 November 2026, Oracle and the OpenJDK project released fixes for CVE-2026-114938, a high severity vulnerability in OpenJDK which could lead, under certain circumstances, in unauthenticated Remote Code Execution (RCE). CERT-EU recommends updating vulnera…
+- score: `5`
+- published: `2026-11-18T23:15:44+00:00`
+- url: https://forest.watch.impress.co.jp/docs/news/2157690.html
+- summary: 「PHP」に再び“致命的”な脆弱性、日本時間19日夜にセキュリティリリースへ／サポート中の全バージョンが対象
 
 END OF DOCUMENT
