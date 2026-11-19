@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-19T10:46:53Z",
+  "generated_at": "2026-11-19T11:02:54Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] OpenVPN: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4659",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-19T10:02:01+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security",
         "infra"
@@ -41,7 +41,7 @@
       "url": "https://jvn.jp/jp/JVN29068051/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-19T14:00:00+09:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -65,7 +65,7 @@
       "url": "https://jvn.jp/jp/JVN28897261/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-19T12:00:00+09:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -85,11 +85,59 @@
       "summary": "Ruijie Networks Co., Ltd.が提供する複数の製品には、OSコマンドインジェクションの脆弱性が存在します。"
     },
     {
+      "title": "[UPDATE] [mittel] BusyBox: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3914",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-19T10:57:08+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in BusyBox ausnutzen, um einen Denial of Service Angriff durchzuführen, Informationen offenzulegen oder Sicherheitsmaßnahmen zu umgehen."
+    },
+    {
+      "title": "[UPDATE] [hoch] BusyBox: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3953",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-19T10:57:08+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in BusyBox ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren und vertrauliche Informationen offenzulegen."
+    },
+    {
       "title": "[NEU] [hoch] JetBrains TeamCity: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4661",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-19T10:17:00+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "security"
@@ -116,7 +164,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4544",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-19T09:22:48+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -142,7 +190,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4658",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-19T08:02:01+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -168,7 +216,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4660",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-19T10:12:00+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -193,7 +241,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 153.37,
+      "age_days": 153.38,
       "topics": [
         "ai"
       ],
@@ -221,7 +269,7 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-11-19T10:43:47+00:00",
+      "published_at": "2026-11-19T11:00:19+00:00",
       "age_days": 0.0,
       "topics": [
         "ai",
@@ -251,7 +299,7 @@
       "url": "https://www.heise.de/news/Angriffe-auf-Luecken-in-Apache-Axis-und-Roller-LiteLLM-Synology-und-mehr-11530429.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-19T09:47:00.000+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "security"
@@ -271,59 +319,6 @@
         "security high-signal: angriffe"
       ],
       "summary": "Admins müssen den Update-Stand prüfen: Bösartige Akteure haben es auf Sicherheitslücken in Apache Axis und Roller, LiteLLM, Synology und mehr abgesehen."
-    },
-    {
-      "title": "NVIDIA/SkillEvaluator",
-      "url": "https://github.com/NVIDIA/SkillEvaluator",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-11-19T08:34:24+00:00",
-      "age_days": 0.09,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 21.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: security"
-      ],
-      "summary": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibility checks, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior. Ships reusable CI templates that bring ever…"
-    },
-    {
-      "title": "Can sustainable finance save the planet?",
-      "url": "https://www.bis.org/speeches/20261119-can-sustainable-finance-save-planet",
-      "source": "BIS Central Bankers Speeches",
-      "published_at": "2026-11-19T00:00:00+00:00",
-      "age_days": 0.45,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Speech by Ms Signe Krogstrup, Governor of Danmarks Nationalbank, at a conference on sustainable finance, co-organised by Copenhagen Business School (CBS) and the Technical University of Denmark (DTU), Copenhagen, 10 November 2026."
     }
   ],
   "read_order": [
@@ -336,8 +331,7 @@
   "counts": {
     "bands_after_gate_recheck": {
       "krass": 1,
-      "strong": 10,
-      "watch": 1
+      "strong": 11
     }
   }
 }
