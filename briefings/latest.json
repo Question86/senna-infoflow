@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T02:20:35+00:00",
-  "run_id": "2026-11-19T02:20:35+00:00",
+  "generated_at": "2026-11-19T02:28:59+00:00",
+  "run_id": "2026-11-19T02:28:59+00:00",
   "date": "2026-11-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-19T02:16:57+00:00",
-        "fetched_at": "2026-11-19T02:20:06+00:00",
+        "published_at": "2026-11-19T02:28:48+00:00",
+        "fetched_at": "2026-11-19T02:28:29+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "93212add583917635f49"
+        "id": "5df9206187d43b20a9d1"
       },
       {
         "title": "M 5.2 - 141 km W of Teluk Dalam, Indonesia",
@@ -257,8 +257,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T02:16:57+00:00",
-      "fetched_at": "2026-11-19T02:20:06+00:00",
+      "published_at": "2026-11-19T02:28:48+00:00",
+      "fetched_at": "2026-11-19T02:28:29+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -292,7 +292,7 @@
         "HD",
         "LOW"
       ],
-      "id": "93212add583917635f49"
+      "id": "5df9206187d43b20a9d1"
     },
     {
       "title": "M 5.2 - 141 km W of Teluk Dalam, Indonesia",
@@ -477,8 +477,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T02:16:57+00:00",
-      "fetched_at": "2026-11-19T02:20:06+00:00",
+      "published_at": "2026-11-19T02:28:48+00:00",
+      "fetched_at": "2026-11-19T02:28:29+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -512,7 +512,7 @@
         "HD",
         "LOW"
       ],
-      "id": "93212add583917635f49"
+      "id": "5df9206187d43b20a9d1"
     }
   ],
   "source_errors": [],
