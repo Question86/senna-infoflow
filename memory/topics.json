@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-19T19:14:34+00:00",
+  "generated_at": "2026-11-19T19:20:24+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-11-19T19:14:22+00:00",
+        "published_at": "2026-11-19T19:15:34+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -326,6 +326,20 @@
         "published_at": "2026-11-19T00:00:13+00:00",
         "relevance_score": 4,
         "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli"
+      },
+      {
+        "title": "Enterprise Live Migrations from Azure DevOps generally available",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-11-19T18:50:57+00:00",
+        "relevance_score": 3,
+        "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available"
+      },
+      {
+        "title": "Red Hat Enterprise Linux runner images now generally available",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-11-19T18:48:46+00:00",
+        "relevance_score": 3,
+        "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available"
       },
       {
         "title": "S3 audit log streaming with OpenID Connect expands to GHE.com",
