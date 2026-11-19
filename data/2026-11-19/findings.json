@@ -1934,6 +1934,26 @@
     "id": "225bd622f345ab481c3e"
   },
   {
+    "title": "ruby2ßhell: Remote Code Execution durch 21 ß",
+    "url": "https://www.heise.de/news/ruby2sshell-Remote-Code-Execution-durch-21-ss-11531365.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-11-19T14:50:00.000+00:00",
+    "fetched_at": "2026-11-19T20:36:31+00:00",
+    "summary": "Kein Tippfehler: Eine neue Sicherheitslücke in Ruby heißt ruby2ßhell. Wegen falscher Verarbeitung von ß sind Ruby-Projekte wie GitLab und Mastodon angreifbar.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8856f4692999ea5b6969"
+  },
+  {
     "title": "PHP behebt 17 Sicherheitslücken, vier erlauben Ausführung von Schadcode",
     "url": "https://www.heise.de/news/PHP-behebt-17-Sicherheitsluecken-vier-erlauben-Ausfuehrung-von-Schadcode-11531249.html",
     "source": "heise Security Alerts",
