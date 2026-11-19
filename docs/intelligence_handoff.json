@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-19T10:02:32Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “ブラウザ拡張機能「Win Bird 授業支援」におけるクロスサイトスクリプティングの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
+  "generated_at": "2026-11-19T10:17:45Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] OpenVPN: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,37 @@
   ],
   "top_dynamics": [
     {
+      "title": "[NEU] [hoch] OpenVPN: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4659",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-19T10:02:01+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security",
+        "infra"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code, vpn",
+        "security high-signal: code, vpn"
+      ],
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in OpenVPN ausnutzen, um beliebigen Programmcode auszuführen."
+    },
+    {
       "title": "ブラウザ拡張機能「Win Bird 授業支援」におけるクロスサイトスクリプティングの脆弱性",
       "url": "https://jvn.jp/jp/JVN29068051/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-19T14:00:00+09:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -39,7 +65,7 @@
       "url": "https://jvn.jp/jp/JVN28897261/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-19T12:00:00+09:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -63,7 +89,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4544",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-19T09:22:48+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -89,7 +115,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4658",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-19T08:02:01+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -115,7 +141,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 153.34,
+      "age_days": 153.35,
       "topics": [
         "ai"
       ],
@@ -143,8 +169,8 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-11-19T09:52:17+00:00",
-      "age_days": 0.01,
+      "published_at": "2026-11-19T10:11:49+00:00",
+      "age_days": 0.0,
       "topics": [
         "ai",
         "macro",
@@ -173,7 +199,7 @@
       "url": "https://www.heise.de/news/Angriffe-auf-Luecken-in-Apache-Axis-und-Roller-LiteLLM-Synology-und-mehr-11530429.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-19T09:47:00.000+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai",
         "security"
@@ -199,7 +225,7 @@
       "url": "https://github.com/NVIDIA/SkillEvaluator",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-19T08:34:24+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "security"
@@ -224,7 +250,7 @@
       "url": "https://www.bis.org/speeches/20261119-can-sustainable-finance-save-planet",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-11-19T00:00:00+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "ai",
         "macro"
@@ -252,7 +278,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-19T01:47:36.040+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "disaster"
       ],
@@ -276,7 +302,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uby4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-19T06:21:58.594+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -295,33 +321,6 @@
         "high terms: 9.8"
       ],
       "summary": "DYFI? - IV Time 2026-11-19 05:49:26 UTC 2026-11-19 05:49:26 UTC at epicenter Location 2.402°S 79.820°W Depth 69.49 km (43.18 mi)"
-    },
-    {
-      "title": "The Deutsche Bundesbank's 2026 Financial Stability Review",
-      "url": "https://www.bis.org/speeches/20261119-deutsche-bundesbanks-2026-financial-stability-review",
-      "source": "BIS Central Bankers Speeches",
-      "published_at": "2026-11-19T00:00:00+00:00",
-      "age_days": 0.42,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 15.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Introductory statement by Mr Michael Theurer, Member of the Executive Board of the Deutsche Bundesbank, at the press conference on the publication of the Deutsche Bundesbank's 2026 Financial Stability Review, Frankfurt am Main, 12 November 2026."
     }
   ],
   "read_order": [
@@ -333,8 +332,9 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
+      "krass": 1,
       "strong": 8,
-      "watch": 4
+      "watch": 3
     }
   }
 }

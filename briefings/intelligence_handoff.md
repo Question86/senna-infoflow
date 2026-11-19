@@ -1,18 +1,28 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-11-19T10:02:32Z_
+_Generated: 2026-11-19T10:17:45Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “ブラウザ拡張機能「Win Bird 授業支援」におけるクロスサイトスクリプティングの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.
+Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] OpenVPN: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.
 
 ## Top Dynamics
+
+### [NEU] [hoch] OpenVPN: Schwachstelle ermöglicht Codeausführung
+
+- Band: `krass` (raw `krass`)
+- Dynamics score: `31.0`
+- Published: `2026-11-19T10:02:01+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: code, vpn, security high-signal: code, vpn
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4659
 
 ### ブラウザ拡張機能「Win Bird 授業支援」におけるクロスサイトスクリプティングの脆弱性
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-11-19T14:00:00+09:00` / age_days `0.21`
+- Published: `2026-11-19T14:00:00+09:00` / age_days `0.22`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -22,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “ブラウザ拡張機能「Win Bird 授�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-11-19T12:00:00+09:00` / age_days `0.29`
+- Published: `2026-11-19T12:00:00+09:00` / age_days `0.3`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -32,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “ブラウザ拡張機能「Win Bird 授�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-19T09:22:48+00:00` / age_days `0.03`
+- Published: `2026-11-19T09:22:48+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
@@ -42,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “ブラウザ拡張機能「Win Bird 授�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-19T08:02:01+00:00` / age_days `0.08`
+- Published: `2026-11-19T08:02:01+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -52,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “ブラウザ拡張機能「Win Bird 授�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `153.34`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `153.35`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 153.3d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “ブラウザ拡張機能「Win Bird 授�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-11-19T09:52:17+00:00` / age_days `0.01`
+- Published: `2026-11-19T10:11:49+00:00` / age_days `0.0`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: earthquake, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -72,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “ブラウザ拡張機能「Win Bird 授�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.0`
-- Published: `2026-11-19T09:47:00.000+00:00` / age_days `0.01`
+- Published: `2026-11-19T09:47:00.000+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: angriffe, security high-signal: angriffe
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “ブラウザ拡張機能「Win Bird 授�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-11-19T08:34:24+00:00` / age_days `0.06`
+- Published: `2026-11-19T08:34:24+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security
@@ -92,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “ブラウザ拡張機能「Win Bird 授�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-11-19T00:00:00+00:00` / age_days `0.42`
+- Published: `2026-11-19T00:00:00+00:00` / age_days `0.43`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “ブラウザ拡張機能「Win Bird 授�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.0`
-- Published: `2026-11-19T01:47:36.040+00:00` / age_days `0.34`
+- Published: `2026-11-19T01:47:36.040+00:00` / age_days `0.35`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “ブラウザ拡張機能「Win Bird 授�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-11-19T06:21:58.594+00:00` / age_days `0.15`
+- Published: `2026-11-19T06:21:58.594+00:00` / age_days `0.16`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 9.8
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000uby4
-
-### The Deutsche Bundesbank's 2026 Financial Stability Review
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `15.0`
-- Published: `2026-11-19T00:00:00+00:00` / age_days `0.42`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
-- Quelle: https://www.bis.org/speeches/20261119-deutsche-bundesbanks-2026-financial-stability-review
 
 END OF DOCUMENT

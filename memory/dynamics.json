@@ -1,29 +1,56 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-19T10:02:32Z",
+  "generated_at": "2026-11-19T10:17:45Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 2,
+      "krass": 3,
       "strong": 6,
       "watch": 8,
-      "quiet": 24
+      "quiet": 23
     },
     "bands_after_gate_recheck": {
+      "krass": 1,
       "strong": 8,
       "watch": 8,
-      "quiet": 24
+      "quiet": 23
     }
   },
   "top_dynamics": [
+    {
+      "title": "[NEU] [hoch] OpenVPN: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4659",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-19T10:02:01+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security",
+        "infra"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code, vpn",
+        "security high-signal: code, vpn"
+      ],
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in OpenVPN ausnutzen, um beliebigen Programmcode auszuführen."
+    },
     {
       "title": "ブラウザ拡張機能「Win Bird 授業支援」におけるクロスサイトスクリプティングの脆弱性",
       "url": "https://jvn.jp/jp/JVN29068051/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-19T14:00:00+09:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -47,7 +74,7 @@
       "url": "https://jvn.jp/jp/JVN28897261/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-19T12:00:00+09:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -71,7 +98,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4544",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-19T09:22:48+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -97,7 +124,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4658",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-19T08:02:01+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -123,7 +150,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 153.34,
+      "age_days": 153.35,
       "topics": [
         "ai"
       ],
@@ -151,8 +178,8 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-11-19T09:52:17+00:00",
-      "age_days": 0.01,
+      "published_at": "2026-11-19T10:11:49+00:00",
+      "age_days": 0.0,
       "topics": [
         "ai",
         "macro",
@@ -181,7 +208,7 @@
       "url": "https://www.heise.de/news/Angriffe-auf-Luecken-in-Apache-Axis-und-Roller-LiteLLM-Synology-und-mehr-11530429.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-19T09:47:00.000+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai",
         "security"
@@ -207,7 +234,7 @@
       "url": "https://github.com/NVIDIA/SkillEvaluator",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-19T08:34:24+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "security"
@@ -232,7 +259,7 @@
       "url": "https://www.bis.org/speeches/20261119-can-sustainable-finance-save-planet",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-11-19T00:00:00+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "ai",
         "macro"
@@ -260,7 +287,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-19T01:47:36.040+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "disaster"
       ],
@@ -284,7 +311,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uby4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-19T06:21:58.594+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -309,7 +336,7 @@
       "url": "https://www.bis.org/speeches/20261119-deutsche-bundesbanks-2026-financial-stability-review",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-11-19T00:00:00+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "ai",
         "macro"
@@ -336,7 +363,7 @@
       "url": "https://e27.co/if-nobody-knows-you-nobody-owes-you-their-trust-how-founders-can-build-it-anyway-20261116/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-19T05:30:54+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -360,7 +387,7 @@
       "url": "https://www.bis.org/speeches/20261119-navigating-new-economic-realities-europes-outlook-changing-global-landscape",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-11-19T00:00:00+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "macro"
       ],
@@ -385,7 +412,7 @@
       "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp261119~9319ec6fea.en.html",
       "source": "ECB Statistical Press Releases",
       "published_at": "2026-11-19T09:00:00+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "macro"
       ],
@@ -409,7 +436,7 @@
       "url": "https://e27.co/the-crypto-hype-cycle-is-dead-here-are-the-4-narratives-replacing-it-20261112/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-19T01:00:22+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "ai"
       ],
@@ -435,7 +462,7 @@
       "url": "https://e27.co/johors-data-centre-future-is-being-decided-in-ohio-and-washington-20261119/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-19T08:53:07+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -459,7 +486,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003316/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-19T00:18:40+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "general"
       ],
@@ -483,7 +510,7 @@
       "url": "https://note.com/y_hirano/n/nc986ab18b90e",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-18T19:58:08+00:00",
-      "age_days": 0.59,
+      "age_days": 0.6,
       "topics": [
         "general"
       ],
@@ -507,7 +534,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-19T02:30:01.040+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "ai",
         "disaster"
@@ -535,7 +562,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxa",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-19T01:48:46.040+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "ai",
         "disaster"
@@ -563,7 +590,7 @@
       "url": "https://www.bis.org/speeches/20261119-economic-activity-prices-and-monetary-policy-japan",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-11-19T00:00:00+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "ai",
         "macro"
@@ -590,7 +617,7 @@
       "url": "https://e27.co/after-megaspeed-indonesia-pays-the-compliance-bill-for-asias-ai-chip-race-20261119/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-19T05:59:40+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "macro"
@@ -612,11 +639,35 @@
       "summary": "For two years, Indonesia has pitched itself as the place where Asia’s AI workloads would live: a huge domestic digital market, surplus power and a government eager to cut ribbons on hyperscale campuses. Washington has just added a line to that brochure: terms and conditions apply. In a note published on Tuesday, Mayba…"
     },
     {
+      "title": "Industrial policy - redux or renewal?",
+      "url": "https://www.bis.org/speeches/20261119-industrial-policy-redux-or-renewal",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-11-19T00:00:00+00:00",
+      "age_days": 0.43,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "Opening remarks by Mr Gabriel Makhlouf, Governor of the Central Bank of Ireland, at the Centre for Economic Policy Research–University College Dublin-Central Bank of Ireland workshop, Dublin, 13 November 2026."
+    },
+    {
       "title": "Beyond who you know: Why value is becoming the new currency of business access",
       "url": "https://e27.co/beyond-who-you-know-why-value-is-becoming-the-new-currency-of-business-access-20261112/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-19T04:00:23+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -641,7 +692,7 @@
       "url": "https://togetter.com/li/2772266",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-18T23:53:56+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "general"
       ],
@@ -665,7 +716,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2157690.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-18T23:15:44+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "general"
       ],
@@ -689,7 +740,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2157654.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-18T21:50:43+00:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [
         "general"
       ],
@@ -713,7 +764,7 @@
       "url": "https://e27.co/your-brand-ranks-on-google-so-why-doesnt-chatgpt-recommend-it-20261116/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-19T05:00:53+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -738,7 +789,7 @@
       "url": "https://e27.co/beyond-faster-payments-what-global-businesses-really-need-20261112/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-19T04:00:23+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -762,7 +813,7 @@
       "url": "https://e27.co/from-reality-tv-to-building-apps-how-i-actually-use-ai-20261112/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-19T03:00:50+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -787,7 +838,7 @@
       "url": "https://e27.co/is-the-anthropic-ipo-a-sentiment-barometer-rather-than-a-crypto-crash-trigger-20261119/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-19T04:23:51+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "ai",
         "macro"
@@ -813,7 +864,7 @@
       "url": "https://www.bis.org/speeches/20261119-new-technology-old-questions-productivity-puzzles-and-macroeconomy",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-11-19T00:00:00+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "ai",
         "macro"
@@ -839,7 +890,7 @@
       "url": "https://togetter.com/li/2772319",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-19T05:30:10+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -865,7 +916,7 @@
       "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-19T00:00:13+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "ai"
       ],
@@ -891,7 +942,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 152.3,
+      "age_days": 152.31,
       "topics": [
         "general"
       ],
@@ -916,7 +967,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 152.3,
+      "age_days": 152.31,
       "topics": [
         "general"
       ],
@@ -941,7 +992,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 152.3,
+      "age_days": 152.31,
       "topics": [
         "ai"
       ],
@@ -968,7 +1019,7 @@
       "url": "https://e27.co/canadia-impact-fund-makes-its-first-french-bet-with-career-guidance-startup-choose-and-connect-20261119/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-19T04:04:43+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "ai",
         "macro"
@@ -988,58 +1039,7 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Canadia Impact Fund (CIFC), the corporate venture arm of Cambodian conglomerate Canadia Group, has invested in a French startup for the first time. The deal is not the kind of deeptech or AI play that usually headlines cross-border investments. The recipient is Choose and Connect, a free study and career guidance plat…"
-    },
-    {
-      "title": "Before you add AI to your product, fix how work moves inside the company",
-      "url": "https://e27.co/before-you-add-ai-to-your-product-fix-how-work-moves-inside-the-company-20261112/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-19T02:00:20+00:00",
-      "age_days": 0.33,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Most software and services companies ask the AI question in the same way: how do we add AI to what we sell? It sounds strategic. It sounds visible. It sounds like the kind of move a modern company should make. But for many businesses, it is not the best first move. The more practical starting […] The post Before you a…"
-    },
-    {
-      "title": "教師のためのAI入門",
-      "url": "https://yamazato.nuee.nagoya-u.ac.jp/PDF/AI-for-Teachers-an-Open-Textbook-v1.0.0.pdf",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-19T01:32:33+00:00",
-      "age_days": 0.35,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "教師のためのAI入門"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “ブラウザ拡張機能「Win Bird 授業支援」におけるクロスサイトスクリプティングの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] OpenVPN: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
 }
