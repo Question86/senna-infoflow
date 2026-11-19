@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T23:43:24+00:00",
-  "run_id": "2026-11-19T23:43:24+00:00",
+  "generated_at": "2026-11-19T23:49:14+00:00",
+  "run_id": "2026-11-19T23:49:14+00:00",
   "date": "2026-11-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 107
+      "configured_public_sources_only": 108
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 107,
-    "displayed_findings": 107,
+    "today_file_total": 108,
+    "displayed_findings": 108,
     "high": 0,
     "medium": 38,
-    "observe": 69,
+    "observe": 70,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-19T23:40:10+00:00",
-        "fetched_at": "2026-11-19T23:42:56+00:00",
+        "published_at": "2026-11-19T23:46:18+00:00",
+        "fetched_at": "2026-11-19T23:48:44+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "fa22c272b372dc770585"
+        "id": "e623595fb06d67795c40"
       },
       {
         "title": "414,000 ‘AI agents’ tried to log in. None of them were agents",
@@ -2383,6 +2383,27 @@
         "id": "bd9cc4751dfe55a28684"
       },
       {
+        "title": "約2,500万人のデータで「Firefox」の“指紋”対策を強化 ～Mozillaが研究成果を発表／一意に識別されるユーザーの割合を75％から46％に削減",
+        "url": "https://forest.watch.impress.co.jp/docs/news/2157865.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-19T09:37:47+00:00",
+        "fetched_at": "2026-11-19T23:48:44+00:00",
+        "summary": "約2,500万人のデータで「Firefox」の“指紋”対策を強化 ～Mozillaが研究成果を発表／一意に識別されるユーザーの割合を75％から46％に削減",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e6c5936db24eb39b0e23"
+      },
+      {
         "title": "「10年前にこれ描いてるのすごい」人間とAIが共存する近未来医療SFマンガ『AIの遺電子』全巻99円セール中→なお作者は困惑「僕、作者！！実入りはどうなるの！！？」",
         "url": "https://togetter.com/li/2772319",
         "source": "Hatena Bookmark Hotentry IT",
@@ -2677,8 +2698,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T23:40:10+00:00",
-      "fetched_at": "2026-11-19T23:42:56+00:00",
+      "published_at": "2026-11-19T23:46:18+00:00",
+      "fetched_at": "2026-11-19T23:48:44+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2712,7 +2733,7 @@
         "HD",
         "LOW"
       ],
-      "id": "fa22c272b372dc770585"
+      "id": "e623595fb06d67795c40"
     },
     {
       "title": "414,000 ‘AI agents’ tried to log in. None of them were agents",
@@ -5024,6 +5045,27 @@
       "id": "bd9cc4751dfe55a28684"
     },
     {
+      "title": "約2,500万人のデータで「Firefox」の“指紋”対策を強化 ～Mozillaが研究成果を発表／一意に識別されるユーザーの割合を75％から46％に削減",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2157865.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-19T09:37:47+00:00",
+      "fetched_at": "2026-11-19T23:48:44+00:00",
+      "summary": "約2,500万人のデータで「Firefox」の“指紋”対策を強化 ～Mozillaが研究成果を発表／一意に識別されるユーザーの割合を75％から46％に削減",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e6c5936db24eb39b0e23"
+    },
+    {
       "title": "「10年前にこれ描いてるのすごい」人間とAIが共存する近未来医療SFマンガ『AIの遺電子』全巻99円セール中→なお作者は困惑「僕、作者！！実入りはどうなるの！！？」",
       "url": "https://togetter.com/li/2772319",
       "source": "Hatena Bookmark Hotentry IT",
@@ -5317,8 +5359,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T23:40:10+00:00",
-      "fetched_at": "2026-11-19T23:42:56+00:00",
+      "published_at": "2026-11-19T23:46:18+00:00",
+      "fetched_at": "2026-11-19T23:48:44+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -5352,29 +5394,28 @@
         "HD",
         "LOW"
       ],
-      "id": "fa22c272b372dc770585"
+      "id": "e623595fb06d67795c40"
     },
     {
-      "title": "AIに悩みを相談する際に気をつけて欲しいこと｜SSC",
-      "url": "https://www.assdr.kyoto-u.ac.jp/ssc/consulting_ai/",
+      "title": "約2,500万人のデータで「Firefox」の“指紋”対策を強化 ～Mozillaが研究成果を発表／一意に識別されるユーザーの割合を75％から46％に削減",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2157865.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-11-19T13:44:45+00:00",
-      "fetched_at": "2026-11-19T23:42:56+00:00",
-      "summary": "Index はじめに AIは間違うことがあると認識する AIは迎合的であることを認識する AIは機械であることを忘れない 重要なことはAIだけに頼って判断しない AI依存になっていないかチェックする AI任せにしない はじめに みなさんは、学業や研究において、GeminiやChatGPTなどの汎用的な生成AIを日常的に活用していることと...",
+      "published_at": "2026-11-19T09:37:47+00:00",
+      "fetched_at": "2026-11-19T23:48:44+00:00",
+      "summary": "約2,500万人のデータで「Firefox」の“指紋”対策を強化 ～Mozillaが研究成果を発表／一意に識別されるユーザーの割合を75％から46％に削減",
       "matched_keywords": [
         "Hatena",
-        "hotentry",
-        "OpenAI"
+        "hotentry"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "54fd6341eee25c62af35"
+      "id": "e6c5936db24eb39b0e23"
     }
   ],
   "source_errors": [],
