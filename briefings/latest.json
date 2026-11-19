@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-19T06:51:12+00:00",
-  "run_id": "2026-11-19T06:51:12+00:00",
+  "generated_at": "2026-11-19T06:57:09+00:00",
+  "run_id": "2026-11-19T06:57:09+00:00",
   "date": "2026-11-19",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
       "configured_public_sources_only": 24
     },
@@ -24,7 +24,7 @@
     "high": 0,
     "medium": 6,
     "observe": 18,
-    "source_errors": 0
+    "source_errors": 2
   },
   "sections": {
     "high": [],
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-19T06:51:01+00:00",
-        "fetched_at": "2026-11-19T06:50:43+00:00",
+        "published_at": "2026-11-19T06:56:55+00:00",
+        "fetched_at": "2026-11-19T06:56:21+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "e06db655b12dc00ff190"
+        "id": "1a46a98d0fd4d1cce67b"
       },
       {
         "title": "M 5.2 - 141 km W of Teluk Dalam, Indonesia",
@@ -673,8 +673,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T06:51:01+00:00",
-      "fetched_at": "2026-11-19T06:50:43+00:00",
+      "published_at": "2026-11-19T06:56:55+00:00",
+      "fetched_at": "2026-11-19T06:56:21+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -708,7 +708,7 @@
         "HD",
         "LOW"
       ],
-      "id": "e06db655b12dc00ff190"
+      "id": "1a46a98d0fd4d1cce67b"
     },
     {
       "title": "M 5.2 - 141 km W of Teluk Dalam, Indonesia",
@@ -1309,8 +1309,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T06:51:01+00:00",
-      "fetched_at": "2026-11-19T06:50:43+00:00",
+      "published_at": "2026-11-19T06:56:55+00:00",
+      "fetched_at": "2026-11-19T06:56:21+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1344,10 +1344,23 @@
         "HD",
         "LOW"
       ],
-      "id": "e06db655b12dc00ff190"
+      "id": "1a46a98d0fd4d1cce67b"
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "cert_fr_alerts",
+      "source_name": "CERT-FR Alertes",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.cert.ssi.gouv.fr', port=443): Max retries exceeded with url: /alerte/feed/ (Caused by NewConnectionError(\"HTTPSConnection(host='www.cert.ssi.gouv.fr', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
+    },
+    {
+      "source_id": "cert_fr_advisories",
+      "source_name": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.cert.ssi.gouv.fr', port=443): Max retries exceeded with url: /avis/feed/ (Caused by NewConnectionError(\"HTTPSConnection(host='www.cert.ssi.gouv.fr', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
