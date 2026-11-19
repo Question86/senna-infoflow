@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-19T11:24:32+00:00",
+  "generated_at": "2026-11-19T11:30:04+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 3,
+    "new_relevant_findings": 1,
     "today_file_total": 49,
     "displayed_findings": 49,
     "high": 0,
@@ -15,6 +15,16 @@
   "source_errors_count": 0,
   "top_signals": [
     {
+      "title": "Updates | ReliefWeb",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-11-19T11:27:40+00:00",
+      "relevance_score": 23,
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "section": "medium"
+    },
+    {
       "title": "414,000 ‘AI agents’ tried to log in. None of them were agents",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -22,16 +32,6 @@
       "relevance_score": 23,
       "url": "https://e27.co/414000-ai-agents-tried-to-log-in-none-of-them-were-agents-20261119/",
       "summary": "Last month, 414,210 visitors to an online marketplace introduced themselves as a widely used consumer AI agent. Every one of them went straight to the sign-in page. Every one of them failed. They were not agents. They were credential-stuffing bots wearing an…",
-      "section": "medium"
-    },
-    {
-      "title": "Updates | ReliefWeb",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-11-19T11:17:59+00:00",
-      "relevance_score": 23,
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "section": "medium"
     },
     {

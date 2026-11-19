@@ -1,6 +1,6 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-19T11:24:32+00:00_
+_Generated: 2026-11-19T11:30:04+00:00_
 
 ## Status
 - status: `normal`
@@ -8,19 +8,19 @@ _Generated: 2026-11-19T11:24:32+00:00_
 
 ## Top Signals
 
-### 1. 414,000 ‘AI agents’ tried to log in. None of them were agents
+### 1. Updates | ReliefWeb
+- source: ReliefWeb Mindanao Recovery Watch
+- score: `23`
+- published: `2026-11-19T11:27:40+00:00`
+- url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
+- summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
+
+### 2. 414,000 ‘AI agents’ tried to log in. None of them were agents
 - source: e27 Asia Startup and Tech Feed
 - score: `23`
 - published: `2026-11-19T11:22:59+00:00`
 - url: https://e27.co/414000-ai-agents-tried-to-log-in-none-of-them-were-agents-20261119/
 - summary: Last month, 414,210 visitors to an online marketplace introduced themselves as a widely used consumer AI agent. Every one of them went straight to the sign-in page. Every one of them failed. They were not agents. They were credential-stuffing bots wearing an…
-
-### 2. Updates | ReliefWeb
-- source: ReliefWeb Mindanao Recovery Watch
-- score: `23`
-- published: `2026-11-19T11:17:59+00:00`
-- url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
-- summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
 ### 3. [NEU] [mittel] OpenSSL: Mehrere Schwachstellen ermöglichen Denial of Service
 - source: BSI CERT-Bund Security Advisories
