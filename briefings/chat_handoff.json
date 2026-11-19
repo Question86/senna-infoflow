@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-19T02:56:44+00:00",
-  "status": "warning",
-  "coverage_confidence": "limited",
+  "generated_at": "2026-11-19T03:02:41+00:00",
+  "status": "normal",
+  "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 10,
-    "displayed_findings": 10,
+    "new_relevant_findings": 2,
+    "today_file_total": 12,
+    "displayed_findings": 12,
     "high": 0,
-    "medium": 2,
-    "observe": 8
+    "medium": 3,
+    "observe": 9
   },
-  "source_errors_count": 1,
+  "source_errors_count": 0,
   "top_signals": [
     {
       "title": "Updates | ReliefWeb",
@@ -33,6 +33,26 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxb",
       "summary": "Time 2026-11-19 01:34:52 UTC 2026-11-19 01:34:52 UTC at epicenter Location 0.523°N 96.530°E Depth 37.00 km (22.99 mi)",
       "section": "medium"
+    },
+    {
+      "title": "複数のRuijie Networks製品におけるOSコマンドインジェクションの脆弱性",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-11-19T12:00:00+09:00",
+      "relevance_score": 14,
+      "url": "https://jvn.jp/jp/JVN28897261/",
+      "summary": "Ruijie Networks Co., Ltd.が提供する複数の製品には、OSコマンドインジェクションの脆弱性が存在します。",
+      "section": "medium"
+    },
+    {
+      "title": "From reality TV to building apps: How I actually use AI",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-19T03:00:50+00:00",
+      "relevance_score": 11,
+      "url": "https://e27.co/from-reality-tv-to-building-apps-how-i-actually-use-ai-20261112/",
+      "summary": "In reality television, we used to joke that production was all about rushing to get ready, only to wait for something to happen. Sounds like an easy gig, but this rush-and-wait syndrome was made possible with rigorous planning in pre-production. Behind every…",
+      "section": "observe"
     },
     {
       "title": "M 4.9 - 36 km NNE of Kilimatinde, Tanzania",
@@ -62,16 +82,6 @@
       "relevance_score": 8,
       "url": "https://e27.co/before-you-add-ai-to-your-product-fix-how-work-moves-inside-the-company-20261112/",
       "summary": "Most software and services companies ask the AI question in the same way: how do we add AI to what we sell? It sounds strategic. It sounds visible. It sounds like the kind of move a modern company should make. But for many businesses, it is not the best first…",
-      "section": "observe"
-    },
-    {
-      "title": "六花亭、カード番号全桁＋セキュリティコード約8000件流出か 決済画面のプログラム改ざん",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-19T00:18:40+00:00",
-      "relevance_score": 5,
-      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003316/",
-      "summary": "流出した可能性があるのは、10月21日午後9時から11月18日午前11時までの間に決済画面で入力された顧客のクレジットカード番号（全桁）、カード名義人、有効期限、セキュリティコード。 改ざんは11月18日に判明。ただちにサイトを停止した。その他のプログラムやサーバ内の情報に影響が及んでいないかも含めて、詳細な調...",
       "section": "observe"
     }
   ],
