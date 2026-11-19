@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-19T09:15:33+00:00_
+_Generiert: 2026-11-19T09:23:14+00:00_
 
 ## Kurzlage
 
-30 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+31 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -75,7 +75,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-19T08:56:42+00:00`, fetched `2026-11-19T08:56:26+00:00`
+  - Zeit: published `2026-11-19T09:21:13+00:00`, fetched `2026-11-19T09:22:44+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -156,6 +156,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); Public Health (+6.2); recent (+1.0)
   - Kurz: As technology and AI make it easier to build and scale businesses, I believe access to the right networks should no longer be an advantage inherited by the few, while doors remain closed to the average entrepreneur. That era is changing. “Your network is your net worth” may hold only a fraction of the weight […] The post Beyond who you know: Why value is becoming the new currency of business access appeared first on…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Economic activity, prices, and monetary policy in Japan** — Score 13, observation — [Quelle](https://www.bis.org/speeches/20261119-economic-activity-prices-and-monetary-policy-japan)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-11-19T00:00:00+00:00`, fetched `2026-11-19T09:22:44+00:00`
+  - Treffer: APAC Trend Radar, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan, Bank of Japan (+2.0)
+  - Kurz: Speech by Mr Toichiro Asada, Member of the Policy Board of the Bank of Japan, at a meeting with local leaders, Nagasaki, 12 November 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Your brand ranks on Google, so why doesn’t ChatGPT recommend it?** — Score 12, observation — [Quelle](https://e27.co/your-brand-ranks-on-google-so-why-doesnt-chatgpt-recommend-it-20261116/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -256,7 +265,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `reliefweb_mindanao_recovery_watch` (webpage_check): HTTPSConnectionPool(host='reliefweb.int', port=443): Read timed out. (read timeout=8)
