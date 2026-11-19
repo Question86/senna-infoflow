@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-19T11:02:54Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] OpenVPN: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
+  "generated_at": "2026-11-19T11:17:11Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [kritisch] Synology DiskStation Manager: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,36 @@
   ],
   "top_dynamics": [
     {
+      "title": "[UPDATE] [kritisch] Synology DiskStation Manager: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3378",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-19T11:02:01+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: kritisch, code",
+        "security high-signal: kritisch, code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Synology DiskStation Manager ausnutzen, um beliebigen Code auszuführen, Administrator-Sitzungen zu übernehmen und um Informationen offenzulegen oder zu manipulieren."
+    },
+    {
       "title": "[NEU] [hoch] OpenVPN: Schwachstelle ermöglicht Codeausführung",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4659",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-19T10:02:01+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security",
         "infra"
@@ -41,7 +66,7 @@
       "url": "https://jvn.jp/jp/JVN29068051/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-19T14:00:00+09:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -65,7 +90,7 @@
       "url": "https://jvn.jp/jp/JVN28897261/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-19T12:00:00+09:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -89,7 +114,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3914",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-19T10:57:08+00:00",
-      "age_days": 0.0,
+      "age_days": 0.01,
       "topics": [
         "security"
       ],
@@ -113,7 +138,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3953",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-19T10:57:08+00:00",
-      "age_days": 0.0,
+      "age_days": 0.01,
       "topics": [
         "security"
       ],
@@ -137,7 +162,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4661",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-19T10:17:00+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "security"
@@ -164,7 +189,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4544",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-19T09:22:48+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -190,7 +215,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4658",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-19T08:02:01+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -216,7 +241,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4660",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-19T10:12:00+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -237,11 +262,37 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in OpenSSL ausnutzen, um einen Denial of Service Angriff durchzuführen."
     },
     {
+      "title": "AI isn’t replacing your job. It’s turning it into low-paid gig work",
+      "url": "https://restofworld.org/2026/ai-jobs-skills-gig-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "published_at": "2026-11-19T11:00:00+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Surgeon Kapil Sahnan uses a DaVinci Robot during surgery on a woman, 2026."
+    },
+    {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 153.38,
+      "age_days": 153.39,
       "topics": [
         "ai"
       ],
@@ -264,61 +315,6 @@
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
-    },
-    {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-11-19T11:00:19+00:00",
-      "age_days": 0.0,
-      "topics": [
-        "ai",
-        "macro",
-        "disaster"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: earthquake",
-        "high terms: rce",
-        "security high-signal: rce",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan"
-    },
-    {
-      "title": "Angriffe auf Lücken in Apache Axis und Roller, LiteLLM, Synology und mehr",
-      "url": "https://www.heise.de/news/Angriffe-auf-Luecken-in-Apache-Axis-und-Roller-LiteLLM-Synology-und-mehr-11530429.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-11-19T09:47:00.000+00:00",
-      "age_days": 0.05,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 24.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: angriffe",
-        "security high-signal: angriffe"
-      ],
-      "summary": "Admins müssen den Update-Stand prüfen: Bösartige Akteure haben es auf Sicherheitslücken in Apache Axis und Roller, LiteLLM, Synology und mehr abgesehen."
     }
   ],
   "read_order": [
@@ -330,8 +326,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "krass": 1,
-      "strong": 11
+      "krass": 2,
+      "strong": 10
     }
   }
 }
