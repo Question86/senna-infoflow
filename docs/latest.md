@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-19T12:07:20+00:00_
+_Generiert: 2026-11-19T12:22:58+00:00_
 
 ## Kurzlage
 
-58 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+62 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-19T12:04:02+00:00`, fetched `2026-11-19T12:06:51+00:00`
+  - Zeit: published `2026-11-19T12:22:28+00:00`, fetched `2026-11-19T12:22:23+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -75,14 +75,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: ウィンバード株式会社が提供するブラウザ拡張機能「Win Bird 授業支援」には、クロスサイトスクリプティングの脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[NEU] [niedrig] OpenCTI: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Manipulation von Daten** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4677)
+- **[NEU] [mittel] systemd: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4679)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-11-19T12:02:01+00:00`, fetched `2026-11-19T12:06:51+00:00`
+  - Zeit: published `2026-11-19T12:12:01+00:00`, fetched `2026-11-19T12:22:23+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in OpenCTI ausnutzen, um Sicherheitsvorkehrungen zu umgehen und um Daten zu manipulieren.
+  - Kurz: Ein lokaler Angreifer kann mehrere Schwachstellen in systemd ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen, Sicherheitsvorkehrungen zu umgehen oder Dateien zu manipulieren.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **複数のRuijie Networks製品におけるOSコマンドインジェクションの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN28897261/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
@@ -159,6 +159,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.0); recent (+1.0)
   - Kurz: American voters spent this month’s midterms arguing about data centres: who pays for the power, who loses the water, and who gets a say. Southeast Asia, which has quietly become the overflow tank for the world’s compute, never got that argument. It got press statements. Worse, the two decisions that will shape Johor’s data-centre future […] The post Johor’s data-centre future is being decided in Ohio and Washington…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Governance - the cornerstone of a credible financial sector** — Score 11, opportunity — [Quelle](https://www.bis.org/speeches/20261119-governance-cornerstone-credible-financial-sector)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-11-19T00:00:00+00:00`, fetched `2026-11-19T12:22:23+00:00`
+  - Treffer: Macro/Policy, Watchgraph:agriculture_food_fertilizer
+  - Watchgraph: agriculture_food_fertilizer
+  - Markt-/Kontextkorb: ADM, BG, DE, NTR, CF, MOS, wheat, corn, soy
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)
+  - Kurz: Speaking notes by Mr Phil Mnisi, Governor of the Central Bank of Eswatini, at the International Corporate Governance Conference, Ezulwini, 11 November 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **AI isn’t replacing your job. It’s turning it into low-paid gig work** — Score 10, observation — [Quelle](https://restofworld.org/2026/ai-jobs-skills-gig-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
   - Zeit: published `2026-11-19T11:00:00+00:00`, fetched `2026-11-19T11:12:28+00:00`
@@ -231,15 +240,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Admins müssen den Update-Stand prüfen: Bösartige Akteure haben es auf Sicherheitslücken in Apache Axis und Roller, LiteLLM, Synology und mehr abgesehen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The Deutsche Bundesbank's 2026 Financial Stability Review** — Score 7, opportunity — [Quelle](https://www.bis.org/speeches/20261119-deutsche-bundesbanks-2026-financial-stability-review)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-11-19T00:00:00+00:00`, fetched `2026-11-19T09:40:49+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); recent (+1.0)
-  - Kurz: Introductory statement by Mr Michael Theurer, Member of the Executive Board of the Deutsche Bundesbank, at the press conference on the publication of the Deutsche Bundesbank's 2026 Financial Stability Review, Frankfurt am Main, 12 November 2026.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **「10年前にこれ描いてるのすごい」人間とAIが共存する近未来医療SFマンガ『AIの遺電子』全巻99円セール中→なお作者は困惑「僕、作者！！実入りはどうなるの！！？」** — Score 5, observation — [Quelle](https://togetter.com/li/2772319)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-19T05:30:10+00:00`, fetched `2026-11-19T09:14:57+00:00`

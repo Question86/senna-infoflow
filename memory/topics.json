@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-19T12:07:20+00:00",
+  "generated_at": "2026-11-19T12:22:58+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-11-19T12:04:02+00:00",
+        "published_at": "2026-11-19T12:22:28+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -112,6 +112,27 @@
         "url": "https://jvn.jp/jp/JVN29068051/"
       },
       {
+        "title": "[NEU] [mittel] systemd: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-19T12:12:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4679"
+      },
+      {
+        "title": "[NEU] [hoch] Synology DiskStation Manager: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-19T12:12:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4680"
+      },
+      {
+        "title": "[NEU] [hoch] DrayTek Vigor2960: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-19T12:12:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4681"
+      },
+      {
         "title": "[NEU] [niedrig] OpenCTI: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Manipulation von Daten",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-19T12:02:01+00:00",
@@ -124,27 +145,6 @@
         "published_at": "2026-11-19T12:02:01+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4675"
-      },
-      {
-        "title": "[NEU] [hoch] OpenClaw: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-19T12:02:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4678"
-      },
-      {
-        "title": "複数のRuijie Networks製品におけるOSコマンドインジェクションの脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-11-19T12:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN28897261/"
-      },
-      {
-        "title": "[NEU] [hoch] Splunk SOAR: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-19T11:57:02+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4673"
       }
     ],
     "economy": [
@@ -168,6 +168,13 @@
         "published_at": "2026-11-19T00:00:00+00:00",
         "relevance_score": 13,
         "url": "https://www.bis.org/speeches/20261119-economic-activity-prices-and-monetary-policy-japan"
+      },
+      {
+        "title": "Governance - the cornerstone of a credible financial sector",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-11-19T00:00:00+00:00",
+        "relevance_score": 11,
+        "url": "https://www.bis.org/speeches/20261119-governance-cornerstone-credible-financial-sector"
       },
       {
         "title": "Is the Anthropic IPO a sentiment barometer rather than a crypto crash trigger?",
@@ -210,13 +217,6 @@
         "published_at": "2026-11-19T00:00:00+00:00",
         "relevance_score": 6,
         "url": "https://www.bis.org/speeches/20261119-navigating-new-economic-realities-europes-outlook-changing-global-landscape"
-      },
-      {
-        "title": "Made in Europe",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-11-19T00:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.bis.org/speeches/20261119-made-europe"
       }
     ],
     "geopolitics": [
@@ -233,6 +233,27 @@
         "published_at": "2026-11-19T10:12:00+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4660"
+      },
+      {
+        "title": "[NEU] [mittel] systemd: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-19T12:12:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4679"
+      },
+      {
+        "title": "[NEU] [hoch] Synology DiskStation Manager: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-19T12:12:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4680"
+      },
+      {
+        "title": "[NEU] [hoch] DrayTek Vigor2960: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-19T12:12:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4681"
       },
       {
         "title": "[NEU] [niedrig] OpenCTI: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Manipulation von Daten",
@@ -268,27 +289,6 @@
         "published_at": "2026-11-19T11:57:02+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4674"
-      },
-      {
-        "title": "[NEU] [hoch] JetBrains TeamCity: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-19T10:17:00+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4661"
-      },
-      {
-        "title": "[NEU] [hoch] OpenVPN: Schwachstelle ermöglicht Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-19T10:02:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4659"
-      },
-      {
-        "title": "[NEU] [hoch] NGINX: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-19T08:02:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4658"
       }
     ],
     "github": [
