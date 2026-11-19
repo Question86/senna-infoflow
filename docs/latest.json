@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T15:17:39+00:00",
-  "run_id": "2026-11-19T15:17:39+00:00",
+  "generated_at": "2026-11-19T15:24:58+00:00",
+  "run_id": "2026-11-19T15:24:58+00:00",
   "date": "2026-11-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 82
+      "configured_public_sources_only": 83
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 82,
-    "displayed_findings": 82,
+    "new_relevant_findings": 2,
+    "today_file_total": 83,
+    "displayed_findings": 83,
     "high": 0,
-    "medium": 36,
+    "medium": 37,
     "observe": 46,
     "source_errors": 0
   },
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-19T15:10:53+00:00",
-        "fetched_at": "2026-11-19T15:10:34+00:00",
+        "published_at": "2026-11-19T15:22:31+00:00",
+        "fetched_at": "2026-11-19T15:24:28+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "1880ad010a6cdfba648f"
+        "id": "bd39a3613995d53c3938"
       },
       {
         "title": "414,000 ‘AI agents’ tried to log in. None of them were agents",
@@ -188,6 +188,49 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "8c9ccb42a12a34d70d2c"
+      },
+      {
+        "title": "Economic activity, prices, and monetary policy in Japan - Japan's money and capital market transformation - will a paradigm shift occur?",
+        "url": "https://www.bis.org/speeches/20261119-economic-activity-prices-and-monetary-policy-japan-japans-money-and-capital-market-transformation-will-paradigm-shift",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-11-19T00:00:00+00:00",
+        "fetched_at": "2026-11-19T15:24:28+00:00",
+        "summary": "Speech by Mr Hajime Takata, Member of the Policy Board of the Bank of Japan, at a meeting held by the Tokushima Association of Corporate Executives, Tokyo, 16 November 2026.",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Macro/Policy",
+          "Watchgraph:capitals_power_centers"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Macro/Policy (+6.2); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan, Tokyo, Bank of Japan (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "capitals_power_centers"
+        ],
+        "watchgraph_reasons": [
+          "capitals_power_centers: capital"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "dcc49f286df2d7d07d73"
       },
       {
         "title": "Jefferson, Monetary Policy amid Frequent and Complex Shocks",
@@ -2021,8 +2064,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T15:10:53+00:00",
-      "fetched_at": "2026-11-19T15:10:34+00:00",
+      "published_at": "2026-11-19T15:22:31+00:00",
+      "fetched_at": "2026-11-19T15:24:28+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2056,7 +2099,7 @@
         "HD",
         "LOW"
       ],
-      "id": "1880ad010a6cdfba648f"
+      "id": "bd39a3613995d53c3938"
     },
     {
       "title": "414,000 ‘AI agents’ tried to log in. None of them were agents",
@@ -2175,6 +2218,49 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "8c9ccb42a12a34d70d2c"
+    },
+    {
+      "title": "Economic activity, prices, and monetary policy in Japan - Japan's money and capital market transformation - will a paradigm shift occur?",
+      "url": "https://www.bis.org/speeches/20261119-economic-activity-prices-and-monetary-policy-japan-japans-money-and-capital-market-transformation-will-paradigm-shift",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-11-19T00:00:00+00:00",
+      "fetched_at": "2026-11-19T15:24:28+00:00",
+      "summary": "Speech by Mr Hajime Takata, Member of the Policy Board of the Bank of Japan, at a meeting held by the Tokushima Association of Corporate Executives, Tokyo, 16 November 2026.",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Macro/Policy",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Macro/Policy (+6.2); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan, Tokyo, Bank of Japan (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "dcc49f286df2d7d07d73"
     },
     {
       "title": "Jefferson, Monetary Policy amid Frequent and Complex Shocks",
@@ -3999,7 +4085,93 @@
       "id": "7450ed8712e3c377b350"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-11-19T15:22:31+00:00",
+      "fetched_at": "2026-11-19T15:24:28+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "bd39a3613995d53c3938"
+    },
+    {
+      "title": "Economic activity, prices, and monetary policy in Japan - Japan's money and capital market transformation - will a paradigm shift occur?",
+      "url": "https://www.bis.org/speeches/20261119-economic-activity-prices-and-monetary-policy-japan-japans-money-and-capital-market-transformation-will-paradigm-shift",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-11-19T00:00:00+00:00",
+      "fetched_at": "2026-11-19T15:24:28+00:00",
+      "summary": "Speech by Mr Hajime Takata, Member of the Policy Board of the Bank of Japan, at a meeting held by the Tokushima Association of Corporate Executives, Tokyo, 16 November 2026.",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Macro/Policy",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Macro/Policy (+6.2); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan, Tokyo, Bank of Japan (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "dcc49f286df2d7d07d73"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
