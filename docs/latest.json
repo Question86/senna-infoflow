@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T19:08:52+00:00",
-  "run_id": "2026-11-19T19:08:52+00:00",
+  "generated_at": "2026-11-19T19:14:34+00:00",
+  "run_id": "2026-11-19T19:14:34+00:00",
   "date": "2026-11-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 94
+      "configured_public_sources_only": 95
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 94,
-    "displayed_findings": 94,
+    "new_relevant_findings": 2,
+    "today_file_total": 95,
+    "displayed_findings": 95,
     "high": 0,
     "medium": 37,
-    "observe": 57,
+    "observe": 58,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-19T19:08:41+00:00",
-        "fetched_at": "2026-11-19T19:08:21+00:00",
+        "published_at": "2026-11-19T19:14:22+00:00",
+        "fetched_at": "2026-11-19T19:14:04+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "4f6d1ce62ee53cc54aff"
+        "id": "297a0d6b2d0c676603d5"
       },
       {
         "title": "414,000 ‘AI agents’ tried to log in. None of them were agents",
@@ -1376,6 +1376,28 @@
         "id": "2ebe5b6a6afc806172fd"
       },
       {
+        "title": "「湘南美容クリニック」などの個人情報流出 氏名など162万人分 不正アクセスで",
+        "url": "https://japan.cnet.com/article/35255171/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-19T13:48:03+00:00",
+        "fetched_at": "2026-11-19T19:14:04+00:00",
+        "summary": "SBCメディカルグループは11月19日、湘南美容クリニックなどの利用者の個人情報が不正アクセスによって流出したと発表した。氏名や連絡先などを含む個人情報162万4000人分のほか、予約の申し込み情報や相談内容なども流出した。流出した情報には、当時暗号化せずに保存していたパスワードも含まれる。 162万4000人分は201...",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "503d3b1c41a03b4f5ca0"
+      },
+      {
         "title": "AI isn’t replacing your job. It’s turning it into low-paid gig work",
         "url": "https://restofworld.org/2026/ai-jobs-skills-gig-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
         "source": "Rest of World Global Tech Feed",
@@ -2348,8 +2370,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T19:08:41+00:00",
-      "fetched_at": "2026-11-19T19:08:21+00:00",
+      "published_at": "2026-11-19T19:14:22+00:00",
+      "fetched_at": "2026-11-19T19:14:04+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -2383,7 +2405,7 @@
         "HD",
         "LOW"
       ],
-      "id": "4f6d1ce62ee53cc54aff"
+      "id": "297a0d6b2d0c676603d5"
     },
     {
       "title": "414,000 ‘AI agents’ tried to log in. None of them were agents",
@@ -3688,6 +3710,28 @@
       "id": "2ebe5b6a6afc806172fd"
     },
     {
+      "title": "「湘南美容クリニック」などの個人情報流出 氏名など162万人分 不正アクセスで",
+      "url": "https://japan.cnet.com/article/35255171/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-19T13:48:03+00:00",
+      "fetched_at": "2026-11-19T19:14:04+00:00",
+      "summary": "SBCメディカルグループは11月19日、湘南美容クリニックなどの利用者の個人情報が不正アクセスによって流出したと発表した。氏名や連絡先などを含む個人情報162万4000人分のほか、予約の申し込み情報や相談内容なども流出した。流出した情報には、当時暗号化せずに保存していたパスワードも含まれる。 162万4000人分は201...",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "503d3b1c41a03b4f5ca0"
+    },
+    {
       "title": "AI isn’t replacing your job. It’s turning it into low-paid gig work",
       "url": "https://restofworld.org/2026/ai-jobs-skills-gig-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
@@ -4659,8 +4703,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T19:08:41+00:00",
-      "fetched_at": "2026-11-19T19:08:21+00:00",
+      "published_at": "2026-11-19T19:14:22+00:00",
+      "fetched_at": "2026-11-19T19:14:04+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -4694,7 +4738,29 @@
         "HD",
         "LOW"
       ],
-      "id": "4f6d1ce62ee53cc54aff"
+      "id": "297a0d6b2d0c676603d5"
+    },
+    {
+      "title": "「湘南美容クリニック」などの個人情報流出 氏名など162万人分 不正アクセスで",
+      "url": "https://japan.cnet.com/article/35255171/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-19T13:48:03+00:00",
+      "fetched_at": "2026-11-19T19:14:04+00:00",
+      "summary": "SBCメディカルグループは11月19日、湘南美容クリニックなどの利用者の個人情報が不正アクセスによって流出したと発表した。氏名や連絡先などを含む個人情報162万4000人分のほか、予約の申し込み情報や相談内容なども流出した。流出した情報には、当時暗号化せずに保存していたパスワードも含まれる。 162万4000人分は201...",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "503d3b1c41a03b4f5ca0"
     }
   ],
   "source_errors": [],
