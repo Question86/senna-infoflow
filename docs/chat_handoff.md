@@ -1,17 +1,17 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-19T02:28:59+00:00_
+_Generated: 2026-11-19T02:35:14+00:00_
 
 ## Status
 - status: `normal`
-- findings: `8`
+- findings: `10`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-19T02:28:48+00:00`
+- published: `2026-11-19T02:35:05+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -22,32 +22,32 @@ _Generated: 2026-11-19T02:28:59+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxb
 - summary: Time 2026-11-19 01:34:52 UTC 2026-11-19 01:34:52 UTC at epicenter Location 0.523°N 96.530°E Depth 37.00 km (22.99 mi)
 
-### 3. M 4.9 - 45 km NNW of Kintinku, Tanzania
+### 3. M 4.9 - 36 km NNE of Kilimatinde, Tanzania
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-11-19T02:30:01.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxg
+- summary: Time 2026-11-19 02:11:23 UTC 2026-11-19 02:11:23 UTC at epicenter Location 5.543°S 35.081°E Depth 10.00 km (6.21 mi)
+
+### 4. M 4.9 - 45 km NNW of Kintinku, Tanzania
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-11-19T01:48:46.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxa
 - summary: Time 2026-11-19 01:29:33 UTC 2026-11-19 01:29:33 UTC at epicenter Location 5.484°S 35.140°E Depth 10.00 km (6.21 mi)
 
-### 4. Before you add AI to your product, fix how work moves inside the company
+### 5. Before you add AI to your product, fix how work moves inside the company
 - source: e27 Asia Startup and Tech Feed
 - score: `8`
 - published: `2026-11-19T02:00:20+00:00`
 - url: https://e27.co/before-you-add-ai-to-your-product-fix-how-work-moves-inside-the-company-20261112/
 - summary: Most software and services companies ask the AI question in the same way: how do we add AI to what we sell? It sounds strategic. It sounds visible. It sounds like the kind of move a modern company should make. But for many businesses, it is not the best first…
 
-### 5. 「PHP」に再び“致命的”な脆弱性、日本時間19日夜にセキュリティリリースへ／サポート中の全バージョンが対象
+### 6. 六花亭、カード番号全桁＋セキュリティコード約8000件流出か 決済画面のプログラム改ざん
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
-- published: `2026-11-18T23:15:44+00:00`
-- url: https://forest.watch.impress.co.jp/docs/news/2157690.html
-- summary: 「PHP」に再び“致命的”な脆弱性、日本時間19日夜にセキュリティリリースへ／サポート中の全バージョンが対象
-
-### 6. 実質的無職になった｜Y.Hirano
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-11-18T19:58:08+00:00`
-- url: https://note.com/y_hirano/n/nc986ab18b90e
-- summary: 2026年10月末で仕事が減ってしまったうえに、11月から実質的無職をしています。 この数ヶ月で案件獲得の難易度がかなり高くなってしまっており、そんな中で積極的に案件を取りにいく気分でもないので、しばらくは実質的無職になりそうです。 筆者について社会人になって以来ソフトウェアエンジニアをずっとやってきまし...
+- published: `2026-11-19T00:18:40+00:00`
+- url: https://www.itmedia.co.jp/news/article/2611/19/2000003316/
+- summary: 流出した可能性があるのは、10月21日午後9時から11月18日午前11時までの間に決済画面で入力された顧客のクレジットカード番号（全桁）、カード名義人、有効期限、セキュリティコード。 改ざんは11月18日に判明。ただちにサイトを停止した。その他のプログラムやサーバ内の情報に影響が及んでいないかも含めて、詳細な調...
 
 END OF DOCUMENT
