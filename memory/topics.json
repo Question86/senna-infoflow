@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-19T12:32:52+00:00",
+  "generated_at": "2026-11-19T12:40:50+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-11-19T12:32:41+00:00",
+        "published_at": "2026-11-19T12:40:39+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -112,6 +112,20 @@
         "url": "https://jvn.jp/jp/JVN29068051/"
       },
       {
+        "title": "[NEU] [hoch] PHP: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-19T12:32:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4684"
+      },
+      {
+        "title": "[NEU] [hoch] Mitel OpenScape: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-19T12:32:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4685"
+      },
+      {
         "title": "[NEU] [mittel] Laravel: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-19T12:27:01+00:00",
@@ -131,20 +145,6 @@
         "published_at": "2026-11-19T12:27:00+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4682"
-      },
-      {
-        "title": "[NEU] [mittel] systemd: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-19T12:12:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4679"
-      },
-      {
-        "title": "[NEU] [hoch] Synology DiskStation Manager: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-19T12:12:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4680"
       }
     ],
     "economy": [
@@ -212,11 +212,11 @@
         "url": "https://e27.co/before-you-add-ai-to-your-product-fix-how-work-moves-inside-the-company-20261112/"
       },
       {
-        "title": "The Deutsche Bundesbank's 2026 Financial Stability Review",
+        "title": "The customer at the centre - building a responsible, resilient and sustainable microfinance sector",
         "source": "BIS Central Bankers Speeches",
         "published_at": "2026-11-19T00:00:00+00:00",
-        "relevance_score": 7,
-        "url": "https://www.bis.org/speeches/20261119-deutsche-bundesbanks-2026-financial-stability-review"
+        "relevance_score": 8,
+        "url": "https://www.bis.org/speeches/20261119-customer-centre-building-responsible-resilient-and-sustainable-microfinance-sector"
       }
     ],
     "geopolitics": [
@@ -233,6 +233,20 @@
         "published_at": "2026-11-19T10:12:00+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4660"
+      },
+      {
+        "title": "[NEU] [hoch] PHP: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-19T12:32:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4684"
+      },
+      {
+        "title": "[NEU] [hoch] Mitel OpenScape: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-19T12:32:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4685"
       },
       {
         "title": "[NEU] [mittel] Laravel: Mehrere Schwachstellen",
@@ -275,20 +289,6 @@
         "published_at": "2026-11-19T12:12:01+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4681"
-      },
-      {
-        "title": "[NEU] [niedrig] OpenCTI: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Manipulation von Daten",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-19T12:02:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4677"
-      },
-      {
-        "title": "[NEU] [hoch] WebKitGTK: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-19T12:02:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4675"
       }
     ],
     "github": [

@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-19T12:32:41+00:00",
-    "fetched_at": "2026-11-19T12:32:25+00:00",
+    "published_at": "2026-11-19T12:40:39+00:00",
+    "fetched_at": "2026-11-19T12:40:18+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "1fd2dea2a65bebe49f69"
+    "id": "ac22b02f2154a105af9f"
   },
   {
     "title": "414,000 ‘AI agents’ tried to log in. None of them were agents",
@@ -217,6 +217,52 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "b080f8e81d70f3084156"
+  },
+  {
+    "title": "[NEU] [hoch] PHP: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4684",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-19T12:32:01+00:00",
+    "fetched_at": "2026-11-19T12:40:18+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in PHP ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "396888f0992f261eb408"
+  },
+  {
+    "title": "[NEU] [hoch] Mitel OpenScape: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4685",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-19T12:32:01+00:00",
+    "fetched_at": "2026-11-19T12:40:18+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Mitel OpenScape ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Informationen offenzulegen, oder beliebige Befehle im Kontext des Systems auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6974fcf6fd09531bfa5f"
   },
   {
     "title": "[NEU] [mittel] Laravel: Mehrere Schwachstellen",
@@ -1294,6 +1340,26 @@
     "id": "4ae4fc1b40fdfb048e37"
   },
   {
+    "title": "The customer at the centre - building a responsible, resilient and sustainable microfinance sector",
+    "url": "https://www.bis.org/speeches/20261119-customer-centre-building-responsible-resilient-and-sustainable-microfinance-sector",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-11-19T00:00:00+00:00",
+    "fetched_at": "2026-11-19T12:40:18+00:00",
+    "summary": "Keynote address by Mr Shirish Chandra Murmu, Deputy Governor of the Reserve Bank of India, at an event organised by the Microfinance Industry Network (MFIN), Mumbai, 13 November 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region india: India, Mumbai, Reserve Bank of India (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a04cd8f92a36f01427af"
+  },
+  {
     "title": "Angriffe auf Lücken in Apache Axis und Roller, LiteLLM, Synology und mehr",
     "url": "https://www.heise.de/news/Angriffe-auf-Luecken-in-Apache-Axis-und-Roller-LiteLLM-Synology-und-mehr-11530429.html",
     "source": "heise Security Alerts",
@@ -1352,6 +1418,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "6a0528e0568f293d4f81"
+  },
+  {
+    "title": "Opening remarks – Central Bank Governors’ Roundtable",
+    "url": "https://www.bis.org/speeches/20261119-opening-remarks-central-bank-governors-roundtable",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-11-19T00:00:00+00:00",
+    "fetched_at": "2026-11-19T12:40:18+00:00",
+    "summary": "Opening remarks by Mr Timothy N J Antoine, Governor of the Eastern Caribbean Central Bank, at the Central Bank Governors’ Roundtable at the Commonwealth Business Forum, Basseterre, St Kitts, West Indies 4 November 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Macro/Policy (+6.2); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0c3e1ee12b6280f9232a"
   },
   {
     "title": "Navigating new economic realities - Europe’s outlook in a changing global landscape",
