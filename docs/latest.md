@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-19T05:27:31+00:00_
+_Generiert: 2026-11-19T05:39:09+00:00_
 
 ## Kurzlage
 
-21 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+22 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,7 +14,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-19T05:26:43+00:00`, fetched `2026-11-19T05:26:59+00:00`
+  - Zeit: published `2026-11-19T05:34:59+00:00`, fetched `2026-11-19T05:38:37+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -48,6 +48,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: Ruijie Networks Co., Ltd.が提供する複数の製品には、OSコマンドインジェクションの脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **If nobody knows you, nobody owes you their trust: How founders can build it anyway** — Score 14, observation — [Quelle](https://e27.co/if-nobody-knows-you-nobody-owes-you-their-trust-how-founders-can-build-it-anyway-20261116/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-19T05:30:54+00:00`, fetched `2026-11-19T05:38:37+00:00`
+  - Treffer: APAC Trend Radar, founder, Reputationsrisiko
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Reputationsrisiko (+7.0); founder (+2.5); recent (+1.0)
+  - Kurz: Here is an uncomfortable truth about business: If nobody knows you, nobody owes you their trust. An established company does not walk into a room carrying only its product. It carries years of reputation, relationships, customer references and a network built long before the current opportunity appeared. A founder starting out has none of that. […] The post If nobody knows you, nobody owes you their trust: How found…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -136,6 +145,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Empfehlungen
 
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 

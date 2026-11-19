@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T05:27:31+00:00",
-  "run_id": "2026-11-19T05:27:31+00:00",
+  "generated_at": "2026-11-19T05:39:09+00:00",
+  "run_id": "2026-11-19T05:39:09+00:00",
   "date": "2026-11-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 21
+      "configured_public_sources_only": 22
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,10 +19,10 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 21,
-    "displayed_findings": 21,
+    "today_file_total": 22,
+    "displayed_findings": 22,
     "high": 0,
-    "medium": 4,
+    "medium": 5,
     "observe": 17,
     "source_errors": 0
   },
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-19T05:26:43+00:00",
-        "fetched_at": "2026-11-19T05:26:59+00:00",
+        "published_at": "2026-11-19T05:34:59+00:00",
+        "fetched_at": "2026-11-19T05:38:37+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "e8c87a926f94e1e8ee8b"
+        "id": "c05ee443b1e1897e9d65"
       },
       {
         "title": "M 5.2 - 141 km W of Teluk Dalam, Indonesia",
@@ -151,6 +151,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "98fcfa87429cb80b0338"
+      },
+      {
+        "title": "If nobody knows you, nobody owes you their trust: How founders can build it anyway",
+        "url": "https://e27.co/if-nobody-knows-you-nobody-owes-you-their-trust-how-founders-can-build-it-anyway-20261116/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-11-19T05:30:54+00:00",
+        "fetched_at": "2026-11-19T05:38:37+00:00",
+        "summary": "Here is an uncomfortable truth about business: If nobody knows you, nobody owes you their trust. An established company does not walk into a room carrying only its product. It carries years of reputation, relationships, customer references and a network built long before the current opportunity appeared. A founder starting out has none of that. […] The post If nobody knows you, nobody owes you their trust: How found…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "founder",
+          "Reputationsrisiko"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "APAC Trend Radar (+3.0); Reputationsrisiko (+7.0); founder (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "bf1759e935ab86a739ad"
       }
     ],
     "observe": [
@@ -569,8 +591,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T05:26:43+00:00",
-      "fetched_at": "2026-11-19T05:26:59+00:00",
+      "published_at": "2026-11-19T05:34:59+00:00",
+      "fetched_at": "2026-11-19T05:38:37+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -604,7 +626,7 @@
         "HD",
         "LOW"
       ],
-      "id": "e8c87a926f94e1e8ee8b"
+      "id": "c05ee443b1e1897e9d65"
     },
     {
       "title": "M 5.2 - 141 km W of Teluk Dalam, Indonesia",
@@ -686,6 +708,28 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "98fcfa87429cb80b0338"
+    },
+    {
+      "title": "If nobody knows you, nobody owes you their trust: How founders can build it anyway",
+      "url": "https://e27.co/if-nobody-knows-you-nobody-owes-you-their-trust-how-founders-can-build-it-anyway-20261116/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-19T05:30:54+00:00",
+      "fetched_at": "2026-11-19T05:38:37+00:00",
+      "summary": "Here is an uncomfortable truth about business: If nobody knows you, nobody owes you their trust. An established company does not walk into a room carrying only its product. It carries years of reputation, relationships, customer references and a network built long before the current opportunity appeared. A founder starting out has none of that. […] The post If nobody knows you, nobody owes you their trust: How found…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "founder",
+        "Reputationsrisiko"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "APAC Trend Radar (+3.0); Reputationsrisiko (+7.0); founder (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bf1759e935ab86a739ad"
     },
     {
       "title": "Beyond who you know: Why value is becoming the new currency of business access",
@@ -1101,8 +1145,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T05:26:43+00:00",
-      "fetched_at": "2026-11-19T05:26:59+00:00",
+      "published_at": "2026-11-19T05:34:59+00:00",
+      "fetched_at": "2026-11-19T05:38:37+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1136,28 +1180,29 @@
         "HD",
         "LOW"
       ],
-      "id": "e8c87a926f94e1e8ee8b"
+      "id": "c05ee443b1e1897e9d65"
     },
     {
-      "title": "Instagramを一から構築してるんだけど、完全に端末を切り離して一切情報入れてないのに妻のアカウントに自分のアカウントが出てきて早速バレた「Wi-Fiも繋いでないんやぞ」",
-      "url": "https://togetter.com/li/2772266",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "If nobody knows you, nobody owes you their trust: How founders can build it anyway",
+      "url": "https://e27.co/if-nobody-knows-you-nobody-owes-you-their-trust-how-founders-can-build-it-anyway-20261116/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-11-18T23:53:56+00:00",
-      "fetched_at": "2026-11-19T05:26:59+00:00",
-      "summary": "Instagramを一から構築してるんだけど、完全に端末を切り離して一切情報入れてないのに妻のアカウントに自分のアカウントが出てきて早速バレた「Wi-Fiも繋いでないんやぞ」",
+      "published_at": "2026-11-19T05:30:54+00:00",
+      "fetched_at": "2026-11-19T05:38:37+00:00",
+      "summary": "Here is an uncomfortable truth about business: If nobody knows you, nobody owes you their trust. An established company does not walk into a room carrying only its product. It carries years of reputation, relationships, customer references and a network built long before the current opportunity appeared. A founder starting out has none of that. […] The post If nobody knows you, nobody owes you their trust: How found…",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "APAC Trend Radar",
+        "founder",
+        "Reputationsrisiko"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 14,
+      "relevance_reason": "APAC Trend Radar (+3.0); Reputationsrisiko (+7.0); founder (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "dd0fd36ed95d9a3b2d24"
+      "id": "bf1759e935ab86a739ad"
     }
   ],
   "source_errors": [],

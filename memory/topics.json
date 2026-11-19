@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-19T05:27:31+00:00",
+  "generated_at": "2026-11-19T05:39:09+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-11-19T05:26:43+00:00",
+        "published_at": "2026-11-19T05:34:59+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -82,6 +82,13 @@
         "published_at": "2026-11-19T01:47:36.040+00:00",
         "relevance_score": 15,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxb"
+      },
+      {
+        "title": "If nobody knows you, nobody owes you their trust: How founders can build it anyway",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-19T05:30:54+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/if-nobody-knows-you-nobody-owes-you-their-trust-how-founders-can-build-it-anyway-20261116/"
       },
       {
         "title": "M 4.9 - 36 km NNE of Kilimatinde, Tanzania",
