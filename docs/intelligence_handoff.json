@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-19T09:18:40Z",
+  "generated_at": "2026-11-19T09:32:12Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “ブラウザ拡張機能「Win Bird 授業支援」におけるクロスサイトスクリプティングの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/jp/JVN29068051/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-19T14:00:00+09:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/jp/JVN28897261/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-19T12:00:00+09:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -59,11 +59,37 @@
       "summary": "Ruijie Networks Co., Ltd.が提供する複数の製品には、OSコマンドインジェクションの脆弱性が存在します。"
     },
     {
+      "title": "[UPDATE] [hoch] Red Hat OpenStack: Schwachstelle ermöglicht Umgehung von Sicherheitsmaßnahmen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4544",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-11-19T09:22:48+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Red Hat OpenStack ausnutzen, um Sicherheitsmaßnahmen zu umgehen."
+    },
+    {
       "title": "[NEU] [hoch] NGINX: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4658",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-19T08:02:01+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -89,7 +115,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 153.31,
+      "age_days": 153.32,
       "topics": [
         "ai"
       ],
@@ -117,8 +143,8 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-11-19T08:56:42+00:00",
-      "age_days": 0.02,
+      "published_at": "2026-11-19T09:21:13+00:00",
+      "age_days": 0.01,
       "topics": [
         "ai",
         "macro",
@@ -147,7 +173,7 @@
       "url": "https://github.com/NVIDIA/SkillEvaluator",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-11-19T08:34:24+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "security"
@@ -172,7 +198,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-19T01:47:36.040+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "disaster"
       ],
@@ -196,7 +222,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uby4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-19T06:21:58.594+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -221,7 +247,7 @@
       "url": "https://e27.co/if-nobody-knows-you-nobody-owes-you-their-trust-how-founders-can-build-it-anyway-20261116/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-19T05:30:54+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -245,7 +271,7 @@
       "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp261119~9319ec6fea.en.html",
       "source": "ECB Statistical Press Releases",
       "published_at": "2026-11-19T09:00:00+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "macro"
       ],
@@ -269,7 +295,7 @@
       "url": "https://e27.co/the-crypto-hype-cycle-is-dead-here-are-the-4-narratives-replacing-it-20261112/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-19T01:00:22+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -289,30 +315,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "The fatigue you diagnosed is structural, not cyclical. The sector has run out of patience for projects that promised user utility and delivered clunky interfaces, empty virtual worlds, and speculative profile pictures. Play-to-earn gaming collapsed under unsustainable incentives. Metaverses remained ghost towns. Gener…"
-    },
-    {
-      "title": "Johor’s data-centre future is being decided in Ohio and Washington",
-      "url": "https://e27.co/johors-data-centre-future-is-being-decided-in-ohio-and-washington-20261119/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-19T08:53:07+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "American voters spent this month’s midterms arguing about data centres: who pays for the power, who loses the water, and who gets a say. Southeast Asia, which has quietly become the overflow tank for the world’s compute, never got that argument. It got press statements. Worse, the two decisions that will shape Johor’s…"
     }
   ],
   "read_order": [
@@ -324,9 +326,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 6,
-      "watch": 5,
-      "quiet": 1
+      "strong": 7,
+      "watch": 5
     }
   }
 }
