@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-19T11:57:57+00:00_
+_Generiert: 2026-11-19T12:07:20+00:00_
 
 ## Kurzlage
 
-50 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+58 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -53,10 +53,6 @@ _Generiert: 2026-11-19T11:57:57+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in South Of Mariana Islands 18/11/2026 02:22 UTC, [unknown].
-- **GDACS: Orange notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (12.129 million in Tropical Storm).** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001351)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Orange notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (12.129 million in Tropical Storm).
 
 ## Wirtschaft global
 
@@ -75,7 +71,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-19T11:52:31+00:00`, fetched `2026-11-19T11:52:12+00:00`
+  - Zeit: published `2026-11-19T12:04:02+00:00`, fetched `2026-11-19T12:06:51+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -91,6 +87,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: Last month, 414,210 visitors to an online marketplace introduced themselves as a widely used consumer AI agent. Every one of them went straight to the sign-in page. Every one of them failed. They were not agents. They were credential-stuffing bots wearing an agent’s name badge, according to field data from Santa Clara-based security firm Cequence, […] The post 414,000 ‘AI agents’ tried to log in. None of them were a…
   - Handlung: Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
+- **[NEU] [hoch] Gogs: Mehrere Schwachstellen** — Score 18, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4676)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-11-19T12:02:01+00:00`, fetched `2026-11-19T12:06:51+00:00`
+  - Treffer: BSI, CERT-Bund, Macro/Policy, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Macro/Policy (+5.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Gogs ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen, beliebigen Skriptcode im Kontext der Sitzung des Opfers auszuführen, Informationen offenzulegen, Daten zu manipulieren, Sicherheitsmaßnahmen zu umgehen, Benutzerrechte bis hin zu Administratorrechten zu erlangen
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[NEU] [mittel] OpenSSL: Mehrere Schwachstellen ermöglichen Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4660)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-11-19T10:12:00+00:00`, fetched `2026-11-19T10:21:15+00:00`
@@ -100,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); OpenSSL (+2.5); recent (+1.0)
   - Kurz: Ein Angreifer kann mehrere Schwachstellen in OpenSSL ausnutzen, um einen Denial of Service Angriff durchzuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等） | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構** — Score 16, mixed — [Quelle](https://www.ipa.go.jp/security/security-alert/2026/alert20261119.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-19T06:49:06+00:00`, fetched `2026-11-19T12:06:51+00:00`
+  - Treffer: Hatena, hotentry, Open Source, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); Open Source (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: トップページ 情報セキュリティ 重要なセキュリティ情報 2026年度 NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等） 注釈：追記すべき情報がある場合には、その都度このページを更新する予定です。 概要 F5社が提供するNGINX Open SourceおよびNGINX Plusについて、2026年11月18日に複数の脆弱性...
+  - Handlung: Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
 - **M 5.2 - 141 km W of Teluk Dalam, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxb)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-11-19T01:47:36.040+00:00`, fetched `2026-11-19T01:51:52+00:00`
@@ -118,6 +132,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: ウィンバード株式会社が提供するブラウザ拡張機能「Win Bird 授業支援」には、クロスサイトスクリプティングの脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[NEU] [niedrig] OpenCTI: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Manipulation von Daten** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4677)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-11-19T12:02:01+00:00`, fetched `2026-11-19T12:06:51+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in OpenCTI ausnutzen, um Sicherheitsvorkehrungen zu umgehen und um Daten zu manipulieren.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **複数のRuijie Networks製品におけるOSコマンドインジェクションの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN28897261/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-11-19T12:00:00+09:00`, fetched `2026-11-19T03:02:10+00:00`
@@ -127,24 +150,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: Ruijie Networks Co., Ltd.が提供する複数の製品には、OSコマンドインジェクションの脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [hoch] IBM QRadar SIEM Komponente: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1905)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-11-19T11:52:07+00:00`, fetched `2026-11-19T11:57:29+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in IBM QRadar SIEM Komponenten ausnutzen, um Daten zu manipulieren, um einen Denial of Service Angriff durchzuführen, um beliebigen Programmcode auszuführen, um Sicherheitsvorkehrungen zu umgehen, und um Informationen offenzulegen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [mittel] LiteLLM: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1408)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-11-19T11:12:00+00:00`, fetched `2026-11-19T11:24:02+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in LiteLLM ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **After Megaspeed, Indonesia pays the compliance bill for Asia’s AI chip race** — Score 14, observation — [Quelle](https://e27.co/after-megaspeed-indonesia-pays-the-compliance-bill-for-asias-ai-chip-race-20261119/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-19T05:59:40+00:00`, fetched `2026-11-19T06:00:42+00:00`
