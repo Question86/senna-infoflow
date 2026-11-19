@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-19T00:37:44+00:00",
+  "generated_at": "2026-11-19T00:51:15+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 3,
-    "displayed_findings": 3,
+    "today_file_total": 4,
+    "displayed_findings": 4,
     "high": 0,
     "medium": 1,
-    "observe": 2
+    "observe": 3
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -18,7 +18,7 @@
       "title": "Updates | ReliefWeb",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-19T00:37:33+00:00",
+      "published_at": "2026-11-19T00:51:04+00:00",
       "relevance_score": 23,
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
@@ -32,6 +32,16 @@
       "relevance_score": 5,
       "url": "https://forest.watch.impress.co.jp/docs/news/2157690.html",
       "summary": "「PHP」に再び“致命的”な脆弱性、日本時間19日夜にセキュリティリリースへ／サポート中の全バージョンが対象",
+      "section": "observe"
+    },
+    {
+      "title": "実質的無職になった｜Y.Hirano",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-18T19:58:08+00:00",
+      "relevance_score": 5,
+      "url": "https://note.com/y_hirano/n/nc986ab18b90e",
+      "summary": "2026年10月末で仕事が減ってしまったうえに、11月から実質的無職をしています。 この数ヶ月で案件獲得の難易度がかなり高くなってしまっており、そんな中で積極的に案件を取りにいく気分でもないので、しばらくは実質的無職になりそうです。 筆者について社会人になって以来ソフトウェアエンジニアをずっとやってきまし...",
       "section": "observe"
     },
     {

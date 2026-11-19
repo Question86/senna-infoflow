@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-19T00:37:44+00:00",
+  "generated_at": "2026-11-19T00:51:15+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-11-19T00:37:33+00:00",
+        "published_at": "2026-11-19T00:51:04+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -26,6 +26,13 @@
         "published_at": "2026-11-18T23:15:44+00:00",
         "relevance_score": 5,
         "url": "https://forest.watch.impress.co.jp/docs/news/2157690.html"
+      },
+      {
+        "title": "実質的無職になった｜Y.Hirano",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-18T19:58:08+00:00",
+        "relevance_score": 5,
+        "url": "https://note.com/y_hirano/n/nc986ab18b90e"
       }
     ],
     "github": [
