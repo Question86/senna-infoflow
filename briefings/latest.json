@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T14:40:16+00:00",
-  "run_id": "2026-11-20T14:40:16+00:00",
+  "generated_at": "2026-11-20T14:45:29+00:00",
+  "run_id": "2026-11-20T14:45:29+00:00",
   "date": "2026-11-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
+    "new_relevant_findings": 1,
     "today_file_total": 65,
     "displayed_findings": 65,
     "high": 0,
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-20T14:34:54+00:00",
-        "fetched_at": "2026-11-20T14:39:51+00:00",
+        "published_at": "2026-11-20T14:43:08+00:00",
+        "fetched_at": "2026-11-20T14:44:59+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "9295ba2d92693e63b649"
+        "id": "826c7101850b59d502a6"
       },
       {
         "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
@@ -1743,8 +1743,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T14:34:54+00:00",
-      "fetched_at": "2026-11-20T14:39:51+00:00",
+      "published_at": "2026-11-20T14:43:08+00:00",
+      "fetched_at": "2026-11-20T14:44:59+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1778,7 +1778,7 @@
         "HD",
         "LOW"
       ],
-      "id": "9295ba2d92693e63b649"
+      "id": "826c7101850b59d502a6"
     },
     {
       "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
@@ -3449,8 +3449,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T14:34:54+00:00",
-      "fetched_at": "2026-11-20T14:39:51+00:00",
+      "published_at": "2026-11-20T14:43:08+00:00",
+      "fetched_at": "2026-11-20T14:44:59+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -3484,48 +3484,7 @@
         "HD",
         "LOW"
       ],
-      "id": "9295ba2d92693e63b649"
-    },
-    {
-      "title": "「Microsoft To Do」アプリが2027年6月で廃止、個人の場合は別アプリへの乗り換えが必要に／法人向けは「Planner」が後継",
-      "url": "https://forest.watch.impress.co.jp/docs/news/2158040.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-20T06:00:17+00:00",
-      "fetched_at": "2026-11-20T14:39:51+00:00",
-      "summary": "「Microsoft To Do」アプリが2027年6月で廃止、個人の場合は別アプリへの乗り換えが必要に／法人向けは「Planner」が後継",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b517e79e9bc3fef0f621"
-    },
-    {
-      "title": "GitHub Desktop now supports multiple accounts per host",
-      "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-11-20T02:06:01+00:00",
-      "fetched_at": "2026-11-20T14:39:51+00:00",
-      "summary": "GitHub Desktop now lets you sign in with more than one account on the same host, including GitHub.com, GitHub Enterprise Server, and GHE.com. This has been one of the most… The post GitHub Desktop now supports multiple accounts per host appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "GitHub"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "GitHub (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "db40928356e58fd018ff"
+      "id": "826c7101850b59d502a6"
     }
   ],
   "source_errors": [],
