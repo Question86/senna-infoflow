@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-20T01:42:46+00:00_
+_Generiert: 2026-11-20T01:53:31+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+9 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -53,10 +53,6 @@ _Generiert: 2026-11-20T01:42:46+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in South Of Mariana Islands 18/11/2026 02:22 UTC, [unknown].
-- **USGS earthquake M5.6 - southeast of the Loyalty Islands** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc4v)
-  - Quelle: USGS
-  - Zeit: `2026-11-20T00:49:14+00:00`
-  - Kurz: M5.6 - southeast of the Loyalty Islands. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -75,7 +71,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-20T01:42:34+00:00`, fetched `2026-11-20T01:42:16+00:00`
+  - Zeit: published `2026-11-20T01:47:55+00:00`, fetched `2026-11-20T01:53:03+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -120,6 +116,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 最近AIの返答を理解するのに時間がかかってつらかった。そこで自分の認知特性をClaude Codeに分析させ、それに合わせて返答を書かせるSkillを作った。かなり読みやすくなったので作ったものと作り方を紹介する。 作りたいと思った理由: 記憶力が低く、AIの返答を理解するのがつらかった Claude Codeの返答を読んでいて「...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **古川大臣記者会見（令和8年11月20日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-261120-01)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-11-20T01:47:54+00:00`, fetched `2026-11-20T01:53:03+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 古川大臣記者会見（令和8年11月20日）動画を掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **湘南美容クリニックのSBC、162万人分の個人情報流出 パスワードは「暗号化せず保存していた」** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2611/20/2000003355/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-19T23:45:17+00:00`, fetched `2026-11-20T01:53:03+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 湘南美容クリニックなどを展開するSBCメディカルグループは11月19日、グループの医療機関から委託を受けて保有するデータベースが不正アクセスを受け、氏名や住所、パスワードなどを含む顧客の個人情報162万4000人分などが不正に取得されたと発表した。流出したパスワードは「暗号化せずに保存していた」という。 外部の...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **「オントロジー」とは結局何なのか Palantir、Databricks、Snowflake、NVIDIAで中身が違う理由** — Score 5, observation — [Quelle](https://atmarkit.itmedia.co.jp/ait/articles/2611/19/news008.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
