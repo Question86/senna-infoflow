@@ -1,17 +1,17 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-20T01:22:40+00:00_
+_Generated: 2026-11-20T01:27:44+00:00_
 
 ## Status
 - status: `normal`
-- findings: `6`
+- findings: `7`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-20T01:13:25+00:00`
+- published: `2026-11-20T01:27:33+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -43,7 +43,14 @@ _Generated: 2026-11-20T01:22:40+00:00_
 - url: https://blog.shibayu36.org/entry/2026/11/17/120000
 - summary: 最近AIの返答を理解するのに時間がかかってつらかった。そこで自分の認知特性をClaude Codeに分析させ、それに合わせて返答を書かせるSkillを作った。かなり読みやすくなったので作ったものと作り方を紹介する。 作りたいと思った理由: 記憶力が低く、AIの返答を理解するのがつらかった Claude Codeの返答を読んでいて「...
 
-### 6. Improvements on the pull request overview in public preview
+### 6. 「オントロジー」とは結局何なのか Palantir、Databricks、Snowflake、NVIDIAで中身が違う理由
+- source: Hatena Bookmark Hotentry IT
+- score: `5`
+- published: `2026-11-19T09:36:30+00:00`
+- url: https://atmarkit.itmedia.co.jp/ait/articles/2611/19/news008.html
+- summary: 連載目次 AIに「先月の売上を集計して」と頼み、返ってきたSQL文を実行したとする。エラーなく動いたが、集計結果には、社内ルールでは売上に含めないキャンセル済みの注文まで入っていた。このように、SQL文が正常に動いても、業務上正しい結果が得られるとは限らない。そのため、AIにはデータ構造に加え、業務用語の意...
+
+### 7. Improvements on the pull request overview in public preview
 - source: GitHub Changelog Atom
 - score: `3`
 - published: `2026-11-20T00:02:21+00:00`
