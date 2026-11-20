@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T13:36:47+00:00",
-  "run_id": "2026-11-20T13:36:47+00:00",
+  "generated_at": "2026-11-20T13:42:19+00:00",
+  "run_id": "2026-11-20T13:42:19+00:00",
   "date": "2026-11-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-20T13:29:50+00:00",
-        "fetched_at": "2026-11-20T13:36:18+00:00",
+        "published_at": "2026-11-20T13:42:07+00:00",
+        "fetched_at": "2026-11-20T13:41:47+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "3ff8265ce08f4755b5ff"
+        "id": "bb55c42c125602030e18"
       },
       {
         "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
@@ -1610,8 +1610,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T13:29:50+00:00",
-      "fetched_at": "2026-11-20T13:36:18+00:00",
+      "published_at": "2026-11-20T13:42:07+00:00",
+      "fetched_at": "2026-11-20T13:41:47+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1645,7 +1645,7 @@
         "HD",
         "LOW"
       ],
-      "id": "3ff8265ce08f4755b5ff"
+      "id": "bb55c42c125602030e18"
     },
     {
       "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
@@ -3183,8 +3183,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T13:29:50+00:00",
-      "fetched_at": "2026-11-20T13:36:18+00:00",
+      "published_at": "2026-11-20T13:42:07+00:00",
+      "fetched_at": "2026-11-20T13:41:47+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -3218,7 +3218,7 @@
         "HD",
         "LOW"
       ],
-      "id": "3ff8265ce08f4755b5ff"
+      "id": "bb55c42c125602030e18"
     }
   ],
   "source_errors": [],
