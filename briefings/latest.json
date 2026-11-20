@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T17:16:10+00:00",
-  "run_id": "2026-11-20T17:16:10+00:00",
+  "generated_at": "2026-11-20T17:22:44+00:00",
+  "run_id": "2026-11-20T17:22:44+00:00",
   "date": "2026-11-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 1,
     "today_file_total": 67,
     "displayed_findings": 67,
     "high": 0,
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-20T17:14:50+00:00",
-        "fetched_at": "2026-11-20T17:15:40+00:00",
+        "published_at": "2026-11-20T17:22:32+00:00",
+        "fetched_at": "2026-11-20T17:22:00+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "b629a0219359f03ce27d"
+        "id": "fca969960b638d79b21f"
       },
       {
         "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
@@ -1801,8 +1801,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T17:14:50+00:00",
-      "fetched_at": "2026-11-20T17:15:40+00:00",
+      "published_at": "2026-11-20T17:22:32+00:00",
+      "fetched_at": "2026-11-20T17:22:00+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1836,7 +1836,7 @@
         "HD",
         "LOW"
       ],
-      "id": "b629a0219359f03ce27d"
+      "id": "fca969960b638d79b21f"
     },
     {
       "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
@@ -3565,8 +3565,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T17:14:50+00:00",
-      "fetched_at": "2026-11-20T17:15:40+00:00",
+      "published_at": "2026-11-20T17:22:32+00:00",
+      "fetched_at": "2026-11-20T17:22:00+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -3600,29 +3600,7 @@
         "HD",
         "LOW"
       ],
-      "id": "b629a0219359f03ce27d"
-    },
-    {
-      "title": "Cook, The U.S. Economy in Global Context",
-      "url": "https://www.federalreserve.gov/newsevents/speech/cook20261120a.htm",
-      "source": "Federal Reserve Speeches and Testimony",
-      "source_type": "rss",
-      "published_at": "2026-11-20T17:15:00+00:00",
-      "fetched_at": "2026-11-20T17:15:40+00:00",
-      "summary": "Speech At the XXIX Annual Conference of the Central Bank of Chile, Santiago, Chile",
-      "matched_keywords": [
-        "Macro/Policy",
-        "speech",
-        "testimony"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0); watchgraph region south_america: Chile (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5f33da760c73640e0dc2"
+      "id": "fca969960b638d79b21f"
     }
   ],
   "source_errors": [],
