@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-20T02:52:52+00:00",
+  "generated_at": "2026-11-20T02:58:50+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 9,
-    "displayed_findings": 9,
+    "new_relevant_findings": 3,
+    "today_file_total": 11,
+    "displayed_findings": 11,
     "high": 0,
     "medium": 3,
-    "observe": 6
+    "observe": 8
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -18,7 +18,7 @@
       "title": "Updates | ReliefWeb",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T02:47:55+00:00",
+      "published_at": "2026-11-20T02:58:39+00:00",
       "relevance_score": 23,
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
@@ -43,6 +43,16 @@
       "url": "https://openai.com/business/learn/deploying-daybreak-red",
       "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
       "section": "medium"
+    },
+    {
+      "title": "Dubai is selling trust, not just capital: What it means for Southeast Asian founders",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-20T02:55:41+00:00",
+      "relevance_score": 12,
+      "url": "https://e27.co/dubai-is-selling-trust-not-just-capital-what-it-means-for-southeast-asian-founders-20261119/",
+      "summary": "When Southeast Asian founders look overseas for capital, customers, and business partners, Dubai is increasingly worth examining not simply as a place to raise money, but as a gateway to markets beyond their home region. The United Arab Emirates (UAE) has spe…",
+      "section": "observe"
     },
     {
       "title": "M 5.6 - southeast of the Loyalty Islands",
@@ -72,16 +82,6 @@
       "relevance_score": 6,
       "url": "https://www.digital.go.jp/speech/minister-261120-01",
       "summary": "古川大臣記者会見（令和8年11月20日）動画を掲載しました",
-      "section": "observe"
-    },
-    {
-      "title": "湘南美容クリニックのSBC、162万人分の個人情報流出 パスワードは「暗号化せず保存していた」",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-19T23:45:17+00:00",
-      "relevance_score": 5,
-      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003355/",
-      "summary": "湘南美容クリニックなどを展開するSBCメディカルグループは11月19日、グループの医療機関から委託を受けて保有するデータベースが不正アクセスを受け、氏名や住所、パスワードなどを含む顧客の個人情報162万4000人分などが不正に取得されたと発表した。流出したパスワードは「暗号化せずに保存していた」という。 外部の...",
       "section": "observe"
     }
   ],

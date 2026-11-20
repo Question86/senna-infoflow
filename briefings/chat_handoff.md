@@ -1,17 +1,17 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-20T02:52:52+00:00_
+_Generated: 2026-11-20T02:58:50+00:00_
 
 ## Status
 - status: `normal`
-- findings: `9`
+- findings: `11`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-20T02:47:55+00:00`
+- published: `2026-11-20T02:58:39+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -29,32 +29,32 @@ _Generated: 2026-11-20T02:52:52+00:00_
 - url: https://openai.com/business/learn/deploying-daybreak-red
 - summary: Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.
 
-### 4. M 5.6 - southeast of the Loyalty Islands
+### 4. Dubai is selling trust, not just capital: What it means for Southeast Asian founders
+- source: e27 Asia Startup and Tech Feed
+- score: `12`
+- published: `2026-11-20T02:55:41+00:00`
+- url: https://e27.co/dubai-is-selling-trust-not-just-capital-what-it-means-for-southeast-asian-founders-20261119/
+- summary: When Southeast Asian founders look overseas for capital, customers, and business partners, Dubai is increasingly worth examining not simply as a place to raise money, but as a gateway to markets beyond their home region. The United Arab Emirates (UAE) has spe…
+
+### 5. M 5.6 - southeast of the Loyalty Islands
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-11-20T01:08:52.763+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc4v
 - summary: ShakeMap - I Time 2026-11-20 00:49:13 UTC 2026-11-20 00:49:13 UTC at epicenter Location 24.702°S 171.160°E Depth 10.00 km (6.21 mi)
 
-### 5. AIの返答が理解しづらいので、自分の認知特性をAIに分析させてSkillにした - $shibayu36->blog;
+### 6. AIの返答が理解しづらいので、自分の認知特性をAIに分析させてSkillにした - $shibayu36->blog;
 - source: Hatena Bookmark Hotentry IT
 - score: `10`
 - published: `2026-11-18T03:37:49+00:00`
 - url: https://blog.shibayu36.org/entry/2026/11/17/120000
 - summary: 最近AIの返答を理解するのに時間がかかってつらかった。そこで自分の認知特性をClaude Codeに分析させ、それに合わせて返答を書かせるSkillを作った。かなり読みやすくなったので作ったものと作り方を紹介する。 作りたいと思った理由: 記憶力が低く、AIの返答を理解するのがつらかった Claude Codeの返答を読んでいて「...
 
-### 6. 古川大臣記者会見（令和8年11月20日）動画を掲載しました
+### 7. 古川大臣記者会見（令和8年11月20日）動画を掲載しました
 - source: Japan Digital Agency News RSS
 - score: `6`
 - published: `2026-11-20T01:47:54+00:00`
 - url: https://www.digital.go.jp/speech/minister-261120-01
 - summary: 古川大臣記者会見（令和8年11月20日）動画を掲載しました
-
-### 7. 湘南美容クリニックのSBC、162万人分の個人情報流出 パスワードは「暗号化せず保存していた」
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-11-19T23:45:17+00:00`
-- url: https://www.itmedia.co.jp/news/article/2611/20/2000003355/
-- summary: 湘南美容クリニックなどを展開するSBCメディカルグループは11月19日、グループの医療機関から委託を受けて保有するデータベースが不正アクセスを受け、氏名や住所、パスワードなどを含む顧客の個人情報162万4000人分などが不正に取得されたと発表した。流出したパスワードは「暗号化せずに保存していた」という。 外部の...
 
 END OF DOCUMENT
