@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-20T02:32:09Z",
+  "generated_at": "2026-11-20T02:47:23Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 13,
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/vu/JVNVU92814490/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-20T09:30:00+09:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://openai.com/business/learn/deploying-daybreak-red",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-19T00:00:00+00:00",
-      "age_days": 1.11,
+      "age_days": 1.12,
       "topics": [
         "ai",
         "security"
@@ -74,7 +74,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 154.02,
+      "age_days": 154.03,
       "topics": [
         "ai"
       ],
@@ -102,8 +102,8 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-11-20T02:28:00+00:00",
-      "age_days": 0.0,
+      "published_at": "2026-11-20T02:39:48+00:00",
+      "age_days": 0.01,
       "topics": [
         "ai",
         "macro",
@@ -132,7 +132,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc4v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-20T01:08:52.763+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -157,7 +157,7 @@
       "url": "https://blog.shibayu36.org/entry/2026/11/17/120000",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-18T03:37:49+00:00",
-      "age_days": 1.95,
+      "age_days": 1.96,
       "topics": [
         "ai"
       ],
@@ -183,7 +183,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261120-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-11-20T01:47:54+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
@@ -207,7 +207,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003355/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-19T23:45:17+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -231,7 +231,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 152.99,
+      "age_days": 153.0,
       "topics": [
         "general"
       ],
@@ -256,7 +256,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 152.99,
+      "age_days": 153.0,
       "topics": [
         "general"
       ],
@@ -281,7 +281,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 152.99,
+      "age_days": 153.0,
       "topics": [
         "ai"
       ],
@@ -308,7 +308,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/19/news008.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-19T09:36:30+00:00",
-      "age_days": 0.71,
+      "age_days": 0.72,
       "topics": [
         "ai"
       ],
@@ -333,7 +333,7 @@
       "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-20T00:02:21+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
