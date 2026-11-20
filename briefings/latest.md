@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-20T09:29:44+00:00_
+_Generiert: 2026-11-20T09:36:45+00:00_
 
 ## Kurzlage
 
-39 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+40 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -62,7 +62,7 @@ _Generiert: 2026-11-20T09:29:44+00:00_
 
 - Kein aktives Signal aus den konfigurierten globalen Sensoren.
 
-- Sensor-Hinweis: Yahoo finance failed: 401 Client Error: Unauthorized for url: https://query1.finance.yahoo.com/v7/finance/quote?symbols=BTC-USD,ETH-USD,GC%3DF,SI%3DF,GLD,SLV,SPY,QQQ,%5EGSPC,%5EIXIC,%5EDJI,%5EVIX,DX-Y.NYB,CL%3DF,COIN,MSTR,IBIT
+- Sensor-Hinweis: Yahoo finance failed: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v7/finance/quote?symbols=BTC-USD,ETH-USD,GC%3DF,SI%3DF,GLD,SLV,SPY,QQQ,%5EGSPC,%5EIXIC,%5EDJI,%5EVIX,DX-Y.NYB,CL%3DF,COIN,MSTR,IBIT
 
 <!-- SENNA_GLOBAL_WATCHDOGS:END -->
 
@@ -75,7 +75,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-20T09:28:41+00:00`, fetched `2026-11-20T09:29:15+00:00`
+  - Zeit: published `2026-11-20T09:36:00+00:00`, fetched `2026-11-20T09:36:21+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -108,6 +108,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Every big AI lab now has a Singapore story. OpenAI chose the city-state for its first Applied AI Lab outside the US. Last month, Anthropic opened an office here and signed an AI safety testing pact with the government. Now Mistral AI, Europe’s best-known model maker, has gone a step further and made Singapore its […] The post After OpenAI and Anthropic, Mistral goes further with a full APAC HQ in Singapore appeared…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Ecosystem Roundup: Singapore fintechs pour money into AI, but just 11 per cent run agents live** — Score 16, observation — [Quelle](https://e27.co/ecosystem-roundup-singapore-fintechs-pour-money-into-ai-but-just-11-per-cent-run-agents-live-20261120/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-20T09:33:38+00:00`, fetched `2026-11-20T09:36:21+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Singapore’s fintechs have embraced AI faster than almost anyone, but they have not handed it the keys. A new Kapronasia brief, co-published with Airwallex and the Singapore FinTech Association, finds 86% of Singapore fintechs already deploy AI, against 65% of the city-state’s traditional financial institutions. Yet only 11% run agentic AI in live environments, although […] The post Ecosystem Roundup: Singapore finte…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年11月19日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU92814490/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
@@ -153,15 +162,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: ADM, BG, DE, NTR, CF, MOS, wheat, corn, soy
   - Warum relevant: APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0); watchgraph region usa: San Francisco (+2.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)
   - Kurz: The pristine whiteboard mounted on the corner wall of the fifth-floor incubator suite at one-north was completely bare, save for the ghost of an erased product flow from three months back. In the late nineties, covering the early wreckage of the dot-com boom out of San Francisco, you could smell a founder’s panic fifty feet […] The post We took founder bias out of the roadmap: Then our customers fired us appeared fi…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Everful raises US$48.5M Series A to turn the overseas sourcing office into software** — Score 14, observation — [Quelle](https://e27.co/everful-raises-us48-5m-series-a-to-turn-the-overseas-sourcing-office-into-software-20261120/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-20T03:52:18+00:00`, fetched `2026-11-20T03:54:22+00:00`
-  - Treffer: APAC Trend Radar, Public Health, Watchgraph:agriculture_food_fertilizer
-  - Watchgraph: agriculture_food_fertilizer
-  - Markt-/Kontextkorb: ADM, BG, DE, NTR, CF, MOS, wheat, corn, soy
-  - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)
-  - Kurz: For decades, buying straight from a Chinese factory came with a hidden cost: a sourcing office in Shenzhen or Yiwu. That meant a few agents who spoke the language, chased samples, and knew which supplier was quietly cutting corners. Small retailers who could not afford that office bought through middlemen instead, and paid for it […] The post Everful raises US$48.5M Series A to turn the overseas sourcing office into…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
