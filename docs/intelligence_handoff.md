@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-11-20T01:47:07Z_
+_Generated: 2026-11-20T02:03:56Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-20T09:30:00+09:00` / age_days `0.05`
+- Published: `2026-11-20T09:30:00+09:00` / age_days `0.07`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cisa, jvn, security, advisory, official security but no high-signal phrase: capped at strong
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-19T00:00:00+00:00` / age_days `1.07`
+- Published: `2026-11-19T00:00:00+00:00` / age_days `1.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `153.99`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `154.0`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 154.0d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-11-20T01:42:34+00:00` / age_days `0.0`
+- Published: `2026-11-20T01:47:55+00:00` / age_days `0.01`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: earthquake, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-11-20T01:08:52.763+00:00` / age_days `0.03`
+- Published: `2026-11-20T01:08:52.763+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -62,17 +62,37 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `7.0`
-- Published: `2026-11-18T03:37:49+00:00` / age_days `1.92`
+- Published: `2026-11-18T03:37:49+00:00` / age_days `1.93`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://blog.shibayu36.org/entry/2026/11/17/120000
 
+### 古川大臣記者会見（令和8年11月20日）動画を掲載しました
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `6.0`
+- Published: `2026-11-20T01:47:54+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: no strong comparative reason
+- Quelle: https://www.digital.go.jp/speech/minister-261120-01
+
+### 湘南美容クリニックのSBC、162万人分の個人情報流出 パスワードは「暗号化せず保存していた」
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `5.0`
+- Published: `2026-11-19T23:45:17+00:00` / age_days `0.1`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: no strong comparative reason
+- Quelle: https://www.itmedia.co.jp/news/article/2611/20/2000003355/
+
 ### 【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `152.96`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `152.97`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1, aging penalty -16.0 for 153.0d old signal
@@ -82,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `152.96`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `152.97`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1, aging penalty -16.0 for 153.0d old signal
@@ -92,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `152.96`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `152.97`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +1, single-source AI hype brake -8.0, aging penalty -16.0 for 153.0d old signal, single-source AI cap enforced after phrase recheck
@@ -102,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-11-19T09:36:30+00:00` / age_days `0.67`
+- Published: `2026-11-19T09:36:30+00:00` / age_days `0.69`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://atmarkit.itmedia.co.jp/ait/articles/2611/19/news008.html
-
-### Improvements on the pull request overview in public preview
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `0`
-- Published: `2026-11-20T00:02:21+00:00` / age_days `0.07`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview
 
 END OF DOCUMENT
