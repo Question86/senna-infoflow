@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-11-20T23:17:17Z_
+_Generated: 2026-11-20T23:32:19Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] PHP: Schwachstelle ermö
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `31.0`
-- Published: `2026-11-20T07:47:00+00:00` / age_days `0.65`
+- Published: `2026-11-20T07:47:00+00:00` / age_days `0.66`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] PHP: Schwachstelle ermö
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `31.0`
-- Published: `2026-11-20T06:48:32+00:00` / age_days `0.69`
+- Published: `2026-11-20T06:48:32+00:00` / age_days `0.7`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, auth, security high-signal: code, auth
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] PHP: Schwachstelle ermö
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-11-20T12:47:04+00:00` / age_days `0.44`
+- Published: `2026-11-20T12:47:04+00:00` / age_days `0.45`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] PHP: Schwachstelle ermö
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-11-20T12:47:04+00:00` / age_days `0.44`
+- Published: `2026-11-20T12:47:04+00:00` / age_days `0.45`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] PHP: Schwachstelle ermö
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-20T13:02:01+00:00` / age_days `0.43`
+- Published: `2026-11-20T13:02:01+00:00` / age_days `0.44`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] PHP: Schwachstelle ermö
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-20T12:52:00+00:00` / age_days `0.43`
+- Published: `2026-11-20T12:52:00+00:00` / age_days `0.44`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] PHP: Schwachstelle ermö
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-20T12:47:03+00:00` / age_days `0.44`
+- Published: `2026-11-20T12:47:03+00:00` / age_days `0.45`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] PHP: Schwachstelle ermö
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-20T12:47:03+00:00` / age_days `0.44`
+- Published: `2026-11-20T12:47:03+00:00` / age_days `0.45`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] PHP: Schwachstelle ermö
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-20T09:30:00+09:00` / age_days `0.95`
+- Published: `2026-11-20T09:30:00+09:00` / age_days `0.96`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cisa, jvn, security, advisory, official security but no high-signal phrase: capped at strong
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] PHP: Schwachstelle ermö
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-20T06:48:30+00:00` / age_days `0.69`
+- Published: `2026-11-20T06:48:30+00:00` / age_days `0.7`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory, official security but no high-signal phrase: capped at strong
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] PHP: Schwachstelle ermö
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-19T00:00:00+00:00` / age_days `1.97`
+- Published: `2026-11-19T00:00:00+00:00` / age_days `1.98`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] PHP: Schwachstelle ermö
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-11-20T05:00:41+00:00` / age_days `0.76`
+- Published: `2026-11-20T05:00:41+00:00` / age_days `0.77`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: early terms: local, high terms: execution, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck

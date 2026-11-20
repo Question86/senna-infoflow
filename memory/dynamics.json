@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-20T23:17:17Z",
+  "generated_at": "2026-11-20T23:32:19Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -22,7 +22,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4145",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-20T07:47:00+00:00",
-      "age_days": 0.65,
+      "age_days": 0.66,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0209",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-20T06:48:32+00:00",
-      "age_days": 0.69,
+      "age_days": 0.7,
       "topics": [
         "security"
       ],
@@ -72,7 +72,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4701",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-20T12:47:04+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -96,7 +96,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4702",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-20T12:47:04+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -120,7 +120,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4698",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-20T12:47:03+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -144,7 +144,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4699",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-20T12:47:03+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -168,7 +168,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0690",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-20T12:42:11+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -192,7 +192,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4672",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-20T08:02:00+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "security"
       ],
@@ -216,7 +216,7 @@
       "url": "https://openai.com/business/customer-stories/hebbia",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-20T00:00:00+00:00",
-      "age_days": 0.97,
+      "age_days": 0.98,
       "topics": [
         "ai"
       ],
@@ -241,7 +241,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1564/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-11-18T00:00:00+00:00",
-      "age_days": 2.97,
+      "age_days": 2.98,
       "topics": [
         "ai",
         "security"
@@ -267,7 +267,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1562/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-11-18T00:00:00+00:00",
-      "age_days": 2.97,
+      "age_days": 2.98,
       "topics": [
         "ai",
         "security"
@@ -293,7 +293,7 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1561/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-11-18T00:00:00+00:00",
-      "age_days": 2.97,
+      "age_days": 2.98,
       "topics": [
         "ai",
         "security"
@@ -319,7 +319,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4721",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-20T13:02:01+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "ai",
         "security"
@@ -346,7 +346,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4720",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-20T12:52:00+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "ai",
         "security"
@@ -373,7 +373,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4697",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-20T12:47:03+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -399,7 +399,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4700",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-20T12:47:03+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -425,7 +425,7 @@
       "url": "https://jvn.jp/vu/JVNVU92814490/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-20T09:30:00+09:00",
-      "age_days": 0.95,
+      "age_days": 0.96,
       "topics": [
         "security"
       ],
@@ -450,7 +450,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2904",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-20T06:48:30+00:00",
-      "age_days": 0.69,
+      "age_days": 0.7,
       "topics": [
         "security"
       ],
@@ -475,7 +475,7 @@
       "url": "https://openai.com/business/learn/deploying-daybreak-red",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-19T00:00:00+00:00",
-      "age_days": 1.97,
+      "age_days": 1.98,
       "topics": [
         "ai",
         "security"
@@ -501,7 +501,7 @@
       "url": "https://e27.co/southeast-asias-robot-vacuum-boom-puts-local-execution-to-the-test-20261119/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-20T05:00:41+00:00",
-      "age_days": 0.76,
+      "age_days": 0.77,
       "topics": [
         "ai",
         "macro"
@@ -530,7 +530,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 154.89,
+      "age_days": 154.9,
       "topics": [
         "ai"
       ],
@@ -558,8 +558,8 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-11-20T23:13:46+00:00",
-      "age_days": 0.0,
+      "published_at": "2026-11-20T23:24:26+00:00",
+      "age_days": 0.01,
       "topics": [
         "ai",
         "macro",
@@ -588,7 +588,7 @@
       "url": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-19T23:35:14+00:00",
-      "age_days": 0.99,
+      "age_days": 1.0,
       "topics": [
         "ai",
         "macro"
@@ -615,7 +615,7 @@
       "url": "https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-11-20T21:49:29+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "security"
@@ -642,7 +642,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4634",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-20T09:28:17+00:00",
-      "age_days": 0.58,
+      "age_days": 0.59,
       "topics": [
         "security"
       ],
@@ -668,7 +668,7 @@
       "url": "https://openai.com/index/combatting-adversarial-distillation",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-20T10:00:00+00:00",
-      "age_days": 0.55,
+      "age_days": 0.56,
       "topics": [
         "ai"
       ],
@@ -693,7 +693,7 @@
       "url": "https://www.heise.de/news/VMware-stopft-attackierte-Sicherheitsluecken-11532009.html",
       "source": "heise Security Alerts",
       "published_at": "2026-11-20T08:06:00.000+00:00",
-      "age_days": 0.63,
+      "age_days": 0.64,
       "topics": [
         "ai",
         "security"
@@ -719,7 +719,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11423-cb8d4-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-11-20T02:36:00+00:00",
-      "age_days": 0.86,
+      "age_days": 0.87,
       "topics": [
         "security"
       ],
@@ -743,7 +743,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/cook20261120a.htm",
       "source": "Federal Reserve Speeches and Testimony",
       "published_at": "2026-11-20T17:15:00+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "macro"
       ],
@@ -768,7 +768,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc9c",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-20T14:54:07.040+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "disaster"
       ],
@@ -793,7 +793,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc4v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-20T01:08:52.763+00:00",
-      "age_days": 0.92,
+      "age_days": 0.93,
       "topics": [
         "disaster"
       ],
@@ -818,7 +818,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc96",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-20T13:22:14.040+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "disaster"
       ],
@@ -842,7 +842,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc8k",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-20T11:16:24.040+00:00",
-      "age_days": 0.5,
+      "age_days": 0.51,
       "topics": [
         "disaster"
       ],
@@ -867,7 +867,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc8g",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-20T10:47:31.040+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "disaster"
       ],
@@ -892,7 +892,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc81",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-20T09:11:03.040+00:00",
-      "age_days": 0.59,
+      "age_days": 0.6,
       "topics": [
         "disaster"
       ],
@@ -917,7 +917,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc82",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-20T09:01:03.040+00:00",
-      "age_days": 0.59,
+      "age_days": 0.61,
       "topics": [
         "disaster"
       ],
@@ -942,7 +942,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75468702",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-20T06:54:11.000+00:00",
-      "age_days": 0.68,
+      "age_days": 0.69,
       "topics": [
         "disaster"
       ],
@@ -967,7 +967,7 @@
       "url": "https://e27.co/we-took-founder-bias-out-of-the-roadmap-then-our-customers-fired-us-20261120/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-20T04:45:34+00:00",
-      "age_days": 0.77,
+      "age_days": 0.78,
       "topics": [
         "macro"
       ],
@@ -991,7 +991,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc5s",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-20T03:25:37.760+00:00",
-      "age_days": 0.83,
+      "age_days": 0.84,
       "topics": [
         "disaster"
       ],
@@ -1015,7 +1015,7 @@
       "url": "https://e27.co/americas-affordability-election-is-becoming-corporate-americas-accountability-test-20261119/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-20T04:00:39+00:00",
-      "age_days": 0.8,
+      "age_days": 0.81,
       "topics": [
         "macro"
       ],
