@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-20T04:00:10+00:00_
+_Generiert: 2026-11-20T04:15:18+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+16 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -71,7 +71,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-20T03:55:20+00:00`, fetched `2026-11-20T03:59:39+00:00`
+  - Zeit: published `2026-11-20T04:15:01+00:00`, fetched `2026-11-20T04:14:41+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -108,6 +108,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **America’s affordability election is becoming corporate America’s accountability test** — Score 13, observation — [Quelle](https://e27.co/americas-affordability-election-is-becoming-corporate-americas-accountability-test-20261119/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-20T04:00:39+00:00`, fetched `2026-11-20T04:14:41+00:00`
+  - Treffer: APAC Trend Radar, Macro/Policy, Watchgraph:elections_unrest
+  - Watchgraph: elections_unrest
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, META, GOOGL, MSFT, RDDT, SNAP, PINS
+  - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules elections_unrest (+3.0)
+  - Kurz: When Americans go to the polls on November 3, much of the attention will be on which party controls Congress, but for corporate America, the more consequential question may be what happens after the votes are counted. Affordability has become a defining issue in the 2026 midterm elections; from groceries and housing to healthcare and […] The post America’s affordability election is becoming corporate America’s accou…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Dubai is selling trust, not just capital: What it means for Southeast Asian founders** — Score 12, observation — [Quelle](https://e27.co/dubai-is-selling-trust-not-just-capital-what-it-means-for-southeast-asian-founders-20261119/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-11-20T02:55:41+00:00`, fetched `2026-11-20T02:58:21+00:00`
@@ -144,6 +153,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: ShakeMap - I Time 2026-11-20 00:49:13 UTC 2026-11-20 00:49:13 UTC at epicenter Location 24.702°S 171.160°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **The quiet identity crisis behind AI productivity gains** — Score 10, observation — [Quelle](https://e27.co/the-quiet-identity-crisis-behind-ai-productivity-gains-20261116/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-11-20T04:00:23+00:00`, fetched `2026-11-20T04:14:41+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: My work in organisational psychology and clinical practice has increasingly brought me into conversations about how AI is changing people’s sense of professional identity. One client, whose identifying details have been changed to protect confidentiality, leads a research team at a Singapore fintech company. AI has transformed how she works. Reports that once required hours […] The post The quiet identity crisis beh…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AIの返答が理解しづらいので、自分の認知特性をAIに分析させてSkillにした - $shibayu36->blog;** — Score 10, observation — [Quelle](https://blog.shibayu36.org/entry/2026/11/17/120000)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-11-18T03:37:49+00:00`, fetched `2026-11-20T00:43:40+00:00`
@@ -179,15 +197,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 連載目次 AIに「先月の売上を集計して」と頼み、返ってきたSQL文を実行したとする。エラーなく動いたが、集計結果には、社内ルールでは売上に含めないキャンセル済みの注文まで入っていた。このように、SQL文が正常に動いても、業務上正しい結果が得られるとは限らない。そのため、AIにはデータ構造に加え、業務用語の意...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Can Bitcoin hold US$61,256, or is US$60,000 the next stop?** — Score 4, observation — [Quelle](https://e27.co/can-bitcoin-hold-us61256-or-is-us60000-the-next-stop-20261120/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-11-20T02:53:04+00:00`, fetched `2026-11-20T02:58:21+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: The global market sell-off that accelerated on Friday, November 20, 2026, delivered a sharp reminder that Bitcoin now trades as a high-beta risk asset rather than an isolated store of value. Bitcoin fell 2.01 per cent to US$61,477.34 over 24 hours, closely tracking a 1.72 per cent decline in the broader crypto market and moving […] The post Can Bitcoin hold US$61,256, or is US$60,000 the next stop? appeared first on…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Improvements on the pull request overview in public preview** — Score 3, observation — [Quelle](https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview)
   - Quelle: GitHub Changelog Atom / `rss`
