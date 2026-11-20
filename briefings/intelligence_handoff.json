@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-20T21:46:31Z",
+  "generated_at": "2026-11-20T22:17:18Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] PHP: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4145",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-20T07:47:00+00:00",
-      "age_days": 0.58,
+      "age_days": 0.6,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0209",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-20T06:48:32+00:00",
-      "age_days": 0.62,
+      "age_days": 0.64,
       "topics": [
         "security"
       ],
@@ -65,7 +65,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4701",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-20T12:47:04+00:00",
-      "age_days": 0.37,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -89,7 +89,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4702",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-20T12:47:04+00:00",
-      "age_days": 0.37,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -113,7 +113,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4721",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-20T13:02:01+00:00",
-      "age_days": 0.36,
+      "age_days": 0.39,
       "topics": [
         "ai",
         "security"
@@ -140,7 +140,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4720",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-20T12:52:00+00:00",
-      "age_days": 0.37,
+      "age_days": 0.39,
       "topics": [
         "ai",
         "security"
@@ -167,7 +167,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4697",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-20T12:47:03+00:00",
-      "age_days": 0.37,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -193,7 +193,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4700",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-20T12:47:03+00:00",
-      "age_days": 0.37,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -219,7 +219,7 @@
       "url": "https://jvn.jp/vu/JVNVU92814490/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-20T09:30:00+09:00",
-      "age_days": 0.89,
+      "age_days": 0.91,
       "topics": [
         "security"
       ],
@@ -244,7 +244,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2904",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-11-20T06:48:30+00:00",
-      "age_days": 0.62,
+      "age_days": 0.65,
       "topics": [
         "security"
       ],
@@ -269,7 +269,7 @@
       "url": "https://openai.com/business/learn/deploying-daybreak-red",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-19T00:00:00+00:00",
-      "age_days": 1.91,
+      "age_days": 1.93,
       "topics": [
         "ai",
         "security"
@@ -295,7 +295,7 @@
       "url": "https://e27.co/southeast-asias-robot-vacuum-boom-puts-local-execution-to-the-test-20261119/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-20T05:00:41+00:00",
-      "age_days": 0.7,
+      "age_days": 0.72,
       "topics": [
         "ai",
         "macro"
