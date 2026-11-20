@@ -1377,6 +1377,26 @@
     "id": "c5d79df7b9d5069231eb"
   },
   {
+    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+    "url": "https://openai.com/business/customer-stories/hebbia",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-11-20T00:00:00+00:00",
+    "fetched_at": "2026-11-20T20:44:47+00:00",
+    "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+    "matched_keywords": [
+      "OpenAI"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8ac32a405f258375a9c0"
+  },
+  {
     "title": "Multiples vulnérabilités dans Oracle PeopleSoft (18 novembre 2026)",
     "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1564/",
     "source": "CERT-FR Avis de sécurité",
