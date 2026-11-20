@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-20T13:24:33+00:00_
+_Generated: 2026-11-20T13:30:01+00:00_
 
 ## Status
-- status: `warning`
-- findings: `58`
+- status: `normal`
+- findings: `59`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-11-20T13:24:33+00:00_
 - url: https://e27.co/americas-affordability-election-is-becoming-corporate-americas-accountability-test-20261119/
 - summary: When Americans go to the polls on November 3, much of the attention will be on which party controls Congress, but for corporate America, the more consequential question may be what happens after the votes are counted. Affordability has become a defining issue…
 
-### 6. Know your tenant: US chip rules turn Southeast Asia’s data centres into compliance desks
+### 6. Waller, Opening Remarks
+- source: Federal Reserve Speeches and Testimony
+- score: `12`
+- published: `2026-11-20T13:25:00+00:00`
+- url: https://www.federalreserve.gov/newsevents/speech/waller20261120a.htm
+- summary: Speech At the 2026 College Fed Challenge Finals, Board of Governors of the Federal Reserve System, Washington, D.C.
+
+### 7. Know your tenant: US chip rules turn Southeast Asia’s data centres into compliance desks
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-11-20T05:30:06+00:00`
 - url: https://e27.co/know-your-tenant-us-chip-rules-turn-southeast-asias-data-centres-into-compliance-desks-20261120/
 - summary: For most of this decade, Southeast Asia’s data centre operators asked prospective tenants a short list of questions: how many megawatts, how long a lease, how soon. Since November 16, that list has grown, and the question that matters most is no longer how mu…
 
-### 7. Southeast Asia’s robot vacuum boom puts local execution to the test
+### 8. Southeast Asia’s robot vacuum boom puts local execution to the test
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-11-20T05:00:41+00:00`
 - url: https://e27.co/southeast-asias-robot-vacuum-boom-puts-local-execution-to-the-test-20261119/
 - summary: Vietnam’s robot vacuum market offers a striking signal of demand for household automation. Consumers spent US$92.3 million on the devices in the 12 months through June 2026, an increase of 137.6 per cent by value, according to GfK data reported by VnExpress.…
-
-### 8. Dubai is selling trust, not just capital: What it means for Southeast Asian founders
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-11-20T02:55:41+00:00`
-- url: https://e27.co/dubai-is-selling-trust-not-just-capital-what-it-means-for-southeast-asian-founders-20261119/
-- summary: When Southeast Asian founders look overseas for capital, customers, and business partners, Dubai is increasingly worth examining not simply as a place to raise money, but as a gateway to markets beyond their home region. The United Arab Emirates (UAE) has spe…
 
 END OF DOCUMENT

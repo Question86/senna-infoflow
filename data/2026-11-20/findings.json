@@ -661,6 +661,28 @@
     "id": "734f63534ad1438482fe"
   },
   {
+    "title": "Waller, Opening Remarks",
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20261120a.htm",
+    "source": "Federal Reserve Speeches and Testimony",
+    "source_type": "rss",
+    "published_at": "2026-11-20T13:25:00+00:00",
+    "fetched_at": "2026-11-20T13:29:29+00:00",
+    "summary": "Speech At the 2026 College Fed Challenge Finals, Board of Governors of the Federal Reserve System, Washington, D.C.",
+    "matched_keywords": [
+      "Macro/Policy",
+      "speech",
+      "testimony"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7991b27d3a53443b72a0"
+  },
+  {
     "title": "Know your tenant: US chip rules turn Southeast Asia’s data centres into compliance desks",
     "url": "https://e27.co/know-your-tenant-us-chip-rules-turn-southeast-asias-data-centres-into-compliance-desks-20261120/",
     "source": "e27 Asia Startup and Tech Feed",
