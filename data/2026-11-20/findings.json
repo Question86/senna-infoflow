@@ -1262,6 +1262,98 @@
     "id": "c5d79df7b9d5069231eb"
   },
   {
+    "title": "Multiples vulnérabilités dans Oracle PeopleSoft (18 novembre 2026)",
+    "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1564/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-11-18T00:00:00+00:00",
+    "fetched_at": "2026-11-20T14:23:02+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7b5f36fbb54e217d3187"
+  },
+  {
+    "title": "Multiples vulnérabilités dans Oracle MySQL (18 novembre 2026)",
+    "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1563/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-11-18T00:00:00+00:00",
+    "fetched_at": "2026-11-20T14:23:02+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a874c78f0422ee4d5103"
+  },
+  {
+    "title": "Multiples vulnérabilités dans Oracle Java SE (18 novembre 2026)",
+    "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1562/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-11-18T00:00:00+00:00",
+    "fetched_at": "2026-11-20T14:23:02+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Java SE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c4482a68cdf1c8cd7582"
+  },
+  {
+    "title": "Multiples vulnérabilités dans Oracle Database Server (18 novembre 2026)",
+    "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1561/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-11-18T00:00:00+00:00",
+    "fetched_at": "2026-11-20T14:23:02+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Database Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c4d0668c3c3bb7709bbc"
+  },
+  {
     "title": "VMware stopft attackierte Sicherheitslücken",
     "url": "https://www.heise.de/news/VMware-stopft-attackierte-Sicherheitsluecken-11532009.html",
     "source": "heise Security Alerts",
