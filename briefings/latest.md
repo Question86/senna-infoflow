@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-20T01:10:24+00:00_
+_Generiert: 2026-11-20T01:17:15+00:00_
 
 ## Kurzlage
 
@@ -29,6 +29,10 @@ _Generiert: 2026-11-20T01:10:24+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-11-17`
   - Kurz: Known exploited vulnerability. Added 2026-11-17. Due 2026-12-01. Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Southeast Of Loyalty Islands 20/11/2026 00:49 UTC, [unknown].** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1578280)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Southeast Of Loyalty Islands 20/11/2026 00:49 UTC, [unknown].
 - **GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Pacific-Antarctic Ridge 18/11/2026 19:14 UTC, No people affected in 100km.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1578046)
   - Quelle: GDACS
   - Zeit: ``
@@ -52,7 +56,7 @@ _Generiert: 2026-11-20T01:10:24+00:00_
 - **USGS earthquake M5.6 - southeast of the Loyalty Islands** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc4v)
   - Quelle: USGS
   - Zeit: `2026-11-20T00:49:13+00:00`
-  - Kurz: M5.6 - southeast of the Loyalty Islands. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M5.6 - southeast of the Loyalty Islands. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -71,7 +75,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-20T01:02:08+00:00`, fetched `2026-11-20T01:09:56+00:00`
+  - Zeit: published `2026-11-20T01:13:25+00:00`, fetched `2026-11-20T01:16:45+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
