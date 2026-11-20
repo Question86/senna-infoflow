@@ -656,6 +656,42 @@
     "id": "0004f7bbd780e6b030b6"
   },
   {
+    "title": "M 4.7 - Carlsberg Ridge",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc81",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-11-20T09:11:03.040+00:00",
+    "fetched_at": "2026-11-20T09:16:43+00:00",
+    "summary": "Time 2026-11-20 08:42:54 UTC 2026-11-20 08:42:54 UTC at epicenter Location 9.753°N 57.841°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "58f56fe1787682f82dc9"
+  },
+  {
     "title": "M 5.4 - Carlsberg Ridge",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc82",
     "source": "USGS M4.5+ Earthquakes Past Hour",
