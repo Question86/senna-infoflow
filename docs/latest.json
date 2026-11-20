@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T21:23:02+00:00",
-  "run_id": "2026-11-20T21:23:02+00:00",
+  "generated_at": "2026-11-20T21:28:41+00:00",
+  "run_id": "2026-11-20T21:28:41+00:00",
   "date": "2026-11-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 72
+      "configured_public_sources_only": 73
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 72,
-    "displayed_findings": 72,
+    "new_relevant_findings": 2,
+    "today_file_total": 73,
+    "displayed_findings": 73,
     "high": 0,
     "medium": 24,
-    "observe": 48,
+    "observe": 49,
     "source_errors": 0
   },
   "sections": {
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-20T21:16:30+00:00",
-        "fetched_at": "2026-11-20T21:22:33+00:00",
+        "published_at": "2026-11-20T21:23:18+00:00",
+        "fetched_at": "2026-11-20T21:28:11+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "d3f88bd366225489be65"
+        "id": "f58c9927fe7e855be392"
       },
       {
         "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
@@ -1581,6 +1581,27 @@
         "id": "14803055e6ada8b8fab1"
       },
       {
+        "title": "GitHub Enterprise Server 3.23 release candidate",
+        "url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-11-20T20:41:26+00:00",
+        "fetched_at": "2026-11-20T21:28:11+00:00",
+        "summary": "GitHub Enterprise Server (GHES) 3.23 is now available and introduces new capabilities across the platform. Here are a few highlights in the 3.23 release: When working in GitHub Projects, you… The post GitHub Enterprise Server 3.23 release candidate appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "GitHub"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); GitHub (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "02b0ca00ff4a33be0f6a"
+      },
+      {
         "title": "ガバメントソリューションサービスで提供しているファイル共有サービス上のファイルの漏えいの可能性について",
         "url": "https://www.digital.go.jp/press/a966ee61-478c-4194-8f13-f97599fae986",
         "source": "Japan Digital Agency News RSS",
@@ -1918,8 +1939,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T21:16:30+00:00",
-      "fetched_at": "2026-11-20T21:22:33+00:00",
+      "published_at": "2026-11-20T21:23:18+00:00",
+      "fetched_at": "2026-11-20T21:28:11+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1953,7 +1974,7 @@
         "HD",
         "LOW"
       ],
-      "id": "d3f88bd366225489be65"
+      "id": "f58c9927fe7e855be392"
     },
     {
       "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
@@ -3463,6 +3484,27 @@
       "id": "14803055e6ada8b8fab1"
     },
     {
+      "title": "GitHub Enterprise Server 3.23 release candidate",
+      "url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-11-20T20:41:26+00:00",
+      "fetched_at": "2026-11-20T21:28:11+00:00",
+      "summary": "GitHub Enterprise Server (GHES) 3.23 is now available and introduces new capabilities across the platform. Here are a few highlights in the 3.23 release: When working in GitHub Projects, you… The post GitHub Enterprise Server 3.23 release candidate appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "GitHub"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); GitHub (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "02b0ca00ff4a33be0f6a"
+    },
+    {
       "title": "ガバメントソリューションサービスで提供しているファイル共有サービス上のファイルの漏えいの可能性について",
       "url": "https://www.digital.go.jp/press/a966ee61-478c-4194-8f13-f97599fae986",
       "source": "Japan Digital Agency News RSS",
@@ -3799,8 +3841,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T21:16:30+00:00",
-      "fetched_at": "2026-11-20T21:22:33+00:00",
+      "published_at": "2026-11-20T21:23:18+00:00",
+      "fetched_at": "2026-11-20T21:28:11+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -3834,7 +3876,28 @@
         "HD",
         "LOW"
       ],
-      "id": "d3f88bd366225489be65"
+      "id": "f58c9927fe7e855be392"
+    },
+    {
+      "title": "GitHub Enterprise Server 3.23 release candidate",
+      "url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-11-20T20:41:26+00:00",
+      "fetched_at": "2026-11-20T21:28:11+00:00",
+      "summary": "GitHub Enterprise Server (GHES) 3.23 is now available and introduces new capabilities across the platform. Here are a few highlights in the 3.23 release: When working in GitHub Projects, you… The post GitHub Enterprise Server 3.23 release candidate appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "GitHub"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); GitHub (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "02b0ca00ff4a33be0f6a"
     }
   ],
   "source_errors": [],
