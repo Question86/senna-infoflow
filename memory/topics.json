@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-20T05:25:46+00:00",
+  "generated_at": "2026-11-20T05:31:13+00:00",
   "topics": {
     "ai": [
       {
@@ -61,18 +61,18 @@
         "url": "https://blog.shibayu36.org/entry/2026/11/17/120000"
       },
       {
+        "title": "Indonesia exports its talent, Korea captures the value: The K-pop lesson Jakarta can’t ignore",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-20T05:30:15+00:00",
+        "relevance_score": 7,
+        "url": "https://e27.co/indonesia-exports-its-talent-korea-captures-the-value-the-k-pop-lesson-jakarta-cant-ignore-20261120/"
+      },
+      {
         "title": "「オントロジー」とは結局何なのか Palantir、Databricks、Snowflake、NVIDIAで中身が違う理由",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-11-19T09:36:30+00:00",
         "relevance_score": 5,
         "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/19/news008.html"
-      },
-      {
-        "title": "Improvements on the pull request overview in public preview",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-11-20T00:02:21+00:00",
-        "relevance_score": 3,
-        "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview"
       }
     ],
     "geopolitics": [
@@ -128,6 +128,13 @@
         "published_at": "2026-11-20T04:45:34+00:00",
         "relevance_score": 14,
         "url": "https://e27.co/we-took-founder-bias-out-of-the-roadmap-then-our-customers-fired-us-20261120/"
+      },
+      {
+        "title": "Know your tenant: US chip rules turn Southeast Asia’s data centres into compliance desks",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-20T05:30:06+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/know-your-tenant-us-chip-rules-turn-southeast-asias-data-centres-into-compliance-desks-20261120/"
       },
       {
         "title": "M 4.8 - 24 km ESE of Calingasta, Argentina",
@@ -186,6 +193,13 @@
         "published_at": "2026-11-20T04:30:01+00:00",
         "relevance_score": 11,
         "url": "https://e27.co/ai-should-change-wealth-managements-economics-not-just-its-margins-20261119/"
+      },
+      {
+        "title": "Indonesia exports its talent, Korea captures the value: The K-pop lesson Jakarta can’t ignore",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-11-20T05:30:15+00:00",
+        "relevance_score": 7,
+        "url": "https://e27.co/indonesia-exports-its-talent-korea-captures-the-value-the-k-pop-lesson-jakarta-cant-ignore-20261120/"
       },
       {
         "title": "Can Bitcoin hold US$61,256, or is US$60,000 the next stop?",

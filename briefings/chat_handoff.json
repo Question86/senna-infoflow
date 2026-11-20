@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-11-20T05:25:46+00:00",
+  "generated_at": "2026-11-20T05:31:13+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 20,
-    "displayed_findings": 20,
+    "new_relevant_findings": 2,
+    "today_file_total": 22,
+    "displayed_findings": 22,
     "high": 0,
     "medium": 6,
-    "observe": 14
+    "observe": 16
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -65,6 +65,16 @@
       "section": "observe"
     },
     {
+      "title": "Know your tenant: US chip rules turn Southeast Asia’s data centres into compliance desks",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-11-20T05:30:06+00:00",
+      "relevance_score": 12,
+      "url": "https://e27.co/know-your-tenant-us-chip-rules-turn-southeast-asias-data-centres-into-compliance-desks-20261120/",
+      "summary": "For most of this decade, Southeast Asia’s data centre operators asked prospective tenants a short list of questions: how many megawatts, how long a lease, how soon. Since November 16, that list has grown, and the question that matters most is no longer how mu…",
+      "section": "observe"
+    },
+    {
       "title": "Southeast Asia’s robot vacuum boom puts local execution to the test",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 12,
       "url": "https://e27.co/dubai-is-selling-trust-not-just-capital-what-it-means-for-southeast-asian-founders-20261119/",
       "summary": "When Southeast Asian founders look overseas for capital, customers, and business partners, Dubai is increasingly worth examining not simply as a place to raise money, but as a gateway to markets beyond their home region. The United Arab Emirates (UAE) has spe…",
-      "section": "observe"
-    },
-    {
-      "title": "AI should change wealth management’s economics, not just its margins",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-11-20T04:30:01+00:00",
-      "relevance_score": 11,
-      "url": "https://e27.co/ai-should-change-wealth-managements-economics-not-just-its-margins-20261119/",
-      "summary": "Implementation of Artificial intelligence (AI) across the industry is giving wealth firms a choice in how they use the savings it generates, whether to lower fees, serve smaller accounts, improve access to financial advisers or retain the savings as profit. H…",
       "section": "observe"
     }
   ],
