@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-20T07:57:50+00:00",
+  "generated_at": "2026-11-20T08:07:19+00:00",
   "topics": {
     "ai": [
       {
@@ -121,6 +121,13 @@
         "url": "https://openai.com/business/learn/deploying-daybreak-red"
       },
       {
+        "title": "[UPDATE] [hoch] Wireshark: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-20T08:02:00+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4672"
+      },
+      {
         "title": "[UPDATE] [hoch] PHP: Schwachstelle ermöglicht Codeausführung",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-11-20T07:47:00+00:00",
@@ -191,6 +198,13 @@
         "published_at": "2026-11-20T05:31:39.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc6c"
+      },
+      {
+        "title": "ガバメントソリューションサービスで提供しているファイル共有サービス上のファイルの漏えいの可能性について",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-11-20T07:59:49+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/press/a966ee61-478c-4194-8f13-f97599fae986"
       },
       {
         "title": "古川大臣記者会見（令和8年11月20日）動画を掲載しました",
