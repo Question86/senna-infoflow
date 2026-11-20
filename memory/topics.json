@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-20T02:58:50+00:00",
+  "generated_at": "2026-11-20T03:08:48+00:00",
   "topics": {
     "ai": [
       {
@@ -61,6 +61,13 @@
         "published_at": "2026-11-19T00:00:00+00:00",
         "relevance_score": 15,
         "url": "https://openai.com/business/learn/deploying-daybreak-red"
+      },
+      {
+        "title": "耀威光電｜智能路燈管理系統 - SQL Injection",
+        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+        "published_at": "2026-11-20T02:36:00+00:00",
+        "relevance_score": 11,
+        "url": "https://www.twcert.org.tw/tw/cp-132-11423-cb8d4-1.html"
       }
     ],
     "economy": [
