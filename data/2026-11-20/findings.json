@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-20T06:44:54+00:00",
-    "fetched_at": "2026-11-20T06:44:32+00:00",
+    "published_at": "2026-11-20T06:49:07+00:00",
+    "fetched_at": "2026-11-20T06:49:57+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "76a41358b5d1eaafd053"
+    "id": "6a269cfd23b3f064a8c7"
   },
   {
     "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
@@ -135,6 +135,30 @@
     "id": "a12d7b1726e6824b6a36"
   },
   {
+    "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2904",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-20T06:48:30+00:00",
+    "fetched_at": "2026-11-20T06:49:57+00:00",
+    "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder nicht näher beschrieben Auswirkungen zu erzielen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ae5ca7f9493d4d3013d2"
+  },
+  {
     "title": "Deploying Daybreak Red",
     "url": "https://openai.com/business/learn/deploying-daybreak-red",
     "source": "OpenAI News RSS",
@@ -155,6 +179,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "3ae477544977a74d0ad2"
+  },
+  {
+    "title": "[UPDATE] [mittel] Cpython: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0209",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-11-20T06:48:32+00:00",
+    "fetched_at": "2026-11-20T06:49:57+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Cpython ausnutzen, um Dateien zu manipulieren oder beliebigen Code auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "74a3f9e06cf4f4e55f02"
   },
   {
     "title": "We took founder bias out of the roadmap: Then our customers fired us",
@@ -539,6 +586,42 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "0004f7bbd780e6b030b6"
+  },
+  {
+    "title": "M 5.4 - 19 km NNE of Soledad, California",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ew1795157360",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-11-20T06:49:26.000+00:00",
+    "fetched_at": "2026-11-20T06:49:57+00:00",
+    "summary": "Time 2026-11-20 06:49:16 UTC 2026-11-20 06:49:16 UTC at epicenter Location 36.580°N 121.233°W Depth 9.00 km (5.59 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "62d19835b9ee1acd9b48"
   },
   {
     "title": "M 4.9 - 54 km W of Madang, Papua New Guinea",

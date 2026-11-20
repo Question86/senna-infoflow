@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-20T06:45:07+00:00_
+_Generiert: 2026-11-20T06:50:26+00:00_
 
 ## Kurzlage
 
-25 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+28 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -71,7 +71,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-20T06:44:54+00:00`, fetched `2026-11-20T06:44:32+00:00`
+  - Zeit: published `2026-11-20T06:49:07+00:00`, fetched `2026-11-20T06:49:57+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
@@ -105,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2904)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-11-20T06:48:30+00:00`, fetched `2026-11-20T06:49:57+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder nicht näher beschrieben Auswirkungen zu erzielen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Deploying Daybreak Red** — Score 15, observation — [Quelle](https://openai.com/business/learn/deploying-daybreak-red)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-11-19T00:00:00+00:00`, fetched `2026-11-20T00:24:03+00:00`
@@ -113,6 +122,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+6.0); Security (+6.0); safety (+2.0); recent (+1.0)
   - Kurz: Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [mittel] Cpython: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0209)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-11-20T06:48:32+00:00`, fetched `2026-11-20T06:49:57+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Cpython ausnutzen, um Dateien zu manipulieren oder beliebigen Code auszuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **We took founder bias out of the roadmap: Then our customers fired us** — Score 14, observation — [Quelle](https://e27.co/we-took-founder-bias-out-of-the-roadmap-then-our-customers-fired-us-20261120/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -198,14 +216,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 最近AIの返答を理解するのに時間がかかってつらかった。そこで自分の認知特性をClaude Codeに分析させ、それに合わせて返答を書かせるSkillを作った。かなり読みやすくなったので作ったものと作り方を紹介する。 作りたいと思った理由: 記憶力が低く、AIの返答を理解するのがつらかった Claude Codeの返答を読んでいて「...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.9 - 54 km W of Madang, Papua New Guinea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc6c)
+- **M 5.4 - 19 km NNE of Soledad, California** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/ew1795157360)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-11-20T05:31:39.040+00:00`, fetched `2026-11-20T05:37:57+00:00`
+  - Zeit: published `2026-11-20T06:49:26.000+00:00`, fetched `2026-11-20T06:49:57+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-11-20 05:17:45 UTC 2026-11-20 05:17:45 UTC at epicenter Location 5.219°S 145.297°E Depth 97.58 km (60.64 mi)
+  - Kurz: Time 2026-11-20 06:49:16 UTC 2026-11-20 06:49:16 UTC at epicenter Location 36.580°N 121.233°W Depth 9.00 km (5.59 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **古川大臣記者会見（令和8年11月20日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-261120-01)
   - Quelle: Japan Digital Agency News RSS / `rss`
