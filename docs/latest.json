@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T19:14:42+00:00",
-  "run_id": "2026-11-20T19:14:42+00:00",
+  "generated_at": "2026-11-20T19:20:48+00:00",
+  "run_id": "2026-11-20T19:20:48+00:00",
   "date": "2026-11-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 1,
     "today_file_total": 70,
     "displayed_findings": 70,
     "high": 0,
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-20T19:08:45+00:00",
-        "fetched_at": "2026-11-20T19:14:08+00:00",
+        "published_at": "2026-11-20T19:14:27+00:00",
+        "fetched_at": "2026-11-20T19:20:17+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "2c976b52312026224883"
+        "id": "6def3da2708ba5717dde"
       },
       {
         "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
@@ -1878,8 +1878,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T19:08:45+00:00",
-      "fetched_at": "2026-11-20T19:14:08+00:00",
+      "published_at": "2026-11-20T19:14:27+00:00",
+      "fetched_at": "2026-11-20T19:20:17+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1913,7 +1913,7 @@
         "HD",
         "LOW"
       ],
-      "id": "2c976b52312026224883"
+      "id": "6def3da2708ba5717dde"
     },
     {
       "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
@@ -3719,8 +3719,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T19:08:45+00:00",
-      "fetched_at": "2026-11-20T19:14:08+00:00",
+      "published_at": "2026-11-20T19:14:27+00:00",
+      "fetched_at": "2026-11-20T19:20:17+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -3754,28 +3754,7 @@
         "HD",
         "LOW"
       ],
-      "id": "2c976b52312026224883"
-    },
-    {
-      "title": "Can AI help scientists identify promising drug candidates?",
-      "url": "https://openai.com/index/introducing-medchembench",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-11-20T00:00:00+00:00",
-      "fetched_at": "2026-11-20T19:14:08+00:00",
-      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
-      "matched_keywords": [
-        "AI/KI",
-        "OpenAI"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "31040d41c50b7e26b9f3"
+      "id": "6def3da2708ba5717dde"
     }
   ],
   "source_errors": [],
