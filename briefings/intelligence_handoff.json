@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-20T04:02:53Z",
+  "generated_at": "2026-11-20T04:20:02Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory（2026年11月19日）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU92814490/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-11-20T09:30:00+09:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://openai.com/business/learn/deploying-daybreak-red",
       "source": "OpenAI News RSS",
       "published_at": "2026-11-19T00:00:00+00:00",
-      "age_days": 1.17,
+      "age_days": 1.18,
       "topics": [
         "ai",
         "security"
@@ -66,7 +66,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 154.09,
+      "age_days": 154.1,
       "topics": [
         "ai"
       ],
@@ -94,8 +94,8 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-11-20T03:55:20+00:00",
-      "age_days": 0.01,
+      "published_at": "2026-11-20T04:15:01+00:00",
+      "age_days": 0.0,
       "topics": [
         "ai",
         "macro",
@@ -124,7 +124,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11423-cb8d4-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-11-20T02:36:00+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -148,7 +148,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc4v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-20T01:08:52.763+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -173,7 +173,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc5s",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-20T03:25:37.760+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -193,11 +193,35 @@
       "summary": "DYFI? - II Time 2026-11-20 02:57:18 UTC 2026-11-20 02:57:18 UTC at epicenter Location 31.430°S 69.188°W Depth 113.86 km (70.75 mi)"
     },
     {
+      "title": "America’s affordability election is becoming corporate America’s accountability test",
+      "url": "https://e27.co/americas-affordability-election-is-becoming-corporate-americas-accountability-test-20261119/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-11-20T04:00:39+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "When Americans go to the polls on November 3, much of the attention will be on which party controls Congress, but for corporate America, the more consequential question may be what happens after the votes are counted. Affordability has become a defining issue in the 2026 midterm elections; from groceries and housing t…"
+    },
+    {
       "title": "AIの返答が理解しづらいので、自分の認知特性をAIに分析させてSkillにした - $shibayu36->blog;",
       "url": "https://blog.shibayu36.org/entry/2026/11/17/120000",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-18T03:37:49+00:00",
-      "age_days": 2.02,
+      "age_days": 2.03,
       "topics": [
         "ai"
       ],
@@ -223,7 +247,7 @@
       "url": "https://e27.co/everful-raises-us48-5m-series-a-to-turn-the-overseas-sourcing-office-into-software-20261120/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-11-20T03:52:18+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai",
         "macro"
@@ -249,7 +273,7 @@
       "url": "https://www.digital.go.jp/speech/minister-261120-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-11-20T01:47:54+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -273,7 +297,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003355/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-19T23:45:17+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -291,32 +315,6 @@
         "no strong comparative reason"
       ],
       "summary": "湘南美容クリニックなどを展開するSBCメディカルグループは11月19日、グループの医療機関から委託を受けて保有するデータベースが不正アクセスを受け、氏名や住所、パスワードなどを含む顧客の個人情報162万4000人分などが不正に取得されたと発表した。流出したパスワードは「暗号化せずに保存していた」という。 外部の..."
-    },
-    {
-      "title": "Dubai is selling trust, not just capital: What it means for Southeast Asian founders",
-      "url": "https://e27.co/dubai-is-selling-trust-not-just-capital-what-it-means-for-southeast-asian-founders-20261119/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-20T02:55:41+00:00",
-      "age_days": 0.05,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 4.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "When Southeast Asian founders look overseas for capital, customers, and business partners, Dubai is increasingly worth examining not simply as a place to raise money, but as a gateway to markets beyond their home region. The United Arab Emirates (UAE) has spent decades developing its position as a global centre for tr…"
     }
   ],
   "read_order": [
@@ -329,8 +327,8 @@
   "counts": {
     "bands_after_gate_recheck": {
       "strong": 5,
-      "watch": 2,
-      "quiet": 5
+      "watch": 3,
+      "quiet": 4
     }
   }
 }
