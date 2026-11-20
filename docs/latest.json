@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T17:50:35+00:00",
-  "run_id": "2026-11-20T17:50:35+00:00",
+  "generated_at": "2026-11-20T17:56:03+00:00",
+  "run_id": "2026-11-20T17:56:03+00:00",
   "date": "2026-11-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 1,
     "today_file_total": 68,
     "displayed_findings": 68,
     "high": 0,
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-20T17:39:17+00:00",
-        "fetched_at": "2026-11-20T17:50:01+00:00",
+        "published_at": "2026-11-20T17:50:19+00:00",
+        "fetched_at": "2026-11-20T17:55:27+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "ab61a40c8d789571cdc1"
+        "id": "34ecee51a9dbcd0c65f0"
       },
       {
         "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
@@ -1821,8 +1821,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T17:39:17+00:00",
-      "fetched_at": "2026-11-20T17:50:01+00:00",
+      "published_at": "2026-11-20T17:50:19+00:00",
+      "fetched_at": "2026-11-20T17:55:27+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1856,7 +1856,7 @@
         "HD",
         "LOW"
       ],
-      "id": "ab61a40c8d789571cdc1"
+      "id": "34ecee51a9dbcd0c65f0"
     },
     {
       "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
@@ -3605,8 +3605,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T17:39:17+00:00",
-      "fetched_at": "2026-11-20T17:50:01+00:00",
+      "published_at": "2026-11-20T17:50:19+00:00",
+      "fetched_at": "2026-11-20T17:55:27+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -3640,27 +3640,7 @@
         "HD",
         "LOW"
       ],
-      "id": "ab61a40c8d789571cdc1"
-    },
-    {
-      "title": "Pin your favorite repositories to your dashboard",
-      "url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-11-20T14:12:05+00:00",
-      "fetched_at": "2026-11-20T17:50:01+00:00",
-      "summary": "Choose which repositories appear on the Dashboard with the new Favorite repositories section. If the new dashboard experience isn’t enabled, Top repositories remains unchanged. Select Edit or Add repositories to… The post Pin your favorite repositories to your dashboard appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "GitHub"
-      ],
-      "relevance_score": 3,
-      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4f28eeaba07fdc001d01"
+      "id": "34ecee51a9dbcd0c65f0"
     }
   ],
   "source_errors": [],
