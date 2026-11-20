@@ -1,17 +1,17 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-20T00:59:30+00:00_
+_Generated: 2026-11-20T01:10:24+00:00_
 
 ## Status
 - status: `normal`
-- findings: `5`
+- findings: `6`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-20T00:54:34+00:00`
+- published: `2026-11-20T01:02:08+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -29,14 +29,21 @@ _Generated: 2026-11-20T00:59:30+00:00_
 - url: https://openai.com/business/learn/deploying-daybreak-red
 - summary: Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.
 
-### 4. AIの返答が理解しづらいので、自分の認知特性をAIに分析させてSkillにした - $shibayu36->blog;
+### 4. M 5.6 - southeast of the Loyalty Islands
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-11-20T01:08:52.763+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc4v
+- summary: ShakeMap - I Time 2026-11-20 00:49:13 UTC 2026-11-20 00:49:13 UTC at epicenter Location 24.702°S 171.160°E Depth 10.00 km (6.21 mi)
+
+### 5. AIの返答が理解しづらいので、自分の認知特性をAIに分析させてSkillにした - $shibayu36->blog;
 - source: Hatena Bookmark Hotentry IT
 - score: `10`
 - published: `2026-11-18T03:37:49+00:00`
 - url: https://blog.shibayu36.org/entry/2026/11/17/120000
 - summary: 最近AIの返答を理解するのに時間がかかってつらかった。そこで自分の認知特性をClaude Codeに分析させ、それに合わせて返答を書かせるSkillを作った。かなり読みやすくなったので作ったものと作り方を紹介する。 作りたいと思った理由: 記憶力が低く、AIの返答を理解するのがつらかった Claude Codeの返答を読んでいて「...
 
-### 5. Improvements on the pull request overview in public preview
+### 6. Improvements on the pull request overview in public preview
 - source: GitHub Changelog Atom
 - score: `3`
 - published: `2026-11-20T00:02:21+00:00`
