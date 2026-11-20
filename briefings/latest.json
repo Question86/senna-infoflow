@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T12:56:22+00:00",
-  "run_id": "2026-11-20T12:56:22+00:00",
+  "generated_at": "2026-11-20T13:01:51+00:00",
+  "run_id": "2026-11-20T13:01:51+00:00",
   "date": "2026-11-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 1,
     "today_file_total": 56,
     "displayed_findings": 56,
     "high": 0,
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-20T12:50:54+00:00",
-        "fetched_at": "2026-11-20T12:55:53+00:00",
+        "published_at": "2026-11-20T12:57:07+00:00",
+        "fetched_at": "2026-11-20T13:01:21+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "93288b193736f180c8d9"
+        "id": "f8804e3e81248f4e7864"
       },
       {
         "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
@@ -1528,8 +1528,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T12:50:54+00:00",
-      "fetched_at": "2026-11-20T12:55:53+00:00",
+      "published_at": "2026-11-20T12:57:07+00:00",
+      "fetched_at": "2026-11-20T13:01:21+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1563,7 +1563,7 @@
         "HD",
         "LOW"
       ],
-      "id": "93288b193736f180c8d9"
+      "id": "f8804e3e81248f4e7864"
     },
     {
       "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
@@ -3019,8 +3019,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-20T12:50:54+00:00",
-      "fetched_at": "2026-11-20T12:55:53+00:00",
+      "published_at": "2026-11-20T12:57:07+00:00",
+      "fetched_at": "2026-11-20T13:01:21+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -3054,30 +3054,7 @@
         "HD",
         "LOW"
       ],
-      "id": "93288b193736f180c8d9"
-    },
-    {
-      "title": "[NEU] [hoch] JetBrains TeamCity: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4720",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-11-20T12:52:00+00:00",
-      "fetched_at": "2026-11-20T12:55:53+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in JetBrains TeamCity ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Daten zu manipulieren, um einen Cross-Site Scripting Angriff durchzuführen und um Sicherheitsvorkehrungen zu umgehen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b89361c524dd2f84f7f2"
+      "id": "f8804e3e81248f4e7864"
     }
   ],
   "source_errors": [],
