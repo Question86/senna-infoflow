@@ -1,28 +1,42 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-20T00:24:36+00:00_
+_Generated: 2026-11-20T00:44:07+00:00_
 
 ## Status
 - status: `normal`
-- findings: `3`
+- findings: `5`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-20T00:24:23+00:00`
+- published: `2026-11-20T00:43:57+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
-### 2. Deploying Daybreak Red
+### 2. CISA ICS Advisory / ICS Medical Advisory（2026年11月19日）
+- source: JVN Japan Vulnerability Notes
+- score: `16`
+- published: `2026-11-20T09:30:00+09:00`
+- url: https://jvn.jp/vu/JVNVU92814490/
+- summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
+
+### 3. Deploying Daybreak Red
 - source: OpenAI News RSS
 - score: `15`
 - published: `2026-11-19T00:00:00+00:00`
 - url: https://openai.com/business/learn/deploying-daybreak-red
 - summary: Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.
 
-### 3. Improvements on the pull request overview in public preview
+### 4. AIの返答が理解しづらいので、自分の認知特性をAIに分析させてSkillにした - $shibayu36->blog;
+- source: Hatena Bookmark Hotentry IT
+- score: `10`
+- published: `2026-11-18T03:37:49+00:00`
+- url: https://blog.shibayu36.org/entry/2026/11/17/120000
+- summary: 最近AIの返答を理解するのに時間がかかってつらかった。そこで自分の認知特性をClaude Codeに分析させ、それに合わせて返答を書かせるSkillを作った。かなり読みやすくなったので作ったものと作り方を紹介する。 作りたいと思った理由: 記憶力が低く、AIの返答を理解するのがつらかった Claude Codeの返答を読んでいて「...
+
+### 5. Improvements on the pull request overview in public preview
 - source: GitHub Changelog Atom
 - score: `3`
 - published: `2026-11-20T00:02:21+00:00`

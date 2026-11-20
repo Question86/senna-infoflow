@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-20T00:24:36+00:00_
+_Generiert: 2026-11-20T00:44:07+00:00_
 
 ## Kurzlage
 
-3 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+5 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -14,12 +14,21 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-20T00:24:23+00:00`, fetched `2026-11-20T00:24:03+00:00`
+  - Zeit: published `2026-11-20T00:43:57+00:00`, fetched `2026-11-20T00:43:40+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **CISA ICS Advisory / ICS Medical Advisory（2026年11月19日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU92814490/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-11-20T09:30:00+09:00`, fetched `2026-11-20T00:43:40+00:00`
+  - Treffer: advisory, APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Deploying Daybreak Red** — Score 15, observation — [Quelle](https://openai.com/business/learn/deploying-daybreak-red)
   - Quelle: OpenAI News RSS / `rss`
@@ -33,6 +42,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **AIの返答が理解しづらいので、自分の認知特性をAIに分析させてSkillにした - $shibayu36->blog;** — Score 10, observation — [Quelle](https://blog.shibayu36.org/entry/2026/11/17/120000)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-11-18T03:37:49+00:00`, fetched `2026-11-20T00:43:40+00:00`
+  - Treffer: AI Agents, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 最近AIの返答を理解するのに時間がかかってつらかった。そこで自分の認知特性をClaude Codeに分析させ、それに合わせて返答を書かせるSkillを作った。かなり読みやすくなったので作ったものと作り方を紹介する。 作りたいと思った理由: 記憶力が低く、AIの返答を理解するのがつらかった Claude Codeの返答を読んでいて「...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Improvements on the pull request overview in public preview** — Score 3, observation — [Quelle](https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-11-20T00:02:21+00:00`, fetched `2026-11-20T00:24:03+00:00`
