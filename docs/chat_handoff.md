@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-20T03:49:13+00:00_
+_Generated: 2026-11-20T03:54:48+00:00_
 
 ## Status
 - status: `normal`
-- findings: `13`
+- findings: `14`
 
 ## Top Signals
 
@@ -29,28 +29,35 @@ _Generated: 2026-11-20T03:49:13+00:00_
 - url: https://openai.com/business/learn/deploying-daybreak-red
 - summary: Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.
 
-### 4. Dubai is selling trust, not just capital: What it means for Southeast Asian founders
+### 4. Everful raises US$48.5M Series A to turn the overseas sourcing office into software
+- source: e27 Asia Startup and Tech Feed
+- score: `14`
+- published: `2026-11-20T03:52:18+00:00`
+- url: https://e27.co/everful-raises-us48-5m-series-a-to-turn-the-overseas-sourcing-office-into-software-20261120/
+- summary: For decades, buying straight from a Chinese factory came with a hidden cost: a sourcing office in Shenzhen or Yiwu. That meant a few agents who spoke the language, chased samples, and knew which supplier was quietly cutting corners. Small retailers who could…
+
+### 5. Dubai is selling trust, not just capital: What it means for Southeast Asian founders
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-11-20T02:55:41+00:00`
 - url: https://e27.co/dubai-is-selling-trust-not-just-capital-what-it-means-for-southeast-asian-founders-20261119/
 - summary: When Southeast Asian founders look overseas for capital, customers, and business partners, Dubai is increasingly worth examining not simply as a place to raise money, but as a gateway to markets beyond their home region. The United Arab Emirates (UAE) has spe…
 
-### 5. M 4.8 - 24 km ESE of Calingasta, Argentina
+### 6. M 4.8 - 24 km ESE of Calingasta, Argentina
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-11-20T03:25:37.760+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc5s
 - summary: DYFI? - II Time 2026-11-20 02:57:18 UTC 2026-11-20 02:57:18 UTC at epicenter Location 31.430°S 69.188°W Depth 113.86 km (70.75 mi)
 
-### 6. 耀威光電｜智能路燈管理系統 - SQL Injection
+### 7. 耀威光電｜智能路燈管理系統 - SQL Injection
 - source: TWCERT/CC TVN Vulnerability Notes RSS
 - score: `11`
 - published: `2026-11-20T02:36:00+00:00`
 - url: https://www.twcert.org.tw/tw/cp-132-11423-cb8d4-1.html
 - summary: 耀威光電｜智能路燈管理系統 - SQL Injection
 
-### 7. M 5.6 - southeast of the Loyalty Islands
+### 8. M 5.6 - southeast of the Loyalty Islands
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-11-20T01:08:52.763+00:00`
