@@ -1,14 +1,18 @@
 # Senna Briefing
 
-_Generiert: 2026-11-20T06:50:26+00:00_
+_Generiert: 2026-11-20T06:56:02+00:00_
 
 ## Kurzlage
 
-28 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+29 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **USGS earthquake M5.1 - 10 km NW of Pinnacles, CA** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/nc75468702)
+  - Quelle: USGS
+  - Zeit: `2026-11-20T06:49:16+00:00`
+  - Kurz: M5.1 - 10 km NW of Pinnacles, CA. PAGER alert: none. Tsunami flag: 1.
 - **CISA KEV: CVE-2024-10441 Synology DiskStation Manager (DSM)** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-11-18`
@@ -216,14 +220,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 最近AIの返答を理解するのに時間がかかってつらかった。そこで自分の認知特性をClaude Codeに分析させ、それに合わせて返答を書かせるSkillを作った。かなり読みやすくなったので作ったものと作り方を紹介する。 作りたいと思った理由: 記憶力が低く、AIの返答を理解するのがつらかった Claude Codeの返答を読んでいて「...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.4 - 19 km NNE of Soledad, California** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/ew1795157360)
+- **M 5.1 - 10 km NW of Pinnacles, CA** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/nc75468702)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-11-20T06:49:26.000+00:00`, fetched `2026-11-20T06:49:57+00:00`
+  - Zeit: published `2026-11-20T06:54:11.000+00:00`, fetched `2026-11-20T06:55:33+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-11-20 06:49:16 UTC 2026-11-20 06:49:16 UTC at epicenter Location 36.580°N 121.233°W Depth 9.00 km (5.59 mi)
+  - Kurz: Time 2026-11-20 06:49:16 UTC 2026-11-20 06:49:16 UTC at epicenter Location 36.593°N 121.221°W Depth 6.70 km (4.16 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **古川大臣記者会見（令和8年11月20日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-261120-01)
   - Quelle: Japan Digital Agency News RSS / `rss`
