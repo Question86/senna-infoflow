@@ -4,8 +4,8 @@
     "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
     "source": "ReliefWeb Mindanao Recovery Watch",
     "source_type": "webpage_check",
-    "published_at": "2026-11-20T23:05:25+00:00",
-    "fetched_at": "2026-11-20T23:05:04+00:00",
+    "published_at": "2026-11-20T23:13:46+00:00",
+    "fetched_at": "2026-11-20T23:13:28+00:00",
     "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
     "matched_keywords": [
       "APAC Trend Radar",
@@ -39,7 +39,7 @@
       "HD",
       "LOW"
     ],
-    "id": "d86be93f6f2bb8116ecf"
+    "id": "3279b079a6191fad118a"
   },
   {
     "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
@@ -1708,6 +1708,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "f77dd87e3bd81de013b7"
+  },
+  {
+    "title": "「Windows Server 2028」で「WSUS」や「SMB 1.0」、「VBScript」などが削除へ／「Windows PowerShell 5.1」「WDS」は非推奨に、レガシーBIOSでの起動も不可",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2158261.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-11-20T11:11:54+00:00",
+    "fetched_at": "2026-11-20T23:13:28+00:00",
+    "summary": "「Windows Server 2028」で「WSUS」や「SMB 1.0」、「VBScript」などが削除へ／「Windows PowerShell 5.1」「WDS」は非推奨に、レガシーBIOSでの起動も不可",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6f6508ca07e7ac07c1ab"
   },
   {
     "title": "【速報】三井住友銀で情報漏えい、最大1400万件",
