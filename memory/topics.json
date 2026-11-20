@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-20T12:51:05+00:00",
+  "generated_at": "2026-11-20T12:56:22+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-11-20T12:43:59+00:00",
+        "published_at": "2026-11-20T12:50:54+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -40,6 +40,13 @@
         "url": "https://openai.com/business/learn/deploying-daybreak-red"
       },
       {
+        "title": "[NEU] [hoch] JetBrains TeamCity: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-20T12:52:00+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4720"
+      },
+      {
         "title": "Everful raises US$48.5M Series A to turn the overseas sourcing office into software",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-11-20T03:52:18+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-11-20T04:27:19+00:00",
         "relevance_score": 11,
         "url": "https://www.nikkei.com/article/DGXZQOFL200MHTQ6A121C2000000/"
-      },
-      {
-        "title": "The quiet identity crisis behind AI productivity gains",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-11-20T04:00:23+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/the-quiet-identity-crisis-behind-ai-productivity-gains-20261116/"
       }
     ],
     "security": [
@@ -103,6 +103,13 @@
         "published_at": "2026-11-19T00:00:00+00:00",
         "relevance_score": 15,
         "url": "https://openai.com/business/learn/deploying-daybreak-red"
+      },
+      {
+        "title": "[NEU] [hoch] JetBrains TeamCity: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-20T12:52:00+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4720"
       },
       {
         "title": "[NEU] [hoch] MongoDB Treiber: Mehrere Schwachstellen",
@@ -138,13 +145,6 @@
         "published_at": "2026-11-20T12:47:03+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4700"
-      },
-      {
-        "title": "[NEU] [mittel] HAProxy (HAProxy, ALOHA): Mehrere Schwachstellen ermöglichen Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-11-20T12:47:03+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4699"
       }
     ],
     "geopolitics": [
@@ -154,6 +154,13 @@
         "published_at": "2026-11-20T04:47:38+00:00",
         "relevance_score": 17,
         "url": "https://e27.co/after-openai-and-anthropic-mistral-goes-further-with-a-full-apac-hq-in-singapore-20261120/"
+      },
+      {
+        "title": "[NEU] [hoch] JetBrains TeamCity: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-11-20T12:52:00+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4720"
       },
       {
         "title": "[NEU] [hoch] MongoDB Treiber: Mehrere Schwachstellen",
@@ -210,13 +217,6 @@
         "published_at": "2026-11-20T04:00:39+00:00",
         "relevance_score": 13,
         "url": "https://e27.co/americas-affordability-election-is-becoming-corporate-americas-accountability-test-20261119/"
-      },
-      {
-        "title": "Christine Lagarde: Acting in time",
-        "source": "ECB Press Releases Speeches Interviews",
-        "published_at": "2026-11-20T08:30:00+00:00",
-        "relevance_score": 9,
-        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html"
       }
     ],
     "general": [
