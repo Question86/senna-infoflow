@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-20T03:18:38+00:00_
+_Generated: 2026-11-20T03:27:21+00:00_
 
 ## Status
 - status: `normal`
-- findings: `12`
+- findings: `13`
 
 ## Top Signals
 
@@ -36,25 +36,25 @@ _Generated: 2026-11-20T03:18:38+00:00_
 - url: https://e27.co/dubai-is-selling-trust-not-just-capital-what-it-means-for-southeast-asian-founders-20261119/
 - summary: When Southeast Asian founders look overseas for capital, customers, and business partners, Dubai is increasingly worth examining not simply as a place to raise money, but as a gateway to markets beyond their home region. The United Arab Emirates (UAE) has spe…
 
-### 5. 耀威光電｜智能路燈管理系統 - SQL Injection
+### 5. M 4.8 - 24 km ESE of Calingasta, Argentina
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-11-20T03:25:37.760+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc5s
+- summary: DYFI? - II Time 2026-11-20 02:57:18 UTC 2026-11-20 02:57:18 UTC at epicenter Location 31.430°S 69.188°W Depth 113.86 km (70.75 mi)
+
+### 6. 耀威光電｜智能路燈管理系統 - SQL Injection
 - source: TWCERT/CC TVN Vulnerability Notes RSS
 - score: `11`
 - published: `2026-11-20T02:36:00+00:00`
 - url: https://www.twcert.org.tw/tw/cp-132-11423-cb8d4-1.html
 - summary: 耀威光電｜智能路燈管理系統 - SQL Injection
 
-### 6. M 5.6 - southeast of the Loyalty Islands
+### 7. M 5.6 - southeast of the Loyalty Islands
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-11-20T01:08:52.763+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc4v
 - summary: ShakeMap - I Time 2026-11-20 00:49:13 UTC 2026-11-20 00:49:13 UTC at epicenter Location 24.702°S 171.160°E Depth 10.00 km (6.21 mi)
-
-### 7. AIの返答が理解しづらいので、自分の認知特性をAIに分析させてSkillにした - $shibayu36->blog;
-- source: Hatena Bookmark Hotentry IT
-- score: `10`
-- published: `2026-11-18T03:37:49+00:00`
-- url: https://blog.shibayu36.org/entry/2026/11/17/120000
-- summary: 最近AIの返答を理解するのに時間がかかってつらかった。そこで自分の認知特性をClaude Codeに分析させ、それに合わせて返答を書かせるSkillを作った。かなり読みやすくなったので作ったものと作り方を紹介する。 作りたいと思った理由: 記憶力が低く、AIの返答を理解するのがつらかった Claude Codeの返答を読んでいて「...
 
 END OF DOCUMENT
