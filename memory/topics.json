@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-21T04:34:24+00:00",
+  "generated_at": "2026-11-21T04:40:15+00:00",
   "topics": {
     "ai": [
       {
         "title": "Updates | ReliefWeb",
         "source": "ReliefWeb Mindanao Recovery Watch",
-        "published_at": "2026-11-21T04:28:04+00:00",
+        "published_at": "2026-11-21T04:34:13+00:00",
         "relevance_score": 23,
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan"
       },
@@ -96,6 +96,13 @@
         "published_at": "2026-11-20T19:26:02+00:00",
         "relevance_score": 8,
         "url": "https://dev.classmethod.jp/articles/aws-sts-get-scoped-credentials/"
+      },
+      {
+        "title": "イーロン・マスクが金持ちでもそんなネットで嫌われてないのって「男の子がワクワクするもの」に迷わず巨額の金を突っ込むからだと思うんだよな",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-21T03:06:24+00:00",
+        "relevance_score": 5,
+        "url": "https://togetter.com/li/2773122"
       },
       {
         "title": "NVIDIAグラボにて発生していた「SSD無限酷使」不具合の修正バージョンが配信。“何もしてない”のにSSDに数十GB書き込まれていた問題 - AUTOMATON",
