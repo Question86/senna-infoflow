@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-21T08:03:11Z",
+  "generated_at": "2026-11-21T08:20:05Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 155.25,
+      "age_days": 155.26,
       "topics": [
         "ai"
       ],
@@ -43,8 +43,8 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-11-21T07:48:55+00:00",
-      "age_days": 0.01,
+      "published_at": "2026-11-21T08:14:53+00:00",
+      "age_days": 0.0,
       "topics": [
         "ai",
         "macro",
@@ -73,7 +73,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-21T00:40:36.950+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "disaster"
       ],
@@ -98,7 +98,7 @@
       "url": "https://automaton-media.com/articles/newsjp/20261121-480255/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-21T00:45:41+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "ai"
       ],
@@ -123,7 +123,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uchd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-21T05:24:38.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -148,7 +148,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26325050",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-21T00:18:47.108+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "disaster"
       ],
@@ -173,7 +173,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uci2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-21T07:35:51.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -198,7 +198,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucgj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-21T02:40:24.040+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -223,7 +223,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucga",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-21T01:46:29.040+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "disaster"
       ],
@@ -248,7 +248,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucg8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-21T01:34:16.040+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "disaster"
       ],
@@ -272,7 +272,7 @@
       "url": "https://smhn.info/202611-gemini-subscription-third-party-harness-december-2",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-20T14:35:51+00:00",
-      "age_days": 0.73,
+      "age_days": 0.74,
       "topics": [
         "ai",
         "macro"
@@ -299,7 +299,7 @@
       "url": "https://togetter.com/li/2773122",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-21T03:06:24+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
