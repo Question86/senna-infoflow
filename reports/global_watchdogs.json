@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-21T00:22:13+00:00",
+  "generated_at": "2026-11-21T00:43:58+00:00",
   "sections": {
     "global_security": [
       {
         "domain": "security",
         "severity": "high",
-        "title": "USGS earthquake M6.9 - 22 km WNW of Ondores, Peru",
-        "summary": "M6.9 - 22 km WNW of Ondores, Peru. PAGER alert: none. Tsunami flag: 1.",
+        "title": "USGS earthquake M6.7 - 9 km NE of Carhuamayo, Peru",
+        "summary": "M6.7 - 9 km NE of Carhuamayo, Peru. PAGER alert: green. Tsunami flag: 1.",
         "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26325050",
-        "published_at": "2026-11-21T00:09:17+00:00",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm",
+        "published_at": "2026-11-21T00:09:19+00:00",
         "metrics": {
-          "mag": 6.9,
-          "alert": "",
-          "sig": 732.0,
+          "mag": 6.7,
+          "alert": "green",
+          "sig": 698.0,
           "tsunami": 1
         }
       },
@@ -106,6 +106,16 @@
         "metrics": {
           "cve": "CVE-2024-10441"
         }
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 6.7M, Depth:107.991km) in Peru 21/11/2026 00:09 UTC, 2 thousand in MMI VI.",
+        "summary": "Green earthquake (Magnitude 6.7M, Depth:107.991km) in Peru 21/11/2026 00:09 UTC, 2 thousand in MMI VI.",
+        "source": "GDACS",
+        "url": "http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1578468",
+        "published_at": "",
+        "metrics": {}
       },
       {
         "domain": "security",

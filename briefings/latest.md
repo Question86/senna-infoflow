@@ -1,18 +1,18 @@
 # Senna Briefing
 
-_Generiert: 2026-11-21T00:22:11+00:00_
+_Generiert: 2026-11-21T00:43:56+00:00_
 
 ## Kurzlage
 
-4 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+5 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **USGS earthquake M6.9 - 22 km WNW of Ondores, Peru** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/pt26325050)
+- **USGS earthquake M6.7 - 9 km NE of Carhuamayo, Peru** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm)
   - Quelle: USGS
-  - Zeit: `2026-11-21T00:09:17+00:00`
-  - Kurz: M6.9 - 22 km WNW of Ondores, Peru. PAGER alert: none. Tsunami flag: 1.
+  - Zeit: `2026-11-21T00:09:19+00:00`
+  - Kurz: M6.7 - 9 km NE of Carhuamayo, Peru. PAGER alert: green. Tsunami flag: 1.
 - **USGS earthquake M3.9 - 1 km NW of Commerce, CA** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/ci41364111)
   - Quelle: USGS
   - Zeit: `2026-11-20T11:25:35+00:00`
@@ -41,6 +41,10 @@ _Generiert: 2026-11-21T00:22:11+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-11-18`
   - Kurz: Known exploited vulnerability. Added 2026-11-18. Due 2026-11-21. Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability
+- **GDACS: Green earthquake (Magnitude 6.7M, Depth:107.991km) in Peru 21/11/2026 00:09 UTC, 2 thousand in MMI VI.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1578468)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6.7M, Depth:107.991km) in Peru 21/11/2026 00:09 UTC, 2 thousand in MMI VI.
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Southeast Of Loyalty Islands 20/11/2026 00:49 UTC, [unknown].** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1578280)
   - Quelle: GDACS
   - Zeit: ``
@@ -83,12 +87,21 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-21T00:21:59+00:00`, fetched `2026-11-21T00:21:42+00:00`
+  - Zeit: published `2026-11-21T00:43:45+00:00`, fetched `2026-11-21T00:43:29+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: Updates containing Mindanao earthquake Sarangani General Santos Glan
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 6.7 - 9 km NE of Carhuamayo, Peru** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-11-21T00:40:36.950+00:00`, fetched `2026-11-21T00:43:29+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - VI DYFI? - IV Time 2026-11-21 00:09:19 UTC 2026-11-21 00:09:19 UTC at epicenter Location 10.855°S 75.978°W Depth 107.99 km (67.10 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
