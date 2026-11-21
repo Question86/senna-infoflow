@@ -256,6 +256,42 @@
     "id": "100c746975928c04583f"
   },
   {
+    "title": "M 4.9 - 65 km NNW of Port-Vila, Vanuatu",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uci2",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-11-21T07:35:51.040+00:00",
+    "fetched_at": "2026-11-21T07:38:01+00:00",
+    "summary": "Time 2026-11-21 07:20:44 UTC 2026-11-21 07:20:44 UTC at epicenter Location 17.179°S 168.100°E Depth 43.23 km (26.86 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "99e2fc7419b08b1cbb47"
+  },
+  {
     "title": "M 4.9 - Reykjanes Ridge",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucgj",
     "source": "USGS M4.5+ Earthquakes Past Hour",
