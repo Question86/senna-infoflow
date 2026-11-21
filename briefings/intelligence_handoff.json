@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-21T09:47:03Z",
+  "generated_at": "2026-11-21T10:02:33Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 155.33,
+      "age_days": 155.34,
       "topics": [
         "ai"
       ],
@@ -43,7 +43,7 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-11-21T09:37:43+00:00",
+      "published_at": "2026-11-21T09:48:35+00:00",
       "age_days": 0.01,
       "topics": [
         "ai",
@@ -73,7 +73,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-21T00:40:36.950+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "disaster"
       ],
@@ -98,7 +98,7 @@
       "url": "https://automaton-media.com/articles/newsjp/20261121-480255/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-21T00:45:41+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "ai"
       ],
@@ -119,11 +119,36 @@
       "summary": "NVIDIAグラボにて発生していた「SSD無限酷使」不具合の修正バージョンが配信。“何もしてない”のにSSDに数十GB書き込まれていた問題 NVIDIAのGPU向けドライバー「GeForce Game Ready Driver」の一部のバージョンで、無操作中にもSSDへの書き込みが発生していた不具合が、最新バージョンにて修正されたようだ。 NVIDIAは11..."
     },
     {
+      "title": "M 6.8 - 103 km NE of Lospalos, Timor Leste",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucij",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-21T09:57:21.606+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10, palo"
+      ],
+      "summary": "ShakeMap - V Time 2026-11-21 09:42:10 UTC 2026-11-21 09:42:10 UTC at epicenter Location 7.756°S 127.543°E Depth 143.42 km (89.12 mi)"
+    },
+    {
       "title": "M 5.0 - 0 km NE of Carhuamayo, Peru",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uchd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-21T05:24:38.040+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -148,7 +173,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26325050",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-21T00:18:47.108+00:00",
-      "age_days": 0.39,
+      "age_days": 0.41,
       "topics": [
         "disaster"
       ],
@@ -173,7 +198,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uci2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-21T07:35:51.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -198,7 +223,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucgj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-21T02:40:24.040+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "disaster"
       ],
@@ -223,7 +248,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucga",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-21T01:46:29.040+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "disaster"
       ],
@@ -248,7 +273,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucg8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-21T01:34:16.040+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "disaster"
       ],
@@ -272,7 +297,7 @@
       "url": "https://smhn.info/202611-gemini-subscription-third-party-harness-december-2",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-20T14:35:51+00:00",
-      "age_days": 0.8,
+      "age_days": 0.81,
       "topics": [
         "ai",
         "macro"
@@ -293,32 +318,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "評判の悪かったGeminiですが、ようやく最近はClaudeのOpusやFable、ChatGPT CodexのAstraなどに匹敵、または超えてくるようなモデルも出てきています。 ところが、実際にGeminiに本格的に乗り換えている人はまだまだ少ない印象です。その大きな原因がついに解消されるかもしれません。 GoogleのLogan Kilpatrick氏は日本..."
-    },
-    {
-      "title": "イーロン・マスクが金持ちでもそんなネットで嫌われてないのって「男の子がワクワクするもの」に迷わず巨額の金を突っ込むからだと思うんだよな",
-      "url": "https://togetter.com/li/2773122",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-11-21T03:06:24+00:00",
-      "age_days": 0.28,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 13.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "冬のビッグセール マンガ特集 対象作品多数！12/7まで最大70％割引き中 人気作が最大70％OFF イーロン・マスク イーロン・リーヴ・マスク（英語: Elon Reeve Musk、1971年6月28日 - ）は、南アフリカ共和国出身のアメリカ合衆国の起業家。2025年以降、第2次トランプ政権下で、公式には特別政… 73 users 361 Wikipedia"
     }
   ],
   "read_order": [
