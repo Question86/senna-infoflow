@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21T11:15:45+00:00",
-  "run_id": "2026-11-21T11:15:45+00:00",
+  "generated_at": "2026-11-21T11:21:30+00:00",
+  "run_id": "2026-11-21T11:21:30+00:00",
   "date": "2026-11-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 24,
     "displayed_findings": 24,
     "high": 0,
@@ -1425,72 +1425,7 @@
       "id": "adc25b65b8b35cde3525"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-11-21T11:15:32+00:00",
-      "fetched_at": "2026-11-21T11:15:10+00:00",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "General Santos",
-        "Glan",
-        "recovery",
-        "relief",
-        "Sarangani",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "100aca4203be63422f32"
-    },
-    {
-      "title": "「パッチ地獄」が米IT障害誘発、AIがせかす脆弱性修正 銀行や空港停止 - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOGN18CYM0Y6A111C2000000/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-11-21T00:21:00+00:00",
-      "fetched_at": "2026-11-21T11:15:10+00:00",
-      "summary": "【ニューヨーク=西邨紘子、シリコンバレー=伴正春】米国の銀行や空港でシステム障害が相次ぐ。原因は個別に異なるものの、大きな背景には人工知能（AI）が膨大な脆弱性を見つけ、パッチ（修正）適用や更新を急がざるを得ない事情がある。日本のインフラも同様のリスクを抱える。マイクロソフト、チェース、ユナイテッド...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b7c04def0f1fc947087f"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
