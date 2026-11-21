@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-11-21T11:21:30+00:00_
+_Generiert: 2026-11-21T11:27:03+00:00_
 
 ## Kurzlage
 
@@ -13,10 +13,6 @@ _Generiert: 2026-11-21T11:21:30+00:00_
   - Quelle: USGS
   - Zeit: `2026-11-21T00:09:19+00:00`
   - Kurz: M6.7 - 9 km NE of Carhuamayo, Peru. PAGER alert: green. Tsunami flag: 1.
-- **USGS earthquake M3.9 - 1 km NW of Commerce, CA** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/ci41364111)
-  - Quelle: USGS
-  - Zeit: `2026-11-20T11:25:35+00:00`
-  - Kurz: M3.9 - 1 km NW of Commerce, CA. PAGER alert: green. Tsunami flag: 1.
 - **CISA KEV: CVE-2026-129448 Apache Roller** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-11-20`
@@ -69,6 +65,10 @@ _Generiert: 2026-11-21T11:21:30+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in Indonesia 18/11/2026 04:41 UTC, 6 thousand (in MMI&gt;=VII).
+- **GDACS: Green earthquake (Magnitude 5.8M, Depth:52.291km) in Papua New Guinea 18/11/2026 03:42 UTC, 120 thousand in MMI IV.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1577911)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.8M, Depth:52.291km) in Papua New Guinea 18/11/2026 03:42 UTC, 120 thousand in MMI IV.
 
 ## Wirtschaft global
 
@@ -87,7 +87,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - **Updates | ReliefWeb** — Score 23, risk — [Quelle](https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan)
   - Quelle: ReliefWeb Mindanao Recovery Watch / `webpage_check`
-  - Zeit: published `2026-11-21T11:15:32+00:00`, fetched `2026-11-21T11:15:10+00:00`
+  - Zeit: published `2026-11-21T11:24:23+00:00`, fetched `2026-11-21T11:26:32+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, General Santos, Glan, recovery, relief, Sarangani, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
