@@ -336,6 +336,27 @@
     "id": "16b598f73ecfdaa4b4a3"
   },
   {
+    "title": "NVIDIAグラボにて発生していた「SSD無限酷使」不具合の修正バージョンが配信。“何もしてない”のにSSDに数十GB書き込まれていた問題 - AUTOMATON",
+    "url": "https://automaton-media.com/articles/newsjp/20261121-480255/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-11-21T00:45:41+00:00",
+    "fetched_at": "2026-11-21T04:33:57+00:00",
+    "summary": "NVIDIAグラボにて発生していた「SSD無限酷使」不具合の修正バージョンが配信。“何もしてない”のにSSDに数十GB書き込まれていた問題 NVIDIAのGPU向けドライバー「GeForce Game Ready Driver」の一部のバージョンで、無操作中にもSSDへの書き込みが発生していた不具合が、最新バージョンにて修正されたようだ。 NVIDIAは11...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5da58786612343a98f4c"
+  },
+  {
     "title": "【分析】「私はMAGAではない」 マスク氏の方向転換が発する強烈なサイン",
     "url": "https://www.cnn.co.jp/usa/35255243.html",
     "source": "Hatena Bookmark Hotentry IT",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21T04:28:16+00:00",
-  "run_id": "2026-11-21T04:28:16+00:00",
+  "generated_at": "2026-11-21T04:34:24+00:00",
+  "run_id": "2026-11-21T04:34:24+00:00",
   "date": "2026-11-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 15
+      "configured_public_sources_only": 16
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 15,
-    "displayed_findings": 15,
+    "today_file_total": 16,
+    "displayed_findings": 16,
     "high": 0,
     "medium": 3,
-    "observe": 12,
+    "observe": 13,
     "source_errors": 0
   },
   "sections": {
@@ -366,6 +366,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "16b598f73ecfdaa4b4a3"
+      },
+      {
+        "title": "NVIDIAグラボにて発生していた「SSD無限酷使」不具合の修正バージョンが配信。“何もしてない”のにSSDに数十GB書き込まれていた問題 - AUTOMATON",
+        "url": "https://automaton-media.com/articles/newsjp/20261121-480255/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-21T00:45:41+00:00",
+        "fetched_at": "2026-11-21T04:33:57+00:00",
+        "summary": "NVIDIAグラボにて発生していた「SSD無限酷使」不具合の修正バージョンが配信。“何もしてない”のにSSDに数十GB書き込まれていた問題 NVIDIAのGPU向けドライバー「GeForce Game Ready Driver」の一部のバージョンで、無操作中にもSSDへの書き込みが発生していた不具合が、最新バージョンにて修正されたようだ。 NVIDIAは11...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5da58786612343a98f4c"
       },
       {
         "title": "【分析】「私はMAGAではない」 マスク氏の方向転換が発する強烈なサイン",
@@ -812,6 +833,27 @@
       "id": "16b598f73ecfdaa4b4a3"
     },
     {
+      "title": "NVIDIAグラボにて発生していた「SSD無限酷使」不具合の修正バージョンが配信。“何もしてない”のにSSDに数十GB書き込まれていた問題 - AUTOMATON",
+      "url": "https://automaton-media.com/articles/newsjp/20261121-480255/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-21T00:45:41+00:00",
+      "fetched_at": "2026-11-21T04:33:57+00:00",
+      "summary": "NVIDIAグラボにて発生していた「SSD無限酷使」不具合の修正バージョンが配信。“何もしてない”のにSSDに数十GB書き込まれていた問題 NVIDIAのGPU向けドライバー「GeForce Game Ready Driver」の一部のバージョンで、無操作中にもSSDへの書き込みが発生していた不具合が、最新バージョンにて修正されたようだ。 NVIDIAは11...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5da58786612343a98f4c"
+    },
+    {
       "title": "【分析】「私はMAGAではない」 マスク氏の方向転換が発する強烈なサイン",
       "url": "https://www.cnn.co.jp/usa/35255243.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -919,46 +961,25 @@
   ],
   "new_findings": [
     {
-      "title": "Updates | ReliefWeb",
-      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
-      "source": "ReliefWeb Mindanao Recovery Watch",
-      "source_type": "webpage_check",
-      "published_at": "2026-11-21T04:28:04+00:00",
-      "fetched_at": "2026-11-21T04:27:44+00:00",
-      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "title": "NVIDIAグラボにて発生していた「SSD無限酷使」不具合の修正バージョンが配信。“何もしてない”のにSSDに数十GB書き込まれていた問題 - AUTOMATON",
+      "url": "https://automaton-media.com/articles/newsjp/20261121-480255/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-21T00:45:41+00:00",
+      "fetched_at": "2026-11-21T04:33:57+00:00",
+      "summary": "NVIDIAグラボにて発生していた「SSD無限酷使」不具合の修正バージョンが配信。“何もしてない”のにSSDに数十GB書き込まれていた問題 NVIDIAのGPU向けドライバー「GeForce Game Ready Driver」の一部のバージョンで、無操作中にもSSDへの書き込みが発生していた不具合が、最新バージョンにて修正されたようだ。 NVIDIAは11...",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "General Santos",
-        "Glan",
-        "recovery",
-        "relief",
-        "Sarangani",
-        "Watchgraph:earthquakes_tsunami"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 23,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "713e97fa237692fc6588"
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5da58786612343a98f4c"
     }
   ],
   "source_errors": [],
