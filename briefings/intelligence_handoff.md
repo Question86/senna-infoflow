@@ -1,131 +1,91 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-11-21T00:05:46Z_
+_Generated: 2026-11-21T00:36:35Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] PHP: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.
+Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.
 
 ## Top Dynamics
 
-### [UPDATE] [hoch] PHP: Schwachstelle ermöglicht Codeausführung
+### Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される
 
-- Band: `krass` (raw `krass`)
-- Dynamics score: `31.0`
-- Published: `2026-11-20T07:47:00+00:00` / age_days `0.68`
-- Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: code, security high-signal: code
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4145
-
-### [UPDATE] [mittel] Cpython: Mehrere Schwachstellen
-
-- Band: `krass` (raw `krass`)
-- Dynamics score: `31.0`
-- Published: `2026-11-20T06:48:32+00:00` / age_days `0.72`
-- Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: code, auth, security high-signal: code, auth
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0209
-
-### [NEU] [hoch] MongoDB Treiber: Mehrere Schwachstellen
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `26.0`
-- Published: `2026-11-20T12:47:04+00:00` / age_days `0.47`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: security high-signal: cert-bund, bsi, security, advisory
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4701
-
-### [NEU] [hoch] Argo CD: Mehrere Schwachstellen
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `26.0`
-- Published: `2026-11-20T12:47:04+00:00` / age_days `0.47`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: security high-signal: cert-bund, bsi, security, advisory
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4702
-
-### [NEU] [hoch] JetBrains IntelliJ IDEA: Mehrere Schwachstellen
-
-- Band: `strong` (raw `krass`)
+- Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-11-20T13:02:01+00:00` / age_days `0.46`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `154.94`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4721
+- Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 154.9d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
+- Quelle: https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/
 
-### [NEU] [hoch] JetBrains TeamCity: Mehrere Schwachstellen
+### Updates | ReliefWeb
 
-- Band: `strong` (raw `krass`)
+- Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-11-20T12:52:00+00:00` / age_days `0.47`
+- Published: `2026-11-21T00:21:59+00:00` / age_days `0.01`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4720
+- Warum: early terms: earthquake, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
+- Quelle: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 
-### [NEU] [mittel] VMware Tanzu Spring Cloud: Mehrere Schwachstellen
+### M 6.9 - 22 km WNW of Ondores, Peru
 
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-11-20T12:47:03+00:00` / age_days `0.47`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4697
+- Band: `watch` (raw `watch`)
+- Dynamics score: `19.0`
+- Published: `2026-11-21T00:18:47.108+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/pt26325050
 
-### [NEU] [mittel] Mattermost-Plugins: Mehrere Schwachstellen
+### 【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表
 
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-11-20T12:47:03+00:00` / age_days `0.47`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4700
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `0`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `153.91`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +1, aging penalty -16.0 for 153.9d old signal
+- Quelle: https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html
 
-### CISA ICS Advisory / ICS Medical Advisory（2026年11月19日）
+### curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？
 
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-11-20T09:30:00+09:00` / age_days `0.98`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: security high-signal: cisa, jvn, security, advisory, official security but no high-signal phrase: capped at strong
-- Quelle: https://jvn.jp/vu/JVNVU92814490/
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `0`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `153.91`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +1, aging penalty -16.0 for 153.9d old signal
+- Quelle: https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html
 
-### [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service
+### 電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題
 
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-11-20T06:48:30+00:00` / age_days `0.72`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: security high-signal: cert-bund, bsi, security, advisory, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2904
-
-### Deploying Daybreak Red
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-11-19T00:00:00+00:00` / age_days `2.0`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: security high-signal: security, krass gate recheck: needs multi-source, identity, or official high-signal phrase
-- Quelle: https://openai.com/business/learn/deploying-daybreak-red
-
-### Southeast Asia’s robot vacuum boom puts local execution to the test
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-11-20T05:00:41+00:00` / age_days `0.8`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `0`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `153.91`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: early terms: local, high terms: execution, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
-- Quelle: https://e27.co/southeast-asias-robot-vacuum-boom-puts-local-execution-to-the-test-20261119/
+- Warum: momentum delta +1, single-source AI hype brake -8.0, aging penalty -16.0 for 153.9d old signal, single-source AI cap enforced after phrase recheck
+- Quelle: https://toyokeizai.net/articles/-/948348?display=b
+
+### MetaのAIアシスタント搭載小型デバイス「Muse Charm」の価格は4万円台か
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `0`
+- Published: `2026-11-20T04:45:14+00:00` / age_days `0.83`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://gigazine.net/news/20261120-muse-charm-may-cost-300-usd/
+
+### 「KARTE」への不正アクセスに関する当社調査結果と、サービス再開の見通し等のお知らせ
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `0`
+- Published: `2026-11-20T06:33:24+00:00` / age_days `0.75`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://plaid.co.jp/news/20261120/
 
 END OF DOCUMENT

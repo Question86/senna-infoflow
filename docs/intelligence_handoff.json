@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-11-21T00:05:46Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] PHP: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
+  "generated_at": "2026-11-21T00:36:35Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,115 +11,47 @@
   ],
   "top_dynamics": [
     {
-      "title": "[UPDATE] [hoch] PHP: Schwachstelle ermöglicht Codeausführung",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4145",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-11-20T07:47:00+00:00",
-      "age_days": 0.68,
+      "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+      "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T01:58:32+00:00",
+      "age_days": 154.94,
       "topics": [
-        "security"
+        "ai"
       ],
-      "dynamics_score": 31.0,
-      "raw_band": "krass",
-      "dynamic_band": "krass",
-      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": true,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code",
-        "security high-signal: code"
-      ],
-      "summary": "Ein Angreifer kann eine Schwachstelle in PHP ausnutzen, um beliebigen Programmcode auszuführen."
-    },
-    {
-      "title": "[UPDATE] [mittel] Cpython: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0209",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-11-20T06:48:32+00:00",
-      "age_days": 0.72,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 31.0,
-      "raw_band": "krass",
-      "dynamic_band": "krass",
-      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": true,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code, auth",
-        "security high-signal: code, auth"
-      ],
-      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Cpython ausnutzen, um Dateien zu manipulieren oder beliebigen Code auszuführen."
-    },
-    {
-      "title": "[NEU] [hoch] MongoDB Treiber: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4701",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-11-20T12:47:04+00:00",
-      "age_days": 0.47,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
+      "momentum_delta": 3,
+      "baseline_z_hint": 2.95,
       "security_high_signal": false,
-      "single_source_ai_capped": false,
+      "single_source_ai_capped": true,
       "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
+        "momentum delta +3",
+        "baseline z_hint 2.95",
+        "high terms: rce, code",
+        "security high-signal: rce, code",
+        "aging penalty -8.0 for 154.9d old signal",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in MongoDB Treibern ausnutzen, um Sicherheitsvorkehrungen zu umgehen und sensible Daten zu manipulieren oder offenzulegen."
+      "summary": ""
     },
     {
-      "title": "[NEU] [hoch] Argo CD: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4702",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-11-20T12:47:04+00:00",
-      "age_days": 0.47,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Argo CD ausnutzen, um Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Dateien zu manipulieren, einen Denial-of-Service-Zustand zu verursachen, Benutzerrechte zu erlangen oder Administrator-Token zu erzeugen."
-    },
-    {
-      "title": "[NEU] [hoch] JetBrains IntelliJ IDEA: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4721",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-11-20T13:02:01+00:00",
-      "age_days": 0.46,
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "published_at": "2026-11-21T00:21:59+00:00",
+      "age_days": 0.01,
       "topics": [
         "ai",
-        "security"
+        "macro",
+        "disaster"
       ],
       "dynamics_score": 24.9,
-      "raw_band": "krass",
+      "raw_band": "extreme",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
@@ -127,183 +59,130 @@
       "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": false,
+      "single_source_ai_capped": true,
       "why": [
-        "high terms: code",
-        "security high-signal: code",
-        "official security but no high-signal phrase: capped at strong"
+        "early terms: earthquake",
+        "high terms: rce",
+        "security high-signal: rce",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in JetBrains IntelliJ IDEA ausnutzen, um Informationen offenzulegen oder beliebigen Programmcode auszuführen."
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan"
     },
     {
-      "title": "[NEU] [hoch] JetBrains TeamCity: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4720",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-11-20T12:52:00+00:00",
-      "age_days": 0.47,
+      "title": "M 6.9 - 22 km WNW of Ondores, Peru",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26325050",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-11-21T00:18:47.108+00:00",
+      "age_days": 0.01,
       "topics": [
-        "ai",
-        "security"
+        "disaster"
       ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "high terms: code",
-        "security high-signal: code",
-        "official security but no high-signal phrase: capped at strong"
+        "early terms: earthquake",
+        "high terms: 10"
       ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in JetBrains TeamCity ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Daten zu manipulieren, um einen Cross-Site Scripting Angriff durchzuführen und um Siche…"
+      "summary": "Time 2026-11-21 00:09:17 UTC 2026-11-21 00:09:17 UTC at epicenter Location 10.980°S 76.319°W Depth 142.10 km (88.30 mi)"
     },
     {
-      "title": "[NEU] [mittel] VMware Tanzu Spring Cloud: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4697",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-11-20T12:47:03+00:00",
-      "age_days": 0.47,
+      "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
+      "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-20T02:49:51+00:00",
+      "age_days": 153.91,
       "topics": [
-        "security"
+        "general"
       ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 0,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "high terms: code",
-        "security high-signal: code",
-        "official security but no high-signal phrase: capped at strong"
+        "momentum delta +1",
+        "aging penalty -16.0 for 153.9d old signal"
       ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in VMware Tanzu Spring Cloud ausnutzen, um Informationen offenzulegen, um einen Denial of Service Angriff durchzuführen, um beliebigen Programmcode auszuführen und um Sicherheitsvorkehrungen zu umgehen."
+      "summary": ""
     },
     {
-      "title": "[NEU] [mittel] Mattermost-Plugins: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4700",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-11-20T12:47:03+00:00",
-      "age_days": 0.47,
+      "title": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-20T02:49:51+00:00",
+      "age_days": 153.91,
       "topics": [
-        "security"
+        "general"
       ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 0,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "high terms: auth",
-        "security high-signal: auth",
-        "official security but no high-signal phrase: capped at strong"
+        "momentum delta +1",
+        "aging penalty -16.0 for 153.9d old signal"
       ],
-      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Mattermost-Plugins ausnutzen, um einen Denial of Service Angriff durchzuführen, Daten zu manipulieren und vertrauliche Informationen offenzulegen."
+      "summary": ""
     },
     {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月19日）",
-      "url": "https://jvn.jp/vu/JVNVU92814490/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-11-20T09:30:00+09:00",
-      "age_days": 0.98,
+      "title": "電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題",
+      "url": "https://toyokeizai.net/articles/-/948348?display=b",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-20T02:49:51+00:00",
+      "age_days": 153.91,
       "topics": [
-        "security"
+        "ai"
       ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 0,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": false,
+      "single_source_ai_capped": true,
       "why": [
-        "security high-signal: cisa, jvn, security, advisory",
-        "official security but no high-signal phrase: capped at strong"
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "aging penalty -16.0 for 153.9d old signal",
+        "single-source AI cap enforced after phrase recheck"
       ],
-      "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
+      "summary": ""
     },
     {
-      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2904",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-11-20T06:48:30+00:00",
-      "age_days": 0.72,
+      "title": "MetaのAIアシスタント搭載小型デバイス「Muse Charm」の価格は4万円台か",
+      "url": "https://gigazine.net/news/20261120-muse-charm-may-cost-300-usd/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-20T04:45:14+00:00",
+      "age_days": 0.83,
       "topics": [
-        "security"
+        "ai"
       ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder nicht näher beschrieben Auswirkungen zu erzielen."
-    },
-    {
-      "title": "Deploying Daybreak Red",
-      "url": "https://openai.com/business/learn/deploying-daybreak-red",
-      "source": "OpenAI News RSS",
-      "published_at": "2026-11-19T00:00:00+00:00",
-      "age_days": 2.0,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: security",
-        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
-      ],
-      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring."
-    },
-    {
-      "title": "Southeast Asia’s robot vacuum boom puts local execution to the test",
-      "url": "https://e27.co/southeast-asias-robot-vacuum-boom-puts-local-execution-to-the-test-20261119/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-11-20T05:00:41+00:00",
-      "age_days": 0.8,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 0,
@@ -311,13 +190,35 @@
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "early terms: local",
-        "high terms: execution",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
-      "summary": "Vietnam’s robot vacuum market offers a striking signal of demand for household automation. Consumers spent US$92.3 million on the devices in the 12 months through June 2026, an increase of 137.6 per cent by value, according to GfK data reported by VnExpress. ECOVACS, Xiaomi, Roborock and Dreame occupied the top four p…"
+      "summary": "2026年12月のホリデーシーズンまでに発売されると予想されているMetaのAIアシスタント搭載小型デバイス「Muse Charm」が300ドル(約4万7700円)ほどになると、ニュースサイト・The Informationが報じました。Metaはこの数字を否定していません。 Meta Bets on $300 Muse Charm to Boost AI Hardware Business — The Inform..."
+    },
+    {
+      "title": "「KARTE」への不正アクセスに関する当社調査結果と、サービス再開の見通し等のお知らせ",
+      "url": "https://plaid.co.jp/news/20261120/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-20T06:33:24+00:00",
+      "age_days": 0.75,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "2026年11月13日に発生した、株式会社プレイド（本社：東京都中央区、代表取締役CEO：倉橋 健太）が提供する「KARTE」への不正アクセスについて、影響範囲および漏えいした情報を特定する当社における調査結果をお知らせいたします。あわせて、「KARTEのサービス再開の見通し」「サービス停止期間のKARTE利用料金の取り扱..."
     }
   ],
   "read_order": [
@@ -329,8 +230,9 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "krass": 2,
-      "strong": 10
+      "strong": 2,
+      "watch": 1,
+      "quiet": 5
     }
   }
 }
