@@ -1,17 +1,17 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-21T01:44:00+00:00_
+_Generated: 2026-11-21T01:49:34+00:00_
 
 ## Status
 - status: `normal`
-- findings: `11`
+- findings: `12`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-21T01:38:17+00:00`
+- published: `2026-11-21T01:46:40+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -43,11 +43,11 @@ _Generated: 2026-11-21T01:44:00+00:00_
 - url: https://japan.cnet.com/article/35255245/
 - summary: 米アンソロピックの数学者Levent Alpöge氏は11月20日、生成AI「Claude」と研究を進め、素数の分布に関わる難問「リーマン予想」の証明を見つけたとする声明を個人サイトで公開した。米マサチューセッツ工科大学（MIT）の研究者は、公開された証明コードが機械検証を通過したと報告した。追加の検証も続いている。
 
-### 6. [アップデート] AWS STS の GetScopedCredentials で権限と有効期間を絞った認証情報を作ってみた | DevelopersIO
-- source: Hatena Bookmark Hotentry IT
-- score: `8`
-- published: `2026-11-20T19:26:02+00:00`
-- url: https://dev.classmethod.jp/articles/aws-sts-get-scoped-credentials/
-- summary: [アップデート] AWS STS の GetScopedCredentials で権限と有効期間を絞った認証情報を作ってみた | DevelopersIO
+### 6. M 4.9 - Reykjanes Ridge
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-11-21T01:46:29.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucga
+- summary: Time 2026-11-21 01:26:19 UTC 2026-11-21 01:26:19 UTC at epicenter Location 58.302°N 31.761°W Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
