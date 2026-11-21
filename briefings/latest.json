@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21T13:41:58+00:00",
-  "run_id": "2026-11-21T13:41:58+00:00",
+  "generated_at": "2026-11-21T13:52:45+00:00",
+  "run_id": "2026-11-21T13:52:45+00:00",
   "date": "2026-11-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 24
+      "configured_public_sources_only": 25
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 24,
-    "displayed_findings": 24,
+    "new_relevant_findings": 2,
+    "today_file_total": 25,
+    "displayed_findings": 25,
     "high": 0,
-    "medium": 4,
+    "medium": 5,
     "observe": 20,
     "source_errors": 0
   },
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-21T13:36:33+00:00",
-        "fetched_at": "2026-11-21T13:36:31+00:00",
+        "published_at": "2026-11-21T13:47:07+00:00",
+        "fetched_at": "2026-11-21T13:52:15+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "0edd7ae4989a74e40639"
+        "id": "07657a3142666d734611"
       },
       {
         "title": "どれだけGeminiが賢くなってもAIオタクが避ける理由。ついに解消の可能性 - すまほん!!",
@@ -192,6 +192,30 @@
           "LOW"
         ],
         "id": "4dacb029a629f31a29f3"
+      },
+      {
+        "title": "GitHub - mitaku/andon: A one-person software factory: AI coding agents take tasks from a ledger through review to merge, and call the human only for decisions only they can make.",
+        "url": "https://github.com/mitaku/andon",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-11-21T10:52:10+00:00",
+        "fetched_at": "2026-11-21T13:52:15+00:00",
+        "summary": "Andon — a one-person software factory. AI coding agents take issues from a ledger through implementation, review and merge, and the human is called only for the decisions that only they can make. 一人で使うソフトウェア工場。エージェントが kanban の課題を実装・レビュー・マージまで流し、オーナーは...",
+        "matched_keywords": [
+          "agent",
+          "AI/KI",
+          "GitHub",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); agent (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b7a5b137f89e5d6a1381"
       }
     ],
     "observe": [
@@ -734,8 +758,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-21T13:36:33+00:00",
-      "fetched_at": "2026-11-21T13:36:31+00:00",
+      "published_at": "2026-11-21T13:47:07+00:00",
+      "fetched_at": "2026-11-21T13:52:15+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -769,7 +793,7 @@
         "HD",
         "LOW"
       ],
-      "id": "0edd7ae4989a74e40639"
+      "id": "07657a3142666d734611"
     },
     {
       "title": "どれだけGeminiが賢くなってもAIオタクが避ける理由。ついに解消の可能性 - すまほん!!",
@@ -892,6 +916,30 @@
         "LOW"
       ],
       "id": "4dacb029a629f31a29f3"
+    },
+    {
+      "title": "GitHub - mitaku/andon: A one-person software factory: AI coding agents take tasks from a ledger through review to merge, and call the human only for decisions only they can make.",
+      "url": "https://github.com/mitaku/andon",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-21T10:52:10+00:00",
+      "fetched_at": "2026-11-21T13:52:15+00:00",
+      "summary": "Andon — a one-person software factory. AI coding agents take issues from a ledger through implementation, review and merge, and the human is called only for the decisions that only they can make. 一人で使うソフトウェア工場。エージェントが kanban の課題を実装・レビュー・マージまで流し、オーナーは...",
+      "matched_keywords": [
+        "agent",
+        "AI/KI",
+        "GitHub",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); agent (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b7a5b137f89e5d6a1381"
     },
     {
       "title": "M 6.8 - 103 km NE of Lospalos, Timor Leste",
@@ -1425,7 +1473,74 @@
       "id": "adc25b65b8b35cde3525"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-11-21T13:47:07+00:00",
+      "fetched_at": "2026-11-21T13:52:15+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "07657a3142666d734611"
+    },
+    {
+      "title": "GitHub - mitaku/andon: A one-person software factory: AI coding agents take tasks from a ledger through review to merge, and call the human only for decisions only they can make.",
+      "url": "https://github.com/mitaku/andon",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-11-21T10:52:10+00:00",
+      "fetched_at": "2026-11-21T13:52:15+00:00",
+      "summary": "Andon — a one-person software factory. AI coding agents take issues from a ledger through implementation, review and merge, and the human is called only for the decisions that only they can make. 一人で使うソフトウェア工場。エージェントが kanban の課題を実装・レビュー・マージまで流し、オーナーは...",
+      "matched_keywords": [
+        "agent",
+        "AI/KI",
+        "GitHub",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); agent (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b7a5b137f89e5d6a1381"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
