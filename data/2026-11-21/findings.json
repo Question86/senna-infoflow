@@ -80,6 +80,42 @@
     "id": "4dacb029a629f31a29f3"
   },
   {
+    "title": "M 4.7 - 38 km NE of Calama, Chile",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucg8",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-11-21T01:34:16.040+00:00",
+    "fetched_at": "2026-11-21T01:37:14+00:00",
+    "summary": "Time 2026-11-21 01:24:09 UTC 2026-11-21 01:24:09 UTC at epicenter Location 22.231°S 68.641°W Depth 120.01 km (74.57 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "acb00d2d1b36810b687a"
+  },
+  {
     "title": "M 6.9 - 22 km WNW of Ondores, Peru",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26325050",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -136,6 +172,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "100c746975928c04583f"
+  },
+  {
+    "title": "[アップデート] AWS STS の GetScopedCredentials で権限と有効期間を絞った認証情報を作ってみた | DevelopersIO",
+    "url": "https://dev.classmethod.jp/articles/aws-sts-get-scoped-credentials/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-11-20T19:26:02+00:00",
+    "fetched_at": "2026-11-21T01:37:14+00:00",
+    "summary": "[アップデート] AWS STS の GetScopedCredentials で権限と有効期間を絞った認証情報を作ってみた | DevelopersIO",
+    "matched_keywords": [
+      "developer",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); developer (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6f99030b40741dc4d934"
   },
   {
     "title": "MetaのAIアシスタント搭載小型デバイス「Muse Charm」の価格は4万円台か",

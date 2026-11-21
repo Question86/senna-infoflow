@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-11-21T01:29:08+00:00",
+  "generated_at": "2026-11-21T01:37:42+00:00",
   "topics": {
     "ai": [
       {
@@ -56,11 +56,25 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm"
       },
       {
+        "title": "M 4.7 - 38 km NE of Calama, Chile",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-11-21T01:34:16.040+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucg8"
+      },
+      {
         "title": "M 6.9 - 22 km WNW of Ondores, Peru",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-11-21T00:18:47.108+00:00",
         "relevance_score": 11,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26325050"
+      },
+      {
+        "title": "[アップデート] AWS STS の GetScopedCredentials で権限と有効期間を絞った認証情報を作ってみた | DevelopersIO",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-11-20T19:26:02+00:00",
+        "relevance_score": 8,
+        "url": "https://dev.classmethod.jp/articles/aws-sts-get-scoped-credentials/"
       },
       {
         "title": "ZOZOTOWNの退会者含む1,518万人分の情報が漏えい WEAR by ZOZOでも1,393万人分に（ビジネス＋IT） - Yahoo!ニュース",
