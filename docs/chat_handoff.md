@@ -1,17 +1,17 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-21T02:37:56+00:00_
+_Generated: 2026-11-21T02:43:03+00:00_
 
 ## Status
 - status: `normal`
-- findings: `13`
+- findings: `14`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-21T02:25:51+00:00`
+- published: `2026-11-21T02:37:52+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
@@ -53,8 +53,8 @@ _Generated: 2026-11-21T02:37:56+00:00_
 ### 7. M 4.9 - Reykjanes Ridge
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
-- published: `2026-11-21T01:46:29.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucga
-- summary: Time 2026-11-21 01:26:19 UTC 2026-11-21 01:26:19 UTC at epicenter Location 58.302°N 31.761°W Depth 10.00 km (6.21 mi)
+- published: `2026-11-21T02:40:24.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucgj
+- summary: Time 2026-11-21 02:24:37 UTC 2026-11-21 02:24:37 UTC at epicenter Location 58.546°N 31.857°W Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
