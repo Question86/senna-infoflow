@@ -1,7 +1,22 @@
 {
-  "generated_at": "2026-11-20T23:59:06+00:00",
+  "generated_at": "2026-11-21T00:22:13+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "USGS earthquake M6.9 - 22 km WNW of Ondores, Peru",
+        "summary": "M6.9 - 22 km WNW of Ondores, Peru. PAGER alert: none. Tsunami flag: 1.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26325050",
+        "published_at": "2026-11-21T00:09:17+00:00",
+        "metrics": {
+          "mag": 6.9,
+          "alert": "",
+          "sig": 732.0,
+          "tsunami": 1
+        }
+      },
       {
         "domain": "security",
         "severity": "high",

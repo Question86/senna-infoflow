@@ -1,67 +1,39 @@
 # Senna Chat Handoff
 
-_Generated: 2026-11-20T23:59:03+00:00_
+_Generated: 2026-11-21T00:22:11+00:00_
 
 ## Status
 - status: `normal`
-- findings: `79`
+- findings: `4`
 
 ## Top Signals
 
 ### 1. Updates | ReliefWeb
 - source: ReliefWeb Mindanao Recovery Watch
 - score: `23`
-- published: `2026-11-20T23:54:45+00:00`
+- published: `2026-11-21T00:21:59+00:00`
 - url: https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan
 - summary: Updates containing Mindanao earthquake Sarangani General Santos Glan
 
-### 2. 自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス
+### 2. M 6.9 - 22 km WNW of Ondores, Peru
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-11-21T00:18:47.108+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/pt26325050
+- summary: Time 2026-11-21 00:09:17 UTC 2026-11-21 00:09:17 UTC at epicenter Location 10.980°S 76.319°W Depth 142.10 km (88.30 mi)
+
+### 3. MetaのAIアシスタント搭載小型デバイス「Muse Charm」の価格は4万円台か
 - source: Hatena Bookmark Hotentry IT
-- score: `23`
-- published: `2026-11-19T23:35:14+00:00`
-- url: https://zenn.dev/nttdata_tech/articles/9562962cc181a1
-- summary: 自分の仕事を、コーディングAgentに自律的に進めてほしい。 一度伝えたことは覚えていて、それを踏まえて、仕事の種類を問わず「私の代わりに」動いてほしい。 これが一番の動機で、2026年7月に、自律作業のための個人のハーネスを作り始めました。 ほかにも困っていたことがあります。今でこそOrcaのように、いろいろな...
+- score: `8`
+- published: `2026-11-20T04:45:14+00:00`
+- url: https://gigazine.net/news/20261120-muse-charm-may-cost-300-usd/
+- summary: 2026年12月のホリデーシーズンまでに発売されると予想されているMetaのAIアシスタント搭載小型デバイス「Muse Charm」が300ドル(約4万7700円)ほどになると、ニュースサイト・The Informationが報じました。Metaはこの数字を否定していません。 Meta Bets on $300 Muse Charm to Boost AI Hardware Business — The Inform...
 
-### 3. Security advisory permissions are now generally available
-- source: GitHub Changelog Atom
-- score: `19`
-- published: `2026-11-20T21:49:29+00:00`
-- url: https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available
-- summary: Organization owners can now let people work on repository security advisories, including private vulnerability reports, through custom repository roles. You no longer have to make them repository administrators or give… The post Security advisory permissions…
-
-### 4. [UPDATE] [hoch] Atlassian Produkte (Bamboo, Bitbucket, Confluence, Crucible, Fisheye und Jira): Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `17`
-- published: `2026-11-20T09:28:17+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-4634
-- summary: Ein Angreifer kann mehrere Schwachstellen in Atlassian Bamboo, Atlassian Bitbucket, Atlassian Confluence, Atlassian Crucible, Atlassian Fisheye und Atlassian Jira ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um einen Den…
-
-### 5. America’s affordability election is becoming corporate America’s accountability test
-- source: e27 Asia Startup and Tech Feed
-- score: `13`
-- published: `2026-11-20T04:00:39+00:00`
-- url: https://e27.co/americas-affordability-election-is-becoming-corporate-americas-accountability-test-20261119/
-- summary: When Americans go to the polls on November 3, much of the attention will be on which party controls Congress, but for corporate America, the more consequential question may be what happens after the votes are counted. Affordability has become a defining issue…
-
-### 6. Waller, Opening Remarks
-- source: Federal Reserve Speeches and Testimony
-- score: `12`
-- published: `2026-11-20T13:25:00+00:00`
-- url: https://www.federalreserve.gov/newsevents/speech/waller20261120a.htm
-- summary: Speech At the 2026 College Fed Challenge Finals, Board of Governors of the Federal Reserve System, Washington, D.C.
-
-### 7. Know your tenant: US chip rules turn Southeast Asia’s data centres into compliance desks
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-11-20T05:30:06+00:00`
-- url: https://e27.co/know-your-tenant-us-chip-rules-turn-southeast-asias-data-centres-into-compliance-desks-20261120/
-- summary: For most of this decade, Southeast Asia’s data centre operators asked prospective tenants a short list of questions: how many megawatts, how long a lease, how soon. Since November 16, that list has grown, and the question that matters most is no longer how mu…
-
-### 8. Southeast Asia’s robot vacuum boom puts local execution to the test
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-11-20T05:00:41+00:00`
-- url: https://e27.co/southeast-asias-robot-vacuum-boom-puts-local-execution-to-the-test-20261119/
-- summary: Vietnam’s robot vacuum market offers a striking signal of demand for household automation. Consumers spent US$92.3 million on the devices in the 12 months through June 2026, an increase of 137.6 per cent by value, according to GfK data reported by VnExpress.…
+### 4. 「KARTE」への不正アクセスに関する当社調査結果と、サービス再開の見通し等のお知らせ
+- source: Hatena Bookmark Hotentry IT
+- score: `5`
+- published: `2026-11-20T06:33:24+00:00`
+- url: https://plaid.co.jp/news/20261120/
+- summary: 2026年11月13日に発生した、株式会社プレイド（本社：東京都中央区、代表取締役CEO：倉橋 健太）が提供する「KARTE」への不正アクセスについて、影響範囲および漏えいした情報を特定する当社における調査結果をお知らせいたします。あわせて、「KARTEのサービス再開の見通し」「サービス停止期間のKARTE利用料金の取り扱...
 
 END OF DOCUMENT
