@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-11-21T08:20:05Z",
+  "generated_at": "2026-11-21T08:32:23Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 24,
+    "dynamics": 25,
     "bands": {
       "strong": 4,
       "watch": 8,
-      "quiet": 12
+      "quiet": 13
     },
     "bands_after_gate_recheck": {
       "strong": 4,
       "watch": 8,
-      "quiet": 12
+      "quiet": 13
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 155.26,
+      "age_days": 155.27,
       "topics": [
         "ai"
       ],
@@ -50,7 +50,7 @@
       "title": "Updates | ReliefWeb",
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
-      "published_at": "2026-11-21T08:14:53+00:00",
+      "published_at": "2026-11-21T08:28:44+00:00",
       "age_days": 0.0,
       "topics": [
         "ai",
@@ -80,7 +80,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-21T00:40:36.950+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "disaster"
       ],
@@ -130,7 +130,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uchd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-21T05:24:38.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -155,7 +155,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26325050",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-21T00:18:47.108+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "disaster"
       ],
@@ -180,7 +180,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uci2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-21T07:35:51.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -230,7 +230,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucga",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-21T01:46:29.040+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "disaster"
       ],
@@ -255,7 +255,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucg8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-11-21T01:34:16.040+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "disaster"
       ],
@@ -279,7 +279,7 @@
       "url": "https://smhn.info/202611-gemini-subscription-third-party-harness-december-2",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-20T14:35:51+00:00",
-      "age_days": 0.74,
+      "age_days": 0.75,
       "topics": [
         "ai",
         "macro"
@@ -306,7 +306,7 @@
       "url": "https://togetter.com/li/2773122",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-21T03:06:24+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -332,7 +332,7 @@
       "url": "https://news.yahoo.co.jp/articles/1739163b2e1fd496107c05cb8b455d37d52be5d9",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-20T15:59:06+00:00",
-      "age_days": 0.68,
+      "age_days": 0.69,
       "topics": [
         "general"
       ],
@@ -356,7 +356,7 @@
       "url": "https://dev.classmethod.jp/articles/aws-sts-get-scoped-credentials/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-20T19:26:02+00:00",
-      "age_days": 0.54,
+      "age_days": 0.55,
       "topics": [
         "general"
       ],
@@ -380,7 +380,7 @@
       "url": "https://www.cnn.co.jp/usa/35255243.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-21T00:39:32+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -404,7 +404,7 @@
       "url": "https://kosui.me/posts/2026/11/15/code-design-after-agents",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-21T00:35:47+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "ai"
       ],
@@ -430,7 +430,7 @@
       "url": "https://japan.cnet.com/article/35255245/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-20T23:02:01+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "ai"
       ],
@@ -455,7 +455,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 154.23,
+      "age_days": 154.24,
       "topics": [
         "general"
       ],
@@ -480,7 +480,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 154.23,
+      "age_days": 154.24,
       "topics": [
         "general"
       ],
@@ -505,7 +505,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 154.23,
+      "age_days": 154.24,
       "topics": [
         "ai"
       ],
@@ -532,7 +532,7 @@
       "url": "https://gigazine.net/news/20261120-muse-charm-may-cost-300-usd/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-20T04:45:14+00:00",
-      "age_days": 1.15,
+      "age_days": 1.16,
       "topics": [
         "ai"
       ],
@@ -553,11 +553,36 @@
       "summary": "2026年12月のホリデーシーズンまでに発売されると予想されているMetaのAIアシスタント搭載小型デバイス「Muse Charm」が300ドル(約4万7700円)ほどになると、ニュースサイト・The Informationが報じました。Metaはこの数字を否定していません。 Meta Bets on $300 Muse Charm to Boost AI Hardware Business — The Inform..."
     },
     {
+      "title": "ボールの慣性で素早いカーソル移動！奥深きトラックボールの世界 3つのスタイルに分けて計14モデルをピックアップ text by 石川 ひさよし",
+      "url": "https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2158378.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-11-21T01:24:02+00:00",
+      "age_days": 0.3,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "ボールの慣性で素早いカーソル移動！奥深きトラックボールの世界 3つのスタイルに分けて計14モデルをピックアップ text by 石川 ひさよし"
+    },
+    {
       "title": "モダンな情シスは、AIエージェントを育て、任せ、圧倒的な生産性を生む｜kajinari | モダンな情シス",
       "url": "https://note.com/kajinari/n/n19c73d819b14",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-20T15:27:05+00:00",
-      "age_days": 0.7,
+      "age_days": 0.71,
       "topics": [
         "ai"
       ],
@@ -582,7 +607,7 @@
       "url": "https://www.gizmodo.jp/article/0b0516f2-94f8-442e-bdae-2987f090be13/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-20T14:31:09+00:00",
-      "age_days": 0.74,
+      "age_days": 0.75,
       "topics": [
         "ai"
       ],
@@ -607,7 +632,7 @@
       "url": "https://plaid.co.jp/news/20261120/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-11-20T06:33:24+00:00",
-      "age_days": 1.07,
+      "age_days": 1.08,
       "topics": [
         "ai"
       ],
