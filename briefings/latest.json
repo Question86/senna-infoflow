@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-21T01:55:29+00:00",
-  "run_id": "2026-11-21T01:55:29+00:00",
+  "generated_at": "2026-11-21T02:00:46+00:00",
+  "run_id": "2026-11-21T02:00:46+00:00",
   "date": "2026-11-21",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
       "configured_public_sources_only": 12
     },
@@ -24,7 +24,7 @@
     "high": 0,
     "medium": 2,
     "observe": 10,
-    "source_errors": 0
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-21T01:54:51+00:00",
-        "fetched_at": "2026-11-21T01:54:58+00:00",
+        "published_at": "2026-11-21T02:00:30+00:00",
+        "fetched_at": "2026-11-21T02:00:05+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "0a0542e4fa6f7db4c32b"
+        "id": "841eeb8a46d31308a3f7"
       },
       {
         "title": "M 6.7 - 9 km NE of Carhuamayo, Peru",
@@ -377,8 +377,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-21T01:54:51+00:00",
-      "fetched_at": "2026-11-21T01:54:58+00:00",
+      "published_at": "2026-11-21T02:00:30+00:00",
+      "fetched_at": "2026-11-21T02:00:05+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -412,7 +412,7 @@
         "HD",
         "LOW"
       ],
-      "id": "0a0542e4fa6f7db4c32b"
+      "id": "841eeb8a46d31308a3f7"
     },
     {
       "title": "M 6.7 - 9 km NE of Carhuamayo, Peru",
@@ -717,8 +717,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-21T01:54:51+00:00",
-      "fetched_at": "2026-11-21T01:54:58+00:00",
+      "published_at": "2026-11-21T02:00:30+00:00",
+      "fetched_at": "2026-11-21T02:00:05+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -752,10 +752,17 @@
         "HD",
         "LOW"
       ],
-      "id": "0a0542e4fa6f7db4c32b"
+      "id": "841eeb8a46d31308a3f7"
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "cert_eu_security_advisories",
+      "source_name": "CERT-EU Security Advisories",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='cert.europa.eu', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
