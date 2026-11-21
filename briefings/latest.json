@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21T07:38:31+00:00",
-  "run_id": "2026-11-21T07:38:31+00:00",
+  "generated_at": "2026-11-21T07:43:50+00:00",
+  "run_id": "2026-11-21T07:43:50+00:00",
   "date": "2026-11-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-21T07:21:45+00:00",
-        "fetched_at": "2026-11-21T07:26:54+00:00",
+        "published_at": "2026-11-21T07:43:38+00:00",
+        "fetched_at": "2026-11-21T07:43:19+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "526f7c65cf642ef316bf"
+        "id": "d42296ddb8612fa5aaff"
       },
       {
         "title": "どれだけGeminiが賢くなってもAIオタクが避ける理由。ついに解消の可能性 - すまほん!!",
@@ -616,8 +616,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-21T07:21:45+00:00",
-      "fetched_at": "2026-11-21T07:26:54+00:00",
+      "published_at": "2026-11-21T07:43:38+00:00",
+      "fetched_at": "2026-11-21T07:43:19+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -651,7 +651,7 @@
         "HD",
         "LOW"
       ],
-      "id": "526f7c65cf642ef316bf"
+      "id": "d42296ddb8612fa5aaff"
     },
     {
       "title": "どれだけGeminiが賢くなってもAIオタクが避ける理由。ついに解消の可能性 - すまほん!!",
@@ -1191,19 +1191,25 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.9 - 65 km NNW of Port-Vila, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uci2",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-11-21T07:35:51.040+00:00",
-      "fetched_at": "2026-11-21T07:38:01+00:00",
-      "summary": "Time 2026-11-21 07:20:44 UTC 2026-11-21 07:20:44 UTC at epicenter Location 17.179°S 168.100°E Depth 43.23 km (26.86 mi)",
+      "title": "Updates | ReliefWeb",
+      "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
+      "source": "ReliefWeb Mindanao Recovery Watch",
+      "source_type": "webpage_check",
+      "published_at": "2026-11-21T07:43:38+00:00",
+      "fetched_at": "2026-11-21T07:43:19+00:00",
+      "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
+        "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
+        "General Santos",
+        "Glan",
+        "recovery",
+        "relief",
+        "Sarangani",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 23,
+      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); Sarangani (+2.0); General Santos (+2.0); Glan (+2.0); relief (+2.5); recovery (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
@@ -1224,7 +1230,7 @@
         "HD",
         "LOW"
       ],
-      "id": "99e2fc7419b08b1cbb47"
+      "id": "d42296ddb8612fa5aaff"
     }
   ],
   "source_errors": [],
