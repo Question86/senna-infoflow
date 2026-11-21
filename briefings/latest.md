@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-11-21T09:43:04+00:00_
+_Generiert: 2026-11-21T09:53:48+00:00_
 
 ## Kurzlage
 
-21 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk).
+21 neue relevante Treffer. Stärkstes Signal: „Updates | ReliefWeb“ aus ReliefWeb Mindanao Recovery Watch (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -37,6 +37,10 @@ _Generiert: 2026-11-21T09:43:04+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-11-18`
   - Kurz: Known exploited vulnerability. Added 2026-11-18. Due 2026-11-21. Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability
+- **USGS earthquake M6.8 - 103 km NE of Lospalos, Timor Leste** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucij)
+  - Quelle: USGS
+  - Zeit: `2026-11-21T09:42:10+00:00`
+  - Kurz: M6.8 - 103 km NE of Lospalos, Timor Leste. PAGER alert: none. Tsunami flag: 0.
 - **GDACS: Green earthquake (Magnitude 6.7M, Depth:107.991km) in Peru 21/11/2026 00:09 UTC, 2 thousand in MMI VI.** — medium — [Quelle](http://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1578468)
   - Quelle: GDACS
   - Zeit: ``
@@ -174,3 +178,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `reliefweb_mindanao_recovery_watch` (webpage_check): HTTPSConnectionPool(host='reliefweb.int', port=443): Read timed out. (read timeout=8)
