@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-21T13:25:14+00:00",
-  "run_id": "2026-11-21T13:25:14+00:00",
+  "generated_at": "2026-11-21T13:30:37+00:00",
+  "run_id": "2026-11-21T13:30:37+00:00",
   "date": "2026-11-21",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
       "configured_public_sources_only": 24
     },
@@ -24,7 +24,7 @@
     "high": 0,
     "medium": 4,
     "observe": 20,
-    "source_errors": 0
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -34,8 +34,8 @@
         "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
         "source": "ReliefWeb Mindanao Recovery Watch",
         "source_type": "webpage_check",
-        "published_at": "2026-11-21T13:16:50+00:00",
-        "fetched_at": "2026-11-21T13:24:46+00:00",
+        "published_at": "2026-11-21T13:25:03+00:00",
+        "fetched_at": "2026-11-21T13:29:59+00:00",
         "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
         "matched_keywords": [
           "APAC Trend Radar",
@@ -69,7 +69,7 @@
           "HD",
           "LOW"
         ],
-        "id": "8bff411bf53e59aa1172"
+        "id": "6b5de4ea61c4e290c5a3"
       },
       {
         "title": "どれだけGeminiが賢くなってもAIオタクが避ける理由。ついに解消の可能性 - すまほん!!",
@@ -734,8 +734,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-21T13:16:50+00:00",
-      "fetched_at": "2026-11-21T13:24:46+00:00",
+      "published_at": "2026-11-21T13:25:03+00:00",
+      "fetched_at": "2026-11-21T13:29:59+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -769,7 +769,7 @@
         "HD",
         "LOW"
       ],
-      "id": "8bff411bf53e59aa1172"
+      "id": "6b5de4ea61c4e290c5a3"
     },
     {
       "title": "どれだけGeminiが賢くなってもAIオタクが避ける理由。ついに解消の可能性 - すまほん!!",
@@ -1431,8 +1431,8 @@
       "url": "https://reliefweb.int/updates?search=Mindanao%20earthquake%20Sarangani%20General%20Santos%20Glan",
       "source": "ReliefWeb Mindanao Recovery Watch",
       "source_type": "webpage_check",
-      "published_at": "2026-11-21T13:16:50+00:00",
-      "fetched_at": "2026-11-21T13:24:46+00:00",
+      "published_at": "2026-11-21T13:25:03+00:00",
+      "fetched_at": "2026-11-21T13:29:59+00:00",
       "summary": "Updates containing Mindanao earthquake Sarangani General Santos Glan",
       "matched_keywords": [
         "APAC Trend Radar",
@@ -1466,10 +1466,17 @@
         "HD",
         "LOW"
       ],
-      "id": "8bff411bf53e59aa1172"
+      "id": "6b5de4ea61c4e290c5a3"
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "cert_eu_security_advisories",
+      "source_name": "CERT-EU Security Advisories",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='cert.europa.eu', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
